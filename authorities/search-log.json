@@ -1,0 +1,36 @@
+{
+  "accessed_at": "2026-10-19T18:22:03.777726+00:00",
+  "scope": "Selective case-law research for general temporal criminal law and self-defence; no claim of exhaustive coverage.",
+  "searches": [
+    {
+      "kind": "web_primary_search",
+      "query": "site.rechtspraak.nl ECLI:NL:HR:2011:BP6878",
+      "result": "Full primary decision identified; verified via data.rechtspraak.nl XML."
+    },
+    {
+      "kind": "web_search",
+      "query": "site.rechtspraak.nl ECLI:NL:HR:2016:456",
+      "result": "Search included secondary hits; not used as authority. Full primary decision obtained through official XML."
+    },
+    {
+      "kind": "local_corpus_exact_search",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/manifest.jsonl",
+      "query": "ECLI:NL:HR:2011:BP6878 OR ECLI:NL:HR:2016:456",
+      "results": [
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2011-bp6878.md",
+        "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2016-456.md"
+      ]
+    },
+    {
+      "kind": "primary_followup",
+      "ecli": "ECLI:NL:HR:2024:509",
+      "reason": "Recent application of the 2011 distinction; full official decision read."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2011:BP6878",
+    "ECLI:NL:HR:2016:456",
+    "ECLI:NL:HR:2024:509"
+  ],
+  "other_units": "No additional individually verified case is cited for the other drafted units. This is not a finding that no relevant case exists."
+}

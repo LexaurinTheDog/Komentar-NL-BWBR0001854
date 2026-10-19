@@ -1,0 +1,56 @@
+{
+  "stage": "authoring_incomplete",
+  "complete": false,
+  "title": "Wetboek van Strafrecht",
+  "identifier": "BWBR0001854",
+  "authoring_started": "2026-10-19",
+  "decisive_date": "2026-10-19",
+  "effective_version": "2026-07-01_0",
+  "source_checks": {
+    "official_version_verified": true,
+    "official_current_information_http": 200,
+    "official_manifest_http": 200,
+    "official_xml_http": 200,
+    "manifest_sha512_matches": true,
+    "verification_file": "sources/verification.json",
+    "changes_since_intake": "No different effective version identified. Article 23 editorial-note presentation separated; original intake preserved.",
+    "future_changes_excluded": [
+      "2027-01-01",
+      "undated pending amendments"
+    ]
+  },
+  "total_units": 812,
+  "statutory_articles": 810,
+  "completed_units": 264,
+  "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
+  "remaining_units": 548,
+  "next_unit": "a92",
+  "commentary_chars": 257597,
+  "source_text_agreement": 1.0,
+  "completeness_report_ok": true,
+  "case_law_sources": [
+    "ECLI:NL:HR:2011:BP6878",
+    "ECLI:NL:HR:2016:456",
+    "ECLI:NL:HR:2024:509"
+  ],
+  "case_law_scope": "Selective: articles 1 and 41; three complete official decisions read; local corpus consulted. No exhaustive coverage.",
+  "build_result": {
+    "ok": false,
+    "returncode": 1,
+    "reason": "548 units lack commentary",
+    "evidence": "build-result.json"
+  },
+  "validation_result": {
+    "ok": false,
+    "evidence": "validation.json",
+    "reason": "Full inventory retains 548 uncommented units"
+  },
+  "remaining_limitations": [
+    "Books II and III and wetsluiting still require original commentary (548 units).",
+    "Full shared build and strict validation cannot pass until these units are written.",
+    "The reading output is an explicitly incomplete checkpoint, not a completed book.",
+    "Case-law research and external cross-reference research remain selective.",
+    "No independent second pass or external professional approval."
+  ],
+  "updated_at": "2026-10-19T18:23:37.812370+00:00"
+}

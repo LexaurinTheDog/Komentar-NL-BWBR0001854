@@ -1,0 +1,36 @@
+{
+  "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
+  "local_links_checked": 55,
+  "broken_local_links": [
+    {
+      "file": "README.md",
+      "target": "status.json"
+    },
+    {
+      "file": "README.md",
+      "target": "validation.json"
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "build-result.json"
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "validation.json"
+    },
+    {
+      "file": "REVIEW.md",
+      "target": "status.json"
+    }
+  ],
+  "external_links": [
+    "https://github.com/LexaurinTheDog",
+    "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BP6878",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:456",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:509",
+    "https://wetten.overheid.nl/BWBR0001854/informatie"
+  ],
+  "ok": false
+}

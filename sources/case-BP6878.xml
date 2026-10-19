@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <meta name="description" content="Zoeken in uitspraken">
+    <meta charset="utf-8" />
+    <base href="/" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Rechtspraak.nl - Zoeken in uitspraken</title>
+    <!-- Uitspraken -->
+    <link href="/frontend/styles.css?v=0.157.0" rel="stylesheet" />
+
+        <script type="text/javascript">
+            (function (window, document, dataLayerName, id) {
+                function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString() } document.cookie = a + "=" + b + d + "; path=/" }
+                var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug"); stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+                var qP = []; dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), isStgDebug && qP.push("stg_debug"); var qPString = qP.length > 0 ? ("?" + qP.join("&")) : "";
+                document.write('<script src="https://statistiek.rechtspraak.nl/containers/' + id + '.sync.js' + qPString + '"></' + 'script>');
+            })(window, document, 'dataLayer', '11b7c5ed-2b4c-406d-9d93-8e2bcf98a2dd');
+        </script>
+</head>
+
+<body>
+
+    <app-root></app-root>
+
+
+        <script type="text/javascript">
+            (function (window, document, dataLayerName, id) {
+                window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({ start: (new Date).getTime(), event: "stg.start" });
+                var scripts = document.getElementsByTagName('script')[0], tags = document.createElement('script');
+                function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString() } document.cookie = a + "=" + b + d + "; path=/" }
+                var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug");
+                stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1); var qP = []; dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), isStgDebug && qP.push("stg_debug");
+                var qPString = qP.length > 0 ? ("?" + qP.join("&")) : ""; tags.async = !0, tags.src = "https://statistiek.rechtspraak.nl/containers/" + id + ".js" + qPString, scripts.parentNode.insertBefore(tags, scripts);
+                !function (a, n, i) { a[n] = a[n] || {}; for (var c = 0; c < i.length; c++)!function (i) { a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function () { var a = [].slice.call(arguments, 0); "string" == typeof a[0] && window[dataLayerName].push({ event: n + "." + i + ":" + a[0], parameters: [].slice.call(arguments, 1) }) } }(i[c]) }(window, "ppms", ["tm", "cm"]);
+            })(window, document, 'dataLayer', '11b7c5ed-2b4c-406d-9d93-8e2bcf98a2dd');
+        </script>
+        <noscript>
+            <iframe src='https://statistiek.rechtspraak.nl/containers/11b7c5ed-2b4c-406d-9d93-8e2bcf98a2dd/noscript.html' height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+
+    <script src="/frontend/runtime.js?v=0.157.0" defer></script>
+    <script src="/frontend/polyfills-es5.js?v=0.157.0" nomodule defer></script>
+    <script src="/frontend/polyfills.js?v=0.157.0" defer></script>
+    <script src="/frontend/scripts.js?v=0.157.0" defer></script>
+    <script src="/frontend/main.js?v=0.157.0" defer></script>
+</body>
+
+</html>

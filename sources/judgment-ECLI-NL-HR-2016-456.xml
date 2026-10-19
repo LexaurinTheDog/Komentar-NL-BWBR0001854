@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2016:456</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T16:14:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-03-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-03-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/04196</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:2610" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2015:2610</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2014:2422" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">In cassatie op : ECLI:NL:GHDHA:2014:2422, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=41">Wetboek van Strafrecht 41</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2016/695</rdf:li>
+          <rdf:li>RvdW 2016/452</rdf:li>
+          <rdf:li>NJ 2016/316 met annotatie van N. Rozemond</rdf:li>
+          <rdf:li>JIN 2016/90 met annotatie van M. van Kuilenburg</rdf:li>
+          <rdf:li>SR-Updates.nl 2016-0150</rdf:li>
+          <rdf:li>NbSr 2016/106 met annotatie van mr. dr. J.S. Nan</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:456">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:456</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-03-21T09:40:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-03-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2016:456 Hoge Raad , 22-03-2016 / 14/04196</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2016:456:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>HR wijst overzichtsarrest inzake noodweer en noodweerexces. In de praktijk blijken deze strafuitsluitingsgronden soms aanleiding te geven tot moeilijkheden. De HR geeft daarom in dit arrest - aan de hand van zijn eerdere rechtspraak - een samenvattend overzicht van mogelijke aandachtspunten dat bij de beoordeling van een beroep op noodweer(exces) handvatten biedt.</para>
+        <para>1. Noodweer. 2. Noodweerexces. Ad. 1 I.c. draagt 's Hofs niet onbegrijpelijke oordeel dat verdachte ver buiten de grenzen van de noodzakelijke verdediging is getreden doordat hij met dodelijk gevolg het slachtoffer zestien maal met een mes heeft gestoken en/of gesneden nadat het slachtoffer – die op dat moment kennelijk ongewapend was – een beweging maakte alsof hij de naar hem toelopende verdachte wilde aanvallen, in welk oordeel besloten ligt dat gelet op de specifieke omstandigheden van het geval die wijze van verdedigen in een onredelijke verhouding tot de ernst van de aanranding staat, de afwijzing van het beroep op noodweer zelfstandig. Ad. 2. Het Hof heeft feitelijk en niet onbegrijpelijk vastgesteld dat a.g.v. van de aanranding bij verdachte een gemoedsbeweging van beperkte intensiteit is teweeggebracht en dat sprake is geweest van een verregaande mate van overschrijding van de grenzen van de noodzakelijke verdediging. Het daarop gegronde oordeel dat het beroep op noodweerexces moet worden verworpen getuigt niet van een onjuiste rechtsopvatting, terwijl het evenmin onbegrijpelijk is en, verweven als het is met waarderingen van feitelijke aard, in cassatie niet verder kan worden getoetst.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2016:456:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>22 maart 2016</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/04196</para>
+    <para>SB</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para> </para>
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 18 juli 2014, nummer 22/004248-13, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1993.</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>	Het beroep is ingesteld door de verdachte. Namens deze heeft R.B.J.G. Baggen, advocaat te Arnhem, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal W.H. Vellinga heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het Gerechtshof dan wel verwijzing naar een aangrenzend hof teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+      <para>De raadsman heeft daarop schriftelijk gereageerd.</para>
+      <para />
+      <para>
+        <emphasis role="bold">2. 	Bewezenverklaring en beslissingen op gevoerde verweren</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+        <para>"hij op 29 mei 2013 te Rotterdam opzettelijk een persoon genaamd [slachtoffer] van het leven heeft beroofd, immers heeft verdachte opzettelijk [slachtoffer] met een mes in het gezicht en de romp en de armen en de hand(en) gestoken en/of gesneden, ten gevolge waarvan voornoemde [slachtoffer] is overleden."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Het Hof heeft het beroep op noodweer als volgt samengevat en verworpen:</para>
+        <para>"De verdediging heeft zich primair op het standpunt gesteld dat de verdachte uit noodweer heeft gehandeld, reden waarom hij van alle rechtsvervolging dient te worden ontslagen.</para>
+        <para>Het hof stelt voorop dat indien door of namens de verdachte een beroep is gedaan op noodweer, de rechter zal moeten onderzoeken of de voorwaarden voor de aanvaarding van dat verweer zijn vervuld. Die houden naar luid van artikel 41, eerste lid, van het Wetboek van Strafrecht in dat het begane feit was geboden door de noodzakelijke verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen een ogenblikkelijke, wederrechtelijke aanranding, waaronder onder omstandigheden mede is begrepen een onmiddellijk dreigend gevaar voor zo een aanranding. De vraag of een gedraging geboden is door de noodzakelijke verdediging - waarmee onder meer de proportionaliteitseis tot uitdrukking wordt gebracht - van eigen of eens anders lijf, eerbaarheid of goed leent zich niet voor beantwoording in algemene zin. Bij de beslissing daaromtrent komt mede betekenis toe aan de waardering van de feitelijke omstandigheden van het geval. Deze proportionaliteitseis strekt ertoe om niet ook dan een gedraging straffeloos te doen zijn indien zij - als verdedigingsmiddel - niet in redelijke verhouding staat tot de ernst van de aanranding (vgl. HR 24 september 2013, ECLI:NL:HR:2013:773 en HR 8 september 2009, ECLI:NL:HR:2009:BI3895).</para>
+        <para>Gedragingen van de verdachte voorafgaande aan de wederrechtelijke aanranding door het latere slachtoffer kunnen onder omstandigheden in de weg staan aan het slagen van een beroep op noodweer(exces) (vgl. HR 17 april 2012, ECLI:NL:HR:2012:BV9062 en HR 28 maart 2006, ECLI:NL:HR:2006:AU8087).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof stelt op grond van de processtukken en het onderzoek ter terechtzitting de volgende feiten en omstandigheden vast. Daarbij tekent het hof aan, dat over hetgeen er in de woning van het slachtoffer is voorgevallen in essentie slechts twee personen verklaringen hebben afgelegd: de verdachte en [betrokkene] (verder: [betrokkene]). Deze verklaringen stemmen deels overeen, maar lopen op onderdelen uiteen. Het hof is van oordeel dat het door de verdachte geschetste relaas niet enkel vanwege de op onderdelen andersluidende verklaringen van [betrokkene] als onaannemelijk terzijde geschoven kan worden. Om die reden zal het hof bij zijn beoordeling van het verweer, daar waar verschillen tussen de verklaringen van de verdachte en de verklaringen van [betrokkene] bestaan, de verklaringen van de verdachte tot uitgangspunt nemen.</para>
+        <para>De verdachte handelde in mei 2013 in verdovende middelen. Het slachtoffer was één van zijn klanten en was hem nog 10 euro schuldig. Op 29 mei 2013 is de verdachte naar de woning van het slachtoffer gegaan. Het slachtoffer had met - de toen ook in de woning aanwezige - [betrokkene] bedacht dat zij de verdachte een lesje zouden leren. Het slachtoffer heeft de verdachte binnengelaten en had op dat moment een verzwaarde sok in zijn handen. De verdachte is met het slachtoffer in gevecht geraakt, in welk gevecht ook [betrokkene] zich mengde. De voordeur van de woning was inmiddels op slot. Het lukte de verdachte niet die deur te openen. De verdachte is met een fles geslagen en met een mes bedreigd. Hij is door zowel het slachtoffer als [betrokkene] geschopt. [betrokkene] heeft de verdachte ook een kopstoot gegeven. De verdachte werd door [betrokkene] onder bedreiging van de fles en door het slachtoffer onder bedreiging van een mes gedwongen zich uit te kleden en zijn spullen af te geven, waaronder zijn voorraad verdovende middelen. [betrokkene] verliet op enig moment met die spullen de woonkamer en zei dat hij over vijf minuten terug zou komen en de verdachte dan zou vermoorden. Daarna legde het slachtoffer het mes op tafel en liep naar de bank in de woonkamer. De verdachte heeft het mes gepakt en is naar het slachtoffer gelopen. Deze draaide zich om en maakte een beweging alsof hij de verdachte wilde aanvallen. Hierop heeft de verdachte het slachtoffer zestien maal met het mes gestoken en/of gesneden.</para>
+        <para>Vorenstaande door het slachtoffer en [betrokkene] geïnitieerde handelingen zijn aan te merken als een ogenblikkelijke, wederrechtelijke aanranding van het lijf van de verdachte. Die aanranding eindigde niet op het moment waarop het slachtoffer het mes op tafel legde; een andersluidend oordeel zou de feitelijke situatie op dat moment miskennen. De verdachte bevond zich immers in een woning waarvan de voordeur op slot zat, in aanwezigheid van iemand die tot kort daarvoor nog met hem had gevochten en hem met een mes had bedreigd, wist niet of [betrokkene], die zich aan bedoelde aanranding mede schuldig had gemaakt, zich nog in de woning bevond en leefde in de veronderstelling dat deze naar de woonkamer zou terugkeren om zijn eerder geuite doodsbedreiging tot uitvoering te brengen.</para>
+        <para>Het enkele feit dat de verdachte zich - kort gezegd - als dealer in verdovende middelen in het drugscircuit heeft begeven, is geen omstandigheid die aan het slagen van een beroep op noodweer(exces) in de weg staat. De andersluidende opvatting van het openbaar ministerie vindt naar het oordeel van het hof geen steun in het recht.</para>
+        <para>Wel is het hof met het openbaar ministerie van oordeel dat het door de verdachte gekozen verdedigingsmiddel niet in redelijke verhouding staat tot de ernst van de aanranding. Van de verdachte had in redelijkheid mogen worden gevergd dat hij zich op een minder ingrijpende wijze tegen de hierboven beschreven aanranding zou hebben verdedigd. De verdachte had het mes immers inmiddels in handen en was daarmee in het voordeel. Hij had het slachtoffer met het mes kunnen bedreigen en ofwel het slachtoffer aldus kunnen dwingen de voordeur te openen ofwel kunnen proberen de woning - zoals, naar achteraf bleek, [betrokkene] had gedaan - op een andere wijze dan via de voordeur te verlaten. In plaats daarvan heeft hij er evenwel voor gekozen het slachtoffer met het mes zestien maal te steken en/of te snijden, waarmee hij ver buiten de grenzen van een noodzakelijke verdediging is getreden.</para>
+        <para>Het hof verwerpt daarom het beroep op noodweer. Het bewezen verklaarde is derhalve, nu ook overigens geen omstandigheid aannemelijk is geworden die de strafbaarheid daarvan uitsluit, strafbaar."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Het Hof heeft het beroep op noodweerexces als volgt samengevat en verworpen:</para>
+        <para>"De verdediging heeft zich subsidiair op het standpunt gesteld dat de verdachte een beroep op noodweerexces toekomt nu hij als gevolg van een hevige gemoedsbeweging, door de aanranding veroorzaakt, de grenzen van een noodzakelijke verdediging heeft overschreden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof stelt in dit verband voorop dat van een verontschuldigbare overschrijding van de grenzen van noodzakelijke verdediging slechts sprake kan zijn indien:</para>
+        <para>a. de verdachte de hem verweten gedraging heeft verricht in een situatie waarin, en op een tijdstip waarop, voor hem de noodzaak bestond tot verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen een ogenblikkelijke, wederrechtelijke aanranding, maar daarbij als onmiddellijk gevolg van een hevige door die aanranding veroorzaakte gemoedsbeweging verder gaat dan geboden is, dan wel indien</para>
+        <para>b. op het tijdstip van de aan de verdachte verweten gedraging de onder a bedoelde situatie weliswaar is beëindigd en derhalve de noodzaak tot verdediging niet meer bestaat, doch niettemin deze gedraging toch het onmiddellijk gevolg is van een hevige gemoedsbeweging veroorzaakt door de daaraan voorafgaande wederrechtelijke aanranding.</para>
+        <para>Voorts volgt uit het vereiste dat de gedraging het onmiddellijk gevolg moet zijn van een hevige gemoedsbeweging die is veroorzaakt door een wederrechtelijke aanranding, dat aannemelijk moet zijn dat de aldus veroorzaakte gemoedsbeweging van doorslaggevend belang is geweest voor de gedraging, maar niet dat geheel uitgesloten is dat andere factoren mede hebben bijgedragen aan het ontstaan van die hevige gemoedsbeweging. Bij de beantwoording van de vraag of in een concreet geval van een dergelijk "onmiddellijk gevolg" sprake is geweest, kan gewicht toekomen aan de mate waarin de grenzen van de noodzakelijke verdediging zijn overschreden alsmede aan de aard en de intensiteit van de hevige gemoedsbeweging (vgl. HR 27 mei 2008, ECLI:NL:HR:2008:BC6794).</para>
+        <para>De verdachte heeft over zijn gemoedstoestand ten tijde van het steken tegenover de politie, ten overstaan van de rechter-commissaris en tijdens het onderzoek ter terechtzitting in eerste aanleg en in hoger beroep niet veel verklaard. Hij heeft gezegd dat hij niets voelde of dacht; hij was zichzelf niet, hij was in shock en bang. Tegen de psychiater heeft de verdachte verteld dat hij erg bang was. De psycholoog heeft genoteerd dat de verdachte over diens verdediging heeft gezegd: "Ik was bang, klaar."</para>
+        <para>Op grond van vorenstaande uitlatingen stelt het hof vast dat bij de verdachte als gevolg van de aanranding weliswaar een gemoedsbeweging is teweeggebracht, maar dat deze niet als hevig valt aan te merken. Maar zelfs indien zou moeten worden aangenomen dat er wel van een hevige gemoedsbeweging sprake is geweest, komt het hof tot het oordeel dat de verdachte zich niet met vrucht op de hier besproken schulduitsluitingsgrond van artikel 41, tweede lid, van het Wetboek van Strafrecht kan beroepen, aangezien het hof, gelet op de beperkte intensiteit van de veronderstelde hevige gemoedsbeweging en gegeven de verregaande mate waarin de verdachte de grenzen van de noodzakelijke verdediging heeft overschreden, niet aannemelijk acht dat die gemoedsbeweging voor de gedraging van de verdachte - het tot zestien maal toe steken en/of snijden van het slachtoffer - van doorslaggevend belang is geweest en derhalve niet aannemelijk acht dat deze gedraging het onmiddellijk gevolg van de veronderstelde hevige gemoedsbeweging is geweest.</para>
+        <para>Het beroep op noodweerexces wordt derhalve eveneens verworpen.</para>
+        <para>Het - meer subsidiair gedane - beroep op putatief noodweer behoeft geen bespreking, aangezien het hof reeds heeft aangenomen dat van een ogenblikkelijke, wederrechtelijke aanranding sprake is geweest.</para>
+        <para>Nu het beroep op noodweerexces faalt en ook overigens geen omstandigheid aannemelijk is geworden die de strafbaarheid van de verdachte uitsluit, is de verdachte strafbaar."</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Aan de beoordeling van de middelen voorafgaande beschouwing</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>3.1.1.</nr>
+      <para>Aan een verdachte die – kort gezegd - heeft gehandeld ter verdediging, kan onder omstandigheden een beroep toekomen op de in art. 41 Sr omschreven strafuitsluitingsgronden noodweer dan wel noodweerexces. In de praktijk blijken deze strafuitsluitingsgronden soms aanleiding te geven tot moeilijkheden. De Hoge Raad geeft daarom in dit arrest - aan de hand van zijn eerdere rechtspraak - een samenvattend overzicht van mogelijke aandachtspunten dat bij de beoordeling van een beroep op noodweer(exces) handvatten biedt. Daarbij wordt eerst noodweer behandeld, vervolgens noodweerexces, en ten slotte komen kort culpa in causa en verontschuldigbare dwaling ten aanzien van noodweer aan de orde.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.2.</nr>
+      <parablock>
+        <para>Indien door of namens de verdachte een beroep op noodweer, noodweerexces of putatieve noodweer is gedaan, moet de rechter een gemotiveerde beslissing geven op dat verweer. Dan zal hij moeten onderzoeken of aan de voorwaarden voor de aanvaarding van dat verweer is voldaan. In dat verband kan betekenis toekomen aan de inhoud en indringendheid van de door of namens de verdachte aangevoerde argumenten, al behoeft de omstandigheid dat een verdachte de hem tenlastegelegde gedraging ontkent, niet zonder meer aan het slagen van een subsidiair gedaan beroep op noodweer(exces) in de weg te staan.<footnote-ref linkend="_af94cce7-cb53-47b5-adec-b9a3179c2176" /></para>
+        <para>Bij de beoordeling van het beroep kunnen nauwkeurige en consistente feitelijke vaststellingen van belang zijn, waarbij de rechter de last tot het aannemelijk maken van die feitelijke grondslag niet uitsluitend op de verdachte mag leggen.<footnote-ref linkend="_9eb6dad7-b65f-4c38-980e-4af0f20ddd60" /></para>
+        <para>Indien de rechter het beroep verwerpt, dient hij duidelijk te maken of hij de door of namens de verdachte aan het verweer ten grondslag gelegde feitelijke toedracht niet aannemelijk geworden acht, dan wel of die toedracht het beroep niet kan doen slagen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wettelijke omschrijving</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>Art. 41 Sr luidt:</para>
+        <para>"1. Niet strafbaar is hij die een feit begaat, geboden door de noodzakelijke verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding. </para>
+        <para>2. Niet strafbaar is de overschrijding van de grenzen van noodzakelijke verdediging, indien zij het onmiddellijk gevolg is geweest van een hevige gemoedsbeweging, door de aanranding veroorzaakt." </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Verdediging van specifieke rechtsgoederen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <parablock>
+        <para>Een beroep op noodweer kan niet worden aanvaard ingeval de gedraging van degene die zich op deze exceptie beroept, noch op grond van diens bedoeling, noch op grond van de uiterlijke verschijningsvorm van zijn gedraging kan worden aangemerkt als "verdediging", maar - naar de kern bezien - als aanvallend moet worden gezien, bijvoorbeeld gericht op een confrontatie of deelneming aan een gevecht.<footnote-ref linkend="_fc8f6bd2-4926-451a-bc71-51f2a93d0854" /></para>
+        <para>Uit de omschrijving van noodweer in art. 41 Sr volgt dat het bij deze strafuitsluitingsgrond gaat om de verdediging van limitatief opgesomde rechtsgoederen: "lijf, eerbaarheid of goed". Onder die rechtsgoederen is het enkele huisrecht niet begrepen.<footnote-ref linkend="_a30c62f7-ea6b-4d46-b9b4-6ecbbac197b0" /> Voorts volgt uit art. 41 Sr dat het beschermde rechtsgoed bij de verdachte zelf of bij een ander kan worden aangerand. Noodweer strekt dus verder dan zelfverdediging.</para>
+        <para>Onder omstandigheden kan ook sprake zijn van de aanranding van een "lijf" indien de bewegingsvrijheid wederrechtelijk wordt beperkt.<footnote-ref linkend="_629082b6-c920-48d2-988e-506e731b14f2" /> Het begrip "eerbaarheid" is niet zo ruim dat dat wordt aangerand door een belediging.<footnote-ref linkend="_a00abe72-3a64-49ee-90bd-4b0a9ff2935f" /> Van het begrip "goed" is een illegaal goed (zoals cocaïne) niet uitgesloten.<footnote-ref linkend="_555f779c-df41-4af8-8097-12b37dc074f0" /></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ogenblikkelijke en wederrechtelijke aanranding</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <parablock>
+        <para>Voor noodweer is vereist dat de verdediging is gericht tegen een "ogenblikkelijke, wederrechtelijke aanranding".</para>
+        <para>Van een "ogenblikkelijke" aanranding is ook sprake bij een onmiddellijk dreigend gevaar voor een aanranding.<footnote-ref linkend="_9d70e36a-1310-4628-b3af-c82f642fcb08" /> Enkele vrees voor zo'n aanranding is daartoe echter niet voldoende.<footnote-ref linkend="_043cda91-c749-48a2-a090-8d32241224e0" /> De gestelde aanranding moet in redelijkheid beschouwd zodanig bedreigend zijn voor de verdachte dat deze kan worden aangemerkt als een ogenblikkelijke aanranding in de zin van art. 41 Sr.<footnote-ref linkend="_ddba7a7c-7e58-4c40-b05a-446b584c7fcf" /></para>
+        <para>Er is geen "wederrechtelijke" aanranding wanneer bijvoorbeeld de politie rechtmatig dwangmiddelen toepast of wanneer de verdachte zich op zijn beurt verdedigt tegen iemand die zelf in noodweer handelt als reactie op een daarvóór gepleegde aanranding.<footnote-ref linkend="_a802f3a9-c9fe-4fd6-931f-9900c46d2d92" /></para>
+        <para>Wanneer de aanranding is geëindigd, is een beroep op noodweer niet (meer) mogelijk.<footnote-ref linkend="_7cd344cd-8756-4b4f-a376-3b365e70b826" /></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Geboden door de noodzakelijke verdediging</emphasis>
+        </para>
+      </parablock>
+      <paragroup>
+        <nr>3.5.1.</nr>
+        <parablock>
+          <para>In het voor noodweer geldende vereiste dat de gedraging is "geboden door de noodzakelijke verdediging" worden zowel de zogenoemde subsidiariteits- als de proportionaliteitseis tot uitdrukking gebracht. Deze met elkaar samenhangende en niet altijd scherp te onderscheiden eisen hebben betrekking op de vraag of de verdediging tegen de aanranding noodzakelijk was, respectievelijk op de vraag of de gekozen wijze van verdediging tegen de aanranding geboden was.<footnote-ref linkend="_1b5b8159-cfd4-40ab-9336-936f87402a73" /></para>
+          <para>Zeker bij deze eisen kan de persoon van degene die zich op noodweer beroept, van belang zijn. Van de ene persoon mag bijvoorbeeld op grond van zijn hoedanigheid of bijzondere vaardigheden meer worden gevergd op het vlak van de proportionaliteit dan van een ander.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Noodzaak van verdediging en onttrekkingsvereiste</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2.</nr>
+        <parablock>
+          <para>Aan de subsidiariteitseis is niet voldaan indien de verdachte zich niet behoefde te verdedigen en er dus geen noodzaak tot verdediging bestond.</para>
+          <para>Daarvan is bijvoorbeeld sprake indien de verdachte zich niet alleen aan de aanranding had kunnen, maar zich daaraan ook had moeten onttrekken. Bij de verwerping van een beroep op noodweer kan dus niet worden volstaan met het enkele argument dat de verdachte zich aan de aanranding had kunnen onttrekken.</para>
+          <para>Het zich aan de aanranding kunnen onttrekken houdt in dat daartoe voor de verdachte een reële en redelijke mogelijkheid moet hebben bestaan. Dit is bijvoorbeeld niet het geval wanneer de positie van de verdachte en de ruimte waarin hij zich bevindt, redelijkerwijs geen mogelijkheid bieden tot onttrekking aan de aanranding.<footnote-ref linkend="_6aaca81e-d2f0-47b9-8762-f0e0ea7e2de5" /></para>
+          <para>Onttrekking aan de aanranding moet voorts van de verdachte kunnen worden gevergd. Dit behoeft bijvoorbeeld niet het geval te zijn wanneer de situatie zo bedreigend is dat zich onttrekken aan de aanranding geen reëel alternatief is.<footnote-ref linkend="_d69f8920-0d2a-4300-878e-3bcbc49c1e8c" /> Ook bij een aanranding van anderen kan zich het geval voordoen dat men zich niet behoefde te onttrekken aan de aanranding. Bovendien kan iemands hoedanigheid – bijvoorbeeld die van politieambtenaar of van een op basis van art. 53 Sv optredend persoon - hier van belang zijn. </para>
+          <para>
+            <emphasis role="italic">Verdediging moet geboden zijn</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.3.</nr>
+        <para>De proportionaliteitseis strekt ertoe om niet ook dan een gedraging straffeloos te doen zijn indien zij – als verdedigingsmiddel – niet in redelijke verhouding staat tot de ernst van de aanranding.<footnote-ref linkend="_acd39c57-4579-40cb-a103-25a4b47d105e" /> De in dat verband – tot terughoudendheid nopende – maatstaf luidt of de gedraging als verdedigingsmiddel niet in onredelijke verhouding staat tot de ernst van de aanranding. De keuze van het verdedigingsmiddel en de wijze waarop het is gebruikt, staan bij de beoordeling van de proportionaliteit centraal. Zo staat in beginsel het met kracht toebrengen van een diepe, potentieel dodelijke steekwond niet in verhouding met een aanval die bestaat uit het slaan met de blote handen dan wel een vuist.<footnote-ref linkend="_f7d7693a-21cb-4587-90a2-798689b3f370" /></para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Noodweerexces</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.1.</nr>
+        <para>Noodweerexces kan in beeld komen bij een "overschrijding van de grenzen van de noodzakelijke verdediging", dus wanneer aan alle voorgaande eisen is voldaan behalve aan de proportionaliteitseis. Wat de subsidiariteitseis betreft, verdient opmerking dat voor een beroep op noodweerexces geldt dat er wel een noodzaak tot verdediging moet zijn of moet zijn geweest.<footnote-ref linkend="_08e81342-0417-4f14-a85c-389af7572de4" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2.</nr>
+        <para>Voor noodweerexces geldt in alle gevallen dat van verontschuldigbare overschrijding van de grenzen van noodzakelijke verdediging slechts sprake kan zijn indien:</para>
+        <para>a. de verdachte de hem verweten gedraging heeft verricht in een situatie waarin en op een tijdstip waarop voor hem de noodzaak bestond tot verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen een ogenblikkelijke, wederrechtelijke aanranding, maar daarbij als onmiddellijk gevolg van een hevige door die aanranding veroorzaakte gemoedsbeweging verder gaat dan geboden was, dan wel indien</para>
+        <para>b. op het tijdstip van de hem verweten gedraging de onder a bedoelde situatie weliswaar was beëindigd en de noodzaak tot verdediging er dus wel was geweest (maar niet meer bestond), doch zijn gedraging niettemin het onmiddellijk gevolg was van een hevige gemoedsbeweging die was veroorzaakt door de daaraan voorafgaande wederrechtelijke aanranding.<footnote-ref linkend="_59abda81-9f3d-497e-98d8-47afa863b6a0" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.3.</nr>
+        <parablock>
+          <para>Uit het wettelijke vereiste dat de gedraging het "onmiddellijk gevolg" moet zijn van een hevige gemoedsbeweging die is veroorzaakt door een wederrechtelijke aanranding, volgt dat aannemelijk moet zijn dat de aldus veroorzaakte gemoedsbeweging van doorslaggevend belang is geweest voor de verweten gedraging. Niet is uitgesloten dat andere factoren mede hebben bijgedragen aan het ontstaan van die hevige gemoedsbeweging,<footnote-ref linkend="_d09cdcd8-a678-4a80-8b06-e2906d4b2fb8" /> maar aan het gevolgvereiste is niet voldaan indien de hevige gemoedsbeweging in essentie is terug te voeren op een eerder bestaande emotie, zoals een reeds bestaande kwaadheid jegens het slachtoffer.<footnote-ref linkend="_9e877cb1-6fa7-4526-8080-ec6ccc2a265b" /></para>
+          <para>Bij de beantwoording van de vraag of in een concreet geval sprake is van het hier bedoelde "onmiddellijk gevolg", kan betekenis toekomen aan de mate waarin de grenzen van de noodzakelijke verdediging zijn overschreden alsmede aan de aard en de intensiteit van de hevige gemoedsbeweging.<footnote-ref linkend="_98d52aab-1e6f-4368-b83b-c40175698363" /> Voorts kan het tijdsverloop tussen de aanranding en de verdedigingshandeling van belang zijn.<footnote-ref linkend="_8b3ac321-1cf4-4a2d-bf7d-993f9839b180" /></para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.4.</nr>
+        <para>Niet op voorhand kan worden uitgesloten dat een beroep op noodweerexces mogelijk is in gevallen waarin de ogenblikkelijke wederrechtelijke aanranding niet direct van het slachtoffer zelf uitging. Dit kan zich bijvoorbeeld voordoen in situaties waarin het slachtoffer wel een aandeel had in de aanranding of de dreiging daarvan, of waarin sprake was van andere gedragingen van het slachtoffer waarvan redelijkerwijs moet worden aangenomen dat die ertoe hebben geleid dat de verdachte - handelende in een hevige gemoedsbeweging - zich op het slachtoffer richtte.<footnote-ref linkend="_92ae3bde-fd0f-422c-a419-b0fae49478f6" /></para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Enkele bijzondere onderwerpen</emphasis>
+          </para>
+          <para>
+            <emphasis role="italic">"Culpa in causa"</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.7.1.</nr>
+        <para>Gedragingen van de verdachte die aan de wederrechtelijke aanranding door het latere slachtoffer zijn voorafgegaan, kunnen in de weg staan aan het slagen van een beroep op noodweer of noodweerexces, maar slechts onder bijzondere omstandigheden. Van zulke bijzondere omstandigheden kan bijvoorbeeld sprake zijn indien de verdachte de aanval heeft uitgelokt door provocatie van het latere slachtoffer en hij aldus uit was op een confrontatie, of wanneer hij willens en wetens de confrontatie met het slachtoffer heeft gezocht en een gewelddadige reactie van het slachtoffer heeft uitgelokt.<footnote-ref linkend="_060b7a05-5291-4cf2-bab7-6220859dea52" /> De enkele omstandigheid dat een verdachte zich willens en wetens in een situatie heeft begeven waarin een agressieve reactie van het latere slachtoffer te verwachten viel<footnote-ref linkend="_86067f57-3475-443d-9dc8-1327ff2da670" /> of dat een verdachte zich in verband met een mogelijke aanval van het slachtoffer als voorzorgsmaatregel van een illegaal vuurwapen had voorzien, is daartoe evenwel onvoldoende.<footnote-ref linkend="_9fef2500-9c74-4172-a939-9d78a87958a4" /></para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Verontschuldigbare dwaling ten aanzien van noodweer</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.7.2.</nr>
+        <para>Indien door of namens de verdachte een beroep is gedaan op zogenoemde putatieve noodweer, zal de rechter moeten onderzoeken of sprake was van verontschuldigbare dwaling aan de kant van de verdachte, bijvoorbeeld omdat hij niet alleen kon, maar redelijkerwijs ook mocht menen dat hij zich moest verdedigen op de wijze als hij heeft gedaan omdat hij verontschuldigbaar zich het dreigende gevaar heeft ingebeeld dan wel de aard van de dreiging verkeerd heeft beoordeeld. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het eerste, het tweede en het derde middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De middelen klagen dat het Hof het beroep op noodweer ten onrechte, althans op ontoereikende gronden heeft verworpen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Het Hof heeft vastgesteld dat de verdachte in de woning van [slachtoffer], nadat hij door [slachtoffer] met een verzwaarde sok was bedreigd, met [slachtoffer] in gevecht is geraakt, in welk gevecht ook [betrokkene] zich mengde. De voordeur van de woning was inmiddels op slot. De verdachte is met een fles geslagen, met een mes bedreigd en meerdere malen door [slachtoffer] en [betrokkene] geschopt. [betrokkene] heeft de verdachte een kopstoot gegeven. Vervolgens hebben [slachtoffer] en [betrokkene] onder bedreiging met de fles en een mes de verdachte gedwongen zich uit te kleden en zijn spullen af te geven, waaronder een voorraad verdovende middelen. [betrokkene] heeft vervolgens de woonkamer verlaten nadat hij had gedreigd dat hij na vijf minuten zou terugkomen en dat hij dan de verdachte zou vermoorden. De verdachte heeft het mes, dat door [slachtoffer] op tafel was gelegd, gepakt en is naar [slachtoffer] gelopen. Deze draaide zich om en maakte een beweging alsof hij de verdachte wilde aanvallen. Daarop heeft de verdachte [slachtoffer] zestien maal gestoken en/of gesneden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De middelen kunnen niet tot cassatie leiden. 's Hofs niet onbegrijpelijke oordeel dat de verdachte ver buiten de grenzen van de noodzakelijke verdediging is getreden doordat hij met dodelijk gevolg [slachtoffer] zestien maal met een mes heeft gestoken en/of gesneden nadat [slachtoffer] – die op dat moment kennelijk ongewapend was – een beweging maakte alsof hij de naar hem toelopende verdachte wilde aanvallen, in welk oordeel besloten ligt dat gelet op de specifieke omstandigheden van het geval die wijze van verdedigen in een onredelijke verhouding tot de ernst van de aanranding staat, draagt immers - gelet op hetgeen hiervoor onder 3.5.3 is vooropgesteld - de afwijzing van het beroep op noodweer zelfstandig. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>Beoordeling van het vierde middel</title>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Het middel klaagt dat het Hof het beroep op noodweerexces ten onrechte, althans op ontoereikende gronden heeft verworpen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Het Hof heeft feitelijk en niet onbegrijpelijk vastgesteld dat als gevolg van de aanranding bij de verdachte een gemoedsbeweging van beperkte intensiteit is teweeggebracht en dat sprake is geweest van een verregaande mate van overschrijding van de grenzen van de noodzakelijke verdediging. Het daarop gegronde oordeel dat het beroep op noodweerexces moet worden verworpen getuigt, gelet op hetgeen hiervoor onder 3.6.3 is vooropgesteld, niet van een onjuiste rechtsopvatting, terwijl het evenmin onbegrijpelijk is en, verweven als het is met waarderingen van feitelijke aard, in cassatie niet verder kan worden getoetst.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Het middel faalt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>6</nr>Ambtshalve beoordeling van de bestreden uitspraak</title>
+    <para />
+    <parablock>
+      <para>	De verdachte bevindt zich in voorlopige hechtenis. De Hoge Raad doet uitspraak nadat meer dan zestien maanden zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot vermindering van de aan de verdachte opgelegde gevangenisstraf van vier jaren.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>7</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>	Nu geen van de middelen tot cassatie kan leiden, terwijl de Hoge Raad geen andere dan de hiervoor onder 6 genoemde grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>8</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>vermindert deze in die zin dat deze drie jaren en tien maanden beloopt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu, Y. Buruma, E.S.G.N.A.I. van de Griend en A.L.J. van Strien, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">22 maart 2016</emphasis>.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_af94cce7-cb53-47b5-adec-b9a3179c2176" label="1">
+    <para> Vgl. HR 10 februari 2004, ECLI:NL:HR:2004:AN9913, NJ 2004/286.</para>
+  </footnote>
+  <footnote id="_9eb6dad7-b65f-4c38-980e-4af0f20ddd60" label="2">
+    <para> Vgl. HR 3 juni 1997, ECLI:NL:HR:1997:ZD0737, NJ 1997/657.</para>
+  </footnote>
+  <footnote id="_fc8f6bd2-4926-451a-bc71-51f2a93d0854" label="3">
+    <para> Vgl. HR 8 juni 2010, ECLI:NL:HR:2010:BK4788, NJ 2010/339.</para>
+  </footnote>
+  <footnote id="_a30c62f7-ea6b-4d46-b9b4-6ecbbac197b0" label="4">
+    <para> Vgl. HR 14 april 1998, ECLI:NL:HR:1998:ZD1015, NJ 1998/662.</para>
+  </footnote>
+  <footnote id="_629082b6-c920-48d2-988e-506e731b14f2" label="5">
+    <para> Vgl. HR 17 december 1996, ECLI:NL:HR:1996:ZD0604, NJ 1997/262.</para>
+  </footnote>
+  <footnote id="_a00abe72-3a64-49ee-90bd-4b0a9ff2935f" label="6">
+    <para> Vgl. HR 8 januari 1917, NJ 1917, p. 175 e.v.</para>
+  </footnote>
+  <footnote id="_555f779c-df41-4af8-8097-12b37dc074f0" label="7">
+    <para> Vgl. HR 7 juli 2015, ECLI:NL:HR:2015:1786, NJ 2016/39.</para>
+  </footnote>
+  <footnote id="_9d70e36a-1310-4628-b3af-c82f642fcb08" label="8">
+    <para> Vgl. HR 30 maart 1976, ECLI:NL:HR:1976:AB6419, NJ 1976/322.</para>
+  </footnote>
+  <footnote id="_043cda91-c749-48a2-a090-8d32241224e0" label="9">
+    <para> Vgl. HR 8 februari 1932, NJ 1932, p. 617 e.v.</para>
+  </footnote>
+  <footnote id="_ddba7a7c-7e58-4c40-b05a-446b584c7fcf" label="10">
+    <para> Vgl. HR 18 september 1989, ECLI:NL:HR:1989:ZC8183, NJ 1990/291.</para>
+  </footnote>
+  <footnote id="_a802f3a9-c9fe-4fd6-931f-9900c46d2d92" label="11">
+    <para> Vgl. HR 4 januari 2011, ECLI:NL:HR:2011:BO4475, NJ 2011/36.</para>
+  </footnote>
+  <footnote id="_7cd344cd-8756-4b4f-a376-3b365e70b826" label="12">
+    <para> Vgl. HR 12 juni 2007, ECLI:NL:HR:2007:BA0423.</para>
+  </footnote>
+  <footnote id="_1b5b8159-cfd4-40ab-9336-936f87402a73" label="13">
+    <para> Vgl. HR 13 juni 1989, ECLI:NL:HR:1989:AC3119, NJ 1990/193.</para>
+  </footnote>
+  <footnote id="_6aaca81e-d2f0-47b9-8762-f0e0ea7e2de5" label="14">
+    <para> Vgl. HR 13 oktober 2009, ECLI:NL:HR:2009:BK0035.</para>
+  </footnote>
+  <footnote id="_d69f8920-0d2a-4300-878e-3bcbc49c1e8c" label="15">
+    <para> Vgl. HR 6 oktober 2009, ECLI:NL:HR:2009:BI3874, NJ 2010/301 en <?linebreak?>HR 12 juni 2012, ECLI:NL:HR:2012:BW7944, NJ 2012/380.</para>
+  </footnote>
+  <footnote id="_acd39c57-4579-40cb-a103-25a4b47d105e" label="16">
+    <para> Vgl. HR 8 september 2009, ECLI:NL:HR:2009:BI3895, NJ 2010/391.</para>
+  </footnote>
+  <footnote id="_f7d7693a-21cb-4587-90a2-798689b3f370" label="17">
+    <para> Vgl. HR 8 april 2008, ECLI:NL:HR:2008:BC5982, NJ 2008/233.</para>
+  </footnote>
+  <footnote id="_08e81342-0417-4f14-a85c-389af7572de4" label="18">
+    <para> Vgl. HR 3 februari 2015, ECLI:NL:HR:2015:205.</para>
+  </footnote>
+  <footnote id="_59abda81-9f3d-497e-98d8-47afa863b6a0" label="19">
+    <para> Vgl. HR 18 mei 1993, ECLI:NL:HR:1993:ZC9359, NJ 1993/691.</para>
+  </footnote>
+  <footnote id="_d09cdcd8-a678-4a80-8b06-e2906d4b2fb8" label="20">
+    <para> Vgl. HR 13 juni 2006, ECLI:NL:HR:2006:AW3569, NJ 2006/343.</para>
+  </footnote>
+  <footnote id="_9e877cb1-6fa7-4526-8080-ec6ccc2a265b" label="21">
+    <para> Vgl. HR 31 maart 2009, ECLI:NL:HR:2009:BH0180, NJ 2009/177.</para>
+  </footnote>
+  <footnote id="_98d52aab-1e6f-4368-b83b-c40175698363" label="22">
+    <para> Vgl. HR 8 april 2008, ECLI:NL:HR:2008:BC4459, NJ 2008/312.</para>
+  </footnote>
+  <footnote id="_8b3ac321-1cf4-4a2d-bf7d-993f9839b180" label="23">
+    <para> Vgl. HR 22 november 1949, NJ 1950/179.</para>
+  </footnote>
+  <footnote id="_92ae3bde-fd0f-422c-a419-b0fae49478f6" label="24">
+    <para> Vgl. HR 11 januari 2011, ECLI:NL:HR:2011:BP0265, NJ 2011/339.</para>
+  </footnote>
+  <footnote id="_060b7a05-5291-4cf2-bab7-6220859dea52" label="25">
+    <para> Vgl. HR 22 november 2005, ECLI:NL:HR:2005:AU3888, NJ 2006/123.</para>
+  </footnote>
+  <footnote id="_86067f57-3475-443d-9dc8-1327ff2da670" label="26">
+    <para> Vgl. HR 28 maart 2006, ECLI:NL:HR: 2006:AU8087, NJ 2006/509.</para>
+  </footnote>
+  <footnote id="_9fef2500-9c74-4172-a939-9d78a87958a4" label="27">
+    <para> Vgl. HR 27 mei 2003, ECLI:NL:HR:2003:AF6311, NJ 2003/512.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

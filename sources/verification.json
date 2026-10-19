@@ -1,0 +1,223 @@
+{
+  "decisive_date": "2026-10-19",
+  "checks": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-19T17:55:13.315631+00:00",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "path": "sources/intake-version.xml",
+      "content_type": "application/xml",
+      "expected_format_valid": true,
+      "bytes": 2545812,
+      "validation": "Root toestand BWBR0001854; inwerkingtreding 2026-07-01; 810 articles; matches official manifest hash."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "accessed_at": "2026-10-19T17:55:13.463941+00:00"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19/0/informatie",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "accessed_at": "2026-10-19T17:55:13.598590+00:00"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/index.xml",
+      "accessed_at": "2026-10-19T17:55:14.633467+00:00",
+      "http_status": 200,
+      "sha256": "c3d6ebcda3d029ae9773b7ff4323b73db243d75530bccaaca311e14be1f75f36",
+      "path": "sources/official-index.xml",
+      "content_type": "application/xml",
+      "expected_format_valid": false,
+      "bytes": 2199651,
+      "rejection": "XML is a valid but historical 2002-04-01 toestand, not an index. Not used."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/metadata.xml",
+      "accessed_at": "2026-10-19T17:55:43.743657+00:00",
+      "http_status": 204,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "path": "sources/bwb-metadata.xml",
+      "content_type": null,
+      "bytes": 0,
+      "expected_format_valid": false,
+      "rejection": "HTTP 204 has no XML response body; not evidence of version or wording."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-19T17:55:44.012720+00:00",
+      "http_status": 200,
+      "sha256": "7d9027cbe69a28e7980d8b7e6db65629dcc0461c75b4690299271f2ef4afe536",
+      "path": "sources/bwb-manifest.xml",
+      "content_type": "application/xml",
+      "bytes": 88311,
+      "expected_format_valid": true,
+      "validation": "Root work label BWBR0001854; _latestItem and expression effective interval checked; SHA-512 of selected manifestation matched."
+    },
+    {
+      "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:HR:2011:BP6878",
+      "accessed_at": "2026-10-19T17:55:44.154839+00:00",
+      "http_status": 200,
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "path": "sources/case-BP6878.xml",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 3892,
+      "expected_format_valid": false,
+      "rejection": "HTML application shell, not the requested judicial XML. Not used as decision text."
+    },
+    {
+      "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:HR:2016:456",
+      "accessed_at": "2026-10-19T17:55:44.299039+00:00",
+      "http_status": 200,
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "path": "sources/case-2016-456.xml",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 3892,
+      "expected_format_valid": false,
+      "rejection": "HTML application shell, not the requested judicial XML. Not used as decision text."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19",
+      "accessed_at": "2026-10-19T17:56:14.778534+00:00",
+      "http_status": 404,
+      "sha256": "c7ecfb9e6a4e3f5d832780665643173035e76ac66a55453a8c113c152de00777",
+      "path": "sources/firecrawl-current.json",
+      "expected_format_valid": false,
+      "via": "Firecrawl",
+      "response_metadata": {
+        "language": "nl",
+        "title": "Wetten.nl | Fout",
+        "viewport": "width=device-width,initial-scale=1",
+        "favicon": "https://wetten.overheid.nl/images/favicon.ico?v128",
+        "scrapeId": "01a1554e-1422-752d-bcb7-64a2348118bf",
+        "sourceURL": "https://wetten.overheid.nl/BWBR0001854/2026-10-19",
+        "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19/#BoekTweede_TiteldeelV_Artikel184",
+        "statusCode": 404,
+        "error": "Not Found",
+        "contentType": "text/html;charset=UTF-8",
+        "proxyUsed": "basic",
+        "cacheState": "hit",
+        "cachedAt": "2026-10-19T14:07:38.249Z",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/informatie",
+      "accessed_at": "2026-10-19T17:56:14.779199+00:00",
+      "http_status": 200,
+      "sha256": "b45cb61350ca7a497de9f74686a75586d25c3e864f25154fca4dda0733f5b820",
+      "path": "sources/firecrawl-information.json",
+      "expected_format_valid": true,
+      "via": "Firecrawl",
+      "response_metadata": {
+        "dcterms:title": "Wetstechnische informatie van Wetboek van Strafrecht",
+        "dcterms:type": "wet",
+        "dcterms:modified": "2026-10-15",
+        "dcterms:description": "Wetboek van Strafrecht",
+        "title": "wetten.nl - Informatie - Wetboek van Strafrecht - BWBR0001854",
+        "language": "nl",
+        "viewport": "width=device-width,initial-scale=1",
+        "dcterms:creator": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+        "dcterms:identifier": "BWBR0001854/informatie",
+        "overheid:authority": "Veiligheid en Justitie",
+        "dcterms:language": "nl",
+        "favicon": "https://wetten.overheid.nl/images/favicon.ico?v128",
+        "scrapeId": "01a1554e-16fa-774c-bfb5-c06197f8cfaa",
+        "sourceURL": "https://wetten.overheid.nl/BWBR0001854/informatie",
+        "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01/0/informatie",
+        "statusCode": 200,
+        "contentType": "text/html;charset=UTF-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "1e240998-fa25-40a4-9982-6dff56ff450f",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19/0/informatie",
+      "accessed_at": "2026-10-19T17:56:14.779403+00:00",
+      "http_status": 404,
+      "sha256": "53751d5b3ae2cd1e7792fd81493e81af37071aac9adf9a472662aee33af21175",
+      "path": "sources/firecrawl-official-information.json",
+      "expected_format_valid": false,
+      "via": "Firecrawl",
+      "response_metadata": {
+        "viewport": "width=device-width,initial-scale=1",
+        "language": "nl",
+        "title": "Wetten.nl | Fout",
+        "favicon": "https://wetten.overheid.nl/images/favicon.ico?v128",
+        "scrapeId": "01a1554d-a795-7049-b5dd-1ff6a39f7319",
+        "sourceURL": "https://wetten.overheid.nl/BWBR0001854/2026-10-19/0/informatie",
+        "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19/0/informatie",
+        "statusCode": 404,
+        "error": "Not Found",
+        "contentType": "text/html;charset=UTF-8",
+        "timezone": "America/New_York",
+        "proxyUsed": "basic",
+        "cacheState": "miss",
+        "indexId": "6cf8bf87-f51b-4867-8ac8-c029d34890e6",
+        "creditsUsed": 1,
+        "concurrencyLimited": false
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2011:BP6878",
+      "accessed_at": "2026-10-19T17:56:52.361029+00:00",
+      "path": "sources/judgment-ECLI-NL-HR-2011-BP6878.xml",
+      "http_status": 200,
+      "sha256": "17949f16d34d50356731fddf154d1a6f3a43eea5322dcdf67f68395d390c7054",
+      "expected_format_valid": true,
+      "bytes": 43214
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:456",
+      "accessed_at": "2026-10-19T17:56:52.593898+00:00",
+      "path": "sources/judgment-ECLI-NL-HR-2016-456.xml",
+      "http_status": 200,
+      "sha256": "ebeac12661752b76c2a8c6a0b4737690a983e69316bdf99bf41994f64167b94c",
+      "expected_format_valid": true,
+      "bytes": 46068
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:509",
+      "accessed_at": "2026-10-19T17:56:52.766450+00:00",
+      "path": "sources/judgment-ECLI-NL-HR-2024-509.xml",
+      "http_status": 200,
+      "sha256": "07d26f29293ec651d319b66da5eba890ab776fde1d19d2d3797980f31e88778c",
+      "expected_format_valid": true,
+      "bytes": 19281
+    }
+  ],
+  "effective_version_verified": true,
+  "effective_from": "2026-07-01",
+  "effective_to": "9999-12-31",
+  "authoring_started": "2026-10-19",
+  "version_evidence": [
+    "sources/bwb-manifest.xml",
+    "sources/firecrawl-information.json"
+  ],
+  "pending_changes": "Official information page: 2027-01-01 and undated changes; excluded from effective text.",
+  "manifest_sha512_matches": true,
+  "manifest_sha512": "37eb84d5be480a876edc46ff3014a9c997fc2186345a5dee2ac69fd740790c8219d71119e4a8409e03967c5cf17e9da468550e2c362420ea531633c91a512b38",
+  "local_derivatives": [
+    {
+      "path": "sources/canonical.md",
+      "sha256": "dbd2a4d7490af17200962988578285359b5ffa756c393bd9f792da502d35d95b",
+      "origin": "_parse.py output from verified official XML"
+    },
+    {
+      "path": "sources/original-intake.md",
+      "sha256": "218f856ea166a5886f5553a61486a76e720f12bb2fbf711e3851a791f1bc4862",
+      "origin": "Unmodified copy of read-only assignment intake"
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "6333ae7aed28241087485e099823a64f2bc62248f493a03e9b549fb499bf7fff",
+      "origin": "_parse.py output from verified official XML"
+    }
+  ]
+}

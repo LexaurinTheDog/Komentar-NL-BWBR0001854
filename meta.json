@@ -1,0 +1,226 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0001854",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0001854",
+  "title": "Commentaar op het Wetboek van Strafrecht",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854/sources/canonical.md",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Reikwijdte, leeswijzer en bronmethode",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Commentaardeel",
+    "notes": "Redactionele bronopmerking"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "deel-01",
+      "title": "Aanhef – Artikel 14b"
+    },
+    {
+      "n": 2,
+      "slug": "deel-02",
+      "title": "Artikel 14c – Artikel 15h"
+    },
+    {
+      "n": 3,
+      "slug": "deel-03",
+      "title": "Artikel 15i – Artikel 23"
+    },
+    {
+      "n": 4,
+      "slug": "deel-04",
+      "title": "Artikel 24 – Artikel 36"
+    },
+    {
+      "n": 5,
+      "slug": "deel-05",
+      "title": "Artikel 36a – Artikel 38g"
+    },
+    {
+      "n": 6,
+      "slug": "deel-06",
+      "title": "Artikel 38h – Artikel 38ij"
+    },
+    {
+      "n": 7,
+      "slug": "deel-07",
+      "title": "Artikel 38z – Artikel 45"
+    },
+    {
+      "n": 8,
+      "slug": "deel-08",
+      "title": "Artikel 46 – Artikel 61"
+    },
+    {
+      "n": 9,
+      "slug": "deel-09",
+      "title": "Artikel 62 – Artikel 77"
+    },
+    {
+      "n": 10,
+      "slug": "deel-10",
+      "title": "Artikel 77a – Artikel 77s"
+    },
+    {
+      "n": 11,
+      "slug": "deel-11",
+      "title": "Artikel 77t – Artikel 77dd"
+    },
+    {
+      "n": 12,
+      "slug": "deel-12",
+      "title": "Artikel 77ee – Artikel 83"
+    },
+    {
+      "n": 13,
+      "slug": "deel-13",
+      "title": "Artikel 83a – Artikel 90sexies"
+    },
+    {
+      "n": 14,
+      "slug": "deel-14",
+      "title": "Artikel 90septies – Artikel 100"
+    },
+    {
+      "n": 15,
+      "slug": "deel-15",
+      "title": "Artikel 101 – Artikel 116"
+    },
+    {
+      "n": 16,
+      "slug": "deel-16",
+      "title": "Artikel 117 – Artikel 128"
+    },
+    {
+      "n": 17,
+      "slug": "deel-17",
+      "title": "Artikel 129 – Artikel 138a"
+    },
+    {
+      "n": 18,
+      "slug": "deel-18",
+      "title": "Artikel 138aa – Artikel 143"
+    },
+    {
+      "n": 19,
+      "slug": "deel-19",
+      "title": "Artikel 144 – Artikel 156"
+    },
+    {
+      "n": 20,
+      "slug": "deel-20",
+      "title": "Artikel 157 – Artikel 169"
+    },
+    {
+      "n": 21,
+      "slug": "deel-21",
+      "title": "Artikel 170 – Artikel 180"
+    },
+    {
+      "n": 22,
+      "slug": "deel-22",
+      "title": "Artikel 181 – Artikel 193"
+    },
+    {
+      "n": 23,
+      "slug": "deel-23",
+      "title": "Artikel 194 – Artikel 207b"
+    },
+    {
+      "n": 24,
+      "slug": "deel-24",
+      "title": "Artikel 208 – Artikel 227"
+    },
+    {
+      "n": 25,
+      "slug": "deel-25",
+      "title": "Artikel 227a – Artikel 243"
+    },
+    {
+      "n": 26,
+      "slug": "deel-26",
+      "title": "Artikel 244 – Artikel 256"
+    },
+    {
+      "n": 27,
+      "slug": "deel-27",
+      "title": "Artikel 257 – Artikel 273e"
+    },
+    {
+      "n": 28,
+      "slug": "deel-28",
+      "title": "Artikel 273f – Artikel 285b"
+    },
+    {
+      "n": 29,
+      "slug": "deel-29",
+      "title": "Artikel 285c – Artikel 302"
+    },
+    {
+      "n": 30,
+      "slug": "deel-30",
+      "title": "Artikel 303 – Artikel 318"
+    },
+    {
+      "n": 31,
+      "slug": "deel-31",
+      "title": "Artikel 319 – Artikel 328quater"
+    },
+    {
+      "n": 32,
+      "slug": "deel-32",
+      "title": "Artikel 329 – Artikel 347"
+    },
+    {
+      "n": 33,
+      "slug": "deel-33",
+      "title": "Artikel 348 – Artikel 359"
+    },
+    {
+      "n": 34,
+      "slug": "deel-34",
+      "title": "Artikel 360 – Artikel 377"
+    },
+    {
+      "n": 35,
+      "slug": "deel-35",
+      "title": "Artikel 378 – Artikel 395"
+    },
+    {
+      "n": 36,
+      "slug": "deel-36",
+      "title": "Artikel 396 – Artikel 415c"
+    },
+    {
+      "n": 37,
+      "slug": "deel-37",
+      "title": "Artikel 416 – Artikel 426bis"
+    },
+    {
+      "n": 38,
+      "slug": "deel-38",
+      "title": "Artikel 426ter – Artikel 435e"
+    },
+    {
+      "n": 39,
+      "slug": "deel-39",
+      "title": "Artikel 435f – Artikel 447"
+    },
+    {
+      "n": 40,
+      "slug": "deel-40",
+      "title": "Artikel 447a – Artikel 468"
+    },
+    {
+      "n": 41,
+      "slug": "deel-41",
+      "title": "Artikel 468a – Slotformulier en ondertekening"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "effective_version": "2026-07-01_0",
+  "raw_source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854/sources/intake-version.xml",
+  "raw_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+}

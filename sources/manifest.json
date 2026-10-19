@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-10-19T18:22:03.777989+00:00",
+  "files": [
+    {
+      "path": "sources/bwb-manifest.xml",
+      "sha256": "7d9027cbe69a28e7980d8b7e6db65629dcc0461c75b4690299271f2ef4afe536",
+      "bytes": 88311
+    },
+    {
+      "path": "sources/bwb-metadata.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "sources/canonical.md",
+      "sha256": "dbd2a4d7490af17200962988578285359b5ffa756c393bd9f792da502d35d95b",
+      "bytes": 427479
+    },
+    {
+      "path": "sources/case-2016-456-firecrawl.json",
+      "sha256": "af48df84d35b01aff942b4f63cc501356efbcadff82277c345fd1635bee79258",
+      "bytes": 53352
+    },
+    {
+      "path": "sources/case-2016-456.xml",
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "bytes": 3892
+    },
+    {
+      "path": "sources/case-BP6878-firecrawl.json",
+      "sha256": "ce03fd03cc42830cff4b8905faa989d5a292542a7e1fc1cca1ea05dfdd7fecb3",
+      "bytes": 58350
+    },
+    {
+      "path": "sources/case-BP6878.xml",
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "bytes": 3892
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "6333ae7aed28241087485e099823a64f2bc62248f493a03e9b549fb499bf7fff",
+      "bytes": 5657
+    },
+    {
+      "path": "sources/firecrawl-current.json",
+      "sha256": "c7ecfb9e6a4e3f5d832780665643173035e76ac66a55453a8c113c152de00777",
+      "bytes": 4632
+    },
+    {
+      "path": "sources/firecrawl-information.json",
+      "sha256": "b45cb61350ca7a497de9f74686a75586d25c3e864f25154fca4dda0733f5b820",
+      "bytes": 73444
+    },
+    {
+      "path": "sources/firecrawl-install-check.md",
+      "sha256": "29384b6f410a4ada2c86d1b74832ea9d072f82ac5be36dfc9d3a936f5143f8b7",
+      "bytes": 65368
+    },
+    {
+      "path": "sources/firecrawl-official-information.json",
+      "sha256": "53751d5b3ae2cd1e7792fd81493e81af37071aac9adf9a472662aee33af21175",
+      "bytes": 4726
+    },
+    {
+      "path": "sources/intake-version.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2011-BP6878.txt",
+      "sha256": "efa8e87e9699ba9d3157ead7f600fccaecbbe6340a577de4338a30dd40bae377",
+      "bytes": 34457
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2011-BP6878.xml",
+      "sha256": "17949f16d34d50356731fddf154d1a6f3a43eea5322dcdf67f68395d390c7054",
+      "bytes": 43214
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2016-456.txt",
+      "sha256": "82e4933b732da48b2330db3e84325792fbcd5cd44ea058285c9e2f33b482f5c3",
+      "bytes": 31190
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2016-456.xml",
+      "sha256": "ebeac12661752b76c2a8c6a0b4737690a983e69316bdf99bf41994f64167b94c",
+      "bytes": 46068
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2024-509.txt",
+      "sha256": "b58f8726860b7e1691c2f9bb3f49da7a1458f9166eb1bd57d1bf82bad83106e0",
+      "bytes": 11453
+    },
+    {
+      "path": "sources/judgment-ECLI-NL-HR-2024-509.xml",
+      "sha256": "07d26f29293ec651d319b66da5eba890ab776fde1d19d2d3797980f31e88778c",
+      "bytes": 19281
+    },
+    {
+      "path": "sources/official-index.xml",
+      "sha256": "c3d6ebcda3d029ae9773b7ff4323b73db243d75530bccaaca311e14be1f75f36",
+      "bytes": 2199651
+    },
+    {
+      "path": "sources/original-intake.md",
+      "sha256": "218f856ea166a5886f5553a61486a76e720f12bb2fbf711e3851a791f1bc4862",
+      "bytes": 433038
+    },
+    {
+      "path": "sources/verification.json",
+      "sha256": "ff019ee8e8528c5401bb0c9d30fe0b12629db500756434cdf8b0e9faeb64e875",
+      "bytes": 9964
+    }
+  ],
+  "remote_evidence": "verification.json records URLs, request times, HTTP outcomes and format acceptance. Rejected HTML, empty responses and the historical fallback are retained but not canonical."
+}
