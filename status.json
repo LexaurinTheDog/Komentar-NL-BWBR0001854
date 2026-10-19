@@ -41,9 +41,15 @@
     "evidence": "build-result.json"
   },
   "validation_result": {
-    "ok": false,
-    "evidence": "validation.json",
-    "reason": "Full inventory retains 548 uncommented units"
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 257597,
+    "errors": [
+      "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
   },
   "remaining_limitations": [
     "Books II and III and wetsluiting still require original commentary (548 units).",
