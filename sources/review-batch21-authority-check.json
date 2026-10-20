@@ -1,0 +1,19 @@
+{
+  "reviewed_at": "2026-10-20T22:24:24.318654+00:00",
+  "checks": [
+    {
+      "unit": "a180",
+      "path": "sources/author-a170-a180-HR-2021-1569-official.xml",
+      "sha256": "b4466d3d2d38e8f146a7cfc4be593488e6db46ac4e3e28da70fa35a6a6c3f25e",
+      "full_text_reviewed": true,
+      "paragraphs": "2.1–2.6; dictum 3",
+      "card": "authorities/HR-2021-1569.md",
+      "limits": "Defence allegation2.2.3 and lower court reasoning2.2.4 distinguished from HR2.4–2.5. No exhaustive subsequent-case search."
+    }
+  ],
+  "search_log": "authorities/author-a170-a180-search-log.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  }
+}

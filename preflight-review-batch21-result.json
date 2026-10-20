@@ -1,0 +1,42 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:23:55.282329+00:00",
+  "version_evidence": "sources/review-batch21-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch21-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "scope": [
+    "a170",
+    "a171",
+    "a172",
+    "a173",
+    "a173a",
+    "a173b",
+    "a174",
+    "a175",
+    "a175a",
+    "a175b",
+    "a176",
+    "a176a",
+    "a176b",
+    "a176c",
+    "a177",
+    "a177a",
+    "a178",
+    "a178a",
+    "a179",
+    "a180"
+  ],
+  "coverage": "sources/review-batch21-coverage.json"
+}

@@ -4089,6 +4089,42 @@
       "rejection": "HTML response; XML parse failed. Not used as judgment evidence.",
       "accessed_at": "2026-10-20T22:16:48+00:00",
       "timestamp_basis": "Saved response file modification time; approximation of request completion."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T22:23:44.454812+00:00",
+      "path": "sources/review-batch21-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T22:23:44.778069+00:00",
+      "path": "sources/review-batch21-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T22:23:45.736222+00:00",
+      "path": "sources/review-batch21-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -4247,5 +4283,5 @@
     "case_check": "sources/review-batch17-authority-check.json"
   },
   "latest_bounded_author_evidence": "sources/author-a144-a156-version-evidence.json",
-  "latest_bounded_review": "sources/review-batch20-version-evidence.json"
+  "latest_bounded_review": "sources/review-batch21-version-evidence.json"
 }

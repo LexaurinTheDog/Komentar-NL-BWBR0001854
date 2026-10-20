@@ -395,3 +395,6 @@ Tweede lezing batch 20: alle twintig eenheden a157–a169, inclusief tussenligge
 
 
 Auteursbatch a170–a180: twintig nieuwe specifieke toelichtingen, gelezen tegen de officiële tekst met onderscheiden gevaarvereisten, opzet/schuld, sancties en verwijzingen. Eén volledig primair arrest is verwerkt. Dit is auteurscontrole; onafhankelijke tweede lezing van deze batch staat nog uit. De gezamenlijke bouw blijft wegens 392 buiten deze batch ontbrekende toelichtingen geblokkeerd. [Technisch batchresultaat](author-a170-a180-result.json).
+
+
+Tweede lezing batch21: alle twintig toegewezen eenheden a170–a180 inclusief letterartikelen tegen verse officiële XML gelezen. Gevaar, opzet/schuld, sancties, rechtenontzetting en interne verwijzingen afzonderlijk gecontroleerd. De officiële manifestintervallen bevestigen juli2026 op auteurs- en reviewdatum; geen historische teksten samengevoegd. HR2021:1569 volledig herlezen, met onderscheid tussen verweer en rechterlijk oordeel. Correcties:172 opzet/wederrechtelijkheid;173a stoffen ook op de bodem;175 noodzakelijk beroepsverband. [Exacte IDs en bevindingen](review-batch21-result.json); [preflight](preflight-review-batch21-result.json). Geen materiële batchblokkade. Geen verklaring van voltooiing van het boek of externe professionele goedkeuring.

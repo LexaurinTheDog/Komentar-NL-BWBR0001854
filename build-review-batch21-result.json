@@ -1,0 +1,6 @@
+{
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 392 jednotkám, např.: ['a181', 'a182', 'a183', 'a184', 'a184a', 'a185', 'a185a', 'a186', 'a187', 'a188']\n",
+  "scope": "Full builder invoked unchanged; incomplete-book gate retained. Incomplete reading checkpoint rendered separately."
+}

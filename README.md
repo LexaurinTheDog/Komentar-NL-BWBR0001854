@@ -84,3 +84,6 @@ Tweede lezing 157–169, 21 oktober 2026: twintig toegewezen eenheden tegen vers
 
 
 Auteursbatch 170–180: twintig officiële eenheden, inclusief alle letterartikelen, zijn op 21 oktober 2026 afzonderlijk toegelicht. [Batchresultaat](author-a170-a180-result.json) en [versiecontrole](sources/author-a170-a180-version-evidence.json). HR2021:1569 is volledig gelezen voor artikel 180. Deze auteursbatch heeft nog geen onafhankelijke tweede lezing gehad.
+
+
+Tweede lezing 170–180, 21 oktober 2026: twintig toegewezen eenheden inhoudelijk gecontroleerd; drie toelichtingen verduidelijkt. [Resultaat](review-batch21-result.json). Het boek blijft onvoltooid.
