@@ -1,0 +1,8 @@
+{
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
+  "scope": "Full 812-unit inventory unchanged. 532 missing commentaries outside assigned author batch; no narrowing of shared build gate.",
+  "checked_at": "2026-10-20T18:30:38.795569+00:00"
+}

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2025-112/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 25 april 2025 tot vaststelling van het tijdstip van inwerkingtreding van de Wet van 6 maart 2025 tot wijziging van het Wetboek van Strafrecht in verband met de verhoging van het strafmaximum voor deelneming aan een terroristische organisatie die tot oogmerk heeft het plegen van de meest ernstige terroristische misdrijven (aanscherping artikel 140a Sr) (Stb. 2025, 71) [KetenID WGK014776]</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Justitie en Veiligheid van 22 april 2025, directie Wetgeving en Juridische Zaken, nr. 6332063;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel II van de Wet van 6 maart 2025 tot wijziging van het Wetboek van Strafrecht in verband met de verhoging van het strafmaximum voor deelneming aan een terroristische organisatie die tot oogmerk heeft het plegen van de meest ernstige terroristische misdrijven (aanscherping artikel 140a Sr) (<extref doc="stb-2025-71" soort="document" status="actief">Stb. 2025, 71</extref>);</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>De Wet van 6 maart 2025 tot wijziging van het Wetboek van Strafrecht in verband met de verhoging van het strafmaximum voor deelneming aan een terroristische organisatie die tot oogmerk heeft het plegen van de meest ernstige terroristische misdrijven (aanscherping artikel 140a Sr) treedt in werking met ingang van 1 juli 2025.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Justitie en Veiligheid is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2025-04-25">25 april 2025</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Justitie en Veiligheid,</functie>
+          <naam>
+            <voornaam>D.M. van</voornaam>
+            <achternaam>Weel</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2025-04-30">Uitgegeven de <nadruk type="cur">dertigste</nadruk> april 2025</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

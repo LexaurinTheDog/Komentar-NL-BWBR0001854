@@ -1,0 +1,150 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2008:BB2875",
+    "accessed_at": "2026-10-20T18:21:59.751286+00:00",
+    "path": "sources/author-a92-a100-judgment-2008-BB2875.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "bytes": 40788,
+    "sha256": "4589d0ebc3ba7df60547add18f1648bef8f22c072bdd2cce4ef1fcde0bf27cc5",
+    "root": "open-rechtspraak",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:768",
+    "accessed_at": "2026-10-20T18:21:59.965151+00:00",
+    "path": "sources/author-a92-a100-judgment-2015-768.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "bytes": 37112,
+    "sha256": "f501687f5ef83b889e01d6877996ab240754e81ac30b8264198dbf228fa8a2af",
+    "root": "open-rechtspraak",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36280-3.xml",
+    "accessed_at": "2026-10-20T18:22:00.168549+00:00",
+    "path": "sources/author-a92-a100-kst-36280-3.xml",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "bytes": 103686,
+    "sha256": "56f95a14d1bbbe54dd204d44d452761cf5215e6a1d94d22624dc03d643decff9",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36280-E.xml",
+    "accessed_at": "2026-10-20T18:22:00.441517+00:00",
+    "path": "sources/author-a92-a100-kst-36280-E.xml",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "bytes": 20228,
+    "sha256": "855d6a35fb7de6ee74430bae322048478b73560f4a19e3d041ed40bb095afc7b",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-112.xml",
+    "accessed_at": "2026-10-20T18:22:00.729505+00:00",
+    "path": "sources/author-a92-a100-stb-2025-112.xml",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "bytes": 3799,
+    "sha256": "07b12039a59408016dab465b58394bba2f7a13cccb6b8dd892b38bdd15c085b1",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2026:2400",
+    "accessed_at": "2026-10-20T18:22:33.929050+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/author-a92-a100-judgment-2026-2400.xml",
+    "sha256": "c43a05ef727d6af635619b4c6c8038695dce48bef330fae6c5aec9c15a7644e6",
+    "bytes": 170465,
+    "expected_format_valid": true,
+    "full_judgment": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-76.xml",
+    "accessed_at": "2026-10-20T18:22:54.803558+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "path": "sources/author-a92-a100-stb-2025-76.xml",
+    "bytes": 21994,
+    "sha256": "ecd04781885e98e357b3a927384a982a6c26ea20233743bbe71ffef67ff00cf4",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-100.xml",
+    "accessed_at": "2026-10-20T18:22:54.961620+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "path": "sources/author-a92-a100-stb-2025-100.xml",
+    "bytes": 4712,
+    "sha256": "924b0db26bd65f3292a98581dc54dc1a88d989df35c68574c8b742af274a2bd1",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-124.xml",
+    "accessed_at": "2026-10-20T18:22:55.225269+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "path": "sources/author-a92-a100-stb-2025-124.xml",
+    "bytes": 120830,
+    "sha256": "bda832e67050fa0bf07a1919eb4b48c48ca04fd97e6261a31fa627aeaf907bde",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-155.xml",
+    "accessed_at": "2026-10-20T18:22:55.427756+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "path": "sources/author-a92-a100-stb-2025-155.xml",
+    "bytes": 7088,
+    "sha256": "8cb172503a7e79ab51f4202788182542c4da29ce27a79326d2172d27c00601d4",
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:168",
+    "accessed_at": "2026-10-20T18:23:19.243221+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/author-a92-a100-judgment-2016-168.xml",
+    "sha256": "53e8492fb1bf1115b0388a1acbcdac90ee32065f476484607d934be1b0cb04c9",
+    "bytes": 68583,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2009-04-01_0/xml/BWBR0001854_2009-04-01_0.xml",
+    "accessed_at": "2026-10-20T18:24:02.692780+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/author-a92-a100-historical-2009-06-11.xml",
+    "sha256": "75645a8844ae9dae1116d9543d91516fa7fabe9374a630524be40ed9ae4659ba",
+    "bytes": 2486514,
+    "root": "toestand",
+    "expected_format_valid": true,
+    "selected_for_date": "2009-06-11",
+    "effective_version": "2009-04-01_0"
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2011-07-02_1/xml/BWBR0001854_2011-07-02_1.xml",
+    "accessed_at": "2026-10-20T18:24:03.928350+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "path": "sources/author-a92-a100-historical-2011-07-17.xml",
+    "sha256": "63bc5d5a8181d0328482f296ea615762a5b492fabfe73e50a1fd1b8086d0597f",
+    "bytes": 2630955,
+    "root": "toestand",
+    "expected_format_valid": true,
+    "selected_for_date": "2011-07-17",
+    "effective_version": "2011-07-02_1"
+  }
+]

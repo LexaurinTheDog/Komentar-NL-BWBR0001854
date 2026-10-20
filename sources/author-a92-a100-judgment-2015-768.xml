@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:768</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T20:25:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-03-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-03-31</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">13/01003</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2014:1777" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2014:1777, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2013:BZ1878" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">In cassatie op : ECLI:NL:GHDHA:2013:BZ1878, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=98">Wetboek van Strafrecht 98</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903">Wetboek van Strafvordering</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903&amp;artikel=359a">Wetboek van Strafvordering 359a</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0013409">Wet op de inlichtingen- en veiligheidsdiensten 2002</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0013409&amp;artikel=6">Wet op de inlichtingen- en veiligheidsdiensten 2002 6</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2015/517</rdf:li>
+          <rdf:li>NJB 2015/755</rdf:li>
+          <rdf:li>SR-Updates.nl 2015-0152</rdf:li>
+          <rdf:li>NbSr 2015/114 met annotatie van mr. J.S. Spijkerman</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:768">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:768</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-03-30T10:19:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-03-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:768 Hoge Raad , 31-03-2015 / 13/01003</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:768:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Schending staatsgeheim,  art. 98 Sr. Doorwerking bronbescherming, art. 10 EVRM (bescherming van journalistieke bronnen). Het gebruik voor het bewijs van de door de AIVD afgeluisterde telefoongesprekken van journalisten. De HR herhaalt toepasselijke overwegingen uit ECLI:NL:HR:2006:AV4122. Het oordeel van het Hof erop neerkomende dat schending van fundamentele rechten als in voornoemd arrest is bedoeld i.c. niet aannemelijk is geworden, geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:768:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>31 maart 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. 13/01003</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 21 februari 2013, nummer 22/004635-10, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1969. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal T.N.B.M. Spronken heeft geconcludeerd tot vernietiging van de bestreden uitspraak, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf, tot vermindering van de hoogte van de straf en tot verwerping van het beroep voor het overige.</para>
+      <para>De raadsman heeft daarop schriftelijk gereageerd.</para>
+      <para />
+      <para>
+        <emphasis role="bold">2.	Beoordeling van het eerste middel</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel bevat een aantal klachten over de verwerping door het Hof van ter terechtzitting in hoger beroep gevoerde verweren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De verdachte is onder meer ter zake van 'medeplegen van een inlichting als bedoeld in artikel 98 van het Wetboek van Strafrecht opzettelijk openbaar maken, terwijl hij weet of redelijkerwijs moet vermoeden dat het een zodanige inlichting betreft' en 'enig geheim, waarvan hij weet of redelijkerwijs moet weten dat hij uit hoofde van ambt verplicht is het te bewaren, opzettelijk schenden' veroordeeld tot 16 maanden gevangenisstraf.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>De bestreden uitspraak houdt het volgende in:</para>
+        <para>"Op 11 juni 2009 heeft het toenmalige hoofd van de Algemene Inlichtingen- en Veiligheidsdienst (hierna: AIVD) aan de Landelijk Officier van Justitie Terrorismebestrijding (hierna: LOvJT) een zogeheten ambtsbericht uitgebracht waarin wordt gesteld dat de AIVD over betrouwbare informatie beschikt dat de verdachte, medeverdachte [medeverdachte] en de bij dagblad De Telegraaf werkzame journaliste Van der Graaf zich schuldig hebben gemaakt aan schending van staatsgeheimen. Het ambtsbericht bevat een weergave van gegevens waarop die verdenking is gebaseerd, zoals die uit een door de AIVD verricht inlichtingenonderzoek zouden zijn gebleken.</para>
+        <para>De inhoud van dat ambtsbericht, alsmede van een aantal verdere in deze zaak uitgebrachte ambtsberichten, is op een later moment door de LOvJT op juistheid gecontroleerd. De LOvJT heeft daaromtrent processen-verbaal van verificatie opgemaakt.</para>
+        <para>Naar aanleiding van het ambtsbericht van 11 juni 2009 is een opsporingsonderzoek gestart. De Rijksrecherche heeft gedurende dat opsporingsonderzoek zelfstandig bewijsmateriaal verzameld. Hierdoor is het ambtsbericht van 11 juni 2009 voor de onderhavige strafzaak van beperkte betekenis geworden.</para>
+        <para>Tijdens het opsporingsonderzoek zijn strafvorderlijke dwangmiddelen en bijzondere opsporingsbevoegdheden ingezet, waaronder het opnemen (en afluisteren) van telecommunicatie. De rechter-commissaris heeft de officier van justitie daartoe gemachtigd nadat hij op 12 juni 2009 de aan voornoemd ambtsbericht ten grondslag liggende stukken bij de AIVD had ingezien. Het hof leidt daaruit af dat de rechter-commissaris geen aanleiding heeft gezien om te komen tot een ander oordeel omtrent de verdenking van de verdachte en haar medeverdachten.</para>
+        <para>In het kader van de door de verdediging gevoerde verweren wordt het volgende vooropgesteld.</para>
+        <para>De strafrechter kan, indien blijkt dat bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer kunnen worden hersteld en waarvan de rechtsgevolgen niet uit de wet blijken, overeenkomstig het bepaalde in artikel 359a, eerste lid, van het Wetboek van Strafvordering, bepalen dat hetzij een lagere straf wordt opgelegd, hetzij de resultaten van het onderzoek die door het verzuim zijn verkregen niet mogen bijdragen aan het bewijs van het tenlastegelegde feit, of dat het openbaar ministerie niet-ontvankelijk is in de vervolging van de verdachte. Welk rechtsgevolg aan het onherstelbare vormverzuim wordt verbonden, hangt - ingevolge het bepaalde in het tweede lid - af van het belang dat het geschonden voorschrift dient, de ernst van het verzuim, en het nadeel dat daardoor wordt veroorzaakt.</para>
+        <para>Voor niet-ontvankelijkverklaring van het openbaar ministerie in de vervolging is volgens vaste jurisprudentie alleen ruimte indien het vormverzuim daarin bestaat dat met de opsporing of vervolging belaste ambtenaren ernstig inbreuk hebben gemaakt op beginselen van een behoorlijke procesorde waardoor doelbewust of met grove veronachtzaming van de belangen van de verdachte aan diens recht op een eerlijke behandeling van zijn zaak is tekortgedaan.</para>
+        <para>Het door de AIVD verrichte inlichtingenonderzoek</para>
+        <para>De raadsvrouw van de verdachte heeft zich op het standpunt gesteld dat het recht van de verdachte op een eerlijk proces is geschonden doordat de AIVD eenzijdig, onbetrouwbaar en in strijd met de onschuldpresumptie onderzoek heeft verricht. Daarnaast heeft de raadsvrouw betoogd dat het afluisteren van de telefoon van journaliste Van der Graaf door de AIVD een ongerechtvaardigde schending oplevert van het in artikel 8 van het Europees verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM) vervatte recht op respect voor het privéleven, alsmede van het uit artikel 10 van het EVRM voortvloeiende recht op bescherming van journalistieke bronnen. De raadsvrouw heeft zich op het standpunt gesteld dat sprake is van veronachtzaming van de rechten van een ieder die door dat handelen wordt getroffen.</para>
+        <para>Het hof overweegt dienaangaande het volgende.</para>
+        <para>Op 28 maart 2009 is in dagblad De Telegraaf een artikel gepubliceerd onder de titel 'AIVD faalde rond Irak'. Het artikel is geschreven door de journalisten Van der Graaf en De Haas. Blijkens het eerdergenoemde ambtsbericht d.d. 11 juni 2009 ontstond na het lezen van dat artikel bij de AIVD het vermoeden dat de betreffende journalisten het artikel hebben gebaseerd op een als 'Stg. Geheim' gerubriceerd document, welk document een door de AIVD gemaakte interne analyse bevat omtrent de rapportages die de AIVD in de periode zomer 2002 tot zomer 2003 aan afnemers heeft verstrekt. De AIVD heeft vervolgens een onderzoek ingesteld. Gedurende dat onderzoek zijn de telefoons van voornoemde journalisten afgeluisterd. Dat onderzoek was enerzijds erop gericht na te gaan of voornoemde (en eventueel soortgelijke) staatsgeheime gegevens nog bij onbevoegde derden in bezit waren, en anderzijds om te voorkomen dat er nog meer staatsgeheimen zouden worden gelekt, aldus de AIVD in voornoemd ambtsbericht.</para>
+        <para>Het optreden van de AIVD is achteraf getoetst door de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (hierna: CTIVD). Uit het advies dat de CTIVD - naar aanleiding van een klacht van De Telegraaf c.s. - op 10 november 2009 heeft uitgebracht, blijkt dat de CTIVD van oordeel is dat het onderzoek naar het lek valt onder de taak van artikel 6, tweede lid, sub a, van de Wet op de inlichtingen- en veiligheidsdiensten 2002 (hierna: Wiv). Volgens de CTIVD mocht de AIVD voornoemde journalisten aanmerken als personen die aanleiding geven tot het ernstige vermoeden dat zij een gevaar vormen voor de democratische rechtsorde, dan wel voor de veiligheid of voor andere gewichtige belangen van de staat. De CTIVD achtte de initiële inzet van de gedurende het inlichtingenonderzoek jegens de journalisten ingezette bijzondere bevoegdheden, bestaande uit het afluisteren van hun telefoons, evenwel niet proportioneel. Volgens de CTIVD had op het moment van de initiële inzet groter gewicht moeten worden toegekend aan het belang van journalistieke bronbescherming dat voortvloeit uit artikel 10 van het EVRM, dan aan het achterhalen van het lek en het vaststellen of de journalisten al dan niet beschikten over staatsgeheime stukken.</para>
+        <para>Het openbaar ministerie heeft daarop besloten de strafzaak tegen journaliste Van der Graaf te seponeren omdat - kort gezegd - vervolging op basis van materiaal verkregen door onrechtmatig handelen van de AIVD disproportioneel zou zijn en er na uitsluiting van dat materiaal van het bewijs onvoldoende bewijs resteert.</para>
+        <para>Het hof stelt voorop dat de wetgever de toetsing van de rechtmatigheid van het handelen van de AIVD heeft toebedeeld aan de reeds hiervoor aangehaalde Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten.</para>
+        <para>In artikel 64, tweede lid, aanhef en sub a, van de Wiv is bepaald dat de CTIVD is belast met het toezicht op de rechtmatigheid van de uitvoering van hetgeen bij of krachtens de Wiv is gesteld. De rechtmatigheidstoets is daarmee aan de strafrechter onttrokken. Dat neemt echter niet weg dat in een strafprocedure waarin van een inlichtingen- en veiligheidsdienst afkomstig materiaal voor het bewijs wordt gebruikt, moet zijn voldaan aan de eisen van een eerlijk proces en dat de strafrechter moet toetsen of zulks het geval is (HR 5 september 2006, NJ 2007, 336, r.o. 4.4.4).</para>
+        <para>Ten aanzien van de vraag of en in hoeverre consequenties kunnen of moeten worden verbonden aan onregelmatigheden in het onderzoek door een inlichtingen- en veiligheidsdienst heeft de Hoge Raad in het hiervoor aangehaalde arrest het volgende overwogen (r.o. 4.7):</para>
+        <para>De toepassing van artikel 359a van het Wetboek van Strafvordering is beperkt tot vormverzuimen die zijn begaan bij het voorbereidend onderzoek. Ingevolge artikel 132 van het Wetboek van Strafvordering moet daaronder worden verstaan het onderzoek dat voorafgaat aan het onderzoek ter terechtzitting. Onder die vormverzuimen zijn blijkens de wetsgeschiedenis begrepen normschendingen bij de opsporing. Artikel 359a is dus niet van toepassing indien het verzuim is begaan buiten het verband van het voorbereidend onderzoek. Een onderzoek door een inlichtingen- en veiligheidsdienst vindt plaats buiten de verantwoordelijkheid van de politie en het openbaar ministerie en valt buiten dat verband. Zulks neemt niet weg dat onder omstandigheden de resultaten van het door een inlichtingen- en veiligheidsdienst ingestelde onderzoek niet tot het bewijs mogen worden gebruikt. Daarvan kan bijvoorbeeld sprake zijn in de bijzondere gevallen dat </para>
+        <para>(a) doelbewust met het oog op het buiten toepassing blijven van strafvorderlijke waarborgen geen opsporingsbevoegdheden worden aangewend teneinde gebruik te kunnen maken van door een inlichtingen- en veiligheidsdienst vergaarde informatie of</para>
+        <para>(b) het optreden van de betrokken dienst een schending van de aan een verdachte toekomende fundamentele rechten heeft opgeleverd die van dien aard is dat daardoor geen sprake meer is van een fair trial als bedoeld in artikel 6 EVRM.</para>
+        <para>Van de onder a en b genoemde gevallen is het hof in deze zaak niet gebleken. Ook overigens levert het handelen van de AIVD, zo dat al als onrechtmatig moet worden aangemerkt, naar het oordeel van het hof geen omstandigheid op waardoor de resultaten van het door de AIVD ingestelde onderzoek niet tot het bewijs mogen worden gebruikt, laat staan dat dit tot niet-ontvankelijkverklaring van het openbaar ministerie in de vervolging van de verdachte dient te leiden.</para>
+        <para>Het verweer wordt mitsdien op dit onderdeel verworpen.</para>
+        <para>Ten aanzien van de schending van het recht op privacy en het recht op vrijheid van meningsuiting als bedoeld in de artikelen 8 en 10 van het EVRM overweegt het hof voorts nog het volgende.</para>
+        <para>Artikel 8, eerste lid, van het EVRM bepaalt dat een ieder recht heeft op respect voor zijn privéleven. Dit recht is blijkens het bepaalde in het tweede lid van dat artikel geenszins een ongeclausuleerd recht. Inmenging van enig openbaar gezag in de uitoefening van dit recht is toegestaan voor zover dat bij de wet is voorzien en in een democratische samenleving noodzakelijk is in de in het tweede lid genoemde belangen.</para>
+        <para>Aan de uitoefening van de bevoegdheid om telecommunicatie af te luisteren is inherent dat niet alleen een inbreuk wordt gemaakt op de persoonlijke  levenssfeer van de persoon wiens telefoon wordt afgeluisterd , maar ook van de personen met wie die persoon telefonisch contact heeft. Het gegeven dat de privacy van anderen dan de gebruiker van de telefoon wordt geschonden vormt dan ook geen reden om een telefoontap te verbieden. Bovendien wordt hierdoor slechts in beperkte mate een inbreuk gemaakt op de persoonlijke levenssfeer van die anderen.</para>
+        <para>De enkele omstandigheid dat met het afluisteren van de telefoon van journaliste Van der Graaf (mede) werd beoogd de bron van een mede door haar geschreven en in De Telegraaf gepubliceerd artikel te achterhalen teneinde het lek bij de AIVD te kunnen dichten, maakt dat oordeel niet anders. Er is immers geen rechtsregel die zich ertegen verzet dat de bevoegdheid om telecommunicatie af te luisteren mede wordt gebruikt om een nog onbekende persoon te identificeren.</para>
+        <para>Artikel 10, eerste lid, van het EVRM bepaalt dat een ieder recht heeft op vrijheid van meningsuiting, daaronder begrepen de vrijheid om inlichtingen te ontvangen en te verstrekken. Ook dit recht is - blijkens het bepaalde in het tweede lid van dat artikel - geen ongeclausuleerd recht. De uitoefening van die vrijheid kan worden onderworpen aan bepaalde formaliteiten, voorwaarden, beperkingen of sancties, die bij de wet zijn voorzien en die in een democratische samenleving noodzakelijk zijn, bijvoorbeeld in het belang van de nationale veiligheid.</para>
+        <para>Het recht op vrijheid van meningsuiting wordt onder meer beperkt door de bepalingen van de artikelen 98 tot en met 98c van het Wetboek van Strafrecht, welke bepalingen de door het belang van de staat of zijn bondgenoten geboden geheimhouding van informatie beogen te beschermen door het onbevoegd prijsgeven van staatsgeheime informatie strafbaar te stellen. Ambtenaren die werkzaam zijn bij de AIVD zijn uit hoofde van hun functie bij uitstek verplicht om staatsgeheime informatie geheim te houden.</para>
+        <para>Indien zij die strafrechtelijk scherp gesanctioneerde verplichting schenden, kunnen zij zich niet beroepen op het in het EVRM neergelegde recht op vrijheid van meningsuiting. Buitengewone omstandigheden die zulks anders zouden maken zijn gesteld noch gebleken.</para>
+        <para>De toetsbaarheid van het door de AIVD verrichte inlichtingenonderzoek</para>
+        <para>De raadsvrouw van de verdachte heeft zich op het standpunt gesteld dat het recht van de verdachte op een eerlijk proces is geschonden doordat het door de AIVD verrichte inlichtingenonderzoek onvoldoende toetsbaar is voor de verdediging. Het hof overweegt hieromtrent het volgende.</para>
+        <para>(...)</para>
+        <para>Het hof stelt in dit verband vast dat in de onderhavige zaak een uitgebreid strafrechtelijk onderzoek heeft plaatsgevonden. Zo heeft de Rijksrecherche de door de AIVD ter beschikking gestelde opnamen van afgeluisterde telefoongesprekken uitgeluisterd, onderzoek gedaan naar historische verkeersgegevens, en diverse getuigen gehoord. Van gebruik van door de AIVD vergaard materiaal zal daardoor - zo het hof tot een bewezenverklaring komt - in het onderhavige geval nauwelijks sprake zijn.</para>
+        <para>De bedoelde uitgeluisterde telefoongesprekken zijn volop door de verdediging getoetst kunnen worden.</para>
+        <para>Voor zover door de AIVD verstrekte inlichtingen in aanmerking mochten komen om te worden gebruikt als bewijs in een strafzaak, levert het feit dat de LOvJT slechts in beperkte mate de inhoud van ambtsberichten kon toetsen evenmin bezwaar op. De verdediging dient in dat geval immers in de gelegenheid te worden gesteld om die inlichtingen volop ter discussie te stellen. Het hof stelt in dat verband vast dat in eerste aanleg diverse medewerkers van de AIVD, het hoofd van de AIVD en de LOvJT als getuigen zijn gehoord. De LOvJT is nogmaals ter terechtzitting in hoger beroep als getuige gehoord. De verdediging heeft daardoor alle gelegenheid gekregen om de betrouwbaarheid van mogelijke bewijsmiddelen ter discussie te stellen, en daarnaast na te gaan of zich gedurende het inlichtingenonderzoek omstandigheden hebben voorgedaan waardoor de resultaten van het door de AIVD ingestelde onderzoek niet tot het bewijs mogen worden gebruikt.</para>
+        <para>Het verweer wordt mitsdien op dit onderdeel verworpen.</para>
+        <para>(...)</para>
+        <para>Conclusie ten aanzien van de ontvankelijkheid van het openbaar ministerie in de vervolging van de verdachte</para>
+        <para>Nu het verweer in al zijn onderdelen faalt, en het hof ook overigens geen gronden ziet om het openbaar ministerie niet-ontvankelijk te verklaren, is het openbaar ministerie ontvankelijk in de vervolging van de verdachte. Het subsidiair door de raadsvrouw van de verdachte gedane verzoek tot algehele bewijsuitsluiting behoeft, gelet op het voorgaande, geen verdere bespreking."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Het middel bevat onder meer een klacht over het gebruik als bewijsmiddel van processen-verbaal van bevindingen audiovisueel materiaal, bestaande uit door de AIVD afgeluisterde telefoongesprekken van een journalist. Daartoe is aangevoerd - kort gezegd - dat het gebruik daarvan voor het bewijs op flagrante wijze afbreuk doet aan het fundamentele belang dat met bescherming van het journalistieke bronbeschermingsrecht is gediend en dat daarom de inhoud van door de AIVD afgeluisterde telefoongesprekken van de journalist in de onderhavige strafzaak jegens de verdachte als 'bron' niet tot het bewijs mag worden gebezigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <parablock>
+        <para>In zijn overwegingen heeft het Hof onder meer de volgende feiten en omstandigheden vastgesteld. </para>
+        <para>	Een publicatie in het dagblad De Telegraaf van 28 maart 2009 heeft het vermoeden doen rijzen dat door journalisten gebruik is gemaakt van staatsgeheime gegevens. In het kader van een daarop door de AIVD ingesteld onderzoek zijn telefoons afgeluisterd van journalisten. De Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD) heeft het optreden van de AIVD achteraf getoetst en daarover rapport uitgebracht. De commissie oordeelde dat de AIVD handelde binnen de haar in art. 6, tweede lid sub a, van de Wet op de inlichtingen en veiligheidsdiensten 2002 in het belang van de nationale veiligheid gegeven taak en dat de AIVD de betrokken journalisten heeft mogen aanmerken als personen die aanleiding gaven tot het ernstige vermoeden dat zij een gevaar vormen voor de democratische rechtsorde dan wel voor de veiligheid of voor andere gewichtige belangen van de staat. Zij was evenwel van oordeel dat de 'initiële inzet' (waarmee bedoeld is: in de periode tot een publicatie in De Telegraaf van 4 juni 2009) van de jegens de journalisten ingezette bijzondere bevoegdheden, bestaande uit het afluisteren van hun telefoons, niet proportioneel was. Toen had, aldus de CTIVD, groter gewicht moeten worden toegekend aan het belang van journalistieke bronbescherming dat voortvloeit uit art. 10 EVRM dan aan het achterhalen van het lek en het vaststellen of de journalisten al dan niet beschikten over staatsgeheime stukken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <parablock>
+        <para>Het Hof heeft terecht het volgende juridisch kader tot uitgangspunt genomen.</para>
+        <para>	Een onderzoek door een inlichtingen- en veiligheidsdienst vindt plaats buiten de verantwoordelijkheid van de politie en het openbaar ministerie. De wetgever heeft de toetsing van de rechtmatigheid van het handelen van de AIVD toebedeeld aan de CTIVD. Dat daarmee de rechtmatigheidstoets aan de strafrechter onttrokken is en art. 359a Sv niet van toepassing is, neemt niet weg dat in een strafprocedure waarin van een inlichtingen- en veiligheidsdienst afkomstig materiaal voor het bewijs wordt gebruikt, moet zijn voldaan aan de eisen van een eerlijk proces. De strafrechter moet toetsen of dat het geval is.  Onder omstandigheden mogen de resultaten van het door een inlichtingen- en veiligheidsdienst ingesteld onderzoek niet tot het bewijs worden gebezigd, bijvoorbeeld indien het optreden van de betrokken dienst een schending van de aan een verdachte toekomende fundamentele rechten heeft opgeleverd die van dien aard is dat daardoor geen sprake meer is van fair trial als bedoeld in art. 6 EVRM. (Vgl. HR 5 september 2006, ECLI:NL:HR:2006:AV4122, NJ 2007/336.) </para>
+        <para>	Het Hof, wiens oordeel erop neerkomt dat schending van fundamentele rechten als hiervoor bedoeld in de onderhavige zaak niet aannemelijk is geworden, heeft een aantal processen-verbaal bevindingen audiovisueel materiaal, onder meer bestaande uit door de AIVD afgeluisterde telefoongesprekken van twee journalisten (bewijsmiddelen 4 en 8) voor het bewijs gebezigd. </para>
+        <para>Die bewijsmiddelen houden het volgende in:</para>
+        <para>"4. Een proces-verbaal van bevindingen audio visueel materiaal d.d. 22 juni 2009 van de Rijksrecherche met nr. PV 20090046. Dit proces-verbaal houdt onder meer in  - zakelijk weergegeven - (p. 25 e.v. van zaaksdossier II - Dalai Lama): </para>
+        <para>als relaas van de betreffende opsporingsambtenaar: </para>
+        <para>Door mij werd onderzoek verricht naar audio materiaal betreffende een tapgesprek dat door de verdachten werd gevoerd op 15 mei 2009 te 10.53 uur. </para>
+        <para>De aan het gesprek verbonden telefoonnummers betreffen de volgende:</para>
+        <para>06-[001] in gebruik bij Jolande van der Graaf</para>
+        <para>06-[002] in gebruik bij [medeverdachte]</para>
+        <para>Het gesprek wordt hieronder weergegeven.</para>
+        <para>Bellend nummer: 06-[002]</para>
+        <para>Gebeld nummer: 06-[001]</para>
+        <para>Jolande: Met Jolande van der Graaf</para>
+        <para>
+          [medeverdachte]: Goedemorgen Jolande met [medeverdachte]</para>
+        <para>: 'T is wel even leuker en persoonlijk om eventjes te bellen.</para>
+        <para>Jolande: Ja dat is het absoluut.</para>
+        <para>
+          [medeverdachte]: Enne, uhm, en misschien 's even een keertje af te spreken.</para>
+        <para>Jolande: Ja ik vind het best joh.</para>
+        <para>
+          [medeverdachte]: 2 juni, hoe zit je dan?</para>
+        <para>Jolande: Ja! Vind ik prima.</para>
+        <para>
+          [medeverdachte]: Uhm, een uur of acht of zo?</para>
+        <para>Jolande: Ja, prima.</para>
+        <para>8. Een proces-verbaal van bevindingen audio visueel materiaal d.d. 22 juni 2009 van de Rijksrecherche met nr. PV 20090046. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (p. 31 e.v. van zaaksdossier II - Dalai Lama):</para>
+        <para>als relaas van de betreffende opsporingsambtenaar:</para>
+        <para>Door mij werd onderzoek verricht naar audio materiaal betreffende een tapgesprek dat door de verdachte werd gevoerd op 3 juni 2009 te 09.34 uur.</para>
+        <para>Het aan het gesprek verbonden telefoonnummer betreft het nummer:</para>
+        <para>06-[001] in gebruik bij Jolande van der Graaf</para>
+        <para>Het gesprek wordt hieronder weergegeven.</para>
+        <para>Bellend nummer: 06-[001]</para>
+        <para>Jolande belt uit met de Nieuwsdienst. Ze is op zoek naar Hans Kuitert. Ze wordt doorverbonden met Hans.</para>
+        <para>Jolande: Ik zag jouw uhm, stuk in uhm, in de krant vanochtend over de Dalai Lama.</para>
+        <para>Hans: Ja.</para>
+        <para>Jolande: Ik werd gisteravond getipt dat er uhm, dreigementen zijn uhm, opgepikt in Nederland rond zijn bezoek.</para>
+        <para>Jolande: En, dat de beveiliging uhm, opgeschroefd uhm, gaat worden dus ik dacht nou dit is misschien leuk als we daar uhm, eens samen een stukje over kunnen maken voor uhm, voor morgen.</para>
+        <para>Hans: Jij hebt dat meer uit de politiebronnen?</para>
+        <para>Jolande: Uhm, dat moet ik over deze lijn in het midden laten.</para>
+        <para>Jolande: Het is vanuit de, de autoriteitenhoek zeg maar, de Nederlandse autoriteitenhoek."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <parablock>
+        <para>Voor zover de klacht inhoudt dat het Hof heeft miskend dat het gebruik voor het bewijs van de inhoud van afgeluisterde telefoongesprekken van de journalisten in de strafzaak tegen de verdachte inbreuk maakt op het recht op vrije nieuwsgaring en het bronbeschermingsrecht van die journalisten, kan de klacht niet tot cassatie leiden.</para>
+        <para>Het Hof heeft geoordeeld dat de inhoud van de door de AIVD afgeluisterde telefoongesprekken van de journalisten in de strafzaak tegen de verdachte voor het bewijs mag worden gebezigd. Daarin ligt als het oordeel van het Hof besloten dat het recht van de journalist op bescherming van journalistieke bronnen geen grond vormt om jegens de verdachte, aan wie het in strijd met haar functie als medewerker van de AIVD verstrekken van staatsgeheime informatie aan de pers is tenlastegelegd, het rechtsgevolg van bewijsuitsluiting te verbinden aan de vrucht van het door de CTIVD jegens de journalisten als niet-proportioneel aangemerkte handelen van de AIVD. Dat oordeel geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk, mede in aanmerking genomen dat de opvatting waarop de klacht berust, te weten dat de verdachte op gelijke voet als de journalist door het recht op vrije nieuwsgaring is beschermd tegen onthulling van haar identiteit als 'bron' en tegen het gebruik van de inhoud van uit afgeluisterde gesprekken van journalisten afkomstige informatie voor het bewijs van het haar tenlastegelegde, geen steun vindt in het recht.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8.</nr>
+      <parablock>
+        <para>Voor zover de klacht inhoudt dat het Hof heeft miskend dat het in art. 10 EVRM verankerde recht op vrijheid van meningsuiting van de verdachte in de weg staat aan haar strafvervolging of bestraffing wegens het tenlastegelegde en bewezenverklaarde verstrekken van geheime gegevens aan een journalist, faalt deze.</para>
+        <para>	Het Hof heeft geoordeeld dat de voor de verdachte uit hoofde van haar functie als medewerker van de AIVD geldende geheimhoudingsplicht - behoudens buitengewone omstandigheden - moet worden aangemerkt als een aan de daaraan ingevolge art. 10, tweede lid, EVRM te stellen eisen beantwoordende en aldus toelaatbaar te achten beperking van het haar toekomende recht op vrije meningsuiting. Dit oordeel geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk. De omstandigheid dat in het onderhavige geval de CTIVD het opnemen van gesprekken van de journalisten gedurende zekere tijd als een schending van beginselen van proportionaliteit heeft gekenschetst, brengt niet mee dat het Hof dit als een het handelen van de verdachte rechtvaardigende, buitengewone omstandigheid diende aan te merken, ook niet als daarbij wordt betrokken dat de bescherming van journalistieke bronnen met het oog op het voorkomen van een zogenoemd "chilling effect" een essentieel element is van het recht op vrije nieuwsgaring door de pers. Het oordeel van het Hof dat zich dergelijke buitengewone omstandigheden niet voordoen, geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het vijfde middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Het middel is gegrond. Dit moet leiden tot vermindering van de aan de verdachte opgelegde gevangenisstraf van zestien maanden. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van de middelen voor het overige</title>
+    <para />
+    <parablock>
+      <para>De middelen kunnen voor het overige niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu de middelen in zoverre niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Nu de Hoge Raad geen grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>vermindert deze in die zin dat deze vijftien maanden beloopt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren B.C. de Savornin Lohman, H.A.G. Splinter-van Kan, Y. Buruma en V. van den Brink, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">31 maart 2015</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

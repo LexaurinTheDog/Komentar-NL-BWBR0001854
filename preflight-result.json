@@ -1911,5 +1911,36 @@
     "aanhef_and_wetsluiting": "Bothpresent; noparseromissionorrepairrequired.",
     "external_source_limits": "sources/review-batch13-source-anomalies.json",
     "unresolved_blockers": []
+  },
+  "bounded_author_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T18:29:09.629787+00:00",
+    "version_evidence": "sources/author-a92-a100-version-evidence.json",
+    "historical_versions_checked": [
+      "2009-06-11",
+      "2011-07-17"
+    ],
+    "annexes_checked": "Full official XML inventory: no annexes; 812/812 units including aanhef and wetsluiting.",
+    "unresolved_blockers": [],
+    "scope_ids": [
+      "a92",
+      "a93",
+      "a94",
+      "a95",
+      "a95a",
+      "a96",
+      "a97",
+      "a97a",
+      "a97b",
+      "a98",
+      "a98a",
+      "a98b",
+      "a98c",
+      "a98d",
+      "a99",
+      "a100"
+    ]
   }
 }

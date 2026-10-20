@@ -1,0 +1,218 @@
+{
+  "kind": "bounded_author_checkpoint",
+  "complete": true,
+  "book_complete": false,
+  "independent_review": false,
+  "ids": [
+    "a92",
+    "a93",
+    "a94",
+    "a95",
+    "a95a",
+    "a96",
+    "a97",
+    "a97a",
+    "a97b",
+    "a98",
+    "a98a",
+    "a98b",
+    "a98c",
+    "a98d",
+    "a99",
+    "a100"
+  ],
+  "units_completed": 16,
+  "total_statutory_units": 812,
+  "total_commentaries": 280,
+  "remaining_commentaries": 532,
+  "commentary_chars_added": 39020,
+  "commentary_lengths": {
+    "a92": 2050,
+    "a93": 2069,
+    "a94": 1994,
+    "a95": 2113,
+    "a95a": 2169,
+    "a96": 2654,
+    "a97": 2210,
+    "a97a": 2266,
+    "a97b": 2489,
+    "a98": 2720,
+    "a98a": 2891,
+    "a98b": 2200,
+    "a98c": 2669,
+    "a98d": 3636,
+    "a99": 2070,
+    "a100": 2820
+  },
+  "commentary_sha256": {
+    "a92": "243eee1a093ab41e2ae4391ebd3bf984c80760f34ef60ee1321bfaf047ae0eb0",
+    "a93": "814a0946273c790e6720a3a1ed4b5f41262e9639e975070a96f3fd4edc36ab52",
+    "a94": "3dcc446a0e695d1f030b12567e3b1a8c76485d7c3ed619d2022a2f40f80709e7",
+    "a95": "97bddbbb727ceeab20e9b540269e7eb50f8f286865afce4089d6d31d6d2ae79f",
+    "a95a": "85e88e461a2f8abb5ca29494bf459fb368c38e19111e2598f0284b1621718b5d",
+    "a96": "d597c2bc57b86bc99ea10de33219be515ecb4070ae1d46b7ac73eb4a4d581247",
+    "a97": "89758249aa932cb607988540470c0bd7530b9bbcc5e622aa74034110c580e829",
+    "a97a": "06ae791b0cac4ebd58eb2c04153605544d0ae0fb4fb9fd65fec0b3c538067538",
+    "a97b": "ded5e60dae9733551b7fa1c9a8d763874af6e7e77fb8d268be18e676f2194337",
+    "a98": "4cea3658dbf333b7ca9af5cdded49d3798d5feb0e9b983263d441f70d7f0a226",
+    "a98a": "a1a1e3535eb0d107abf0982fc9d5cbd1cca3dbc02985361dceb2b40c3fb113ca",
+    "a98b": "ff7a9a89f756365985bc62c6dab0b2f0941866853afcfee89379333035b70875",
+    "a98c": "73c29d8d479eddbf452013a342238cacf348ae7957a3bd3946fe4790b98bd1be",
+    "a98d": "1afa210269d8cb967d9e5e1fcd8b120ad6a16ead85db06c463505c3fce77a4b0",
+    "a99": "322211d2da5fb671c049ee880b30c24ae1e6d76939fcd3d92c5d9f3092c68f75",
+    "a100": "b91af3fd9d882c4f675d36691c0aeac1b12454ddbb2d1361063884fa1a90283c"
+  },
+  "all_prior_commentary_files_unchanged": {
+    "commentary/part-01.md": true,
+    "commentary/part-02.md": true,
+    "commentary/part-03.md": true,
+    "commentary/part-04.md": true,
+    "commentary/part-05.md": true,
+    "commentary/part-06.md": true,
+    "commentary/part-07.md": true,
+    "commentary/part-08.md": true,
+    "commentary/part-09.md": true,
+    "commentary/part-10.md": true,
+    "commentary/part-11.md": true,
+    "commentary/part-12.md": true,
+    "commentary/part-13.md": true,
+    "commentary/part-14.md": true
+  },
+  "source_and_cross_reference_reading": {
+    "a92": "Hoedanigheid, drie oogmerken en bijzondere aanslagdrempel onderscheiden; geen voltooid gevolg of verplichte minimumstraf toegevoegd.",
+    "a93": "Onderwerping aan vreemde heerschappij en afscheiding onderscheiden; politiek doel niet gelijkgesteld met uitvoeringsbegin.",
+    "a94": "Constitutionele objecten, onwettige verandering en samenhang met 79/80bis/96/83 gecontroleerd.",
+    "a95": "Genoemd orgaan onderscheiden van ministerraad; alle vergader- en lidvarianten en geweldsmiddel behandeld.",
+    "a95a": "Ministerraad, collectieve en individuele varianten, geweld en opzettelijke verhindering apart behandeld.",
+    "a96": "Samenspanning volgens 80 gescheiden van alle vijf routes lid 2; eigen oogmerk, kennis en mededelingsbestemming behouden.",
+    "a97": "Vier buitenlandse verbindingsdoelen en zelfstandige voorbereidingsbepaling behandeld; geen daadwerkelijke oorlog als algemene eis toegevoegd.",
+    "a97a": "Buitenlandse vestiging en omwenteling volgens 80bis; alle oogmerkvarianten, ook eigen voorbereiding via verbinding, behandeld.",
+    "a97b": "Invoerroute en bezits-/overeenkomstvariant onderscheiden; bestemming, ernst vermoeden en substitutie/buitenlands verband besproken.",
+    "a98": "Beide leden, materieel staatsgeheim, opzet/kenbaarheid en niet-gerechtigde ontvanger; actuele acht jaar versus historische zes jaar geverifieerd.",
+    "a98a": "Openbaarmaking, buitenlandse bestemming en tussenpersoongevaar onderscheiden; lid 2 alternatieven en zesjarig voorbereidingsmaximum behouden. HR bron/journalist begrensd.",
+    "a98b": "Culpa, bekendmaking/beschikbaarheid en causaliteit gescheiden van opzettelijke verstrekking; eigen éénjarig maximum.",
+    "a98c": "Alle drie gedragsroutes, verkrijgingsoogmerk, juridische verboden plaats en beperkte werking uitzondering lid 2 behandeld; actuele acht jaar gecontroleerd.",
+    "a98d": "Cumulatieve aanhef en beide routes; bewegen, verzwarende gevolgen, concrete gevaarzetting en bewustheid; mei-invoering gescheiden van technische juliwijziging.",
+    "a99": "Regeringsopdracht en buitenlandse mogendheid, opzettelijk nadelig onderhandelen onderscheiden van mislukte uitkomst.",
+    "a100": "Niet-deelneming, concreet oorlogsgevaar en twee typen bekendgemaakte regeringsvoorschriften afzonderlijk; artikel 87 geverifieerd."
+  },
+  "source_preflight": "sources/author-a92-a100-version-evidence.json",
+  "completeness_report": "completeness-report.json",
+  "case_cards": [
+    "authorities/HR-2016-168.md",
+    "authorities/HR-2015-768.md"
+  ],
+  "repetition_audit": {
+    "identical_substantive_paragraphs": [],
+    "cross_unit_paragraphs_above_similarity_0_78": [],
+    "method": "Exact paragraphs plus SequenceMatcher, followed by unit-specific author reading; numerical checks do not prove legal quality."
+  },
+  "checked_at": "2026-10-20T18:30:18.405537+00:00",
+  "limitations": [
+    "Bounded original authoring, not independent second pass.",
+    "532 other units remain without commentary.",
+    "Selective case-law research; no claim to exhaustive coverage or complete present procedural rights analysis.",
+    "External WBS catalog anomaly previously documented in sources/review-batch12-source-anomalies.json remains; no individual location asserted designated."
+  ],
+  "technical_validation": {
+    "all16_rendered": true,
+    "rendered_checks": [
+      {
+        "id": "a92",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a93",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a94",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a95",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a95a",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a96",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a97",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a97a",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a97b",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a98",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a98a",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a98b",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a98c",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a98d",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a99",
+        "present": true,
+        "commentary_rendered": true
+      },
+      {
+        "id": "a100",
+        "present": true,
+        "commentary_rendered": true
+      }
+    ],
+    "full_inventory_coverage_ok": true,
+    "local_link_check": {
+      "checked": 586,
+      "broken": [],
+      "ok": true
+    },
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
+      "scope": "Full 812-unit inventory unchanged. 532 missing commentaries outside assigned author batch; no narrowing of shared build gate.",
+      "checked_at": "2026-10-20T18:30:38.795569+00:00"
+    },
+    "strict_validator": "pending clean output commit",
+    "statutory_text_expected_unchanged": true
+  }
+}

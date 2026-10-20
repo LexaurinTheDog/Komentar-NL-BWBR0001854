@@ -1,0 +1,2938 @@
+{
+  "checked_at": "2026-10-20T18:31:28.637478+00:00",
+  "checked": 586,
+  "broken": [],
+  "ok": true,
+  "links": [
+    {
+      "source": "00-inleiding.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "review-batch11-result.json",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "review-batch12-result.json",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "review-batch13-result.json",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "sources/review-batch13-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "00-inleiding.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "01-deel-01.md",
+      "target": "authorities/HR-2024-509.md",
+      "exists": true
+    },
+    {
+      "source": "01-deel-01.md",
+      "target": "authorities/HR-2011-BP6878.md",
+      "exists": true
+    },
+    {
+      "source": "02-deel-02.md",
+      "target": "authorities/HR-2022-1196.md",
+      "exists": true
+    },
+    {
+      "source": "02-deel-02.md",
+      "target": "authorities/HR-2025-119.md",
+      "exists": true
+    },
+    {
+      "source": "02-deel-02.md",
+      "target": "authorities/HR-2022-1729.md",
+      "exists": true
+    },
+    {
+      "source": "03-deel-03.md",
+      "target": "authorities/HR-2017-66.md",
+      "exists": true
+    },
+    {
+      "source": "03-deel-03.md",
+      "target": "authorities/HR-2022-11.md",
+      "exists": true
+    },
+    {
+      "source": "03-deel-03.md",
+      "target": "authorities/HR-2018-202.md",
+      "exists": true
+    },
+    {
+      "source": "03-deel-03.md",
+      "target": "sources/review-batch03-stb-2025-401.xml",
+      "exists": true
+    },
+    {
+      "source": "04-deel-04.md",
+      "target": "authorities/HR-2020-1378.md",
+      "exists": true
+    },
+    {
+      "source": "04-deel-04.md",
+      "target": "authorities/HR-2018-1156.md",
+      "exists": true
+    },
+    {
+      "source": "04-deel-04.md",
+      "target": "authorities/HR-2015-3689.md",
+      "exists": true
+    },
+    {
+      "source": "05-deel-05.md",
+      "target": "authorities/HR-2020-1523.md",
+      "exists": true
+    },
+    {
+      "source": "05-deel-05.md",
+      "target": "authorities/HR-2020-625.md",
+      "exists": true
+    },
+    {
+      "source": "05-deel-05.md",
+      "target": "authorities/HR-2013-BY8434.md",
+      "exists": true
+    },
+    {
+      "source": "06-deel-06.md",
+      "target": "authorities/HR-2020-2028.md",
+      "exists": true
+    },
+    {
+      "source": "06-deel-06.md",
+      "target": "authorities/HR-2024-1147.md",
+      "exists": true
+    },
+    {
+      "source": "06-deel-06.md",
+      "target": "authorities/HR-2022-1028.md",
+      "exists": true
+    },
+    {
+      "source": "06-deel-06.md",
+      "target": "authorities/HR-2023-282.md",
+      "exists": true
+    },
+    {
+      "source": "07-deel-07.md",
+      "target": "authorities/HR-2021-770.md",
+      "exists": true
+    },
+    {
+      "source": "07-deel-07.md",
+      "target": "authorities/HR-2023-1295.md",
+      "exists": true
+    },
+    {
+      "source": "07-deel-07.md",
+      "target": "authorities/HR-2012-BX6734.md",
+      "exists": true
+    },
+    {
+      "source": "07-deel-07.md",
+      "target": "authorities/HR-2016-456.md",
+      "exists": true
+    },
+    {
+      "source": "07-deel-07.md",
+      "target": "authorities/HR-2021-389.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2007-AZ0213.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2006-AZ2169.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2025-203.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2014-3474.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2014-3474.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2003-AF7938.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2016-733.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2017-1111.md",
+      "exists": true
+    },
+    {
+      "source": "08-deel-08.md",
+      "target": "authorities/HR-2017-1111.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "authorities/HR-2018-2242.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "authorities/HR-2018-2242.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "authorities/HR-2023-13.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "authorities/HR-2011-BM9102.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "authorities/HR-2012-BW9987.md",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "09-deel-09.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "10-deel-10.md",
+      "target": "authorities/HR-2025-289.md",
+      "exists": true
+    },
+    {
+      "source": "10-deel-10.md",
+      "target": "authorities/HR-2025-888.md",
+      "exists": true
+    },
+    {
+      "source": "10-deel-10.md",
+      "target": "authorities/HR-2025-289.md",
+      "exists": true
+    },
+    {
+      "source": "10-deel-10.md",
+      "target": "authorities/HR-2025-1701.md",
+      "exists": true
+    },
+    {
+      "source": "10-deel-10.md",
+      "target": "sources/review-batch10-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "11-deel-11.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "authorities/HR-2026-904.md",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-nuclear-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "authorities/HR-2013-BY9718.md",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "authorities/HR-2005-AS5983.md",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "authorities/HR-2018-1051.md",
+      "exists": true
+    },
+    {
+      "source": "12-deel-12.md",
+      "target": "sources/review-batch12-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-reference-anomaly.json",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "authorities/HR-2004-AO2599.md",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "authorities/HR-2009-BG7743.md",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-treaty-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-BWBR0002448-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "authorities/HR-2003-AI1588.md",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-BWBR0040634-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-BWBR0040635-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "13-deel-13.md",
+      "target": "sources/review-batch13-BWBR0040632-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "14-deel-14.md",
+      "target": "authorities/HR-2016-168.md",
+      "exists": true
+    },
+    {
+      "source": "14-deel-14.md",
+      "target": "authorities/HR-2015-768.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "00-inleiding.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "01-deel-01.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "02-deel-02.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "03-deel-03.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "04-deel-04.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "05-deel-05.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "06-deel-06.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "07-deel-07.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "08-deel-08.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "09-deel-09.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "10-deel-10.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "11-deel-11.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "12-deel-12.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "13-deel-13.md",
+      "exists": true
+    },
+    {
+      "source": "INDEX.md",
+      "target": "14-deel-14.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "preflight-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/preflight-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/original-intake.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/canonical.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "00-inleiding.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "INDEX.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "source-manifest.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "coverage-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "status.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "validation.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch02-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch02-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch03-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch03-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch04-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch04-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch05-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch05-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch05-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch06-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch06-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch07-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch07-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch08-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch08-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch09-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch09-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch10-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch10-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "LICENSE",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch11-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch11-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch12-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch12-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "review-batch13-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "author-a92-a100-result.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/author-a92-a100-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "README.md",
+      "target": "sources/author-a92-a100-historical-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "audit-report.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "build-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "validation.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "status.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "preflight-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch01-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch01-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2011-BP6878.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2024-509.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch02-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2022-1196.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2025-119.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2022-1729.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch02-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch02-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch02-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch03-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch02-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch03-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch03-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch03-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch04-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch03-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2020-1378.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2018-1156.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2015-3689.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch04-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch04-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2020-1523.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2020-625.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2013-BY8434.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch05-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch05-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch05-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch06-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2020-2028.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2023-282.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2024-1147.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2022-1028.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch06-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch06-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch07-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2021-770.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2023-1295.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2012-BX6734.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2021-389.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2016-456.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch07-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch07-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch07-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch07-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch08-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2007-AZ0213.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2006-AZ2169.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2014-3474.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2003-AF7938.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2016-733.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2017-1111.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2025-203.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch08-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-stb-2026-20.xml",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-stb-2026-81.xml",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch08-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch09-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2018-2242.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2023-13.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2011-BM9102.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2012-BW9987.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch09-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch09-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch10-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2025-289.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2025-888.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2025-1701.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/review-batch10-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-supplement-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch10-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch11-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch11-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch12-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch12-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "review-batch13-result.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "sources/review-batch13-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "REVIEW.md",
+      "target": "author-a92-a100-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/intake-version.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/bwb-manifest.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/firecrawl-information.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/manifest.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/original-intake.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "coverage-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "completeness-report.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "audit-report.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2024-509.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2011-BP6878.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2016-456.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/preflight-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/preflight-20261020-manifest.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/preflight-20261020-current.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/preflight-20261020-wti.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/preflight-20261020-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/statutory-content-audit.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/statutory-structure.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-manifest.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-official-judgment-2011-BP6878.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch01-official-judgment-2024-509.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch01-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch02-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch02-wti.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch02-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2022-1196.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2022-1729.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2025-119.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch02-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch02-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch01-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-effective.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-manifest.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-wti.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2017-66.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2018-202.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2022-11.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch03-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch03-stb-2025-401.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch03-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch04-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch04-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch04-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch04-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2020-1378.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2018-1156.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2015-3689.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch05-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch05-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch05-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2020-1523.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2020-625.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2013-BY8434.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch05-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch06-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch06-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2020-2028.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2023-282.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2024-1147.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2022-1028.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch05-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "review-batch06-result.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch07-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch07-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch07-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2021-770.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2023-1295.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2012-BX6734.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2021-389.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2016-456.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch07-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch08-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch08-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch08-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/verification.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch08-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch08-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2007-AZ0213.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2006-AZ2169.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2014-3474.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2003-AF7938.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2016-733.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2017-1111.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2025-203.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-historical.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-stb-2026-20.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-stb-2026-81.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-sv-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-stb-2006-330.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-stb-2008-4.html",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch09-stb-2006-310.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2018-2242.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2023-13.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2011-BM9102.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2012-BW9987.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-supplement-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-stb-2013-485.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-stb-2014-33.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-stb-2007-575.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-stb-2008-24.xml",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch10-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2025-289.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2025-888.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2025-1701.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch10-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-supplement-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch11-external-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2017-3186.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch11-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-supplement-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-history-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-history2-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-nuclear-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch12-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2018-1051.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2013-BY9718.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2026-904.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2005-AS5983.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch12-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-reference-anomaly.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-source-anomalies.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-treaty-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-supplement-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-extra-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-treaties-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-history-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/review-batch13-key-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2004-AO2599.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2009-BG7743.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2003-AI1588.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/review-batch13-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/author-a92-a100-version-evidence.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/author-a92-a100-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/author-a92-a100-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/author-a92-a100-authorities-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "sources/author-a92-a100-historical-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2016-168.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/HR-2015-768.md",
+      "exists": true
+    },
+    {
+      "source": "SOURCES.md",
+      "target": "authorities/author-a92-a100-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2003-AF7938.md",
+      "target": "../sources/review-batch08-judgment-2003-AF7938.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2003-AF7938.md",
+      "target": "../sources/review-batch08-judgment-2003-AF7938.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2003-AI1588.md",
+      "target": "../sources/review-batch13-HR-2003-AI1588.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2003-AI1588.md",
+      "target": "review-batch13-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2004-AO2599.md",
+      "target": "../sources/review-batch13-HR-2004-AO2599.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2004-AO2599.md",
+      "target": "review-batch13-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "../sources/review-batch12-PHR-2005-AS5983.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "../sources/review-batch12-HR-2005-AS5983.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "../sources/review-batch12-HR-2005-AS5983-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "../sources/review-batch12-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "../sources/review-batch12-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2005-AS5983.md",
+      "target": "review-batch12-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2006-AZ2169.md",
+      "target": "../sources/review-batch08-judgment-2006-AZ2169.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2006-AZ2169.md",
+      "target": "../sources/review-batch08-judgment-2006-AZ2169.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2007-AZ0213.md",
+      "target": "../sources/review-batch08-judgment-2007-AZ0213.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2007-AZ0213.md",
+      "target": "../sources/review-batch08-judgment-2007-AZ0213.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2009-BG7743.md",
+      "target": "../sources/review-batch13-judgment-2009-BG7743.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2009-BG7743.md",
+      "target": "review-batch13-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BM9102.md",
+      "target": "../sources/review-batch09-judgment-2011-BM9102.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BM9102.md",
+      "target": "../sources/review-batch09-judgment-2011-BM9102.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BM9102.md",
+      "target": "../sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BM9102.md",
+      "target": "review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BP6878.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2011-BP6878.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BP6878.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2011-BP6878.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BP6878.md",
+      "target": "../sources/review-batch01-official-judgment-2011-BP6878.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2011-BP6878.md",
+      "target": "../sources/review-batch01-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BW9987.md",
+      "target": "../sources/review-batch09-judgment-2012-BW9987.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BW9987.md",
+      "target": "../sources/review-batch09-judgment-2012-BW9987.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BW9987.md",
+      "target": "../sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BW9987.md",
+      "target": "review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BX6734.md",
+      "target": "../sources/review-batch07-judgment-2012-BX6734.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2012-BX6734.md",
+      "target": "../sources/review-batch07-judgment-2012-BX6734.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY8434.md",
+      "target": "../sources/review-batch05-judgment-2013-BY8434.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY8434.md",
+      "target": "../sources/review-batch05-judgment-2013-BY8434.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY8434.md",
+      "target": "../sources/review-batch05-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY9718.md",
+      "target": "../sources/review-batch12-judgment-2013-BY9718.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY9718.md",
+      "target": "../sources/review-batch12-judgment-2013-BY9718-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY9718.md",
+      "target": "../sources/review-batch12-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY9718.md",
+      "target": "../sources/review-batch12-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2013-BY9718.md",
+      "target": "review-batch12-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2014-3474.md",
+      "target": "../sources/review-batch08-judgment-2014-3474.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2014-3474.md",
+      "target": "../sources/review-batch08-judgment-2014-3474.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-3689.md",
+      "target": "../sources/review-batch04-judgment-2015-3689.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-3689.md",
+      "target": "../sources/review-batch04-judgment-2015-3689.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-3689.md",
+      "target": "../sources/review-batch04-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-768.md",
+      "target": "../sources/author-a92-a100-judgment-2015-768.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-768.md",
+      "target": "../sources/author-a92-a100-judgment-2015-768.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-768.md",
+      "target": "../sources/author-a92-a100-authorities-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2015-768.md",
+      "target": "../sources/author-a92-a100-historical-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-168.md",
+      "target": "../sources/author-a92-a100-judgment-2016-168.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-168.md",
+      "target": "../sources/author-a92-a100-judgment-2016-168.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-168.md",
+      "target": "../sources/author-a92-a100-authorities-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-168.md",
+      "target": "../sources/author-a92-a100-historical-change-map.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-456.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2016-456.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-456.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2016-456.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-456.md",
+      "target": "../sources/review-batch07-judgment-2016-456.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-456.md",
+      "target": "../sources/review-batch07-judgment-2016-456.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-733.md",
+      "target": "../sources/review-batch08-judgment-2016-733.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2016-733.md",
+      "target": "../sources/review-batch08-judgment-2016-733.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-1111.md",
+      "target": "../sources/review-batch08-judgment-2017-1111.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-1111.md",
+      "target": "../sources/review-batch08-judgment-2017-1111.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-3186.md",
+      "target": "../sources/review-batch11-judgment-2017-3186.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-3186.md",
+      "target": "../sources/review-batch11-judgment-2017-3186-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-3186.md",
+      "target": "HR-2026-1003.md",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-3186.md",
+      "target": "../sources/review-batch11-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-3186.md",
+      "target": "review-batch11-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-66.md",
+      "target": "../sources/review-batch03-judgment-2017-66.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-66.md",
+      "target": "../sources/review-batch03-judgment-2017-66.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2017-66.md",
+      "target": "../sources/review-batch03-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1051.md",
+      "target": "../sources/review-batch12-judgment-2018-1051.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1051.md",
+      "target": "../sources/review-batch12-judgment-2018-1051-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1051.md",
+      "target": "../sources/review-batch12-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1051.md",
+      "target": "../sources/review-batch12-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1051.md",
+      "target": "review-batch12-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1156.md",
+      "target": "../sources/review-batch04-judgment-2018-1156.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1156.md",
+      "target": "../sources/review-batch04-judgment-2018-1156.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-1156.md",
+      "target": "../sources/review-batch04-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-202.md",
+      "target": "../sources/review-batch03-judgment-2018-202.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-202.md",
+      "target": "../sources/review-batch03-judgment-2018-202.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-202.md",
+      "target": "../sources/review-batch03-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-2242.md",
+      "target": "../sources/review-batch09-judgment-2018-2242.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-2242.md",
+      "target": "../sources/review-batch09-judgment-2018-2242.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-2242.md",
+      "target": "../sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2018-2242.md",
+      "target": "review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1378.md",
+      "target": "../sources/review-batch04-judgment-2020-1378.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1378.md",
+      "target": "../sources/review-batch04-judgment-2020-1378.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1378.md",
+      "target": "../sources/review-batch04-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1523.md",
+      "target": "../sources/review-batch05-judgment-2020-1523.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1523.md",
+      "target": "../sources/review-batch05-judgment-2020-1523.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-1523.md",
+      "target": "../sources/review-batch05-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-2028.md",
+      "target": "../sources/review-batch06-judgment-2020-2028.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-2028.md",
+      "target": "../sources/review-batch06-judgment-2020-2028.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-2028.md",
+      "target": "../sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-2028.md",
+      "target": "review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-625.md",
+      "target": "../sources/review-batch05-judgment-2020-625.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-625.md",
+      "target": "../sources/review-batch05-judgment-2020-625.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2020-625.md",
+      "target": "../sources/review-batch05-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2021-389.md",
+      "target": "../sources/review-batch07-judgment-2021-389.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2021-389.md",
+      "target": "../sources/review-batch07-judgment-2021-389.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2021-770.md",
+      "target": "../sources/review-batch07-judgment-2021-770.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2021-770.md",
+      "target": "../sources/review-batch07-judgment-2021-770.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1028.md",
+      "target": "../sources/review-batch06-judgment-2022-1028.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1028.md",
+      "target": "../sources/review-batch06-judgment-2022-1028.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1028.md",
+      "target": "../sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1028.md",
+      "target": "review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-11.md",
+      "target": "../sources/review-batch03-judgment-2022-11.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-11.md",
+      "target": "../sources/review-batch03-judgment-2022-11.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-11.md",
+      "target": "../sources/review-batch03-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1196.md",
+      "target": "../sources/review-batch02-official-judgment-2022-1196.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1196.md",
+      "target": "../sources/review-batch02-official-judgment-2022-1196.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1196.md",
+      "target": "../sources/review-batch02-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1729.md",
+      "target": "../sources/review-batch02-official-judgment-2022-1729.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1729.md",
+      "target": "../sources/review-batch02-official-judgment-2022-1729.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2022-1729.md",
+      "target": "../sources/review-batch02-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-1295.md",
+      "target": "../sources/review-batch07-judgment-2023-1295.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-1295.md",
+      "target": "../sources/review-batch07-judgment-2023-1295.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-13.md",
+      "target": "../sources/review-batch09-judgment-2023-13.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-13.md",
+      "target": "../sources/review-batch09-judgment-2023-13.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-13.md",
+      "target": "../sources/review-batch09-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-13.md",
+      "target": "review-batch09-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-282.md",
+      "target": "../sources/review-batch06-judgment-2023-282.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-282.md",
+      "target": "../sources/review-batch06-judgment-2023-282.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-282.md",
+      "target": "../sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2023-282.md",
+      "target": "review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-1147.md",
+      "target": "../sources/review-batch06-judgment-2024-1147.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-1147.md",
+      "target": "../sources/review-batch06-judgment-2024-1147.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-1147.md",
+      "target": "../sources/review-batch06-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-1147.md",
+      "target": "review-batch06-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-509.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2024-509.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-509.md",
+      "target": "../sources/judgment-ECLI-NL-HR-2024-509.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-509.md",
+      "target": "../sources/review-batch01-official-judgment-2024-509.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2024-509.md",
+      "target": "../sources/review-batch01-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-119.md",
+      "target": "../sources/review-batch02-official-judgment-2025-119.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-119.md",
+      "target": "../sources/review-batch02-official-judgment-2025-119.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-119.md",
+      "target": "../sources/review-batch02-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-1701.md",
+      "target": "../sources/review-batch10-judgment-2025-1701.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-1701.md",
+      "target": "../sources/review-batch10-judgment-2025-1701-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-1701.md",
+      "target": "../sources/review-batch10-2025-1701-pinpoints.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-1701.md",
+      "target": "review-batch10-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-203.md",
+      "target": "../sources/review-batch08-judgment-2025-203.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-203.md",
+      "target": "../sources/review-batch08-judgment-2025-203.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-289.md",
+      "target": "../sources/review-batch10-judgment-2025-289.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-289.md",
+      "target": "../sources/review-batch10-judgment-2025-289-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-289.md",
+      "target": "../sources/review-batch10-2025-289-pinpoints.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-289.md",
+      "target": "review-batch10-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-888.md",
+      "target": "../sources/review-batch10-judgment-2025-888.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-888.md",
+      "target": "../sources/review-batch10-judgment-2025-888-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-888.md",
+      "target": "../sources/review-batch10-2025-888-pinpoints.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2025-888.md",
+      "target": "review-batch10-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-1003.md",
+      "target": "../sources/review-batch11-judgment-2026-1003.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-1003.md",
+      "target": "../sources/review-batch11-judgment-2026-1003-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-1003.md",
+      "target": "../sources/review-batch11-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-1003.md",
+      "target": "review-batch11-search-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-904.md",
+      "target": "../sources/review-batch12-HR-2026-904.xml",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-904.md",
+      "target": "../sources/review-batch12-HR-2026-904-body.txt",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-904.md",
+      "target": "../sources/review-batch12-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-904.md",
+      "target": "../sources/review-batch12-cases-fetch-log.json",
+      "exists": true
+    },
+    {
+      "source": "authorities/HR-2026-904.md",
+      "target": "review-batch12-search-log.json",
+      "exists": true
+    }
+  ]
+}

@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2026:2400</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-04-24T10:07:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">71/264218-23</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJFS 2026/99</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2026:2400">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2026:2400</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-11T12:13:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2026:2400 Rechtbank Rotterdam , 11-03-2026 / 71/264218-23</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2026:2400:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Onderzoek 28Celestien – Vonnis tegen een voorm. medewerker van de NCTV. </para>
+        <para>Veroordeling voor het opzettelijk onder zich nemen en houden van staatsgeheime stukken, zonder daartoe gerechtigd te zijn. Gevangenisstraf van 20 maanden (conform duur ondergane voorlopige hechtenis). </para>
+      </parablock>
+      <para />
+      <para>Dagvaarding nietig t.a.v. de ten laste gelegde pogingen tot het overdragen van staatsgeheime stukken aan – kort gezegd – (medewerkers van) de Marokkaanse inlichtingendienst ‘DGED’, en partieel nietig t.a.v. de onder 2 primair opgenomen zinsnede met overige (niet concreet benoemde) gerubriceerde documenten.</para>
+      <para />
+      <para>Vrijspraak voor het overdragen van staatsgeheime documenten aan die medewerkers en voorbereidingshandelingen daarvoor.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2026:2400:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold caps">Rechtbank Rotterdam</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Meervoudige kamer strafzaken</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Parketnummer: 71/264218-23 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Datum uitspraak: 11 maart 2026</para>
+      <para>Data zittingen: 3, 4 en 6 februari en 11 maart 2026</para>
+      <para>Tegenspraak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte:</para>
+      <para>
+        <emphasis role="bold">
+          [verdachte] ,</emphasis>
+      </para>
+      <para>geboren op [geboortedatum] 1959 in [geboorteplaats] ( [geboorteland] ),</para>
+      <para>ingeschreven op het adres [adres] , [postcode] [plaatsnaam] . </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Advocaat van de verdachte: mr. B.Th. Nooitgedagt</para>
+      <para>Officieren van justitie: LAP 1069 en LAP 1070 (hierna: de officier van justitie)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Kern van het vonnis</emphasis>
+      </para>
+      <para>De verdachte heeft opzettelijk staatsgeheime stukken onder zich gehouden in zijn woning en zijn bagage, zonder daartoe gerechtigd te zijn. Een deel van die documenten heeft hij ook opzettelijk onder zich genomen, zonder daartoe gerechtigd te zijn, door ze op kantoor te printen, mee naar huis te nemen en daar te scannen. Hiervoor wordt aan hem een geheel onvoorwaardelijke gevangenisstraf voor de duur van 20 maanden opgelegd, die gelijk is aan de duur van de voorlopige hechtenis die hij heeft ondergaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De dagvaarding is nietig ten aanzien van de ten laste gelegde pogingen tot het overdragen van staatsgeheime stukken aan – kort gezegd – (medewerkers van) de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ (hierna: DGED), en partieel nietig ten aanzien van de onder 2 primair opgenomen zinsnede met overige (niet concreet benoemde) gerubriceerde documenten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De verdachte wordt vrijgesproken van het ten laste gelegde overdragen van staatsgeheime documenten aan (medewerkers van) de DGED en voorbereidingshandelingen daarvoor.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Leeswijzer</emphasis>
+      </para>
+      <para>De officier van justitie beschuldigt de verdachte ervan dat hij – samengevat – ongerechtigd staatsgeheime documenten onder zich heeft genomen en/of gehouden en dat hij die heeft overgedragen (of heeft geprobeerd die over te dragen) aan een buitenlandse mogendheid, namelijk de DGED danwel een in het buitenland gevestigde persoon of lichaam, namelijk medewerkers van deze dienst, danwel daartoe voorbereidingshandelingen heeft verricht. De volledige tenlastelegging is opgenomen in hoofdstuk 1.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De dagvaarding onder 1 en 2 is op onderdelen nietig. Deze beslissing wordt in hoofdstuk 2 uitgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De beschuldiging is voor een deel bewezen. De bewezenverklaring, de motivering daarvan en de bespreking van de bewijsverweren, de bewijsmiddelen en de argumenten die op onderdelen tot vrijspraak hebben geleid, staan in hoofdstuk 3.<footnote-ref linkend="_25edc37d-c251-49af-bf4e-600f7334cb42" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De feiten en de verdachte zijn strafbaar. Deze beslissingen staan in hoofdstuk 4. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank legt aan de verdachte een gevangenisstraf van 20 maanden op, met aftrek van voorarrest. In hoofdstuk 5 wordt uitgelegd waarom deze straf wordt opgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In hoofdstuk 6 staat de beslissing over de voorlopige hechtenis.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In hoofdstuk 7 zijn de toegepaste wetsbepalingen vermeld en in hoofdstuk 8 staan alle beslissingen in het kort.</para>
+    </parablock>
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Tenlastelegging  </title>
+    <para>De volledige tenlastelegging (hierna beschuldiging) houdt in dat </para>
+    <para />
+    <bridgehead role="italic">1 primair</bridgehead>
+    <parablock>
+      <para>hij in of omstreeks de periode van 18 oktober 2023 tot en met 26 oktober 2023 te Haarlemmermeer, Den Haag en/of Rotterdam, althans (elders) in Nederland, </para>
+      <para>ter uitvoering van het door verdachte voorgenomen misdrijf om een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend, te weten:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Inlichtingenanalyse ‘Normbeeld Marokkaanse inlichtingenactiviteiten in Nederland’, d.d. 16-07-2021, kenmerk 92295c16-or1-1.9 en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD Inlichtingenbericht d.d. 29 maart 2021, Digitaal, F.01.005 (Device nr.) met kenmerk DIS2021004605 en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (par. 3.4.1. en 3.4.2. Zaakdossier en [proces-verbaalnummer] , p.1005-1006)</para>
+      </listitem>
+    </itemizedlist>
+    <para>zonder daartoe gerechtigd te zijn opzettelijk te verstrekken aan en/of ter beschikking te stellen van een buitenlandse mogendheid (te weten: de Marokkaanse inlichtingendienst 'Direction Générale d’Etudes et de Documentation’) en/of een in het buitenland gevestigd persoon en/of lichaam (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’) </para>
+      </listitem>
+    </orderedlist>
+    <para>en/of aan zodanige personen (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’)</para>
+      </listitem>
+    </orderedlist>
+    <parablock>
+      <para>dat gevaar ontstaat dat de inlichtingen en/of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend worden, terwijl verdachte wist althans redelijkerwijs moest vermoeden, dat het zodanige inlichtingen, gegevens en/of voorwerpen betroffen, terwijl verdachte heeft gehandeld in opdracht van een buitenlandse mogendheid en/of van een in het buitenland gevestigd persoon en/of lichaam </para>
+      <para>terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid</para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">1 subsidiair</bridgehead>
+    <parablock>
+      <para>hij in of omstreeks de periode van 18 oktober 2023 tot en met 26 oktober 2023 te</para>
+      <para>Haarlemmermeer, Den Haag en/of Rotterdam, althans (elders) in Nederland,</para>
+      <para>een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend, te weten:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Inlichtingenanalyse ‘Normbeeld Marokkaanse inlichtingenactiviteiten in Nederland’, d.d. 16-07-2021, kenmerk 92295c16-or1-1.9 en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD Inlichtingenbericht d.d. 29 maart 2021, Digitaal, F.01.005 (Device nr.) met kenmerk DIS2021004605 en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (par. 3.4.1. en 3.4.2. Zaakdossier en [proces-verbaalnummer] , p.1005-1006)</para>
+      </listitem>
+    </itemizedlist>
+    <para>zonder daartoe gerechtigd te zijn opzettelijk onder zich heeft genomen en/of gehouden;</para>
+    <para />
+    <bridgehead role="italic">2 primair</bridgehead>
+    <para>hij in of omstreeks de periode van 23 december 2022 tot en met 15 september 2023 te Den Haag en/of Rotterdam, althans (elders) in Nederland en/of Marokko, een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend, te weten:</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>EU SECRET - EEAS (2023) 10242 - 28 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10243 02 May 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EEAS (2023) 10235 28 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10232 27 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 (par. 5.11.5) en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DlS2023010634 (par. 5.11.5) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-or1-1.5 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-or1-1.1 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.5 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk</para>
+      </listitem>
+    </itemizedlist>
+    <para>zonder daartoe gerechtigd te zijn opzettelijk heeft verstrekt aan en/of ter beschikking heeft gesteld van een buitenlandse mogendheid (te weten: de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’) en/of een in het buitenland gevestigd persoon en/of lichaam (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’)</para>
+      </listitem>
+    </orderedlist>
+    <para>en/of aan zodanige personen (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’)</para>
+      </listitem>
+    </orderedlist>
+    <para>dat gevaar ontstaat dat de inlichtingen en/of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend worden, terwijl verdachte wist althans redelijkerwijs moest vermoeden, dat het zodanige inlichtingen, gegevens en/of voorwerpen betroffen, terwijl verdachte heeft gehandeld in opdracht van een buitenlandse mogendheid en/of van een in het buitenland gevestigd persoon en/of lichaam;</para>
+    <para />
+    <bridgehead role="italic">2 subsidiair </bridgehead>
+    <parablock>
+      <para>hij in of omstreeks de periode van 23 december 2022 tot en met 15 september 2023 te Den Haag en/of Rotterdam, althans (elders) in Nederland en/of Marokko,</para>
+      <para>ter uitvoering van het door verdachte voorgenomen misdrijf om een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend, te weten:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>EU SECRET - EEAS (2023) 10242 - 28 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10243 02 May 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EEAS (2023) 10235 28 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10232 27 April 2023 (pvb [nummer 6] ) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 (par. 5.11.5) en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DlS2023010634 (par. 5.11.5) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-or1-1.5 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-or1-1.1 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176 (par. 5.12.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.5 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1 (par. 5.13.3) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>MIVD Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182 (par. 5.14.6) en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk </para>
+      </listitem>
+    </itemizedlist>
+    <para>zonder daartoe gerechtigd te zijn opzettelijk te verstrekken aan en/of ter beschikking te stellen van een buitenlandse mogendheid (te weten: de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’) en/of een in het buitenland gevestigd persoon en/of lichaam (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse</para>
+      </listitem>
+      <listitem>
+        <para>inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’)</para>
+      </listitem>
+    </orderedlist>
+    <para>en/of aan zodanige personen (te weten:</para>
+    <orderedlist numeration="none">
+      <listitem>
+        <para>
+          [persoon 1] , zijnde de directeur contra-inlichtingen van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 2] , zijnde inlichtingenofficier/(plaatsvervangend) directeur van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 3] , zijnde medewerker van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’ en/of</para>
+      </listitem>
+      <listitem>
+        <para>
+          [persoon 4] , zijnde inlichtingenofficier van de Marokkaanse inlichtingendienst ‘Direction Générale d’Etudes et de Documentation’)</para>
+      </listitem>
+    </orderedlist>
+    <parablock>
+      <para>dat gevaar ontstaat dat de inlichtingen en/of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend worden terwijl verdachte wist althans redelijkerwijs moest vermoeden, dat het zodanige inlichtingen, gegevens en/of voorwerpen betroffen, terwijl verdachte heeft gehandeld in opdracht van een buitenlandse mogendheid en/of van een in het buitenland gevestigd persoon en/of lichaam</para>
+      <para>terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <bridgehead role="italic">2 meer subsidiair</bridgehead>
+    <parablock>
+      <para>hij op een of meer tijdstip(pen) in of omstreeks de periode van 23 december 2022 tot en met 15 september 2023 te Den Haag en/of Rotterdam, althans (elders) in Nederland en/of Marokko, </para>
+      <para>(telkens) ter voorbereiding van het misdrijf om een of meer inlichtingen en/ of gegevens waarvan de geheimhouding door het belang van de staat en/ of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend </para>
+      <para>zonder daartoe gerechtigd te zijn opzettelijk te verstrekken aan en/of ter beschikking te stellen van een buitenlandse mogendheid en/of een in het buitenland gevestigd persoon en/of lichaam en/of aan zodanige personen  </para>
+      <para>dat gevaar ontstaat dat de inlichtingen en/of de gegevens aan een buitenlandse mogendheid of aan een in het buitenland gevestigd persoon of lichaam bekend worden terwijl verdachte wist althans redelijkerwijs moest vermoeden, dat het zodanige inlichtingen, gegevens en/ of voorwerpen betroffen, terwijl verdachte heeft gehandeld in opdracht van een buitenlandse mogendheid en/ of van een in het buitenland gevestigd persoon en/of lichaam,</para>
+      <para>zijnde (telkens) een misdrijf als strafbaar gesteld in artikel 98a lid 1 en lid 2 Wetboek van Strafrecht,</para>
+      <para>opzettelijk voorwerpen, bestemd tot het begaan van die/dat misdrijf/misdrijven heeft verworven en/of voorhanden heeft gehad in verdachtes woning aan de [adres] , te weten:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>een of meerdere gegevensdragers/USB stick(s)/telefoon(s)/geheugenkaartje(s), en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meerdere vliegtickets en/ of reisbescheiden, en/of</para>
+      </listitem>
+      <listitem>
+        <para>een of meerdere staatsgeheim gerubriceerde en confidentiële documenten en/ of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/ of departementaal vertrouwelijk;</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">3</emphasis>
+      </para>
+      <para>hij op of omstreeks 26 en 27 oktober 2023 te Rotterdam althans (elders) in Nederland,</para>
+      <para>een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend, te weten:</para>
+      <para>Fysiek aangetroffen documenten:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Inlichtingenanalyse, d.d. 31-05-2023, kenmerk 9746bdff-or1-1.4 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Intelligence Update Week 26, Hardcopy, A.06.04.001.266 / A.06.04.001.264 met kenmerk DIS2023013187 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634 en/of </para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere fysieke staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk ( [proces-verbaalnummer] , p. 1001-1002)</para>
+      </listitem>
+    </itemizedlist>
+    <parablock>
+      <para>en/of</para>
+      <para>Op digitale gegevensdragers aangetroffen</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>EU SECRET - EEAS (2023) 10242 - 28 April 2023 en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10243 02 May 2023 en/of</para>
+      </listitem>
+      <listitem>
+        <para>EEAS (2023) 10235 28 April 2023 en/of</para>
+      </listitem>
+      <listitem>
+        <para>EU SECRET EEAS (2023) 10232 27 April 2023 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-or1-1.5 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-or1-1.1 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.5 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176 en/of</para>
+      </listitem>
+      <listitem>
+        <para>Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634 en/of </para>
+      </listitem>
+      <listitem>
+        <para>een of meer andere digitale staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (PVB [nummer 3] , p. 1003-1005)</para>
+      </listitem>
+    </itemizedlist>
+    <para>zonder daartoe gerechtigd te zijn opzettelijk onder zich heeft genomen en/of gehouden.</para>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Geldigheid van de dagvaarding</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Ambtshalve beoordeling geldigheid feiten 1 primair en 2 subsidiair</emphasis>
+        </para>
+        <para>De rechtbank constateert dat de tenlastelegging onder 1 primair en 2 subsidiair niet voldoet aan de in artikel 261 van het Wetboek van Strafvordering (hierna: Sv) gestelde eisen voor een geldige dagvaarding. In beide tenlasteleggingen ontbreekt een omschrijving van de feitelijke handelingen die de verdachte zou hebben verricht ter uitvoering van het volgens de tenlastelegging door hem voorgenomen misdrijf, –kort gezegd – het overdragen van staatsgeheime documenten aan (medewerkers van) de DGED. De tenlastelegging is daarmee in zoverre syntactisch incorrect (de zin loopt niet door), inhoudelijk onvolledig en daardoor ook niet goed te begrijpen. Onduidelijk is wat de verdachte in deze onderdelen van de tenlastelegging wordt verweten. Daarom zal de rechtbank de dagvaarding ten aanzien van de feiten 1 primair en 2 subsidiair nietig verklaren.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>
+        <emphasis role="underline">Beoordeling verweer partiële nietigheid dagvaarding  </emphasis>
+      </para>
+      <para />
+      <paragroup>
+        <nr>2.2.1.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Standpunt van de verdediging</emphasis>
+          </para>
+          <para>De dagvaarding dient nietig te worden verklaard ten aanzien van ieder ongespecificeerd document, in de tenlastelegging slechts aangeduid als ‘een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk’. Deze onderdelen van de dagvaarding zijn zo ruim en weinig concreet geformuleerd dat het voor de verdediging niet inzichtelijk is waartegen de verdachte zich dient te verdedigen en het voor de rechtbank niet duidelijk is waarover zij dient te beslissen. De dagvaarding is daarom op deze onderdelen strijdig is met het bepaalde in artikel 261 Sv. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Standpunt van de officier van justitie</emphasis>
+          </para>
+          <para>De functie van de dagvaarding is dat de verdachte daarmee voldoende wordt geïnformeerd ten aanzien van het strafrechtelijk verwijt dat hem wordt gemaakt. Aan dat criterium is voldaan. Uit wat er ter zitting met de verdachte is besproken, blijkt dat hij weet waar het over gaat. Het verweer dat strekt tot partiële nietigheid van de dagvaarding slaagt daarom niet, aldus de officier van justitie. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3.</nr>
+        <para>
+          <emphasis role="italic">Oordeel van de rechtbank</emphasis>
+        </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 1 subsidiair</emphasis>
+          </para>
+          <para>Onder feit 1 subsidiair is onder ‘een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend’ een opsomming van documenten gegeven. Daarbij zijn twee concrete documenten genoemd. Vervolgens is een categorie met overige documenten genoemd, die zijn aangeduid als ‘een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (par. 3.4.1. en 3.4.2. Zaakdossier en PVB [nummer 3] , p.1005-1006)’.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De in deze zinsnede genoemde paragraaf 3.4.1. van het zaaksdossier verwijst naar het proces-verbaal van bevindingen met documentcode [nummer 1]<footnote-ref linkend="_655fefad-13c9-4e36-bc8f-5f142c69725e" />. Dit proces-verbaal bevat de bevindingen van het onderzoek naar gerubriceerde documenten op twee van de gegevensdragers die bij de aanhouding van de verdachte op Schiphol op 26 oktober 2023 in zijn bagage zijn aangetroffen, namelijk de M2 Toshiba 256 GB (met beslagcode F.01.006) en de Samsung T5 SSD 1 TB (met beslagcode F.01.007). Hierin zijn de op deze gegevensdragers aangetroffen gerubriceerde documenten afzonderlijk benoemd. Onder het kopje ‘zoekresultaten’ is per gegevensdrager (en per daarop aanwezige ‘filepath’) gespecificeerd (met concrete aanduiding van de betreffende documenten, data daarvan en de rubriceringen daarvan) welke gerubriceerde documenten daarop zijn aangetroffen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De genoemde paragraaf 3.4.2. van het zaaksdossier verwijst naar het proces-verbaal van bevindingen met documentcode [nummer 2]<footnote-ref linkend="_d462eb75-2954-4b37-9398-4a06304e0f4e" />. In dit proces-verbaal staan de bevindingen van het onderzoek naar gerubriceerde documenten op de derde bij de verdachte aangetroffen gegevensdrager, namelijk de Samsung EVO SSD 4 TB (met beslagcode F.01.005). Dit proces-verbaal bevat geen opsomming van de afzonderlijke aangetroffen gerubriceerde stukken, zoals het in de vorige alinea genoemde proces-verbaal. In dit proces-verbaal is alleen vermeld op welke zoektermen (rubriceringen) is gezocht en een opsomming gegeven van het aantal documenten dat is voorzien van een bepaalde rubricering. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In de tenlastelegging is verder verwezen naar het proces-verbaal van bevindingen met documentcode [nummer 3] en specifiek het deel van dit proces-verbaal op blz. DB01005-1006. Op deze bladzijdenummers is een schema opgenomen met daarin een totaaloverzicht van de aangetroffen gerubriceerde documenten op de M2 Toshiba 256 GB en de Samsung T5 SSD 1 TB (waarin dit per jaartal en per rubricering is weergegeven). Dit proces-verbaal bevat op blz. DB01007 ook een schema met een totaaloverzicht van de aangetroffen gerubriceerde documenten op de Samsung EVO SSD 4 TB, maar deze pagina is niet opgenomen in de tenlastelegging. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet hierop gaat de rechtbank er van uit dat de onder 1 subsidiair opgenomen categorie met overige documenten betrekking heeft op de gerubriceerde documenten die zijn aangetroffen op de M2 Toshiba 256 GB en de Samsung T5 SSD 1 TB, die concreet zijn benoemd in het proces-verbaal van bevindingen met documentcode [nummer 1] . </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank is op basis van het voorgaande van oordeel dat de aanduiding van documenten in deze zinsnede, bezien in het licht van de inhoud van het dossier, voldoende specifiek en feitelijk is. Op basis van deze zinsnede in combinatie met genoemde onderdelen van het dossier moet het voor de verdachte voldoende duidelijk zijn om welke documenten het hier gaat, zodat het ook op dit onderdeel voor hem voldoende duidelijk is waartegen hij zich dient te verdedigen. Daarmee voldoet deze zinsnede aan de eisen die in artikel 261 Sv aan de dagvaarding worden gesteld. De dagvaarding is daarom ook ten aanzien van deze zinsnede geldig. Het verweer wordt verworpen voor zover het ziet op deze zinsnede. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 3</emphasis>
+          </para>
+          <para>De tenlastelegging van feit 3 bevat onder ‘een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend’ een opsomming van fysiek aangetroffen documenten en op digitale gegevensdragers aangetroffen documenten. Bij beide opsommingen is, na benoeming van een aantal concrete documenten, een categorie overige documenten opgenomen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij de fysieke documenten is deze categorie aangeduid als ‘een of meer andere fysieke staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (PVB [nummer 3] , p. 1001-1002)’. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij de documenten, aangetroffen op de digitale gegevensdragers, is deze categorie aangeduid als ‘een of meer andere digitale staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (PVB [nummer 3] , p. 1003-1005)’. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In het proces-verbaal van bevindingen met documentcode [nummer 3] , waarnaar in deze zinsneden wordt verwezen, staan op de genoemde bladzijdenummers schema’s met totaaloverzichten van de gerubriceerde documenten die bij de doorzoeking van de woning van de verdachte op 26 en 27 oktober 2023 zijn aangetroffen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op de genoemde bladzijdenummers DB01001/1002 staat het schema met het totaaloverzicht van de aangetroffen fysieke gerubriceerde documenten, met vermelding van de beslagcodes van deze documenten, met daarbij de rubricering(en) daarvan. Op een klein deel na zijn deze beslagcodes terug te vinden op de beslaglijst bij het proces-verbaal van doorzoeking in het beslagdossier<footnote-ref linkend="_f9eba279-44e8-4e2f-a748-3b4059c659b1" /> en in het proces-verbaal van bevindingen [nummer 4]<footnote-ref linkend="_adb3e25a-1062-42d0-a2e2-9d56d373e644" /> met betrekking tot de later nog in het beslag aangetroffen fysieke gerubriceerde documenten. Bij deze beslagcodes staat een beschrijving van het betreffende document en de rubricering daarvan. De rechtbank gaat er vanuit dat de categorie met overige fysieke gerubriceerde documenten ziet op de documenten die ook op de beslaglijst zijn vermeld en daarin zijn gespecificeerd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op de genoemde bladzijdenummers DB01003-1005 staat het schema met het totaaloverzicht van digitale documenten die zijn aangetroffen op de in de woning in beslag genomen gegevensdragers. De genoemde gegevensdragers staan ook op voornoemde beslaglijst. Op blz. DB01003 staat (boven het schema) een verwijzing naar het onderliggende proces-verbaal van bevindingen met documentcode [nummer 5]<footnote-ref linkend="_bbee43dd-2c13-4f34-aa78-894ac940c7e2" />. Evenals in het hiervoor bij feit 1 subsidiair genoemde proces-verbaal van bevindingen met documentcode [nummer 1] is hierin onder het kopje ‘zoekresultaten’ per gegevensdrager specifiek (met concrete aanduiding van de betreffende documenten, data daarvan en de rubriceringen daarvan) weergegeven welke gerubriceerde documenten daarop zijn aangetroffen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank komt daarom ten aanzien van deze zinsneden tot dezelfde conclusie als bij feit 1 subsidiair, namelijk dat deze, bezien in het licht van de inhoud van het dossier, voldoende specifiek en feitelijk zijn en dus voldoen aan de eisen van artikel 261 Sv. De dagvaarding is daarom ook ten aanzien van deze zinsneden geldig. De rechtbank verwerpt het verweer voor zover dat ziet op deze zinsneden. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 2 primair</emphasis>
+          </para>
+          <para>Ook in de tenlastelegging van feit 2 primair is onder ‘een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend’ een opsomming opgenomen van concreet genoemde documenten en daarna een categorie met overige documenten. Deze categorie is aangeduid als ‘een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk’. Hierin ontbreekt (anders dan bij de feiten 1 en 3) een verwijzing naar een paragraaf/paragrafen in het zaaksdossier en/of processen-verbaal in het dossier met betrekking tot aangetroffen gerubriceerde documenten. Zonder een zodanige verwijzing is het – ook in het licht van de inhoud van het dossier – niet duidelijk om welke documenten het hier gaat, gelet ook op de hoeveelheid van documenten die in het dossier zijn opgenomen dan wel genoemd. Deze aanduiding van documenten is dus onvoldoende specifiek en feitelijk, waardoor het voor de verdachte niet duidelijk is waartegen hij zich dient te verweren en het voor de rechtbank ook niet duidelijk is waarover zij dient te beslissen. Daarmee voldoet deze zinsnede niet aan de eisen die in artikel 261 Sv aan de dagvaarding worden gesteld. De dagvaarding zal daarom in zoverre nietig worden verklaard.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 2 meer subsidiair</emphasis>
+          </para>
+          <para>Voor zover de raadsman zijn beroep op partiële nietigheid ook heeft gedaan met het oog op de aanduiding van gerubriceerde documenten in feit 2 meer subsidiair, geldt dat het hier gaat om een tenlastelegging van voorbereidingshandelingen, waarbij gezien de aard van het verwijt een concrete aanduiding van die voorwerpen (documenten) niet is vereist. De algemene aanduiding van deze documenten doet daarom niet af aan de geldigheid van de dagvaarding ten aanzien van dit feit. Het verweer wordt daarom verworpen voor zover het ziet op deze zinsnede. </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+        <para>De dagvaarding is nietig ten aanzien van de feiten 1 primair en 2 subsidiair en partieel nietig ten aanzien van de in feit 2 primair opgenomen zinsnede ‘een of meer inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden en/of een of meer voorwerpen waaraan zodanige inlichtingen konden worden verleend’.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De dagvaarding is voor het overige geldig.</para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Bewijs / vrijspraak</title>
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Vordering van de officier van justitie</emphasis>
+        </para>
+        <para>De officier van justitie heeft gevorderd dat de verdachte moet worden veroordeeld voor feit 1 primair, feit 2 primair en feit 3. Het standpunt van de officier van justitie zal, voor zover van belang, bij de beoordeling van het bewijs worden besproken. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie van de verdediging</emphasis>
+        </para>
+        <para>De verdediging heeft vrijspraak bepleit voor alle feiten. Het standpunt van de verdediging zal, voor zover van belang, bij de beoordeling van het bewijs worden besproken. De verdediging heeft ten aanzien van feit 1 subsidiair en feit 3 ook een beroep gedaan op de strafuitsluitingsgrond afwezigheid van alle schuld. Dit beroep wordt hierna onder 3.3.5. en 4.2. besproken.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>
+        <emphasis role="underline">Oordeel van de rechtbank</emphasis>
+      </para>
+      <paragroup>
+        <nr>3.3.1.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Bewezenverklaring</emphasis>
+          </para>
+          <para>Bewezen is dat de verdachte opzettelijk staatsgeheime documenten, genoemd onder feit 1 subsidiair en feit 3, onder zich heeft gehouden in zijn woning en zijn bagage, zonder daartoe gerechtigd te zijn. Ten aanzien van een deel van de onder feit 3 genoemde documenten is ook bewezen dat hij die opzettelijk onder zich heeft genomen, zonder daartoe gerechtigd te zijn, door ze op kantoor te printen, mee naar huis te nemen en daar te scannen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De volledige bewezenverklaring is vermeld in paragraaf 3.3.7.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Bewijsmotivering</emphasis>
+          </para>
+          <para>De bewezenverklaring is gebaseerd op de inhoud van de bewijsmiddelen. De rechtbank gaat daarbij uit van de volgende feiten en omstandigheden. <footnote-ref linkend="_f1610681-d535-4c1d-b623-2dbcd65452f8" /></para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3.</nr>
+        <para>
+          <emphasis role="italic">Inleiding</emphasis>
+        </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Aanleiding onderzoek</emphasis>
+          </para>
+          <para>Op 10 oktober 2023 heeft de Algemene Inlichtingen- en Veiligheidsdienst (hierna: AIVD) een ambtsbericht verstrekt aan de Landelijk officier van justitie terrorismebestrijding [naam 24] (hierna: Lovj) van het Landelijk Parket. Dit ambtsbericht is vervolgens ter beschikking gesteld aan de Rijksrecherche. Op basis van de inhoud van dit ambtsbericht is de Rijksrecherche een strafrechtelijk onderzoek gestart onder de naam 28Celestien, onder gezag van de officieren van justitie LAP 1069 en LAP 1070, werkzaam bij het Landelijk Parket. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In het strafrechtelijk onderzoek dat betrekking had op de verdachte (en zijn toenmalige collega [naam 1] ), is de verdenking gerezen dat de verdachte meerdere malen staatsgeheime documenten als bedoeld in artikel 98 (oud) van het Wetboek van Strafrecht (hierna: Sr), zonder daartoe gerechtigd te zijn, opzettelijk onder zich heeft genomen en/of gehouden en opzettelijk heeft verstrekt aan (medewerkers van) de DGED.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Functie verdachte</emphasis>
+          </para>
+          <para>De verdachte was ten tijde van de ten laste gelegde feiten werkzaam bij de Nationaal Coördinator Terrorismebestrijding en Veiligheid (hierna: NCTV). Hij is in 2005 in dienst gekomen bij de Nationaal Coördinator Terrorismebestrijding (NCTb) (de voorloper van de NCTV) en daarna bij de NCTV. Hij had eerst de functie van analist en sinds 2011 vervulde hij de functie van senior analist (door de verdachte en verder in het dossier ook wel aangeduid als strategisch analist) bij de Directie Kennis en Analyse (hierna: de analyse-afdeling). In 2022 is hij twee dagen per week gaan werken voor de NCTV, in verband met zijn promotieonderzoek.<footnote-ref linkend="_fa91eff3-5f7b-4adc-9378-5b288398702f" /></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Aanhouding en doorzoekingen</emphasis>
+          </para>
+          <para>De verdachte is op 26 oktober 2023 aangehouden op de luchthaven Schiphol, waar hij een vlucht wilde nemen naar Marokko. Hij bevond zich toen voorbij de ingang D van Vertrekhal 3 en liep richting de incheckbalies. Bij doorzoeking van zijn bagage werden meerdere gegevensdragers aangetroffen die aan de verdachte toebehoorden, waaronder meerdere digitale datadragers (harde schijven), onder andere de hiervoor genoemde M2 Toshiba 256 GB (met beslagcode F.01.006) en Samsung T5 SSD 1 TB (met beslagcode F.01.007). Ook werden meerdere telefoons aangetroffen, waaronder een iPhone 7, die is voorzien van een simkaart met het Marokkaanse telefoonnummer [telefoonnummer 1] (met beslagcode F.01.001) en een Redmi Note 9 S, die is voorzien van een simkaart met het Marokkaanse telefoonnummer [telefoonnummer 2] (met beslagcode F.01.004).<footnote-ref linkend="_f42122e8-fd74-4545-b218-38564ff687b8" /></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 26 en 27 oktober 2023 heeft, onder leiding van de rechter-commissaris, een doorzoeking plaatsgevonden in de woning van verdachte. Bij deze doorzoeking is op verschillende plekken in de woning een groot aantal fysieke documenten aangetroffen, waaronder een groot aantal documenten met rubricering. Ook zijn meerdere gegevensdragers (waaronder een MSI-computer, meerdere datadragers en telefoons, waaronder een Nokia telefoon (met beslagcode A.03.01.011), aangetroffen.<footnote-ref linkend="_583b77e1-b121-49e4-a7b9-a1ac0c1fdae6" /></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij onderzoek aan de gegevensdragers (de MSI-computer en de datadragers, die de verdachte thuis had en bij zich had bij zijn aanhouding op Schiphol) is daarop een groot aantal gerubriceerde documenten aangetroffen<footnote-ref linkend="_25c3be83-5d44-4aac-98cb-ad7d6a42df0c" />. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In totaal gaat het volgens het onderzoek om:</para>
+        </parablock>
+        <itemizedlist mark="-">
+          <listitem>
+            <para>843 fysieke gerubriceerde stukken in de woning van de verdachte;</para>
+          </listitem>
+          <listitem>
+            <para>815 gerubriceerde documenten op gegevensdragers in de woning van de verdachte, en;</para>
+          </listitem>
+          <listitem>
+            <para>155 gerubriceerde documenten op de gegevensdragers M2 Toshiba 256 GB en Samsung T5 SSD 1 TB in de bagage van de verdachte op Schiphol<footnote-ref linkend="_e122ad7e-3f18-4345-ac69-571b4de97cb6" />.  </para>
+          </listitem>
+        </itemizedlist>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Reizen naar Marokko</emphasis>
+          </para>
+          <para>Uit het dossier blijkt dat de verdachte in de onder 2 ten laste gelegde periode van 23 december 2022 tot en met 15 september 2023 acht reizen heeft gemaakt naar Marokko, namelijk: </para>
+        </parablock>
+        <itemizedlist mark="-">
+          <listitem>
+            <para>van 23 tot en met 31 december 2022</para>
+          </listitem>
+          <listitem>
+            <para>van 18 tot en met 27 februari 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 20 tot en met 24 april 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 12 tot en met 28 mei 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 8 tot en met 12 juni 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 22 juni tot en met 2 juli 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 19 juli tot en met 8 augustus 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 13 tot en met 19 augustus 2023</para>
+          </listitem>
+          <listitem>
+            <para>van 31 augustus tot en met 15 september 2023. </para>
+          </listitem>
+        </itemizedlist>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Nadere ambtsberichten</emphasis>
+          </para>
+          <para>Gedurende de loop van het onderzoek hebben de AIVD en de Militaire Inlichtingen- en Veiligheidsdienst (hierna: MIVD) nog een aantal ambtsberichten verstrekt aan de Lovj, die door hem zijn doorgezonden naar de Rijksrecherche. Een deel daarvan ziet op de verdenkingen en een deel ziet op het staatsgeheime karakter van onder de verdachte in beslag genomen fysieke en digitale documenten. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.4.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Voorafgaande overwegingen </emphasis>
+          </para>
+          <para>De ten laste gelegde feiten komen er op neer dat de verdachte ongerechtigd staatsgeheime documenten onder zich had en/of dat hij die heeft overgedragen aan medewerkers van de DGED (de Marokkaanse geheime dienst). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In deze zaak staan twee vragen centraal die voor alle ten laste gelegde feiten van belang zijn: </para>
+        </parablock>
+        <para />
+        <orderedlist numeration="arabic">
+          <listitem>
+            <para>Wat is de bewijswaarde van de ambtsberichten, waarop (in de ogen van de officier van justitie) de bewijsconstructie in belangrijke mate steunt?</para>
+          </listitem>
+          <listitem>
+            <para>Zijn de in de tenlastelegging bedoelde documenten die onder de verdachte in beslag zijn genomen en die hij volgens de officier van justitie heeft overgedragen of heeft willen overdragen aan de DGED, aan te merken als staatsgeheim?</para>
+          </listitem>
+        </orderedlist>
+        <para />
+        <parablock>
+          <para>De rechtbank zal – alvorens verder in te gaan op de afzonderlijke feiten – eerst deze vragen bespreken.</para>
+          <para />
+          <para>
+            <emphasis role="underline italic">Ad 1) De bewijswaarde van de ambtsberichten</emphasis>
+          </para>
+          <para>In de ambtsberichten van 10 oktober 2023<footnote-ref linkend="_b180db86-dd34-46a5-aa71-03e9eda6d2bc" /> (gecorrigeerd bij ambtsbericht van 9 februari 2024<footnote-ref linkend="_94031f62-8a89-47e2-acaf-d9938c5c6ffd" />) en van 12 januari 2024<footnote-ref linkend="_260684eb-6017-4a36-863b-273754a0a9ef" /> heeft [naam 2] , Directeur-generaal van de AIVD – kort weergegeven - gesteld dat de verdachte in augustus 2023 bij de NCTV staatsgeheime informatie heeft geprint en deze mee naar huis heeft genomen, dat hij in de periode vanaf (tenminste) 2020 tot en met 2023 contact had met bij naam en telefoonnummer genoemde personen, werkzaam bij of voor de DGED, en dat hij in 2023 meerdere reizen heeft ondernomen naar Marokko en steeds kort daarvoor staatsgeheime informatie had geprint. </para>
+          <para>In ambtsberichten van 6 februari 2024<footnote-ref linkend="_dac06f0c-4912-4dc8-84dd-0ea79151f5bd" />, 1 juli 2024<footnote-ref linkend="_d1c0a3d1-4ade-4e32-adc3-a4928775156b" />, 15 juli 2024<footnote-ref linkend="_cb9d1786-c7b5-4e6c-b685-722ced238f30" />, 19 september 2024<footnote-ref linkend="_8378b276-0e66-4b55-bc0f-131b08c20b1b" /> is namens de AIVD / MIVD informatie verstrekt over het staatsgeheime karakter van onder de verdachte in beslag genomen fysieke en digitale documenten.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdediging heeft zich op het standpunt gesteld dat deze ambtsberichten niet als bewijs kunnen worden gebruikt, alleen al omdat de juistheid daarvan niet door de verdediging (en de rechtbank) kan worden getoetst. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In het arrest van 5 september 2006, ECLI:NL:HR:2006:AV4144, heeft de Hoge Raad overwogen dat geen rechtsregel zich verzet tegen het gebruik van door een inlichtingen- en veiligheidsdienst verstrekte inlichtingen als startinformatie voor het instellen van een strafrechtelijk onderzoek. Evenmin verzet enige rechtsregel zich tegen het gebruik van door zo een dienst vergaard materiaal tot het bewijs in een strafzaak. Wat betreft zulk gebruik tot het bewijs zal de strafrechter van geval tot geval met de nodige behoedzaamheid moeten beoordelen of het materiaal, gelet op de soms beperkte toetsbaarheid, tot het bewijs kan meewerken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet op dit rechtsoordeel van de Hoge Raad gaat de rechtbank er van uit dat de bovengenoemde AIVD- en MIVD-ambtsberichten als bewijs kunnen worden gebruikt, voor zover er voldoende andere informatie is die als steunbewijs kan dienen voor wat in de ambtsberichten is vermeld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Ad 2) Staatsgeheim</emphasis>
+          </para>
+          <para>De verdenkingen roepen de vraag op, of de verdachte inderdaad staatsgeheime stukken voorhanden heeft gehad, in fysieke of digitale vorm. <?linebreak?>De verdediging heeft dit betwist, althans heeft aangevoerd dat dit niet kan worden vastgesteld of gecontroleerd. In dit verband heeft de raadsman gewezen op het arrest van de Hoge Raad van 2 februari 2016, ECLI:NL:2016:168, waarin is overwogen:</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr> 4.4.2.</nr>
+        <para>
+          <emphasis role="italic">Er is sprake van een staatsgeheim als het gaat om bijzondere informatie waarvan de geheimhouding door het belang van de staat of zijn bondgenoten wordt geboden en indien kennisneming van die informatie door niet-gerechtigden kan leiden tot nadelige gevolgen voor of schade aan deze belangen. (…) Of de desbetreffende inlichting, het voorwerp of het gegeven naar zijn inhoud of aard zodanig is dat de geheimhouding door het belang van de staat of diens bondgenoten wordt geboden als bedoeld in art. 98 Sr, staat ter uiteindelijke beoordeling van de strafrechter. </emphasis>
+        </para>
+      </paragroup>
+      <paragroup>
+        <nr>4.4.3.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Bij deze beoordeling kan de strafrechter de op de voet van het Vir-bi 2004 toegepaste rubricering van de bijzondere informatie betrekken. Zodanige rubricering moet worden aangemerkt als een aanduiding met een intern karakter, bestemd voor degenen die met die informatie dienen te werken zodat zij weten of en in welke mate de informatie nadelige gevolgen voor of schade aan de belangen van de staat of van zijn bondgenoten kan toebrengen. Het is de 'eigenaar' van de informatie die de rubricering bepaalt. Daarbij zij aangetekend dat de rubricering door de 'eigenaar' van de informatie niet doorslaggevend is voor de beantwoording van de vraag of de informatie als staatsgeheim in de zin van art. 98 Sr heeft te gelden. De rechter dient immers de materiële kwalificatie van de informatie zelfstandig te bepalen, waarbij het aankomt op de aard en inhoud van die informatie, niet op de daaraan gegeven of te geven rubricering. Niettemin kan de rechter aan de rubricering een bruikbare aanwijzing ontlenen voor zijn oordeel. </emphasis>
+          </para>
+          <para>De raadsman heeft opgemerkt dat de verdediging in de zaak die tot dit arrest heeft geleid in de gelegenheid is gesteld om AIVD-medewerkers (naar de rechtbank begrijpt: de ‘eigenaars’ van de informatie) te horen teneinde de betrouwbaarheid te toetsen van de informatie die was verstrekt over het staatsgeheime karakter van de documenten die in die zaak aan de orde waren. In de onderhavige strafzaak is de verdediging die mogelijkheid niet geboden. Om die reden heeft de verdediging het (herhaalde en nu voorwaardelijke) verzoek gedaan tot het doen horen van [naam 2] , Directeur-generaal van de AIVD, van [naam 3] , Schout bij Nacht, Directeur van de MIVD en van de opstellers van de informatie en vaststellers van de rubricering van de in de tenlastelegging genoemde ’Staatsgeheimen’.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank stelt voorop dat zij – net als de officieren van justitie en de raadsman – geen kennis heeft kunnen nemen van de stukken die in de tenlastelegging zijn vermeld. Het (gestelde) staatsgeheime karakter van die stukken verzet zich daartegen. De rechtbank zal zich dus op een andere manier een oordeel moeten vormen over de vraag of deze stukken terecht de kwalificatie ‘staatsgeheim’ hebben gekregen. Het begrip ‘staatsgeheim’ wordt overigens niet als zodanig genoemd in de wet, maar is de term die de rechtbank overkoepelend zal gebruiken voor de informatie die op de hierna vermelde manier is gerubriceerd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In artikel 4, eerste lid van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 (hierna: VIRBI 2013) is bepaald dat informatie waarvan de geheimhouding vanwege het belang van de Staat, zijn bondgenoten of van één of meer ministeries is geboden, moet worden voorzien van een passend niveau van rubricering. <?linebreak?>Artikel 4, tweede lid, VIRBI 2013 kent vier rubriceringscategorieën: Staatsgeheim ZEER GEHEIM, Staatsgeheim GEHEIM, Staatsgeheim CONFIDENTIEEL en Departementaal VERTROUWELIJK. </para>
+          <para>Ingevolge het derde lid van artikel 4 moet de opsteller van de informatie een voorstel doen tot rubricering en deze aanbrengen op de informatie. De vaststeller van de inhoud van de informatie stelt tevens de rubricering vast.</para>
+          <para>Ingevolge artikel 5, eerste lid, VIRBI 2013 worden rubriceringen verbonden aan een maximum tijdsverloop of aan een bepaalde gebeurtenis. Na die periode of na die gebeurtenis moet de vaststeller voor bijzondere informatie afwegen of herziening, dan wel beëindiging van de rubricering aan de orde is.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot de documenten die in de feiten 1, 2 en 3 expliciet zijn aangeduid, zijn door de AIVD danwel MIVD ambtsberichten opgesteld<footnote-ref linkend="_a4f2a3e1-f586-44b0-8d6f-37123ca3bc40" />. <?linebreak?>In de ambtsberichten wordt steeds de VIRBI-rubricering van het besproken document vermeld. Verder wordt telkens de achtergrond van het document besproken: door welke instantie en om welke reden het is opgesteld, wat het belang is van dat document en waarom openbaarmaking van dat document het belang van de Staat, van zijn bondgenoten of van één of meer ministeries zou schaden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In processen-verbaal van bevindingen<footnote-ref linkend="_7c5396e9-0b9c-4e86-91ac-546de22052c3" /> heeft de Lovj deze ambtsberichten beoordeeld. In de processen-verbaal van bevindingen d.d. 4 februari 2024<footnote-ref linkend="_0fda7b7e-1e8b-464d-8f5b-147121255e10" />, d.d. 4 juli 2024<footnote-ref linkend="_d619aaa6-dafc-4cb2-b835-30d445d0ae41" />, en d.d. 15 juli 2024<footnote-ref linkend="_0447153e-8c92-4215-a029-4eda1195dd96" />, vermeldt de Lovj steeds dat hij de documenten, genoemd in de onderliggende ambtsberichten, heeft gezien in originele staat en zonder dat delen onzichtbaar zijn gemaakt. Hij bevestigt dat de documenten die hij gezien heeft, overeenkomen met de documenten die bij de verdachte zijn aangetroffen, dat die documenten zijn gerubriceerd overeenkomstig het vermelde in het ambtsbericht, dat zij als staatsgeheim zijn aangemerkt en dat zij deze status nog steeds hebben. Als de inhoud van deze documenten bekend zou worden, brengt dit volgens de Lovj schade toe aan de staat zoals in artikel 4 van het VIRBI 2013 omschreven. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De Lovj heeft tijdens zijn verhoor bij de rechter-commissaris<footnote-ref linkend="_e67bd495-0801-48d2-8f73-73f65be04274" />, op de vraag hoe hij heeft onderzocht dan wel vastgesteld of de inhoud van de stukken een staatsgeheim karakter heeft, geantwoord: “<emphasis role="italic">Er staat een rubricering op een document. Het origineel document is aan mij getoond en daar staat een rubricering op. Ik controleer of die rubricering nog van toepassing is. (…) Die documenten zijn aangeleverd door de MIVD en de AIVD. Ik heb vervolgens getoetst of het document overeen komt qua rubricering. (…) De opsteller zet de rubricering erop. En de derubricering wordt ook door de opsteller gedaan. Als dat niet is gedaan dan geldt de rubricering nog. Dat is wat ik heb getoetst. Het ging om documenten die vrij recent waren.</emphasis>”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De beschreven werkwijze komt er op neer dat de opsteller van het ambtsbericht, die kennis heeft van de inhoud van het document, aan de hand daarvan beoordeelt of de VIRBI-rubricering (nog) juist is en of de belangen van de staat en/of bondgenoten zouden worden geschaad bij openbaarmaking. De Lovj heeft – nadat hij kennis heeft genomen van de inhoud van de documenten – de juistheid van de rubricering bevestigd. Deze gang van zaken maakt dat de ambtsberichten van de AIVD / MIVD en de processen-verbaal van bevindingen van de Lovj, in samenhang bezien, naar het oordeel van de rechtbank steunbewijs vormen voor de stelling dat de beschreven documenten inderdaad als staatsgeheim moeten worden aangemerkt. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Verder is van belang dat de verdachte toegang had tot Rubrinet, het systeem van de analyseafdeling van de NCTV waarin staatsgeheime documenten werden opgeslagen en waarin zij konden worden geraadpleegd met behulp van de Zoek en Opslag Tool (ZOT)<footnote-ref linkend="_76a86ad7-67dc-401a-9226-64462ca3e198" />. De verdachte was in ieder geval tot juli 2023 geautoriseerd voor die systemen; daarna heeft hij de autorisatie van een collega gebruikt. In zijn verhoor bij de rechter-commissaris heeft de verdachte de computer waarop Rubrinet / ZOT draaide, zelf de ‘STG-computer’ genoemd<footnote-ref linkend="_2ab5cb90-9770-4dbf-9163-76950c348a40" />. Op de vraag “<emphasis role="italic">Heeft u wel eens gebruik gemaakt van het account van een NCTV-collega om op het RubriNet gevonden staatsgeheim document te printen?</emphasis>” antwoordde de verdachte: “<emphasis role="italic">Dat heb ik dus regelmatig gedaan</emphasis>.”<footnote-ref linkend="_ea4913a6-770c-4944-993e-70b42d3e47b1" />. <?linebreak?>De verdachte had dus toegang tot Rubrinet en heeft erkend dat hij vanuit dat systeem staatsgeheime documenten heeft geprint. Ook dit zijn belangrijke aanwijzingen dat de bij hem aangetroffen, in de ambtsberichten genoemde documenten inderdaad zijn aan te merken als staatsgeheim. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet op het bovenstaande ziet de rechtbank geen reden om er aan te twijfelen dat documenten die zijn vermeld onder de feiten 1 en 3, moeten worden aangemerkt als ‘inlichtingen en/of gegevens waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden’. Deze conclusie berust niet alleen op de rubricering die de opstellers of vaststellers van de documenten hebben gegeven, maar ook op de duiding die in de ambtsberichten is gegeven en op de controle daarvan door de Lovj. Gezien deze conclusie en de overwegingen die daaraan ten grondslag liggen, is het naar het oordeel van de rechtbank niet noodzakelijk om te beschikken over of inzage te hebben in de geheel ongecensureerde versies van de informatie.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ter ondersteuning van haar hiervoor weergegeven oordeel merkt de rechtbank nog op dat de verdediging slechts in algemene zin heeft weersproken dat de stukken waarover de verdachte kon beschikken, een staatsgeheim karakter hadden. De verdachte heeft niet ten aanzien van in de tenlastelegging genoemde individuele stukken onderbouwd gesteld dat hij aan dat staatsgeheime karakter twijfelt, ondanks zijn (te veronderstellen) bijzondere deskundigheid op dit punt. Het is ook niet onwaarschijnlijk dat de verdachte juist in zijn analyserende en adviserende rol mede over dergelijke stukken pleegde en wenste te beschikken.  </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank vindt het niet noodzakelijk dat [naam 2] en [naam 3] (de opstellers van de AIVD-/MIVD-ambtsberichten) of de “opstellers van de informatie en vaststellers van de rubricering van de in de tenlastelegging genoemde ’Staatsgeheimen’ als getuigen worden gehoord. Het verzoek deze personen als getuige te horen wordt afgewezen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Staatsgeheime karakter niet vast te stellen</emphasis>
+          </para>
+          <para>Voor een aantal documenten, genoemd in de tenlastelegging, geldt dat niet op grond van ambtsberichten van de AIVD / MIVD èn processen-verbaal van de Lovj met voldoende mate van zekerheid kan worden vastgesteld dat zij een staatsgeheim karakter hebben. <?linebreak?></para>
+          <para>Dit geldt ten eerste voor de in feit 1 subsidiair bedoelde ‘één of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk (par. 3.4.1. en 3.4.2. Zaakdossier en [proces-verbaalnummer] , p.1005-1006)’ en de in feit 3 bedoelde ‘een of meer andere fysieke staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk ( [proces-verbaalnummer] , p. 1001-1002)’ en ‘één of meer andere digitale staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk ( [proces-verbaalnummer] , p. 1003-1005)’. Deze stukken zijn niet omschreven in een ambtsbericht en de Lovj gaat in zijn processen-verbaal van bevindingen niet op die stukken in. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voor de onder feit 3 genoemde EU-documenten geldt, dat in het desbetreffende ambtsbericht van 19 september 2024<footnote-ref linkend="_2e63f8ce-e86e-444e-bc41-5658e443783e" /> de specifieke documenten niet worden genoemd. In een aanvullend proces-verbaal van bevindingen d.d. 30 september 2024<footnote-ref linkend="_464b7432-df47-4b3f-9bf2-33260fb6a13e" /> worden de documenten wel specifiek vermeld, maar ontbreekt informatie over de achtergrond van elk document: door welke instantie en om welke reden het is opgesteld, wat het belang is van dat document en waarom openbaarmaking van dat document het belang van de Staat, van zijn bondgenoten of van één of meer ministeries zou schaden. Ook het desbetreffende proces-verbaal van bevindingen van de Lovj d.d. 26 september 2024<footnote-ref linkend="_a8328246-01bb-4ba7-95fb-749310118b12" /> geeft hierover geen informatie. </para>
+          <para>
+            <?linebreak?>Onder deze omstandigheden kan de rechtbank wat de bovengenoemde documenten betreft niet vaststellen of zij – kort gezegd – een staatsgeheim karakter hebben, zodat de verdachte ten aanzien van deze onderdelen van de tenlastelegging wordt vrijgesproken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank wijst er nog op dat in feit 3 onder ‘op digitale gegevensdragers aangetroffen’ bij de laatste drie gedachtestreepjes stukken zijn vermeld met de toevoeging ‘Hardcopy’ en de beslagnummers die horen bij de fysiek in beslag genomen stukken. De rechtbank ziet dit als een kennelijke verschrijving. Uit het dossier blijkt dat deze stukken zowel fysiek als digitaal zijn aangetroffen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tegen de achtergrond van het in deze paragraaf (3.3.4.) overwogene, en met inachtneming van de genoemde deel-vrijspraken, oordeelt de rechtbank hierna met betrekking tot de ten laste gelegde feiten voorts als volgt. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.5.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Bewijsmotivering feit 1 subsidiair en feit 3</emphasis>
+          </para>
+          <para>Volgens de verdediging valt niet te bewijzen dat de verdachte de stukken die onder hem in beslag zijn genomen, zonder daartoe gerechtigd te zijn voorhanden had in zijn woning en/of in zijn bagage op Schiphol. Volgens de verdediging was het de verdachte toegestaan om ook buiten zijn werkplek bij de NCTV fysiek of digitaal te beschikken over deze stukken. Subsidiair heeft de verdediging in dit verband een beroep gedaan op afwezigheid van alle schuld.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank stelt vast dat de verdachte in zijn woning de fysieke en/of gedigitaliseerde stukken voorhanden heeft gehad die zijn vermeld onder feit 3 en dat hij, toen hij op 26 oktober 2023 op Schiphol werd aangehouden, een gegevensdrager bij zich had waarop de stukken zijn aangetroffen die onder feit 1 subsidiair zijn vermeld. Hiervoor is overwogen dat deze stukken staatsgeheime informatie bevatten. </para>
+          <para>
+            <?linebreak?>De vraag is, gelet op het verweer van de verdediging, </para>
+        </parablock>
+        <para>a. a) hoe de verdachte aan deze stukken kwam en </para>
+        <para>b) of het was toegestaan dat hij deze documenten buiten zijn werkplek onder zich had.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Ad a): herkomst stukken en autorisatie</emphasis>
+          </para>
+          <para>Hiervoor is al overwogen dat de verdachte in ieder geval tot 4 juli 2023 een autorisatie had voor Rubrinet en ZOT<footnote-ref linkend="_d5e94353-0a32-4851-a7bb-33b9d719067d" />. Op 10 en 22 augustus 2023 heeft hij Rubrinet geraadpleegd via het account van zijn collega [naam 1] . Vastgesteld is, dat de verdachte op een aantal dagen in 2023 op zijn werkplek bij de NCTV stukken, genoemd in de tenlastelegging, uit Rubrinet heeft geprint en dat hij deze later thuis weer heeft gescand<footnote-ref linkend="_2910c38a-7253-4431-8452-c9df8f1fe857" />. Ten aanzien van een aantal onder feit 1 en feit 3 genoemde documenten is niet vast te stellen wanneer en hoe zij in het bezit van de verdachte zijn gekomen, maar het ligt in de rede dat ook die documenten afkomstig zijn uit Rubrinet. </para>
+          <para>Uit verklaringen van de getuigen [getuige 1]<footnote-ref linkend="_3496e08b-7485-49bb-a8f2-eb2906349b21" /> en [getuige 2]<footnote-ref linkend="_7760205d-afa7-4039-b759-5df516043a93" /> blijkt dat de autorisatie van de verdachte voor ZOT medio 2023 is ingetrokken omdat hij ging werken voor de NCTV-Academie en daarom geen toegang meer hoefde te hebben tot dit systeem. Over de precieze datum van de intrekking van de autorisatie bestaat onduidelijkheid. Naar eigen zeggen<footnote-ref linkend="_0530c1b9-4bd2-40d5-a7a7-2f142adfcb28" /> kon de verdachte op 4 juli 2023 nog zelf inloggen, dus de feitelijke intrekking van de autorisatie zal niet voor die datum hebben plaatsgevonden. Het besluit tot intrekking van de autorisatie zou al eerder zijn genomen, volgens [getuige 1] in mei 2023<footnote-ref linkend="_d35effce-057e-4d03-b83a-f05a610708bc" />. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte heeft zich op het standpunt gesteld dat hem nooit is medegedeeld dat zijn autorisaties waren ingetrokken. Hij ging er van uit dat hij nog steeds informatie uit Rubrinet en ZOT mocht halen omdat hij naast zijn promotie-onderzoek en zijn werk voor de NCTV-Academie nog analysewerk zou doen. Toen hij in juli 2023 merkte dat het benaderen van Rubrinet/ZOT niet meer lukte, ging hij er van uit dat dit een gevolg was van een technische storing. Hij heeft toen aan zijn collega [naam 1] gevraagd of hij haar account mocht gebruiken. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dat de verdachte niet wist dat zijn autorisaties waren ingetrokken, wordt tegengesproken door de verklaringen van [getuige 3] , die verklaart dat dit al tussen september en december 2022 aan de verdachte is meegedeeld<footnote-ref linkend="_fab7cfb3-9822-4d61-bbb1-7b0dff55ac93" />. De [getuige 2] heeft verklaard dat de verdachte voor de zomer van 2023 bij zijn leidinggevende [getuige 1] heeft aangekaart dat hij zijn autorisatie terug wilde, maar dat dit toen is geweigerd. </para>
+          <para>Bij de rechter-commissaris heeft de verdachte hierover verklaard: “<emphasis role="italic">Ik begon dus ergens in juli en later in oktober problemen te krijgen met die ZOT. Wat is dit? Toen ben ik dus naar [getuige 1] geweest: Van wat is dit? Hij zegt ja, je moet dus opnieuw een autorisatie aanvragen. Ik zeg, ik ben toch nog steeds analist hier? Nee, je moet het vragen vanuit je nieuwe functie, of hij noemt het nieuw regime. Terwijl er helemaal geen sprake is van nieuw regime, want ik ben nog steeds continu strategisch analist</emphasis>.”<?linebreak?>Uit deze verklaringen maakt de rechtbank op dat de verdachte op enig moment in 2023 heeft vernomen dat hij zelf geen toegang meer had tot Rubrinet en ZOT. Na de feitelijke intrekking van de autorisatie moet hij hebben geweten dat hij niet langer gerechtigd was om staatsgeheime documenten onder zich te hebben. Als hij daar nog over twijfelde, had hij (nogmaals) bij zijn leidinggevende navraag moeten doen en zo nodig een nieuwe autorisatie moeten aanvragen, in plaats van gebruik te maken van het account van een collega. Dit handelen van de verdachte ligt des te minder voor de hand omdat hij naar eigen zeggen wist dat hij in de gaten werd gehouden: “<emphasis role="italic">In de zomer en het najaar van 2003 merkten collega’s veranderingen op: Geruchten over vermeende criminele activiteiten van mijn kant namen toe en werden actief verspreid door klokkenluiders. Een nieuwe camera in mijn werkkamer versterkte het gevoel van toezicht en dreiging. Deze signalen gaven een concreet beeld dat mijn positie systematisch werd gemonitord, en dat de speculaties op de werkvloer zich begonnen te manifesteren in objectieve maatregelen.</emphasis>”<footnote-ref linkend="_5f13c99b-4d3a-4c93-b275-86d678d684ac" /><?linebreak?>Daar komt nog bij, dat – zo blijkt uit de verklaring van de verdachte<footnote-ref linkend="_db6ab35f-e367-48dc-9b5e-7842f53b8dc8" /> - na de ’crisis rond NRC-artikelen’<footnote-ref linkend="_7f829dad-a58e-44d3-a7c4-4822913c0ddb" /> Rubrinet / ZOT alleen geraadpleegd kon worden via computers zonder USB-uitgang, kennelijk om tegen te gaan dat gevoelige informatie op USB-sticks of andere losse gegevensdragers zou worden opgeslagen. De verdachte heeft deze beveiligingsmaatregel omzeild door stukken op kantoor te printen en vervolgens te scannen. </para>
+          <para>De allengs beperkte mogelijkheden voor de verdachte om zelf de systemen te raadplegen, de mededelingen daarover aan hem en anderzijds de wijze waarop hij blijkens zijn gedragingen heeft geprobeerd daarmee te dealen, laten er geen twijfel over mogelijk dat de verdachte kennelijk de intentie had om – ondanks het ontbreken van een autorisatie - over die stukken te beschikken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Ad b): Staatsgeheime informatie buiten de kantooromgeving</emphasis>
+          </para>
+          <para>Mocht de verdachte buiten zijn werkplek deze stukken onder zich hebben?</para>
+          <para>De verdachte heeft gesteld, dat het hem door zijn leidinggevenden was toegestaan om gerubriceerde informatie mee naar huis te nemen. Dat had te maken met een cultuur waarin thuiswerken steeds gebruikelijker werd en met zijn bijzondere positie binnen de analyse-afdeling van NCTV, die maakte dat hij continu beschikbaar moest zijn om in crisissituaties analyses te maken. Bovendien ontstond vanaf april 2021 een ’structureel onveilige werkomgeving’<footnote-ref linkend="_dc7893ab-e81a-4afd-b3e4-818f4af3be5e" />, die er toe heeft geleid dat [naam 4] (de toenmalige leidinggevende van de verdachte) openlijk vertelde “<emphasis role="italic">dat de organisatie mijn veiligheid op de werkvloer niet langer kon garanderen (…). Op zijn advies en dat van andere leidinggevenden ben ik vanuit huis gaan werken en heb ik mijn werkmaterialen meegenomen. Het betrof fysieke en digitale documentatie uit mijn kluis en werkkamer, met daarin privacygevoelige gegevens en materiaal over vroegere monitoringsactiviteiten. (…) Na overleg kreeg ik van [naam 4] de expliciete opdracht dit werk thuis te doen en gevoelige documenten op te ruimen. Daardoor heb ik, zonder voorafgaande selectie op rubricering, de volledige bulk aan documenten mee naar huis genomen.</emphasis>”<footnote-ref linkend="_db8f7c50-92dc-47ff-8eb8-b75d71f9a49c" /></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Een aantal voormalig leidinggevenden ( [getuige 1] , [getuige 3] , [getuige 6] ) en twee voormalig hoofden van de NCTV ( [getuige 7] , [getuige 8] ) zijn als getuigen gehoord. Geen van hen heeft bevestigd dat het de verdachte was toegestaan om staatsgeheime documenten mee te nemen buiten de kantooromgeving van de NCTV. [getuige 6] zegt hierover: “<emphasis role="italic">Gerubriceerde staatsgeheime berichten waren beschikbaar voor de afdeling en konden geprint worden maar mochten het gebouw niet verlaten. Het was staande praktijk dat het geraadpleegd kon worden, maar het mocht het gebouw niet verlaten. Dat was echt een no go</emphasis>.”<footnote-ref linkend="_62b0b4ee-e0a2-4062-a91b-858f2d42c7f4" /> De beveiligingscoördinator [getuige 2] heeft geantwoord op de vraag of het de verdachte was toegestaan om papieren Stg-documenten mee naar huis te nemen en of er regels waren omtrent het bewaren van die documenten in huis: “<emphasis role="italic">Bij mijn weten is dit niet gevraagd, en ik zou er ook niet mee instemmen. Het is niet toegestaan. Stel dat het echt nodig is voor de uitvoering van de functie en werkzaamheden, dan zouden ze thuis in een speciale kluis moeten liggen</emphasis>.” [getuige 1] heeft hierover verklaard: “<emphasis role="italic">Van staatsgeheimen mag je kennisnemen via het scherm, via dat aparte netwerk en mag je printen via het aparte netwerk. Nadat het geprint is moet je het bewaren in een goedgekeurde kluis of vernietigen middels een speciale shredder. Het mag dus niet mee naar huis. Dat mag indien nodig alleen met toestemming van mij als afdelingshoofd en de beveiligingscoördinator, maar ik zie geen enkele noodzaak om dat te doen en heb die vraag ook nog nooit gehad.</emphasis>” [getuige 8] heeft verklaard: “<emphasis role="italic">Er mogen meer mensen thuiswerken bij de NCTV, maar het meenemen van STG-stukken kan niet. Dat soort informatie gaat de deur gewoon niet uit</emphasis>.<footnote-ref linkend="_8bed6e78-8474-4536-b106-aa7cff07fd0a" />” Ook de getuigen [getuige 7]<footnote-ref linkend="_7aeb3da8-6ef5-4bea-854e-d3906195bd91" /> en [getuige 3]<footnote-ref linkend="_d54c8082-7153-4d40-8a6b-999d4f90ce3a" /> verklaarden expliciet dat het niet was toegestaan om staatsgeheime stukken mee naar huis te nemen. [getuige 7] verklaarde, geconfronteerd met de stelling van de verdachte ‘dat er soms wat losser met de regels werd omgegaan’: “<emphasis role="italic">Daar heb ik in ieder geval nooit toestemming voor gegeven</emphasis>.”</para>
+          <para>De verdachte heeft de juistheid van deze verklaringen betwist; hij stelt dat hem wel was toegestaan om geheime stukken mee te nemen en dat de getuigen achteraf (in zijn woorden) “<emphasis role="italic">hun kloten klaren</emphasis>”. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gezien de aard en consistentie van de aangehaalde verklaringen staat het voor de rechtbank voldoende vast dat het buiten de kantooromgeving meenemen van staatsgeheime stukken niet was toegestaan. Uit de verklaringen wordt voorts niet aannemelijk dat de verdachte, die mogelijk in een aantal opzichten een uitzonderingspositie had, op enig moment van een bevoegde autoriteit uitdrukkelijke toestemming had verkregen voor het buiten de kantooromgeving meenemen van staatsgeheime stukken. De stelling van de verdachte dat hij een bijzondere opdracht respectievelijk toestemming had van de voormalige (intussen overleden) leidinggevende [naam 8] om voor zijn eigen veiligheid thuis te werken en ‘gevoelige documenten op te ruimen’, is hiervoor onvoldoende. [naam 8] kon daarover niet meer bevraagd worden en de andere betrokken autoriteiten die wel als getuigen zijn gehoord, verklaren onomwonden dat een dergelijke toestemming bij hun weten niet is gegeven en ook niet gegeven zou worden. Dat de toestemming tot het meenemen van een bulk aan ‘werkmaterialen’ zich ook zou uitstrekken over het thuis bewaren van staatsgeheime stukken, heeft de verdachte niet verder kunnen onderbouwen. Voor de rechtbank is het bovendien onbegrijpelijk waarom deze wijze van bewaren van staatsgeheime stukken veiliger zou zijn dan het bewaren in een kluis in de kantooromgeving. De wijze waarop de verdachte met de stukken omging, getuigt ook niet van een groot veiligheidsbewustzijn. Immers, hij heeft in zijn schriftelijke verklaring nogal hoog opgegeven van het belang van het opbergen van stukken in een kluis<footnote-ref linkend="_e45fbc74-69f0-4814-a5be-6e366e45c80e" />, maar dit in de praktijk niet waar gemaakt: bij de doorzoeking werden stukken (ook met een rubricering) bij hem thuis verspreid over de hele woning aangetroffen<footnote-ref linkend="_ba846f5f-f126-4afd-8671-d9f19f168388" />.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank merkt in dit verband nog op dat zij bekend is met de inhoud van het “Onderzoeksrapport Beveiligingsproces van staatsgeheime / vertrouwelijke informatie bij NCTV en politie”, op 29 november 2024 uitgebracht door de Auditdienst Rijk van het Ministerie van Financiën (hierna: het Auditrapport). In dit rapport wordt kritiek geuit op de manier waarop staatsgeheime vertrouwelijke informatie binnen de NCTV-organisatie werd beveiligd. Dat er wellicht nogal wat was aan te merken op de beveiliging van deze informatie binnen de organisatie en dat op dat punt de formele regels misschien niet altijd strikt werden nageleefd, laat onverlet dat een ambtenaar en medewerker van een dienst als de NCTV een grote eigen verantwoordelijkheid heeft om (ook buiten de organisatie) te voldoen aan de verplichtingen van zijn functie, die onder meer inhouden dat met gevoelige stukken zorgvuldig wordt omgesprongen. Dit geldt temeer voor de verdachte, die immers al jaren werkte met dergelijke informatie binnen organisaties waarin die informatie een belangrijke rol speelde en die (blijkens zijn schriftelijke verklaringen) juist integriteit altijd hoog in het vaandel heeft gevoerd <footnote-ref linkend="_05a7935c-4d73-4fe0-8905-0115d5efe8cb" />. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deze eigen verantwoordelijkheid van de verdachte maakt ook dat het beroep op afwezigheid van alle schuld niet kan slagen. De verdachte heeft kunnen en moeten beseffen dat zijn handelen onverantwoord en strafbaar was. </para>
+        </parablock>
+        <para />
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Conclusie</emphasis>
+          </para>
+          <para>Al met al vindt de rechtbank bewezen dat de verdachte in zijn woning en zijn bagage opzettelijk staatsgeheime documenten, genoemd onder feit 1 en feit 3, onder zich heeft gehouden zonder daartoe gerechtigd te zijn<footnote-ref linkend="_7767bd0a-23d8-4947-b89a-e81f3df5b7ed" />. Een deel van die documenten heeft hij onder zich genomen door ze op kantoor te printen, mee naar huis te nemen en daar te scannen. Daarmee is de opzet van het onder zich nemen en houden gegeven. Voor een deel van de stukken valt niet vast te stellen hoe de verdachte er aan is gekomen; de verdachte stelt dat hij deze ‘per ongeluk’ onder zich had doordat hij “<emphasis role="italic">zonder voorafgaande selectie op rubricering, de volledige bulk aan documenten mee naar huis (heeft) genomen</emphasis>”<footnote-ref linkend="_79864d71-02f6-4d13-8355-fc22197c1155" />. Wat deze documenten betreft heeft de verdachte gehandeld met voorwaardelijk opzet: hij heeft bewust de aanmerkelijke kans aanvaard dat hij die staatsgeheime stukken onder zich had. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.6.</nr>
+        <para>
+          <emphasis role="italic">Vrijspraak feit 2 primair en meer subsidiair</emphasis>
+        </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="bold">Feit 2 primair</emphasis>
+          </para>
+          <para>Voor een bewezenverklaring van het onder 2 primair ten laste gelegde moet worden vastgesteld dat de verdachte in de ten laste gelegde periode staatsgeheime informatie aan de DGED of de daaraan verbonden en met naam genoemde personen heeft verstrekt. </para>
+          <para>Ten aanzien van het onder 2 subsidiair ten laste gelegde heeft de rechtbank vastgesteld dat de tenlastelegging niet voldoet aan de eisen die de wet daaraan stelt. Dit verwijt wordt dan ook niet besproken.</para>
+          <para>Onder 2 meer subsidiair wordt de verdachte verweten dat hij voorbereidingshandelingen heeft getroffen voor het onder 2 primair ten laste gelegde verstrekken van geheime informatie aan de DGED of daaraan verbonden personen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdenking vindt zijn oorsprong in verschillende ambtsberichten van de AIVD en is in doorslaggevende mate gebaseerd op de vaststelling dat de verdachte meermaals, kort voordat hij naar Marokko reisde, documenten afdrukte, deze vervolgens scande en op digitale gegevensdragers zette om deze, volgens het openbaar ministerie, mee te nemen naar Marokko en te delen met personen die verbonden zouden zijn aan de DGED. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte heeft niet betwist dat hij in de ten laste gelegde periode meermaals naar Marokko is gereisd en ook niet dat hij meermaals informatie afdrukte en scande, waaronder ook de documenten die in de tenlastelegging zijn genoemd. Volgens de verdachte had hij vanuit zijn functie toegang tot deze stukken en moest hij hiermee kunnen werken, ook thuis. Om die reden nam hij de informatie vaak mee naar huis, lag deze in zijn huis en stond deze op zijn gegevensdragers. De verdachte heeft uitdrukkelijk betwist dat hij ooit informatie heeft gedeeld met (personen van) de DGED. </para>
+          <para>In de visie van het openbaar ministerie heeft de verdachte in Marokko contact onderhouden met personen van de DGED en stond dit contact ten dienste van het verstrekken van staatsgeheime informatie. Dit maakt, ook volgens het openbaar ministerie, dat het printen en scannen als voorbereidingshandelingen daarvan moeten worden gezien. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De aard en het doel van de contacten van de verdachte in Marokko zijn van betekenis voor het oordeel over het afdrukken en scannen in Nederland. Om die reden zal de rechtbank de volgende vragen bespreken: </para>
+        </parablock>
+        <para />
+        <orderedlist numeration="arabic">
+          <listitem>
+            <para>Had de verdachte contact met personen die verbonden waren aan de DGED? </para>
+          </listitem>
+          <listitem>
+            <para>Indien ja: waarop waren die contacten gericht?</para>
+          </listitem>
+          <listitem>
+            <para>Welke andere belastende omstandigheden zijn er, ook in onderlinge samenhang bezien?</para>
+          </listitem>
+        </orderedlist>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Ad 1) Had de verdachte contact met personen die verbonden waren aan de DGED?</emphasis>
+          </para>
+          <para>De stelling dat de verdachte in contact stond met personen van de DGED wordt gebaseerd op de in het ambtsbericht van 12 januari 2024 (hierna ook: het derde ambtsbericht) gemaakte koppeling tussen telefoonnummers waar de verdachte mee in contact stond en de in de tenlastelegging voorkomende personen, die aan de DGED verbonden zouden zijn.</para>
+          <para>Het gaat om de volgende personen:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">
+              [persoon 1]
+            </emphasis>
+          </para>
+          <para> was volgens het derde ambtsbericht <footnote-ref linkend="_3f3a422d-fe9a-42eb-90ef-a0639e6ea1f0" /> de Directeur-Generaal van de DGED en maakte gebruik van het telefoonnummer [telefoonnummer 3] . Dat [persoon 1] het hoofd van de DGED is, blijkt uit openbare bronnen<footnote-ref linkend="_693715c8-de8e-4bb3-b00d-f1203bd273d5" /> en wordt door de verdachte niet weersproken. Ook heeft de verdachte erkend<footnote-ref linkend="_7d75b829-4d04-4a27-9f83-edf8a9fe799d" /> dat hij en zijn familie sinds december 2015 in direct contact met [persoon 1] stonden om, kort gezegd, de problemen die de verdachte en zijn familie ondervonden bij in- en uitreizen naar en van Marokko op te lossen. In de Nokia<footnote-ref linkend="_655ac817-92c2-4db9-b7cf-4197ac7fa526" /> die onder de verdachte in beslag is genomen, stond het nummer opgeslagen onder de naam ‘ [naam 9] ’ en ‘ [naam 10] ’. In deze telefoon bevond zich voorts een bericht van 20 februari 2016, waarin de verdachte, zo heeft hij ook verklaard, aan [persoon 1] op het hiervoor genoemde telefoonnummer liet weten dat hij ‘<emphasis role="italic">goed is aangekomen</emphasis>’.<footnote-ref linkend="_2a2743b2-5ccf-445c-85c9-3b7155150d71" /></para>
+          <para>De rechtbank stelt op grond hiervan vast dat de verdachte in contact heeft gestaan met [persoon 1] , hoofd van de DGED. Dat dit contact ook heeft plaatsgevonden in de ten laste gelegde periode, blijkt echter niet uit het dossier.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">
+              [persoon 3]
+            </emphasis>
+          </para>
+          <para> is volgens openbare bronnen<footnote-ref linkend="_7f06a960-aea8-49fb-b8dd-577be09ba552" /> een medewerker van het Marokkaanse kadaster en volgens het derde ambtsbericht een ‘contact van de DGED en waarschijnlijk werkzaam voor de DGED’<footnote-ref linkend="_59052ff3-6866-457d-853f-3bafdffe087d" />. Hij maakte volgens het ambtsbericht gebruik van het Marokkaanse telefoonnummer [telefoonnummer 4] . Dit nummer was onder de naam ‘ [naam 11] ’ of ‘ [naam 12] ’ opgeslagen op drie door de verdachte gebruikte telefoons<footnote-ref linkend="_a2679104-361b-42c8-a138-746222e90975" />. De verdachte heeft verklaard dat hij (in 2021 en 2022) telefonisch contact had met [persoon 3] in verband met het door de Marokkaanse overheid in 1971 stuk in beslag genomen familiegrond in Larache, waar de familie van de verdachte al langere tijd over procedeert. In het dossier bevinden zich enkele Whatsapp-berichten tussen de verdachte en [persoon 3]<footnote-ref linkend="_d0647d4c-4ccf-40f1-8be4-66ce31e1dc00" />, die zien op een beoogde afspraak met ‘de conservator van Larache’ in september 2021 en februari 2022. Op een telefoon van de verdachte stond een foto van het kadaster in Rabat, gemaakt op 19 mei 2023.</para>
+          <para>De rechtbank stelt op grond hiervan vast dat de verdachte in contact stond met [persoon 3] , werkzaam voor het kadaster in Rabat. De stelling dat [persoon 3] op enigerlei wijze verbonden was aan, of werkzaam was voor de DGED, wordt, afgezien van de in het ambtsbericht genoemde ‘waarschijnlijkheid’, in het dossier niet nader onderbouwd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">
+              [naam 13]
+            </emphasis>
+          </para>
+          <para>Volgens het derde ambtsbericht is [naam 13] een inlichtingenofficier van de DGED en maakte hij gebruik van het telefoonnummer [telefoonnummer 5]<footnote-ref linkend="_b25e96bd-7332-4d8f-90fc-1067630629de" />. Dit nummer stond onder de naam ‘ [naam 14] ’ opgeslagen in de iPhone 7 die onder de verdachte in beslag is genomen. Volgens de verdachte is [naam 13] , van wie hij geen achternaam wist, een voormalig politiek gevangene en werkzaam voor de Nationale Raad voor de Rechten van de Mens (hierna: NRRM) in Rabat. In die hoedanigheid regelde hij praktische zaken voor de door de familie van de verdachte ondernomen (mensenrechten-)activiteiten, zoals vliegtickets, vervoer van medicijnen en post. Uit de berichten tussen de verdachte en ‘ [naam 13] ’ is op te maken dat [naam 13] samenwerkte met ‘ [naam 15] ’.<footnote-ref linkend="_923b1cf6-bb60-484b-9832-5571e18c51dd" /></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank stelt vast dat de verdachte in contact heeft gestaan met ‘ [naam 13] ’. De stelling dat [naam 13] en [persoon 4] dezelfde persoon zijn en dat deze als inlichtingenofficier aan de DGED verbonden is, wordt in het dossier niet nader onderbouwd. </para>
+          <para>Uit het dossier is op te maken dat de verdachte meermaals naar Marokko reisde met vliegtickets die bij het reisbureau Royal Air Maroc in Rabat waren geboekt. Uit de berichten tussen de verdachte en [persoon 2] en [naam 13] , blijkt van hun betrokkenheid bij het boeken van een aantal reizen<footnote-ref linkend="_b8ddc882-2117-453f-a44d-54e1a0b7ff3b" />. In de zomer van 2023 ontving de verdachte informatie over reizen en vliegtickets van [naam 13] en uit deze berichten kan worden opgemaakt dat [naam 13] reizen regelde voor de verdachte. Wie de reizen heeft betaald, blijkt niet uit het dossier. Het is opvallend dat [naam 13] deze reizen regelde, maar de stelling van de officier van justitie, dat het om ‘dienstreizen voor de DGED’ ging, is een verregaande conclusie die in het dossier niet met gegevens onderbouwd wordt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">
+              [naam 15] [persoon 2]</emphasis>
+          </para>
+          <para>In het dossier figureren verschillende personen met de (voor)naam [naam 15] . Volgens het openbaar ministerie had de verdachte meermaals contact met [naam 15]  die, volgens het derde ambtsbericht, sinds 2010 hooggeplaatste functies bekleedt bij de DGED en gebruik maakte van de telefoonnummers [telefoonnummer 6] en [telefoonnummer 7] . [naam 15]  komt in openbare bronnen niet voor in relatie tot de DGED.</para>
+          <para>De verdachte heeft in zijn verklaringen geschreven en gesproken over enerzijds een neef, [naam 16] , anderzijds een [naam 15] van de NRRM, van wie hij geen achternaam weet. De eerste was volgens de verdachte de reden waarom enkele door de verdachte geschreven documenten de naam ‘ [naam 17] ’ droegen en de tweede heeft als medewerker van de NRRM ondersteunende werkzaamheden voor de familie verricht, onder meer in de zaak van het stuk in beslag genomen familiegrond in Larache.</para>
+          <para>De verdachte had in de jaren 2022 en 2023 veelvuldig Whatsappcontact met het nummer [telefoonnummer 7] terwijl hieraan de naam ‘ [naam 18] ’ was gekoppeld, maar hij noemde zijn gesprekspartner in dit contact steeds ‘ [naam 15] ’. Dit was volgens de verdachte de [naam 15] van de NRRM, met wie hij overleg had over familie-gerelateerde aangelegenheden. </para>
+          <para>De verdachte heeft niet bevredigend kunnen uitleggen waarom deze [naam 15] als ‘ [naam 18] ’ was opgeslagen in de door hem gebruikte telefoon. Hij heeft in zijn schriftelijke verklaring<footnote-ref linkend="_4a5b9aca-63fb-4723-b9bb-8c52fe5e6fcd" /> als uitleg voor het veranderen van de namen bij bovengenoemde nummers gesteld dat de telefoons waarop de nummers werden opgeslagen steeds door een ander familielid werden gebruikt en een nieuwe gebruiker logischerwijs een nieuwe naam onder het nummer opsloeg, althans zo begrijpt de rechtbank die uitleg.</para>
+          <para>Hij heeft ter terechtzitting zijn schriftelijke verklaring aangevuld met de stelling dat hij de telefoons steeds in het bijzijn van een familielid gebruikte dat hem de telefoon aanreikte en dat hij derhalve niet wist welke naam bij welk nummer hoorde, maar kon desgevraagd niet zeggen waarom hij op deze manier met een medewerker van de NRRM communiceerde en hoe hij dan wist met wie hij communiceerde. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank vindt de uitleg van de verdachte moeilijk te volgen. Het wisselen van gebruiker is immers geen logische verklaring voor het veranderen van de naam van een contactpersoon bij een nummer. Daarnaast heeft de verdachte pas ter terechtzitting verklaard dat hij altijd in het bijzijn van een familielid met de bedoelde telefoons communiceerde en heeft hij deze verklaring op geen enkele wijze onderbouwd. Uit onderzoek in het digitale beslag blijkt niet van communicatie met neef [naam 15] en de verdachte heeft, hoewel daarnaar gevraagd werd op de eerste dag van de inhoudelijke behandeling, geen stukken kunnen overleggen waaruit enig contact blijkt tussen een [naam 15] van de NRRM en (de familie van) de verdachte.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tegenover de uitleg van de verdachte staat het volgende. </para>
+          <para>Het nummer [telefoonnummer 6] stond in de Nokia, die onder de verdachte in beslag is genomen, in het ‘adress book’ opgeslagen onder de naam [naam 15] [persoon 2] .<footnote-ref linkend="_e492d60a-87c2-451e-bb22-90a366c5dca3" /> In drie van de telefoons die onder de verdachte in beslag zijn genomen, waren de telefoonnummers [telefoonnummer 6] en [telefoonnummer 7] opgeslagen als contactpersoon, waarbij verschillende namen werden gebruikt, zoals ‘ [naam 19] ’, ‘ [naam 20] ’, ‘ [naam 21] ’ en ook ‘ [naam 18] ’.<footnote-ref linkend="_56537a1f-445d-4985-ab36-6a679e4ba18a" /> Deze naamvermeldingen herhaalden zich ten aanzien van beide nummers, hetgeen de conclusie onderbouwt dat beide nummers bij dezelfde persoon horen, zoals in het derde ambtsbericht is gesteld. Ook stond in het ‘tekst message archive’ van de Nokia een bericht naar dit nummer ( [telefoonnummer 6] ), waarin de gebruiker van de Nokia op 20 februari 2016 meldde dat hij ‘<emphasis role="italic">goed is aangekomen’</emphasis>. Precies ditzelfde bericht werd, zoals hiervoor beschreven, door de verdachte een minuut eerder aan [persoon 1] verstuurd om te laten weten dat zijn reis zonder problemen was verlopen.</para>
+          <para>De rechtbank wijst in dit verband ook op de aanvullende verklaring van de verdachte<footnote-ref linkend="_b834f6b1-18d3-40f5-99dd-800a7f51fda2" /> waarin hij uitleg geeft over het tot stand komen van de directe communicatie met hooggeplaatste inlichtingenofficieren over problemen bij in- en uitreizen en waar hij enkele namen noemt, waaronder [persoon 1] . Hoewel de verdachte hier niet de naam [naam 15] [persoon 2] noemt, geeft deze uitleg, ook in het licht van de hiervoor besproken berichten van 20 februari 2016, steun voor de stelling dat de [naam 15] met wie hij contact had, inderdaad de inlichtingenofficier [naam 15] [persoon 2] was.</para>
+        </parablock>
+        <para />
+        <para />
+        <para />
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">
+              [naam 22]
+            </emphasis>
+          </para>
+          <para> is volgens het ambtsbericht van 27 maart 2025 een medewerker van de DGED.<footnote-ref linkend="_cf717f33-0a79-4d13-8252-5c7a6e99724d" /> Zijn naam wordt op vergelijkbare wijze als [naam 13] ( [naam 13] ) genoemd in berichtenverkeer tussen de verdachte en [naam 15] als degene die ‘een klein dingetje’ zou kunnen komen ophalen tijdens het verblijf van de verdachte in Marokko van 18 tot en met 27 februari 2023<footnote-ref linkend="_061fb411-c195-4803-b61f-71886875a66c" />. Het telefoonnummer [telefoonnummer 8] komt voor als <emphasis role="italic">[naam 23] </emphasis>en het WhatsApp account [account] in de telefoon F.01.001 iPhone 7 zwart die de verdachte bij zich had bij zijn aanhouding. Dit contact is <emphasis role="italic">created on </emphasis>24-06-2023 12:58:33<footnote-ref linkend="_ed95c5b3-ded0-47ee-8ad8-152420361e40" />, kennelijk tijdens de reis van de verdachte van 22 juni tot 2 juli 2023. Ook heeft *7610 ( [naam 15] ) een telefoonnummer van ene [naam 22] doorgezonden, welk nummer in genoemd ambtsbericht is vermeld als nummer waarvan [naam 22] gebruik heeft gemaakt. Uit een chatconversatie van de verdachte met [naam 15] blijkt onder meer dat [persoon 2] het telefoonnummer [telefoonnummer 9] stuurt aan de verdachte, waarop de verdachte antwoordt dat hij het goed ontvangen heeft, dat [naam 22] op dit moment niet bereikbaar is en dat hij het straks nog eens probeert. [persoon 2] verzoekt aan de verdachte hem nogmaals te bellen omdat hij bij de Hammam was.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Conclusie ad 1)</emphasis>
+          </para>
+          <para>De rechtbank concludeert dat de verdachte met zijn uitleg over het telefoongebruik en de telefoonnummers de stelling van het derde ambtsbericht niet heeft ontzenuwd en dat de [naam 15] met wie hij reeds lange tijd contact onderhield, inderdaad [naam 15] is. Dat deze [naam 15] verbonden is aan de DGED, volgt uit hetzelfde ambtsbericht en wordt ondersteund door de aanvullende verklaring van de verdachte en door de inhoud van het bericht dat op 20 februari 2016 door de verdachte aan [persoon 1] wordt gestuurd over zijn goede aankomst in Marokko. Dat de verdachte in de tenlastegelegde periode in contact heeft gestaan met [persoon 1] , hoofd van de DGED, blijkt niet uit het dossier.</para>
+          <para>Omdat uit de chatberichten tussen de verdachte en [persoon 2] volgt dat deze samenwerkte met [naam 13] , en voorts de naam van [naam 22] in een dergelijk chatbericht door de verdachte is vermeld, ziet de rechtbank ook een verband tussen [naam 13] respectievelijk [naam 22] en de DGED. Uit het dossier wordt niet duidelijk waaruit dit verband precies bestond.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Ad 2) Waarop waren de contacten gericht? </emphasis>
+          </para>
+          <para>De rechtbank concludeert op grond van het voorgaande in samenhang met de overige dossiergegevens dat de verdachte in de ten laste gelegde periode veelvuldig naar Marokko reisde, regelmatig contact had met [persoon 2] en in mindere mate met [naam 13] , [naam 22] en [persoon 3] . In de ten laste gelegde periode is van contact met [persoon 1] niet gebleken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met [persoon 3] was het contact volgens de verdachte beperkt tot een poging om een afspraak te maken in verband met het stuk in beslag genomen familiegrond. De rechtbank ziet, mede op grond van de inhoud van het contact geen aanleiding om aan deze uitleg van de verdachte te twijfelen. Als de conclusie die in het derde ambtsbericht wordt getrokken, dat [persoon 3] ‘ondersteunende activiteiten’ heeft verricht ten behoeve van een verblijf van de verdachte in Marokko is gebaseerd op deze twee WhatsApp-gesprekken, dan gaat het – zo concludeert de rechtbank - deels om een invulling door de betrokken auteur.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De contacten met [naam 13] en [persoon 2] waren veelzijdiger van aard. De in het dossier opgenomen Whatsapp-berichten<footnote-ref linkend="_3861fcf6-b142-4619-a0cf-79ae6b9d888a" /> tussen de verdachte en [persoon 2] op het nummer [telefoonnummer 7] gingen over de reizen van de verdachte, over (de procedures rondom) familieaangelegenheden en over het maken van afspraken om elkaar te treffen. Uit de berichten kan worden afgeleid dat de verdachte de bijstand van [persoon 2] in de familiekwesties waardeerde en soms inriep. Op verschillende momenten tijdens verschillende reizen van de verdachte naar Marokko vond contact plaats, waarvan in het bijzonder de navolgende drie contactmomenten volgens het openbaar ministerie wijzen op het verstrekken van informatie aan [persoon 2] en/of [naam 13] .</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">‘Klein dingetje’</emphasis>
+          </para>
+          <para>Op 18 februari 2023 stuurde de verdachte – zoals hiervoor vermeld - een whatsapp-bericht aan [persoon 2] , waarin hij schreef de volgende dag in Marrakesh te zijn en een ‘klein dingetje’ aan [persoon 2] te willen overhandigen en vroeg of [naam 13] of [naam 22] het zou willen ophalen. Het openbaar ministerie legt dit bericht belastend uit. Volgens de verdachte gaat dit over een USB-stick met daarop informatie over het stuk in beslag genomen land in Larache. Of het tot een daadwerkelijke overdracht is gekomen, is niet vast te stellen. Wat er op de USB-stick stond evenmin.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">‘Medicijn’</emphasis>
+          </para>
+          <para>Op 17 augustus 2023 stuurde de verdachte aan [persoon 2] een bericht met de vraag of zij elkaar konden ontmoeten en de mededeling dat hij ‘het medicijn’ anders aan [naam 13] zou geven.<footnote-ref linkend="_4495e23a-f360-4e92-8ca1-d58f4191cb8c" /> Ook in dit bericht ziet het openbaar ministerie bewijs voor overdracht van geheime informatie. Volgens de verdachte ging het daadwerkelijk om medicijnen die in het kader van een mensenrechtenproject van de familie verkeerd waren geadresseerd, waarna de familie de verdachte had gevraagd of hij deze kon doen terugkeren naar de NRRM. Ook in dit geval kan niet worden vastgesteld of er een ontmoeting is geweest, zo ja met wie, of er daadwerkelijk iets is overgedragen en of er met ‘medicijn’ iets anders is bedoeld dan medicijnen en - zo ja - wat dan.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">‘Amlou/het toevertrouwde’</emphasis>
+          </para>
+          <para>Tot slot is er het bericht van de verdachte aan [naam 13] op 29 augustus 2023.<footnote-ref linkend="_fbf0edd5-3c49-484b-b91d-623d331eb42f" /> De verdachte schreef hierin dat hij het ‘toevertrouwde’ had ontvangen. Op 15 september 2023 liet hij [naam 13] weten dat hij ‘het toevertrouwde’ bij zijn zwager had achtergelaten en dat het Amlou is, met daarbij de uitleg dat het om amandelpasta ging.<footnote-ref linkend="_a0502764-7bd0-4904-a2b0-fb11d4eb410e" /> De verdachte heeft uitgelegd dat ‘het toevertrouwde’ een vertaling in het Nederlands is van ‘iets dat aan iemand wordt meegegeven’, in de zin van een pakketje en dat het daadwerkelijk om amandelpasta ging. Gelet op de inhoud van het bericht van de verdachte waarin hij schrijft dat het om amandelpasta gaat, maar ook bij gebrek aan onderbouwing van de stelling van het openbaar ministerie dat ‘het toevertrouwde’ versluierd taalgebruik is voor geheime informatie, heeft de rechtbank onvoldoende aanleiding om aan de verklaring van de verdachte te twijfelen, nog daargelaten dat het hierbij kennelijk niet ging om iets wat de verdachte zelf had verstrekt, maar om iets wat hij had ontvangen.  </para>
+          <para>
+            <emphasis role="italic">Conclusie ad 2)</emphasis>
+          </para>
+          <para>De verdachte heeft in de ten laste gelegde periode per telefoon contact onderhouden met [persoon 3] , [persoon 2] en [naam 13] . Vastgesteld is dat [persoon 2] aan de DGED kan worden gerelateerd en [naam 13] aan [persoon 2] . De verdachte heeft weliswaar uitgelegd dat en waarom hij en zijn familie in direct contact stonden met (hooggeplaatste) inlichtingenofficieren, maar heeft hierbij [persoon 2] uitdrukkelijk niet genoemd. Zijn verklaring over de contacten met ‘ [naam 15] ’ en ‘ [naam 13] ’ en de daarbij gegeven uitleg over het gebruik van telefoons laten veel vragen onbeantwoord. Hierin schuilt echter geen zelfstandig bewijs voor de stelling dat de verdachte deze contacten onderhield met de intentie om geheime informatie te delen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tegenover de niet altijd navolgbare verklaringen van de verdachte staan de stellingen van het openbaar ministerie. Ook deze vinden op belangrijke onderdelen geen steun in het dossier. Zo kan niet worden vastgesteld dat de verdachte [persoon 2] of [naam 13] daadwerkelijk heeft ontmoet of dat de verdachte ooit iets aan één van hen of aan de DGED heeft verstrekt. In de ambtsberichten van de AIVD/MIVD wordt dit ook niet gemeld.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Ad 3) Overige belastende omstandigheden, ook in samenhang bezien</emphasis>
+          </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Bewijsredenering officier van justitie</emphasis>
+          </para>
+          <para>Naast de contacten met medewerkers van de DGED en afspraken om elkaar te treffen, de boekingen en deels betalingen van de reizen door die medewerkers, heeft de officier van justitie gewezen op toegang van de verdachte tot staatsgeheime documenten, het gedrag en de handelingen van de verdachte op kantoor (het meenemen van hardcopy documenten) en thuis en zijn bagage op het vliegveld in Nederland als het bewijs voor feit 2.<footnote-ref linkend="_ff92be25-454e-4fe7-8e3a-abe7e9d08a7c" /> Volgens de officier van justitie volgt dit bewijs uit het over of naast elkaar leggen van de verschillende onderzoeksresultaten. Verder heeft de officier van justitie een reeks omstandigheden en gegevens genoemd die kunnen worden gerangschikt onder het motto ‘voor wat hoort wat’ of ‘wat komt er voor terug voor de verdachte’<footnote-ref linkend="_b56a3363-1fb5-4bd1-91a0-7a47df797ac1" />.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In dit verband overweegt de rechtbank het volgende.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">De reizen in verband met het printen en scannen op kantoor, de tegenprestaties</emphasis>
+          </para>
+          <para>Er is een opvallende samenval in de tijd tussen de print- en scanactiviteiten door de verdachte op kantoor respectievelijk thuis, en zijn reizen. De verdachte heeft erkend te hebben geprint en gescand maar hij deed dit naar zijn zeggen voor zijn reguliere werkzaamheden en hij heeft steeds enige correlatie (de rechtbank begrijpt: in de zin van inhoudelijke samenhang) ontkend. Naar uiterlijk aanzien was er een aantal malen een drukte aan print- en scanactiviteiten (waaronder het aansluiten en loskoppelen van storage devices, het creëren van folders en pdf-documenten op een SD-kaart dan wel op zijn MSI computer) en aantekeningen in een notitieboekje op de dag van een reis<footnote-ref linkend="_c0107cad-f91c-46b4-a3d8-911a7daf6b85" />. In een aantal andere gevallen gebeurde dit in de dagen tot weken ervoor<footnote-ref linkend="_fd07b94c-d080-4561-a73a-83bd9f56f324" />. Gelet op de werkzaamheden van de verdachte, die hij (zoals onder 3.3.5. overwogen) ook in de periode zonder autorisatie op kantoor heeft voortgezet, kan de rechtbank niet uitsluiten dat deze activiteiten in de dagen tot weken ervoor, maar ook wel op het laatste moment plaatsvonden ten behoeve van die werkzaamheden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De reizen en de samenhang met de print- en scan-acties van de verdachte, door het openbaar ministerie aangeduid als ‘de treintjes van bewijs’, zouden kunnen passen in een scenario van spionage en onrechtmatige fysieke overdracht van geheime informatie per reis. Ook het betoog van de officier van justitie over het ‘voor wat hoort wat’ biedt daarvoor bouwstenen. Maar daarmee staat nog niet vast dat een andere uitleg voor die samenhang en die aangeduide ‘tegenprestaties’ redelijkerwijs is uitgesloten. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank kan zich enige frustratie voorstellen aan de kant van het openbaar ministerie bij de opbouw en de timing in de verklaringen van de verdachte. De officier van justitie heeft de verdachte één en andermaal terecht gewezen op de mogelijkheid om helderheid te verschaffen. Het lijkt er ook op dat de verdachte zichzelf niet steeds goede diensten heeft bewezen door zo ‘uitgesteld’ en in grote incomplete brokken te verklaren. De verklaringen van de verdachte zijn op punten onvolledig dan wel onbevredigend.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dit alles neemt niet weg dat de rechtbank te midden van alle - bedenkelijke tot verdachte - omstandigheden rond de reizen van de verdachte op zoek moet gaan naar concrete aanwijzingen voor de ten laste gelegde onrechtmatige verstrekking van staatsgeheime informatie. Deze concrete aanwijzingen zijn, zoals overwogen, uiteindelijk niet aangetroffen. De hiervoor mede als onbevredigend aangeduide verklaringen van de verdachte vormen onvoldoende basis om de sprong te maken naar de conclusie dat zijn verklaringen zijn bestemd om de waarheid te verhullen, zodat het ‘niet anders kan zijn dan’ dat de verdachte schuldig is aan het hem verwetene. De omstandigheid dat het buitengewoon moeilijk kan zijn om in een ‘spionagezaak’ rond het lekken van geheime informatie de daadwerkelijke verstrekking van die informatie te bewijzen, maakt niet dat de bewijsdrempel daarmee lager komt te liggen. Ook de genoemde onderzoeksresultaten laten onverlet dat concreet bewijs over verstrekking van staatsgeheime informatie of gegevens(dragers) met deze informatie niet voorhanden is. De ‘aanwijzingen dat zaken van hand tot hand zijn gegaan’ ziet de rechtbank niet.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Conclusie ad 3)</emphasis>
+          </para>
+          <para>Ook als alle omstandigheden in onderlinge samenhang worden bezien, zoals in het requisitoir, ontbreekt de cruciale schakel in het bewijs van het onder feit 2 primair ten laste gelegde daadwerkelijke verstrekken van staatsgeheime informatie, zodat de verdachte daarvan moet worden vrijgesproken. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="bold">Feit 2 meer subsidiair</emphasis>
+          </para>
+          <para>Het ontbreken van concreet bewijs voor het verstrekken van staatsgeheime informatie aan buitenlandse actoren heeft ook gevolgen voor de waardering van de beschuldiging van voorbereiding tot een dergelijk misdrijf zoals onder feit 2 meer subsidiair ten laste is gelegd. In de onder feit 2 primair beschreven periode is er ten aanzien van een reeks buitenlandse reizen onvoldoende bewijs voor daadwerkelijke verstrekking van staatsgeheime informatie aan de DGED. Daarom moeten de aanwijzingen voor het voornemen en de intentie van de verdachte om op de onderbroken reis tot zo’n verstrekking over te gaan, des te voorzichtiger worden bezien. Die aanwijzingen zijn naar het oordeel van de rechtbank niet concludent. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De inhoud van de contacten tussen de verdachte en [persoon 2] en [naam 13] wijst niet op een intentie of voornemen om geheime informatie met hen te delen. Niet kan worden vastgesteld dat met de onderwerpen waarover in de berichten wordt gesproken iets anders, in het bijzonder geheime informatie, wordt bedoeld. Het veronderstelde verband tussen de contacten van de verdachte enerzijds en het op voorhand printen en scannen anderzijds, kan dan ook niet worden gelegd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Daarmee kan niet worden vastgesteld dat aan het (thuis, in Nederland) voorhanden hebben van documenten met geheime informatie of het voorhanden hebben van gegevensdragers of vliegtickets of reisbescheiden de betekenis moet worden toegekend die het openbaar ministerie daaraan toekent. Niet kan worden bewezen dat het voorhanden hebben van genoemde stukken of gegevensdragers bestemd was om geheime informatie met de DGED te delen. De verdachte zal ook van de onder 2 meer subsidiair ten laste gelegde voorbereidingshandelingen worden vrijgesproken. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Voorwaardelijke verzoeken tot het horen van getuigen</emphasis>
+          </para>
+          <para>Bij pleidooi heeft de raadsman van de verdachte het voorwaardelijke verzoek gedaan een aantal personen als getuigen te horen over het onder 2 ten laste gelgde. Nu de verdachte van feit 2 primair en meer subsidiair wordt vrijgesproken, komt de rechtbank niet toe aan deze verzoeken.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.7.</nr>
+        <para>
+          <emphasis role="italic">Bewezenverklaring feit 1 subsidiair en feit 3</emphasis>
+        </para>
+        <para />
+        <parablock>
+          <para>Bewezen is dat:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 1 subsidiair</emphasis>
+          </para>
+          <para>hij op 26 oktober 2023 te Haarlemmermeer inlichtingen waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden, te weten:</para>
+        </parablock>
+        <itemizedlist mark="-">
+          <listitem>
+            <para>Inlichtingenanalyse ‘Normbeeld Marokkaanse inlichtingenactiviteiten in Nederland’, d.d. 16-07-2021, kenmerk 92295c16-or1-1.9 en</para>
+          </listitem>
+          <listitem>
+            <para>MIVD Inlichtingenbericht d.d. 29 maart 2021, Digitaal, F.01.005 (Device nr.) met kenmerk DIS2021004605 </para>
+          </listitem>
+        </itemizedlist>
+        <para>zonder daartoe gerechtigd te zijn opzettelijk onder zich heeft gehouden;</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Feit 3</emphasis>
+          </para>
+          <para>hij op of omstreeks 26 oktober 2023 te Rotterdam althans (elders) in Nederland, inlichtingen waarvan de geheimhouding door het belang van de staat en/of een of meer van zijn bondgenoten werd geboden, te weten:</para>
+          <para>fysiek aangetroffen documenten:</para>
+        </parablock>
+        <itemizedlist mark="-">
+          <listitem>
+            <para>Inlichtingenanalyse, d.d. 31-05-2023, kenmerk 9746bdff-or1-1.4 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176 en</para>
+          </listitem>
+          <listitem>
+            <para>Intelligence Update Week 26, Hardcopy, A.06.04.001.266 / A.06.04.001.264 met kenmerk DIS2023013187 en</para>
+          </listitem>
+          <listitem>
+            <para>Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634 en</para>
+          </listitem>
+        </itemizedlist>
+        <para>op digitale gegevensdragers aangetroffen:</para>
+        <itemizedlist mark="-">
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-or1-1.5 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-or1-1.1 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.5 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenbericht van 11 augustus 2023, kenmerk DIS2023016182 en</para>
+          </listitem>
+          <listitem>
+            <para>Inlichtingenanalyse d.d. 6 juni 2023, kenmerk DIS2023006176 en</para>
+          </listitem>
+          <listitem>
+            <para>Intelligence Update Week 21, kenmerk DIS2023010634</para>
+          </listitem>
+        </itemizedlist>
+        <para>zonder daartoe gerechtigd te zijn opzettelijk onder zich heeft genomen en/of gehouden.</para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>4</nr>Kwalificatie en strafbaarheid</title>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Kwalificatie</emphasis>
+        </para>
+        <para>Het bewezen feiten leveren de volgende strafbare feiten op:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Feit 1 subsidiair </para>
+        <para>
+          <emphasis role="bold">opzettelijk enige inlichting als bedoeld in artikel 98 van het Wetboek van Strafrecht, zonder daartoe gerechtigd zijn, onder zich houden, meermalen gepleegd; </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Feit 3 </para>
+        <para>
+          <emphasis role="bold">opzettelijk enige inlichting als bedoeld in artikel 98 van het Wetboek van Strafrecht, zonder daartoe gerechtigd zijn, onder zich nemen en houden, meermalen gepleegd.</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Strafbaarheid van de feiten en van de verdachte</emphasis>
+        </para>
+        <para>Zoals overwogen in paragraaf 3.3.5., slaagt het door de verdediging ten aanzien van feit 1 subsidiair en feit 3 gedane beroep op afwezigheid van alle schuld niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De feiten en de verdachte zijn strafbaar. </para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>5</nr>Straf</title>
+    <paragroup>
+      <nr>5.1.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Eis van de officier van justitie</emphasis>
+        </para>
+        <para>De verdachte moet voor feit 1 primair, feit 2 primair en feit 3 worden veroordeeld tot een gevangenisstraf voor de duur van 12 jaren met aftrek van voorarrest.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>
+          <emphasis role="underline">Oordeel van de rechtbank</emphasis>
+        </para>
+        <para>De rechtbank heeft de op te leggen straf bepaald op grond van de ernst van de feiten en de omstandigheden waaronder deze zijn begaan, en ook op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting. </para>
+      </parablock>
+      <paragroup>
+        <nr>5.2.1.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic"> Ernst en omstandigheden van de feiten</emphasis>
+          </para>
+          <para>De verdachte, die lange tijd bij de NCTV werkzaam is geweest, heeft zich schuldig gemaakt aan het onder zich nemen en houden van staatsgeheime stukken (‘een inlichting of gegevens’) in de zin van artikel 98 jo 98c (oud) Sr, zonder dat hij daartoe gerechtigd was. Hij beschikte daarover uit hoofde van zijn functie, dan wel, na de intrekking van zijn autorisatie, via het account van een collega. Die stukken heeft hij (onder meer na printen respectievelijk digitalisering ervan) in fysieke dan wel digitale vorm op gegevensdragers, buiten de beveiligde kantooromgeving gebracht. Hij heeft deze documenten - voor zover de rechtbank heeft kunnen vaststellen - zonder kwaadwillende intenties, maar op onverantwoord achteloze wijze thuis bewaard, dan wel – zoals bleek bij zijn aanhouding - tijdens verplaatsingen bij zich gehad. Daarmee heeft hij onacceptabele risico’s voor de staatsveiligheid gecreëerd. Dat (blijkens het in paragraaf 3.3.5. genoemde Auditrapport) de bewaardiscipline binnen de dienst in het algemeen wellicht te wensen overliet, ontsloeg de verdachte niet van zijn ambtelijke verplichtingen. Juist vanwege zijn bijzondere positie had hij beter moeten weten en geen staatsgeheime documenten mee moeten nemen naar huis, laat staan op een gegevensdrager in zijn bagage. </para>
+          <para>Daarmee heeft de verdachte zijn ambtsplicht om zorgvuldig met bedoelde stukken en informatie om te gaan, met voeten getreden. Hij heeft daardoor niet alleen het vertrouwen dat zijn werkgever in hem stelde ernstig beschaamd, maar ook afbreuk gedaan aan het aanzien en de integriteit van de NCTV. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>5.2.2.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Persoon en persoonlijke omstandigheden</emphasis>
+          </para>
+          <para>Uit het strafblad (uittreksel justitiële documentatie) van 14 januari 2026 blijkt dat de verdachte niet eerder is veroordeeld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte had veel te verliezen, en heeft veel verloren, in de loop van dit proces, zowel persoonlijk als maatschappelijk. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdediging heeft gewezen op de impact voor het (volwassen) gezin van de verdachte, onder meer met verwijzing naar een verklaring van de dochter. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte is vele jaren in dienst geweest van de Nederlandse staat. Hij heeft verklaard over zijn verdienste voor Nederland in het kader van het bestuderen van bijvoorbeeld het thema ‘radicalisering’ en het maken van internationaal-politieke analyses vanuit zijn uitgebreide, erkende kennis van de islam en de verschillende (waaronder ook extremistische) stromingen daarin, alsmede zijn kennis van een reeks buitenlanden. Een politicus zou zijn leven te danken hebben aan adequate informatie van de verdachte. De verdachte was kennelijk 24/7 beschikbaar – ook als hij op reis was – voor vragen en analyses met betrekking tot actuele politieke gebeurtenissen. Als bron van kennis werd hij binnen de diensten ook wel “Abformatie” genoemd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank ziet niet voorbij aan de waarde die de verdachte in dit opzicht kennelijk heeft gehad voor de Nederlandse overheid. Het moet voor hem ook buitengewoon wrang zijn, dat hij nu wordt beschuldigd van niets minder dan spionage, met name nu voor dit ernstigste verwijt (culminerend in een langjarige strafeis door het openbaar ministerie) het sluitende bewijs – zoals hiervoor is geoordeeld - niet is geleverd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank merkt hierbij wel op dat de procesopstelling van de verdachte aanzienlijk lijkt te hebben bijgedragen aan het trage verloop van het proces. Het openbaar ministerie en de rijksrecherche hebben de verdachte in de verhoren met veel geduld en zorgvuldigheid tegemoet getreden. Zijn verklaringen tegenover de rijksrecherche en afwisselend beroep op het (hem toekomende) zwijgrecht, alsmede zijn ultieme uitgebreide, in vele richtingen uitweidende schriftelijke bijdragen, hebben het niet eenvoudig gemaakt om met de verdachte tot concrete gesprekken te komen. Zijn verklaringen hebben ook nogal wat mist en nieuwe vragen gecreëerd. Naar het de rechtbank voorkomt had de verdachte die vragen, uitgaande van zijn onschuld aan het al direct bij zijn aanhouding gemaakte verwijt van spionage, op een eenvoudiger wijze en veel eerder kunnen beantwoorden. In de redenen voor de verdachte om zo laat en omslachtig te verklaren, heeft de rechtbank geen daadwerkelijk inzicht gekregen. De aanvankelijk door de verdediging met veel nadruk aangevoerde reden dat hij op zijn hoede moest zijn vanwege een (zijn) geheimhoudingsplicht, heeft geen handen en voeten gekregen. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>5.2.3.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Conclusie</emphasis>
+          </para>
+          <para>Al met al resteert er, zoals gezegd, een ernstig verwijt van overtreding van artikel 98c (oud) Sr, waarvoor de rechtbank het bewijs ruimschoots aanwezig acht. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op een ernstig feit zoals hier aan de orde kan, mede vanuit een oogpunt van generale preventie, naar het oordeel van de rechtbank niet anders worden gereageerd dan met het opleggen van een onvoorwaardelijke gevangenisstraf van aanzienlijke duur. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>5.2.4.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Redelijke termijn</emphasis>
+          </para>
+          <para>De rechtbank heeft geconstateerd dat de redelijke termijn in de zin van art. 6, eerste lid, van het EVRM is overschreden. Er is immers niet binnen de volgens vaste rechtspraak van de Hoge Raad gehanteerde termijn van 2 jaar, maar na 2 jaar en (bijna) 5 maanden na de eerste daad van vervolging vonnis gewezen. Rekening houdend met die overschrijding alsmede met het tijdsverloop sinds de bewezen verklaarde feiten, zou de rechtbank denken aan een bekorting van de op te leggen gevangenisstraf met 1 maand. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>5.2.5.</nr>
+        <parablock>
+          <para>
+            <emphasis role="italic">Oplegging straf</emphasis>
+          </para>
+          <para>De rechtbank houdt rekening met genoemde overschrijding, alsmede met de duur en het gewicht van de ondergane voorlopige hechtenis in de omstandigheden die de verdachte ter zitting heeft beschreven. Alles overwegende vindt de rechtbank een geheel onvoorwaardelijke gevangenisstraf, gelijk aan de ondergane voorlopige hechtenis, derhalve voor de duur van 20 maanden, een passende en geboden reactie. </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>6</nr>Voorlopige hechtenis</title>
+    <para>De rechtbank heeft de voorlopige hechtenis van de verdachte met ingang van 2 juli 2025 geschorst.</para>
+    <para />
+    <parablock>
+      <para>Omdat een gevangenisstraf wordt opgelegd die gelijk is aan de tijd die de verdachte in voorarrest heeft doorgebracht, wordt het bevel tot voorlopige hechtenis opgeheven. Het verzoek van de officier van justitie tot opheffing van de schorsing van de voorlopige hechtenis wordt afgewezen.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>7</nr>Wettelijke voorschriften</title>
+    <para>De oplegging van deze straf is gebaseerd op artikel 98c (oud) van het Wetboek van Strafrecht. </para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>8</nr>Beslissingen</title>
+    <para>De rechtbank:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Voorvragen</emphasis>
+      </para>
+      <para>verklaart de dagvaarding nietig voor zover het betreft feit 1 primair, de onder feit 2 primair opgenomen zinsnede ‘- een of meer andere staatsgeheim gerubriceerde en confidentiële documenten en/of documenten van internationale herkomst met een rubricering equivalent aan staatsgeheim geheim en/of staatsgeheim confidentieel en/of departementaal vertrouwelijk’ en feit 2 subsidiair; </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart de dagvaarding voor het overige geldig;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Vrijspraak </emphasis>
+      </para>
+      <para>verklaart niet bewezen dat de verdachte feit 2 primair en feit 2 meer subsidiair heeft gepleegd en spreekt de verdachte daarvan vrij;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bewezenverklaring</emphasis>
+      </para>
+      <para>verklaart bewezen dat de verdachte feit 1 subsidiair en feit 3, zoals in hoofdstuk 3 is omschreven, heeft gepleegd;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Kwalificatie en strafbaarheid</emphasis>
+      </para>
+      <para>stelt vast dat het bewezenverklaarde oplevert de in hoofdstuk 4 vermelde strafbare feiten;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart de verdachte strafbaar;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Straf </emphasis>
+      </para>
+      <para>veroordeelt de verdachte tot een <emphasis role="bold">gevangenisstraf van 20 (twintig) maanden</emphasis>; <?linebreak?></para>
+      <para>beveelt dat de tijd die door de verdachte voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, in mindering wordt gebracht op de gevangenisstraf, voor zover deze tijd niet al op een andere vrijheidsstraf in mindering is gebracht;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Voorlopige hechtenis </emphasis>
+      </para>
+      <para>heft op het bevel tot voorlopige hechtenis van de verdachte; deze voorlopige hechtenis is eerder geschorst.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>9</nr>Samenstelling rechtbank en ondertekening </title>
+    <parablock>
+      <para>Dit vonnis is gewezen door:</para>
+      <para>mr. J.J. Bade, voorzitter,</para>
+      <para>en mrs. E.M. Havik en P.C. Tuinenburg, rechters,</para>
+      <para>in tegenwoordigheid van mr. A.K. van Zanten, griffier,</para>
+      <para>en uitgesproken op de openbare zitting van deze rechtbank op 11 maart 2026.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Bijlage – Bewijsmiddelen aantreffen documenten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feit 1</emphasis>
+      </para>
+    </parablock>
+    <para>1. <emphasis role="italic">Proces-verbaal van bevindingen met betrekking tot de AIVD en MIVD documenten.</emphasis></para>
+    <parablock>
+      <para>Ik, [verbalisant] , algemeen opsporingsambtenaar als bedoeld in artikel 141 van het Wetboek van Strafvordering en werkzaam bij de Rijksrecherche, verklaar het volgende: Door de AIVD en de MIVD zijn door tussenkomst van de Landelijk Officier van Justitie Terrorismebestrijding middels een ambtsbericht een aantal documenten ter beschikking gesteld van het onderzoek 28Celestien met daarbij nadere informatie over het staatsgeheime karakter van de betreffende documenten.</para>
+      <para>Ik heb hieronder beschreven waar de betreffende documenten in het onderzoek 28Celestien voorkomen, hoeveel documenten er die dag zijn geprint / gescand en eventueel bij welk 'treintje' ze horen.</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">1. Inlichtingenanalyse 'Normbeeld Marokkaanse inlichtingenactiviteiten in Nederland', d.d. 16-07-2021, kenmerk 92295c16-or1-1.9</bridgehead>
+    <parablock>
+      <para>Dit document is door de AIVD aangetroffen in het digitale beslag met locatiecode F.01 .005.</para>
+      <para>Locatie Legenda: F = locatie Schiphol, 01 = schoudertas, 005 =nummerobject: ICT gegevensdrager, Samsung EVO SSD 4TB</para>
+      <para>
+        [verdachte] is op donderdag 26 oktober 2023 aangehouden op Schiphol. Hij had deze schoudertas met de gegevensdrager toen bij zich. . <emphasis role="italic">(blz. DB 00991)</emphasis></para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">16. Het Stg. GEHEIM gerubriceerde MIVD Inlichtingenbericht d.d. 29 maart 2021, Digitaal, F.01.005 (Device nr.) met kenmerk DIS2021004605</bridgehead>
+    <parablock>
+      <para>Dit document is door de MIVD aangetroffen in het digitale beslag met locatiecode F.01.005.</para>
+      <para>Locatie Legenda: F = locatie Schiphol, 01 = schoudertas, 005 =nummerobject: ICT gegevensdrager, Samsung EVO SSD 4TB</para>
+      <para>
+        [verdachte] is op donderdag 26 oktober 2023 aangehouden op Schiphol. Hij had deze schoudertas met de gegevensdrager toen bij zich. <emphasis role="italic">(DB 01000)</emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feit 3</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. <emphasis role="italic">Proces-verbaal zaaksdossier 28Celestien (blz. ZD 18)</emphasis></para>
+    <parablock>
+      <para>
+        <emphasis role="bold">4.2.1. Afschriften STG-documenten (fysiek)</emphasis>
+      </para>
+      <para>Onder de tijdens de doorzoeking in de woning van [verdachte] in beslag genomen fysieke documenten bevonden zich onder andere:</para>
+    </parablock>
+    <para>- De middels het 7e ambtsbericht verstrekte 'afschrift' van het Stg. Geheim geclassificeerde document: Inlichtingenanalyse, d.d. 31-05-2023, kenmerk 9746bdff-orl-1.4.</para>
+    <para>- De middels het 6e ambtsbericht verstrekte 'afschriften' van Stg. Geheim geclassificeerde</para>
+    <parablock>
+      <para>(MIVD) documenten:</para>
+      <para>Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk D1S2023016182</para>
+      <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk D1S2023006176</para>
+      <para>Intelligence Update Week 26, Hardcopy, A.06.04.001.266 / A.06.04.001.264 met kenmerk D1S2023013187</para>
+      <para>Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">4.3.1. Afschriften aangetroffen digitale STG-documenten</emphasis>
+      </para>
+      <para>Op de in de woning van [verdachte] aangetroffen digitale gegevensdragers (met name de MSI computer met IBN-code A.06.04.008)16 bevinden zich onder andere de middels ambtsberichten verstrekte 'afschriften' van Stg.GEHEIM-geclassificeerde documenten:</para>
+      <para>Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 (8e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-orl-1.5 (9e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-orl-1.1 (10e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.S (11e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6 (12e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1 (13e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1 (14e Ambtsbericht)</para>
+      <para>Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5 (15e Ambtsbericht)</para>
+      <para>De middels het 5e ambtsbericht verstrekte 'afschriften' van Stg. Geheim geclassificeerde</para>
+      <para>MIVD documenten:</para>
+      <para>Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk</para>
+      <para>D1S2023016182</para>
+      <para>Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met</para>
+      <para>kenmerk D1S2023006176</para>
+      <para>Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk D1S2023010634</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_25edc37d-c251-49af-bf4e-600f7334cb42" label="1">
+    <para> Als in de hoofdstukken 2 en 3 in een voetnoot wordt verwezen naar paginanummers, wordt – tenzij anders vermeld – gedoeld op paginanummers in de documenten bibliotheek bij het eindproces-verbaal met nummer [nummer 6] (die beginnen met de aanduiding DB).</para>
+  </footnote>
+  <footnote id="_655fefad-13c9-4e36-bc8f-5f142c69725e" label="2">
+    <para> DB00538-00546</para>
+  </footnote>
+  <footnote id="_d462eb75-2954-4b37-9398-4a06304e0f4e" label="3">
+    <para> DB00954/00955</para>
+  </footnote>
+  <footnote id="_f9eba279-44e8-4e2f-a748-3b4059c659b1" label="4">
+    <para> Blz. BSG102-183 van het beslagdossier</para>
+  </footnote>
+  <footnote id="_adb3e25a-1062-42d0-a2e2-9d56d373e644" label="5">
+    <para> DB00449-00451</para>
+  </footnote>
+  <footnote id="_bbee43dd-2c13-4f34-aa78-894ac940c7e2" label="6">
+    <para> DB00769-00811</para>
+  </footnote>
+  <footnote id="_f1610681-d535-4c1d-b623-2dbcd65452f8" label="7">
+    <para>In de voetnoten wordt verwezen naar de exacte vindplaatsen van de bewijsmiddelen waaraan de feiten en omstandigheden zijn ontleend. Als wordt verwezen naar paginanummers, wordt – tenzij anders vermeld – gedoeld op paginanummers in de documenten bibliotheek bij het eindproces-verbaal met nummer [nummer 6] (die beginnen met de aanduiding DB). Een deel van de bewijsmiddelen is opgenomen in het overzicht met bewijsmiddelen in de bijlage.</para>
+    <para />
+  </footnote>
+  <footnote id="_fa91eff3-5f7b-4adc-9378-5b288398702f" label="8">
+    <para> Verklaring verdachte op de terechtzitting van 3 februari 2026</para>
+  </footnote>
+  <footnote id="_f42122e8-fd74-4545-b218-38564ff687b8" label="9">
+    <para> Verklaring verdachte op de terechtzitting van 3 februari 2026; proces-verbaal van aanhouding verdachte d.d. 26 oktober 2023, PDMANOA590013-0014, proces-verbaal van bevindingen bagage [verdachte] , blz. DB00322, blz. BSG086 van het beslagdossier en proces-verbaal van bevindingen periode Marokko van 31-08-2023 tot 15-09-2023, blz. DB00580 </para>
+  </footnote>
+  <footnote id="_583b77e1-b121-49e4-a7b9-a1ac0c1fdae6" label="10">
+    <para> Proces-verbaal van doorzoeking ter inbeslagneming, blz. DB00278-00280; de bijlagen bij dit proces-verbaal in het beslagdossier, blz. BSG099-183; proces-verbaal van bevindingen m.b.t. het aantreffen van geclassificeerde documenten bij de doorzoeking in Pand A, DB00344/00345, proces-verbaal van bevindingen m.b.t. het aantreffen van ‘nieuwe’ geclassificeerde documenten, blz. DB00449-00451 </para>
+  </footnote>
+  <footnote id="_25c3be83-5d44-4aac-98cb-ad7d6a42df0c" label="11">
+    <para> Proces-verbaal aantreffen gerubriceerde documenten in digitaal beslag met locatiecode F (m.u.v. F.01 .005), blz. DB00538-00546; proces-verbaal aantreffen gerubriceerde documenten in digitaal beslag met locatiecode A, blz. DB00769-00811 </para>
+  </footnote>
+  <footnote id="_e122ad7e-3f18-4345-ac69-571b4de97cb6" label="12">
+    <para> Proces-verbaal van bevindingen totaal overzicht inbeslagname stg documenten, blz. DB01001-01006</para>
+  </footnote>
+  <footnote id="_b180db86-dd34-46a5-aa71-03e9eda6d2bc" label="13">
+    <para> Hierna ook: het eerste ambtsbericht; DB00001/00002</para>
+  </footnote>
+  <footnote id="_94031f62-8a89-47e2-acaf-d9938c5c6ffd" label="14">
+    <para> DB00028</para>
+  </footnote>
+  <footnote id="_260684eb-6017-4a36-863b-273754a0a9ef" label="15">
+    <para> Hierna ook: het derde ambtsbericht; DB00012/00013</para>
+  </footnote>
+  <footnote id="_dac06f0c-4912-4dc8-84dd-0ea79151f5bd" label="16">
+    <para>DB00014/00015</para>
+  </footnote>
+  <footnote id="_d1c0a3d1-4ade-4e32-adc3-a4928775156b" label="17">
+    <para> DB00049-00052</para>
+  </footnote>
+  <footnote id="_cb9d1786-c7b5-4e6c-b685-722ced238f30" label="18">
+    <para> DB00111/00112; DB00126/00127; DB00135/00136; DB00142/00143; DB00149/00150; DB00159/00160; DB00166/00167; DB00173/00174; DB00180/00181</para>
+  </footnote>
+  <footnote id="_8378b276-0e66-4b55-bc0f-131b08c20b1b" label="19">
+    <para> DB01664</para>
+  </footnote>
+  <footnote id="_a4f2a3e1-f586-44b0-8d6f-37123ca3bc40" label="20">
+    <para>Feit 1: </para>
+    <para>1. <emphasis role="italic">Inlichtingenanalyse ‘Normbeeld Marokkaanse inlichtingenactiviteiten in Nederland’, d.d. 16-07-2021, kenmerk 92295c16-or1-1.9 </emphasis>: ambtsbericht d.d. 6 februari 2024, DB00014/00015</para>
+    <para>2. <emphasis role="italic">MIVD Inlichtingenbericht d.d. 29 maart 2021, Digitaal, F.01.005 (Device nr.) met kenmerk DIS2021004605</emphasis>: ambtsbericht d.d. 1 juli 2024, DB00049-00052</para>
+    <para> Feit 2 en 3: </para>
+    <para>1. <emphasis role="italic">Inlichtingenanalyse, d.d. 31-05-2023, kenmerk 9746bdff-or1-1.4</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00111/00112</para>
+    <para>2. <emphasis role="italic">Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182; Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176; Intelligence Update Week 26, Hardcopy, A.06.04.001.266 / A.06.04.001.264 met kenmerk DIS2023013187; Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634</emphasis>: ambtsbericht d.d. 1 juli 2024, DB00049-00052</para>
+    <para>3. <emphasis role="italic">EU SECRET - EEAS (2023) 10242 - 28 April 2023 (pvb [nummer 6] ); EU SECRET EEAS (2023) 10243 02 May 2023 (pvb [nummer 6] ); EEAS (2023) 10235 28 April 2023 (pvb [nummer 6] ); EU SECRET EEAS (2023) 10232 27 April 2023:</emphasis> ambtsbericht d.d. 19 september 2024, DB01664, aangevuld bij pv bevindingen d.d. 30 september 2024, blz. DB01660-01663</para>
+    <para>4. <emphasis role="italic">Inlichtingenbericht, d.d. 31-05-2023, kenmerk 976a4f6e-or1-1.4 (par. 5.11.5)</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00126/00127</para>
+    <para>5. <emphasis role="italic">Inlichtingenbericht, d.d. 06-06-2023, kenmerk 97888250-or1-1.5 (par. 5.12.3)</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00135/00136</para>
+    <para>6. <emphasis role="italic">Inlichtingenbericht, d.d. 08-06-2023, kenmerk 97a412f8-or1-1.1 (par. 5.12.3)</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00142/00143</para>
+    <para>7. <emphasis role="italic">Inlichtingenbericht, d.d. 19-06-2023, kenmerk 97b36755-or1-1.5 (par. 5.13.3)</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00149/00150</para>
+    <para>8. <emphasis role="italic">Inlichtingenbericht, d.d. 21-06-2023, kenmerk 97aeae8d-or1-1.6</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00159/00160</para>
+    <para>9. <emphasis role="italic">Inlichtingenbericht, d.d. 10-08-2023, kenmerk 97cfb435-or1-1.1</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00166/00167</para>
+    <para>10. <emphasis role="italic">Inlichtingenbericht, d.d. 03-07-2023, kenmerk 97b585ea-or1-1.1</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00173/00174</para>
+    <para>11. <emphasis role="italic">Inlichtingenbericht, d.d. 15-08-2023, kenmerk 97d0af66-or1-1.5</emphasis>: ambtsbericht d.d. 15 juli 2024, DB00180/00181</para>
+    <para>12. <emphasis role="italic">Inlichtingenbericht van 11 augustus 2023, Hardcopy, A.06.04.001.305 met kenmerk DIS2023016182; Inlichtingenanalyse d.d. 6 juni 2023, Hardcopy, A.06.04.001.006 / A.06.04.001.262 met kenmerk DIS2023006176; Intelligence Update Week 21, Hardcopy, A.06.04.001.098 met kenmerk DIS2023010634</emphasis>: ambtsbericht d.d. 1 juli 2024, DB00049-00052</para>
+  </footnote>
+  <footnote id="_7c5396e9-0b9c-4e86-91ac-546de22052c3" label="21">
+    <para> Feit 1 onder 1: pv bevindingen d.d. 4 februari 2024, blz. DB00027a-00027c<?linebreak?>Feit 1 onder 2: pv bevindingen d.d. 4 juli 2024, blz. DB00109/00110</para>
+    <para>Feit 3 onder 1, 4 t/m 11: pv bevindingen d.d. 15 juli 2024, blz. DB00186-00187</para>
+    <para>Feit 3 onder 2: pv bevindingen d.d. 4 juli 2024, blz. DB 00109/00110</para>
+    <para>Feit 3 onder 3: pv bevindingen 26 september 2024, blz. DB01665-01667</para>
+  </footnote>
+  <footnote id="_0fda7b7e-1e8b-464d-8f5b-147121255e10" label="22">
+    <para> Blz. DB00027a-00027c</para>
+  </footnote>
+  <footnote id="_d619aaa6-dafc-4cb2-b835-30d445d0ae41" label="23">
+    <para> Blz. DB00109/00110</para>
+  </footnote>
+  <footnote id="_0447153e-8c92-4215-a029-4eda1195dd96" label="24">
+    <para> Blz. DB00186-00187</para>
+  </footnote>
+  <footnote id="_e67bd495-0801-48d2-8f73-73f65be04274" label="25">
+    <para> RC-verhoor [naam 24], blz. 3/4</para>
+  </footnote>
+  <footnote id="_76a86ad7-67dc-401a-9226-64462ca3e198" label="26">
+    <para> Zie verklaring [getuige 1] , blz. DB01010/01011: Rubrinet is een systeem dat gekoppeld is aan het gerubriceerde netwerk. Het Rubrinet is bedoeld voor alles tot en met Stg.G.</para>
+  </footnote>
+  <footnote id="_2ab5cb90-9770-4dbf-9163-76950c348a40" label="27">
+    <para> RC-verhoor verdachte, blz. 7</para>
+  </footnote>
+  <footnote id="_ea4913a6-770c-4944-993e-70b42d3e47b1" label="28">
+    <para> RC-verhoor verdachte, blz. 10</para>
+  </footnote>
+  <footnote id="_2e63f8ce-e86e-444e-bc41-5658e443783e" label="29">
+    <para> DB01664</para>
+  </footnote>
+  <footnote id="_464b7432-df47-4b3f-9bf2-33260fb6a13e" label="30">
+    <para> DB01660-01663</para>
+  </footnote>
+  <footnote id="_a8328246-01bb-4ba7-95fb-749310118b12" label="31">
+    <para> DB01665-01667</para>
+  </footnote>
+  <footnote id="_d5e94353-0a32-4851-a7bb-33b9d719067d" label="32">
+    <para> Zie “Schriftelijke verklaring [verdachte] ” d.d 18 januari 2026, blz. 14 </para>
+  </footnote>
+  <footnote id="_2910c38a-7253-4431-8452-c9df8f1fe857" label="33">
+    <para> Zie pv bevindingen d.d. 26 augustus 2024, waarin wordt beschreven dat onder feit 3 genoemde stukken vanuit Rubrinet zijn geprint op 6 juni 2023 (976a4f6e-or1-1.4; DB00992), op 19 juni 2023 (97888250-or1-1.5 en 97a412f8-or1-1.1; DB00992/00993), op 4 juli 2023 (97b36755-or1-1.5 en 97aeae8d-or1-1.6 en 97b585ea-or1-1.1; DB00994/00996), op 22 augustus 2023 (97cfb435-or1-1.1 en 97d0af66-or1-1.5; DB00995-00997).</para>
+  </footnote>
+  <footnote id="_3496e08b-7485-49bb-a8f2-eb2906349b21" label="34">
+    <para> Verhoor [getuige 1] , DB01010</para>
+  </footnote>
+  <footnote id="_7760205d-afa7-4039-b759-5df516043a93" label="35">
+    <para> Verhoor [getuige 2] , DB01039</para>
+  </footnote>
+  <footnote id="_0530c1b9-4bd2-40d5-a7a7-2f142adfcb28" label="36">
+    <para> Zie “Schriftelijke verklaring [verdachte] ” d.d. 18 januari 2026, blz. 14</para>
+  </footnote>
+  <footnote id="_d35effce-057e-4d03-b83a-f05a610708bc" label="37">
+    <para> Verhoor [getuige 1] , DB01011</para>
+  </footnote>
+  <footnote id="_fab7cfb3-9822-4d61-bbb1-7b0dff55ac93" label="38">
+    <para> RC-verhoor [getuige 3] , blz. 9</para>
+  </footnote>
+  <footnote id="_5f13c99b-4d3a-4c93-b275-86d678d684ac" label="39">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 18/19</para>
+  </footnote>
+  <footnote id="_db6ab35f-e367-48dc-9b5e-7842f53b8dc8" label="40">
+    <para> RC-verhoor verdachte, blz. 18</para>
+  </footnote>
+  <footnote id="_7f829dad-a58e-44d3-a7c4-4822913c0ddb" label="41">
+    <para> De rechtbank begrijpt: april 2021, zie “Schriftelijke verklaring [verdachte] ” d.d. 18 januari 2026, blz. 17</para>
+  </footnote>
+  <footnote id="_dc7893ab-e81a-4afd-b3e4-818f4af3be5e" label="42">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 17</para>
+  </footnote>
+  <footnote id="_db8f7c50-92dc-47ff-8eb8-b75d71f9a49c" label="43">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 18</para>
+  </footnote>
+  <footnote id="_62b0b4ee-e0a2-4062-a91b-858f2d42c7f4" label="44">
+    <para> RC-verhoor [getuige 4] , blz. 5</para>
+  </footnote>
+  <footnote id="_8bed6e78-8474-4536-b106-aa7cff07fd0a" label="45">
+    <para> RC-verhoor [naam 7] , blz. 7</para>
+  </footnote>
+  <footnote id="_7aeb3da8-6ef5-4bea-854e-d3906195bd91" label="46">
+    <para> RC-verhoor [getuige 5] , blz. 6</para>
+  </footnote>
+  <footnote id="_d54c8082-7153-4d40-8a6b-999d4f90ce3a" label="47">
+    <para> RC-verhoor [getuige 3] blz. 9</para>
+  </footnote>
+  <footnote id="_e45fbc74-69f0-4814-a5be-6e366e45c80e" label="48">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 14</para>
+  </footnote>
+  <footnote id="_ba846f5f-f126-4afd-8671-d9f19f168388" label="49">
+    <para> Proces-verbaal van bevindingen m.b.t. het aantreffen van geclassificeerde documenten bij de doorzoeking in Pand A. (DB00344/00345)</para>
+  </footnote>
+  <footnote id="_05a7935c-4d73-4fe0-8905-0115d5efe8cb" label="50">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 16</para>
+  </footnote>
+  <footnote id="_7767bd0a-23d8-4947-b89a-e81f3df5b7ed" label="51">
+    <para> De bewijsmiddelen betreffende het aantreffen van deze documenten zijn opgenomen in een bijlage bij dit vonnis. </para>
+  </footnote>
+  <footnote id="_79864d71-02f6-4d13-8355-fc22197c1155" label="52">
+    <para> Schriftelijke verklaring verdachte “Integriteit NCTV 2012-2023”, blz. 18</para>
+  </footnote>
+  <footnote id="_3f3a422d-fe9a-42eb-90ef-a0639e6ea1f0" label="53">
+    <para> DB00012/00013</para>
+  </footnote>
+  <footnote id="_693715c8-de8e-4bb3-b00d-f1203bd273d5" label="54">
+    <para> Zie onder andere https://en.wikipedia.org/wiki/ [persoon 1]</para>
+  </footnote>
+  <footnote id="_7d75b829-4d04-4a27-9f83-edf8a9fe799d" label="55">
+    <para> Schriftelijke verklaring “Deel 4 De vermeende telefooncontacten en nummers van de DGED uit 2016”, blz. 26-27)</para>
+  </footnote>
+  <footnote id="_655ac817-92c2-4db9-b7cf-4197ac7fa526" label="56">
+    <para> Ibn A.03.01.011</para>
+  </footnote>
+  <footnote id="_2a2743b2-5ccf-445c-85c9-3b7155150d71" label="57">
+    <para> DB00877</para>
+  </footnote>
+  <footnote id="_7f06a960-aea8-49fb-b8dd-577be09ba552" label="58">
+    <para> Zie onder andere https://aujourdhui.ma/focus/scandale-immobilier-arrestation-du-conservateur-foncier-de-tanger-pour-vente-illegale-dun-terrain-50536</para>
+  </footnote>
+  <footnote id="_59052ff3-6866-457d-853f-3bafdffe087d" label="59">
+    <para> DB00012; derde ambtsbericht</para>
+  </footnote>
+  <footnote id="_a2679104-361b-42c8-a138-746222e90975" label="60">
+    <para> DB00917-00919</para>
+  </footnote>
+  <footnote id="_d0647d4c-4ccf-40f1-8be4-66ce31e1dc00" label="61">
+    <para> DB00918</para>
+  </footnote>
+  <footnote id="_b25e96bd-7332-4d8f-90fc-1067630629de" label="62">
+    <para> DB00013</para>
+  </footnote>
+  <footnote id="_923b1cf6-bb60-484b-9832-5571e18c51dd" label="63">
+    <para> bijv. DB00875: Bericht verdachte aan [naam 15] : "<emphasis role="italic">Ik ga morgen ochtend naar Marrakech. Ik zou u graag een klein dingetje willen overhandigen. Ik zou het fijn vinden als [naam 13] of [naam 22] het zou komen ophalen. Dank</emphasis>".</para>
+  </footnote>
+  <footnote id="_b8ddc882-2117-453f-a44d-54e1a0b7ff3b" label="64">
+    <para> DB 00958</para>
+  </footnote>
+  <footnote id="_4a5b9aca-63fb-4723-b9bb-8c52fe5e6fcd" label="65">
+    <para> Schriftelijke verklaring “Deel 4 De vermeende telefooncontacten en nummers van de DGED uit 2016”, blz. 3</para>
+  </footnote>
+  <footnote id="_e492d60a-87c2-451e-bb22-90a366c5dca3" label="66">
+    <para> DB01857</para>
+  </footnote>
+  <footnote id="_56537a1f-445d-4985-ab36-6a679e4ba18a" label="67">
+    <para> DB00893</para>
+  </footnote>
+  <footnote id="_b834f6b1-18d3-40f5-99dd-800a7f51fda2" label="68">
+    <para> Schriftelijke verklaring “Deel 4 De vermeende telefooncontacten en nummers van de DGED uit 2016”, blz. 26/27</para>
+  </footnote>
+  <footnote id="_cf717f33-0a79-4d13-8252-5c7a6e99724d" label="69">
+    <para> DB01715</para>
+  </footnote>
+  <footnote id="_061fb411-c195-4803-b61f-71886875a66c" label="70">
+    <para> DB00923-00925</para>
+  </footnote>
+  <footnote id="_ed95c5b3-ded0-47ee-8ad8-152420361e40" label="71">
+    <para> DB01718-01721</para>
+  </footnote>
+  <footnote id="_3861fcf6-b142-4619-a0cf-79ae6b9d888a" label="72">
+    <para> DB00547 en volgende: de chats met Yahya</para>
+  </footnote>
+  <footnote id="_4495e23a-f360-4e92-8ca1-d58f4191cb8c" label="73">
+    <para> DB00554: “Ik ben in Rabat. Hebt u wat tijd om elkaar te treffen. Anders geef ik het medicijn aan [naam 13] . Dank. Ons verblijf in Asila, Chefchaouen en Rabat is voortreffelijk geweest. Dank voor alles. Ik neem tussen 11.00 en 12.00 contact met u op.”</para>
+  </footnote>
+  <footnote id="_fbf0edd5-3c49-484b-b91d-623d331eb42f" label="74">
+    <para> ZD56 en volgende: “<emphasis role="italic">[naam 13] , Met [verdachte] . Ik probeer je te bellen, maar er is geen verbinding misschien bij mij of misschien bij jou. In ieder geval. Ik wilde je alleen zeggen dat het "toevertrouwde" heb ontvangen</emphasis>.”</para>
+  </footnote>
+  <footnote id="_a0502764-7bd0-4904-a2b0-fb11d4eb410e" label="75">
+    <para> DB00594</para>
+  </footnote>
+  <footnote id="_ff92be25-454e-4fe7-8e3a-abe7e9d08a7c" label="76">
+    <para> Requisitoir p 30</para>
+  </footnote>
+  <footnote id="_b56a3363-1fb5-4bd1-91a0-7a47df797ac1" label="77">
+    <para> Requisitoir p 37, 38</para>
+  </footnote>
+  <footnote id="_c0107cad-f91c-46b4-a3d8-911a7daf6b85" label="78">
+    <para> Zie bijvoorbeeld het proces-verbaal ‘Bevindingen notitieboekje ‘Promenades juin 2023’ periode Marokko tussen 22-06-2023 en 02-07-2023’, DB00911-00914.</para>
+  </footnote>
+  <footnote id="_fd07b94c-d080-4561-a73a-83bd9f56f324" label="79">
+    <para> De reis op 28 februari 2023 (scannen op 7 februari 2023), de reis op 13 april 2023 (printen op 11 april 2023), de reis op 12 mei 2023 (printen op 9 mei 2023, scannen op 10 mei 2023), de reis op 8 juni 2023 (printen op 13 mei en 6 juni 2023, scannen op 1 en 8 juni 2023), de reis op 22 juni 2023 (printen op 15 en 19 juni 2023, scannen op 22 juni 2023), de reis op 13 augustus 2023 (printen op 10 augustus 2023).</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

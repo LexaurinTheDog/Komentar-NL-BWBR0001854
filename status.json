@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_author_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,19 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T18:07:46.788534+00:00",
+    "rechecked_at": "2026-10-20T18:30:38.795569+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch13-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch13-version-evidence.json",
+    "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 264,
-  "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
-  "remaining_units": 548,
-  "next_unit": "a92",
-  "commentary_chars": 339029,
+  "completed_units": 280,
+  "completed_scope": "aanhef; all 263 Eerste Boek units through 91; 16 official units 92–100 including inserted numbers",
+  "remaining_units": 532,
+  "next_unit": "a101",
+  "commentary_chars": 378049,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -79,16 +80,18 @@
     "ECLI:NL:HR:2005:AS5983",
     "ECLI:NL:HR:2004:AO2599",
     "ECLI:NL:HR:2009:BG7743",
-    "ECLI:NL:HR:2003:AI1588"
+    "ECLI:NL:HR:2003:AI1588",
+    "ECLI:NL:HR:2016:168",
+    "ECLI:NL:HR:2015:768"
   ],
-  "case_law_scope": "Selective:46primaryHRdecisions;3addedinbatch13;notexhaustive.",
+  "case_law_scope": "Selective: 48 primary HR decisions used across existing manuscript; two added in author a92–a100 batch. Not exhaustive.",
   "build_result": {
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
-    "scope": "Full812unitinventoryretained; known548missingcommentariesoutsideassignedreview.",
-    "checked_at": "2026-10-20T18:17:37.080915+00:00"
+    "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
+    "scope": "Full 812-unit inventory unchanged. 532 missing commentaries outside assigned author batch; no narrowing of shared build gate.",
+    "checked_at": "2026-10-20T18:30:38.795569+00:00"
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -102,16 +105,17 @@
     "ok": false
   },
   "remaining_limitations": [
-    "Books II and III and wetsluiting still require original commentary (548 units).",
+    "Books II and III and wetsluiting still require original commentary (532 units).",
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
     "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
     "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json.",
-    "Second pass comprises thirteen disjoint20unit batches:260reviewed,552notreviewed. No whole-book completion or external professional approval.",
-    "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded."
+    "Second pass comprises thirteen disjoint20unit batches:260 reviewed, 552 not reviewed. No whole-book completion or external professional approval.",
+    "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
+    "The 16 newly authored units a92–a100 await independent second pass; no whole-book completion."
   ],
-  "updated_at": "2026-10-20T18:19:33.420661+00:00",
+  "updated_at": "2026-10-20T18:30:38.795569+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:07:46.788534+00:00",
@@ -696,5 +700,31 @@
     }
   ],
   "second_pass_total_reviewed_units": 260,
-  "second_pass_remaining_units": 552
+  "second_pass_remaining_units": 552,
+  "bounded_author": {
+    "complete": true,
+    "ids": [
+      "a92",
+      "a93",
+      "a94",
+      "a95",
+      "a95a",
+      "a96",
+      "a97",
+      "a97a",
+      "a97b",
+      "a98",
+      "a98a",
+      "a98b",
+      "a98c",
+      "a98d",
+      "a99",
+      "a100"
+    ],
+    "completed_units": 16,
+    "report": "author-a92-a100-result.json",
+    "independent_second_pass": false,
+    "technical_validation": "pending final clean-tree strict run",
+    "source_preflight": "sources/author-a92-a100-version-evidence.json"
+  }
 }

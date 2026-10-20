@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbKleinKoninkBesluit-Web/1.13/xml/MC-OEP-StbKleinKoninkBesluit-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content=""/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad"
+            content="Klein Koninklijk Besluit"/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="DC.source" scheme=""
+            content="artikel LIII van de Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Openbare orde en veiligheid | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="DC.title"
+            content="Besluit van 28 mei 2025 tot vaststelling van het tijdstip van inwerkingtreding van Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025 (Stb. 2025, 124) [KetenID WGK025698]"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2025"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2025-155"/>
+      <meta name="OVERHEIDop.publicationIssue" content="155"/>
+      <meta content="" name="DCTERMS.alternative"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2025-05-28"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Besluit van 28 mei 2025 tot vaststelling van het tijdstip van inwerkingtreding van Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025 (Stb. 2025, 124) [KetenID WGK025698]</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Justitie en Veiligheid van 22 mei 2025, directie Wetgeving en Juridische Zaken, nr. 6385773, gedaan mede namens Onze Minister van Asiel en Migratie;</considerans.al>
+               <considerans.al bevat="grondslag">Gelet op artikel LIII van de Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Hebben goedgevonden en verstaan:</al>
+            </afkondiging>
+         </aanhef>
+         <?xpp qa?><?xpp lead;-1?><wettekst>
+            <artikel status="goed">
+               <kop>
+                  <label>Enig</label>
+                  <titel>artikel</titel>
+               </kop>
+               <al>De Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025 treedt in werking met ingang van 1 juli 2025, met uitzondering van artikel XLVII, onderdeel F.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Onze Minister van Justitie en Veiligheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+            </slotformulering>
+            <gegeven>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2025-05-28">28 mei 2025</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Minister van Justitie en Veiligheid,</functie>
+		             <naam>
+                  <voornaam>D.M. van</voornaam>
+                  <achternaam>Weel</achternaam>
+               </naam>
+		          </ondertekening>
+            <uitgifte>
+               <datum isodatum="2025-06-12">Uitgegeven de <nadruk type="cur">twaalfde</nadruk> juni 2025</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>D.M. van</voornaam>
+                     <achternaam>Weel</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+         <nota-toelichting>
+            <kop>
+               <titel>NOTA VAN TOELICHTING</titel>
+            </kop>
+            <al>Met dit koninklijk besluit wordt voorzien in de inwerkingtreding van de Wet tot wijziging van enkele wetten op het gebied van Justitie en Veiligheid en op het gebied van Asiel en Migratie in verband met aanpassingen van overwegend technische aard (Verzamelwet Justitie en Veiligheid en Asiel en Migratie 2025). De wet treedt in werking met de ingang van 1 juli 2025. De vaste verandermomenten en minimale invoeringstermijn zijn daarmee in acht genomen.</al>
+            <al>De inwerkingtredingsdatum van artikel XLVII, onderdeel F, van de verzamelwet is reeds opgenomen in LIII van de verzamelwet. Daarom voorziet dit inwerkingtredingsbesluit niet in de inwerkingtreding van dat onderdeel.</al>
+            <ondertekening>
+               <functie>De Minister van Justitie en Veiligheid,</functie>
+		             <naam>
+                  <voornaam>D.M. van</voornaam>
+                  <achternaam>Weel</achternaam>
+               </naam>
+		          </ondertekening>
+         </nota-toelichting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>

@@ -1,0 +1,129 @@
+{
+  "accessed_at": "2026-10-20T18:29:09.629787+00:00",
+  "scope_ids": [
+    "a92",
+    "a93",
+    "a94",
+    "a95",
+    "a95a",
+    "a96",
+    "a97",
+    "a97a",
+    "a97b",
+    "a98",
+    "a98a",
+    "a98b",
+    "a98c",
+    "a98d",
+    "a99",
+    "a100"
+  ],
+  "scope": "Selective research only. No exhaustive negative finding for any article.",
+  "queries": [
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.rechtspraak.nl \"artikel 98\" \"staatsgeheim\" Hoge Raad"
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.rechtspraak.nl \"artikel 96\" \"samenspanning\""
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.officielebekendmakingen.nl \"98d\" \"schadetoebrengende\" memorie toelichting"
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.rechtspraak.nl \"artikel 92\" \"aanslag\""
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.rechtspraak.nl \"artikel 99\" \"onderhandeling\""
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.uitspraken.rechtspraak.nl \"98c\" \"Hoge Raad\" \"staatsgeheim\""
+    },
+    {
+      "kind": "web_primary_discovery",
+      "query": "site.zoek.officielebekendmakingen.nl \"regeringsraad\" \"Grondwet\" \"95\""
+    }
+  ],
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2016:168",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2016-168.md",
+      "sha256": "c970680edcbc2bcb8e8cd08fc08076e787938f6e944c743c426cd0b0212d1f78",
+      "manifest_entry_found": true,
+      "role": "national intake discovery/corroborating location; not an independent authority"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:768",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-768.md",
+      "sha256": "8d6023ee915258888b7f7974d80eb94511cf32bc9b389eb4ff554b24b2d644f1",
+      "manifest_entry_found": true,
+      "role": "national intake discovery/corroborating location; not an independent authority"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2008:BB2875",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2008-bb2875.md",
+      "sha256": "dda29c3e8753737ea638cb8d11174842832a37f510e32725dc7881296065f270",
+      "manifest_entry_found": true,
+      "role": "national intake discovery/corroborating location; not an independent authority"
+    }
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:HR:2016:168",
+      "full_primary_read": true,
+      "units": [
+        "a98",
+        "a98a",
+        "a98c"
+      ],
+      "card": "authorities/HR-2016-168.md"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:768",
+      "full_primary_read": true,
+      "units": [
+        "a98a"
+      ],
+      "card": "authorities/HR-2015-768.md"
+    }
+  ],
+  "not_selected": [
+    {
+      "ecli": "ECLI:NL:HR:2008:BB2875",
+      "full_primary_read": true,
+      "reason": "Historical seizure/source-protection case; not used as current authority without separate Strasbourg and present-procedure analysis."
+    },
+    {
+      "ecli": "ECLI:NL:RBROT:2026:2400",
+      "primary_snapshot": "sources/author-a92-a100-judgment-2026-2400.xml",
+      "full_primary_read": false,
+      "reason": "Long first-instance candidate only partly read. Not relied on, not cited as a holding, finality not established."
+    },
+    {
+      "publication": "stb-2025-112",
+      "reason": "Valid official XML but concerns commencement of article 140a changes; not used for the 98d commencement question."
+    }
+  ],
+  "other_units": "No sufficiently specific fully verified judgment added for other assigned units. Statutory exposition and fictional examples are not attributed to courts.",
+  "firecrawl": {
+    "status": "authenticated, zero credits",
+    "attempted": "firecrawl scrape https://firecrawl.dev",
+    "result": "Insufficient credits; no extraction obtained. Direct official XML requests used.",
+    "no_settings_changed": true
+  },
+  "legislative_material": {
+    "source": "sources/author-a92-a100-kst-36280-E.xml",
+    "full_text_read": true,
+    "role": "Government explanation, explicitly distinguished from court holding."
+  },
+  "limitations": [
+    "Selective research, not exhaustive case-law coverage.",
+    "Cases quoted historical law; current maxima and introduction of 98d verified independently.",
+    "Current inlichtingen-service powers and journalistic/whistleblower protection are not comprehensively restated."
+  ]
+}
