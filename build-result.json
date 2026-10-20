@@ -1,10 +1,16 @@
 {
-  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "executed_at": "2026-10-20T16:12:27.259778+00:00",
+  "command": [
+    "python3",
+    "-B",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
+  ],
+  "executed_at": "2026-10-20T16:21:32.358552+00:00",
   "returncode": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
   "ok": false,
   "full_inventory_unchanged": true,
-  "task_scope": "source preflight only; incomplete manuscript build expected to refuse missing commentary"
+  "task_scope": "Independent second-pass review of exactly 20 units; existing incomplete-book deficit remains outside this assignment.",
+  "checkpoint_renderer": "_render_checkpoint.py renders all 264 existing commentaries without claiming full build success."
 }

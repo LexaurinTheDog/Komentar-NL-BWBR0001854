@@ -1,0 +1,30 @@
+{
+  "verified_at": "2026-10-20T16:19:48.672233+00:00",
+  "scope": "Bounded review of 20 specified units; existing article 1 authorities rechecked; no exhaustive case-law research.",
+  "local_corpus_query": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/manifest.jsonl",
+    "query": "ECLI:NL:HR:(2011:BP6878|2024:509)",
+    "results": [
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2011-bp6878.md",
+        "sha256": "5d80ec93cd6e57f90ea2adc5afe471f1612bd4bae27459c72ed93edf00dbdb3c",
+        "use": "Identified in national manifest; metadata consulted. Full decision read from official XML, not inferred from local metadata."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-509.md",
+        "sha256": "5c13b9a5a25fd1792e68dfc8df9d210c5b263cf9ef31147bd63294e6abd18557",
+        "use": "Identified in national manifest; metadata consulted. Full decision read from official XML, not inferred from local metadata."
+      }
+    ]
+  },
+  "official_fetch_log": "sources/review-batch01-fetch-log.json",
+  "decisions_read_full": [
+    "ECLI:NL:HR:2011:BP6878",
+    "ECLI:NL:HR:2024:509"
+  ],
+  "supported_units": [
+    "a1"
+  ],
+  "other_units": "No additional case-law authority introduced for the other 19 units. This is not a finding that no relevant case exists.",
+  "rejected_responses": "Two HTTP-200 HTML app shells rejected as court XML; correct data.rechtspraak.nl endpoints yielded complete judgments with identical source hashes."
+}

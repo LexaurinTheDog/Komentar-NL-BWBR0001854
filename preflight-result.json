@@ -1476,5 +1476,27 @@
     "full_book_validator_ok": false,
     "reason": "548 commentary units remain unwritten; not part of bounded source preflight.",
     "evidence": "validation.json"
+  },
+  "bounded_review_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T16:15:42.842545+00:00",
+    "version_evidence": "sources/review-batch01-version-evidence.json",
+    "historical_versions_checked": {
+      "manifest_intervals": 126,
+      "method": "Every official effective/visibility interval checked; one state selected. Historical bodies not concatenated.",
+      "historical_fallback_rejected": {
+        "path": "sources/official-index.xml",
+        "effective_from": "2002-04-01"
+      }
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "method": "Every element in fresh official XML checked for bijlage/annex; none present."
+      }
+    ],
+    "unresolved_blockers": []
   }
 }

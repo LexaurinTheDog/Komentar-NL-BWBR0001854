@@ -1,5 +1,5 @@
 {
-  "stage": "preflight_complete_authoring_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -21,7 +21,8 @@
     "rechecked_at": "2026-10-20T16:12:27.259778+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
-    "version_evidence": "sources/preflight-version-evidence.json"
+    "version_evidence": "sources/preflight-version-evidence.json",
+    "bounded_review_recheck": "sources/review-batch01-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -29,7 +30,7 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 257597,
+  "commentary_chars": 260655,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -41,7 +42,7 @@
   "build_result": {
     "ok": false,
     "returncode": 1,
-    "reason": "548 units lack commentary",
+    "reason": "548 units still lack commentary; unchanged whole-book gate",
     "evidence": "build-result.json"
   },
   "validation_result": {
@@ -60,9 +61,9 @@
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
-    "No independent second pass or external professional approval."
+    "Second pass completed only for first 20 assigned units; remaining 792 units not second-pass reviewed. No external professional approval."
   ],
-  "updated_at": "2026-10-20T16:12:27.259778+00:00",
+  "updated_at": "2026-10-20T16:21:32.358552+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T16:12:27.259778+00:00",
@@ -77,5 +78,48 @@
     "unresolved_blockers": [],
     "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail."
   },
-  "validation_checked_at": "2026-10-20T16:13:23.612264+00:00"
+  "validation_checked_at": "2026-10-20T16:13:23.612264+00:00",
+  "bounded_review": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "aanhef",
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5",
+      "a6",
+      "a7",
+      "a8",
+      "a8a",
+      "a8b",
+      "a8c",
+      "a8d",
+      "a9",
+      "a9a",
+      "a10",
+      "a11",
+      "a13",
+      "a14a",
+      "a14b"
+    ],
+    "corrected_units": [
+      "aanhef",
+      "a1",
+      "a4",
+      "a5",
+      "a6",
+      "a7",
+      "a9",
+      "a9a",
+      "a11",
+      "a13",
+      "a14b"
+    ],
+    "unresolved_blockers": [],
+    "report": "review-result.json",
+    "source_preflight": "sources/review-batch01-version-evidence.json",
+    "reviewed_at": "2026-10-20T16:19:48.932243+00:00"
+  }
 }

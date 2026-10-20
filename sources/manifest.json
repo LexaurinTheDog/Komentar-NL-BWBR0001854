@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:12:52.483715+00:00",
+  "generated_at": "2026-10-20T16:21:32.358552+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -132,6 +132,46 @@
       "bytes": 39222
     },
     {
+      "path": "sources/review-batch01-effective.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812
+    },
+    {
+      "path": "sources/review-batch01-fetch-log.json",
+      "sha256": "a9b40edd6b490beba86747c8a0350286214d3f4f1790a3004526683903403d84",
+      "bytes": 3938
+    },
+    {
+      "path": "sources/review-batch01-judgment-2011-BP6878.xml",
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "bytes": 3892
+    },
+    {
+      "path": "sources/review-batch01-judgment-2024-509.xml",
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "bytes": 3892
+    },
+    {
+      "path": "sources/review-batch01-manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311
+    },
+    {
+      "path": "sources/review-batch01-official-judgment-2011-BP6878.xml",
+      "sha256": "17949f16d34d50356731fddf154d1a6f3a43eea5322dcdf67f68395d390c7054",
+      "bytes": 43214
+    },
+    {
+      "path": "sources/review-batch01-official-judgment-2024-509.xml",
+      "sha256": "07d26f29293ec651d319b66da5eba890ab776fde1d19d2d3797980f31e88778c",
+      "bytes": 19281
+    },
+    {
+      "path": "sources/review-batch01-version-evidence.json",
+      "sha256": "5c4828df561182c0f19fbe8dfd95cfbcdea2445ab0622a0fd7621deed5d22f74",
+      "bytes": 49596
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c",
       "bytes": 252422
@@ -143,8 +183,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "ebd631e4858a85845b1e4fdde46650457ad2930e68f904161138def6289446f3",
-      "bytes": 14281
+      "sha256": "75d1a48fcc315f2325d422a1949bc6f267579d363b907a1207ec820f73deb724",
+      "bytes": 18520
     }
   ],
   "remote_evidence": "verification.json records actual URLs, UTC access timestamps, HTTP outcomes and format acceptance. Rejected HTML, empty responses and historical fallbacks remain excluded from the canonical source."

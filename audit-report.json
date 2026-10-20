@@ -4,7 +4,7 @@
   "raw_xml_disagreements": [],
   "statutory_text_agreement_ratio": 1.0,
   "commented_units": 264,
-  "commentary_chars": 257597,
+  "commentary_chars": 260655,
   "missing_commentary_ids": [
     "a92",
     "a93",
@@ -563,6 +563,6 @@
   "limitations": [
     "The XML comparison ignores whitespace and excludes identified editorial material; labels and annotations are inventoried separately.",
     "Exact repetition detection does not detect all generic prose. Repealed-slot notes share a documentary purpose and are short.",
-    "No independent legal second pass has been performed. Full manuscript remains incomplete."
+    "This technical audit does not establish an independent legal second pass; see the separate bounded review report. Full manuscript remains incomplete."
   ]
 }
