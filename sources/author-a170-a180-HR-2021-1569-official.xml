@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2021:1569</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:25:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-10-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-11-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/02026</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:734" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2021:734</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2021-0338 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>RvdW 2021/1084</rdf:li>
+          <rdf:li>NJ 2022/4 met annotatie van A.J. Machielse</rdf:li>
+          <rdf:li>NTS 2022/17</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1569">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1569</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-11-01T14:33:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-11-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2021:1569 Hoge Raad , 02-11-2021 / 20/02026</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2021:1569:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Wederspannigheid, art. 180 Sr. Waren verbalisanten bij de aanhouding van verdachte in rechtmatige uitoefening van hun bediening? HR herhaalt relevante overwegingen uit HR:2014:2919 m.b.t. de vraag of ambtenaar werkzaam is in rechtmatige uitoefening van zijn bediening. De verwerping van het verweer dat verbalisanten bij de aanhouding van verdachte niet in rechtmatige uitoefening van hun functie hebben gehandeld omdat geen sprake was van een dreigende situatie zodat zij het uitwerken van de effecten van het gebruik van lachgas hadden moeten afwachten, is in het licht van door hof vastgestelde gang van zaken - en gelet op de beperkte mate van de door verbalisanten toegepaste dwang - niet onbegrijpelijk. </para>
+        <para>Volgt verwerping. CAG: anders.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2021:1569:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	20/02026 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		2 november 2021</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 26 juni 2020, nummer 22-005755-19, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 2000,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J.A. Hoste, advocaat te ’sGravenhage, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het gerechtshof Den Haag teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over de verwerping van het verweer dat de verbalisanten bij de aanhouding van de verdachte niet in de rechtmatige uitoefening van hun functie hebben gehandeld.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>“zij op 16 september 2019 te [plaats], zich met geweld heeft verzet tegen een ambtenaar, [verbalisant 1] (brigadier van de politie Eenheid Den Haag), werkzaam in de rechtmatige uitoefening van zijn bediening, te weten de (rechtmatige) aanhouding van haar, verdachte, door meerdere malen haar handen en armen in tegengestelde richting te bewegen dan de richting waarin die ambtenaar haar armen en handen trachtte te bewegen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op het volgende bewijsmiddel:</para>
+          <para>“1. Een proces-verbaal van aanhouding d.d. 16 september 2019 van de politie Eenheid Den Haag met nr. PL1500-2019259624-2. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (blz. 13-15): </para>
+          <para>als relaas van de betreffende opsporingsambtenaren: </para>
+          <para>Wij, verbalisanten [verbalisant 1], brigadier van politie Eenheid Den Haag en [verbalisant 2], verklaren het volgende: </para>
+          <para>Op 16 september 2019 werden wij binnengelaten in de woning van de [a-straat 1] te [plaats]. In de woonkamer hoorden wij dat aangever [betrokkene 1] aan ons vertelde dat zij op maandag 16 september 2019 in de woning door haar dochter [verdachte] was bedreigd met een mes en was mishandeld waardoor zij een wondje bij haar mond had. Wij zagen een wondje ter hoogte van de mond van aangever. Wij zijn naar de kamer van verdachte gegaan. Ik, verbalisant [verbalisant 1], deelde de verdachte direct mede dat zij was aangehouden, omdat zij haar moeder zou hebben mishandeld. Ik probeerde de verdachte, nadat ik haar had gezegd dat zij was aangehouden, uit te leggen dat zij mee moest komen, echter viel zij mij telkens in de rede en bleef zij op haar bed zitten. Ik pakte haar daarna met mijn rechterhand vast bij haar linker bovenarm en zei haar dat ze moest op staan. Ik voelde en zag dat zij de arm wegtrok, kennelijk omdat zij op het bed wilde blijven zitten. </para>
+          <para>Hierna trok ik de verdachte aan haar linker bovenarm naar boven om haar te laten staan. Ik voelde dat zij de arm weer terug trok. Hierna gebruikte ik meer kracht en trok de verdachte van het bed. Ik zag en voelde dat zij zich met alle kracht los trachtte te rukken. Ik pakte de verdachte naast haar linkerarm ook bij haar haar en drukte haar tegen de muur. Hierop hebben wij de verdachte de transportboeien omgedaan.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Volgens het proces-verbaal van de terechtzitting in hoger beroep heeft de raadsman van de verdachte daar onder meer het volgende aangevoerd:</para>
+          <para>“Ten aanzien van de tenlastegelegde wederspannigheid merk ik het volgende op. Als ik het proces-verbaal van aanhouding lees, zie ik een situatie voor mij waar ik mijn vraagtekens bij heb en ook vraag ik mij af of de agenten in de rechtmatige uitoefening van hun functie verkeren. Op grond van dit proces-verbaal blijkt dat een agent de kamer van mijn cliënte binnenkomt. Hij ziet mijn cliënte en haar vriendin zitten en mijn cliënte heeft op dat moment een ballon in haar mond. De agent spreekt mijn cliënte aan, maar hij leidt zelf uit de wazige indruk en lome stem van mijn cliënte al af dat zij onder invloed was van lachgas. Op het moment dat zij in die kortdurende high van de lachgas zit, begint de agent al aan haar te trekken. Hij stuit op weerstand, slaat de ballon weg uit de mond van mijn cliënte en begint aan haar te trekken. Mijn cliënte heeft verklaard dat de agenten zomaar haar kamer in kwamen. Zij hadden anders moeten handelen, nu er geen sprake was van een dreigende situatie. De agenten weten uit ervaring dat een lachgasroes slechts van korte duur is en hadden beter even kunnen wachten tot mijn cliënte weer haar focus terug had en haar dan kunnen aanhouden. Derhalve ben ik van mening dat de verbalisanten niet in de rechtmatige uitoefening van hun functie verkeerden en dat mijn cliënte dientengevolge ook ter zake van de tenlastegelegde wederspannigheid dient te worden vrijgesproken.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.4</nr>
+        <parablock>
+          <para>Het hof heeft het onder 2.2.3 weergegeven verweer waarop het cassatiemiddel doelt als volgt samengevat en verworpen:</para>
+          <para>“De verdediging heeft ter terechtzitting in hoger beroep - kort en zakelijk weergegeven - aangevoerd dat de verbalisanten bij de aanhouding van de verdachte niet in de rechtmatige uitoefening van hun functie hebben gehandeld. De verbalisanten hadden de rust moeten nemen om de verdachte uit haar zogenoemde high - veroorzaakt door het gebruik van lachgas - te laten komen. </para>
+          <para>Het hof overweegt hieromtrent als volgt. </para>
+          <para>Uit het proces-verbaal van aanhouding blijkt dat de verdachte niet meewerkte aan, en zich verzette bij haar aanhouding. Het hof is van oordeel dat in een situatie als onderhavige niet van de verbalisanten kan worden verwacht dat zij rekening houden met het lachgasgebruik van de verdachte en de uitwerking daarvan, alvorens zij over gaan tot aanhouding van de verdachte. Het hof is derhalve van oordeel dat de verbalisanten handelden in de rechtmatige uitoefening van hun functie. </para>
+          <para>Het hof verwerpt derhalve het verweer.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 180 van het Wetboek van Strafrecht (hierna: Sr) luidt:</para>
+          <para>“Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening (...) wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <para>De tenlastelegging is toegesneden op artikel 180 Sr. Daarom moet worden aangenomen dat de in de tenlastelegging en bewezenverklaring voorkomende woorden “werkzaam in de rechtmatige uitoefening van zijn bediening” zijn gebruikt in de betekenis die deze woorden hebben in die bepaling.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Bij het antwoord op de vraag of de ambtenaar “werkzaam in de rechtmatige uitoefening van zijn bediening” is, geldt als uitgangspunt dat de politieambtenaar die uitvoeringshandelingen verricht in het kader van de aanhouding van een verdachte, werkzaam is in de rechtmatige uitoefening van zijn bediening als bedoeld in artikel 180 Sr. Bij de beoordeling of zich omstandigheden voordoen die tot het oordeel leiden dat de uitoefening van de bediening niet rechtmatig is, kan de strafrechter de noodzaak en proportionaliteit van het desbetreffende overheidsoptreden betrekken (vgl. HR 7 oktober 2014, ECLI:NL:HR:2014:2919).</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het hof heeft vastgesteld dat de verbalisant [verbalisant 1] na binnenkomst in de kamer van de verdachte haar heeft meegedeeld dat zij was aangehouden omdat zij haar moeder zou hebben mishandeld. Uit het door het hof gebruikte bewijsmiddel volgt verder dat de verbalisant heeft geprobeerd het gesprek met de verdachte aan te gaan, maar dat ze hem daarbij telkens in de rede viel. Daarop heeft de verbalisant de arm van de verdachte vastgepakt en - nadat de verdachte haar arm terugtrok - geprobeerd de verdachte op te laten staan door aan haar arm te trekken. Toen de verdachte opnieuw haar arm terugtrok heeft de verbalisant meer kracht gebruikt en de verdachte tegen de muur gedrukt. De verwerping door het hof van het verweer dat de verbalisanten bij de aanhouding van de verdachte niet in de rechtmatige uitoefening van hun functie hebben gehandeld omdat geen sprake was van een dreigende situatie zodat zij het uitwerken van de effecten van het gebruik van lachgas hadden moeten afwachten, is in het licht van deze gang van zaken - en gelet op de beperkte mate van de door de verbalisanten toegepaste dwang - niet onbegrijpelijk. </para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren Y. Buruma en M. Kuijer, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">2 november 2021</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

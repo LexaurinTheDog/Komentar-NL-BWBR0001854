@@ -1,0 +1,29 @@
+{
+  "searched_at": "2026-10-20T22:21:01.679116+00:00",
+  "queries": [
+    {
+      "engine": "web search restricted by query to rechtspraak.nl",
+      "query": "site.rechtspraak.nl artikel 177 ambtenaar giften relatie Hoge Raad"
+    },
+    {
+      "engine": "web search restricted by query to rechtspraak.nl",
+      "query": "site.rechtspraak.nl artikel 180 rechtmatige uitoefening bediening Hoge Raad"
+    }
+  ],
+  "national_corpus": {
+    "manifest": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/manifest.jsonl",
+    "method": "ECLI lookup in manifest; complete HR2021:1569 national-corpus text read alongside newly fetched official full judgment",
+    "snapshot": "sources/author-a170-a180-HR-2021-1569-corpus.md",
+    "sha256": "e581bb2654526a8f116a387248b942814b6b01a4774a49f7a91b199ce0c9caeb"
+  },
+  "selected_full_texts": [
+    {
+      "ecli": "ECLI:NL:HR:2021:1569",
+      "unit": "a180",
+      "paragraphs": "2.4–2.6; dictum 3",
+      "card": "authorities/HR-2021-1569.md"
+    }
+  ],
+  "not_used": "Other search hits were not cited: snippets and conclusions were not treated as verified HR holdings. No further sufficiently relevant full-text authority was selected for the remaining assigned units in this limited search.",
+  "limits": "Selective research, not exhaustive coverage of twenty provisions or subsequent case law."
+}

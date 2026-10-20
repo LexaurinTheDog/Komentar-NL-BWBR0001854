@@ -1,0 +1,10 @@
+{
+  "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:HR:2021:1569",
+  "path": "sources/author-a170-a180-HR-2021-1569.xml",
+  "http_status": 200,
+  "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+  "expected_format_valid": false,
+  "rejection": "HTML response; XML parse failed. Not used as judgment evidence.",
+  "accessed_at": "2026-10-20T22:16:48+00:00",
+  "timestamp_basis": "Saved response file modification time; approximation of request completion."
+}

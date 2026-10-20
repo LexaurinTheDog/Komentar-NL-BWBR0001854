@@ -215,3 +215,6 @@ De auteursbatch 157–169 gebruikt de opnieuw opgehaalde officiële XML en het m
 
 
 Reviewbatch20: [verse versiecontrole](sources/review-batch20-version-evidence.json), [HTTP en hashes](sources/review-batch20-fetch-log.json), [onafhankelijke officiële inventaris](sources/review-batch20-coverage.json), [historische en primaire rechtspraakcontrole](sources/review-batch20-authority-check.json).
+
+
+Auteursbatch a170–a180: [ophaalbewijs](sources/author-a170-a180-fetch-log.json), [versie en temporele afbakening](sources/author-a170-a180-version-evidence.json), [onafhankelijke inventaris](sources/author-a170-a180-coverage.json), [selectieve rechtspraakzoeklog](authorities/author-a170-a180-search-log.json), [HR2021:1569](authorities/HR-2021-1569.md). Een HTML-antwoord van de uitspraken-API is als ongeschikt afgewezen en bewaard; alleen de geldige data.rechtspraak.nl-XML draagt de uitspraakbespreking.

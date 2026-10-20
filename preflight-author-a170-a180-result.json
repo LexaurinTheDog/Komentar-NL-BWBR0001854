@@ -1,0 +1,20 @@
+{
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:16:47.297280+00:00",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-a170-a180-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "complete": true,
+  "scope": "Bounded authoring a170\u2013a180; no whole-book completion claim",
+  "version_evidence": "sources/author-a170-a180-version-evidence.json",
+  "unresolved_blockers": []
+}

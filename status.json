@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_complete_book_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -23,15 +23,15 @@
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a157-a169-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a170-a180-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 400,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–169 including inserted/repealed places.",
-  "remaining_units": 412,
-  "next_unit": "a170",
-  "commentary_chars": 615884,
+  "completed_units": 420,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots92–180 including inserted/repealed places.",
+  "remaining_units": 392,
+  "next_unit": "a181",
+  "commentary_chars": 648837,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -97,7 +97,8 @@
     "ECLI:NL:HR:2024:1573",
     "ECLI:NL:HR:2018:321",
     "ECLI:NL:HR:2009:BH0594",
-    "ECLI:NL:HR:2011:BN9287"
+    "ECLI:NL:HR:2011:BN9287",
+    "ECLI:NL:HR:2021:1569"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -110,9 +111,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 616098,
+    "commentary_chars": 648837,
     "errors": [
-      "krátký/chybějící komentář u 412 jednotek: ['a170(0<400)', 'a171(0<400)', 'a172(0<400)', 'a173(0<400)', 'a173a(0<400)', 'a173b(0<400)', 'a174(0<400)', 'a175(0<400)']"
+      "krátký/chybějící komentář u 392 jednotek: ['a181(0<400)', 'a182(0<400)', 'a183(0<400)', 'a184(0<400)', 'a184a(0<400)', 'a185(0<400)', 'a185a(0<400)', 'a186(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -138,7 +139,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:15:32.171163+00:00",
+  "updated_at": "2026-10-20T22:21:01.679116+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -1034,5 +1035,34 @@
       "review_result": "review-batch19-result.json"
     }
   ],
-  "latest_bounded_review_case_scope": "Full retained HR2018:321 and national-corpus snapshot reread for a151; selective authority coverage only."
+  "latest_bounded_review_case_scope": "Full retained HR2018:321 and national-corpus snapshot reread for a151; selective authority coverage only.",
+  "bounded_author_batches": [
+    {
+      "ids": [
+        "a170",
+        "a171",
+        "a172",
+        "a173",
+        "a173a",
+        "a173b",
+        "a174",
+        "a175",
+        "a175a",
+        "a175b",
+        "a176",
+        "a176a",
+        "a176b",
+        "a176c",
+        "a177",
+        "a177a",
+        "a178",
+        "a178a",
+        "a179",
+        "a180"
+      ],
+      "complete": true,
+      "result": "author-a170-a180-result.json",
+      "independent_review_pending": true
+    }
+  ]
 }
