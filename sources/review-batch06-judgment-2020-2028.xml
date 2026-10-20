@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:2028</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T00:13:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/05415</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2020:829" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2020:829</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0406</rdf:li>
+          <rdf:li>NJB 2021/117</rdf:li>
+          <rdf:li>RvdW 2021/97</rdf:li>
+          <rdf:li>JIN 2021/13 met annotatie van Oort, C. van</rdf:li>
+          <rdf:li>NJ 2021/217 met annotatie van J.M. ten Voorde</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:2028">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:2028</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-14T18:26:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:2028 Hoge Raad , 15-12-2020 / 19/05415</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:2028:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Diefstal, art. 310 Sr. ISD-maatregel, art. 38m.1 Sr. Is voldaan aan wettelijke voorwaarde van art. 38m.1.2 Sr, nu van 1 van de 3 eerdere veroordelingen alleen onvoorwaardelijk gedeelte van opgelegde straf ten uitvoer is gelegd? O.g.v. art. 38m.1.2 Sr is voor oplegging van ISD-maatregel o.m. vereist dat feit is begaan nadat van 3 veroordelingen de in art. 38m.1 Sr bedoelde straffen of maatregelen “geheel” ten uitvoer zijn gelegd. Indien aan deze voorwaarde is voldaan, staat aan oplegging van maatregel niet in de weg dat t.t.v. berechting sprake was van nog openstaande straf voor andere feiten (vgl. ECLI:NL:HR:2006:AY8975). Deze eis van gehele tenuitvoerlegging van 3 veroordelingen strekt zich ook uit tot voorwaardelijk gedeelte van gedeeltelijk voorwaardelijk opgelegde straf. Omstandigheid dat voorafgaand aan feit waarvoor ISD-maatregel wordt opgelegd last tot tul is gegeven van voorwaardelijk gedeelte van die straf, brengt niet mee dat sprake is van gehele tul van veroordeling als hiervoor bedoeld. Uit ’s hofs motivering van oplegging ISD-maatregel blijkt dat hof o.g.v. uittreksel uit justitiële documentatie heeft vastgesteld dat verdachte in 5 jaren voorafgaand aan bewezenverklaarde feit 3 maal wegens misdrijf onherroepelijk is veroordeeld tot gevangenisstraf en dat t.a.v. 1 van die veroordelingen alleen onvoorwaardelijk gedeelte van opgelegde straf geheel ten uitvoer is gelegd voorafgaand aan bewezenverklaarde feit. ’s Hofs daarop gebaseerde oordeel dat is voldaan aan wettelijke voorwaarde van art. 38m.1.2 Sr getuigt van onjuiste rechtsopvatting. Volgt (partiële) vernietiging t.a.v. strafoplegging en terugwijzing.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:2028:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	19/05415 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		15 december 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof 's-Hertogenbosch van 27 november 2019, nummer 20-000399-19, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1985,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft A.A. Nunnikhoven, advocaat te Tilburg, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De advocaat-generaal B.F. Keulen heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft de strafoplegging, tot terugwijzing van de zaak naar het Gerechtshof ’s-Hertogenbosch teneinde in zoverre op het bestaande hoger beroep opnieuw te worden berecht en afgedaan, en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over het oordeel van het hof dat is voldaan aan de wettelijke voorwaarde van artikel 38m lid 1, aanhef en onder 2º, van het Wetboek van Strafrecht (hierna: Sr) en voert daartoe aan dat van één van de drie eerdere veroordelingen alleen het onvoorwaardelijke gedeelte van de opgelegde straf ten uitvoer is gelegd.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft aan de verdachte ter zake van diefstal de maatregel tot plaatsing in een inrichting voor stelselmatige daders (hierna: ISD-maatregel) opgelegd voor de duur van twee jaren. De bestreden uitspraak houdt ten aanzien van de oplegging van die maatregel, voor zover hier van belang, het volgende in:</para>
+        <para>“De verdachte heeft zich schuldig gemaakt aan een misdrijf waarvoor voorlopige hechtenis is toegelaten. Uit het strafblad blijkt dat de verdachte in de vijf jaren voor 11 augustus 2018 – de datum van het bewezen verklaarde – drie keer onherroepelijk is veroordeeld tot een  gevangenisstraf. Hierbij geldt de voorwaarde dat deze straffen ook geheel ten uitvoer moeten zijn gelegd voor 11 augustus 2018.</para>
+        <para>Hoewel de raadsman van de verdachte ten aanzien van dit laatste op zichzelf terecht stelt dat het voorwaardelijke gedeelte van de op 26 maart 2015 opgelegde gevangenisstraf (te weten 150 dagen) niet was uitgezeten voor de pleegdatum van het bewezen verklaarde, betekent dit nog niet dat niet aan de wettelijke voorwaarde is voldaan. De verdachte is bij dit vonnis namelijk veroordeeld tot een gevangenisstraf voor de duur van 390 dagen, waarvan 150 dagen voorwaardelijk. Het onvoorwaardelijke gedeelte van de gevangenisstraf van in totaal 240 dagen was ruim voor de pleegdatum van het bewezen verklaarde volledig ten uitvoer gelegd, zodat sprake is van een veroordeling tot een vrijheidsbenemende straf terwijl het feit is begaan na de tenuitvoerlegging daarvan. Daarbij komt dat de meervoudige kamer van de rechtbank Breda op 12 juli 2018, dus voorafgaande aan de diefstal van 11 augustus 2018, heeft besloten dat de verdachte ook het voorwaardelijke deel van de opgelegde gevangenisstraf (te weten 150 dagen) moest uitzitten, wegens overtreding van de opgelegde voorwaarden. De verdachte heeft dus kennelijk niet (voldoende) geleerd van de opgelegde en uitgezeten onvoorwaardelijke gevangenisstraf, terwijl ook de voorwaardelijke straf én het bevel tot tenuitvoerlegging daarvan hem er niet van hebben weerhouden toch weer een strafbaar feit te plegen. Het hof is dan ook van oordeel dat is voldaan aan de wettelijke voorwaarde van artikel 38m lid onder 2 van het Wetboek van Strafrecht.” </para>
+      </parablock>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 38m lid 1 Sr luidt als volgt:</para>
+          <para>“1. De rechter kan op vordering van het openbaar ministerie de maatregel opleggen tot plaatsing van een verdachte in een inrichting voor stelselmatige daders, indien:</para>
+          <para>1°. het door de verdachte begane feit een misdrijf betreft waarvoor voorlopige hechtenis is toegelaten;</para>
+          <para>2°. de verdachte in de vijf jaren voorafgaand aan het door hem begane feit ten minste driemaal wegens een misdrijf onherroepelijk tot een vrijheidsbenemende straf of maatregel, een vrijheidsbeperkende maatregel of een taakstraf is veroordeeld dan wel bij onherroepelijke strafbeschikking een taakstraf is opgelegd, het feit is begaan na tenuitvoerlegging van deze straffen of maatregelen en er voorts ernstig rekening mede moet worden gehouden dat de verdachte wederom een misdrijf zal begaan, en</para>
+          <para>3°. de veiligheid van personen of goederen het opleggen van de maatregel eist.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <para>De ISD-maatregel is ingevoerd bij de Wet van 9 juli 2004 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Penitentiaire beginselenwet (plaatsing in een inrichting voor stelselmatige daders, Stb. 2004, 351). De maatregel vervangt de maatregel plaatsing in een inrichting voor de strafrechtelijke opvang van verslaafden zoals die was neergelegd in artikel 38m (oud) Sr. Dat artikel bevatte dezelfde recidivevoorwaarde, inhoudende dat het feit moet zijn gepleegd nadat de drie in de bepaling bedoelde straffen of maatregelen ten uitvoer zijn gelegd. Uit de totstandkomingsgeschiedenis van deze wetten kan worden afgeleid dat de maatregel is bedoeld voor “actieve veelplegers (...) die ondanks eerdere strafrechtelijke interventies toch zeer frequent zijn blijven recidiveren” en dat uitgangspunt is dat de maatregel “een ultimum remedium is in een oplopende reeks van strafrechtelijke interventies” en dat de verdachte alle kansen krijgt aangereikt “om een einde te maken aan zijn recidive”, voordat de maatregel “in beeld komt”. (Kamerstukken II 2003/04, 28 980, nr. 5, p. 15 en Kamerstukken I 2000/01, 26 023, nr. 16a, p. 10 )</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Op grond van artikel 38m lid 1, aanhef en onder 2º, Sr is voor de oplegging van de ISD-maatregel onder meer vereist dat het feit is begaan nadat van drie veroordelingen de in artikel 38m lid 1 Sr bedoelde straffen of maatregelen “geheel” ten uitvoer zijn gelegd. Indien aan deze voorwaarde is voldaan, staat aan oplegging van de maatregel niet in de weg dat ten tijde van de berechting sprake was van nog openstaande straf voor andere feiten. (Vgl. HR 14 november 2006, ECLI:NL:HR:2006:AY8975.)</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>Deze eis van gehele tenuitvoerlegging van drie veroordelingen strekt zich ook uit tot het voorwaardelijke gedeelte van een gedeeltelijk voorwaardelijk opgelegde straf. De omstandigheid dat voorafgaand aan het feit waarvoor de ISD-maatregel wordt opgelegd een last tot tenuitvoerlegging is gegeven van het voorwaardelijke gedeelte van die straf, brengt niet mee dat sprake is van een gehele tenuitvoerlegging van de veroordeling als hiervoor bedoeld.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Uit de hiervoor onder 2.2 weergegeven overweging blijkt dat het hof op grond van het uittreksel uit de justitiële documentatie heeft vastgesteld dat de verdachte in de vijf jaren voorafgaand aan het bewezenverklaarde feit drie maal wegens een misdrijf onherroepelijk is veroordeeld tot een gevangenisstraf, en dat ten aanzien van één van die veroordelingen alleen het onvoorwaardelijke gedeelte van de opgelegde straf geheel ten uitvoer is gelegd voorafgaand aan het bewezenverklaarde feit. Het daarop gebaseerde  oordeel van het hof dat is voldaan aan de wettelijke voorwaarde van artikel 38m lid 1, aanhef en onder 2º, Sr getuigt – gelet op hetgeen onder 2.4 is vooropgesteld – van een onjuiste rechtsopvatting.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het cassatiemiddel slaagt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <parablock>
+      <para>	De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de strafoplegging;</para>
+      <para>- wijst de zaak terug naar het gerechtshof ‘s-Hertogenbosch, opdat de zaak ten aanzien daarvan opnieuw wordt berecht en afgedaan;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend en A.L.J. van Strien, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">15 december 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

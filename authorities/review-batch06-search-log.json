@@ -1,0 +1,57 @@
+{
+  "verified_at": "2026-10-20T16:58:32.575258+00:00",
+  "scope": "Selective ISD recidivism/execution and freedom-restricting measures; no exhaustive search.",
+  "web_queries": [
+    "site.rechtspraak.nl \"38m\" \"Hoge Raad\" \"tenuitvoerlegging\"",
+    "site.rechtspraak.nl \"38v\" \"Hoge Raad\" \"dadelijk\"",
+    "site.rechtspraak.nl \"38w\" \"Hoge Raad\" \"zes maanden\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2020:2028\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR\" \"38w\" \"aldus\" \"2023\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2024:1147\""
+  ],
+  "discovery_method": "Web searches exposed PHR conclusions and linked HR judgments. Only the actual fetched HR decisions support the commentary; conclusions and third-party summaries are not authorities for the holdings.",
+  "firecrawl": {
+    "status": "Authenticated, zero credits. Actual scrape attempted on official dated URL, exit1: Insufficient credits. No settings changed.",
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "fallback": "Direct official manifest, XML and WTI fetched and format-validated; see batch fetch log."
+  },
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2020:2028",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-2028.md",
+      "sha256": "9c3e31fa63032b919005b0c52c0e14d2725dae6d666840a9a2f8199f9d12296e",
+      "method": "Exact ECLI lookup in national corpus; relevant numbered passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court text and disposition."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2023:282",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-282.md",
+      "sha256": "6d78e444afaa92eb5e6ec1dac11fbabcd591bdb4c9f848367c7d7ab537685344",
+      "method": "Exact ECLI lookup in national corpus; relevant numbered passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court text and disposition."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2024:1147",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-1147.md",
+      "sha256": "f498da704a08a126ec7bedf1aa4cf861de26059c9769b112bea07641852ab703",
+      "method": "Exact ECLI lookup in national corpus; relevant numbered passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court text and disposition."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2022:1028",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1028.md",
+      "sha256": "0a47c1297dc14234c6eaf1c48c4a9be268be1b3dbf5184899c559a5ce98f5c00",
+      "method": "Exact ECLI lookup in national corpus; relevant numbered passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court text and disposition."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2020:2028",
+    "ECLI:NL:HR:2023:282",
+    "ECLI:NL:HR:2024:1147",
+    "ECLI:NL:HR:2022:1028"
+  ],
+  "supported_units": [
+    "a38m",
+    "a38v",
+    "a38w"
+  ],
+  "other_units": "No sufficiently relevant new verified case selected for the other17 assigned units; this does not assert absence of relevant case law.",
+  "primary_fetch_evidence": "sources/review-batch06-fetch-log.json"
+}

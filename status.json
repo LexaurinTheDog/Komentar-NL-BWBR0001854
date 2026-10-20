@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T16:46:48.244058+00:00",
+    "rechecked_at": "2026-10-20T16:55:46.412380+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch05-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch06-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -30,7 +30,7 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 276244,
+  "commentary_chars": 279867,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -48,9 +48,13 @@
     "ECLI:NL:HR:2018:1156",
     "ECLI:NL:HR:2020:1523",
     "ECLI:NL:HR:2020:625",
-    "ECLI:NL:HR:2013:BY8434"
+    "ECLI:NL:HR:2013:BY8434",
+    "ECLI:NL:HR:2020:2028",
+    "ECLI:NL:HR:2023:282",
+    "ECLI:NL:HR:2024:1147",
+    "ECLI:NL:HR:2022:1028"
   ],
-  "case_law_scope": "Selective: fifteen primary HR decisions for articles 1,14c,14e,22b,28,33c,34,36e,37a,38e and41. No exhaustive coverage.",
+  "case_law_scope": "Selective: nineteen primary HR decisions; this batch adds ISD execution and articles38v/38w. No exhaustive coverage.",
   "build_result": {
     "command": [
       "python3",
@@ -83,9 +87,9 @@
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
-    "Second pass comprises five disjoint 20-unit batches: 100 reviewed, 712 not reviewed. No whole-book completion or external professional approval."
+    "Second pass comprises six disjoint20-unit batches:120 reviewed,692 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T16:53:25.840470+00:00",
+  "updated_at": "2026-10-20T16:58:32.575258+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T16:46:48.244058+00:00",
@@ -99,46 +103,46 @@
     "new_commentary_units": 0,
     "unresolved_blockers": [],
     "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail.",
-    "bounded_recheck": "sources/review-batch05-version-evidence.json"
+    "bounded_recheck": "sources/review-batch06-version-evidence.json"
   },
   "validation_checked_at": "2026-10-20T16:53:25.840470+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a36a",
-      "a36b",
-      "a36c",
-      "a36d",
-      "a36e",
-      "a36f",
-      "a37",
-      "a37a",
-      "a37b",
-      "a37c",
-      "a37d",
-      "a37e",
-      "a38",
-      "a38a",
-      "a38b",
-      "a38c",
-      "a38d",
-      "a38e",
-      "a38f",
-      "a38g"
+      "a38h",
+      "a38i",
+      "a38j",
+      "a38k",
+      "a38l",
+      "a38la",
+      "a38lb",
+      "a38m",
+      "a38n",
+      "a38o",
+      "a38p",
+      "a38q",
+      "a38r",
+      "a38s",
+      "a38t",
+      "a38u",
+      "a38v",
+      "a38w",
+      "a38x",
+      "a38ij"
     ],
     "corrected_units": [
-      "a36b",
-      "a36c",
-      "a36e",
-      "a36f",
-      "a37a",
-      "a38e"
+      "a38j",
+      "a38m",
+      "a38p",
+      "a38u",
+      "a38v",
+      "a38w"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "source_preflight": "sources/review-batch05-version-evidence.json",
-    "reviewed_at": "2026-10-20T16:52:18.634271+00:00"
+    "source_preflight": "sources/review-batch06-version-evidence.json",
+    "reviewed_at": "2026-10-20T16:58:32.575258+00:00"
   },
   "prior_bounded_reviews": [
     {
@@ -274,8 +278,46 @@
       "report": "review-batch04-result.json",
       "source_preflight": "sources/review-batch04-version-evidence.json",
       "reviewed_at": "2026-10-20T16:42:57.939102+00:00"
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a36a",
+        "a36b",
+        "a36c",
+        "a36d",
+        "a36e",
+        "a36f",
+        "a37",
+        "a37a",
+        "a37b",
+        "a37c",
+        "a37d",
+        "a37e",
+        "a38",
+        "a38a",
+        "a38b",
+        "a38c",
+        "a38d",
+        "a38e",
+        "a38f",
+        "a38g"
+      ],
+      "corrected_units": [
+        "a36b",
+        "a36c",
+        "a36e",
+        "a36f",
+        "a37a",
+        "a38e"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-batch05-result.json",
+      "source_preflight": "sources/review-batch05-version-evidence.json",
+      "reviewed_at": "2026-10-20T16:52:18.634271+00:00"
     }
   ],
-  "second_pass_total_reviewed_units": 100,
-  "second_pass_remaining_units": 712
+  "second_pass_total_reviewed_units": 120,
+  "second_pass_remaining_units": 692
 }

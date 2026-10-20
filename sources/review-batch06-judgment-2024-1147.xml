@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2024:1147</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:27:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-09-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-09-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/01521</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2024:586" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2024:586</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2024-0198</rdf:li>
+          <rdf:li>NJB 2024/1890</rdf:li>
+          <rdf:li>RvdW 2024/853</rdf:li>
+          <rdf:li>NJ 2024/278</rdf:li>
+          <rdf:li>NTS 2024/48</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2024:1147">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2024:1147</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-09-06T16:47:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-09-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2024:1147 Hoge Raad , 10-09-2024 / 22/01521</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2024:1147:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Belaging van ex-partner d.m.v. meerdere Instagramaccounts, art. 285b.1 Sr. Voldoende precieze omschrijving van gebiedsverbod als vrijheidsbeperkende maatregel, art. 38v.2.a Sr. Kon hof oordelen dat verdachte zich niet zal ophouden “rond” woning van aangeefster? Vrijheidsbeperkende maatregel a.b.i. art. 38v Sr kan inhouden dat verdachte wordt bevolen zich niet op te houden in bepaald gebied. Door hof opgelegde vrijheidsbeperkende maatregel is in strijd met art. 38v.2.a Sr, v.zv. deze inhoudt dat verdachte zich niet zal ophouden “rond woning” van aangeefster, omdat in zoverre niet voldoende precieze omschrijving van gebied waarbinnen verdachte zich niet mag bevinden is geformuleerd (vgl. HR:2019:338). </para>
+        <para>HR doet zaak zelf af en vernietigt vrijheidsbeperkende maatregel, v.zv. deze inhoudt dat verdachte zich niet zal ophouden “rond woning” van aangeefster, zodat resteert bevel dat verdachte zich niet zal ophouden in straat waarin woning van aangeefster staat.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2024:1147:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>22/01521 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>10 september 2024</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof 's-Hertogenbosch van 15 april 2022, nummer 20-001028-21, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte],</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1998,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft E.E.W.J. Maessen, advocaat in Maastricht, bij schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>De advocaat-generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van de bestreden uitspraak van het hof, maar uitsluitend wat betreft de maatregel ex artikel 38v van het Wetboek van Strafrecht (gebiedsverbod) voor zover daarin is opgenomen: dat de verdachte zich voor de duur van drie (3) jaren niet zal ophouden “rond” de woning van [slachtoffer] (geboren op [geboortedatum] 1999) welke woning is gelegen aan de [a-straat 1] te [plaats], en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het derde cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over de oplegging van een vrijheidsbeperkende maatregel (gebiedsverbod) als bedoeld in artikel 38v van het Wetboek van Strafrecht (hierna: Sr), voor zover deze inhoudt dat de verdachte zich niet zal ophouden “rond” de woning van [slachtoffer] gelegen aan de [a-straat 1] te [plaats].</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft de verdachte veroordeeld voor belaging van [slachtoffer]. De strafoplegging houdt onder meer in:</para>
+        <para>“Maatregel ex artikel 38v van het Wetboek van Strafrecht (gebiedsverbod)</para>
+        <para>Legt op de maatregel strekkende tot beperking van de vrijheid, inhoudende dat de verdachte zich voor de duur van 3 (drie) jaren niet zal ophouden in de straat of rond de woning van [slachtoffer] (geboren op [geboortedatum] 1999), welke woning is gelegen aan de [a-straat 1] te [plaats].</para>
+        <para>(...)</para>
+        <para>Beveelt dat de opgelegde maatregel dadelijk uitvoerbaar is.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Het hof heeft zijn beslissing gegrond op onder meer artikel 38v Sr. Een vrijheidsbeperkende maatregel als bedoeld in die bepaling kan inhouden dat de verdachte wordt bevolen zich niet op te houden in een bepaald gebied. </para>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>De door het hof opgelegde vrijheidsbeperkende maatregel is in strijd met artikel 38v lid 2, aanhef en onder a, Sr voor zover deze inhoudt dat de verdachte zich niet zal ophouden “rond de woning” van [slachtoffer], welke woning is gelegen aan de [a-straat 1] te [plaats], omdat in zoverre niet een voldoende precieze omschrijving van het gebied waarbinnen de verdachte zich niet mag bevinden is geformuleerd (vgl. HR 12 maart 2019, ECLI:NL:HR:2019:338, rechtsoverweging 2.6.2). </para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel is terecht voorgesteld. De Hoge Raad zal de zaak zelf afdoen en de vrijheidsbeperkende maatregel vernietigen voor zover deze inhoudt dat de verdachte zich niet zal ophouden “rond de woning” van [slachtoffer] aan de [a-straat 1] te [plaats], zodat resteert het bevel dat de verdachte zich niet zal ophouden in de straat waarin de woning van [slachtoffer] staat, zijnde de [a-straat] te [plaats].</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de overige cassatiemiddelen</title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Ambtshalve beoordeling van de uitspraak van het hof</title>
+    <para>De Hoge Raad doet uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in artikel 6 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden is overschreden. Dit moet leiden tot vermindering van de opgelegde taakstraf van 120 uren, subsidiair 60 dagen hechtenis.</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft het aantal uren te verrichten taakstraf en de duur van de vervangende hechtenis en wat betreft de vrijheidsbeperkende maatregel voor zover deze inhoudt dat de verdachte zich niet zal ophouden “rond de woning” van [slachtoffer], zodat deze maatregel komt te luiden: dat de verdachte zich voor de duur van 3 (drie) jaren niet zal ophouden in de straat van de woning van [slachtoffer] (geboren op [geboortedatum] 1999), welke woning is gelegen aan de [a-straat 1] te [plaats];</para>
+      <para>- vermindert het aantal uren taakstraf en de duur van de vervangende hechtenis in die zin dat de taakstraf 114 uren beloopt, subsidiair 57 dagen hechtenis;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren T. Kooijmans en C.N. Dalebout, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">10 september 2024</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

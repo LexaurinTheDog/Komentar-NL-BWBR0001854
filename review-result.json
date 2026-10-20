@@ -4,557 +4,540 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a36a",
-    "a36b",
-    "a36c",
-    "a36d",
-    "a36e",
-    "a36f",
-    "a37",
-    "a37a",
-    "a37b",
-    "a37c",
-    "a37d",
-    "a37e",
-    "a38",
-    "a38a",
-    "a38b",
-    "a38c",
-    "a38d",
-    "a38e",
-    "a38f",
-    "a38g"
+    "a38h",
+    "a38i",
+    "a38j",
+    "a38k",
+    "a38l",
+    "a38la",
+    "a38lb",
+    "a38m",
+    "a38n",
+    "a38o",
+    "a38p",
+    "a38q",
+    "a38r",
+    "a38s",
+    "a38t",
+    "a38u",
+    "a38v",
+    "a38w",
+    "a38x",
+    "a38ij"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a36a",
+      "id": "a38h",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read the complete repealed slot and 2020-01-01 metadata. Checked the absence of surviving paragraphs and the neighbouring 36b reference.",
-      "finding_and_resolution": "Retained: the short fictional example correctly refuses to infer a current measure power from numbering.",
+      "review": "Read the entire repealed XML slot, date and status; compared the historical-reference example.",
+      "finding_and_resolution": "Retained: no surviving paragraph or present execution power is inferred. Historical applicability must be checked separately.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36a",
-        "source_xml_id": "C37504341",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38h",
+        "source_xml_id": "C37504261",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "59db9318729557d0811c6e549e0d450eb63301ca2cbe359d2419bf28d85e9c1b",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a36b"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "2968925189ce17f2e3d889c09b4aaa670a6f9a39af23c857ddfeab55d754d7ed",
-      "commentary_after_sha256": "2968925189ce17f2e3d889c09b4aaa670a6f9a39af23c857ddfeab55d754d7ed"
-    },
-    {
-      "id": "a36b",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all five decision routes and both remaining paragraphs. Compared 9a, 33b and 33c; checked the limited incorporation and the distinct 36c/36d object tests.",
-      "finding_and_resolution": "Clarified the mandatory compensation safeguard, precise incorporated paragraphs and the name of the procedural reference. No general right to withdrawal after any acquittal is asserted; the independent offence finding remains necessary.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36b",
-        "source_xml_id": "C20832531",
-        "effective_from": "2008-02-01",
-        "status": "goed",
-        "statutory_text_sha256": "75e087d4b935fb083151b2f1895b6ccbeb72fcac796651d84ad1c6fc0eb9aee8",
-        "raw_article_sha256": "edbd25cabf29793940da1bd1e5f5e0885846de88c04a23b1b91939222d8ba909",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a9a",
-        "a33b",
-        "a33c",
-        "a36c",
-        "a36d"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "b7317730237f71f4ac25734c790de7ee3cbe5aeba6cb13fb622cc0aa2b928454",
-      "commentary_after_sha256": "d6874062f4ea76262fed14b724ee3ab68b108074c92b07f255e84427cc0c8e39"
-    },
-    {
-      "id": "a36c",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all five grounds and the shared final condition. Checked that ground 1 requires wholly/largely criminal acquisition and ground 3 includes preparation as well as commission.",
-      "finding_and_resolution": "Corrected incomplete shorthand for grounds 1 and 3. The desk-chair/counterfeit-paper example separately tests object connection and unacceptable uncontrolled possession. No ownership condition imported from 36d.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36c",
-        "source_xml_id": "C14203821",
-        "effective_from": "1993-03-01",
-        "status": "goed",
-        "statutory_text_sha256": "5789fef759d0630c0e4dece453dd9b1c9b85d5e259f270fabe5c26f2e864677d",
-        "raw_article_sha256": "b2c12515caee1e731ef2981190e5eb0b8882487a28d349bbf2f720df904081f7",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a36b",
-        "a36d"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "671af62406e83c5dc21b0762e48d6578558aa85bf851ebad9c611c57faca7037",
-      "commentary_after_sha256": "9a0e3b105ce7a25ddd677114d03f27904b8fa9f6202a96023e4f2691a637ad1f"
-    },
-    {
-      "id": "a36d",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read the complete cumulative sentence: belonging to offender or suspect, nature, discovery during the specified investigation and potential use for similar offences/preparation/obstruction.",
-      "finding_and_resolution": "Retained: similarity and the investigation link remain distinct; the hypothetical counterfeit tools do not justify removing arbitrary lawful goods.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36d",
-        "source_xml_id": "C34575751",
-        "effective_from": "1993-03-01",
-        "status": "goed",
-        "statutory_text_sha256": "341a623933f88557e3e67b6d7322693cb94407cf2f89521d355535d0ae4e3624",
-        "raw_article_sha256": "6d10c441e36882121d8c4da0eb70a74bb1a6dc669d49a9438b34135bd95da66a",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a36b",
-        "a36c"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "681685c5aec6427dea27e67ea48dd43f7f67541eaa82e65047caf6299f76c310",
-      "commentary_after_sha256": "681685c5aec6427dea27e67ea48dd43f7f67541eaa82e65047caf6299f76c310"
-    },
-    {
-      "id": "a36e",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all eleven paragraphs including the version effective 2026-01-01. Checked routes 2/3, alternative six-year presumptions and shorter period, valuation versus payment, capacity, joint liability and economic unit, costs, paid victim sums, prior orders and one-day/25-euro and three-year limits. Read the entire HR 2020:1523 decision.",
-      "finding_and_resolution": "Added the beyond-reasonable-doubt requirement and opportunity to contest other offences under lid 2, while preserving the separate estimation framework and lid 3 route. Clarified that presumptions are not automatic. The judgment reduced payment for delay, not because the predicate proof failed. Historical similar-offence restrictions are not treated as current text.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36e",
-        "source_xml_id": "C44609001",
-        "effective_from": "2026-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "6861fe100ca298eb251404edc55447146ec684b5b46873a9c2fd2ba427202375",
-        "raw_article_sha256": "676e4dfb0b1d9d1c5ab33386d307d22e552ee261a4866786a6152610d6144969",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a36f"
-      ],
-      "verified_authorities": [
-        "ECLI:NL:HR:2020:1523"
-      ],
-      "commentary_before_sha256": "d6179cfbf58e015365b1d5f2641ea03d1460a220910ee1d3731b88f4ab529d90",
-      "commentary_after_sha256": "ae6253415e2c72dcb2dca826ff586f432a0059f5eacafa760341d7121ed29255"
-    },
-    {
-      "id": "a36f",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all five paragraphs. Checked all disposal routes, the specifically enumerated forensic-care grounds, acknowledged notified offence, 51f(2) beneficiaries, civil liability, immediate payment through the state, 24a incorporation and the one-year detention ceiling.",
-      "finding_and_resolution": "Made the enumerated care grounds and beneficiary reference explicit and added a practical asset-measures checklist. The 2000-euro damage example excludes an unrelated loan. No unverified complete Sv execution procedure or direct coercive-medical power added.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingEerste/Artikel36f",
-        "source_xml_id": "C44094751",
-        "effective_from": "2025-07-01",
-        "status": "goed",
-        "statutory_text_sha256": "1e1b7391c3f9bf6d6b8f66b133cd99a3d61cc075c28cd988016e6e2095fe4281",
-        "raw_article_sha256": "0325df20a4db1e08f848bfa7deae87cb1bded19fbc496e670f23579c132472a0",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a24a",
-        "a36b",
-        "a36c",
-        "a36d",
-        "a36e"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "be651e9d2f1761c50cb855df0a0000b30b36160a9ef9a60d9722779b84fb0c91",
-      "commentary_after_sha256": "612860ef36bc610fc15f2ca1503fb10ebc8b8481ffcf8686490835d411da73ea"
-    },
-    {
-      "id": "a37",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read the complete repealed slot and 2020-01-01 date, comparing 37a and its current advice provisions.",
-      "finding_and_resolution": "Retained: historical psychiatric-placement advice is not presented as a current article-37 power.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37",
-        "source_xml_id": "C37428771",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "a8c71cbd341d60c30b45e444446a8473e9f3c1c576c2adb2340ce7be00a3e42e",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a37a"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "c51cede3b29408987f6abd3174daa45fd5a164ba44f44c90c8ccc29dd56fbf5d",
-      "commentary_after_sha256": "c51cede3b29408987f6abd3174daa45fd5a164ba44f44c90c8ccc29dd56fbf5d"
-    },
-    {
-      "id": "a37a",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all nine paragraphs and every numbered ground. Checked disorder at the time, qualifying crime and safety, nonmandatory punishment, expert disciplines/signatures/one-year consent, refusal, other reports, serious/repeated offending, special data route, 30/90-day clocks, court permission, hearing, cassation and commission composition. Read full HR 2020:625.",
-      "finding_and_resolution": "Corrected wording that described experts themselves as investigated. Added joint/separate advice, the exact previous-conviction criterion, partial-refusal report use, data disclosure duty, notice, authorized transfer, destruction triggers and full commission composition. Historical article 37(3) is mapped only to the present equivalent 37a(4); the judgment does not authorize all medical-data use.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37a",
-        "source_xml_id": "C37468591",
-        "effective_from": "2020-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "0a81bda321c7bb211c7d6082070b01f30c2baaa064e96b4500db05d513e5d7ab",
-        "raw_article_sha256": "7a60fa8cdf26498335c08cfa985dff7a893e0ff47238fea0d810860560e08dbd",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a37b",
-        "a38e",
-        "a39"
-      ],
-      "verified_authorities": [
-        "ECLI:NL:HR:2020:625"
-      ],
-      "commentary_before_sha256": "9e095ec02a23d7876db1c4d96634ecbf42061f45236f47d29bacac52f57994ee",
-      "commentary_after_sha256": "046aa78c91524d7d4bf31a00d45413ec9e8ef358ac9b58eb2ddd44fa2ce1ef15"
-    },
-    {
-      "id": "a37b",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read both paragraphs. Checked that 37a eligibility and the need for state nursing are separate, and that the simultaneous-prison start recommendation is advisory.",
-      "finding_and_resolution": "Retained: the expert-disagreement example tests the actual nursing requirement; the text does not confuse a recommendation with a guaranteed executive start date.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37b",
-        "source_xml_id": "C34020941",
-        "effective_from": "1997-10-02",
-        "status": "goed",
-        "statutory_text_sha256": "23cf696a7607d99d2433497e674dde40243d23bcd6b000fc525cf8282525893a",
-        "raw_article_sha256": "45d5987d08259fcf8ebf46d0ba82e700b21397c74e417181e9c15e7dc1f3d833",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a37a",
-        "a38",
-        "a38d",
-        "a38e"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "9a9ff75b789ad5913d6725a9e7176ce9edfa2bac1a41c85e9a145c5ae7ecce55",
-      "commentary_after_sha256": "9a9ff75b789ad5913d6725a9e7176ce9edfa2bac1a41c85e9a145c5ae7ecce55"
-    },
-    {
-      "id": "a37c",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read the complete 2020-01-01 repealed place. Compared 37b and the example about powers during institutional stay.",
-      "finding_and_resolution": "Retained: the current nursing order is not treated as a source of every institutional power, and no earlier 37c text is reconstructed.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37c",
-        "source_xml_id": "C37503491",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "431fcbe5b68f361ed25e8c14c6c6c984436d1251b9c028a5ca6dec9b8afe7f8f",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a37b"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "0f029ed34a791aa936f7405b5a2d839122c6668db686af7e4b24689f2f5c284e",
-      "commentary_after_sha256": "0f029ed34a791aa936f7405b5a2d839122c6668db686af7e4b24689f2f5c284e"
-    },
-    {
-      "id": "a37d",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read the complete repealed place and its distinct 2019-01-01 commencement metadata.",
-      "finding_and_resolution": "Retained: the fictional 2019 file comparison correctly identifies the earlier repeal date and no surviving norm.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37d",
-        "source_xml_id": "C36463431",
-        "effective_from": "2019-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "8482709afb086067e7d015366cff29afe0a5a3cf8c545d3d7abec5193412231c",
+        "raw_article_sha256": "7861b4a84e2a4be1762f798a7420b48e79c5ddb86670b1f92eccbffe3869c970",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [],
       "verified_authorities": [],
-      "commentary_before_sha256": "41605d2157697bd6cf422b9802a5a7f3bce70ef0faa99da801f8cf628b11c369",
-      "commentary_after_sha256": "41605d2157697bd6cf422b9802a5a7f3bce70ef0faa99da801f8cf628b11c369"
+      "commentary_before_sha256": "fa36a43acbffdf758820c36c5f3ffb4d9d5e626f0ad1e21e656e211d0aeddc0d",
+      "commentary_after_sha256": "fa36a43acbffdf758820c36c5f3ffb4d9d5e626f0ad1e21e656e211d0aeddc0d"
     },
     {
-      "id": "a37e",
+      "id": "a38i",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read the full 2020-01-01 repealed place. Compared the active 38e duration rule and tested the article-number mix-up example.",
-      "finding_and_resolution": "Retained: the four-year limit is not attributed to 37e.",
+      "review": "Checked the distinct repealed slot and 2020-01-01 date against the statement about current decisions.",
+      "finding_and_resolution": "Retained: the example does not invent a surviving exception or treat repeal as erasing all historical relevance.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel37e",
-        "source_xml_id": "C37503241",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38i",
+        "source_xml_id": "C37503251",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "dc655cdb0bf81a499f00a90746a2ff89e6382ab2cd5a7ea92d3db435cf99bda6",
+        "raw_article_sha256": "0a875d55a3e1b6dfa87365dc09c22faab4375a0430599b02e79d6c54c388b9a5",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "bb998b05bc2b210799b6b38a9e27e6a8d508734a1b69262b5cfe6dec7fb02119",
+      "commentary_after_sha256": "bb998b05bc2b210799b6b38a9e27e6a8d508734a1b69262b5cfe6dec7fb02119"
+    },
+    {
+      "id": "a38j",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read the complete one/two-year extension rule; compared the express 38j reservation in38d and both exceptions in38e.",
+      "finding_and_resolution": "Clarified that38j supplies no total ceiling and that the nine-year rule in38e lid2 cannot be applied without its prior-verpleging exceptions. Preserved separate conditional end of care and end of TBS.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38j",
+        "source_xml_id": "C34128531",
+        "effective_from": "2017-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "e14cd870c85cf1eccf4fb7a4c38e486d354966332016fc0e460343097ee37498",
+        "raw_article_sha256": "1652c1a6229d5ee019154897ed1dce5b3dfd960bd5daaa8c1a203da049e6ded0",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
+        "a38d",
         "a38e"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "56d7c0d362cc8bb0d39063ecadc5f75132f0e9ef62e779d55870f3ed0178c94e",
-      "commentary_after_sha256": "56d7c0d362cc8bb0d39063ecadc5f75132f0e9ef62e779d55870f3ed0178c94e"
+      "commentary_before_sha256": "93c938be01c68c585e03363ce8314106ecd5ecf5dd96f36e06c69775e15247a7",
+      "commentary_after_sha256": "772cbe3deeb46bae6c9f5287a7b441e9c0bd22bb2e6830d7aa24f8cd7f20a43f"
     },
     {
-      "id": "a38",
+      "id": "a38k",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read all eight paragraphs: mandatory conditions and identification cooperation, designated qualified support institution, five-year simultaneous custody ceiling, care description above three years, willingness, immediate execution and its two start events, delegated procedure rules.",
-      "finding_and_resolution": "Retained: the four-year prison example triggers both the valid ceiling and care-description requirement. The execution order start is distinguished from finality under 38d.",
+      "review": "Read the full repealed slot and checked the contrast with the actual extension text of38j.",
+      "finding_and_resolution": "Retained: an obsolete number adds no current extension period; the example requires version-separated analysis.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38",
-        "source_xml_id": "C38118451",
-        "effective_from": "2020-07-25",
-        "status": "goed",
-        "statutory_text_sha256": "ee025c88f80d22f7df7bea45d493fb237635297531f366144ec737e3973de150",
-        "raw_article_sha256": "92e2c563f98297db8d8e329c4dbf7e351ec7e0e40145b625c60e2dbf1e3d9178",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38k",
+        "source_xml_id": "C37503921",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "e657851193bb1d5e515af5fa86dcdb30e2122755c6e84d60e16bbff7c181949c",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a37b",
-        "a38d"
+        "a38j"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "c6e61e23eae8cd6230055937d3e54830acba5cd5ad7c97adc4250304da4b880b",
-      "commentary_after_sha256": "c6e61e23eae8cd6230055937d3e54830acba5cd5ad7c97adc4250304da4b880b"
+      "commentary_before_sha256": "cd1ec68a8cb8a743cf7aa57ad22cb2bdea18e3046e52f0dc2a9819c73de7ed23",
+      "commentary_after_sha256": "cd1ec68a8cb8a743cf7aa57ad22cb2bdea18e3046e52f0dc2a9819c73de7ed23"
     },
     {
-      "id": "a38a",
+      "id": "a38l",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read both paragraphs and each treatment variant. Checked designated institution, named expert, prescribing/treating doctor and possible delegated institution standards. Compared 38(2) and (5).",
-      "finding_and_resolution": "Retained: the unnamed-doctor example targets the expert-treatment variant, not every statutory care option. Medication condition does not become a general forced-treatment power.",
+      "review": "Verified repealed status/date and exact lowercase-letter identifier.",
+      "finding_and_resolution": "Retained: distinguishes38l from a paragraph of38 and makes no claim about a present procedural power.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38a",
-        "source_xml_id": "C37503621",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38l",
+        "source_xml_id": "C37503231",
         "effective_from": "2020-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "3eb03dabd151fb505df379efdb7fae644441547177493393d2b5184ab0d6c094",
-        "raw_article_sha256": "6c843ffdbc1d833917ed00a030226bf0ad77c69fb7e494ec0555b6c0e28007ba",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "e90cdabdd07dc42198087d1431ecf7364f3cdac6df9f515bff5afc5683911201",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
         "a38"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "44c83757e78f51f6514b05484da1dbc0ebd0a627ce6fbce694d2779032d4aa51",
-      "commentary_after_sha256": "44c83757e78f51f6514b05484da1dbc0ebd0a627ce6fbce694d2779032d4aa51"
+      "commentary_before_sha256": "2e0dcf46f04af109d61d3cd244522b1ef95a3a0e3ddac47102214d492daf7232",
+      "commentary_after_sha256": "2e0dcf46f04af109d61d3cd244522b1ef95a3a0e3ddac47102214d492daf7232"
     },
     {
-      "id": "a38b",
+      "id": "a38la",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read full 2020-01-01 repeal metadata and empty place. Compared active 38 and 38a and the old-form example.",
-      "finding_and_resolution": "Retained: no current modification power attributed to the repealed slot.",
+      "review": "Verified that38la is a distinct official article element, not a child of38l, and is wholly repealed.",
+      "finding_and_resolution": "Retained: the example addresses correct retrieval without supplying imagined historic content.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38b",
-        "source_xml_id": "C37503861",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38la",
+        "source_xml_id": "C37503501",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "d81896066abda2c29b7767c1cdd71477af4565019267a1d68aaa1d655cbfa985",
+        "raw_article_sha256": "f3fc18f2124552e604f18c9fc92933be1c5ade3b4f7cc270acf874d5271d25d7",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a38",
-        "a38a"
+        "a38l"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "3b5ae98ae6c5975db451549df9d0540bfb4c2072a9f735f7b77c23ac080d6362",
-      "commentary_after_sha256": "3b5ae98ae6c5975db451549df9d0540bfb4c2072a9f735f7b77c23ac080d6362"
+      "commentary_before_sha256": "2e32fd82fe1f483e11092578aa68bb68223aa879c2b9c2dc9d873fce82932b52",
+      "commentary_after_sha256": "2e32fd82fe1f483e11092578aa68bb68223aa879c2b9c2dc9d873fce82932b52"
     },
     {
-      "id": "a38c",
+      "id": "a38lb",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read full 2020-01-01 repeal metadata and empty place; checked change-of-modality example.",
-      "finding_and_resolution": "Retained: historical change-of-mode power is not passed off as operative, including when reading the 2013 case cited only under 38e.",
+      "review": "Read this separate repealed XML article and compared identifiers38l/38la/38lb.",
+      "finding_and_resolution": "Retained: similarity in identifiers is not a basis for attributing a holding to a different historical provision.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38c",
-        "source_xml_id": "C37503301",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38lb",
+        "source_xml_id": "C37504481",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "31789be76cfcf39cd92d402472eaacd8fc27afe20b7b18a80b488bfaa5995746",
+        "raw_article_sha256": "d57ae35f32fea62319399d8a404799eb95605a520b4d461484621d4e3f9b089d",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38l",
+        "a38la"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "8cb10026dba849da5d68ee1f9ca15647142dc21c37e19b816453c7c33803afd2",
+      "commentary_after_sha256": "8cb10026dba849da5d68ee1f9ca15647142dc21c37e19b816453c7c33803afd2"
+    },
+    {
+      "id": "a38m",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read all seven paragraphs and all three cumulative admission conditions. Compared listed sanctions, five-year reference period, completed execution, advice age/consent, refusal, other reports and EU convictions. Read full HR2020:2028.",
+      "finding_and_resolution": "Added the exhaustive qualifying sanction categories and excluded a fine alone; specified full execution including the conditional portion. Distinguished an execution order from actual execution, and qualifying cases from unrelated open sentences. Existing refusal/advice and fictional counting analysis retained.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38m",
+        "source_xml_id": "C36875461",
+        "effective_from": "2010-07-01",
+        "status": "goed",
+        "statutory_text_sha256": "1cbb0a46ae57f9fb860b535c04c06b047a8fe18e209095d44487a35cd10bfed5",
+        "raw_article_sha256": "61cf4e4b623111bbe9222dc7c4e89432b210e7319e19b5cc4df3cb28dde47537",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38n"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2020:2028"
+      ],
+      "commentary_before_sha256": "93266a2c2fd88dff64931766016f6f3026940bf51bc372bae384d8a35bcc2418",
+      "commentary_after_sha256": "ac1b033e70639ca724b0437f8f904391745316502ecb3ef6f9f43447319bb6c3"
+    },
+    {
+      "id": "a38n",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read all three paragraphs; compared optional consideration of prior custody with mandatory deduction for specified penalties in27.",
+      "finding_and_resolution": "Retained: two-year maximum, start at finality, discretion under lid2 and decision to arrange interim review are separately described. No automatic six-month deduction is asserted.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38n",
+        "source_xml_id": "C38709521",
+        "effective_from": "2020-07-25",
+        "status": "goed",
+        "statutory_text_sha256": "9b81bdc2db9238871535a5bd7486e4a8ff06f0e00bb6e242696fb10a4753e259",
+        "raw_article_sha256": "c1f2d2af1afc093b1bd1430c9c82e0d9cdbaafa1ee0d72f2bbe3643ed621c60c",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38m",
+        "a27"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "faebe2bf500948f95acd026d5d18e54ef287bc4da7c11eff86efe95f78c8c23a",
+      "commentary_after_sha256": "faebe2bf500948f95acd026d5d18e54ef287bc4da7c11eff86efe95f78c8c23a"
+    },
+    {
+      "id": "a38o",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read the entirely repealed article, and compared current38n lid3 interim-review wording.",
+      "finding_and_resolution": "Retained:38o is not presented as the operative current procedural power and historical timing is expressly required.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38o",
+        "source_xml_id": "C37504461",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "92d915ae721b9032439ca75557e8631017a4c7c50fc6bd13592c8ec1c0940b9c",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38n"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "5c8e9e4fdb365f8bbe015887c53b576a9945c8c5447a7ae1b9b554e4824c83d5",
+      "commentary_after_sha256": "5c8e9e4fdb365f8bbe015887c53b576a9945c8c5447a7ae1b9b554e4824c83d5"
+    },
+    {
+      "id": "a38p",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read every paragraph including both alternatives in identification condition3b, mandatory behavioural conditions, optional support, consent to treatment and separate admission/probation durations.",
+      "finding_and_resolution": "Made identification alternatives and their link to compliance explicit; confined special willingness requirement to treatment. Preserved three-year probation versus two-year admission and the underlying38m gate.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38p",
+        "source_xml_id": "C37503961",
+        "effective_from": "2020-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "52e9c043f5bd23bf3b41fae50432b4029883d502f225b9d7879d21e36bbda91b",
+        "raw_article_sha256": "ed6f6e522cf74a2a31a98452b37ea2c13f5a56037c149802f481212a9bcfe061",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38m",
+        "a38n"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "b42383b605cda8df4af026e57c51b201f15438179b8fa1b3bfce69da989fd548",
+      "commentary_after_sha256": "053238b25c51d22aed1803762a5b358fc88f6c0b7027702338cae5dfab062b37"
+    },
+    {
+      "id": "a38q",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read the whole repealed slot and38p current conditional ISD text.",
+      "finding_and_resolution": "Retained: execution powers are not invented from the empty place; further procedure is left to the applicable execution regime.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38q",
+        "source_xml_id": "C37503471",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "7718c5f1d15d30d83e95c59895fb62112bbc767523d92483509d36cf11251856",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38p"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "229af2b31fd6d3a0177fbfc49e19c1fa7df9bf9e2a358e960faf9cd3299f6f15",
+      "commentary_after_sha256": "229af2b31fd6d3a0177fbfc49e19c1fa7df9bf9e2a358e960faf9cd3299f6f15"
+    },
+    {
+      "id": "a38r",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Checked distinct repealed slot, absence of remaining paragraphs and the fictional older request.",
+      "finding_and_resolution": "Retained: historic version and temporal applicability are required before relying on an old paragraph.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38r",
+        "source_xml_id": "C37503881",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "4e571b40aa57c7bc51fabfaa672aadfe76fc1ba36f006a59f873f765e7c9ccca",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [],
       "verified_authorities": [],
-      "commentary_before_sha256": "6637fb396078276013b0eff0a6663ef9116b6d0a7281ac4dacac557583f0b794",
-      "commentary_after_sha256": "6637fb396078276013b0eff0a6663ef9116b6d0a7281ac4dacac557583f0b794"
+      "commentary_before_sha256": "b290c5568d05aa5836afd9781e135184813510e71e0adf414dced38352ea6d99",
+      "commentary_after_sha256": "b290c5568d05aa5836afd9781e135184813510e71e0adf414dced38352ea6d99"
     },
     {
-      "id": "a38d",
+      "id": "a38s",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read both paragraphs, two-year finality-based start, annual/two-year extensions on OM motion, security requirement and express 38e/38j qualifications. Compared 38(6)–(7), 38e and 38j.",
-      "finding_and_resolution": "Retained: useful treatment alone is insufficient; actual admission is not automatically the statutory start. The current article does not purport to state every interruption rule.",
+      "review": "Read source date/status and checked the model-document warning against the empty text.",
+      "finding_and_resolution": "Retained: no hidden time limit or exception is attributed to the preserved number.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38d",
-        "source_xml_id": "C44148991",
-        "effective_from": "2010-09-01",
-        "status": "goed",
-        "statutory_text_sha256": "31e45cabdf789ef5bfa95052cca1746de244922f45997cb31b95d99f9dc4ebbc",
-        "raw_article_sha256": "5fd65eb24d008bd4185417f0b3571c19e141195fd08cfbf27c2e501eb117b425",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38s",
+        "source_xml_id": "C37504061",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "93a104d06308e056bcd52b61170979bc10b069f8b4a578f78b68a89539774a3d",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "890011e25fd7db8dd1cf69e13566086f852ffbcec5aa545c95a1b0cc4bcc59e2",
+      "commentary_after_sha256": "890011e25fd7db8dd1cf69e13566086f852ffbcec5aa545c95a1b0cc4bcc59e2"
+    },
+    {
+      "id": "a38t",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read repealed slot, official sequence and structural boundary before38v.",
+      "finding_and_resolution": "Retained: accurately distinguishes this empty ISD slot from38u and the active freedom-restriction provision; no operative power is asserted.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38t",
+        "source_xml_id": "C37503731",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "e7475fac945282c1cdc9fb88fba33b90a05b5ce2c7c6584c3558fdd9a19629b0",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a38",
-        "a38e",
-        "a38j"
+        "a38u",
+        "a38v"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "aed31b2fe350c9d3e7c1d3837be9b47016795e0f1f092a7c8c443dbea8e14ab9",
-      "commentary_after_sha256": "aed31b2fe350c9d3e7c1d3837be9b47016795e0f1f092a7c8c443dbea8e14ab9"
+      "commentary_before_sha256": "d206e6c9a432e763b840c201d0f1b6edf8804c260a4f1220ba8ce179dee71453",
+      "commentary_after_sha256": "d206e6c9a432e763b840c201d0f1b6edf8804c260a4f1220ba8ce179dee71453"
     },
     {
-      "id": "a38e",
+      "id": "a38u",
       "reviewed": true,
       "disposition": "corrected",
-      "review": "Read all three paragraphs: four-year nursing ceiling and bodily-integrity exception, nine-year rule absent either identified nursing order and person-safety wording for unlimited extensions. Read full HR 2013:BY8434, separating party/hof views, historical quotations and HR reasoning.",
-      "finding_and_resolution": "Added foreseeability and interpretation of the original imposition judgment, including other then-available records. Missing explicit formula does not automatically impose a ceiling; threatening/stalking labels do not automatically remove it. Added a concrete placement/duration checklist. Cassation in the interest of law is not described as a new factual extension decision.",
+      "review": "Verified final repealed slot of the ISD division and the actual start of the next division at38v.",
+      "finding_and_resolution": "Retained original explanation and added a concrete ISD closing checklist sourced expressly to38m/38n/38p, with no suggestion that38u supplies those duties.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38e",
-        "source_xml_id": "C37504451",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingDerde/Artikel38u",
+        "source_xml_id": "C37503351",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "634da5c946b16dceb1d148950edaeab0797d59b4f571e257ab8976b6255bb653",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a38m",
+        "a38n",
+        "a38p",
+        "a38v"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "5b24ca9ea6a78eee5ac83dd58a886c393d3858db0a8d40ab33a06e95ff64a5ac",
+      "commentary_after_sha256": "3313b635f786c826c3e4ee664f8d34237dd97e33c86629432265b59319223a88"
+    },
+    {
+      "id": "a38v",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read both judgment routes, all four restrictions and remaining three paragraphs. Compared9a and14e. Read complete HR2024:1147 and HR2022:1028 including disposition and historical references.",
+      "finding_and_resolution": "Specified who may request/order immediate execution and the exact difference from14e; supported geographic precision and reasoned execution decision with primary holdings. Distinguished deletion of vague area wording from remaining valid street ban and from a blanket prohibition of address-based restrictions.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingVierde/Artikel38v",
+        "source_xml_id": "C37503541",
         "effective_from": "2020-01-01",
         "status": "goed",
-        "statutory_text_sha256": "ab27ccf3e1f215c423f6a78753941cb05ed4ea2f42237698b692e2aa91bd276c",
-        "raw_article_sha256": "a30fd8cbc4bb36eab9e1565af4f08c8de57d9d90c2dd079bcea79bba253d9206",
+        "statutory_text_sha256": "dd4db1012ed4b420559ea3efe63e216ea98ab977817f8f31835fa50dc8e20f67",
+        "raw_article_sha256": "29fe2ee41e011908ffb87ce628700ed7f476582301450e9e5b6c391c453152b5",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a37a",
-        "a37b",
-        "a38",
-        "a38a",
-        "a38d"
+        "a9a",
+        "a14e",
+        "a38w"
       ],
       "verified_authorities": [
-        "ECLI:NL:HR:2013:BY8434"
+        "ECLI:NL:HR:2024:1147",
+        "ECLI:NL:HR:2022:1028"
       ],
-      "commentary_before_sha256": "3ab874d6c22193dd83dde50142d36162678d72cd7e62ded874b2372de4df6619",
-      "commentary_after_sha256": "b9d0f5c33004712072837fc2c64039a3021997d764fda13e764985a5dd08987b"
+      "commentary_before_sha256": "e46294a475451840f3571cc736a96fa9f145743825ca368b46c4f69d25006991",
+      "commentary_after_sha256": "748257318ef6efa11099fc19dc9a9d0bf153b9c1428b7990b7e10186b2b84d20"
     },
     {
-      "id": "a38f",
+      "id": "a38w",
       "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read full 2020-01-01 repeal and the hypothetical calendar involving other detention periods.",
-      "finding_and_resolution": "Retained: no old interruption calculation reconstructed or declared current.",
+      "disposition": "corrected",
+      "review": "Read all four paragraphs, per-breach minimum/maximum determination, total executed ceiling and continuing duties. Read full HR2023:282.",
+      "finding_and_resolution": "Added joint six-month ceiling for multiple obligations in one measure. Distinguished court-of-appeal repeated formulations from the Supreme Court reading of one measure, and excluded an unsupported generalization about later separate cases.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38f",
-        "source_xml_id": "C37503951",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "270c5b379c01af3da3c00d99bca0bb1fc02ba929730360fe101aa04dd2c4356a",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingVierde/Artikel38w",
+        "source_xml_id": "C33369331",
+        "effective_from": "2012-04-01",
+        "status": "goed",
+        "statutory_text_sha256": "65be37b4cf8d9fdc7163f60bb5b60bd9022e49996180a6cb9ebbaa4f80904e2c",
+        "raw_article_sha256": "0bc32c7ca7129a41607bf647fc52dbe9ae7840d1fb3ab7dd6725af5e38565452",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a38d"
+        "a38v"
       ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "63496e06a12796480a6a8bf87f956b8d6a4f5b7e18e5ba92b236d6adf1db0419",
-      "commentary_after_sha256": "63496e06a12796480a6a8bf87f956b8d6a4f5b7e18e5ba92b236d6adf1db0419"
+      "verified_authorities": [
+        "ECLI:NL:HR:2023:282"
+      ],
+      "commentary_before_sha256": "5784a5876c6185c51b87aceed8fd3a42db4ea566849e16c9e24985b72c9396cd",
+      "commentary_after_sha256": "e7bc15498285f12a832bcf2406c782216aacc495555352252fc5b47f96d742fb"
     },
     {
-      "id": "a38g",
+      "id": "a38x",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read full 2020-01-01 repeal. Compared 38j and the termination/change example.",
-      "finding_and_resolution": "Retained: current 38j does not restore the repealed 38g text; the example requires an actual current decision power.",
+      "review": "Read separate repealed slot and current38v/38w boundaries.",
+      "finding_and_resolution": "Retained: no execution decision can rest solely on the empty place; historical instruments need temporal checking.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch05-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingTweede/Artikel38g",
-        "source_xml_id": "C40557441",
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingVierde/Artikel38x",
+        "source_xml_id": "C37504221",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "2ad32ad368263fc891817bebed2ce5e76bdfd68ca747f626bd5905d22dcd86cf",
+        "raw_article_sha256": "d401094bb1d45fcc614a5de0e3ab70fc84246ae7323e23c0d1286005003ca4e2",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a38j"
+        "a38v",
+        "a38w"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "bd7e134da8d5cd2305315f83488a04e64120446b0dc2a9184b37cd2f9bdbc3e6",
-      "commentary_after_sha256": "bd7e134da8d5cd2305315f83488a04e64120446b0dc2a9184b37cd2f9bdbc3e6"
+      "commentary_before_sha256": "17a2f63218109609884f5e37a416fbd6692bf44f6f43ce2cac50adfc23425e15",
+      "commentary_after_sha256": "17a2f63218109609884f5e37a416fbd6692bf44f6f43ce2cac50adfc23425e15"
+    },
+    {
+      "id": "a38ij",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Verified exact official38ij spelling, repealed status and date, rather than inferring a missing38y.",
+      "finding_and_resolution": "Retained: correct stable identifier; no present execution rule is reconstructed from an alphabetic assumption.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch06-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIIA/AfdelingVierde/Artikel38ij",
+        "source_xml_id": "C37503771",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "05fd14d27e063236ebfad6d7c7439cbeb45ad3334386362ff5a07bdc05a33c5c",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "26b8fd5dc7e69df629aa350a17c84b2bb6ebb03b7144d6e3cb4aef63b2dc5a8a",
+      "commentary_after_sha256": "26b8fd5dc7e69df629aa350a17c84b2bb6ebb03b7144d6e3cb4aef63b2dc5a8a"
     }
   ],
   "limitations": [
-    "Only the exact 20 assigned units are reviewed in this process; no whole-book completion.",
-    "548 pre-existing missing commentaries outside scope prevent full shared build and strict validation from passing.",
-    "Three primary judgments selectively researched. No exhaustive case-law coverage; other authorities mentioned by those judgments are not independently verified.",
-    "Current external Sv execution, medical-data and forensic-care procedures are not exhaustively described. Statutory references are preserved and commentary is confined to verified code text and precise holdings.",
-    "Historical bodies are not concatenated; the 2013 and 2020 judgments use old numbering that is explicitly distinguished from current provisions.",
-    "Technical content agreement, minimum length and repetition checks do not establish legal quality or external professional approval."
+    "Only the exact20 assigned units were reviewed; no whole-book completion or external professional approval.",
+    "548 pre-existing missing commentaries outside this assignment prevent full shared build and strict validation from passing.",
+    "Four primary judgments selectively researched; other cases and parliamentary materials cited within them not independently adopted as additional authorities.",
+    "External execution procedures and identifying-document rules are not exhaustively described or independently updated; no unsupported current procedural cross-reference was added.",
+    "Manifest effective and visibility intervals checked; historical bodies not merged or exhaustively reviewed.",
+    "Technical text agreement, minimum length and repetition checks do not establish legal quality."
   ],
-  "verified_at": "2026-10-20T16:52:18.634271+00:00",
+  "verified_at": "2026-10-20T16:58:32.575258+00:00",
   "decisive_date": "2026-10-19",
   "effective_version": "2026-07-01_0",
   "official_source": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
   "source_xml_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
-  "source_preflight": "sources/review-batch05-version-evidence.json",
-  "baseline_work_commit": "69527fc",
+  "source_preflight": "sources/review-batch06-version-evidence.json",
+  "baseline_work_commit": "5598520",
   "corrected_units": [
-    "a36b",
-    "a36c",
-    "a36e",
-    "a36f",
-    "a37a",
-    "a38e"
+    "a38j",
+    "a38m",
+    "a38p",
+    "a38u",
+    "a38v",
+    "a38w"
   ],
   "other_commentary_preserved": true,
   "statutory_units_unchanged": true,
@@ -563,72 +546,41 @@
     "highest_pairwise_similarity": [
       {
         "ids": [
-          "a37",
-          "a37e"
+          "a38la",
+          "a38ij"
         ],
-        "similarity": 0.162
+        "ratio": 0.2172
       },
       {
         "ids": [
-          "a38c",
-          "a38f"
+          "a38o",
+          "a38ij"
         ],
-        "similarity": 0.157
+        "ratio": 0.1992
       },
       {
         "ids": [
-          "a36a",
-          "a38b"
+          "a38o",
+          "a38x"
         ],
-        "similarity": 0.156
+        "ratio": 0.1901
       },
       {
         "ids": [
-          "a36a",
-          "a38f"
+          "a38l",
+          "a38s"
         ],
-        "similarity": 0.145
+        "ratio": 0.178
       },
       {
         "ids": [
-          "a37c",
-          "a37e"
+          "a38h",
+          "a38t"
         ],
-        "similarity": 0.139
+        "ratio": 0.1779
       }
     ],
-    "qualitative_assessment": "Every full commentary and example read separately. Nine repealed slots have accurate distinct functions/dates; eleven active units address their individual tests. No repeated generic paragraph."
+    "qualitative_assessment": "All20 prose blocks read separately with their fictional examples. Six active units distinguish separate statutory tests. Fourteen repealed slots have distinct retrieval, temporal or structural explanations; the ISD checklist is explicitly sourced to active articles."
   },
-  "validation_scope": "Full unchanged inventory/shared tools and exact bounded 20-unit review.",
-  "technical_checks": {
-    "complete_statutory_inventory": 812,
-    "independent_dom_full_text_agreement": true,
-    "bounded_commented_units": 20,
-    "assigned_batch_has_missing_or_short_commentary": false,
-    "full_build_ok": false,
-    "full_build_reason": "548 pre-existing missing commentaries outside assigned review scope",
-    "evidence": [
-      "sources/review-batch05-coverage.json",
-      "completeness-report.json",
-      "audit-report.json",
-      "build-result.json",
-      "link-report.json"
-    ],
-    "bounded_review_complete": true,
-    "broken_local_links": 0,
-    "strict_validation": {
-      "repo": "Komentar-NL-BWBR0001854",
-      "units": 812,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 276244,
-      "errors": [
-        "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "strict_validation_checked_at": "2026-10-20T16:53:25.840470+00:00",
-    "validation_returncode": 1,
-    "validation_failure_limited_to_preexisting_out_of_scope_deficit": true
-  }
+  "validation_scope": "Full unchanged statutory inventory and shared tools; substantive review confined to the exact20 IDs."
 }

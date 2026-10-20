@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:282</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T07:52:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-02-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-02-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/04661</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2023:13" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2023:13</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2021:10336" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2021:10336</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2023-0053</rdf:li>
+          <rdf:li>RvdW 2023/312</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:282">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:282</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-02-22T15:45:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-02-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:282 Hoge Raad , 21-02-2023 / 21/04661</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:282:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Belaging (art. 285b.1 Sr). Strafmotivering, oplegging gebieds- en contactverbod als vrijheidsbeperkende maatregel (art. 38v Sr). Kon hof i.v.m. opgelegde vrijheidsbeperkende maatregelen 2 maal totale duur van vervangende hechtenis van 6 maanden bepalen? Art. 38w Sr. Rechter kan aan verdachte een vrijheidsbeperkende maatregel opleggen waaraan meerdere in art. 38v.2 Sr genoemde verplichtingen worden verbonden. Daarbij bepaalt rechter overeenkomstig art. 38w.2 Sr duur van vervangende hechtenis die ten hoogste ten uitvoer kan worden gelegd voor iedere keer dat niet aan maatregel (aan een aan die maatregel verbonden verplichting) wordt voldaan. O.g.v. art. 38w.3 Sr geldt van rechtswege dat totale duur van ten uitvoer gelegde vervangende hechtenis ten hoogste 6 maanden bedraagt (vgl. HR:2021:841). Strafoplegging hof moet, wat betreft oplegging van vrijheidsbeperkende maatregel, aldus worden verstaan dat aan verdachte 1 vrijheidsbeperkende maatregel is opgelegd waarbij verdachte wordt bevolen zich niet op te houden in bepaald gebied en tevens wordt bevolen zich te onthouden van contact met bepaalde persoon en dat duur van vervangende hechtenis die ten hoogste ten uitvoer kan worden gelegd voor iedere keer dat niet aan 1 van die verplichtingen wordt voldaan 1 week bedraagt, waarbij o.g.v. art. 38w.3 Sr van rechtswege geldt dat totale duur van ten uitvoer gelegde vervangende hechtenis ten hoogste 6 maanden bedraagt. Klacht dat hof 2 maal een totale duur van vervangende hechtenis van 6 maanden heeft bepaald, mist daarom feitelijke grondslag. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:282:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+<uitspraak.info>
+<para />
+<parablock>
+<para>
+HOGE RAAD DER NEDERLANDEN
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+STRAFKAMER
+</para>
+</parablock>
+<para />
+<para />
+<para />
+<parablock>
+<para>
+<emphasis role="bold">
+Nummer
+</emphasis>
+21/04661
+</para>
+<para>
+<emphasis role="bold">
+Datum
+</emphasis>
+21 februari 2023
+</para>
+</parablock>
+<para />
+<para />
+<parablock>
+<para>
+ARREST
+</para>
+</parablock>
+<para />
+<para />
+<parablock>
+<para>
+op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 29 oktober 2021, nummer 21-005008-20, in de strafzaak
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+tegen
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+[verdachte] ,
+</para>
+<para>
+geboren te [geboorteplaats] op [geboortedatum] 1982,
+</para>
+<para>
+hierna: de verdachte.
+</para>
+</parablock>
+<para />
+</uitspraak.info>
+<section role="procesverloop">
+<title>
+<nr>
+1
+</nr>
+Procesverloop in cassatie
+</title>
+<parablock>
+<para>
+Het beroep is ingesteld door de verdachte. Namens deze heeft M.G. Vos, advocaat te Utrecht, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+</para>
+<para>
+De advocaat-generaal D.J.C. Aben heeft geconcludeerd tot verwerping van het beroep.
+</para>
+<para>
+De raadsman van de verdachte heeft daarop schriftelijk gereageerd.
+</para>
+</parablock>
+</section>
+<section role="overwegingen">
+<title>
+<nr>
+2
+</nr>
+Beoordeling van het achtste cassatiemiddel
+</title>
+<paragroup>
+<nr>
+2.1
+</nr>
+<para>
+Het cassatiemiddel klaagt onder meer dat het hof in strijd met artikel 38w van het Wetboek van Strafrecht (hierna: Sr) in verband met de opgelegde vrijheidsbeperkende maatregelen twee maal de totale duur van vervangende hechtenis van zes maanden heeft bepaald.
+</para>
+</paragroup>
+<paragroup>
+<nr>
+2.2
+</nr>
+<parablock>
+<para>
+Het hof heeft de verdachte veroordeeld wegens belaging. De strafoplegging houdt onder meer het volgende in:
+</para>
+<para>
+“Legt op de maatregel strekkende tot beperking van de vrijheid inhoudende dat de veroordeelde voor de duur van 3 jaren zich niet bevindt in het gebied dat aan de noordelijke kant begrensd wordt door de [a-straat] , aan de westelijke kant door de [b-straat] , aan de zuidelijke kant door de [c-straat] en aan de oostelijke kant door de [d-straat] , allen te [plaats] . Met uitzondering van onderbouwd huisartsbezoek aan Huisartsenmaatschap Medisch Centrum [A] en onderbouwd bezoek aan Apotheek [A] . Daarnaast is het veroordeelde toegestaan te komen op de [b-straat] , die in Noordelijke richting overgaat in de [a-straat] , tot aan het punt waarop de [a-straat] en de [e-straat] bij elkaar komen. Het gebiedsverbod, zoals bedoeld in artikel 38v van het Wetboek van Strafrecht, zal derhalve thans het gebied omvatten zoals getoond op de kaart die als bijlage bij dit arrest is gevoegd, waarbij het gedeelte met de doorgetrokken lijn aangeeft welk gedeelte niet toegankelijk is voor veroordeelde en waarbij het gedeelte met de onderbroken lijn aangeeft waar veroordeelde zich wel mag begeven, maar van waaruit hij niet verder het gebied in mag.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Beveelt dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan. De duur van deze vervangende hechtenis bedraagt 1 week voor iedere keer dat niet aan de maatregel wordt voldaan.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de opgelegde maatregel niet op en zal in totaal ten hoogste zes maanden bedragen.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Beveelt dat de opgelegde maatregel dadelijk uitvoerbaar is.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Legt op de maatregel strekkende tot beperking van de vrijheid inhoudende dat de veroordeelde voor de duur van 3 jaren op geen enkele wijze - direct of indirect - contact zal opnemen, zoeken of hebben met [aangeefster] .
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Beveelt dat vervangende hechtenis zal worden toegepast voor het geval niet aan de maatregel wordt voldaan. De duur van deze vervangende hechtenis bedraagt 1 week voor iedere keer dat niet aan de maatregel wordt voldaan.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Toepassing van de vervangende hechtenis heft de verplichtingen ingevolge de opgelegde maatregel niet op en zal in totaal ten hoogste zes maanden bedragen.
+</para>
+<para>
+Beveelt dat de opgelegde maatregel dadelijk uitvoerbaar is.”
+</para>
+</parablock>
+</paragroup>
+<paragroup>
+<nr>
+2.3
+</nr>
+<para>
+De rechter kan aan een verdachte een vrijheidsbeperkende maatregel opleggen waaraan meerdere in artikel 38v lid 2 Sr genoemde verplichtingen worden verbonden. Daarbij bepaalt de rechter overeenkomstig artikel 38w lid 2 Sr de duur van de vervangende hechtenis die ten hoogste ten uitvoer kan worden gelegd voor iedere keer dat niet aan de maatregel – dat wil zeggen: aan een aan die maatregel verbonden verplichting – wordt voldaan. Op grond van artikel 38w lid 3 Sr geldt van rechtswege dat de totale duur van de ten uitvoer gelegde vervangende hechtenis ten hoogste zes maanden bedraagt. (Vgl. HR 15 juni 2021, ECLI:NL:HR:2021:841.)
+</para>
+</paragroup>
+<paragroup>
+<nr>
+2.4
+</nr>
+<para>
+De strafoplegging van het hof moet, wat betreft de oplegging van de vrijheidsbeperkende maatregel, aldus worden verstaan dat aan de verdachte één vrijheidsbeperkende maatregel is opgelegd waarbij de verdachte wordt bevolen zich niet op te houden in een bepaald gebied en tevens wordt bevolen zich te onthouden van contact met een bepaalde persoon, en dat de duur van de vervangende hechtenis die ten hoogste ten uitvoer kan worden gelegd voor iedere keer dat niet aan één van die verplichtingen wordt voldaan één week bedraagt, waarbij op grond van artikel 38w lid 3 Sr van rechtswege geldt dat de totale duur van de ten uitvoer gelegde vervangende hechtenis ten hoogste zes maanden bedraagt. De klacht van het cassatiemiddel dat het hof twee maal een totale duur van vervangende hechtenis van zes maanden heeft bepaald, mist daarom feitelijke grondslag.
+</para>
+</paragroup>
+<paragroup>
+<nr>
+2.5
+</nr>
+<para>
+Het cassatiemiddel faalt in zoverre.
+</para>
+</paragroup>
+</section>
+<section role="overwegingen">
+<title>
+<nr>
+3
+</nr>
+Beoordeling van de cassatiemiddelen voor het overige
+</title>
+<para>
+De Hoge Raad heeft ook de overige klachten over de uitspraak van het hof/ beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).
+</para>
+</section>
+<section role="beslissing">
+<title>
+<nr>
+4
+</nr>
+Beslissing
+</title>
+<para>
+De Hoge Raad verwerpt het beroep.
+</para>
+<para />
+<para />
+<parablock>
+<para>
+Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren A.L.J. van Strien en M.J. Borgers, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van
+<emphasis role="underline">
+21 februari 2023
+</emphasis>
+.
+</para>
+</parablock>
+</section>
+</uitspraak>
+</open-rechtspraak>
