@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:888",
+    "path": "sources/review-batch10-judgment-2025-888.xml",
+    "accessed_at": "2026-10-20T17:35:19.697007+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:888",
+    "content_type": "application/xml",
+    "sha256": "7eaa697953fabbf515f752d8c4c4cc9f9ea536c6a03c30d981f3f5186fd87df5",
+    "bytes": 40465,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006622/manifest.xml",
+    "path": "sources/review-batch10-BWBR0006622-manifest.xml",
+    "accessed_at": "2026-10-20T17:35:19.988112+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006622/manifest.xml",
+    "content_type": "application/xml",
+    "sha256": "b5f78b324fa1c792803ea72a20155ee94d70fdd0c7ecd448da78bd7e25eb9a04",
+    "bytes": 88929,
+    "root": "work",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006622/2026-09-01_0/xml/BWBR0006622_2026-09-01_0.xml",
+    "path": "sources/review-batch10-BWBR0006622-effective.xml",
+    "accessed_at": "2026-10-20T17:35:20.257973+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0006622/2026-09-01_0/xml/BWBR0006622_2026-09-01_0.xml",
+    "content_type": "application/xml",
+    "sha256": "3b0b18ea599c463ab943938801e7356410aa6b04ac91f7e106944d2f1dcefac3",
+    "bytes": 1859178,
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002415/manifest.xml",
+    "path": "sources/review-batch10-BWBR0002415-manifest.xml",
+    "accessed_at": "2026-10-20T17:35:20.839635+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002415/manifest.xml",
+    "content_type": "application/xml",
+    "sha256": "bdb26a0b15a2b912da0d382977409fd10660e8fd3beadb3b1ce5d803a7cc53dd",
+    "bytes": 16600,
+    "root": "work",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002415/2025-07-24_0/xml/BWBR0002415_2025-07-24_0.xml",
+    "path": "sources/review-batch10-BWBR0002415-effective.xml",
+    "accessed_at": "2026-10-20T17:35:21.044839+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002415/2025-07-24_0/xml/BWBR0002415_2025-07-24_0.xml",
+    "content_type": "application/xml",
+    "sha256": "7be564f28308a0fb7b2dbe8c5fe10a8fbdf1cfa15eb1ef5fe9e2146d5071ec22",
+    "bytes": 337863,
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/stb/stb-2007-575/1/xml/stb-2007-575.xml",
+    "path": "sources/review-batch10-stb-2007-575.xml",
+    "accessed_at": "2026-10-20T17:36:54.086064+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2007/stb-2007-575/1/xml/stb-2007-575.xml",
+    "content_type": "application/xml",
+    "sha256": "1466c77d976aec58cbe13dd6061c935d01a168c4229ed11d4f2a65325647d3d2",
+    "bytes": 26839,
+    "root": "staatsbl",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/stb/stb-2008-23/1/xml/stb-2008-23.xml",
+    "path": "sources/review-batch10-stb-2008-23.xml",
+    "accessed_at": "2026-10-20T17:36:54.509080+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2008/stb-2008-23/1/xml/stb-2008-23.xml",
+    "content_type": "application/xml",
+    "sha256": "3c32701b7eea0aa8996cbb962c0468e0567d9a3cb9fc38c0f7c0b1f54041287e",
+    "bytes": 46064,
+    "root": "staatsbl",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+    "path": "sources/review-batch10-historical.xml",
+    "accessed_at": "2026-10-20T17:36:54.864795+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+    "content_type": "application/xml",
+    "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "bytes": 2544128,
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/stb/stb-2008-24/1/xml/stb-2008-24.xml",
+    "accessed_at": "2026-10-20T17:39:02.033132+00:00",
+    "path": "sources/review-batch10-stb-2008-24.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/officielepublicaties/stb/2008/stb-2008-24/1/xml/stb-2008-24.xml",
+    "sha256": "714589ae7e4b9b775bb0d887c912736df0716bb4f3c0e5db4909963c5dd15a7a",
+    "bytes": 3189,
+    "root": "staatsbl",
+    "expected_format_valid": true
+  }
+]

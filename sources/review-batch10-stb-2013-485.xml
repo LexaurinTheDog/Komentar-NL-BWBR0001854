@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2013-485/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is enige wijzigingen aan te brengen in de bepalingen in het Wetboek van Strafrecht en het Wetboek van Strafvordering betreffende de berechting en sanctionering van jeugdigen en jongvolwassenen;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Strafrecht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Het opschrift van het Eerste Boek, Titel VIII A, komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>
+                  <nadruk type="vet">Titel VIII A Bijzondere bepalingen voor jeugdigen en jongvolwassenen.</nadruk>
+                </al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 77a wordt «de artikelen 9, eerste lid, 10 tot en met 22a, 24c, 37 tot en met 38i, 44 en 57 tot en met 62» vervangen door «de artikelen 9, 10, 12 tot en met 31, 35 tot en met 38u, 43a tot en met 44 en 57 tot en met 62» en wordt «de artikelen 77d tot en met 77gg» vervangen door: de artikelen 77d tot en met 77hh.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 77c wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid (nieuw) wordt «degene» vervangen door «de jongvolwassene», wordt «eenentwintig» vervangen door «drieëntwintig», wordt «de artikelen 77g tot en met 77gg» vervangen door «de artikelen 77g tot en met 77hh» en vervalt de laatste volzin.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Artikel 77e blijft buiten toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 77f wordt als volgt gewijzigd.</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In een strafbeschikking kan de officier van justitie tevens de aanwijzing geven dat:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de jeugdige zich zal richten naar de aanwijzingen van een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg voor een daarbij te bepalen termijn van ten hoogste zes maanden;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>indien de jeugdige ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren reeds heeft bereikt, kan de officier van justitie in plaats daarvan de aanwijzing geven dat de jeugdige zich zal richten naar de aanwijzingen van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid vervalt in de eerste volzin de zinsnede: «, te verrichten binnen een termijn van ten hoogste drie maanden» en worden na de eerste volzin twee volzinnen ingevoegd, luidende: Indien de taakstraf bestaat uit een werkstraf wordt deze verricht binnen een termijn van vier maanden. Indien de taakstraf bestaat uit een leerstraf wordt deze verricht binnen een termijn van zes maanden.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het derde lid wordt «eerste lid, onder a» vervangen door «eerste lid» en wordt «eerste lid, onder b» vervangen door: tweede lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>[vervallen]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In artikel 77l, vijfde lid, wordt de zinsnede: «wordt deze ten uitvoer gelegd als vervangende hechtenis, tenzij in het vonnis of de beslissing op grond van het derde lid is bepaald dat de veroordeelde ook in het geval hij de leeftijd van achttien jaren heeft bereikt in aanmerking komt voor vervangende jeugddetentie» vervangen door: kan deze worden ten uitvoer gelegd als vervangende hechtenis, indien het vonnis of de beslissing op grond van het derde lid dit bepaalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Artikel 77m wordt als volgt gewijzigd.</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het derde lid wordt «artikel 77o, tweede lid» vervangen door: artikel 77o, derde lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het vijfde lid, komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>De termijn waarbinnen een leerproject plaatsvindt bedraagt ten hoogste zes maanden indien niet meer dan honderd uren is opgelegd en overigens ten hoogste een jaar. Het openbaar ministerie kan bij toepassing van artikel 77o, derde lid, de duur verlengen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Na artikel 77m, wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">77ma</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een taakstraf wordt niet opgelegd in geval van veroordeling voor:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>een van de misdrijven omschreven in de artikelen 240b, 248a, 248b, 248c en 250.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Van het eerste lid kan worden afgeweken indien naast de taakstraf, jeugddetentie, de maatregel betreffende het gedrag of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 77p wordt als volgt gewijzigd.</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «kan het openbaar ministerie de tenuitvoerlegging van de vervangende jeugddetentie bevelen» vervangen door: wordt vervangende jeugddetentie of hechtenis toegepast, tenzij dit wegens uitzonderlijke omstandigheden die zich na het opleggen van de taakstraf hebben voorgedaan, zou leiden tot een onbillijkheid van zwaarwegende aard.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het vierde lid wordt de zinsnede «wordt de vervangende jeugddetentie ten uitvoer gelegd als vervangende hechtenis, tenzij in het vonnis is bepaald dat de veroordeelde ook in het geval hij de leeftijd van achttien jaren heeft bereikt in aanmerking komt voor vervangende jeugddetentie» vervangen door: kan de vervangende jeugddetentie worden ten uitvoer gelegd als vervangende hechtenis, indien het vonnis dit bepaalt.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 77s wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Aan de verdachte bij wie ten tijde van het begaan van het misdrijf een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan de maatregel van plaatsing in een inrichting voor jeugdigen worden opgelegd, indien</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het feit waarvoor de maatregel wordt opgelegd, een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel behoort tot een der misdrijven omschreven in de artikelen 132, 285, eerste lid, 285b en 395 van het Wetboek van Strafrecht, 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994, en 11, tweede lid, van de Opiumwet, en</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen het opleggen van die maatregel eist, en</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt na de eerste volzin een volzin ingevoegd, luidende: Van deze gedragsdeskundigen dient er één een psychiater te zijn.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Het derde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij toepassing van het eerste lid, kan de rechter afzien van het opleggen van straf, ook indien hij van oordeel is dat het feit wel aan de verdachte kan worden toegerekend.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Onder vernummering van de leden vier tot en met acht tot vijf tot en met negen, wordt een nieuw vierde lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Bij het opleggen van de maatregel neemt de rechter de ernst van het begane feit of de veelvuldigheid van voorafgegane veroordelingen wegens misdrijf in aanmerking.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>In het zesde lid (nieuw) wordt «Onze Minister van Justitie» vervangen door: Onze Minister.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">6.</nr>
+              <wat>In het zevende lid (nieuw), laatste volzin, wordt «waarbij de betrokkene wederom de maatregel wordt opgelegd» vervangen door: waarbij aan de betrokkene wederom de maatregel of de maatregel, bedoeld in artikel 37a wordt opgelegd.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">7.</nr>
+              <wat>In het achtste lid (nieuw) wordt «zesde lid», vervangen door: zevende lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>Artikel 77t wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, wordt «als bedoeld in artikel 77s, zesde lid, eerste volzin» vervangen door: als bedoeld in artikel 77s, zevende lid, eerste volzin.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het tweede lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Verlenging van de termijn van de maatregel is slechts mogelijk voor zover de maatregel daardoor de duur van zeven jaar niet te boven gaat. In de gevallen waarin de maatregel is verlengd, eindigt de maatregel voorwaardelijk een jaar voordat de maximale duur van de maatregel wordt bereikt. De rechter geeft in de beslissing tot verlenging van de maatregel aan wanneer de maatregel, behoudens verdere verlenging, onvoorwaardelijk eindigt. Artikel 77s, achtste lid, is van overeenkomstige toepassing. Op de beslissing tot verlenging van de maatregel waarbij de maximale duur van de maatregel zal worden bereikt, is artikel 77s, tweede en vijfde lid, van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Artikel 77ta wordt als volgt gewijzigd.</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Indien de maatregel voorwaardelijk eindigt als bedoeld in artikel 77s, zevende lid, en artikel 77t, tweede lid, geschiedt dit onder de algemene voorwaarde dat:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de veroordeelde zich ten tijde van de voorwaardelijke beëindiging niet schuldig maakt aan een strafbaar feit;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt en medewerking verleent aan het toezicht door de stichting, bedoeld in artikel 1, van de Wet op de jeugdzorg dan wel van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het derde lid wordt «artikel 77s, zesde lid» vervangen door: artikel 77s, zevende lid.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>In artikel 77tb wordt «jeugdige» telkens vervangen door: veroordeelde.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>Na artikel 77tb wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">77tc</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De maatregel tot plaatsing in een inrichting voor jeugdigen die is verlengd tot de in artikel 77t, tweede lid, bedoelde duur van zeven jaren, kan door de rechter ambtshalve of op vordering van het openbaar ministerie worden omgezet in de maatregel, bedoeld in artikel 37a, indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen de omzetting in die maatregel eist.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De beslissing tot omzetting geldt als een last als bedoeld in artikel 37a. De rechter geeft daarbij het bevel, bedoeld in artikel 37b. De artikelen 37, tweede en derde lid, en 37a zijn van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Met de omzetting eindigt de maatregel tot plaatsing in een inrichting voor jeugdigen onvoorwaardelijk.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De beslissing, bedoeld in het eerste lid, wordt genomen:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>voordat de maatregel voorwaardelijk eindigt op de wijze, bedoeld in artikel 77t, tweede lid;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>tijdens de voorwaardelijke beëindiging, bedoeld in 77tb, eerste en tweede lid.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Bij de beslissing betrekt de rechter:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een recent opgemaakt, met redenen omkleed en ondertekend advies afkomstig van het hoofd van de inrichting, en</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de veroordeelde.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>In artikel 77u wordt «de artikelen 77t, 77tb en 77wd» vervangen door: de artikelen 77t, 77tb, 77wc, zesde lid, en 77wd.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>Artikel 77w wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid wordt na de laatste volzin, een volzin toegevoegd, luidende: Indien de maatregel met toepassing van artikel 77c wordt opgelegd aan een jongvolwassene die ten tijde van het misdrijf of de misdrijven die voor het opleggen van de maatregel aanleiding geeft of geven, de leeftijd van achttien jaren maar nog niet de leeftijd van drieëntwintig jaren heeft bereikt, kan een advies van de raad voor de kinderbescherming achterwege blijven en wordt met een advies van een gedragsdeskundige volstaan.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het vierde tot en met zevende lid worden vernummerd tot achtste tot en met elfde lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Na het derde lid worden vier leden ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De rechter kan, ter ondersteuning van het programma, bedoeld in het derde lid, bevelen dat de veroordeelde gedurende de nacht in een inrichting als bedoeld in de Beginselenwet justitiële jeugdinrichtingen verblijft.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Aan het programma kan elektronisch toezicht worden verbonden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat het programma dadelijk uitvoerbaar is, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde opnieuw een strafbaar feit zal plegen of zich belastend zal gedragen en de dadelijke uitvoerbaarheid in het belang van de jeugdige is.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">7.</lidnr>
+                  <al>Het bevel, bedoeld in het zesde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>In het tiende lid (nieuw) wordt «achttien» vervangen door: zestien.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">5.</nr>
+              <wat>Na het elfde lid (nieuw) wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">12.</lidnr>
+                  <al>De maatregel eindigt van rechtswege bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de verdachte opnieuw de maatregel of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>Artikel 77wb, derde lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Artikel 77w, tweede lid, eerste volzin, derde tot en met negende lid, is van overeenkomstige toepassing op de beslissing tot wijziging van de maatregel, met dien verstande dat in het in artikel 77w, tweede lid, derde volzin, bedoelde geval, voor de andere invulling van de maatregel advies wordt gevraagd van een gedragsdeskundige of van de reclasseringsinstelling die met de uitvoering van de maatregel is belast.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>Aan artikel 77wc worden na het vierde lid drie leden toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Artikel 77cca is van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Onverminderd het bepaalde in het vierde lid kan de rechter op vordering van de officier van justitie de tijdelijke opneming in een justitiële jeugdinrichting bevelen in het geval de jeugdige niet naar behoren aan de tenuitvoerlegging van de maatregel meewerkt.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">7.</lidnr>
+                  <al>De tenuitvoerlegging van de tijdelijke opneming schorst de termijn van de maatregel. De maximale aaneengesloten duur van de tijdelijke opneming in de jeugdinrichting bedraagt vier weken. De tijdelijke opneming kan ten hoogste tweemaal tijdens de looptijd van de maatregel worden bevolen, ook in het geval waarin de maatregel is verlengd.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>Aan artikel 77x, tweede lid, wordt een volzin toegevoegd, luidende: Artikel 509jbis van het Wetboek van Strafvordering is van overeenkomstige toepassing.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>Artikel 77z komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">77z</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit, en</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de veroordeelde, voor zover aan de toepassing van artikel 77x bijzondere voorwaarden als bedoeld in het tweede lid zijn gesteld:</al>
+                      <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                        <li>
+                          <li.nr>1°.</li.nr>
+                          <al>ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en</al>
+                        </li>
+                        <li>
+                          <li.nr>2°.</li.nr>
+                          <al>medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, de medewerking aan huisbezoeken daaronder begrepen.</al>
+                        </li>
+                      </lijst>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Bij toepassing van artikel 77x kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:</al>
+                  <lijst type="expliciet" nummerbreedte="4-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>geheel of gedeeltelijk herstel van de door het strafbare feit veroorzaakte schade;</al>
+                    </li>
+                    <li>
+                      <li.nr>3°.</li.nr>
+                      <al>storting van een door de rechter vast te stellen waarborgsom, ten hoogste gelijk aan het verschil tussen het maximum van de geldboete die voor het feit kan worden opgelegd en de opgelegde boete;</al>
+                    </li>
+                    <li>
+                      <li.nr>4°.</li.nr>
+                      <al>storting van een door de rechter vast te stellen geldbedrag in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen. Het bedrag kan niet hoger zijn dan de geldboete die ten hoogste voor het strafbare feit kan worden opgelegd;</al>
+                    </li>
+                    <li>
+                      <li.nr>5°.</li.nr>
+                      <al>een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;</al>
+                    </li>
+                    <li>
+                      <li.nr>6°.</li.nr>
+                      <al>een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;</al>
+                    </li>
+                    <li>
+                      <li.nr>7°.</li.nr>
+                      <al>een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;</al>
+                    </li>
+                    <li>
+                      <li.nr>8°.</li.nr>
+                      <al>een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;</al>
+                    </li>
+                    <li>
+                      <li.nr>9°.</li.nr>
+                      <al>een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;</al>
+                    </li>
+                    <li>
+                      <li.nr>10°.</li.nr>
+                      <al>opneming van de veroordeelde in een zorginstelling;</al>
+                    </li>
+                    <li>
+                      <li.nr>11°.</li.nr>
+                      <al>een verplichting zich onder behandeling te stellen van een deskundige of zorginstelling;</al>
+                    </li>
+                    <li>
+                      <li.nr>12°.</li.nr>
+                      <al>het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang;</al>
+                    </li>
+                    <li>
+                      <li.nr>13°.</li.nr>
+                      <al>het deelnemen aan een gedragsinterventie;</al>
+                    </li>
+                    <li>
+                      <li.nr>14°.</li.nr>
+                      <al>het volgen van onderwijs, gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;</al>
+                    </li>
+                    <li>
+                      <li.nr>15°.</li.nr>
+                      <al>andere voorwaarden, het gedrag van de veroordeelde betreffende.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1 van die wet ten aanzien van de veroordeelde een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">U</lidnr>
+            <wat>Artikel 77aa wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het tweede lid, eerste volzin, wordt de zinsnede «opdragen aan de veroordeelde ter zake van de naleving der bijzondere voorwaarden hulp en steun te verlenen» vervangen door: «opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden» en in de tweede volzin wordt de zinsnede «Bij het verlenen van hulp en steun bij de naleving van de bijzondere voorwaarden stelt de stichting» vervangen door: Daarbij stelt de stichting.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Het vierde lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien de jeugdige de leeftijd van zestien jaren heeft bereikt, kan de rechter een in artikel 14d, tweede lid, bedoelde reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vijfde lid wordt «van Justitie» vervangen door «van Veiligheid en Justitie» en wordt «de hulp en steun» vervangen door: het toezicht en de begeleiding.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">V</lidnr>
+            <wat>Aan artikel 77cc wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>De rechter die voorwaarden heeft gesteld in het verband van een voorwaardelijk opgelegde maatregel plaatsing in een inrichting voor jeugdigen, kan op vordering van het openbaar ministerie, indien een gestelde voorwaarde niet wordt nageleefd of anderszins het belang van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen zulks eist, alsnog de tenuitvoerlegging van de maatregel bevelen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">W</lidnr>
+            <wat>In artikel 77dd, derde lid, wordt de zinsnede «wordt de jeugddetentie waarvan de rechter op grond van het eerste lid de tenuitvoerlegging heeft gelast, ten uitvoer gelegd als gevangenisstraf, tenzij de veroordeelde naar het oordeel van de rechter ook in het geval hij de leeftijd van achttien jaren heeft bereikt in aanmerking komt voor jeugddetentie» vervangen door: kan de jeugddetentie waarvan de rechter op grond van het eerste lid de tenuitvoerlegging heeft gelast, worden ten uitvoer gelegd als gevangenisstraf indien de veroordeelde naar het oordeel van de rechter niet meer voor jeugddetentie in aanmerking komt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">X</lidnr>
+            <wat>Aan artikel 77ee wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Indien toepassing wordt gegeven aan artikel 77x, tweede lid, en artikel 509jbis van het Wetboek van Strafvordering, is artikel 495b van het Wetboek van Strafvordering van overeenkomstige toepassing. Indien de veroordeelde op het tijdstip dat de procedure is ingesteld de leeftijd van achttien jaren nog niet heeft bereikt, zijn eveneens de artikelen 496 tot en met 498, 504 en 505 van het Wetboek van Strafvordering van overeenkomstige toepassing. Heeft de veroordeelde de leeftijd van zestien jaren nog niet bereikt, dan is tevens artikel 503 van het Wetboek van Strafvordering van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Y</lidnr>
+            <wat>In artikel 77hh, eerste lid, wordt de zinsnede «artikel 77s, achtste lid, 77w, derde en zesde lid, artikel 77aa, tweede en derde lid» vervangen door «artikel 77s, negende lid, 77w, derde en tiende lid, artikel 77aa, tweede en vierde lid» en wordt tussen «Wet op de jeugdzorg» en «aanwijzingen te geven» ingevoegd: dan wel, indien het minderjarigen betreft, een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Strafvordering wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Aan artikel 63 worden twee leden toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Wanneer de verdachte ten tijde van het plegen van het misdrijf waarvan hij wordt verdacht de leeftijd van achttien wel maar nog niet de leeftijd van drieëntwintig jaar heeft bereikt, kan de officier van justitie in zijn vordering aangeven of hij voornemens is te vorderen dat recht zal worden gedaan overeenkomstig artikel 77c van het Wetboek van Strafrecht. Artikel 493 is van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>De officier van justitie vraagt de directeur van de reclassering hierover van advies te dienen. De reclassering kan ten behoeve van het advies inlichtingen inwinnen bij de raad voor de kinderbescherming.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Aan artikel 257a wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">8.</lidnr>
+                  <al>Ten aanzien van de jongvolwassene, die ten tijde van het begaan van de overtreding dan wel het misdrijf als bedoeld in het eerste lid, de leeftijd van achttien wel, maar nog niet die van drieëntwintig jaar heeft bereikt, kan de strafbeschikking naast de in het derde lid genoemde aanwijzingen, de aanwijzing bevatten dat de jongvolwassene zich richt naar de aanwijzingen van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid, van het Wetboek van Strafrecht. Het vierde lid is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ba</lidnr>
+            <wat>Aan artikel 260 wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Wanneer de verdachte ten tijde van het plegen van het misdrijf waarvan hij wordt verdacht de leeftijd van achttien wel maar nog niet de leeftijd van drieëntwintig jaar heeft bereikt en de officier van justitie voornemens is te vorderen dat recht zal worden gedaan overeenkomstig artikel 77c van het Wetboek van Strafrecht, maakt hij dit aan de verdachte kenbaar. In dat geval is de verdachte verplicht in persoon te verschijnen. Bij de dagvaarding wordt hem kennis gegeven dat, indien hij niet aan deze verplichting voldoet, het gerecht zijn medebrenging kan gelasten.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Bb</lidnr>
+            <wat>Aan artikel 278, tweede lid, wordt een volzin toegevoegd, luidende:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>In het geval, bedoeld in artikel 260, zesde lid, is artikel 495a, tweede en derde lid, van overeenkomstige toepassing.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Aan artikel 495 worden drie leden toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>De kinderrechter is bevoegd kennis te nemen van een strafbaar feit of strafbare feiten die zijn begaan nadat de verdachte de leeftijd van 18 jaren heeft bereikt indien de vervolging van dat feit of deze feiten gelijktijdig plaatsvindt met de vervolging van verdachte ter zake van een strafbaar feit bedoeld in artikel 488, tweede lid. Het tweede en derde lid is van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Bij toepassing van het vierde lid kan de rechter recht doen volgens de artikelen 77g tot en met 77gg van het Wetboek van Strafrecht indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Het bepaalde in het vijfde lid is van overeenkomstige toepassing wanneer het afzonderlijke strafbare feiten betreft die op grond van artikel 263 of artikel 287 gevoegd zijn behandeld.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 502, eerste lid, wordt «artikel 77t» vervangen door: de artikelen 77t en 77tc.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <wat type="wijziging">De Beginselenwet justitiële jeugdinrichtingen wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>[vervallen]</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 3b wordt «jeugdigen als bedoeld in artikel 1, onderdeel f» vervangen door: jeugdigen als bedoeld in artikel 1, onderdeel g.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 8 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid, onderdeel a, wordt «eenentwintig» vervangen door drieëntwintig.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het eerste lid, onderdeel b, wordt «is opgelegd;» vervangen door: alsmede personen aan wie vervangende hechtenis is opgelegd en die uit hoofde van een andere vrijheidsstraf straf of maatregel al in de inrichting verblijven;.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het eerste lid wordt onder vervanging van de punt door een puntkomma in onderdeel h een onderdeel ingevoegd, luidende: i. jeugdigen of jongvolwassenen aan wie de maatregel betreffende het gedrag is opgelegd en ten aanzien van wie een bevel nachtdetentie is gegeven of ten aanzien van wie de tijdelijke opneming in een inrichting is bevolen.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 43 wordt als volgt gewijzigd.</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt na de eerste volzin een volzin ingevoegd, luidende: Onze Minister kan nadere regels stellen omtrent de toelating en weigering van bezoek.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het derde lid wordt «vier weken» vervangen door: twaalf maanden.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vijfde lid, worden na de laatste volzin, drie volzinnen ingevoegd, luidende: De directeur kan voorwaarden verbinden aan het voorgenomen bezoek van een persoon aan wie op grond van het derde lid eerder de toegang is geweigerd. Deze voorwaarden kunnen inhouden dat de bezoeker voorafgaand aan het bezoek, aan zijn lichaam wordt onderzocht. Dit onderzoek kan mede omvatten het uitwendig schouwen van de openingen en holten van het lichaam van de bezoeker.</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <wat type="wijziging">In artikel 67, derde lid, van de Wet op de rechterlijke organisatie wordt «502» vervangen door: 502, eerste lid,.</wat>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IVa</nr>
+          </kop>
+          <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+        </artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IVb</nr>
+          </kop>
+          <wat type="wijziging">Indien het bij koninklijke boodschap van 4 juni 2010 ingediende voorstel van wet tot vaststelling van een Wet forensische zorg en daarmee verband houdende wijzigingen in diverse andere wetten (Wet forensische zorg) (<dossierref dossier="32398">32 398</dossierref>) tot wet is of wordt verheven, en eerder in werking treedt dan, onderscheidenlijk op dezelfde datum in werking treedt als deze wet, wordt in artikel I, onderdeel N, de zin «De artikelen 37, tweede en derde lid, en 37a zijn van overeenkomstige toepassing» vervangen door: Artikel 37a is van overeenkomstige toepassing.</wat>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>De bepalingen zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten gepleegd na inwerkingtreding van deze wet.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">VI</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen en onderdelen afzonderlijk kan worden vastgesteld.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="33498">33 498</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>Wassenaar,</plaats>
+            <datum isodatum="2013-11-27">27 november 2013</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Staatssecretaris van Veiligheid en Justitie,</functie>
+          <naam>
+            <voornaam>F.</voornaam>
+            <achternaam>Teeven</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2013-12-06">Uitgegeven de <nadruk type="cur">zesde</nadruk> december 2013</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>I.W.</voornaam>
+              <achternaam>Opstelten</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

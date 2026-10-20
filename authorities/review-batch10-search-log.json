@@ -1,0 +1,798 @@
+{
+  "verified_at": "2026-10-20T17:40:13.934386+00:00",
+  "method": "Selective discovery through web search and national corpus; actual complete official XML judgments read. Summaries, commercial annotations and AG conclusions not used as substitute for court holdings.",
+  "queries": [
+    "site.hogeraad.nl 77c adolescentenstrafrecht 2024 2025",
+    "site.uitspraken.rechtspraak.nl 77s stoornis Hoge Raad",
+    "site.uitspraken.rechtspraak.nl 77ma onvoorwaardelijke",
+    "site.uitspraken.rechtspraak.nl 77d 251 verjaring",
+    "site.uitspraken.rechtspraak.nl Hoge Raad77c motivering",
+    "site.uitspraken.rechtspraak.nl Hoge Raad77b ernst",
+    "site.uitspraken.rechtspraak.nl Hoge Raad77ma"
+  ],
+  "selected_authorities": [
+    "ECLI:NL:HR:2025:289",
+    "ECLI:NL:HR:2025:888",
+    "ECLI:NL:HR:2025:1701"
+  ],
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2025:289",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-289.md",
+      "sha256": "62626737f035973a670ce1904c22d80d78afcefc7b23f44415c4c2e8aa7c8e2b",
+      "full_file_read": true,
+      "paragraph_comparison": [
+        {
+          "paragraph_sha256": "9aa7edce33fb8ce315ad5350928c7eef5df2518c897b4b36d655322ce89957f6",
+          "characters": 134,
+          "found_in_local_corpus": false
+        },
+        {
+          "paragraph_sha256": "814e4a24463e966b7443dcf9d1d99ea4efd9aee11869d7c98962fd42e943224c",
+          "characters": 170,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "892be4c03ed23c5fd7a7bac673bdd09153364fbdec2cc2f03c79ab5322479e13",
+          "characters": 449,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "15fdeae2521b59b385a710a7137c422c25c79145e91584fa9f36d2b2bfb5b167",
+          "characters": 474,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "b7f996e2d6bf4eda55ea15d9657cf717563a1cd1a01cf6eadccb6dcb9d036395",
+          "characters": 187,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e47005fc41c9a85ea3df8c4fc62b449ec896a1eace86d5a48b8f6ad4d75ad276",
+          "characters": 732,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "1262caa90dc0130fe458147c90a11bdae120b80410dfa534b0b6ad7cd15f11bc",
+          "characters": 1317,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "eadeff984a81f6fc66e3f3c6d2b3cfc13f505152959152051cbc42f2eaf105fa",
+          "characters": 162,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9d58d75d3b35a0a2c0b9849b673b655d7f98cedf20202cb01fc147ffc148f139",
+          "characters": 415,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "11998a82cce6a93755a52ec4e8b608d0911826177eaafaaf012aa00be4ec8657",
+          "characters": 117,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "398f31fde8bc3e3c2894eb65c8b9796b9635f8c4d4a44fc5513b127f9600f463",
+          "characters": 432,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "11998a82cce6a93755a52ec4e8b608d0911826177eaafaaf012aa00be4ec8657",
+          "characters": 117,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "aa4cf32046bbff2ff03c5f563e586558dfdd60483c567381333ffa175d5f3d42",
+          "characters": 164,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "1da7ffb322a3a275977e2cc5cfd68736a1cd61d7acb5cb85ad6d5e9f83ac9e12",
+          "characters": 455,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "11998a82cce6a93755a52ec4e8b608d0911826177eaafaaf012aa00be4ec8657",
+          "characters": 117,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "7c17499e18886e5de686a5b0c8357918f48fa6fd4de2e69ce51d9b44b4e4836f",
+          "characters": 373,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "7c473936415c08c888432af52a9ef25d42fb882cac688589e49e07d5ceafa685",
+          "characters": 338,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "0c58e6ead6661f3b92999425940d1336afddf95f51781c3fdd5c45e5a8c8396f",
+          "characters": 331,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "c4e7937c61b12b18ddf208e0ef5dfb81b334bc29c56ffa9b426e3dabdf4b336e",
+          "characters": 276,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9a162b5567cbd90253d695e052ac3d28349ab92f2d3769241d162ee573a4ffa2",
+          "characters": 320,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "b5883bd82db9983bacdd4d1c7a9e24d41f737a9e4b73084c40b13a5565c5debf",
+          "characters": 309,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "63e0c0c2cd2bc18d19ce0a14f360a40d20658a8454804f2c5f8145b74a3cf3b7",
+          "characters": 1552,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "901cb373fec42c41736066b816963039e1c1dc768ab0d73cf4657a0c3942071d",
+          "characters": 439,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "d848127594189bfa3e11863608b95bdd3b1e9feb13331b4c86707b1676a72733",
+          "characters": 266,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "3957e5c12d2e750a832cfe6e4b95aab2d3e735a3006f922b6545163327ffa828",
+          "characters": 419,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "11998a82cce6a93755a52ec4e8b608d0911826177eaafaaf012aa00be4ec8657",
+          "characters": 117,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "237e34dc92fece6d7afdf4cdaba55e2b9426df0179675d778f29568d2db2af39",
+          "characters": 413,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "11998a82cce6a93755a52ec4e8b608d0911826177eaafaaf012aa00be4ec8657",
+          "characters": 117,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "52b62329916580d8294bc655796008be2f896985d4845850806bd8ae5f87ceb0",
+          "characters": 377,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "dc19cf393084c2e943a731d6ad2bb0bdd7e463c40d1fa4fb23cf7f51bfd68338",
+          "characters": 339,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "30ffbabbd49321b3c0c77262f2962967b6ee6d0beb3093c1b6a07a5255c52c73",
+          "characters": 143,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "425ed576f3f6b4a6f62a6df2988e45bc71dd96b8799362174bcc0d9c5ce742ea",
+          "characters": 515,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "76ad12c6cca87fc431c6a544625608332867efefb8c6378ac2e272a1c485c0aa",
+          "characters": 206,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e4a857420f1c63d8e265bcb5f821acf4dd32ae1d6916fd4f3aa80c6ccdb6395f",
+          "characters": 658,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9e3eee1d19f18b82b397205920bc2ecf226f6ea2d226b83776bf19b75a9f3932",
+          "characters": 365,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "6aa63cd5ff4be6aa9c948543b7f85368d37fd4c0f6e021aa91ab925974bde8f5",
+          "characters": 219,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9ac4c5421967511f10fc6fce776b3b27f409429e9e2b8f2f1a06f26ace8fbe06",
+          "characters": 328,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "8dccf699daea01600be84d31c757ce190c619115c570ccea277c00351f588c2d",
+          "characters": 345,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "f582e9d4d977fc1222b76d8a87c1b08f88a1a2e2a86820b5ca6b206a83dba0d9",
+          "characters": 252,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "58eb4145e6614e6c2f3b25a05ab0966f6de2a5a9aec672830c073338d345395f",
+          "characters": 93,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "5496337f865f9b9681605a6cccf1996ed57ff191dd2b55acac1f42878657873b",
+          "characters": 169,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "8638f106d792a21651ec8c77c51a4be7e1822fd0444c86f522432b2bd45af3d4",
+          "characters": 374,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9098ed15d5d9d6649a0ce76aafef6d4d639388f0f0919e3a394e074f320ea281",
+          "characters": 452,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9de9787b5dd8b02c2c36795a0cb22db80463ff5e95ce5d634ac5aa3a0d666eba",
+          "characters": 116,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e642ac73304a335956fcbaf20ab074326d36df4860c2ce42723a626a4fea743c",
+          "characters": 165,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "f00d7d7f4db15550cdb4bf5d4249772589af98a873fced2e85a1782dce299ca4",
+          "characters": 92,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "f17a88667f4643453a098f7e1619e64615c0551b8ab77045be29c91167cde67f",
+          "characters": 904,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9e6c2094d77dc2dbc3f7c1862ba34676e86e64096877ddda750b05604c700a85",
+          "characters": 675,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "717cfc200726fecc343cab37233909c062ff25ecc836e1f5c0ff427ac4b8fd21",
+          "characters": 3041,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "d7728a3a2a61485a7e292b1df5da951d8c276a6c5d3ed3de8bec0486f950d3b2",
+          "characters": 201,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "089ad398148dab759c84da405785715ec0e16edb6a4019b7e03d1386c1b9ac8f",
+          "characters": 848,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "b8245bd7881b61d8bae820c1318f133e5344625d307eb9b170342603b6dc20c3",
+          "characters": 575,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "2360060dcff080f481d4cbe58682389009e03a4e51bb16de30555e2f68915e8f",
+          "characters": 1052,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "45e2842f73d304d439c743d3880c66e06c769444f81d7dce309ac6393413ab83",
+          "characters": 1076,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "3196d9208c590df6f50b392a699d685f57a49847c3866a39e990f673bf447d64",
+          "characters": 600,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "869bdb56f0689927c3ee8260190b825643593699a0e52c98263e540e5fc59385",
+          "characters": 563,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "db33bb87d6a299151e02a8b85ca3d3ea63006377a72e02fc7af6646dfcf7681f",
+          "characters": 507,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "424554df04434c98af6fe16cb3c8994e24b82878420c5a256f4b3516427cd6b3",
+          "characters": 97,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "d5414968d8f45268529571704939f294a1023f6f9ff39ad671f29c79709fdd65",
+          "characters": 126,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "8c653cec8073811f725544c5dbe303c1dd438ac4b558e4b63a6ddc75d0004b52",
+          "characters": 139,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "0f426545ce3daf193dd4e35c1daabb39b67434f9e33adb3abe736b49b619824e",
+          "characters": 191,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "376fc1b0959889b83196066312877e18a69b8d84970cf763214c601e3224d0b5",
+          "characters": 242,
+          "found_in_local_corpus": true
+        }
+      ],
+      "paragraphs_compared": 62,
+      "paragraphs_matched": 61,
+      "method": "Full files opened. Primary judgment paragraphs checked after removing whitespace only; metadata/format discrepancies do not replace primary evidence."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:888",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-888.md",
+      "sha256": "14369e23c1026f25dfe5699106c667fa70a3901602b734a36e21230b65884034",
+      "full_file_read": true,
+      "paragraph_comparison": [
+        {
+          "paragraph_sha256": "47a97f79cb434a50624ef28823ce254dfcc6ac0cb775f70ed1bc0500797b648a",
+          "characters": 139,
+          "found_in_local_corpus": false
+        },
+        {
+          "paragraph_sha256": "50eb2dba897a33e328e3ab5a2debde33ee396c6c528f260aed9cd88ea14d743f",
+          "characters": 130,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "327aa3a34f40937a6d91441980472245d288fcaea7b37af636728bc0afa0c321",
+          "characters": 263,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "5b4f58817d006b99a9286c2a47d7bbc961c2959ca509f1045a8437a816f80d85",
+          "characters": 182,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "7b6086eba1e50cc0ea6b405c1595a3a70047336416009b2f6ac88653d2948bcd",
+          "characters": 715,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "76bb28790482d5c9e27dcc40d478241eb42ccd48dd15ffdca4768839e90a4bd1",
+          "characters": 436,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "1db467258fc96f93f4fcaf84a059ff92ef4782265bf8b43e864dc43aea7e23fa",
+          "characters": 496,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "90412f7c0c874bcf1d9ec4ea6494d5ff1ffb0fbc9d102fb0110dcd25ace8b750",
+          "characters": 167,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "be872f721b80d642784760941e6e77bcf4ebd61175c4e2bc96c90bd55828229a",
+          "characters": 191,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4cac72f681005d5b36f443639737fe595ef3cdbeb47e224cb768bd4827659204",
+          "characters": 145,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "648d23e4cb085418d342a865d79dc449a0633c8ef1b3453b0c32eacdb1332a5d",
+          "characters": 323,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "68c052f7f46331ea532718e9a111b86e55111907e7ab29dc52a101242a83748b",
+          "characters": 1005,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "64fe4b17afb882c59554a4e2c7a5a4e1edb295127e855c741d5c5f354fc9b1d5",
+          "characters": 798,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e747d4d1c2278e1936cf8fa95f0d74587d98886c7c8130bb1d5e9e68b5c91247",
+          "characters": 1116,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "8f85ad8652015eea45a93d909edd657fd0a6be8c01be6ccc15a9f67fac544ebb",
+          "characters": 523,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "9e9fdc67170a5c00e9fbd7aaf0008e94e05e336431b7e01613fdf078f0621020",
+          "characters": 908,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "320e46b7365525b5bf8e9bf4e93778860d26d095b6db9000c3c7fc2d233cd80f",
+          "characters": 371,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "03e7900db8bdc17edddeb2c0c8963d7b9ee8f131a3e62e084898763649123be9",
+          "characters": 203,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "97c1bfc2a4fb5dba1d71c2bd2ccd07cb737efc2e3d1b9935b01b21ac996d08c9",
+          "characters": 168,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "cff83b535b66aab981a521dd85789ca7726725da6c9e33b3e0e7594ec94b1e55",
+          "characters": 253,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "585dd44cda9139d78e91ecaed69b31f0d951eead577531646615c09cfbef47b4",
+          "characters": 979,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "36d36a25b21e35a94e32e7002d7a999b1c9ecd46163a069b5eb0e22692b6a03a",
+          "characters": 553,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "fc3dd6840398d03a4da969ce29016345805a6d8dbd3db8470e0d1ba85c58ebd7",
+          "characters": 1396,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "17633ddd677e2e9fa9671153e9326f6fd3e2cdbb1c0c30e275e30ffcabe303e0",
+          "characters": 491,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "31b166756a9897bf12b0a3ad2990f5cf29cc9bb41d1f076c33269c37862233e9",
+          "characters": 118,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "721761b22f6b80f6cb799b1e75e888514753712af9d223b1e6fe9c99763256fa",
+          "characters": 494,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "f71402f818880d5cf2f39945848f577edcbb58f2edb0378f8e265c94bd6ca581",
+          "characters": 331,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "7085270a75a32ef70387474f5bff32960fbc41154c9efdd6a2c31e7844b17202",
+          "characters": 424,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "ce70e842708d032ad76db013d73d7bbdab7c80d70c1d27dd70e73c186f0cabeb",
+          "characters": 351,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "67a38c99aa8d31abb4ab5d36b3a471541e09d080105c3d6536d55b23f14e347b",
+          "characters": 368,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "ed11295f049abbe28a846611e9ccdc7038423d2d30d11ce81f590baf940f357e",
+          "characters": 144,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "22267c61e0845083aaca0533b134afb5d4806381916cd85b45c94c9a4abee051",
+          "characters": 595,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "10fe2e11955ac8e4bf6725e948af0eb2a2bd1213850f1dfd7d55a8f8a54b5937",
+          "characters": 712,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "aa79995983ea4227641a74f4b31f47a2d476d59a3da5e3e4fb34be380e9c056f",
+          "characters": 616,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "95e7dce6b22db0ed28f5809816530fe3d43ea90f450585df82db4d3ac7cf971f",
+          "characters": 1242,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "b5556904f9d0a0312d4382f291632d72ed570264b4f5014c449c6a4893310825",
+          "characters": 749,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "ceea2ed78eba43beb22b92192471fbeb08bf5a23153c009d1048ccf0b95a5816",
+          "characters": 724,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "a36eb4a74dcde6ba021bd56c60e48c9118bd0cc93d5d46de36aba962284a9b54",
+          "characters": 320,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "56d0e71e2e03d7eca0f7512099aa85ebc99e2120b84c4e7913044de940cecb66",
+          "characters": 702,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "2c659a126e6d4bdf54871d3fdc92514aa149e2e6d45827e1ccb838cbb06b05ab",
+          "characters": 530,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "52b82e8290ffb3f07311281763d08126e607eee34a90168aa15d818133afbc59",
+          "characters": 551,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4312128345e11c05b3d92568f349235126dd015a5df2a3b6d925669a63bcbc4d",
+          "characters": 310,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4220e74914030f08590730b28e035b65c786c2b7ff1b20d06eb4ca56297f5d2e",
+          "characters": 824,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "1baf896f4f9bc78943718c7796558e08fecb28d43fe3dc3b92247f6b34ea37cb",
+          "characters": 1103,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "14e285e7a0e3935c3df6b43b080e0a6d295e1f2c776e20e64e2b20fafe402dd3",
+          "characters": 145,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "938bf2f0c1602fa167117daea2f2ef3d0a337bc4cbce69e808724b7ab7663e43",
+          "characters": 486,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4e81b7fde694344ac6bafeb16688a250f7b93d3319c057f1a2950b2da3a4ec40",
+          "characters": 302,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "deb92f5ca3444b4bf90cb6696e6cd7c26f8bdea5f6be007e82c008404361d57f",
+          "characters": 109,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "38737eb9f451ef1988e56869cede4a14bfdf26335114d14e78be12ce39700a4f",
+          "characters": 238,
+          "found_in_local_corpus": true
+        }
+      ],
+      "paragraphs_compared": 49,
+      "paragraphs_matched": 48,
+      "method": "Full files opened. Primary judgment paragraphs checked after removing whitespace only; metadata/format discrepancies do not replace primary evidence."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:1701",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-1701.md",
+      "sha256": "c733f4876937bca5afb6a2d769fc175a63e644b4c058cdd12a0bc7d778529b82",
+      "full_file_read": true,
+      "paragraph_comparison": [
+        {
+          "paragraph_sha256": "e50ffcc30c3819b732ff6af0f3e6891261952ddbf84f5af1baffb770679c3960",
+          "characters": 134,
+          "found_in_local_corpus": false
+        },
+        {
+          "paragraph_sha256": "4f903b332b64191facda0ee0ff64ed34228e57ec316e629a14997ba1f8c7db5e",
+          "characters": 110,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "6f5f19fb4741f00ddcd93f1ce36fa374809fc56bb89f8737f05cb785c430d8bd",
+          "characters": 300,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "d3ac9bc0a134c6b9a623a822a24a6101f768f0a194bcd9fb80491371f4c241ab",
+          "characters": 305,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "c1a33ad99630a21cae52cc3da8a84d65b27f1ad91e6748381d2a1e430703f7b0",
+          "characters": 397,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "d717bfdfd461b4f2c2cbef620557e59562e892c4792e186a51143f45f359292b",
+          "characters": 252,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "176a60a0563e7d84e284603faaa77e0e9f5fbc12fec521fe30b63ebc11d50797",
+          "characters": 618,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "359ece24ee382daf2dc116ea021abd87b2255aee5dc2772dfa24cf1b8442dc1f",
+          "characters": 281,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "62c16b49f4eba1ee6ef0f9cb86740bff959069201029b98502abd69176f13854",
+          "characters": 504,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "f3e435b6af4d57f859ca25425fb0c2c3dbc43e86e47b6ed1707d9a252978060d",
+          "characters": 123,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "0378676e194819677abc198e2c9828bcd5c2655c4103cc0e9bde86119d80cb73",
+          "characters": 618,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e0c21b74cc2849b2ec89c4363c849ebf3c79e5f42d579705291938062dbcd7ad",
+          "characters": 2506,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "854acf8574fca63d86f572b4a70ed6d573adebff77aa85da572656a613cd81d1",
+          "characters": 211,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "bfb6342a95972e3230910c578167b923a6b8f952e3d0325f6611e0eabeadee4e",
+          "characters": 196,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "a5bc773c5215226d257431bb381e18d70366807af4f5c51d1dcd91f23b757a1d",
+          "characters": 264,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4c337a08e505134bae3073beeb803267b269698975d55a0bd1d8940a382451f9",
+          "characters": 331,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "e50fe7e954745b51d9ae2580a1158b04d4fa519f5cc1678ca33674b568dc6b30",
+          "characters": 228,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "6f9c1b18a1c10608ed8bfa8d0e23edc98c298c91a93500d1cf93cfe42601fb50",
+          "characters": 285,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "86c4271ab227178a0895e619326b739d9c2ee64a55228a35799881831cd328fd",
+          "characters": 603,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "56b5d0ecf5204421dfe2fa0fcf2af7478634d2480d3c989cc38183cfe0c87678",
+          "characters": 440,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "86a81053a947f9f2d40c1eda40bac55c0cf21f44b9bb4c310d5c97093e2ac459",
+          "characters": 345,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "98bf72aeea814bf56db5c35c5638d1d0585829fd2d002e7449e310f8eb61a9ec",
+          "characters": 658,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "bcdaea5d6cfaa78c3ce08ac2664ff02338a9ecda2eca52ac5ddf006c62642eca",
+          "characters": 814,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "3cef086e6cf91a60f4237ccf2a66da55a6532d989a11e39758ebc2f1da82253b",
+          "characters": 93,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "27ef9e7fd89e200eaafbe8f6b65e60fa4335caef1bb30aa2b635f49d784f17f5",
+          "characters": 1399,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "dfa11065874844cf4c283d369a942f61f5d9bef85e2574be0b67fd2bde6a7db7",
+          "characters": 1391,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "4ea5af323053b5bdddd54480a5bdce285cc01191fb9424d157b22d873a4fbe17",
+          "characters": 859,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "999b70a26e3dec284cea227e4c0852ed0912c0b857dfc096b6e324ab42ae4301",
+          "characters": 2388,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "fd75b82b2ceee597722315d8da14950be94f585b970113ab3e1024d3988f2d70",
+          "characters": 221,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "201860cb225b09fca740d44bddbf5f7f24fb3881972b3330d181c83fe7fe4f73",
+          "characters": 899,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "bcbab18327e185c40d0064fb5e610c99ed66f6ddd3d8a5d5c46969914c1f1470",
+          "characters": 1288,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "802e594bd567dfa565c7745a23fbb93bc50e8c106421dbdfef46c1500c99a037",
+          "characters": 288,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "1393b534cc44bb05b3ec4933ce3ce60b64c989111139cbdfdd3fbe7ea666c6d5",
+          "characters": 130,
+          "found_in_local_corpus": true
+        },
+        {
+          "paragraph_sha256": "a8e85e46c8698683f9cb3ebc1c5d8d030a5d776a27d343ebd5813ea2b45b5aeb",
+          "characters": 241,
+          "found_in_local_corpus": true
+        }
+      ],
+      "paragraphs_compared": 34,
+      "paragraphs_matched": 33,
+      "method": "Full files opened. Primary judgment paragraphs checked after removing whitespace only; metadata/format discrepancies do not replace primary evidence."
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "ecli": "ECLI:NL:HR:2022:285",
+      "reason": "Full official judgment read: revision after robbery conviction; not a sufficiently relevant77c decision. No commentary authority."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2019:1476",
+      "reason": "Full official judgment read. Substantive PIJ challenge disposed of under81RO; independently reasoned expert-hearing issue does not establish77s material conditions. No holding attributed to HR from PHR2019:722."
+    },
+    {
+      "source": "PHR2019:722 and PHR2024:64 search results",
+      "reason": "AG opinions are not court decisions; no holding adopted from snippets."
+    }
+  ],
+  "unselected_units": "No new sufficiently relevant verified case selected for the other assigned units. Limited search does not establish absence of relevant case law.",
+  "firecrawl": {
+    "status_checked": true,
+    "credits": 0,
+    "action": "Direct primary official XML used; no paid scrape or toolchain installation."
+  }
+}

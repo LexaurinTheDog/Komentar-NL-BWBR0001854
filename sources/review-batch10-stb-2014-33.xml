@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2014-33/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 20 januari 2014 tot vaststelling van het tijdstip van inwerkingtreding van de wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht (Stb. 2013, 485)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 14 januari 2014, directie Wetgeving en Juridische Zaken, nr. 460538;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel VI van de wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht (<extref doc="stb-2013-485" soort="document" status="actief">Stb. 2013, 485</extref>);</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <artikel status="goed">
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>De wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht (<extref doc="stb-2013-485" soort="document" status="actief">Stb. 2013, 485</extref>) treedt in werking met ingang van 1 april 2014.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Veiligheid en Justitie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>Wassenaar,</plaats>
+            <datum isodatum="2014-01-20">20 januari 2014</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Staatssecretaris van Veiligheid en Justitie,</functie>
+          <naam>
+            <voornaam>F.</voornaam>
+            <achternaam>Teeven</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2014-01-24">Uitgegeven de <nadruk type="cur">vierentwintigste</nadruk> januari 2014</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>I.W.</voornaam>
+              <achternaam>Opstelten</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

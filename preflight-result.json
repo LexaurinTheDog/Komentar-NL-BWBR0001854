@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T17:21:16.081056+00:00",
+  "verified_at": "2026-10-20T17:35:04.740282+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1423,9 +1423,8 @@
     },
     "selection_reason": "Effective and visibility intervals in official manifest contain the original authoring date; fresh WTI independently lists latest commenced code change as 2026-07-01. Retrieval timestamp and consolidated label are not used as proof of effectiveness.",
     "latest_bounded_review": {
-      "fresh_manifest": "sources/review-batch09-manifest.xml",
-      "current_raw": "sources/review-batch09-effective.xml",
-      "manifest_sha512_matches": true,
+      "report": "sources/review-batch10-version-evidence.json",
+      "manifest_sha512_verified": true,
       "applicable_at_authoring": [
         {
           "label": "2026-07-01_0",
@@ -1444,8 +1443,7 @@
           "visible_to": "9999-12-31"
         }
       ],
-      "details": "sources/review-batch09-version-evidence.json",
-      "external_Sv": "sources/review-batch09-sv-evidence.json"
+      "external_evidence": "sources/review-batch10-external-evidence.json"
     }
   },
   "historical_versions_checked": {
@@ -1770,6 +1768,57 @@
     "inventory": "sources/review-batch09-coverage.json",
     "all812_texts_notes_status_dates_match": true,
     "aanhef_and_wetsluiting": "Both present; no source/parser repair needed.",
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch10_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T17:35:04.740282+00:00",
+    "version_evidence": "sources/review-batch10-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126,
+      "additional_body_comparison": {
+        "version": "2026-01-01_0",
+        "source": "sources/review-batch10-historical.xml",
+        "manifest_sha512_matches": true,
+        "scope": [
+          "a77a",
+          "a77b",
+          "a77c",
+          "a77d",
+          "a77e",
+          "a77f",
+          "a77g",
+          "a77h",
+          "a77i",
+          "a77j",
+          "a77k",
+          "a77l",
+          "a77m",
+          "a77ma",
+          "a77n",
+          "a77o",
+          "a77p",
+          "a77q",
+          "a77r",
+          "a77s"
+        ],
+        "changed_ids": [],
+        "change_map": "sources/review-batch10-change-map.json"
+      }
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch10-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch10-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Both present; no source/parser repairs needed.",
     "unresolved_blockers": []
   }
 }

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2025:289</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-09-27T10:03:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-02-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/02085</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2024:1337" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2024:1337</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2023:4297" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2023:4297</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2025-0066</rdf:li>
+          <rdf:li>NJB 2025/493</rdf:li>
+          <rdf:li>NJ 2025/83</rdf:li>
+          <rdf:li>RvdW 2025/326</rdf:li>
+          <rdf:li>FJR 2025/62.4</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:289">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:289</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-02-17T11:28:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2025:289 Hoge Raad , 18-02-2025 / 23/02085</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2025:289:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Zedenzaak. Ontucht (art. 245 (oud) Sr) met en verkrachting (art. 242 (oud) Sr) van 4 jaar jongere zusje gedurende periode van 10 jaar. Strafmotivering (gevangenisstraf van 3 jaar). Kon hof gevangenisstraf opleggen voor feiten die (gedeeltelijk) zijn begaan voordat verdachte leeftijd van 16 jaren had bereikt? Uit wetsgeschiedenis van Wet adolescentenstrafrecht komt naar voren dat wetgever bij invoering van die wet heeft beoogd adolescentenstrafrecht vorm te geven binnen grenzen die worden gesteld in IVRK en voorbehoud dat Nederland heeft gemaakt bij art. 37 van dat verdrag. Dat voorbehoud maakt toepassing van volwassenenstrafrecht alleen mogelijk als kind leeftijd van 16 jaren heeft bereikt en aan in wet neergelegde criteria voor toepassing van volwassenenstrafrecht is voldaan. O.g.v. art. 77a (oud) Sr geldt als hoofdregel dat op personen die t.t.v. begaan van strafbaar feit nog niet leeftijd van 18 jaren hebben bereikt jeugdstrafrecht (dat niet voorziet in mogelijkheid tot opleggen van gevangenisstraf) wordt toegepast. Art. 77b (oud) Sr (dat v.zv. hier van belang niet verschilt van nu geldende tekst) vormt uitzondering op deze hoofdregel en voorziet in mogelijkheid om verdachte te veroordelen overeenkomstig bepalingen uit volwassenenstrafrecht, als rechter daarvoor aanleiding ziet in daar genoemde gevallen. Deze bepaling is alleen van toepassing op personen die t.t.v. begaan van strafbaar feit leeftijd van 16 jaren, maar nog niet die van 18 jaren, hebben bereikt. Art. 77b (oud) Sr voorziet niet in mogelijkheid om gevangenisstraf op te leggen voor feit dat is begaan toen verdachte leeftijd van 16 jaren (nog) niet had bereikt en ook andere bepalingen voorzien daarin niet. Uit in arrest van hof vermelde geboortedatum van verdachte volgt dat verdachte t.t.v. begaan van het door hof bewezenverklaarde feit 1 en gedeeltelijk t.t.v. begaan van bewezenverklaard feit 2 leeftijd van 16 jaren nog niet had bereikt. Hof heeft desondanks geoordeeld dat ook t.a.v. die feiten, met toepassing van volwassenenstrafrecht, gevangenisstraf kan worden opgelegd. Dat oordeel getuigt van onjuiste rechtsopvatting. Wat hof, onder aanhaling van art. 495.4 Sv, heeft overwogen over Wet adolescentenstrafrecht doet hieraan niet af. Gelet op weergegeven overgangsrecht is art. 495.4 Sv niet van toepassing op feiten die zijn gepleegd voor inwerkingtreding van Wet adolescentenstrafrecht op 1-4-2014. Opmerking verdient verder dat art. 495.5 Sv niet van toepassing is op strafbare feiten die zijn begaan voordat verdachte leeftijd van 16 jaren had bereikt. </para>
+        <para>Nu verdachte alleen belang heeft bij cassatie v.zv. aan hem met toepassing van volwassenenstrafrecht gevangenisstraf is opgelegd voor feiten die hij heeft begaan voordat hij leeftijd van 16 jaren had bereikt, zal HR uitspraak van hof alleen vernietigen wat betreft opgelegde gevangenisstraf en zaak zelf afdoen. Omdat hof straf heeft willen opleggen die wat betreft duur van vrijheidsontneming overeenkomt met de door Rb opgelegde straf, zal HR daarbij aansluiten. Bij afdoening zal HR uitgaan van de door Rb bevolen splitsing in minderjarig en meerderjarig deel. Nu hof strafoplegging in kern heeft gebaseerd op dezelfde bewijsvoering en bewezenverklaring als Rb, leent arrest van hof zich in zoverre voor verbeterde lezing dat HR verstaat dat bewezenverklaring in arrest van hof luidt overeenkomstig bewezenverklaringen die zijn opgenomen in vonnissen Rb. </para>
+        <para>HR vernietigt ’s hofs uitspraak wat betreft opgelegde gevangenisstraf en doet zaak zelf af.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2025:289:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>23/02085 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>18 februari 2025</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 16 mei 2023, nummer 21-003078-21, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte],</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1991,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt en M.J. van Berlo, beiden advocaat in Rotterdam, bij schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot vernietiging van de uitspraak van het hof, maar uitsluitend wat betreft de opgelegde gevangenisstraf, tot oplegging van een gevangenisstraf voor de duur van twee jaren en een jeugddetentie voor de duur van één jaar met vermindering daarvan ter compensatie van de overschrijding van de redelijke termijn naar de gebruikelijke maatstaf, en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie). </para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede cassatiemiddel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <parablock>
+        <para>Het cassatiemiddel klaagt over de oplegging door het hof van een gevangenisstraf voor feiten die (gedeeltelijk) zijn begaan voordat de verdachte de leeftijd van zestien jaren had bereikt.</para>
+        <para>
+          <emphasis role="italic">	Procesverloop in eerste aanleg en in hoger beroep</emphasis>
+        </para>
+      </parablock>
+      <paragroup>
+        <nr>3.2.1</nr>
+        <parablock>
+          <para>In eerste aanleg zijn bij één dagvaarding drie feiten aan de verdachte ten laste gelegd die zien op een periode waarin de verdachte, die is geboren op 5 november 1991, deels minderjarig en deels meerderjarig was. Uit het proces-verbaal van de terechtzitting in eerste aanleg van 8 juni 2021 volgt dat de rechtbank de tenlastelegging heeft gesplitst in “een minderjarig en een meerderjarig deel”. De rechtbank heeft vervolgens twee vonnissen gewezen, één voor het minderjarig deel en één voor het meerderjarig deel. Voor het minderjarig deel heeft de rechtbank één jaar jeugddetentie en voor het meerderjarig deel heeft zij een gevangenisstraf van twee jaren opgelegd. In haar vonnis heeft de rechtbank over deze splitsing overwogen:</para>
+          <para>“De rechtbank merkt op dat aan verdachte één dagvaarding is uitgebracht. De drie aan verdachte ten laste gelegde feiten zien op een periode waarin verdachte deels minderjarig en deels meerderjarig was. De rechtbank zal de tenlastelegging daarom splitsen in een minderjarig en een meerderjarig deel. Het minderjarige deel ziet op de periode van 5 november 2003 tot 5 november 2009. Deze periode betreft feit 1 en een deel van feit 2. Het meerderjarige deel ziet op de periode van 5 november 2009 tot en met 10 april 2013. Deze periode betreft een deel van feit 2 en feit 3. Het voorgaande heeft tot gevolg dat er twee vonnissen zijn, één voor het minderjarige en één voor het meerderjarige deel. Alle drie de feiten zien op eenzelfde soort verdenking, namelijk het plegen van seksuele handelingen door verdachte bij zijn zusje. Bij de bespreking ter terechtzitting is er door geen van de procesdeelnemers een heel duidelijk onderscheid gemaakt tussen het minderjarige en het meerderjarige deel. Om die reden zal de rechtbank grotendeels dezelfde standpunten van de verdediging, de officier van justitie en de benadeelde partij in beide vonnissen opnemen. Waar mogelijk en noodzakelijk zal de rechtbank een onderscheid maken, maar ook de overwegingen van de rechtbank zullen voor het overgrote deel gelijkluidend zijn.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>Wat betreft het minderjarig deel is door de rechtbank in haar vonnis van 22 juni 2021, ECLI:NL:RBMN:2021:2617 ten laste van de verdachte bewezenverklaard dat hij: </para>
+          <para>“1. primair: </para>
+          <para>op tijdstippen in de periode gelegen tussen 5 november 2003 tot en met 10 april 2007 te [plaats], met [slachtoffer], geboren op [geboortedatum] 1995, die toen de leeftijd van twaalf jaren nog niet had bereikt, meermalen, (telkens) een of meer handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, althans eenmaal (telkens) </para>
+          <para>- de borsten van die [slachtoffer] aangeraakt en </para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en </para>
+          <para>- zich laten aftrekken door die [slachtoffer] en </para>
+          <para>- zijn geslachtsdeel in de hand genomen en getoond aan die [slachtoffer] en </para>
+          <para>- ten overstaan van die [slachtoffer] heen en weer gaande bewegingen gemaakt met zijn hand over zijn geslachtsdeel en </para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht en </para>
+          <para>- zijn geslachtsdeel gehouden in de mond van die [slachtoffer]; </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. primair: </para>
+          <para>op tijdstippen in de periode gelegen tussen 11 april 2007 tot 5 november 2009 in het arrondissement Midden-Nederland met [slachtoffer], geboren op [geboortedatum] 1995, die toen de leeftijd van zestien jaren nog niet had bereikt, buiten echt, een of meer ontuchtige handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, (telkens) ontuchtig </para>
+          <para>- de borsten en vagina van die [slachtoffer] aangeraakt en </para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en </para>
+          <para>- zich laten aftrekken door die [slachtoffer] en </para>
+          <para>- zijn geslachtsdeel in de hand genomen en getoond aan die [slachtoffer] en </para>
+          <para>- ten overstaan van die [slachtoffer] heen en weer gaande bewegingen gemaakt met zijn hand over zijn geslachtsdeel en </para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <parablock>
+          <para>Wat betreft het meerderjarig deel is door de rechtbank in haar vonnis van 22 juni 2021, ECLI:NL:RBMN:2021:2619 ten laste van de verdachte bewezen verklaard dat hij:</para>
+          <para>“2. primair: </para>
+          <para>op tijdstippen in de periode gelegen tussen 5 november 2009 tot en met 10 april 2011 in het arrondissement Midden-Nederland met [slachtoffer], geboren op [geboortedatum] 1995, die toen de leeftijd van zestien jaren nog niet had bereikt, buiten echt, een of meer ontuchtige handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, althans eenmaal (telkens) ontuchtig </para>
+          <para>- de borsten en vagina van die [slachtoffer] aangeraakt en </para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en </para>
+          <para>- zich laten aftrekken door die [slachtoffer] en </para>
+          <para>- zijn geslachtsdeel in de hand genomen en getoond aan die [slachtoffer] en </para>
+          <para>- ten overstaan van die [slachtoffer] heen en weer gaande bewegingen gemaakt met zijn hand over zijn geslachtsdeel en</para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht; </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3.</para>
+          <para>in de periode van 11 april 2011 tot en met 10 april 2013 te [plaats], meermalen, (telkens), door een andere feitelijkheid en bedreiging met een andere feitelijkheid [slachtoffer] heeft gedwongen tot het ondergaan van handelingen die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, althans éénmaal (telkens) </para>
+          <para>- de borsten en vagina van die [slachtoffer] aangeraakt en </para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en</para>
+          <para>- zich laten aftrekken door die [slachtoffer] en</para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht en</para>
+          <para>- zijn geslachtsdeel gehouden in de mond van die [slachtoffer];</para>
+          <para>en bestaande die andere feitelijkheid en die bedreiging met die andere feitelijkheid hierin dat verdachte een feitelijk overwicht op die [slachtoffer] heeft gehad (gezien de familiare relatie als broer en zus, met die [slachtoffer] en het leeftijdsverschil) en (aldus) voor die [slachtoffer] een bedreigende situatie heeft doen ontstaan.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4</nr>
+        <parablock>
+          <para>Het hof heeft de door de rechtbank aangebrachte splitsing in een minderjarig en een meerderjarig deel ongedaan gemaakt en de onder 1 tot en met 3 tenlastegelegde en bewezenverklaarde feiten, onder aanhaling van artikel 495 van het Wetboek van Strafvordering (hierna: Sv), in één arrest beoordeeld. Het hof heeft hierover overwogen:</para>
+          <para>“Aan verdachte is één dagvaarding uitgebracht. De drie tenlastegelegde feiten zien op een periode waarin verdachte deels minderjarig en deels meerderjarig was. De rechtbank heeft twee vonnissen gewezen. Eén vonnis voor het minderjarige deel en één voor het meerderjarige deel. </para>
+          <para>De rechtbank heeft verdachte ten aanzien van het minderjarige deel van het bewezenverklaarde seksueel misbruik van zijn minderjarige zusje veroordeeld tot -kort gezegd- een jeugddetentie van één jaar met aftrek van het voorarrest. De rechtbank heeft bevolen dat de jeugddetentie wordt vervangen door een gevangenisstraf. </para>
+          <para>De rechtbank heeft verdachte ten aanzien van het meerderjarige deel van het bewezenverklaarde seksueel misbruik van zijn minderjarige zusje veroordeeld tot -kort gezegd- een gevangenisstraf van twee jaren met aftrek van het voorarrest en met oplegging van de maatregel van een contactverbod met [slachtoffer]. </para>
+          <para>(...)</para>
+          <para>Zoals uit de tenlastelegging blijkt, heeft een deel van de ontuchtige handelingen plaatsgevonden toen verdachte nog minderjarig was en een deel toen hij reeds meerderjarig was. Het vierde lid van artikel 495 van het Wetboek van Strafvordering biedt het hof, als jeugdstrafkamer, in een zaak als deze de mogelijkheid om kennis te nemen van feiten voor- en nadat een verdachte de leeftijd van 18 jaren heeft bereikt. Hiermee wordt beoogd mogelijk te maken dat een feitencomplex dat een periode omvat die begint voor het 18e levensjaar en eindigt na het 18e levensjaar als één feit ten laste te leggen. De tenlastegelegde periode behoeft zo niet in twee delen te worden geknipt en een zaak hoeft dan niet gesplitst te worden in een minderjarige en een meerderjarige (deel)zaak. Het hof dient dan conform lid 5 van hetzelfde artikel een keuze te maken omtrent het toepasselijke sanctiestelsel. Gelet op de toelichting bij de invoering van dit wetsartikel is de hoofdregel dat de berechting geschiedt volgens het sanctiestelsel van volwassenen, maar de rechter kan ervoor kiezen een straf of maatregel uit het strafrecht voor jeugdigen op te leggen. Het voorstel voorziet niet in de mogelijkheid te differentiëren naar het moment waarop deze feiten zijn begaan (MvT, Kamerstukken II 2012/13, 33498, 3, p. 55). Het wetsartikel en de toelichting daarbij bieden geen aanknopingspunten voor het standpunt dat dit alleen zou gelden voor zaken waarin het feitencomplex begint vanaf het 16e levensjaar en doorloopt tot na het bereiken van de leeftijd van 18 jaren. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gezien het belang van verdachte bij gelijktijdige berechting van alle ten laste gelegde feiten en de omstandigheid dat deze feiten met elkaar als het ware één feitencomplex vormen, brengt een doelmatige rechtspleging met zich dat het hof alle feiten – ook al zijn zij begaan voor de inwerkingtreding van de hiervoor genoemde wetswijziging – gelijktijdig behandelt en in één arrest opneemt, zoals in vergelijkbare zaken al eerder is gedaan. </para>
+          <para>Om die reden, maar ook omdat het hof anders dan de rechtbank tot één strafoplegging komt voor alle ten laste gelegde feiten, zal het hof de vonnissen waarvan beroep vernietigen en opnieuw rechtdoen, waarbij de bewijsoverwegingen van de rechtbank worden overgenomen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.5</nr>
+        <parablock>
+          <para>Het hof heeft ten laste van de verdachte bewezenverklaard dat hij:</para>
+          <para>“1. primair</para>
+          <para>hij op tijdstippen in de periode gelegen tussen 5 november 2003 tot en met 10 april 2007 te [plaats], met [slachtoffer], geboren op [geboortedatum] 1995, die toen de leeftijd van twaalf jaren nog niet had bereikt, meermalen, (telkens) een of meer handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, althans eenmaal (telkens)</para>
+          <para>- de borsten van die [slachtoffer] aangeraakt en</para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en</para>
+          <para>- zich laten aftrekken door die [slachtoffer] en</para>
+          <para>- zijn geslachtsdeel in de hand genomen en getoond aan die [slachtoffer] en</para>
+          <para>- ten overstaan van die [slachtoffer] heen en weer gaande bewegingen gemaakt met zijn hand over zijn geslachtsdeel en</para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht en</para>
+          <para>- zijn geslachtsdeel gehouden in de mond van die [slachtoffer];</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. primair</para>
+          <para>hij op tijdstippen in de periode gelegen tussen 11 april 2007 tot en met 10 april 2011 te [plaats] met [slachtoffer], geboren op [geboortedatum] 1995, die toen de leeftijd van zestien jaren nog niet had bereikt, buiten echt, een of meer ontuchtige handelingen heeft gepleegd die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, (telkens) ontuchtig </para>
+          <para>- de borsten en vagina van die [slachtoffer] aangeraakt en</para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en</para>
+          <para>- zich laten aftrekken door die [slachtoffer] en</para>
+          <para>- zijn geslachtsdeel in de hand genomen en getoond aan die [slachtoffer] en</para>
+          <para>- ten overstaan van die [slachtoffer] heen en weer gaande bewegingen gemaakt met zijn hand over zijn geslachtsdeel en</para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. </para>
+          <para>hij in de periode van 11 april 2011 tot en met 10 april 2013 te [plaats], meermalen, (telkens), door een andere feitelijkheid en bedreiging met een andere feitelijkheid [slachtoffer] heeft gedwongen tot het ondergaan van handelingen die mede bestonden uit het seksueel binnendringen van het lichaam van die [slachtoffer], hebbende verdachte meermalen, althans éénmaal (telkens)</para>
+          <para>- de borsten en vagina van die [slachtoffer] aangeraakt en</para>
+          <para>- zijn geslachtsdeel laten aanraken door die [slachtoffer] en</para>
+          <para>- zich laten aftrekken door die [slachtoffer] en</para>
+          <para>- zijn vinger(s) in de vagina van die [slachtoffer] gebracht en</para>
+          <para>- zijn geslachtsdeel gehouden in de mond van die [slachtoffer]; </para>
+          <para>en bestaande die andere feitelijkheid en die bedreiging met die andere feitelijkheid hierin dat verdachte een feitelijk overwicht op die [slachtoffer] heeft gehad (gezien de familiaire relatie als broer en zus met die [slachtoffer] en het leeftijdsverschil) en/of (aldus) voor die [slachtoffer] een dreigende situatie heeft doen ontstaan.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.6</nr>
+        <parablock>
+          <para>Het hof heeft de verdachte veroordeeld tot een gevangenisstraf van drie jaren voor de bewezenverklaarde feiten en daartoe onder meer overwogen:</para>
+          <para>“Het hof heeft bij de straftoemeting in het bijzonder in aanmerking genomen -en vindt daarin de redenen die tot de keuze van een onvoorwaardelijke vrijheidsstraf van de hierna aan te geven duur leiden- dat verdachte gedurende een periode van 10 jaar zijn vier jaar jongere zusje die toen het begon pas 8 jaar oud was, vele keren seksueel heeft misbruikt. Het misbruik door verdachte is door gegaan tot een leeftijd waarop hij al enkele jaren meerderjarig was en is gestopt omdat verdachte het huis is uitgezet.<?linebreak?>(...)</para>
+          <para>Ten slotte heeft het hof rekening gehouden met de oriëntatiepunten voor strafoplegging van het LOVS en daarbij gelet op de periode dat verdachte minderjarig was en de periode dat verdachte meerderjarig was. </para>
+          <para>(...)</para>
+          <para>Zoals aan het begin van dit arrest is overwogen, heeft het hof toepassing gegeven aan het bepaalde in het vierde lid van artikel 495 van het Wetboek van Strafvordering door de ten laste gelegde feiten niet te splitsen in een minderjarig en meerderjarig deel. Op grond van het vijfde lid van voornoemd artikel dient de rechter een keuze te maken omtrent het toepasselijke sanctiestelsel. Gelet op de toelichting bij de invoering van dit wetsartikel is de hoofdregel dat de berechting geschiedt volgens het sanctiestelsel van volwassenen. Het hof ziet, mede naar aanleiding van het advies van de reclassering, geen aanleiding daar in dit geval vanaf te wijken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ook al is er inmiddels een behoorlijke tijd verstreken sinds de feiten hebben plaatsgevonden, naar het oordeel van het hof kan niet met een andere straf worden volstaan dan een onvoorwaardelijke gevangenisstraf van drie jaren. Dat komt overeen met de totale duur van de twee straffen die de rechtbank heeft opgelegd en het hof zal die straf als één straf opleggen.”</para>
+          <para>
+            <emphasis role="italic">Juridisch kader</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>De volgende wettelijke bepalingen zijn van belang.</para>
+        <para>- Artikel 488 lid 2 Sv:</para>
+        <para>“De bepalingen van deze afdeling zijn van toepassing op personen die ten tijde van het begaan van het feit de leeftijd van achttien jaren nog niet hebben bereikt, voor zover deze Titel geen afwijkende bepalingen bevat.”</para>
+        <para>- Artikel 495 leden 4 en 5 Sv, dat is ingevoerd bij de Wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht, Stb. 2013, 485 (hierna: Wet adolescentenstrafrecht), zoals dat geldt sinds 1 april 2014:</para>
+        <para>“4. De kinderrechter is bevoegd kennis te nemen van een strafbaar feit of strafbare feiten die zijn begaan nadat de verdachte de leeftijd van 18 jaren heeft bereikt indien de vervolging van dat feit of deze feiten gelijktijdig plaatsvindt met de vervolging van verdachte ter zake van een strafbaar feit bedoeld in artikel 488, tweede lid. (....) </para>
+        <para>5. Bij toepassing van het vierde lid kan de rechter recht doen volgens de artikelen 77g tot en met 77gg van het Wetboek van Strafrecht indien hij daartoe grond vindt in de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.”</para>
+        <para>- De Wet adolescentenstrafrecht bevat in artikel V een bepaling van overgangsrecht die luidt:</para>
+        <para>“De bepalingen zoals zij na inwerkingtreding van deze wet komen te luiden, worden slechts toegepast met betrekking tot feiten gepleegd na inwerkingtreding van deze wet.”</para>
+        <para>- Artikel 77a van het Wetboek van Strafrecht (hierna: Sr):</para>
+        <para>“Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van twaalf jaren doch nog niet die van achttien jaren heeft bereikt, zijn de artikelen 9, eerste lid, 10 tot en met 22a, 24c, 37 tot en met 38i, 44 en 57 tot en met 62 niet van toepassing. In de plaats daarvan treden de bijzondere bepalingen vervat in de artikelen 77d tot en met 77gg.”</para>
+        <para>- Artikel 77b (oud) Sr:</para>
+        <para>“Ten aanzien van degene die ten tijde van het begaan van een strafbaar feit de leeftijd van zestien jaren doch nog niet die van achttien jaren heeft bereikt, kan de rechter de artikelen 77g tot en met 77gg buiten toepassing laten en recht doen overeenkomstig de bepalingen in de voorgaande titels vervat, indien hij daartoe grond vindt in de ernst van het begane feit, de persoonlijkheid van de dader of de omstandigheden waaronder het feit is begaan.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>- Artikel 77g lid 1 (oud) Sr:</para>
+        <para>“In plaats van de op een feit gestelde straffen worden de straffen en maatregelen opgelegd, in deze Titel voorzien.”</para>
+        <para>- Artikel 77h lid 1 Sr:</para>
+        <para>“De hoofdstraffen zijn:<?linebreak?>a. in geval van misdrijf: jeugddetentie, taakstraf of geldboete;</para>
+        <para>b. in geval van overtreding: taakstraf of geldboete.”</para>
+        <para>- Artikel 77i lid 1 Sr:</para>
+        <para>“De duur van de jeugddetentie is:</para>
+        <para>a. voor degene die ten tijde van het begaan van het misdrijf de leeftijd van zestien jaren nog niet had bereikt: ten minste een dag en ten hoogste twaalf maanden, en</para>
+        <para>b. overigens ten hoogste vierentwintig maanden.”</para>
+      </parablock>
+      <paragroup>
+        <nr>3.4.1</nr>
+        <parablock>
+          <para>De geschiedenis van de totstandkoming van de Wet adolescentenstrafrecht houdt onder meer in:</para>
+          <para>- de memorie van toelichting:</para>
+          <para>“Het voorgestelde adolescentenstrafrecht krijgt vorm binnen de grenzen die worden gesteld door het VN-Verdrag voor de Rechten van het Kind (hierna: IVRK) en de voorbehouden die daarbij door Nederland zijn gemaakt. Het IVRK verplicht tot de inrichting van een afzonderlijk stelsel voor jeugdstrafrecht en gaat daarbij uit van een leeftijdsgrens van 18 jaar (artikel 1 IVRK). Bij de inrichting van het stelsel dient rekening te worden houden met de leeftijd van het kind, met de wenselijkheid van het bevorderen van de herintegratie van het kind en de aanvaarding door het kind van een opbouwende rol in de samenleving (artikel 40 IVRK). Vrijheidsbeneming geldt daarbij als ultimum remedium en kan alleen voor een zo kort mogelijke duur worden toegepast (artikel 37 IVRK). Verder bevat dit artikel 37 IVRK waarborgen voor de vrijheidsbeneming van jeugdigen en het recht op bescherming tegen wrede straffen. </para>
+          <para>(...)</para>
+          <para>Een gevolg van de keuze om het adolescentenstrafrecht vorm te geven binnen de grenzen van het IVRK en de daarbij gemaakte voorbehouden is dat enkele van de maatregelen geen betrekking hebben op 15- tot 23-jarigen maar strikt genomen zien op 16- tot 23-jarigen. Ook in de adviezen naar aanleiding van het wetsvoorstel is dit geconstateerd. Het gaat hierbij om gevallen waarin de rechter met toepassing van het gewone strafrecht een vorm van vrijheidsbeneming overweegt ten aanzien van een jeugdige die ten tijde van plegen van een misdrijf de leeftijd van 16 of 17 heeft bereikt. Artikel 77b Sr voorziet al in deze mogelijkheid en het kabinet hecht ook aan het behoud daarvan.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Onderdeel C</para>
+          <para>Dit onderdeel ziet op de bevoegdheid van de kinderrechter om ook kennis te nemen van strafbare feiten die zijn begaan nadat de dader inmiddels 18 jaar oud is geworden. Het gaat om gevallen waarin feiten die voor en na de minderjarigheid zijn begaan, gezamenlijk worden berecht. Het onderdeel voert hiertoe wijzigingen door in artikel 495 Sv. De aanleiding voor deze wijzigingen is toegelicht in paragraaf 2.2 van de memorie van toelichting. Het vierde lid (nieuw) van artikel 495 Sv regelt dat de kinderrechter, of de meervoudige kamer waarvan kinderrechter deel uitmaakt, bevoegd is kennis te nemen van een strafbaar feit of strafbare feiten die zijn begaan nadat de verdachte de leeftijd van 18 jaren heeft bereikt. Het gaat hier dan om de situatie waarin de vervolging van dat feit of deze feiten gelijktijdig plaatsvindt met de vervolging van verdachte ter zake van een strafbaar feit dat tijdens de minderjarigheid is begaan. Hiermee wordt beoogd mogelijk te maken dat een feitencomplex dat een periode omvat die begint voor het 18de levensjaar en eindigt na het 18de levensjaar als één feit ten laste te leggen. Anders dan voorheen het geval was, behoeft de tenlastegelegde periode zo niet langer in twee delen te worden geknipt. Dit voorkomt bewijsproblemen. Bij bewezenverklaring kan met het wijzen van één vonnis worden volstaan. Een ander gevolg van het voorstel is dat de officier van justitie ook afzonderlijke feiten gevoegd bij de kinderrechter kan aanbrengen. Het kan hierbij bijvoorbeeld gaan om een veelpleger ten aanzien van wie de officier van justitie het wenselijk oordeelt dat de berechting van alle afzonderlijke begane strafbare feiten die zowel voor als na het 18de levensjaar zijn begaan, gezamenlijk aan de kinderrechter worden voorgelegd. Op grond van het bestaande artikel 259 Sv, gelezen in samenhang met het voorgestelde artikel 495, vierde lid, Sv kan de officier van justitie hiertoe het initiatief nemen. Zoals de Rvdr terecht constateert, heeft het voorgaande gevolgen voor de keuze van het toepasselijke sanctiestelsel. Het voorgestelde vijfde lid verduidelijkt dat de rechter hierin een keuze zal moeten maken. De hoofdregel is dat berechting geschiedt volgens het sanctiestelsel voor volwassenen, maar de rechter kan in de persoonlijkheid van de verdachte of de omstandigheden waaronder het feit is begaan, ervoor kiezen een straf of maatregel uit het strafrecht voor jeugdigen op te leggen. Anders dan de Rvdr heeft geadviseerd, voorziet het voorstel niet in de mogelijkheid ten aanzien van de verschillende strafbare feiten voor wat betreft de keuze van het sanctiestelsel te differentiëren naar het moment waarop deze feiten zijn begaan. Het wetsvoorstel beoogt immers juist gevolgen te verbinden aan de ontwikkelingsfase van de jongvolwassene. Met dit uitgangspunt is minder goed verenigbaar dat bij een gelijktijdige berechting van misdrijven ten aanzien van dezelfde persoon verschillende sanctiestelsels toepassing kunnen vinden. Ook in het voorgestelde zesde lid vindt dit uitgangpunt vertaling.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Artikel V </para>
+          <para>Artikel V verduidelijkt dat de wijzigingen waarmee het adolescentenstrafrecht wordt vormgegeven alleen toepassing zullen vinden in verband met feiten die na de inwerkingtreding van de wet zijn begaan.”</para>
+          <para>(Kamerstukken II 2012/13, 33498, nr. 3, p. 3, 54 tot en met 56.) </para>
+          <para>- de nota naar aanleiding van het verslag:</para>
+          <para>“Ook 15-jarigen zijn adolescenten in de zin van het wetsvoorstel. Ik merk dit op naar aanleiding van de vraag van de leden van de CDA-fractie die signaleerden dat in het wetsvoorstel ook over 16- jarigen wordt gesproken. Dit is juist. Het is een gevolg van de keuze van het kabinet om het adolescentenstrafrecht vorm te geven binnen de grenzen van het IVRK en de voorbehouden die Nederland daarbij heeft. Ik doel dan in het bijzonder op het voorbehoud bij artikel 37 IVRK. Dit maakt een berechting volgens het gewone strafrecht mogelijk van 16- en 17-jarigen. Hoewel de meeste wijzigingen in het jeugdstrafrecht ook betrekking hebben op 15-jarigen, is niet beoogd ook 15-jarigen voor een afdoening volgens het gewone strafrecht in aanmerking te laten komen. Als het op een dergelijke afdoening aankomt, past het dat van 16-jarigen wordt gesproken.”</para>
+          <para>(Kamerstukken II 2012/13, 33498, nr. 6, p. 12.)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2</nr>
+        <parablock>
+          <para>Uit deze wetsgeschiedenis komt naar voren dat de wetgever bij de invoering van de Wet adolescentenstrafrecht heeft beoogd het adolescentenstrafrecht vorm te geven binnen de grenzen die worden gesteld in het Internationaal Verdrag inzake de Rechten van het Kind en het voorbehoud dat Nederland heeft gemaakt bij artikel 37 van dat verdrag. Dat voorbehoud maakt toepassing van het volwassenenstrafrecht alleen mogelijk als het kind de leeftijd van zestien jaren heeft bereikt en aan de in de wet neergelegde criteria voor de toepassing van het volwassenenstrafrecht is voldaan.</para>
+          <para>
+            <emphasis role="italic">Het oordeel van de Hoge Raad</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Op grond van artikel 77a (oud) Sr geldt als hoofdregel dat op personen die ten tijde van het begaan van het strafbare feit nog niet de leeftijd van achttien jaren hebben bereikt het jeugdstrafrecht – dat niet voorziet in de mogelijkheid tot het opleggen van een gevangenisstraf – wordt toegepast. Artikel 77b (oud) Sr – dat voor zover hier van belang niet verschilt van de nu geldende tekst – vormt een uitzondering op deze hoofdregel en voorziet in de mogelijkheid om een verdachte te veroordelen overeenkomstig de bepalingen uit het volwassenenstrafrecht, als de rechter daarvoor aanleiding ziet in de daar genoemde gevallen. Deze bepaling is alleen van toepassing op personen die ten tijde van het begaan van het strafbare feit de leeftijd van zestien jaren, maar nog niet die van achttien jaren, hebben bereikt. Artikel 77b (oud) Sr voorziet niet in de mogelijkheid om een gevangenisstraf op te leggen voor een feit dat is begaan toen de verdachte de leeftijd van zestien jaren (nog) niet had bereikt, en ook andere bepalingen voorzien daarin niet. </para>
+      <paragroup>
+        <nr>3.6.1</nr>
+        <para>Uit de in het arrest van het hof vermelde geboortedatum van de verdachte, 5 november 1991, volgt dat de verdachte ten tijde van het begaan van het door het hof bewezenverklaarde feit 1 en gedeeltelijk ten tijde van het begaan van het bewezenverklaarde feit 2 de leeftijd van zestien jaren nog niet had bereikt. Het hof heeft desondanks geoordeeld dat ook ten aanzien van die feiten, met toepassing van het volwassenenstrafrecht, een gevangenisstraf kan worden opgelegd. Dat oordeel getuigt – gelet op wat onder 3.5 is overwogen – van een onjuiste rechtsopvatting.<?linebreak?>	Wat het hof, onder aanhaling van artikel 495 lid 4 Sv, heeft overwogen over de Wet adolescentenstrafrecht doet hieraan niet af. Gelet op het onder 3.3 weergegeven overgangsrecht is artikel 495 lid 4 Sv niet van toepassing op feiten die zijn gepleegd voor de inwerkingtreding van de Wet adolescentenstrafrecht op 1 april 2014. Opmerking verdient verder dat het vijfde lid van artikel 495 Sv niet van toepassing is op strafbare feiten die zijn begaan voordat de verdachte de leeftijd van zestien jaren had bereikt.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2</nr>
+        <para>Het cassatiemiddel is terecht voorgesteld.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.3</nr>
+        <parablock>
+          <para>Nu de verdachte alleen belang heeft bij cassatie voor zover aan hem met toepassing van het volwassenenstrafrecht een gevangenisstraf is opgelegd voor feiten die hij heeft begaan voordat hij de leeftijd van zestien jaren had bereikt, zal de Hoge Raad de uitspraak van het hof alleen vernietigen wat betreft de opgelegde gevangenisstraf en de zaak zelf afdoen. Omdat het hof, zoals volgt uit de onder 3.2.6 weergegeven overwegingen, een straf heeft willen opleggen die wat betreft de duur van vrijheidsontneming overeenkomt met de door de rechtbank opgelegde straf, zal de Hoge Raad daarbij aansluiten. </para>
+          <para>Bij de afdoening zal de Hoge Raad uitgaan van de door de rechtbank bevolen splitsing in een minderjarig en meerderjarig deel, zoals weergegeven onder 3.2.1. Nu het hof de strafoplegging in de kern heeft gebaseerd op dezelfde bewijsvoering en bewezenverklaring als de rechtbank, leent het arrest van het hof zich in zoverre voor een verbeterde lezing dat de Hoge Raad verstaat dat de bewezenverklaring in het arrest van het hof luidt overeenkomstig de bewezenverklaringen die zijn opgenomen in de vonnissen van de rechtbank, zoals weergegeven onder 3.2.2 en 3.2.3.</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Ambtshalve beoordeling van de uitspraak van het hof</title>
+    <para>Op de verdachte is, wat betreft het minderjarig deel, het strafrecht voor jeugdigen van toepassing. De Hoge Raad doet uitspraak nadat meer dan zestien maanden zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat in zoverre de redelijke termijn als bedoeld in 6 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden is overschreden. Dit moet leiden tot vermindering van de aan de verdachte op te leggen jeugddetentie van twaalf maanden.</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de opgelegde gevangenisstraf;</para>
+      <para>- legt aan de verdachte voor de bewezenverklaarde feiten zoals weergegeven onder 3.2.3, op een gevangenisstraf van twee jaren;</para>
+      <para>- legt aan de verdachte voor de bewezenverklaarde feiten zoals weergegeven onder 3.2.2, op een jeugddetentie van elf maanden en twee weken<emphasis role="strike-through">;</emphasis></para>
+      <para>- bepaalt dat de tijd, door de verdachte vóór de tenuitvoerlegging van deze uitspraak in verzekering doorgebracht, bij de tenuitvoerlegging van deze straffen in mindering zal worden gebracht;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren A.L.J. van Strien en C.N. Dalebout, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">18 februari 2025</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

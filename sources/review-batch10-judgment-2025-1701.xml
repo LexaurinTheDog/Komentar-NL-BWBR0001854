@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2025:1701</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-10-01T10:03:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-11-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-11-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">24/02211</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2025:915" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2025:915</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2024:3627" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2024:3627</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2025-0358</rdf:li>
+          <rdf:li>NJB 2025/2703</rdf:li>
+          <rdf:li>RvdW 2025/1251</rdf:li>
+          <rdf:li>FJR 2026/60.1</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:1701">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:1701</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-11-17T13:34:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-11-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2025:1701 Hoge Raad , 18-11-2025 / 24/02211</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2025:1701:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>OM-cassatie. Jeugdzaak. Ontucht met 15-jarig meisje door 17-jarige verdachte, art. 245 (oud) Sr. Strafmotivering (taakstraf, bestaande uit werkstraf van 80 uren, subsidiair 40 dagen jeugddetentie) en taakstrafverbod, art. 77ma Sr. Kon hof oordelen dat toepassing van art. 77ma Sr strijd oplevert met art. 37.b, 40.1 en 40.4 IVRK?</para>
+        <para>O.g.v. art. 77ma.1.a (oud) Sr geldt als hoofdregel dat taakstraf niet wordt opgelegd in geval van veroordeling voor misdrijf waarop naar wettelijke omschrijving gevangenisstraf van 6 jaren of meer is gesteld en dat ernstige inbreuk op lichamelijke integriteit van slachtoffer ten gevolge heeft gehad. Art. 77ma.2 Sr staat echter oplegging van taakstraf toe als naast taakstraf ook jeugddetentie, maatregel betreffende gedrag of maatregel van plaatsing in inrichting voor jeugdigen wordt opgelegd. Aan deze eis is, mede gelet op wetsgeschiedenis van art. 77ma Sr, ook voldaan als jeugddetentie dan wel maatregel van plaatsing in inrichting voor jeugdigen overeenkomstig art. 77x Sr voorwaardelijk wordt opgelegd. Art. 77ma.2 Sr staat er dus niet aan in weg dat rechter, door te kiezen voor combinatie van taakstraf met geheel voorwaardelijke jeugddetentie, tot strafoplegging komt die op zichzelf geen vrijheidsbeneming met zich brengt. Van die vrijheidsbeneming zal pas sprake kunnen zijn als veroordeelde aan deze voorwaardelijke jeugddetentie verbonden voorwaarde(n) niet naleeft. Daarbij zal niet-naleving van voorwaarde(n) alleen dan kunnen leiden tot vrijheidsbeneming als rechter daar o.g.v. art. 6:6:21 Sv (op vordering van OM) toe beslist. Bij beslissing op tul vordering kan rechter, gelet ook op de in art. 6:6:21.2 Sv genoemde mogelijkheid om i.p.v. tul van vrijheidsstraf te kiezen voor tul van taakstraf, maatwerk bieden. Dit mede in licht van het in art. 37.b IVRK geformuleerde uitgangspunt dat vrijheidsbeneming alleen wordt gehanteerd als uiterste maatregel en voor kortst mogelijke passende duur. Gelet hierop verzetten art. 37.b, 40.1 en 40.4 IVRK zich niet tegen toepassing van art. 77ma.1a (oud) en 77ma.2 Sr bij strafoplegging. In ’s hofs overwegingen ligt als zijn oordeel besloten dat toepassing van art. 77ma Sr in dit geval onverenigbaar is met art. 37.b, 40.1 en 40.4 IVRK. Dat oordeel getuigt van onjuiste rechtsopvatting.</para>
+        <para>Volgt (partiële) vernietiging en terugwijzing t.a.v. strafoplegging.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2025:1701:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>24/02211 J</para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>18 november 2025</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 28 mei 2024, nummer 21-004963-23, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 2002,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door het openbaar ministerie. Het heeft bij schriftuur een cassatiemiddel voorgesteld.</para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot vernietiging van de uitspraak van het hof, maar uitsluitend wat betreft de strafoplegging, en tot terugwijzing van de zaak naar het gerechtshof Arnhem-Leeuwarden, opdat de zaak ten aanzien daarvan opnieuw kan worden berecht en afgedaan.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Het cassatiemiddel klaagt over het oordeel van het hof dat artikel 77ma van het Wetboek van Strafrecht (hierna: Sr) in dit geval buiten toepassing moet worden gelaten wegens strijd met artikel 37, aanhef en onder b, en artikel 40 leden 1 en 4 van het Verdrag inzake de rechten van het kind (hierna: IVRK).</para>
+        <para>
+          <emphasis role="italic">Het oordeel van het hof</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft de verdachte voor “met iemand die de leeftijd van twaalf jaren maar nog niet die van zestien jaren heeft bereikt, buiten echt, ontuchtige handelingen plegen die bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam” veroordeeld tot een taakstraf, in de vorm van een werkstraf voor de duur van tachtig uren. Het hof heeft de opgelegde straf als volgt gemotiveerd:</para>
+        <para>“Het hof heeft de op te leggen straf bepaald op grond van de ernst van het feit en de omstandigheden waaronder deze is begaan en heeft tevens gelet op de persoon van verdachte. Het hof heeft daarbij in het bijzonder het volgende in beschouwing genomen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verdachte heeft zich schuldig gemaakt aan het plegen van ontucht met een destijds vijftienjarig slachtoffer. Verdachte had zich hiervan moeten onthouden, gelet op de jonge leeftijd van aangeefster. Met zijn handelen heeft verdachte inbreuk gemaakt op de lichamelijke integriteit van aangeefster. Het is een feit van algemene bekendheid dat dit soort feiten schade kan toebrengen aan de geestelijke gezondheid en de seksuele ontwikkeling van jeugdigen. Zoals blijkt uit haar slachtofferverklaring, ondervindt aangeefster daadwerkelijk nog altijd last als gevolg van dit strafbare feit. Het hof rekent verdachte dit aan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof heeft daarnaast acht geslagen op het uittreksel uit de justitiële documentatie van 15 april 2024 waaruit blijkt dat verdachte slechts een maal is beboet voor een totaal ander feit en dus niet eerder voor een soortgelijk feit met politie en justitie in aanraking is gekomen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ook heeft het hof acht geslagen op de rapportages die over verdachte zijn opgesteld. Uit de rapportage van de Raad voor de Kinderbescherming van 5 september 2023 blijkt dat verdachte, ondanks dat de zaak lang heeft stilgelegen, aan zijn toekomst heeft kunnen bouwen. Er is sprake van een positieve vrijetijdsbesteding en er komen geen psychosociale problemen naar voren. De Raad adviseert tot het opleggen van een werkstraf en is van mening dat een onvoorwaardelijke vrijheidsstraf geen meerwaarde heeft.</para>
+        <para>Ter terechtzitting van het hof heeft verdachte verklaard dat het goed met hem gaat. Hij heeft een vaste baan en sport veel.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof ziet redenen om verdachte geen onvoorwaardelijke jeugddetentie op te leggen. Daarbij weegt het hof mee dat aangeefster weliswaar vijftien jaar oud was, maar binnen enkele weken na het bewezenverklaarde zestien jaar is geworden. Daarnaast houdt het hof rekening met het feit dat de opsporing in deze zaak erg lang heeft stilgelegen en het bewezenverklaarde mede daardoor inmiddels vier jaar geleden heeft plaatsgevonden. Het hof zal volstaan met de oplegging van een taakstraf in de vorm van een werkstraf van tachtig uur. Die straf acht het hof passend, maar ook geboden gelet op de ernst van de normschending.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 77ma Sr bepaalt – voor zover hier van belang – dat niet kan worden volstaan met het opleggen van een taakstraf, maar dat daarnaast jeugddetentie moet worden opgelegd voor het bewezen verklaarde feit. Het hof overweegt dat het jeugdstrafrecht nu juist wordt gekenmerkt door de bijzondere positie die het inneemt binnen het Wetboek van Strafrecht, in het bijzonder door het pedagogisch karakter daarvan. Het doel van het jeugdstrafrecht is (her)opvoeding en resocialisatie. De artikelen 77g en 77h Sr bieden de rechter een scala aan straffen en maatregelen om dat doel in een strafzaak van een individuele verdachte te verwezenlijken. Het jeugdstrafrecht is steeds maatwerk, waarbij rekening moet worden gehouden met de situatie van de verdachte en de omstandigheden waaronder een strafbaar feit is begaan. Toepassing van artikel 77ma Sr kan strijd opleveren met het bepaalde in artikel 37 lid 1, aanhef en onder b en art. 40 lid 4 van het Verdrag in zake de Rechten van het Kind (IVRK). Volgens deze artikelen zijn Staten verplicht om vrijheidsbeneming als uiterste maatregel te hanteren en moeten zij ervoor zorgen dat de strafrechtelijke aanpak van minderjarigen hun welzijn niet schaadt en in de juiste verhouding staat tot zowel hun omstandigheden als het strafbare feit. In het geval van verdachte, zou artikel 77ma Sr verplichten tot het opleggen van een jeugddetentie naast een werkstraf aan verdachte. Op deze wijze is een werkstraf geen alternatief meer voor vrijheidsbeneming. Dat jeugddetentie ook voorwaardelijk kan worden opgelegd, maakt dat niet anders. Als, verdachte opnieuw een strafbaar feit zou plegen, is de tenuitvoerlegging van die voorwaardelijke jeugddetentie daar weliswaar een reactie op, maar blijft zij wel het directe gevolg van – en daarmee onlosmakelijk verbonden met – de oorspronkelijk opgelegde straf. Ook kan toepassing van artikel 77ma Sr strijd opleveren met artikel 40 lid 1 van het IVRK. Dat artikellid bepaalt dat Staten minderjarigen die worden verdacht van, vervolgd wegens of veroordeeld voor een strafbaar feit zo te behandelen dat dit hun herintegratie en opbouwende rol in de maatschappij bevordert. Dit alles overziend, is het hof van oordeel dat de hierna op te leggen werkstraf aan verdachte in deze strafzaak als enige juiste interventie uit het jeugdstrafrecht aan hem moet worden opgelegd. Die straf komt naar het oordeel van het hof tegemoet aan alle belangen waar het hof bij het bepalen van een straf in deze zaak rekening mee heeft te houden.”</para>
+        <para>
+          <emphasis role="italic">Juridisch kader</emphasis>
+        </para>
+      </parablock>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>De volgende verdragsrechtelijke en wettelijke bepalingen zijn van belang.</para>
+          <para>- Artikel 77ma (oud) Sr:</para>
+          <para>“1. Een taakstraf wordt niet opgelegd in geval van veroordeling voor:</para>
+          <para>a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad;</para>
+          <para>(...)</para>
+          <para>2. Van het eerste lid kan worden afgeweken indien naast de taakstraf, jeugddetentie, de maatregel betreffende het gedrag of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd.”</para>
+          <para>- Artikel 6:6:21 leden 1 en 2 van het Wetboek van Strafvordering (hierna: Sv): </para>
+          <para>“1. De rechter is bevoegd tot het op vordering van het openbaar ministerie bevelen van de tenuitvoerlegging van de voorwaardelijk niet ten uitvoer gelegde straf of maatregel, of een gedeelte daarvan, al of niet onder instandhouding of wijziging van de voorwaarden.</para>
+          <para>2. In plaats van het op grond van het eerste lid bevelen van de tenuitvoerlegging van een vrijheidsstraf, kan de rechter de tenuitvoerlegging van een taakstraf gelasten. Artikel 22b van het Wetboek van Strafrecht en de artikelen 6:1:15, 6:3:1 tot en met 6:3:6, 6:3:14 en 6:6:23 van dit wetboek zijn van overeenkomstige toepassing.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>- Artikel 94 van de Grondwet:</para>
+          <para>“Binnen het Koninkrijk geldende wettelijke voorschriften vinden geen toepassing, indien deze toepassing niet verenigbaar is met een ieder verbindende bepalingen van verdragen en van besluiten van volkenrechtelijke organisaties.”</para>
+          <para>- Artikel 37, aanhef en onder b, IVRK, in de Nederlandse vertaling:</para>
+          <para>“De Staten die partij zijn, waarborgen dat:</para>
+          <para>b. geen enkel kind op onwettige of willekeurige wijze van zijn of haar vrijheid wordt beroofd. De aanhouding, inhechtenisneming of gevangenneming van een kind geschiedt overeenkomstig de wet en wordt slechts gehanteerd als uiterste maatregel en voor de kortst mogelijke passende duur.”</para>
+          <para>- Artikel 40 leden 1 en 4 IVRK, in de Nederlandse vertaling:</para>
+          <para>“1. De Staten die partij zijn, erkennen het recht van ieder kind dat wordt verdacht van, vervolgd wegens of veroordeeld terzake van het begaan van een strafbaar feit, op een wijze van behandeling die geen afbreuk doet aan het gevoel van waardigheid en eigenwaarde van het kind, die de eerbied van het kind voor de rechten van de mens en de fundamentele vrijheden van anderen vergroot, en waarbij rekening wordt gehouden met de leeftijd van het kind en met de wenselijkheid van het bevorderen van de herintegratie van het kind en van de aanvaarding door het kind van een opbouwende rol in de samenleving.</para>
+          <para>4. Een verscheidenheid van regelingen, zoals rechterlijke bevelen voor zorg, begeleiding en toezicht; adviezen; jeugdreclassering; pleegzorg; programma's voor onderwijs en beroepsopleiding en andere alternatieven voor institutionele zorg dient beschikbaar te zijn om te verzekeren dat de handelwijze ten aanzien van kinderen hun welzijn niet schaadt en in de juiste verhouding staat zowel tot hun omstandigheden als tot het strafbare feit.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>Artikel 77ma Sr is ingevoerd bij de Wet van 27 november 2013 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de invoering van een adolescentenstrafrecht, Stb. 2013, 485 (hierna: Wet adolescentenstrafrecht). De geschiedenis van de totstandkoming van deze wet houdt onder meer in:</para>
+          <para>- de memorie van toelichting:</para>
+          <para>“4.3 De taakstraf </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>4.3.1</nr>
+        <parablock>
+          <para>Algemeen </para>
+          <para>Aan de taakstraf komt in het jeugdstrafrecht een bijzondere plaats toe. Het pedagogisch karakter van het jeugdstrafrecht komt in de uitvoering van deze straf tot uitdrukking. Ook het in het IVRK neergelegde uitgangspunt dat vrijheidsbeneming ultimum remedium is, vindt met de beschikbaarheid van de taakstraf vertaling. De taakstraf biedt de mogelijkheid om de gevolgen van het negatieve gedrag van de jeugdige inzichtelijk te maken. Met de taakstraf kan de rechter een norm laten inslijten zonder dat daarbij sprake hoeft te zijn van vrijheidsbeneming. Het kan voor de ontwikkeling van het normbesef ook nuttig zijn een taakstraf herhaaldelijk op te leggen.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2</nr>
+        <parablock>
+          <para>Beperking mogelijkheden opleggen taakstraf</para>
+          <para>(...) Het voorgestelde artikel 77ma Sr regelt dat niet enkel een taakstraf kan worden opgelegd bij een veroordeling voor een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld. Deze beperking geldt voor gevallen waarin dat misdrijf bovendien een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer heeft gevormd. (...) Het is in zijn algemeenheid niet aangewezen dat op deze misdrijven in de strafrechtspleging met alleen een taakstraf wordt gereageerd. Een taakstraf, zo luidt het voorgestelde artikel 77ma, tweede lid, Sr, kan daarbij wel worden opgelegd naast jeugddetentie, een GBM of een pij-maatregel. Op de vormgeving, de verschillen die daarbij bestaan met de regeling voor volwassenen en de gevolgen daarvan wordt hieronder nader ingegaan.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3</nr>
+        <parablock>
+          <para>Verschillen met de regeling voor volwassenen</para>
+          <para>De hier voorgestelde regeling verschilt op onderdelen van de regeling voor volwassenen. (...)</para>
+          <para>Een tweede verschil is dat in de regeling voor volwassenen bij de genoemde ernstige misdrijven een taakstraf kan worden opgelegd naast een onvoorwaardelijke vrijheidsstraf of vrijheidsbenemende maatregel (artikel 22a, derde lid, Sr). Voor jeugdigen is in dit verband in een ruimere regeling voorzien. De taakstraf kan hier ook worden opgelegd naast jeugddetentie of een pij-maatregel in de voorwaardelijke vorm. Ook kan de taakstraf worden gecombineerd met de GBM. Deze jeugdsancties hebben met elkaar gemeen dat in een verplicht kader (langdurige) behandelingen kunnen plaatsvinden. Van vrijheidsbeneming is slechts sprake wanneer de jeugdige zich niet aan de voorwaarden houdt of niet meewerkt aan het programma. De voorgestelde regeling is zo in lijn met in het IVRK neergelegde uitgangspunt dat vrijheidsbeneming slechts als uiterste maatregel wordt toegepast. Daarmee is minder goed verenigbaar dat vrijheidsbeneming als uitgangspunt wordt genomen, ook niet als onderdeel van een uitzondering op de hoofdregel die het opleggen van een taakstraf bij ernstige misdrijven uitsluit. Wanneer de taakstraf naast de genoemde kaders voor gedragsbeïnvloeding of behandeling wordt opgelegd, zal deze in de regel overigens bestaan uit een werkstraf. Gedragsinterventies gericht op educatie en op heropvoeding zullen dan deel uitmaken van de al dan niet voorwaardelijke jeugddetentie, pij-maatregel of GBM. </para>
+          <para>Tenslotte sluit artikel 22b Sr het opleggen van een taakstraf bij volwassenen uit in het geval van recidive. Het gaat dan om recidive voor een soortgelijk misdrijf, binnen vijf jaren na een eerdere veroordeling tot taakstraf. Kennelijk heeft het opleggen van deze taakstraf de recidive niet kunnen voorkomen. Van een nieuwe taakstraf hoeft dit resultaat dan ook niet te worden verwacht. Voor minderjarigen is een andere keuze gemaakt. Een recidiveregeling maakt van het voorgestelde artikel 77ma Sr geen deel uit. Reden hiervoor is dat minderjarigen, meer dan volwassenen, behoefte kunnen hebben aan herhaling van de straf, voordat een vollediger begrip ontstaat van de strafwaardigheid van het handelen. Daarvoor kan ook een meer praktische reden worden gegeven. Zoals hiervoor is aangegeven, kan de taakstraf bij jeugdigen ook bestaan uit een leerstraf. Denkbaar is dus dat bij eventuele recidive, de taakstraf een andere invulling zal hebben dan bij de eerste keer. Tenslotte wijs ik ook in dit verband op artikel 37, onderdeel b, van het IVRK. Ook wanneer een soortgelijk misdrijf opnieuw aanleiding geeft voor het opleggen van straf moet de wet voor het opleggen van straf aan minderjarigen ruimte te laten om opnieuw te bezien of vrijheidsbeneming kan worden voorkomen. In plaats daarvan kan met een andere sanctie(-combinatie) ook een adequate reactie op het misdrijf worden gegeven.”</para>
+          <para>(Kamerstukken II 2012/13, 33498, nr. 3, p. 26-28.)</para>
+          <para>- de nota naar aanleiding van het verslag:</para>
+          <para>“Het pedagogisch uitgangspunt van het jeugdstrafrecht maakt dat een taakstraf, ook in het geval dat een ernstig misdrijf hiervoor de aanleiding vormt, met andere jeugdsancties zal worden gecombineerd. Daarbij kan het ook gaan om voorwaardelijke opgelegde sancties. Concreet betekent dit dat wanneer de rechter voor een afdoening met een taakstraf kiest, daarnaast op zijn minst een voorwaardelijke jeugddetentie of een voorwaardelijke behandelmaatregel wordt opgelegd. Dit onderstreept dat vrijheidsbeneming ten aanzien van jeugdigen ultimum remedium is. In het geval dat een overtreding van de voorwaarden plaatsvindt, kan dan onmiddellijk alsnog de straf of behandeling een aanvang nemen. De beperking van de mogelijkheden tot het opleggen van een taakstraf is zo dus ontworpen met inachtneming van de mogelijkheden tot het bieden van rechterlijk maatwerk.”</para>
+          <para>(Kamerstukken II 2012/13, 33498, nr. 6, p. 27-28.)</para>
+          <para>- de memorie van antwoord:</para>
+          <para>“De leden van de SP-fractie vroegen aandacht voor de wijzigingen in de regeling voor het opleggen van de taakstraf. Zij vroegen om een nadere onderbouwing van de noodzaak van deze regeling, mede tegen de achtergrond van het rapport van Human Rights Watch over de recidive bij minderjarige zedendelinquenten. Met dit onderzoek ben ik bekend, zo beantwoord ik de vraag daarnaar van deze leden. Het is mij ook bekend dat de recidive bij (minderjarige) zedendelinquenten lager is dan bij andere delicten. Dit doet niet toe of af aan de redenen die voor dit onderdeel van het wetsvoorstel zijn gegeven. De leden hebben hiernaar in hun vraagstelling ook verwezen; er bestaat een parallel met de situatie die geldt voor volwassenen. De regeling tot inperking van de mogelijkheden tot het opleggen van een taakstraf in het jeugdstrafrecht deelt haar ratio met de regeling die voor volwassenen is getroffen. De regeling moet worden gezien tegen de achtergrond van de wens van deze regering om tot uitdrukking te brengen dat bij deze ernstige misdrijven, met het opleggen van enkel een taakstraf niet kan worden volstaan. Ook bij de berechting van jeugdigen geldt dit uitgangspunt. De taakstraf leent zich meer voor een afdoening van de lichtere delicten. De voorgestelde regeling brengt dit tot uitdrukking. Wel zijn in de vormgeving in dit wetsvoorstel enkele bijzondere accenten gelegd. Zo is de combinatie met voorwaardelijke vrijheidsbenemende sancties mogelijk gemaakt. Daarmee wordt in het voorstel met de jeugdigheid rekening gehouden. Ook brengt dat de voorgestelde regeling in overeenstemming met de verdragsrechtelijke verplichtingen die in dit verband gelden. Ik doel dan in het bijzonder op artikel 37 IVRK dat voorschrijft dat van vrijheidsontneming slechts in het uiterste geval sprake kan zijn. Van het verkleinen van de mogelijkheden tot het bieden van rechterlijk maatwerk is door de combinatiemogelijkheden met andere sancties geen sprake, zo merk ik op in antwoord op de vragen van deze leden. Daar komt nog bij dat bij de berechting van jongvolwassenen de mogelijkheden tot het bieden van rechterlijk maatwerk juist worden vergroot. Het alternatief voor hen is de toepassing van het gewone strafrecht. In dat geval kan bij deze ernstige misdrijven geen taakstraf worden opgelegd, tenzij deze met een geheel onvoorwaardelijke vrijheidsbenemende sanctie zou worden gecombineerd.”</para>
+          <para>(Kamerstukken I 2013/14, 33498, nr. C, p. 18-19.)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3</nr>
+        <parablock>
+          <para>Uit deze wetsgeschiedenis komt naar voren dat de wetgever bij de invoering van de Wet adolescentenstrafrecht heeft beoogd artikel 77ma Sr vorm te geven met inachtneming van de onder 2.3.1 genoemde bepalingen van het IVRK.</para>
+          <para>
+            <emphasis role="italic">Het oordeel van de Hoge Raad</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Op grond van artikel 77ma lid 1, aanhef en onder a, (oud) Sr – dat voor zover hier van belang niet verschilt van de nu geldende tekst – geldt als hoofdregel dat een taakstraf niet wordt opgelegd in geval van veroordeling voor een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaren of meer is gesteld en dat een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad. Artikel 77ma lid 2 Sr staat echter de oplegging van een taakstraf toe als naast de taakstraf ook jeugddetentie, de maatregel betreffende het gedrag of de maatregel van plaatsing in een inrichting voor jeugdigen wordt opgelegd. Aan deze eis is, mede gelet op de onder 2.3.2 weergegeven wetsgeschiedenis, ook voldaan als de jeugddetentie dan wel de maatregel van plaatsing in een inrichting voor jeugdigen overeenkomstig artikel 77x Sr voorwaardelijk wordt opgelegd. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>Artikel 77ma lid 2 Sr staat er dus niet aan in de weg dat de rechter, door te kiezen voor een combinatie van de taakstraf met een geheel voorwaardelijke jeugddetentie, tot een strafoplegging komt die op zichzelf geen vrijheidsbeneming met zich brengt. Van die vrijheidsbeneming zal pas sprake kunnen zijn als de veroordeelde de aan deze voorwaardelijke jeugddetentie verbonden voorwaarde(n) niet naleeft. Daarbij zal de niet-naleving van de voorwaarde(n) alleen dan kunnen leiden tot vrijheidsbeneming als de rechter daar op grond van artikel 6:6:21 Sv – op vordering van het openbaar ministerie – toe beslist. Bij de beslissing op de vordering tot tenuitvoerlegging kan de rechter, gelet ook op de in artikel 6:6:21 lid 2 Sv genoemde mogelijkheid om in plaats van de tenuitvoerlegging van een vrijheidsstraf te kiezen voor de tenuitvoerlegging van een taakstraf, maatwerk bieden. Dit mede in het licht van het in artikel 37, aanhef en onder b, IVRK geformuleerde uitgangspunt dat vrijheidsbeneming alleen wordt gehanteerd als uiterste maatregel en voor de kortst mogelijke passende duur. Gelet hierop verzetten artikel 37, aanhef en onder b, en artikel 40 leden 1 en 4 IVRK zich niet tegen de toepassing van artikel 77ma lid 1, aanhef en onder a, (oud) en lid 2 Sr bij de strafoplegging.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>In de overwegingen van het hof ligt als zijn oordeel besloten dat toepassing van artikel 77ma Sr in dit geval onverenigbaar is met artikel 37, aanhef en onder b, en artikel 40 leden 1 en 4 IVRK. Dat oordeel getuigt – gelet op wat onder 2.4 is overwogen – van een onjuiste rechtsopvatting.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het cassatiemiddel slaagt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de strafoplegging;</para>
+      <para>- wijst de zaak terug naar het gerechtshof Arnhem-Leeuwarden, opdat de zaak ten aanzien daarvan opnieuw wordt berecht en afgedaan;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren A.L.J. van Strien en T.B. Trotman, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">18 november 2025</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

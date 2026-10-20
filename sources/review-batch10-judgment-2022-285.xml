@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2022:285</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T11:19:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-02-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2022-02-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/05050</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#herziening">Herziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2022-0050</rdf:li>
+          <rdf:li>RvdW 2022/296</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:285">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:285</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-02-22T11:45:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-02-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2022:285 Hoge Raad , 22-02-2022 / 21/05050</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2022:285:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Herziening. Medeplegen diefstal met geweld, 312.2.2 Sr. 1. Aangevoerd wordt dat bewezenverklaring in hoger beroep in strafzaak medeverdachte niet is overeen te brengen met vonnis Pr in zaak van aanvrager. Art. 457.1.a Sv. 2. Aangevoerd wordt dat in zaak medeverdachte ttz. van hof camerabeelden van geweldsincident zijn getoond, terwijl in strafzaak van aanvrager Pr wel kennis heeft genomen van screenshots van camerabeelden maar geen camerabeelden op tz. zijn getoond, en dat aanvrager zou zijn vrijgesproken “van geweldselement”, als Pr in zijn zaak kennis had genomen van camerabeelden. Art. 457.1.c Sv.</para>
+        <para>Ad 1. Dat aanvrager in relatie tot wegnemen voorwerpen is veroordeeld voor diefstal in vereniging met geweld en medeverdachte in relatie tot hetzelfde voorval is veroordeeld voor diefstal in vereniging levert niet het in art. 457.1.a Sv bedoelde geval op dat bij verschillende uitspraken bewezenverklaringen zijn uitgesproken die niet zijn overeen te brengen.</para>
+        <para>Ad 2. Aangevoerde wekt niet ernstig vermoeden a.b.i. art. 457.1.c. Sv, alleen al omdat enkele stelling van aanvrager dat als Pr in zijn zaak niet alleen kennis had genomen van screenshots maar ook camerabeelden ttz. had doen afspelen, hij was gekomen tot vrijspraak van tlgd. geweldshandelingen en daarmee tot toepassing van een minder zware strafbepaling, te speculatief is om tot herziening te leiden.</para>
+        <para>Aanvraag is daarom kennelijk ongegrond. Afwijzing aanvraag.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2022:285:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	21/05050 H</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		22 februari 2022</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op een aanvraag tot herziening van een in kracht van gewijsde gegaan vonnis van de rechtbank Rotterdam van 4 augustus 2020, nummer 10-046147-20, ingediend door K. Renssen, advocaat te 's-Gravenhage, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>namens</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [aanvrager] , </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1999,</para>
+      <para>hierna: de aanvrager.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De uitspraak waarvan herziening is gevraagd</title>
+    <para>De politierechter heeft de aanvrager veroordeeld voor diefstal, gevolgd van geweld tegen personen, gepleegd met het oogmerk om bij betrapping op heterdaad, aan zichzelf of andere deelnemers van het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, terwijl het feit wordt gepleegd door twee of meer verenigde personen, tot een taakstraf van tweehonderd uren, subsidiair honderd dagen vervangende hechtenis.</para>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>De aanvraag tot herziening</title>
+    <para>	De aanvraag tot herziening is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de aanvraag</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De aanvraag berust op twee gronden. </para>
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>In de eerste plaats wordt aangevoerd dat de bewezenverklaring in hoger beroep in de strafzaak van de medeverdachte niet is overeen te brengen met het vonnis van de politierechter in de zaak van de aanvrager.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>Uit de stukken blijkt dat de aanvrager geen hoger beroep heeft ingesteld tegen het vonnis van de politierechter. De medeverdachte [betrokkene 1] , die voor hetzelfde feit is vervolgd en die wel hoger beroep heeft ingesteld, is door het gerechtshof Den Haag bij arrest van 4 november 2021 vrijgesproken van het tenlastegelegde geweld zoals bedoeld in artikel 312 van het Wetboek van Strafrecht (hierna: Sr), en is veroordeeld voor diefstal door twee of meer verenigde personen in de zin van artikel 311 lid 1, onder 4°, Sr. Het hof heeft daartoe het volgende overwogen:</para>
+          <para>“Partiële vrijspraak</para>
+          <para>Uit het onderzoek ter terechtzitting in hoger beroep heeft het hof onvoldoende de overtuiging bekomen dat de verdachte een gekwalificeerde diefstal in de zin van artikel 312 van het Wetboek van Strafrecht heeft gepleegd, nu het geweld dat jegens de aangevers is gebruikt naar het oordeel van het hof in een te ver verwijderd verband van de diefstal in de Jumbo staat. De verdachte dient derhalve van dit onderdeel van de tenlastelegging te worden vrijgesproken.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <para>Volgens artikel 457 lid 1, aanhef en onder a, van het Wetboek van Strafvordering (hierna: Sv) kan herziening plaatsvinden op grond van de omstandigheid dat bij verschillende arresten of vonnissen die onherroepelijk zijn geworden of bij verstek zijn gewezen, bewezenverklaringen zijn uitgesproken die niet overeen zijn te brengen. </para>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4</nr>
+        <para>Dat de aanvrager in relatie tot het wegnemen van voorwerpen in de Jumbo is veroordeeld voor – kort gezegd – diefstal in vereniging met geweld en de medeverdachte in relatie tot hetzelfde voorval is veroordeeld voor – kort gezegd –diefstal in vereniging levert niet het in artikel 457 lid 1, aanhef en onder a, Sv bedoelde geval op dat bij verschillende uitspraken bewezenverklaringen zijn uitgesproken die niet zijn overeen te brengen.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.1</nr>
+        <para>In de tweede plaats wordt aangevoerd dat in de zaak van de medeverdachte ter terechtzitting van het hof camerabeelden van het geweldsincident zijn getoond, terwijl in de strafzaak van de aanvrager de politierechter wel kennis heeft genomen van screenshots van camerabeelden maar er geen camerabeelden op de terechtzitting zijn getoond. De aanvrager voert aan dat als de politierechter in zijn zaak kennis had genomen van de vertoonde camerabeelden, hij partieel was vrijgesproken “van het geweldselement”.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <para>Als grondslag voor een herziening kan, voor zover hier van belang, volgens artikel 457 lid 1, aanhef en onder c, Sv alleen dienen een met stukken onderbouwd gegeven dat bij het onderzoek op de terechtzitting aan de rechter niet bekend was en dat het ernstige vermoeden wekt dat indien dit gegeven bekend zou zijn geweest, het onderzoek van de zaak zou hebben geleid hetzij tot een vrijspraak van de gewezen verdachte, hetzij tot een ontslag van alle rechtsvervolging, hetzij tot de niet-ontvankelijkverklaring van het openbaar ministerie, hetzij tot de toepassing van een minder zware strafbepaling.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <para>Het aangevoerde wekt niet een ernstig vermoeden als bedoeld in artikel 457 lid 1, aanhef en onder c, Sv, alleen al omdat de enkele stelling van de aanvrager dat als de politierechter in zijn zaak niet alleen kennis had genomen van de screenshots maar ook de camerabeelden ter terechtzitting had doen afspelen, hij was gekomen tot vrijspraak van de tenlastegelegde geweldshandelingen en daarmee tot toepassing van – dat wil zeggen: tot kwalificatie onder – een minder zware strafbepaling, te speculatief is om tot herziening te leiden. </para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>De aanvraag is, gelet op wat hiervoor is overwogen, kennelijk ongegrond.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad wijst de aanvraag tot herziening af.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren M.J. Borgers en C. Caminada, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">22 februari 2022</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
