@@ -151,7 +151,7 @@
     {
       "id": "a120",
       "source_reading": "Exacte verwijzingslijst 115/116, hun actuele kring staatshoofd, rechten 28 onder 1–4, leden 2–4 en duur/aanvang 31 gelezen.",
-      "finding": "Gecorrigeerd. Het hoofd van een bevriende staat vervangen niet door ieder regeringslid; eerdere onjuiste uitbreiding geschrapt. Facultatief reclasseringstoezicht bij ambtsontzetting uit 28 lid 4 toegevoegd. Geen algemene beroepsontzetting en geen kiesrecht zonder werkelijk opgelegde eenjaarstraf.",
+      "finding": "Gecorrigeerd. De bescherming van het hoofd van een bevriende staat is niet uitgebreid tot ieder regeringslid; eerdere onjuiste uitbreiding geschrapt. Facultatief reclasseringstoezicht bij ambtsontzetting uit 28 lid 4 toegevoegd. Geen algemene beroepsontzetting en geen kiesrecht zonder werkelijk opgelegde eenjaarstraf.",
       "disposition": "corrected",
       "internal_cross_references_checked": [
         "a28",
@@ -481,11 +481,26 @@
     "all20_quoted_texts_equal": true,
     "other_commentary_files_and_rendered_chapters_unchanged": true,
     "local_links_ok": true,
-    "local_links_checked": 704,
+    "local_links_checked": 707,
     "exact_repeated_long_paragraphs": 0,
     "full_build_ok": false,
     "out_of_scope_missing_commentaries": 492,
     "build_result": "build-batch16-result.json",
-    "prose_check": "sources/review-batch16-prose-check.json"
-  }
+    "prose_check": "sources/review-batch16-prose-check.json",
+    "strict_validator_ok": false,
+    "strict_validation_only_out_of_scope_missing_commentaries": true,
+    "validation_result": "validation-batch16.json"
+  },
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 468952,
+    "errors": [
+      "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_checked_at": "2026-10-20T19:20:26.653187+00:00"
 }

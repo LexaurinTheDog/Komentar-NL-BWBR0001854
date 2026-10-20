@@ -108,7 +108,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 467619,
+    "commentary_chars": 468952,
     "errors": [
       "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
     ],
@@ -131,10 +131,10 @@
     "Technical length, link and repetition checks do not prove legal quality.",
     "320 existing commentaries underwent sixteen bounded second-pass reviews; 492 code units still lack commentary."
   ],
-  "updated_at": "2026-10-20T19:17:09.650475+00:00",
+  "updated_at": "2026-10-20T19:20:26.653187+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T18:33:26.474782+00:00",
+    "verified_at": "2026-10-20T19:20:26.653187+00:00",
     "report": "preflight-result.json",
     "decisive_date_preserved": "2026-10-19",
     "official_manifest_states_checked": 126,
@@ -144,11 +144,11 @@
     ],
     "new_commentary_units": 0,
     "unresolved_blockers": [],
-    "strict_validation_scope": "Full unchanged validator, 100% statutory agreement. 532 absent commentaries outside assignment prevent book-wide success.",
+    "strict_validation_scope": "Full unchanged validator: 100% statutory agreement. Only492 absent commentaries outside this assigned review prevent book-wide success.",
     "bounded_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T19:10:17.768834+00:00",
+  "validation_checked_at": "2026-10-20T19:20:26.653187+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -196,12 +196,15 @@
       "all20_quoted_texts_equal": true,
       "other_commentary_files_and_rendered_chapters_unchanged": true,
       "local_links_ok": true,
-      "local_links_checked": 704,
+      "local_links_checked": 707,
       "exact_repeated_long_paragraphs": 0,
       "full_build_ok": false,
       "out_of_scope_missing_commentaries": 492,
       "build_result": "build-batch16-result.json",
-      "prose_check": "sources/review-batch16-prose-check.json"
+      "prose_check": "sources/review-batch16-prose-check.json",
+      "strict_validator_ok": false,
+      "strict_validation_only_out_of_scope_missing_commentaries": true,
+      "validation_result": "validation-batch16.json"
     }
   },
   "prior_bounded_reviews": [
@@ -918,7 +921,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 467619,
+    "commentary_chars": 468952,
     "errors": [
       "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
     ],
