@@ -1,0 +1,41 @@
+{
+  "reviewed_at": "2026-10-20T22:52:33.774636+00:00",
+  "checks": [
+    {
+      "unit": "a213",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2019-1927.xml",
+      "sha256": "fc9cea69e854283c680f0ad7df5ed9683bb3ccfc2b205c1e74c7fef8709f194a",
+      "full_text_reviewed": true,
+      "paragraphs": "2.1–2.4; 3",
+      "card": "authorities/author-a208-a227-HR-2019-1927.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a213",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2024-1349.xml",
+      "sha256": "66492ed1a3c8db6fe637c6af43020e078870b476b61df9b09bde00d047f104fe",
+      "full_text_reviewed": true,
+      "paragraphs": "1–4",
+      "card": "authorities/author-a208-a227-HR-2024-1349.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a227",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2000-AA6000.xml",
+      "sha256": "36bbfe3b34050f5dab77a489e7e85e605304d1aee48d4343d74e72839c31b359",
+      "full_text_reviewed": true,
+      "paragraphs": "1–5; afzonderlijk gepubliceerde conclusie 1–24",
+      "card": "authorities/author-a208-a227-HR-2000-AA6000.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    }
+  ],
+  "search_log": "authorities/author-a208-a227-search-log.json",
+  "local_corpus_evidence": "authorities/author-a208-a227-local-corpus.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "prior_body_comparison": "sources/author-a208-a227-historical-change-map.json",
+    "prior_body_comparison_reviewed": true
+  },
+  "method": "Three retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed."
+}

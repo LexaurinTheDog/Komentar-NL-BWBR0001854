@@ -1,5 +1,23 @@
 {
   "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:51:54.932844+00:00",
+  "version_evidence": "sources/review-batch24-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "prior_body_comparison": "sources/author-a208-a227-historical-change-map.json",
+    "prior_body_comparison_reviewed": true
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch24-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
   "scope": [
     "a208",
     "a209",
@@ -22,25 +40,6 @@
     "a226",
     "a227"
   ],
-  "decisive_date": "2026-10-19",
-  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T22:45:41.821770+00:00",
-  "version_evidence": "sources/author-a208-a227-version-evidence.json",
-  "historical_versions_checked": {
-    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
-    "expressions": 126
-  },
-  "historical_change_map": "sources/author-a208-a227-historical-change-map.json",
-  "annexes_checked": [
-    {
-      "status": "verified_absence",
-      "evidence_path": "sources/author-a208-a227-effective.xml",
-      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
-    }
-  ],
-  "coverage": "sources/author-a208-a227-coverage.json",
-  "unresolved_blockers": [],
-  "limitations": [
-    "wetten.overheid.nl page fetch results recorded separately; official BWB XML/manifest/WTI are decisive source evidence."
-  ]
+  "coverage": "sources/review-batch24-coverage.json",
+  "html_entry_point": "sources/review-batch24-html-fetch.json"
 }
