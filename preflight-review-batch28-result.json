@@ -1,0 +1,68 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T23:26:07.741568+00:00",
+  "version_evidence": "sources/review-batch28-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "change_map": "sources/author-a273f-a285b-historical-change-map.json",
+    "historical_bodies_checked": true,
+    "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "reviewed_change_map_ids": [
+      "a273f",
+      "a273g",
+      "a274",
+      "a275",
+      "a276",
+      "a277",
+      "a278",
+      "a279",
+      "a280",
+      "a281",
+      "a282",
+      "a282a",
+      "a282b",
+      "a282c",
+      "a283",
+      "a284",
+      "a284a",
+      "a285",
+      "a285a",
+      "a285b"
+    ]
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch28-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "scope": [
+    "a273f",
+    "a273g",
+    "a274",
+    "a275",
+    "a276",
+    "a277",
+    "a278",
+    "a279",
+    "a280",
+    "a281",
+    "a282",
+    "a282a",
+    "a282b",
+    "a282c",
+    "a283",
+    "a284",
+    "a284a",
+    "a285",
+    "a285a",
+    "a285b"
+  ],
+  "coverage": "sources/review-batch28-coverage.json",
+  "html_entry_point": "sources/review-batch28-html-fetch.json"
+}

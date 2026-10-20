@@ -1,0 +1,59 @@
+{
+  "reviewed_at": "2026-10-20T23:27:04.459963+00:00",
+  "checks": [
+    {
+      "units": [
+        "a273f"
+      ],
+      "path": "authorities/author-a273f-a285b-ECLI-NL-HR-2009-BI7099.xml",
+      "sha256": "a637280174fb0bc9ac50f5923853ebefc7a2c59d8bf705386e7c877d159c69f4",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 2.5.1–2.6.2",
+      "card": "authorities/author-a273f-a285b-HR-2009-BI7099.md",
+      "limits": "Published full judgments only; submissions and underlying files not obtained. Historical article273a distinguished from current273f; retained elements only. No exhaustive subsequent-treatment audit."
+    },
+    {
+      "units": [
+        "a285b"
+      ],
+      "path": "authorities/author-a273f-a285b-ECLI-NL-HR-2013-BZ3626.xml",
+      "sha256": "0201c1eedf69c90487f7079e3b8f648a637647623ee7d9a235f076b8cd49413f",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 2.3–2.4",
+      "card": "authorities/author-a273f-a285b-HR-2013-BZ3626.md",
+      "limits": "Published full judgments only; submissions and underlying files not obtained. Historical article273a distinguished from current273f; retained elements only. No exhaustive subsequent-treatment audit."
+    }
+  ],
+  "search_log": "authorities/author-a273f-a285b-search-log.json",
+  "local_corpus_evidence": "authorities/author-a273f-a285b-local-corpus.json",
+  "historical_comparison": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "change_map": "sources/author-a273f-a285b-historical-change-map.json",
+    "historical_bodies_checked": true,
+    "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "reviewed_change_map_ids": [
+      "a273f",
+      "a273g",
+      "a274",
+      "a275",
+      "a276",
+      "a277",
+      "a278",
+      "a279",
+      "a280",
+      "a281",
+      "a282",
+      "a282a",
+      "a282b",
+      "a282c",
+      "a283",
+      "a284",
+      "a284a",
+      "a285",
+      "a285a",
+      "a285b"
+    ]
+  },
+  "method": "Two existing primary full texts and cards independently reread. Prior selective search evidence inspected; no claim of new exhaustive research."
+}
