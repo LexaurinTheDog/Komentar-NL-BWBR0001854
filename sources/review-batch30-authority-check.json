@@ -1,0 +1,55 @@
+{
+  "reviewed_at": "2026-10-20T23:47:11.766506+00:00",
+  "checks": [
+    {
+      "units": [
+        "a310",
+        "a312"
+      ],
+      "path": "authorities/author-a303-a318-ECLI-NL-HR-2012-BQ9251.xml",
+      "sha256": "7fa51b8125c563cd011815f9c47838dbf0cdb81841a12d7a0360e45966b23687",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 3.3.2–3.7,5–7",
+      "card": "authorities/author-a303-a318-HR-2012-BQ9251.md",
+      "limits": "Published full judgment reread, allegations and lower-court quotations distinguished from HR findings. Case cards accurately delimit holding. No underlying case file or exhaustive subsequent-treatment audit."
+    },
+    {
+      "units": [
+        "a303",
+        "a306",
+        "a308",
+        "a312"
+      ],
+      "path": "authorities/author-a303-a318-ECLI-NL-HR-2018-1051.xml",
+      "sha256": "143d26994f6868ba961aabafde8fb7dc114b1c1ed0ea31cfdf7e85a03807b29b",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 2.1–2.8,3.3–3.4,6",
+      "card": "authorities/author-a303-a318-HR-2018-1051.md",
+      "limits": "Published full judgment reread, allegations and lower-court quotations distinguished from HR findings. Case cards accurately delimit holding. No underlying case file or exhaustive subsequent-treatment audit."
+    }
+  ],
+  "search_log": "authorities/author-a303-a318-search-log.json",
+  "local_corpus_evidence": "authorities/author-a303-a318-local-corpus.json",
+  "historical_case_statutes": [
+    {
+      "path": "sources/author-a303-a318-historical-2012-01-01_0.xml",
+      "sha256": "0db77135126634ef4e1c53f3729d8526f091d48dda72ec774515d8d4e4a8287f",
+      "version": "2012-01-01_0",
+      "checked_ids": [
+        "a310",
+        "a312"
+      ]
+    },
+    {
+      "path": "sources/author-a303-a318-historical-2018-07-01_0.xml",
+      "sha256": "6f46a88797704aa15b6f6345ed1b820d37212608388fdf511a59df73f2188cca",
+      "version": "2018-07-01_0",
+      "checked_ids": [
+        "a82",
+        "a308",
+        "a312"
+      ]
+    }
+  ],
+  "method": "Two existing full primary judgments and case cards reread. Existing selective search evidence inspected; no new exhaustive research claimed."
+}

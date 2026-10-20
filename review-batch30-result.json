@@ -1,0 +1,237 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a303",
+    "a304",
+    "a304a",
+    "a304b",
+    "a304c",
+    "a305",
+    "a306",
+    "a306a",
+    "a307",
+    "a308",
+    "a309",
+    "a310",
+    "a311",
+    "a312",
+    "a313",
+    "a314",
+    "a315",
+    "a316",
+    "a317",
+    "a318"
+  ],
+  "unresolved_blockers": [],
+  "verified_at": "2026-10-20T23:47:11.766506+00:00",
+  "source_preflight": "preflight-review-batch30-result.json",
+  "findings": [
+    {
+      "id": "a303",
+      "reviewed": true,
+      "finding": "Opzet zwaar letsel en voorbedachte raad afzonderlijk, twaalf/vijftienjaar en dood als causaal gevolg tegenover doodsopzet gecontroleerd; voorbeeld draagt beide subjectieve elementen.",
+      "changed": false,
+      "source_text_sha256": "92ab892e0805d7267cfa0c43e10eba14a7ec202b6aba1d793fdfd5d5a6c0a915",
+      "commentary_before_sha256": "579f9f6017b3dedefae089ac0cae786a4e3aa2ef9c48b784042ade326eff8c6c",
+      "commentary_after_sha256": "579f9f6017b3dedefae089ac0cae786a4e3aa2ef9c48b784042ade326eff8c6c"
+    },
+    {
+      "id": "a304",
+      "reviewed": true,
+      "finding": "Alle vier omstandigheden en lid2 gelezen; geen boeteverhoging of verplichte concrete strafverhoging. Schadelijkheid voor gezondheid gepreciseerd: levensgevaar geen extra vereiste.",
+      "changed": true,
+      "source_text_sha256": "e390eb8da3dee3f88ad303236de20df77c92ecb5109d9aec7f6973896963864a",
+      "commentary_before_sha256": "607ae244f6f8eadc1059573fae9fdaf4858af5a6b67a996436bfd70d6b3e651b",
+      "commentary_after_sha256": "1e261e0b65c0a879be9296d79f26482b8da25dcdcd78a1a309517d31bff94e39"
+    },
+    {
+      "id": "a304a",
+      "reviewed": true,
+      "finding": "Terroristisch oogmerk83a, alleen302/303, helftverhoging en vijftienjaarvariant naar levenslang/dertigjaar gelezen; geen verplichte concrete maximumstraf gesuggereerd.",
+      "changed": false,
+      "source_text_sha256": "afe71b5ab642a3ef65e6c19fdf3bf1de9ab1ef4835a50a6cbc8278dbdd80b21e",
+      "commentary_before_sha256": "29b2ffc409975edf2069ff1f6425d43c8c635746661c2c7e41c1db82c5033b57",
+      "commentary_after_sha256": "29b2ffc409975edf2069ff1f6425d43c8c635746661c2c7e41c1db82c5033b57"
+    },
+    {
+      "id": "a304b",
+      "reviewed": true,
+      "finding": "Samenspanning80 tot303 met terroristisch oogmerk en tienjaar/vijfdecategorie gecontroleerd. Alle vijf gedragingen uit96lid2 naast overeenkomst onderscheiden.",
+      "changed": false,
+      "source_text_sha256": "a1cc39766c4b7723b22c21be83c6b7271437678600935557aa68495426f76b95",
+      "commentary_before_sha256": "0cfd2b2577a5e809189a528f28a191cb5d89c4b68c0993f01571ec299ec90e97",
+      "commentary_after_sha256": "0cfd2b2577a5e809189a528f28a191cb5d89c4b68c0993f01571ec299ec90e97"
+    },
+    {
+      "id": "a304c",
+      "reviewed": true,
+      "finding": "Kiesrechtontzetting, beperkte delictenreeks en éénjaardrempel28lid3 gecontroleerd; duur31 en facultatieve toepassing correct.",
+      "changed": false,
+      "source_text_sha256": "31567e14b964f845c2b2220fcbe58ef84fb1d1d792328f9dd726dec00b25ebbc",
+      "commentary_before_sha256": "a0132e42ea963e3c35d6b33a9288f65850f9a95d23b6a9270910e90f2a24edcb",
+      "commentary_after_sha256": "a0132e42ea963e3c35d6b33a9288f65850f9a95d23b6a9270910e90f2a24edcb"
+    },
+    {
+      "id": "a305",
+      "reviewed": true,
+      "finding": "Lid1 alleen301/303 tegenover lid2 met301–303 en beroepsverband gecontroleerd; exacte rechten28lid1onder1/2/4 en voorbeeld zorgverlener gelezen.",
+      "changed": false,
+      "source_text_sha256": "3a630f91859bfded7b42be67dd5b0e36e439cbbb1c8788ad538047f8bc88c1dd",
+      "commentary_before_sha256": "534ea6da6395d527527c6cbe283808fd9f8674ddc0d8c9e0034260e77edd6df7",
+      "commentary_after_sha256": "534ea6da6395d527527c6cbe283808fd9f8674ddc0d8c9e0034260e77edd6df7"
+    },
+    {
+      "id": "a306",
+      "reviewed": true,
+      "finding": "Opzettelijke individuele deelname, groepsgevolg zwaar letsel/dood, maxima2/3jaar en eigen verantwoordelijkheid voor bijzondere feiten gecontroleerd. Toeschouwer/hulpverlener onderscheiden.",
+      "changed": false,
+      "source_text_sha256": "d8351746ca00e9f422368662fe743a36a564fd36adf922e69f468f77a7a1ef24",
+      "commentary_before_sha256": "1da5de010fb6f01ae44a58b888537e832186f2e157b21d20c6031a7ef9c81a40",
+      "commentary_after_sha256": "1da5de010fb6f01ae44a58b888537e832186f2e157b21d20c6031a7ef9c81a40"
+    },
+    {
+      "id": "a306a",
+      "reviewed": true,
+      "finding": "Aanhitsen dier tegen mens of dier, geen letselvereiste en éénjaar/derdecategorie gelezen; enkel ontsnappen is geen aanhitsen. Titelchecklist gelezen.",
+      "changed": false,
+      "source_text_sha256": "4720997fbe8a8d3ebf566280d449cb9379f372482d78da20b1867f9f1ae552cc",
+      "commentary_before_sha256": "ff6c717e759ecb934e00b7ecbc0a54a086629c571e821364e63e101751cbba98",
+      "commentary_after_sha256": "ff6c717e759ecb934e00b7ecbc0a54a086629c571e821364e63e101751cbba98"
+    },
+    {
+      "id": "a307",
+      "reviewed": true,
+      "finding": "Schuld, causaliteit, geen aansprakelijkheid enkel uit gevolg en roekeloosheid tegenover opzet gelezen. Vierjaarmaximum en ongewijzigde vierde boetecategorie expliciet toegevoegd.",
+      "changed": true,
+      "source_text_sha256": "d1ca88b8f8b0a921c9b133a126dc607308728c99acfef4311ed51b60fb35686f",
+      "commentary_before_sha256": "27dbb00bd5fdca1c530b5f7d305ddc3632b12c888d6c8a2adcb9097bef60a1d2",
+      "commentary_after_sha256": "62487760d568ac359477cf5b3af5a71ddd2d7701a19a0a69ed461321c1c88834"
+    },
+    {
+      "id": "a308",
+      "reviewed": true,
+      "finding": "Beide gevolgvarianten, schuld/roekeloosheid en maxima1/2jaar gelezen. Volledig HR2018:1051 ondersteunt uitsluitend letselbeoordeling, geen bewijs van schuld. Interpunctie bij link gecorrigeerd.",
+      "changed": true,
+      "source_text_sha256": "021e53fd0b270eb8ab2be02b85e08c79e2bba753ddbbefd9256e6a53963439ac",
+      "commentary_before_sha256": "2d5a92bf82c36fe221b5121b3ff7932cf5b58aebcca7af7a505314e281c59111",
+      "commentary_after_sha256": "400747097a0dad5d21f270f0fcbf028e9db1d87a495edbcab0bff3dcab6bac43"
+    },
+    {
+      "id": "a309",
+      "reviewed": true,
+      "finding": "Functioneel ambts-/beroepsverband, facultatieve derdeverhoging gevangenisstraf, beroepsontzetting en openbaarmaking gelezen; geen boeteverhoging aangenomen. Titelchecklist gelezen.",
+      "changed": false,
+      "source_text_sha256": "29b881aa103d0b49de247fa0653c6c3e566ba003d3f9090ec303848973b5fa2e",
+      "commentary_before_sha256": "88e8f2bc3315818f8108f1de46a9465a0b7d07810ec6586167176a08f6aaf6f5",
+      "commentary_after_sha256": "88e8f2bc3315818f8108f1de46a9465a0b7d07810ec6586167176a08f6aaf6f5"
+    },
+    {
+      "id": "a310",
+      "reviewed": true,
+      "finding": "Goed, geheel/deels ander, wegnemen en toe-eigeningsoogmerk gecontroleerd.321-verduistering onderscheiden; volledig HR2012:BQ9251 en grenzen digitale goederen herlezen.",
+      "changed": false,
+      "source_text_sha256": "1cfa8363e925ef62ccb261716bad00ad6c589e5450f7be3c1761ec22158b9b87",
+      "commentary_before_sha256": "6c85a4539244781f243c1c754fd67f33887ca51470d5c2b9a4fceffb969d81ab",
+      "commentary_after_sha256": "6c85a4539244781f243c1c754fd67f33887ca51470d5c2b9a4fceffb969d81ab"
+    },
+    {
+      "id": "a311",
+      "reviewed": true,
+      "finding": "Alle zes omstandigheden, actuele woningregel zonder nachtvereiste, uitgebreide bedrogmiddelen en combinatie lid2 gecontroleerd. Geen historische lijst overgenomen of afgifte automatisch als wegnemen behandeld.",
+      "changed": false,
+      "source_text_sha256": "5d362eb8ce698c0e2ee8dae9ec85daeb4675183757dc1cd4af219c9d161037d5",
+      "commentary_before_sha256": "e95b990989d14a0cb85ed907c695bf1fab13e7fc32147c58ecada1f09af38871",
+      "commentary_after_sha256": "e95b990989d14a0cb85ed907c695bf1fab13e7fc32147c58ecada1f09af38871"
+    },
+    {
+      "id": "a312",
+      "reviewed": true,
+      "finding": "Persoonsgeweld, temporeel en functioneel verband, heterdaad, alle lid2-routes en lid3 gelezen. Terroristisch voorbereidings-/vergemakkelijkingsoogmerk onderscheiden van83a om verkeerde zwaardere bewijsdrempel te voorkomen.",
+      "changed": true,
+      "source_text_sha256": "b2af0a1168768485fb056a8e143d101a3bc3e27ed282c27042d31ebefd2e123a",
+      "commentary_before_sha256": "b610e56d4bfec4c4e48ed47279d23716c7f30b9d793eb7a5def9fae02fea504b",
+      "commentary_after_sha256": "6d34d9ca864ec95bdf18a49b6447d418e29d251c213e660d8b846811006641ab"
+    },
+    {
+      "id": "a313",
+      "reviewed": true,
+      "finding": "Facultatieve rechtenontzetting bij diefstal, exacte28-categorieën, geen kiesrecht of algemene beroepsontzetting en duur31 gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "e032184eab24e502c1c1976da1639fefbb2d9e2d04c6077e4dae4fd1dae07142",
+      "commentary_before_sha256": "0df2fce8405b8b97fc27a788ed4f57c3a1ab65096cfbe79befa60c948cde11c0",
+      "commentary_after_sha256": "0df2fce8405b8b97fc27a788ed4f57c3a1ab65096cfbe79befa60c948cde11c0"
+    },
+    {
+      "id": "a314",
+      "reviewed": true,
+      "finding": "Limitatieve natuurlijke voorwerpen, toestand hout/vruchten, geen persoonsgeweld, toe-eigeningsoogmerk en recidive binnen tweejaar vanaf onherroepelijkheid gecontroleerd; maxima1/2maand correct.",
+      "changed": false,
+      "source_text_sha256": "26a2756b5cb386dbd6d7f58330217229a2e407b8cc2be0c4f8dbf2670f2dcdbc",
+      "commentary_before_sha256": "eb408ddca0dd89f09d7676bee782dd1e97e7d34f24dc39e70d11cd90a9020a34",
+      "commentary_after_sha256": "eb408ddca0dd89f09d7676bee782dd1e97e7d34f24dc39e70d11cd90a9020a34"
+    },
+    {
+      "id": "a315",
+      "reviewed": true,
+      "finding": "Hulpmiddelen met functioneel verband, verwijzing311lid1onder2–5 zonder1/6 of automatisch lid2, driejaar/vierdecategorie en beperkte rechtenontzetting gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "3e5b2fa593140058894a078857b3f3d43226b5b6ec2635acdad5524c13fb41ac",
+      "commentary_before_sha256": "0482ebe980bce3626df94988bc89905595a83c7f910cad803f6f016ed1dd7202",
+      "commentary_after_sha256": "0482ebe980bce3626df94988bc89905595a83c7f910cad803f6f016ed1dd7202"
+    },
+    {
+      "id": "a316",
+      "reviewed": true,
+      "finding": "Persoonlijk vervolgingsbeletsel tegenover klacht, scheiding en graden verwantschap gelezen. Geregistreerde partner via90octies toegevoegd; driemaandentermijn66 en bijzonder beginpunt identiteit expliciet gemaakt. Titelchecklist gelezen.",
+      "changed": true,
+      "source_text_sha256": "c54e34e143e771a0f02b328026c849afcf20ad9aec7ed63ed21f6131d6599f78",
+      "commentary_before_sha256": "cf2da284197253468198a56ac477d27f712f58eda697d79f89d03b88aa9b7b26",
+      "commentary_after_sha256": "815f43d07ebb7417e4b7343dfdf72f31bc3e394e298eaff160e5345f9f6260bc"
+    },
+    {
+      "id": "a317",
+      "reviewed": true,
+      "finding": "Bevoordelingsoogmerk, dwang en alle afgifte-/schuld-/gegevensroutes gelezen. Gegevensdreiging lid2 specifiek gehouden; overgenomen maxima12/15jaar uit312leden2/3 expliciet gemaakt.",
+      "changed": true,
+      "source_text_sha256": "8fb3076199485837a80ec551e520f74c8c3de84a4b5c50152714f50b91471ceb",
+      "commentary_before_sha256": "c79bcda1858d120273e1a8ec64c39cd803af2b8d60f9eed26ae782f2a069bdd0",
+      "commentary_after_sha256": "765e75121162fd5fee1e4c67775ab390eefc129b2a4d9f627f0c3cab5faf9035"
+    },
+    {
+      "id": "a318",
+      "reviewed": true,
+      "finding": "Smaad/smaadschrift/geheim, bevoordelingsoogmerk en gedwongen handeling gecontroleerd; vierjaar/vijfdecategorie, terroristische derdeverhoging en klachtplicht ook bij lid2 gelezen. Voorbeeld en pogingvoorbehoud juist.",
+      "changed": false,
+      "source_text_sha256": "a2ba1b1a8275e19e2bd97206a7a5cba198851fe9319fac6a03bd3910a48abc35",
+      "commentary_before_sha256": "7f2e807a69c66fa072bfadf503cfbe8bf7d61145396e93764e8e99a469f0fe56",
+      "commentary_after_sha256": "7f2e807a69c66fa072bfadf503cfbe8bf7d61145396e93764e8e99a469f0fe56"
+    }
+  ],
+  "limitations": [
+    "Exactly the twenty assigned units substantively reviewed. Whole book incomplete; other units not reviewed here except statutory cross-references.",
+    "Two selected full published judgments reread; existing search and national corpus evidence checked. No exhaustive case-law search, later-treatment survey, or access to underlying case files.",
+    "No separate verified authority added for technical or other units without a relevant selected decision.",
+    "No external professional approval. Mechanical checks do not establish legal quality."
+  ],
+  "other_commentary_files_unchanged": true,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 980410,
+    "errors": [
+      "krátký/chybějící komentář u 212 jednotek: ['a319(0<120)', 'a320(0<400)', 'a321(0<400)', 'a322(0<400)', 'a322a(0<400)', 'a323(0<400)', 'a323a(0<400)', 'a324(0<120)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
