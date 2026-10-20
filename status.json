@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_complete_book_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T23:40:26.031378+00:00",
+    "rechecked_at": "2026-10-20T23:48:04.367283+00:00",
     "official_wti_http": 200,
-    "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
+    "official_current_html_recheck": "Fresh HTTP 200 genuine dated official HTML; evidence sources/author-a319-a328quater-html-fetch.json",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a303-a318-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a319-a328quater-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 600,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–318 including inserted/repealed places.",
-  "remaining_units": 212,
-  "next_unit": "a319",
-  "commentary_chars": 979749,
+  "completed_units": 620,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–328quater including inserted/repealed places.",
+  "remaining_units": 192,
+  "next_unit": "a329",
+  "commentary_chars": 1015696,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -113,14 +113,16 @@
     "ECLI:NL:HR:2013:BZ3626",
     "ECLI:NL:HR:2013:963",
     "ECLI:NL:HR:2020:712",
-    "ECLI:NL:HR:2012:BQ9251"
+    "ECLI:NL:HR:2012:BQ9251",
+    "ECLI:NL:HR:2016:2889",
+    "ECLI:NL:HR:2015:1771"
   ],
-  "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
+  "case_law_scope": "Selective primary research. Latest author batch uses two substantive full judgments; a third read judgment rejected as unreasoned. Not exhaustive.",
   "build_result": {
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 292 jednotkám, např.: ['a257', 'a258', 'a259', 'a260', 'a261', 'a262', 'a265', 'a266', 'a267', 'a268']\n",
-    "remaining_outside_scope": 292,
+    "stderr": "CHYBÍ komentář k 192 jednotkám, např.: ['a329', 'a329bis', 'a330', 'a331', 'a332', 'a333', 'a334', 'a336', 'a337', 'a338']\n",
+    "remaining_outside_scope": 192,
     "checkpoint_renderer": "_render_checkpoint.py",
     "complete_book_build": false
   },
@@ -128,9 +130,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 980410,
+    "commentary_chars": 1015696,
     "errors": [
-      "krátký/chybějící komentář u 212 jednotek: ['a319(0<120)', 'a320(0<400)', 'a321(0<400)', 'a322(0<400)', 'a322a(0<400)', 'a323(0<400)', 'a323a(0<400)', 'a324(0<120)']"
+      "krátký/chybějící komentář u 192 jednotek: ['a329(0<400)', 'a329bis(0<400)', 'a330(0<400)', 'a331(0<400)', 'a332(0<400)', 'a333(0<400)', 'a334(0<400)', 'a336(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -158,38 +160,38 @@
     "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
     "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
   ],
-  "updated_at": "2026-10-20T23:47:11.766506+00:00",
+  "updated_at": "2026-10-20T23:53:26.400607+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T22:05:56.914455+00:00",
-    "report": "preflight-review-batch19-result.json",
+    "verified_at": "2026-10-20T23:48:04.367283+00:00",
+    "report": "preflight-author-a319-a328quater-result.json",
     "decisive_date_preserved": "2026-10-19",
     "full_statutory_units_matched": 812,
     "unresolved_blockers": [],
     "scope": [
-      "a144",
-      "a145",
-      "a146",
-      "a147",
-      "a147a",
-      "a148",
-      "a149",
-      "a150",
-      "a151",
-      "a151a",
-      "a151b",
-      "a151c",
-      "a151d",
-      "a151e",
-      "a151f",
-      "a152",
-      "a153",
-      "a154",
-      "a155",
-      "a156"
+      "a319",
+      "a320",
+      "a321",
+      "a322",
+      "a322a",
+      "a323",
+      "a323a",
+      "a324",
+      "a325",
+      "a326",
+      "a326a",
+      "a326b",
+      "a326c",
+      "a326d",
+      "a326e",
+      "a327",
+      "a328",
+      "a328bis",
+      "a328ter",
+      "a328quater"
     ]
   },
-  "validation_checked_at": "2026-10-20T23:33:53.977569+00:00",
+  "validation_checked_at": "2026-10-20T23:53:26.400445+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -887,37 +889,37 @@
   "bounded_author": {
     "complete": true,
     "ids": [
-      "a244",
-      "a245",
-      "a246",
-      "a247",
-      "a248",
-      "a249",
-      "a250",
-      "a250a",
-      "a251",
-      "a252",
-      "a253",
-      "a253a",
-      "a254",
-      "a254a",
-      "a254b",
-      "a254ba",
-      "a254c",
-      "a254d",
-      "a255",
-      "a256"
+      "a319",
+      "a320",
+      "a321",
+      "a322",
+      "a322a",
+      "a323",
+      "a323a",
+      "a324",
+      "a325",
+      "a326",
+      "a326a",
+      "a326b",
+      "a326c",
+      "a326d",
+      "a326e",
+      "a327",
+      "a328",
+      "a328bis",
+      "a328ter",
+      "a328quater"
     ],
-    "result": "author-a244-a256-result.json",
+    "result": "author-a319-a328quater-result.json",
     "independent_review_pending": true
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 980410,
+    "commentary_chars": 1015696,
     "errors": [
-      "krátký/chybějící komentář u 212 jednotek: ['a319(0<120)', 'a320(0<400)', 'a321(0<400)', 'a322(0<400)', 'a322a(0<400)', 'a323(0<400)', 'a323a(0<400)', 'a324(0<120)']"
+      "krátký/chybějící komentář u 192 jednotek: ['a329(0<400)', 'a329bis(0<400)', 'a330(0<400)', 'a331(0<400)', 'a332(0<400)', 'a333(0<400)', 'a334(0<400)', 'a336(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -1283,6 +1285,6 @@
       "selective_only": true
     }
   ],
-  "last_author_batch": "author-a303-a318-result.json",
-  "last_author_batch_independent_review_pending": false
+  "last_author_batch": "author-a319-a328quater-result.json",
+  "last_author_batch_independent_review_pending": true
 }

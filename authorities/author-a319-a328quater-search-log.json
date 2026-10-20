@@ -1,0 +1,125 @@
+{
+  "scope": "a319–a328quater",
+  "searches": [
+    {
+      "source": "official Rechtspraak database via web search",
+      "query": "site.rechtspraak.nl ECLI HR 2016 2889 oplichting overzichtsarrest",
+      "selected": "ECLI:NL:HR:2016:2889"
+    },
+    {
+      "source": "official Rechtspraak database via web search",
+      "query": "site.rechtspraak.nl verduistering \"heer en meester\" \"Hoge Raad\"",
+      "selected": "ECLI:NL:HR:2015:1771"
+    },
+    {
+      "source": "local national HR corpus",
+      "evidence": "author-a319-a328quater-local-corpus.json"
+    }
+  ],
+  "full_text_read": [
+    "ECLI:NL:HR:2016:2889",
+    "ECLI:NL:HR:2015:1771",
+    "ECLI:NL:HR:2022:416"
+  ],
+  "used": [
+    "ECLI:NL:HR:2016:2889",
+    "ECLI:NL:HR:2015:1771"
+  ],
+  "rejected": [
+    {
+      "ecli": "ECLI:NL:HR:2022:416",
+      "reason": "Full judgment uses article 81 RO and contains no substantive reasoning on appropriation; not used as an affirmative explanation of article 321."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2026:889",
+      "reason": "Local keyword hit addresses old article 328ter; not fully researched and not cited as authority for current six-paragraph text."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2026:903",
+      "reason": "Local full text read; procedural witness case on electricity theft rather than substantive verduistering; not used."
+    }
+  ],
+  "per_unit": [
+    {
+      "id": "a319",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a320",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a321",
+      "disposition": "Verified judgment discussed"
+    },
+    {
+      "id": "a322",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a322a",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a323",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a323a",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a324",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a325",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a326",
+      "disposition": "Verified judgment discussed"
+    },
+    {
+      "id": "a326a",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a326b",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a326c",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a326d",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a326e",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a327",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a328",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a328bis",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a328ter",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    },
+    {
+      "id": "a328quater",
+      "disposition": "Statutory explanation only; no sufficiently relevant independently verified substantive case selected for this unit in this bounded search."
+    }
+  ],
+  "limits": "Selective primary research; no claim of complete case-law or later-treatment coverage."
+}

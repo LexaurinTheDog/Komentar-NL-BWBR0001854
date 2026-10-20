@@ -1,0 +1,246 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2016:2889
+date: '2016-12-20'
+date_published: '2016-12-16'
+case_number:
+- 15/00911
+procedure:
+- Cassatie
+subject:
+- Strafrecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2016:1092, Gevolgd'
+references:
+- Wetboek van Strafrecht
+- Wetboek van Strafrecht 326
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:2889
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2889
+chars: 26882
+license: Public Domain Mark
+retrieved_at: '2026-10-03T19:31:27Z'
+---
+
+# ECLI:NL:HR:2016:2889 – Hoge Raad, 2016-12-20
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2016-12-20
+- **Zaaknummer:** 15/00911
+- **Rechtsgebied:** Strafrecht
+
+## Inhoudsindicatie
+
+Overzichtsarrest oplichting, art. 326.1 Sr. Valse naam, valse hoedanigheid, listige kunstgreep, samenweefsel van verdichtsels. Bewegen tot. In de praktijk blijken regelmatig vragen te rijzen die verband houden met de precieze aard van de in art. 326.1 Sr specifiek aangeduide oplichtingsmiddelen en de onderlinge samenhang van die middelen. De vooropstellingen in dit arrest beogen enkele uit eerdere rechtspraak voortvloeiende min of meer algemene aandachtspunten en beperkingen weer te geven en met elkaar in verband te brengen, en aldus een hulpmiddel te bieden bij de beantwoording van vragen over het gebruik van oplichtingsmiddelen in concrete gevallen.
+
+I.c. oplichting via marktplaats.nl. Aannemen van een valse naam en een valse hoedanigheid. Het oordeel van het Hof dat de bewezenverklaarde gedragingen van verdachte vallen aan te merken als oplichting in de zin van art. 326 Sr geeft niet blijk van een onjuiste rechtsopvatting en is ook niet onbegrijpelijk.
+
+## Uitspraak
+
+1 Geding in cassatie
+
+Het beroep is ingesteld door de verdachte. Namens deze heeft C. Reijntjes-Wendenburg, advocaat te Maastricht, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De Advocaat-Generaal A.E. Harteveld heeft geconcludeerd tot verwerping van het beroep.
+
+2 Aan de beoordeling van de middelen voorafgaande beschouwing
+
+2.1.1.
+
+Art. 326, eerste lid, Sr bevat, als eerste bepaling van titel XXV van het Tweede Boek waarin verschillende vormen van bedrog strafbaar zijn gesteld, een algemene strafbaarstelling van 'oplichting'. Voor een veroordeling wegens oplichting is onder meer vereist dat sprake is van het bezigen van een of meer van de in die bepaling specifiek aangeduide oplichtingsmiddelen: het aannemen van een valse naam of van een valse hoedanigheid, het gebruik van listige kunstgrepen of het gebruik van een samenweefsel van verdichtsels. Gebleken is dat in zaken over oplichting in de praktijk regelmatig vragen rijzen die verband houden met de precieze aard van deze oplichtingsmiddelen en de onderlinge samenhang van die middelen. De hierna volgende vooropstellingen beogen – zonder streven naar volledigheid – enkele uit eerdere rechtspraak voortvloeiende min of meer algemene aandachtspunten en beperkingen weer te geven en met elkaar in verband te brengen, en aldus een hulpmiddel te bieden bij de beantwoording van vragen over het gebruik van oplichtingsmiddelen in concrete gevallen.
+
+2.1.2.
+
+Art. 326, eerste lid, Sr luidt:
+
+"Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetzij door het aannemen van een valse naam of van een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie."
+
+2.1.3.
+
+De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de vaststelling van het Wetboek van Strafrecht houdt als inleiding op titel XXV, Bedrog, onder meer het volgende in:
+
+"Hier is niet het voorbeeld gevolgd van andere wetgevingen, die bedrog in genere straffen, indien de dader, met het oogmerk om zich of een ander wederregtelijk te bevoordeelen, aan iemands vermogen schade toebrengt door hem in eene dwaling te brengen of te houden door het voorspiegelen van valsche of het verbergen van ware feiten. De vrees dat men door zoodanige algemeene bepaling van strafbaar bedrog ligt de grenzen overschrijdt, die de strafwetgever zich behoort te stellen, is niet hersenschimmig. Veiliger weg slaat de wetgever in door de verschillende soorten van bedrog die hij strafbaar keurt, achtereenvolgens te kenmerken en daarbij op den voorgrond te stellen het misdrijf dat in onze regtspraktijk, sedert de invoering van den franschen code, met den naam van opligting (...) is bestempeld."(H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel II, 1882, p. 545)
+
+2.2.1.
+
+Met het in de wet omschrijven van specifieke oplichtingsmiddelen – het aannemen van een valse naam of van een valse hoedanigheid, het gebruik van listige kunstgrepen en/of het gebruik van een samenweefsel van verdichtsels – is beoogd het begrip 'oplichting' nader vorm en inhoud te geven. Daarmee wordt bewerkstelligd dat niet iedere vorm van bedrog – bijvoorbeeld bestaande uit niet meer dan het doen van een onware mededeling – en niet iedere toerekenbare tekortkoming in civielrechtelijke zin binnen het bereik van het strafrecht wordt gebracht als misdrijf met een strafmaximum van, kort gezegd, vier jaren gevangenisstraf.
+
+2.2.2.
+
+In dit licht moeten ook betrekkelijk algemeen geformuleerde beperkende overwegingen over een bepaald oplichtingsmiddel in de rechtspraak van de Hoge Raad worden begrepen. Zo heeft de Hoge Raad geoordeeld dat voor het aannemen van een samenweefsel van verdichtsels sprake moet zijn van "meer dan een enkele leugenachtige mededeling" en dat "het enkele huren van een woning en het vervolgens in gebreke blijven de huurpenningen te voldoen op zichzelf - ook indien de huurder al voorzag niet aan zijn betalingsverplichtingen te kunnen voldoen - niet oplevert het aannemen van een valse hoedanigheid noch een listige kunstgreep als bedoeld in art. 326 (...) Sr". Zie in dit verband ook het arrest waarin aan de orde was het oordeel van het hof dat de enkele omstandigheid dat de verdachte via een website goederen te koop aanbood en bestellingen en betalingen van kopers accepteerde in het besef dat hij niet (langer) aan zijn leverings- of restitutieverplichtingen kon voldoen, niet kan worden aangemerkt als het aannemen van een valse hoedanigheid van een "bonafide internetondernemer".In deze en vergelijkbare beslissingen komt tot uitdrukking dat niet in alle gevallen waarin sprake is van bedrog, het handelen van de verdachte ook kan worden aangemerkt als oplichting.
+
+2.2.3.
+
+In dit verband is van belang dat de wetgever in 1886 in titel XXV naast oplichting bepaalde andere vormen van bedrog strafbaar heeft gesteld (bijvoorbeeld art. 327 Sr, bedrog bij verzekering), en dat de wetgever nadien aan deze titel nog uitbreiding heeft gegeven, bijvoorbeeld met art. 326a Sr (flessentrekkerij), art. 328bis Sr (oneerlijke mededinging door misleiding van het publiek) en recent art. 326d Sr (acquisitiefraude). Voorts is in parlementaire behandeling een wetsvoorstel tot verdere uitbreiding van titel XXV door de invoering van een strafbaarstelling van online handelsfraude met de volgende inhoud:
+
+"hij die een beroep of een gewoonte maakt van het door middel van een geautomatiseerd werk verkopen van goederen of verlenen van diensten tegen betaling met het oogmerk om zonder volledige levering zich of een ander van de betaling van die goederen of diensten te verzekeren, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie."
+
+2.3.1.
+
+Als belangrijk gemeenschappelijk kenmerk van de verschillende in de delictsomschrijving opgenomen oplichtingsmiddelen kan worden genoemd dat de verdachte door een specifieke, voldoende ernstige vorm van bedrieglijk handelen bij een ander een onjuiste voorstelling van zaken in het leven wil roepen teneinde daarvan misbruik te kunnen maken.
+
+2.3.2.
+
+Zo gaat het bij het gebruik van een samenweefsel van verdichtsels in de kern om gesproken en/of geschreven uitingen die bij die ander een op meer dan een enkele leugenachtige mededeling gebaseerde onjuiste voorstelling van zaken in het leven kunnen roepen. Een voorbeeld daarvan was aan de orde in het arrest waarin de verdachte investeerders in strijd met de waarheid voorhield dat de geïnvesteerde bedragen zouden worden terugbetaald met een jaarlijkse rente van 18%, terwijl hij noch de intentie had noch in staat was om de afspraken na te komen en hij door hem ondertekende "promissory notes" afgaf teneinde te doen voorkomen dat de door hem gemaakte afspraken waren gegarandeerd. Uit dit voorbeeld blijkt dat van 'meer dan een enkele leugenachtige mededeling' niet slechts sprake kan zijn indien meerdere duidelijk van elkaar te scheiden leugens kunnen worden aangewezen, maar ook indien sprake is van een leugenachtige mededeling van voldoende gewicht, in combinatie met andere aan de verdachte toe te rekenen omstandigheden die tot misleiding van het beoogde slachtoffer kunnen leiden, zoals het misbruik van een tussen de verdachte en het beoogde slachtoffer bestaande vertrouwensrelatie.
+
+2.3.3.
+
+Bij listige kunstgrepen gaat het in vergelijkbare zin in de kern om meer dan een enkele misleidende feitelijke handeling die een onjuiste voorstelling van zaken in het leven kan roepen. Een voorbeeld daarvan was aan de orde in het geval waarin de verdachte (met anderen) gebruik maakte van briefpapier van KPN teneinde een bank met een valse betaalopdracht te bewegen tot overboeking van een geldbedrag.
+
+2.3.4.
+
+Bij de oplichtingsmiddelen die bestaan uit het aannemen van een valse naam of een valse hoedanigheid, gaat het er in de kern om dat het handelen van de verdachte ertoe kan leiden dat bij de ander een onjuiste voorstelling van zaken in het leven wordt geroepen met betrekking tot de 'persoon' van de verdachte, hetzij wat betreft diens naam, hetzij wat betreft diens hoedanigheid, waarbij die onjuiste voorstelling van zaken in het leven wordt geroepen teneinde daarvan misbruik te maken.Een voorbeeld van het hanteren van een valse naam was aan de orde in het arrest waarin de verdachte als autoverkoper werkzaam was en gefingeerde orderbevestigingen invulde waarna hij zich telefonisch tegenover zijn werkgever voordeed als een medewerker van de bank en meedeelde dat de koopsom telefonisch was overgemaakt, welke mededeling hij aankondigde met het noemen van een andere naam dan de zijne. Een voorbeeld van het hanteren van een valse hoedanigheid was aan de orde in het arrest waarin de verdachte het in strijd met de waarheid voorstelde alsof hij "voor de meter kwam" en daarbij zei dat voor het vervangen daarvan een eigen bijdrage moest worden betaald. Eveneens een valse hoedanigheid was aan de orde in het arrest waarin de verdachte zich in strijd met de waarheid voordeed als een belangstellende die voornemens was de hem voor een proefrit ter hand gestelde fiets terug te brengen en waarbij de werkwijze van de verdachte onder meer bestond uit het achterlaten van een (waardeloos) onderpand.De in de rechtspraak wel gebruikte formulering dat een verdachte zich als een 'bonafide' deelnemer aan het rechtsverkeer heeft gepresenteerd, is met betrekking tot het aannemen van een valse hoedanigheid slechts relevant als zo een presentatie als bonafide (potentiële) wederpartij berust op voldoende specifieke gedragingen die in de desbetreffende context erop zijn gericht bij het beoogde slachtoffer een onjuiste voorstelling van zaken in het leven te roepen teneinde daarvan misbruik te maken.
+
+2.3.5.
+
+Hetgeen hiervoor is overwogen stelt voorts in het licht dat de in art. 326, eerste lid, Sr bedoelde oplichtingsmiddelen betrekking hebben op gedragingen die niet altijd scherp van elkaar te onderscheiden zijn. Daardoor kunnen concrete uitwerkingen van deze oplichtingsmiddelen onderling samenhang vertonen en elkaar overlappen. Er kunnen zich dus gevallen voordoen waarin hetzelfde gedrag van de verdachte meebrengt dat meerdere oplichtingsmiddelen zijn gebezigd. In zo een geval kan dit gedrag als het bezigen van meer dan een oplichtingsmiddel worden tenlastegelegd en bewezenverklaard; daarbij behoeft de rechter niet te kiezen uit die oplichtingsmiddelen omdat die keuze voor de strafrechtelijke betekenis van het bewezenverklaarde niet van belang is.
+
+2.3.6.
+
+Dat het bij de strafbaarstelling van oplichting gaat om gevallen waarin de verdachte bij een ander door een specifieke, voldoende ernstige vorm van bedrieglijk handelen een onjuiste voorstelling van zaken in het leven wil roepen teneinde daarvan misbruik te kunnen maken, brengt mee dat aldus niet slechts het vertrouwen wordt beschermd van die ander tegen vermogensnadeel dat hij lijdt, maar ook meer algemeen het vertrouwen dat het publiek ten behoeve van het maatschappelijk en economisch verkeer tot op zekere hoogte mag stellen in de oprechtheid waarmee anderen aan dit verkeer deelnemen. Dit laatste komt in de rechtspraak van de Hoge Raad tot uitdrukking in verschillende voor de beoordeling van het gewicht van het gehanteerde oplichtingsmiddel relevant geachte omstandigheden als: het misbruik maken van een in het maatschappelijk verkeer geldend verwachtingspatroon, het verstrekken van onbruikbare contactgegevens of het veelvuldig herhalen van identieke gedragingen in relatie tot telkens weer andere (beoogde) slachtoffers (vgl. het arrest waarin mede een rol speelde het 'zichtbare gedragspatroon' van de verdachte, bestaande uit het 'telkenmale' onder valse voorwendselen van verschillende personen geld vragen en voor zichzelf aanwenden).
+
+2.4.
+
+In de voorgaande overwegingen staan de verschillende oplichtingsmiddelen centraal. Opmerking – en in voorkomende gevallen aparte aandacht – verdient nog dat voor oplichting blijkens art. 326, eerste lid, Sr is vereist dat iemand door zo een oplichtingsmiddel wordt "bewogen" tot de in die bepaling bedoelde handelingen. Van het in het bestanddeel "beweegt" tot uitdrukking gebrachte causaal verband is sprake als voldoende aannemelijk is dat het slachtoffer mede onder invloed van de door het desbetreffende oplichtingsmiddel in het leven geroepen onjuiste voorstelling van zaken is overgegaan tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld als bedoeld in art. 326, eerste lid, Sr. Het antwoord op de vraag of in een concreet geval het slachtoffer door een oplichtingsmiddel dat door de verdachte is gebezigd, is bewogen tot de in art. 326, eerste lid, Sr bedoelde handeling, is in sterke mate afhankelijk van de omstandigheden van het geval. In meer algemene zin kunnen tot die omstandigheden behoren enerzijds de mate waarin de in het algemeen in het maatschappelijk verkeer vereiste omzichtigheid het beoogde slachtoffer aanleiding had moeten geven die onjuiste voorstelling van zaken te onderkennen of zich daardoor niet te laten bedriegen, en anderzijds de persoonlijkheid van het slachtoffer, waarbij onder meer de leeftijd en de verstandelijke vermogens van het slachtoffer een rol kunnen spelen. Oplichting in de zin van art. 326, eerste lid, Sr is echter niet aan de orde wanneer het slachtoffer – gelet op alle omstandigheden van het geval, waaronder de eigen gedragingen en kennis van zaken – de in een bepaalde gedraging van de verdachte besloten liggende onjuiste voorstelling van zaken had moeten doorzien.
+
+2.5.
+
+Tot slot verdient herhaling dat in de kern uit de wettelijke oplichtingsmiddelen een begrenzing van het delict oplichting voortvloeit die mede is bepaald door de wens van de wetgever niet iedere vorm van bedrog strafbaar te stellen. Deze begrenzing wordt mede gerechtvaardigd door de voor de wetgever bestaande mogelijkheid om bepaalde ongewenste vormen van bedrog alsnog binnen het bereik van het strafrecht te brengen, van welke mogelijkheid de wetgever blijkens het hiervoor onder 2.2.3 overwogene gebruik maakt en heeft gemaakt.
+
+3 Beoordeling van het eerste middel
+
+3.1.
+
+Het middel richt zich tegen de bewezenverklaring van het onder 1 en 2 tenlastegelegde.
+
+3.2.1.
+
+Ten laste van de verdachte is bewezenverklaard dat:
+
+"1. hij op 14 juli 2011 te Rhoon, gemeente Albrandswaard met het oogmerk om zich wederrechtelijk te bevoordelen door het aannemen van een valse naam en van een valse hoedanigheid, [betrokkene 1] heeft bewogen tot de afgifte van een geldbedrag (240 euro), hebbende verdachte met vorenomschreven oogmerk -zakelijk weergegeven - valselijk en in strijd met de waarheid op de internetsite Marktplaats.nl heeft voorgedaan als bonafide verkoper van Iphones, en waarbij hij, verdachte, zich heeft voorgedaan als [verdachte] waarbij hij, verdachte met [betrokkene 1] heeft afgesproken dat zij de koopsom moest overmaken naar een door hem, verdachte, opgegeven en aan hem, verdachte, toebehorend rekeningnummer, waarna hij, verdachte, de goederen naar voornoemde [betrokkene 1] zou verzenden, waardoor voornoemde [betrokkene 1] werd bewogen tot bovengenoemde afgifte;
+
+2. hij op 29 augustus 2011 te Amsterdam met het oogmerk om zich wederrechtelijk te bevoordelen door het aannemen van een valse naam en van een vals hoedanigheid [betrokkene 2] heeft bewogen tot de afgifte van een geldbedrag (449,50 euro), hebbende verdachte met vorenomschreven oogmerk - zakelijk weergegeven - valselijk in strijd met de waarheid zich op de internetsite Marktplaats.nl heeft voorgedaan als bonafide verkoper van Iphones, en waarbij hij, verdachte, zich heeft voorgedaan als [verdachte] en [verdachte] , waarbij hij, verdachte met [betrokkene 2] heeft afgesproken dat hij, [betrokkene 2] , de koopsom moest overmaken naar een door hem, verdachte, opgegeven en aan hem, verdachte, toebehorend rekeningnummer, waarna voornoemde [betrokkene 2] het goed kon ophalen, waardoor voornoemde [betrokkene 2] werd bewogen tot bovenomschreven afgifte."
+
+3.2.2.
+
+Deze bewezenverklaring steunt op de volgende bewijsmiddelen:
+
+"1. Een proces-verbaal van aangifte d.d. 19 juli 2011 van de politie Rotterdam-Rijnmond met nr. PL17J0 2011215431-1. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (blz. 1 en 2):
+
+als de op 19 juli 2011 afgelegde verklaring van [betrokkene 1] :
+
+Ik doe aangifte van oplichting via Marktplaats, gepleegd op 14 juli 2011 te Rhoon, gemeente Albrandswaard. Als ik had geweten dat ik na betaling geen goederen zou krijgen zou ik nooit tot betaling zijn overgegaan. Op 14 juli 2011 was ik in mijn woning op het internet en was op zoek naar een iPhone. Ik zat op de site van Marktplaats.nl. Ik zag een advertentie staan waarin een iPhone te koop werd aangeboden voor een bedrag van 450 euro, kleur wit. Ik zag dat er een telefoonnummer in de advertentie stond, te weten 06- [001] . Ik heb het bovengenoemde telefoonnummer gebeld. Ik hoorde een stem die geen naam zei alleen maar: "Hallo." Ik vroeg of de iPhone nog te koop was en dat ik interesse had.
+
+De man belde mij terug en hij zei zijn naam: " [verdachte] of [verdachte] ." De man vertelde mij dat als ik de iPhone wilde bestellen, ik het bedrag van 120 euro moest overmaken. Ik zei tegen de man dat ik dit niet echt vertrouwde, omdat ik wel eens meer had gehoord dat men ook weleens een steen in een doos verzond. De man kon dit wel begrijpen, maar zei tegen mij dat hij winkels had in Almelo, Rotterdam en Heerlen. Ik ben akkoord gegaan om een bedrag van 120 euro te betalen en de rest van het geld bij aankomst van het pakket contant te betalen. De man vertelde mij dat ik als ik betaalde via internetbankieren, ik een spoedovermaking kon doen, dan zou ik binnen 2 dagen het pakketje thuis gestuurd krijgen. Ik ben hiermee akkoord gegaan.
+
+Ik heb via internetbankieren bij de ABN/AMRO bank een bedrag van 120 euro overgemaakt met een spoedovermaking. Ik kon niet zien of ik het bedrag goed had overgemaakt en omdat ik twijfelde heb ik het bedrag nogmaals overgemaakt. Ik zag toen dat het bedrag inderdaad was overgemaakt op rekeningnummer [002] van de ING Bank, ten name van [verdachte] . Ik kreeg vervolgens geen pakketje binnen. Ik heb al diverse malen het bovengenoemde telefoonnummer gebeld, maar ik kreeg geen contact. Ik zag via internetbankieren dat er 2 keer een bedrag van 120 euro was overgemaakt naar [verdachte] . Ik zag later dat de advertentie van Markplaats.nl was verwijderd.
+
+2. Een proces-verbaal van verhoor aangeefster d.d. 1 september 2011 van de politie Rotterdam-Rijnmond met nr. PL17J0 2011215431-2. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (blz. 1):
+
+als de op 1 september 2011 afgelegde verklaring van [betrokkene 1] :
+
+Ik wil u vertellen dat ik inmiddels een brief van de bank heb ontvangen. Hierin staat vermeld dat de begunstigde zelf niet [verdachte] is, maar [verdachte], wonende aan de [a-straat 1] te [woonplaats].
+
+3. Een proces-verbaal van aangifte d.d. 22 september 2011 van de politie Rotterdam-Rijnmond met nr. PL134N 2011242429-1. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (blz. 1 en 2):
+
+als de op 22 september 2011 afgelegde verklaring van [betrokkene 2] :
+
+Ik wil aangifte doen van oplichting via internet, gepleegd op 29 augustus 2011 te Amsterdam. Op 29 augustus 2011 zag ik op Marktplaats een advertentie staan van een iPhone 4. Ik zag dat de iPhone 449,95 euro moest kosten. Ik heb hierop telefonisch contact gehad met de aanbieder van de iPhone. Dit was op telefoonnummer 06- [001] . De aanbieder noemde zichzelf [verdachte] (fonetisch). Ik ben telefonisch overeengekomen met [verdachte] om de iPhone te kopen voor 449,95 euro. Hij gaf mij een rekeningnummer om het geld op over te maken. Ik zou daarna de iPhone op kunnen halen. Ik heb vervolgens 449,95 euro overgemaakt naar het volgende rekeningnummer: [002] . Dit was ter attentie van [verdachte] . Ik heb hierna een sms gestuurd naar [verdachte] dat ik het geld had overgemaakt. [verdachte] stuurde mij een sms terug dat ik de iPhone kon ophalen.
+
+Ik kon de iPhone ophalen bij een bedrijf met het volgende Kamer van Koophandel nummer: [003]. Ik heb via de kamer van Koophandel dit bedrijf gevonden. Dit betrof een GSM winkel, GSM&zo. Ik heb vervolgens gebeld met de winkel. Zij vertelden mij dat ze mij niet kenden en ook de verkopende partij niet kenden. Ik heb nu geen iPhone en ik ben mijn geld kwijt.
+
+4. Een proces-verbaal van verhoor verdachte d.d. 9 december 2011, van de politie Rotterdam-Rijnmond met nr. PL17J0 2011215431-3. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (blz. 2 en 3):
+
+Verbalisant: Wij hebben een aangifte binnengekregen. Deze aangifte is gedaan op 19 juli 2011. Een mevrouw uit Rhoon verklaart dat zij op 14 juli 2011 via Marktplaats een iPhone wilde kopen van ene [verdachte] of [verdachte] . Wat kunt u hierover verklaren?
+
+Verdachte: Dat komt van mij af.
+
+Verbalisant: Deze [verdachte] of [verdachte] maakte gebruik van het telefoonnummer 06- [001] . Uit uw vorige verklaring blijkt dat dit uw telefoonnummer is. Wat kunt u hierover verklaren?
+
+Verdachte: Dat klopt. Dat is mijn telefoonnummer.
+
+Verbalisant: Door de aangeefster wordt een bedrag van 120,00 euro overgemaakt op ING rekeningnummer [002] op naam van [verdachte] . Van wie is dat rekeningnummer?
+
+Verdachte: Dat rekeningnummer is van mij.
+
+Verbalisant: Per abuis wordt door de aangeefster 2x een bedrag van 120,00 euro overgemaakt. Desondanks wordt er geen iPhone geleverd. Wat kunt u hierover verklaren?
+
+Verdachte: Dat zou kunnen.
+
+Verbalisant: We gaan weer even terug naar de aangifte uit Amsterdam. Volgens de aangever noemde de verkoper zich hier [verdachte]. Wat kunt u hierover verklaren?
+
+Verdachte: Dat account heette [verdachte] . Ik denk dat hij dat verkeerd heeft gehoord. Ik heb iets van drie accounts op Marktplaats.
+
+Verbalisant: Welke accountnamen heb je allemaal?
+
+Verdachte: [verdachte] , [verdachte] en [verdachte] .
+
+Verbalisant: De aangever kon de Iphone ophalen bij een bedrijf, genaamd GSM&zo. Wat is de relatie tussen u en dit bedrijf?
+
+Verdachte: Ook dat was gekopieerd van een andere advertentie.
+
+Verbalisant: Navraag door de aangever bij dit bedrijf leerde echter dat de verkopende partij bij hen niet bekend was. Wat kunt u hierover verklaren?
+
+Verdachte: Ook dat klopt. Ik heb dat gewoon gekopieerd en gebruikt voor mijn advertentie.
+
+Verbalisant: Waarom bent u de gemaakte afspraken niet nagekomen?
+
+Verdachte: Ik had geen telefoons.
+
+Verbalisant: U bekent dus de aangevers doelbewust te hebben opgelicht?
+
+Verdachte: Dat klopt."
+
+3.3.
+
+Het Hof heeft geoordeeld dat de verdachte door het aannemen van een valse naam en een valse hoedanigheid [betrokkene 1] , respectievelijk [betrokkene 2] , heeft bewogen tot de afgifte van een geldbedrag. Blijkens de hiervoor weergegeven bewijsmiddelen heeft het Hof vastgesteld dat de verdachte zich door het plaatsen van een advertentie op de internetsite Marktplaats.nl heeft voorgedaan als verkoper van Iphones terwijl hij die telefoons niet had, dat hij in telefonisch contact met [betrokkene 1] , respectievelijk [betrokkene 2] , naar aanleiding van die advertentie telkens gebruik heeft gemaakt van valse namen, dat hij tijdens die telefoongesprekken heeft gezegd tegen [betrokkene 1] dat hij winkels had in Almelo, Rotterdam en Heerlen, respectievelijk tegen [betrokkene 2] dat [betrokkene 2] het toestel in een winkel kon ophalen, alsmede dat hij voor het ontvangen van de overeengekomen betalingen een bankrekeningnummer heeft opgegeven zonder de juiste tenaamstelling daarvan op te geven. Gelet hierop en in aanmerking genomen hetgeen onder 2.3.4-2.3.6 is overwogen geeft 's Hofs oordeel dat de bewezenverklaarde gedragingen van verdachte vallen aan te merken als oplichting in de zin van art. 326 Sr niet blijk van een onjuiste rechtsopvatting. Het is ook niet onbegrijpelijk.
+
+3.4.
+
+Het middel faalt.
+
+4 Beoordeling van de overige middelen
+
+De middelen kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu de middelen niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+5 Beslissing
+
+De Hoge Raad verwerpt het beroep.
+
+Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren J. de Hullu, H.A.G. Splinter-van Kan, V. van den Brink en M.J. Borgers, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van 20 december 2016.
+
+HR 3 februari 2015, ECLI:NL:HR:2015:200, NJ 2015/147, vgl. HR 13 november 2012, ECLI:NL:HR:2012:BX0806, NJ 2012/661.
+
+HR 2 november 2010, ECLI:NL:HR:2010:BM4208, NJ 2010/600.
+
+HR 9 december 2014, ECLI:NL:HR:2014:3546, NJ 2015/146.
+
+Voorstel van wet tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de verbetering en versterking van de opsporing en vervolging van computercriminaliteit (computercriminaliteit III), Kamerstukken II 2015-2016, 34 372, nr. 2.
+
+HR 6 mei 2003, ECLI:NL:HR:2003:AF6599, NJ 2003/509.
+
+Vgl. HR 3 februari 2015, ECLI:NL:HR:2015:200, NJ 2015/147.
+
+HR 15 januari 2008, ECLI:NL:HR:2008:BC0782.
+
+HR 18 oktober 1988, ECLI:NL:HR:1988:AD0468, NJ 1989/656.
+
+HR 13 november 2012, ECLI:NL:HR:2012:BX0806, NJ 2012/661.
+
+HR 17 februari 2015, ECLI:NL:HR:2015:326, NJ 2015/487.
+
+Zo is in de zaken HR 17 februari 2015, ECLI:NL:HR:2015:326, NJ 2015/487 en HR 7 juli 2015, ECLI:NL:HR:2015:1805 geoordeeld dat in de specifieke omstandigheden van die gevallen het zich voordoen als 'bonafide koper' wel als het aannemen van een valse hoedanigheid kon worden aangemerkt, terwijl dergelijke omstandigheden ontbraken in het geval dat aan de orde was in de zaak HR 15 december 1998, ECLI:NL:HR:1998:ZD1177, NJ 1999/182, zodat de gedragingen van de koper geen valse hoedanigheid opleverden. Op vergelijkbare wijze verschillen de gevallen die aan de orde waren in HR 9 december 2014, ECLI:NL:HR:2014:3546, NJ 2015/146 en HR 11 november 2014, ECLI:NL:HR:2014:3144, NJ 2014/518 van elkaar met betrekking tot de vraag of sprake was van de valse hoedanigheid van 'bonafide (internet)verkoper'.
+
+Vgl. HR 25 februari 1969, ECLI:NL:HR:1969:AB5900, NJ 1969/265.
+
+HR 13 november 2012, ECLI:NL:HR:2012:BX0806, NJ 2012/661.
+
+HR 11 november 2014, ECLI:NL:HR:2014:3144, NJ 2014/518.
+
+HR 3 februari 2015, ECLI:NL:HR:2015:200, NJ 2015/147.
+
+Vgl. HR 15 november 2011, ECLI:NL:HR:2011:BQ8600, NJ 2012/279.
+
+Vgl. HR 4 april 2006, ECLI:NL:HR:2006:AU5719, NJ 2006/398.
