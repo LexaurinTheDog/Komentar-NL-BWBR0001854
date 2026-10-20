@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:1295</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-30T10:10:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-09-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-10-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/00998</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2023:610" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2023:610</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSHE:2022:868" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHSHE:2022:868</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2023-0169</rdf:li>
+          <rdf:li>NJB 2023/2555</rdf:li>
+          <rdf:li>RvdW 2023/1026</rdf:li>
+          <rdf:li>NJ 2024/150 met annotatie van P.H.P.H.M.C. van Kempen</rdf:li>
+          <rdf:li>NTS 2023/57</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:1295">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:1295</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-10-13T17:11:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-10-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:1295 Hoge Raad , 17-10-2023 / 22/00998</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:1295:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Drievoudige moord in Scheveningse bosjes en op Brunssummerheide in 2019, art. 289 Sr. TBS met dwangverpleging opgelegd. 1. Voorbedachte raad en psychische stoornis. 2. Toerekenbaarheid van bewezenverklaarde feiten aan verdachte en beroep op ontoerekenbaarheid a.b.i. art. 39 Sr. </para>
+        <para>Ad 1. HR herhaalt relevante overwegingen uit HR:2013:963 m.b.t. voorbedachte raad en motiveringsplicht rechter. Opvatting dat hof nadere vaststellingen moet doen over precieze aard van psychische stoornis en manier waarop en mate waarin deze stoornis gedachten en gedrag van verdachte t.t.v. tlgd. feiten heeft beïnvloed, vindt in algemeenheid geen steun vindt in recht. Oordeel hof dat “eventuele ontoerekeningsvatbaarheid niet uitsluit dat sprake is geweest van voorbedachte raad” getuigt niet van onjuiste rechtsopvatting (vgl. HR:2008:BB4959 en HR:2010:BK8507). </para>
+        <para>Ad 2. HR formuleert beoordelingskader voor ontoerekenbaarheid a.b.i. art. 39 Sr en maakt daarbij algemene opmerkingen. Het is aan feitenrechter om vast te stellen of bij verdachte t.t.v. tlgd. feit een psychische stoornis a.b.i. at. 37a en 39 Sr bestond (vgl. HR:2008:BC1311). Rechter heeft daarin eigen verantwoordelijkheid en is niet gebonden aan deskundigenadviezen. Of stoornis wel of niet in DSM is aangeduid, is niet beslissend (vgl. HR:2012:BY5355). Feitenrechter kan o.g.v. art. 39 Sr beslissen dat tlgd. feit niet aan verdachte kan worden toegerekend als t.t.v. dat feit bij verdachte sprake was van stoornis a.b.i. deze bepaling en verdachte a.g.v. die stoornis niet kon begrijpen dat feit wederrechtelijk was of niet in staat was in overeenstemming te handelen met zijn begrip van wederrechtelijkheid van dat feit. Gedragingen van verdachte die aan optreden van de in art. 39 Sr bedoelde stoornis zijn voorafgegaan, kunnen in de weg staan aan oordeel dat tlgd. feit niet aan verdachte kan worden toegerekend in de zin van deze bepaling maar slechts onder bijzondere omstandigheden (vgl. HR:1981:AC0902 en HR:2008:BC3797). </para>
+        <para>Hof heeft geoordeeld dat verdachte t.t.v. begaan strafbare feiten leed aan psychische stoornis, zonder dat het daarbij specifieke stoornis heeft vastgesteld, en heeft vastgesteld dat deze feiten in direct verband staan met stoornis. M.b.t. vraag of bewezenverklaarde feiten aan verdachte kunnen worden toegerekend heeft hof acht geslagen op wat daarover is aangevoerd door OM en verdediging en heeft hof adviezen gedragskundige rapportages onder ogen gezien. Hof heeft mede o.g.v. dit alles geconcludeerd dat verdachte t.t.v. begaan van bewezenverklaarde feiten in enige mate in staat was een afweging te maken en voldoende in staat was om wederrechtelijkheid van zijn gedragingen te begrijpen en overeenkomstig dat begrip te handelen. Verder heeft hof geoordeeld dat handelen van verdachte weliswaar in overwegende mate, maar niet volledig werd bepaald door zijn stoornis en dat gelet hierop feiten in verminderde mate aan verdachte kunnen worden toegerekend. Dat oordeel getuigt niet van onjuiste rechtsopvatting en is niet onbegrijpelijk. Voor verdere toetsing van dit oordeel is, verweven als het is met waarderingen van feitelijke aard, in cassatie geen plaats. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:1295:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>22/00998 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>17 oktober 2023</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof 's-Hertogenbosch van 17 maart 2022, nummer 20-001723-20, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        [verdachte],</para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1991,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben E.E.W.J. Maessen, S. Weening, I.T.H.L. van de Bergh, B.M.R. te Baerts en T. Straten, allen advocaat te Maastricht, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De procureur-generaal F.W. Bleichrodt heeft geconcludeerd tot vernietiging van het bestreden arrest, maar uitsluitend wat de duur van de opgelegde gevangenisstraf betreft, tot vermindering daarvan aan de hand van de gebruikelijke maatstaf en tot verwerping van het beroep voor het overige.</para>
+      <para>Namens de verdachte hebben M.E. van der Werf en B.L.M. Ficq, beiden advocaat te Amsterdam, daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Waar het in deze zaak om gaat </title>
+    <para>De verdachte is in hoger beroep veroordeeld tot 22 jaren gevangenisstraf en tot terbeschikkingstelling met verpleging van overheidswege wegens een moord gepleegd op 4 mei 2019 in Den Haag en twee moorden gepleegd op 7 mei 2019 op de Brunssummerheide. Het hof heeft geoordeeld dat deze feiten in verminderde mate aan de verdachte kunnen worden toegerekend.</para>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Het arrest van het hof </title>
+    <paragroup>
+      <nr>3.1</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+        <para>“1. hij op 4 mei 2019 in de gemeente ’s-Gravenhage, [slachtoffer 1] opzettelijk en met voorbedachten rade van het leven heeft beroofd, immers heeft hij, verdachte, met dat opzet en na kalm beraad en rustig overleg, meermalen met een mes, gestoken en gesneden in het hoofd en in het (boven)lichaam van voorgenoemde [slachtoffer 1], ten gevolge waarvan voorgenoemde [slachtoffer 1] is overleden; </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2. hij op 7 mei 2019 in de gemeente Heerlen, [slachtoffer 2] opzettelijk en met voorbedachten rade van het leven heeft beroofd, immers heeft hij, verdachte, met dat opzet en na kalm beraad en rustig overleg, meermalen met een mes, gestoken in het (boven)lichaam van voorgenoemde [slachtoffer 2], ten gevolge waarvan voorgenoemde [slachtoffer 2] is overleden; </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. hij op 7 mei 2019 in de gemeente Heerlen, [slachtoffer 3] opzettelijk en met voorbedachten rade van het leven heeft beroofd, immers heeft hij, verdachte, met dat opzet en na kalm beraad en rustig overleg, meermalen met een mes, gestoken in het (boven)lichaam van voorgenoemde [slachtoffer 3], ten gevolge waarvan voorgenoemde [slachtoffer 3] is overleden.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsvoering:</para>
+        <para>“1. Bewijsmiddelen en bewijsoverwegingen</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(...)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>Het standpunt van de advocaten-generaal </para>
+        <para>De advocaten-generaal hebben zich op het standpunt gesteld dat de onder 1, 2 en 3 tenlastegelegde moord bewezen kan worden verklaard. Daartoe hebben de advocaten-generaal gewezen op de bekennende verklaring van de verdachte die hij op 2 augustus 2019 aflegde en tijdens de opvolgende verhoren heeft herhaald, de verschillende getuigenverklaringen en de rapporten van het Nederlands Forensisch Instituut (hierna: NFI). Onder verwijzing naar de verklaringen van de verdachte met betrekking tot zijn handelen voorafgaand, tijdens en na de tenlastegelegde feiten, concluderen de advocaten-generaal dat de verdachte met voorbedachte raad heeft gehandeld. In dat kader wijzen de advocaten-generaal onder meer op de zoekslagen voorafgaand aan de feiten, het bewust kiezen van de plaats, wapens en slachtoffers, het thuislaten en uitzetten van zijn telefoon om niet getraceerd te kunnen worden en het maken van weloverwogen keuzes wat hij wel en niet doet. De advocaten-generaal hebben ten slotte nog gewezen op jurisprudentie waaruit blijkt dat indien het tenlastegelegde niet aan de verdachte kan worden toegerekend, dat niet uitsluit dat er sprake is van voorbedachte raad.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Het standpunt van de verdediging</para>
+      <para />
+      <parablock>
+        <para>De verdediging heeft vooropgesteld dat de verdachte heeft bekend de drie slachtoffers te hebben gedood. De verdediging heeft betoogd dat geen sprake is van voorbedachte raad, zodat de impliciet primair tenlastegelegde moord niet kan worden bewezen. Voor wat betreft de impliciet tenlastegelegde doodslag heeft zij zich gerefereerd aan het oordeel van het hof. </para>
+        <para>De verdediging onderkent dat de verdachte heeft bekend dat hij met een vooropgezet plan heeft gehandeld; hij heeft nagedacht over een geschikte locatie, zijn telefoon uitgezet zodat hij niet getraceerd kon worden en hij is vervolgens doelbewust met een mes op pad gegaan. De verdediging heeft betoogd dat het vorenstaande normaliter voorbedachte raad op zou leveren, maar dat dit in de onderhavige zaak anders is. De psychose waarin de verdachte volgens de verdediging zat, ging namelijk gepaard met zeer heftige emoties en in het bijzonder met een heel hoog niveau van angst, waardoor geen sprake meer kan zijn van kalm beraad en rustig overleg. De verdachte heeft zich geen rekenschap kunnen geven van de gevolgen van zijn voorgenomen daden; rekenschap geven houdt in dat iemand een weloverwogen afweging maakt van alle op het spel staande belangen en risico’s. De verdachte kon deze afwegingen niet weloverwogen maken, omdat deze werden gedomineerd door emoties en zijn realiteit volkomen verstoord was. Dit vormt een contra-indicatie voor de voorbedachte raad. De verdediging heeft in dat kader nog gewezen op een aantal voorbeelden uit de jurisprudentie. </para>
+        <para>Gelet op het vorenstaande dient vrijspraak te volgen voor de onder 1, 2 en 3 tenlastegelegde moord, aldus de verdediging. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Het oordeel van het hof </para>
+      <para />
+      <paragroup>
+        <nr>1.3.1</nr>
+        <parablock>
+          <para>Feiten </para>
+          <para>Het hof stelt de navolgende feiten en omstandigheden vast. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Den Haag, Scheveningse Bosjes, 4 mei 2019 </para>
+          <para>Op 4 mei 2019 wordt omstreeks 15.39 uur een vrouw, naar later blijkt [slachtoffer 1], aangetroffen door wandelaars in het natuurgebied de Scheveningse Bosjes te Den Haag. Ze ligt naast haar bakfiets en heeft meerdere bloedvlekken op haar kleding en een snee in haar gezicht. In haar buurt loopt haar [hond 1]. Haar deels verlamde [hond 2] bevindt zich nog in de bakfiets. De politiemensen die als eerste ter plaatse komen, constateren geen hartslag meer bij [slachtoffer 1] en stellen vast dat haar lichaam al is afgekoeld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uit het forensisch onderzoek dat aan haar lichaam is uitgevoerd, blijkt dat zij drie snijletsels en dertig steekletsels heeft. Er is onder andere tot in het borstbeen, in de linkerlong, in het hart en in de schedel gestoken. Ook is haar linker pink afgesneden. Het intreden van de dood kan verklaard worden door algehele weefselschade ten gevolge van bij leven doorgemaakt zuurstoftekort, substantieel bloedverlies, ademhalings- en orgaanfunctiestoornissen en inademing van bloed, veroorzaakt door tien steekletsels aan het hoofd, de romp en de linker bovenarm. Die steekletsels gingen gepaard met meervoudige perforaties van belangrijke structuren zoals de hersenen, de longen en het hart.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Heerlen, Brunssumerheide, 7 mei 2019 </para>
+          <para>Drie dagen later worden op de Brunssummerheide in Heerlen twee dode mensen na elkaar aangetroffen door voorbijgangers. Als eerste wordt om 11.53 uur het levenloze lichaam van, naar later blijkt, [slachtoffer 2] door wandelaars gevonden. Haar [hond 3] ligt op dat moment naast zijn overleden bazin. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij forensisch onderzoek is vastgesteld dat aan het hoofd en aan de romp van [slachtoffer 2] vier steekletsels zijn toegebracht. Onder andere beide borstholten, de wortel van de rechterlong, de overgang van de bovenste holle ader naar de rechterboezem van het hart, de longslagader en de lever zijn geperforeerd. Aan haar hoofd worden ook zes snijletsels geconstateerd. Perforatie van borstholten en de long gaat doorgaans gepaard met long- en ademhalingsfunctiestoornissen en perforatie van grote bloedvaten en het hart leidt tot ernstig bloedverlies. Hierdoor ontstaat algehele weefselschade en wordt het intreden van de dood verklaard. De patholoog concludeert dat zij is overleden aan twee aan haar romp toegebrachte steekletsels. De overige steek- en snijletsels hebben geen substantiële rol gespeeld bij het intreden van de dood.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Nadat de gealarmeerde politie ter plaatse is gekomen, wordt door een wandelaar omstreeks 12.16 uur nog een lichaam gevonden in de nabijheid van de plek waar [slachtoffer 2] ligt. Dit blijkt het lichaam van [slachtoffer 3] te zijn. [hond 4], die een steekwond in haar keel heeft, waakt over haar overleden baas. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uit het forensisch onderzoek door de patholoog blijkt dat [slachtoffer 3] tien steekletsels heeft, waarvan acht insteken en één doorsteek. Ook worden vier snijletsels geconstateerd. Voorts blijkt hij afweerletsels te hebben. Zijn overlijden wordt verklaard door drie steekletsels aan zijn romp. Bij die letsels was er namelijk sprake van perforatie van een tussenribslagader en in het longweefsel gelegen vaatstructuren, hetgeen leidt tot bloedverlies. Verder waren ook beide borstholten, beide longen en het middenrif rechts geperforeerd, hetgeen leidt tot ademhalings- en longfunctiestoornissen. Het bloedverlies en de ademhalings- en longfunctiestoornissen hebben geleid tot algehele weefselschade, waardoor het overlijden wordt verklaard. Vanwege de eveneens geconstateerde afweerletsels lijkt [slachtoffer 3] zich dus, anders dan de vrouwelijke slachtoffers, te hebben verweerd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte in beeld </para>
+          <para>Op 8 mei 2019 wordt door Mondriaan GGZ de geheimhoudingsplicht doorbroken door bij de officier van justitie melding te doen van de ontsnapping van één van hun patiënten. Deze patiënt was daags ervóór opgenomen op de gesloten afdeling van de kliniek te Maastricht nadat hij met bloed en modder op zijn kleren en een mes van de Brunssummerheide was thuisgekomen. Het betreft [verdachte]. [verdachte] wordt dan aangemerkt als verdachte van tweevoudige moord/doodslag op de neergestoken slachtoffers op de Brunssummerheide. Daarop start de politie een zoekactie naar hem. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Hoewel er sprake is van een behoorlijke geografische afstand, worden er overeenkomsten gezien tussen de dood van [slachtoffer 1] en die van [slachtoffer 2] en [slachtoffer 3]. De slachtoffers waren alle drie burgers zonder voorgeschiedenis met justitie, die in een natuurgebied hun honden uitlieten. Ook hebben ze alle drie steekletsels aan hun hoofd en hun romp. Wanneer blijkt dat de verdachte een student is die in deeltijd in [plaats] woont, focust ook de Haagse recherche zich op de verdachte. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Forensisch en tactisch onderzoek </para>
+          <para>Gedurende het forensische en tactische onderzoek zijn aanwijzingen gevonden die de verdenking tegen de verdachte steeds sterker hebben gemaakt. Op basis van de gegevens van zijn ov-chipkaart en zijn telefoongegevens kan worden vastgesteld dat de verdachte op 4 mei 2019 in Den Haag was en dat hij op 5 mei 2019 is teruggereisd naar zijn ouderlijk huis in [plaats], alwaar hij op 7 mei 2019 nog steeds verbleef. De telefoongegevens laten verder zien dat de telefoon van de verdachte, rondom de tijdstippen waarop de slachtoffers zijn aangevallen, op zijn woonadres in [plaats] respectievelijk op het woonadres van zijn ouders is.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Er zijn ook getuigen die verklaren dat zij de verdachte rondom de plaatsen delict hebben gezien. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voorts is er bewijs in de vorm van verschillende DNA-matches. In de woning van de verdachte in [plaats] is een (schoongemaakt) mes aangetroffen. Op het lemmet van dat mes is DNA aangetroffen dat matcht met het DNA van [slachtoffer 1]. Daarnaast is er op een rugzak van de verdachte DNA-materiaal aangetroffen dat matcht met zowel het DNA van de verdachte als met het DNA van [slachtoffer 1]. Op de linker handschoen van [slachtoffer 1] is er DNA aangetroffen dat matcht met het DNA van de verdachte. Op de jas en koptelefoon van de verdachte is bloed aangetroffen met daarin DNA dat matcht met dat van [slachtoffer 2]. Op diezelfde jas is ook bloed aangetroffen met DNA-materiaal dat matcht met dat van [slachtoffer 3]. Ook is bloed op zowel de linker als de rechter schoen van de verdachte aangetroffen, dat matcht met het DNA van [slachtoffer 3] en van [slachtoffer 2].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ten slotte is er nog bewijs in de vorm van het (schoongemaakte) vleesmes, dat de verdachte zou hebben meegenomen naar de Brunssummerheide en dat later door de moeder van de verdachte aan de politie is overhandigd. Het NFI heeft het mes onderzocht. De conclusie van het onderzoek is dat het veel waarschijnlijker is dat de diverse letsels van [slachtoffer 2] en [slachtoffer 3] zijn toegebracht met dat bewuste mes dan met een willekeurig ander mes. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De bekennende verklaring </para>
+          <para>De verdachte heeft in zijn eerste verhoren bij de politie ofwel expliciet ontkend dat hij iets met de feiten te maken had ofwel heeft hij zich op zijn zwijgrecht beroepen. Naarmate het forensisch en tactisch onderzoek vorderde, is de verdachte tijdens zijn verhoren ook met de hiervoor opgesomde bewijsmiddelen zoals de DNA-matches geconfronteerd. Op 2 augustus 2019, drie maanden na zijn aanhouding, heeft hij vervolgens alsnog bekend dat hij [slachtoffer 1], [slachtoffer 2] en [slachtoffer 3] met messteken om het leven heeft gebracht ter uitvoering van zijn plan om willekeurige personen te doden. In daaropvolgende verhoren en terechtzittingen is hij bij die verklaring gebleven. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De bekennende verklaring van de verdachte kan - zakelijk weergegeven - als volgt worden samengevat. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte heeft verklaard dat hij voorafgaand aan 4 mei 2019 steeds meer berichten begon te zien in kentekenplaten van auto’s die voorbij reden, in tijden van de klok en in nieuwsberichten. Hij ving ook verschillende signalen op. Uiteindelijk ontvangt hij de boodschap dat hij twee mensen moet vermoorden, anders zal zijn familie worden uitgemoord. Op 3 mei 2019 is hij ervan overtuigd dat dat moet gebeuren. Wie hij moet doden, waar en hoe blijkt niet uit de boodschap. Waar en hoe beslist hij in de ochtend van 4 mei 2019. Hij besluit dat hij het in de Scheveningse Bosjes gaat doen, omdat hij die plek kent. Het is er beschut, overdag zijn er mensen, maar het is er niet te druk. Verder besluit hij dat hij het gaat doen met een mes. </para>
+          <para>Vervolgens reist de verdachte met de trein naar Den Haag, waar hij naar zijn appartement aan de [a-straat] gaat. In zijn appartement neemt de verdachte een mes uit de besteklade met de bedoeling er iemand mee te doden. Het is een ‘Jamie Oliver-mes’, dat eruit zag als een geschikt mes: iets dat scherp was, waarmee hij het snel kon doen. Hij weet nog niet wie hij gaat doden, het zal een willekeurige persoon zijn. Hij laat zijn telefoon achter in zijn appartement om niet getraceerd te kunnen worden en vertrekt te voet naar de Scheveningse Bosjes met het mes in zijn jaszak. Daar aangekomen wandelt hij een tijd rond om moed te verzamelen. De voor de verdachte geheel onbekende [slachtoffer 1] is toevallig degene die zijn slachtoffer zal worden. Zij fietst voorbij, er is niemand in de buurt en hij ziet zijn kans schoon. Hij rent naar haar toe met het mes en steekt van achter op haar in. Zij valt van haar fiets en komt op haar rug terecht. Verdachte blijft haar steken totdat ze niet meer beweegt. Hij steekt haar ongeveer 30 keer. Dan ziet hij dat ze dood is. Ten bewijze dat hij heeft voldaan aan zijn opdracht besluit hij haar pink af te snijden. Hij denkt namelijk ‘bewijs’ nodig te hebben voor ‘de jury’. De pink gooit hij even later echter weer weg, omdat hij het te gruwelijk vindt om met die pink rond te lopen.</para>
+          <para>Hij beseft wat hij gedaan heeft en is dan heel erg van streek. Hij wilde het niet en vond het afschuwelijk om te doen. Hij zegt dan tegen de lucht: ‘Oké, dat is nummer 1 en laat mij nummer 2 zijn’. Daarna kwam bij hem de twijfel van nog iemand of hijzelf... Hij is gaan ronddolen door het bos en heeft veel gepiekerd. Hij besloot op zichzelf in te steken, maar doet dat vervolgens niet. </para>
+          <para>Uiteindelijk loopt hij terug naar zijn appartement, waar hij - naar eigen zeggen -tussen 16.00 en 17.00 uur aankomt. Hij komt thuis, kleedt zich om, stuurt nog een berichtje aan zijn moeder, belt zijn vriendin om te gaan eten, doet boodschappen en gaat eten met zijn vriendin.</para>
+          <para>Op 5 mei 2019 reist hij terug naar zijn ouders te [plaats].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte heeft verklaard dat maandag 6 mei 2019 de hele dag niets aan de hand was en dat hij dacht dat alles goed was. Totdat hij die avond met zijn ouders op de bank zit en het idee krijgt dat de televisie hem vertelt dat zijn moeder eraan gaat. Vanaf dat moment ziet hij eigenlijk overal berichten in. Hij kan echter geen voorbeelden van die berichten geven; het was alsof de televisie tegen hem praatte. Ergens die avond heeft hij in ieder geval opgepikt dat hij opnieuw mensen moet doden en dat het dit keer echt menens is: het moeten er twee zijn. De volgende ochtend weet hij dat hij het zal gaan doen. Hij probeert zich zoveel mogelijk normaal te gedragen en laat eerst nog de hond uit. Hij zet daarna zijn telefoon uit, zodat hij niet getraceerd kan worden, pakt een groot mes uit het messenblok uit de keuken van zijn ouders, stopt dat in zijn rugzak en loopt naar de Brunssummerheide om twee moorden te plegen. De hond neemt hij niet mee, omdat hij van plan was om twee moorden te plegen en dan is het niet handig als hij een hond bij zich had. Die locatie is een bewuste keuze, omdat er daar wel mensen zijn, maar ook weer niet te veel. Er is dus een goede kans dat je het kunt doen zonder omstanders. Onderweg luistert hij naar heavy metal muziek.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Eenmaal op de Brunssummerheide pakt hij het mes uit de rugzak en doet het in zijn jaszak. Vervolgens wacht hij af totdat hij een goede kans ziet. Hij wil dan twee mensen vermoorden, omdat hij echt wil dat het voorbij zal zijn. Hij ziet een jonge vrouw, loopt achter haar aan met de gedachte om haar aan te vallen, maar kan zich er toch niet toe zetten om haar te doden, dit waarschijnlijk wegens de jonge leeftijd van die vrouw. Ook als het een hele grote man met een herdershond was geweest, was hij er niet voor gegaan. Daarna ziet hij weer een vrouw, naar later bleek de voor hem onbekende [slachtoffer 2]. Op het moment dat hij [slachtoffer 2] ziet, is er niemand in de buurt en doet zich dus een goede kans voor. Hij rent dan naar haar toe en steekt op haar in. Hij gaat daarmee door totdat ze dood is. Dat ze dood is, weet hij omdat er geen beweging meer in haar zit. Van binnenuit is hij keihard aan het huilen, omdat hij het verschrikkelijk vond om te doen. Eenmaal op adem gekomen, gaat hij op zoek naar een tweede slachtoffer. Hij loopt dan de voor hem onbekende man, naar later bleek [slachtoffer 3], tegemoet en als hij deze voorbij is, kijkt hij over zijn schouder en ziet opnieuw een goede kans. Hij rent op [slachtoffer 3] af en steekt van achteren op hem. De man verzet zich nog door met de hondenriemhouder tegen verdachtes hoofd te slaan, maar de verdachte blijft doorsteken en gaat door totdat [slachtoffer 3] niet meer beweegt. Toen wist hij dat ook hij dood was. De verdachte voelt zich daarna kortademig, verdoofd, enigszins opgelucht en vooral heel erg van streek. Hij doolt nog even verder over de heide tot aan de Rode Beek en wandelt dan naar huis. Thuis heeft hij het mes schoongemaakt en is hij in bad gegaan. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op basis van de hiervoor vermelde bewijsmiddelen, in het bijzonder het forensisch bewijs en de verklaring van de verdachte, acht het hof, met de rechtbank, wettig en overtuigend bewezen dat de verdachte op 4 mei 2019 in de Scheveningse Bosjes te Den Haag [slachtoffer 1] met messteken in het hoofd en in het bovenlichaam heeft gedood en dat hij op 7 mei 2019 op de Brunssummerheide te Heerlen [slachtoffer 2] en [slachtoffer 3] met messteken in het bovenlichaam heeft gedood.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>1.3.2.</nr>
+        <para>Voorbedachte raad – juridisch kader</para>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voorbedachte raad - standpunt van de verdediging </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdediging heeft gesteld dat de ernstige psychotische stoornis die is vastgesteld door de deskundigen in de weg staat aan de aanname dat de verdachte zich rekenschap heeft kunnen geven van de gevolgen van zijn voorgenomen daad. Hierbij verwijst de verdediging onder meer naar hetgeen de deskundigen Den Boer en Vermeulen alsook Weeda en Geurkink stellen als zij opmerken dat men in een psychose weliswaar afwegingen kan maken, maar dat die afwegingen niet weloverwogen zijn, omdat de realiteit volkomen is verstoord. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voorbedachte raad - oordeel van het hof </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof is van oordeel dat de verdachte – in ieder geval – ten tijde van de tenlastegelegde feiten leed aan een (psychische) stoornis, hetgeen onder ‘Strafbaarheid van de verdachte’ nader zal worden toegelicht. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De vraag die zich vervolgens aandient, is of deze bij de verdachte geconstateerde (psychische) stoornis een rol speelt in het hierboven geschetste toetsingskader van de Hoge Raad aangaande de voorbedachte raad. Uit de door de verdediging aangehaalde jurisprudentie en het door haar genoemde artikel over voorbedachte raad, blijkt in ieder geval dat er de afgelopen jaren verschillend is geoordeeld door rechtbanken en gerechtshoven over hoe voorbedachte raad zich verhoudt tot een psychische stoornis. Echter, het hof stelt voorop dat de eventuele ontoerekeningsvatbaarheid van de verdachte niet uitsluit dat sprake is geweest van voorbedachte raad. Zelfs wanneer de keuzevrijheid van een verdachte ten tijde van het feit zodanig was aangetast dat het bewezenverklaarde niet kan worden toegerekend, sluit dit niet uit dat sprake is van voorbedachte raad (vgl. Hoge Raad 5 februari 2008, ECLI:NL:HR:2008:BB4959 en Hoge Raad 19 mei 2015, ECLI:NL:HR:2015:1249). Ook iemand die lijdt aan een ziekelijke stoornis of gebrekkige ontwikkeling van de geestvermogens kan immers planmatig te werk gaan, zij het dat dat plan bijvoorbeeld kan zijn gebaseerd op een bij de verdachte levende voorstelling van zaken die geheel of ten dele tot stand is gekomen onder invloed van die stoornis of die gebrekkige ontwikkeling. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Niettemin kan de vraag opgeworpen worden of de aanwezigheid van een eventuele stoornis in voorkomende gevallen, bijvoorbeeld wanneer een stoornis een plotselinge hevige drift of ogenblikkelijke gemoedsopwelling veroorzaakt – al dan niet geluxeerd door verdovende middelen – een contra-indicatie oplevert. Immers, de geestelijke gesteldheid van de verdachte, de door hem verrichte gedragingen en de omstandigheden waarin de verdachte deze gedragingen uitvoert, kunnen zodanig van aard zijn dat hij niet daadwerkelijk de gelegenheid heeft om tijdens de uitvoering na te denken over de betekenis en de gevolgen van zijn daad. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uit de bewijsmiddelen blijkt dat de verdachte niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling. De verdachte heeft verklaard dat hij de opdracht kreeg om mensen te doden, maar dat hij vervolgens zelf bepaalde wie hij doodde, wanneer hij dat deed en waar hij dat deed. Aan die keuzes ging een aantal afwegingen vooraf, zoals blijkt uit de hiervoor weergegeven verklaring van de verdachte. Hij kiest plekken uit waar hij bekend is en waar voldoende mensen komen, maar ook weer niet te veel. Hij neemt steeds een geschikt mes mee. Bij de gepleegde feiten in Brunssum laat hij de hond thuis, omdat die anders in de weg zou lopen. Bij het feit in de Scheveningse Bosjes zorgt hij er voor dat hij niet via zijn telefoon getraceerd kan worden en ook maakt hij telkens ter plekke nog afwegingen ten aanzien van de geschiktheid van zijn slachtoffers: een jonge vrouw laat hij lopen en als voorbeeld noemt hij nog een grote man met een herdershond, waaraan hij zich niet gewaagd zou hebben. Op 4 mei 2019 besluit hij bovendien, in afwijking van zijn opdracht, geen tweede persoon te doden. </para>
+          <para>De verdachte maakt dus allerlei afwegingen en keuzes waaruit blijkt dat hij zich een voorstelling maakt van hoe en waar hij zijn daden het beste kan volbrengen. De verdachte heeft bovendien voldoende tijd genomen om zich te beraden op de door hem genomen besluiten om mensen om het leven te brengen en hij heeft uitdrukkelijk nagedacht over de wijze van uitvoering ervan. Dat alles duidt erop dat de verdachte niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling. Verdere aanwijzingen dat de verdachte niet in een ogenblikkelijke gemoedsopwelling heeft gehandeld zijn dat hij in de Scheveningse Bosjes aanvankelijk enige tijd heeft rondgewandeld om moed te verzamelen alvorens hij tot zijn daad kwam en dat hij op de Brunssummerheide eerst heeft afgewacht totdat hij een ‘goede kans’ zag. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uit de omstandigheden dat de verdachte al deze afwegingen gemaakt heeft en hij zichzelf eerst in de stemming moest brengen om zijn doel - het doden van een aantal mensen - te verwezenlijken, leidt het hof af dat de verdachte niet gehandeld heeft in een ogenblikkelijke gemoedsopwelling. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ook indien zou moeten worden aangenomen dat verdachtes voornemen om willekeurige personen te doden geheel en al is voortgevloeid uit de psychische stoornis, dan heeft dit aan zijn planmatige werkwijze ter uitvoering van dat voornemen kennelijk niet in de weg gestaan. De verdachte handelde dus weliswaar onder invloed van een (psychische) stoornis, maar heeft ook in deze toestand doelbewust en overdacht gehandeld, zoals blijkt uit het hiervoor overwogene. De verdachte heeft zich meermalen beraden en is zich zeer bewust geweest van de reële gevolgen van zijn handelen, namelijk de dood van zijn drie slachtoffers. Dat was immers zijn doel. Dat dit doel mogelijk voortkomt uit de (psychische) stoornis, doet aan het vorenstaande niet af en is enkel relevant in het licht van de beantwoording van de vraag omtrent de toerekeningsvatbaarheid van de verdachte. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Kortom, het hof is van oordeel dat niet aannemelijk is geworden dat de verdachte in een ogenblikkelijke gemoedsopwelling handelde in die zin dat besluitvorming en uitvoering hebben plaatsgevonden in een plotselinge hevige drift die eraan in de weg heeft gestaan dat de verdachte de consequenties van zijn daden kon overdenken en overzien. Het handelen van de verdachte wijst daar geenszins op. Integendeel: het getuigt eerder van doordachtheid, doelgerichtheid en ook een zekere mate van koelbloedigheid. </para>
+          <para>Ook overigens zijn geen contra-indicaties die aan het nemen van voorbedachte raad in de weg staan, aannemelijk geworden. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof verwerpt aldus het verweer van de verdediging. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>1.3.3.</nr>
+        <para>Conclusie </para>
+        <para />
+        <parablock>
+          <para>Het hof, met de rechtbank, acht wettig en overtuigend bewezen dat de verdachte met voorbedachten rade de drie slachtoffers heeft gedood en dat zijn handelen daarmee in alle drie de gevallen valt te kwalificeren als moord.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>Het hof heeft over de strafbaarheid van de verdachte het volgende overwogen: </para>
+        <para>“3.1 Inleiding </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Nu het hof de drie tenlastegelegde moorden bewezen en strafbaar acht, is de volgende vraag of die moorden in strafrechtelijke zin aan de verdachte kunnen worden toegerekend. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Juridisch kader </para>
+      <para />
+      <parablock>
+        <para>In het Nederlandse strafrecht is het uitgangspunt dat elke dader verantwoordelijk kan worden gehouden voor het door hem of haar gepleegde strafbare feit. Een strafbaar feit kan daarom in beginsel aan de verdachte worden toegerekend. Daarop is echter een uitzondering. In artikel 39 van het Wetboek van Strafrecht, zoals dat tot 1 januari 2020 luidde, is bepaald dat niet strafbaar is hij die een feit begaat, dat hem wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens niet kan worden toegerekend. Het gaat bij ontoerekenbaarheid om een exceptie, een uitzondering op het uitgangspunt dat iemand die zich schuldig maakt aan een strafbaar feit daarvoor kan worden gestraft. Een dergelijke uitzondering kan niet licht worden aanvaard. Indien en voor zover aan een verdachte zijn daden verminderd zijn aan te rekenen, zal dit bij de strafoplegging als strafverminderende omstandigheid gelden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De vraag naar de toerekenbaarheid is bovendien een juridische vraag. Het gaat om het vaststellen van een strafuitsluitingsgrond en de vaststelling of aan de voorwaarden daarvoor is voldaan, is een juridisch oordeel dat voorbehouden is aan de strafrechter. Dat laat onverlet dat de strafrechter bij de beantwoording van die vraag gebruik kan maken van adviezen van gedragsdeskundigen. De strafrechter heeft echter een eigen verantwoordelijkheid en is niet gebonden aan de door deskundigen uitgebrachte adviezen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Aan de strafrechter komt derhalve een zekere beoordelingsvrijheid toe bij het waarderen van de adviezen en het maken van een selectie uit die adviezen. Om ontoerekeningsvatbaarheid aan te kunnen nemen moet voldaan worden aan drie vereisten. Er moet in de eerste plaats sprake zijn van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens. In de tweede plaats moet er een causaal verband bestaan tussen deze stoornis of gebrekkige ontwikkeling en het tenlastegelegde delict. Ten slotte moet deze ziekelijke stoornis of gebrekkige ontwikkeling zodanig zijn dat zij aan toerekening van het strafbare feit aan de dader in de weg staan. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Wat die laatste eis betreft, stelt het hof vast dat artikel 39 van het Wetboek van Strafrecht niet meer doet dan straffeloosheid garanderen voor degene aan wie het strafbaar feit vanwege een psychische stoornis niet kan worden toegerekend. In welke gevallen en volgens welke criteria die toerekening achterwege kan blijven is ongewis. Nochtans leidt het hof uit de doctrine en de rechtspraak af dat daarvoor als beoordelingsstandaard gehanteerd kan worden of de verdachte door een psychische stoornis of gebrekkige ontwikkeling de strekking, de wettelijke en morele ongeoorloofdheid en/of context van zijn gedraging(en) niet heeft (kunnen) begrijpen, dan wel niet in staat was om overeenkomstig dat begrip zijn wil te vormen. Deze beoordelingsstandaard behelst aldus een cognitief en een volitief element. Het cognitieve onderdeel ziet op het ontbreken van een bepaald begrip van de wederrechtelijkheid en de morele ongeoorloofdheid van de handeling respectievelijk van de handeling op zichzelf of de context ervan, terwijl het volitieve element betrekking heeft op een aangetaste wilsfunctie. Alleen als de stoornis van de verdachte tot gevolg heeft dat hij de wederrechtelijkheid en de morele ongeoorloofdheid van het feit niet kan begrijpen of, als hij die wederrechtelijkheid en die morele ongeoorloofdheid wél begrijpt maar niet in overeenstemming met dat besef kan handelen, kan ontoerekeningsvatbaarheid aan de orde zijn. In deze zaak zijn drie rapporten opgemaakt over de geestvermogens van de verdachte: het rapport van het Pieter Baan Centrum (hierna: PBC) van de deskundigen T. den Boer, psychiater, en L. Vermeulen, GZ-psycholoog, een op verzoek van de verdediging door de deskundigen M.R. Weeda, psychiater, en P.E. Geurkink, GZ-psycholoog, opgemaakt rapport en een in opdracht van (de raadsheer-commissaris van) het hof opgemaakt rapport van de deskundigen A.H.A.C. van Bakel, psychiater, en K.J. de Wijs-Heijlaerts, GZ-psycholoog. De deskundigen Den Boer, Vermeulen, Van Bakel en De Wijs-Heijlaerts zijn daarnaast ter terechtzitting in hoger beroep, in elkaars bijzijn, gehoord. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof zal hierna eerst kort ingaan op de bevindingen en conclusies van de deskundigen. Daarna zal het hof de standpunten van het Openbaar Ministerie en de verdediging weergeven, om die vervolgens te beoordelen in het licht van het voorgaande. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Advies van de deskundigen </para>
+      <para />
+      <paragroup>
+        <nr>3.3.1</nr>
+        <para>Het PBC-rapport van de deskundigen Den Boer en Vermeulen d.d. 4 december 2019 </para>
+        <para />
+        <parablock>
+          <para>Op de vraag of de verdachte lijdende is aan een ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens en zo ja, hoe dat in diagnostische zin is te omschrijven, hebben de deskundigen - samengevat - het volgende geantwoord: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op de vraag of er sprake was van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens stellen de deskundigen dat er sprake is geweest van een ernstige psychotische ontregeling, met een lange aanloop en meerdere ernstige decompensaties in het beloop. De psychotische ontregeling van de verdachte kenmerkte zich niet door desorganisatie (bijvoorbeeld het uiten van wartaal), maar door paranoïde waanvorming, hallucinaties en catatonie. Binnen de door de verdachte ervaren waan, diende hij codes te ontcijferen en uiteindelijk opdrachten te vervullen, ter voorkoming van ernstige consequenties voor zijn familie, zo heeft de verdachte later, als de ernst van de psychose afneemt, te kennen gegeven. De inhoud van de waan en van de psychotische belevingen kenmerkt zich dan ook door betrekking-, achtervolgings-, beïnvloedings- en grootheidsideeën. De langdurige en ernstige psychotische ontregeling past vermoedelijk binnen het kader van een chronische psychotische stoornis, zoals schizofrenie. Gezien de stemmingscomponent (gelet op de huidige depressie en de burn-out klachten voorafgaand aan de psychotische ontregeling vanaf de zomer van 2018) kan ook gedacht worden aan een schizo-affectieve stoornis. Tot slot dient de mogelijkheid van een psychotische depressie niet uitgesloten te worden, hoewel het beeld op basis van de huidige presentatie en beloop meer past bij schizofrenie. De toekomst moet hier nog duidelijkheid in verschaffen. Forensisch is de precieze diagnose echter ook niet relevant, omdat het geven van de juiste benaming aan verdachtes toestandsbeeld vooral van belang is voor de noodzakelijke behandeling die opgestart moet worden en niet voor het begrijpen van het handelen. Het doet namelijk niets af aan het beschreven toestandsbeeld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens ten tijde van het plegen van de tenlastegelegde feiten aanwezig was, hebben de deskundigen het volgende geconcludeerd: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In de dagen voorafgaand aan en ten tijde van de tenlastegelegde feiten was betrokkene ernstig psychotisch ontregeld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De deskundigen beantwoorden de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens de gedragskeuzen van de verdachte, dan wel zijn gedragingen ten tijde van het tenlastegelegde, beïnvloedde met ‘ja’ en motiveren dat als volgt: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ten tijde van de ten laste gelegde feiten was er bij betrokkene sprake van een gedecompenseerd psychotisch toestandsbeeld, dat zich kenmerkte door ernstige realiteitstoetsingsproblematiek in de vorm van een uitgebreid waansysteem, leidend tot hevige paranoïde angsten en daarnaast verhoogde associativiteit en hallucinaties. Eenmaal eerder kwam betrokkene tot een ernstig agressieve daad. Dit betreft zijn suïcidepoging. De handelingen destijds hielden verband met de ernstige psychotische ontregeling. De wijze waarop betrokkene over de tenlastegelegde feiten spreekt, de wijze waarop hij zich opstelt tijdens de eerste en latere verhoren, informatie van referenten en het huidige beeld van betrokkene, leidt ertoe dat de deskundigen een direct verband zien tussen de psychotische ontregeling en de inhoud van de daarmee gepaard gaande wanen en angsten en de tenlastegelegde feiten. De ernstige realiteitstoetsingsproblematiek leidde bij betrokkene tot hevige angst en het niet kunnen plaatsen van de aard van zijn handelingen binnen een reëel perspectief. Het ontbrak betrokkene daarnaast aan mogelijkheden tot reële bezinning of reflectie, samenhangend met deze psychotische ontregeling. Betrokkene was met andere woorden overgeleverd aan de gevolgen van de ernstige psychische ontregeling. Om die reden wordt geadviseerd betrokkene de hem tenlastegelegde feiten niet toe te rekenen. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <para>Het Pro Justitia-rapport van de deskundigen Weeda en Geurkink d.d. 24 juni 2021 </para>
+        <para />
+        <parablock>
+          <para>Op de vraag of de verdachte lijdende is aan een ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens en zo ja, hoe dat in diagnostische zin is te omschrijven, hebben de deskundigen – samengevat – het volgende geantwoord:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op grond van het gehele onderzoek concluderen de deskundigen dat betrokkene in classificerende zin lijdt aan de stoornis schizofrenie. Schizofrenie is een chronische stoornis die in de eerste plaats gekenmerkt wordt door de aanwezigheid van psychotische episodes, die bij betrokkene hebben geleid tot sterk op de voorgrond staande paranoïde betrekkings- en beïnvloedingswanen, en daarnaast enige desorganisatie van denken en gedrag, kortdurende visuele hallucinaties en mogelijk ook akoestische hallucinaties. Daarbij was bovendien sprake van episodes van katatonie. Daarnaast is bij schizofrenie sprake van negatieve symptoomclusters. Bij betrokkene uit zich dat onder andere in affectieve vervlakking en initiatiefverlies. Deze negatieve symptomen gingen aan het volledig tot uiting komen van de psychotische stoornis vooraf, en zijn daarna in wisselende mate blijven spelen. Schizofrenie leidt bovendien tot een ernstig verval in functioneren op verschillende levensgebieden, zoals bij betrokkene evident het geval is. De diagnose schizofrenie werd door het PBC eind 2019 reeds overwogen. Differentiaal diagnostische overwegingen waren destijds een schizoaffectieve stoornis en een ernstige depressie met psychotische kenmerken. Deze diagnoses worden door de deskundigen verworpen op basis van zowel de inhoud van de bij betrokkene vastgestelde ziekteverschijnselen, als de ernst en het beloop ervan. De ten tijde van het PBC-onderzoek aanwezige depressieve stoornis is thans niet langer actueel. Ook de stoornis in cannabisgebruik is inmiddels geruime tijd in remissie. Deze stoornis heeft echter wel in (matig) ernstige mate gespeeld en kan zoals reeds betoogd in het geval van betrokkene niet los worden gezien van de diagnose schizofrenie. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens ten tijde van het plegen van de tenlastegelegde feiten aanwezig was, hebben de deskundigen het volgende geconcludeerd: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ten tijde van het plegen van de tenlastegelegde feiten was sprake van een floride psychotisch toestandsbeeld in het kader van de stoornis schizofrenie. Ook de stoornis in cannabisgebruik was actueel. Op het moment van de feiten was van een depressieve stoornis geen sprake, deze is pas later, in de loop van 2019, gaan spelen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De deskundigen beantwoorden de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens de gedragskeuzen van de verdachte, dan wel zijn gedragingen ten tijde van het tenlastegelegde, beïnvloedde met ‘ja’ en motiveren dat als volgt: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij betrokkene was ten tijde van de tenlastegelegde feiten sprake van een floride psychotisch toestandsbeeld, in het kader van de stoornis schizofrenie, met als gevaarlijke kern een paranoïde waansysteem met complotwanen en betrekkings- en beïnvloedingswanen. Betrokkene was er sinds medio 2018 in toenemende mate van overtuigd dat er een parallelle wereld was die bestuurd werd door psychopaten en waarvan hij het bestaan niet mocht onthullen, omdat dit tot ernstige consequenties voor zijn naasten zou leiden. Als zijn oom eind april 2019 overlijdt ziet betrokkene dit als de ultieme aanwijzing dat hij mensen moet doden om te voorkomen dat bijvoorbeeld zijn moeder ernstig gevaar zal lopen. In de periode voorafgaand aan en ten tijde van het tenlastegelegde wordt betrokkene volledig beheerst door deze waan. Op basis van onderhavig onderzoek kan worden gesteld dat betrokkenes denken, voelen en daarmee ook zijn handelen in de dagen voorafgaand aan het tenlastegelegde, en ten tijde van de tenlastegelegde feiten, volledig werden ingegeven, gekleurd en bepaald door de waandenkbeelden. Dit leidt tot het advies om betrokkene de tenlastegelegde feiten in het geheel niet toe te rekenen. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <para>Het Pro Justitia-rapport van de deskundigen Van Bakel en De Wijs-Heijlaerts d.d. 13 januari 2022 </para>
+        <para />
+        <parablock>
+          <para>Op de vraag of de verdachte lijdende is aan een ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens en zo ja, hoe dat in diagnostische zin is te omschrijven, hebben de deskundigen - samengevat - het volgende geantwoord: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De deskundigen hebben, met de informatie die zij op dit moment tot hun beschikking hebben, onvoldoende reden om te kunnen spreken van welomschreven psychopathologie bij betrokkene. Zij hebben in elk geval geen aanwijzingen gevonden voor het bestaan van de ziekte schizofrenie. Daarnaast is er naar de letter van de DSM-5, voor zover de kennis van de deskundigen op dit moment reikt, geen sprake van een persoonlijkheidsstoornis. De deskundigen kwalificeren betrokkenes intra- en interpersoonlijke functioneren echter wel als gemankeerd. De deskundigen sluiten niet uit dat er in de toekomst, wanneer er mogelijk meer informatie over betrokkenes functioneren beschikbaar is, wel tot het bestaan van persoonlijkheidspathologie besloten kan worden. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens ten tijde van het plegen van de tenlastegelegde feiten aanwezig was, hebben de deskundigen het volgende geconcludeerd: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het antwoord op de vraag of betrokkene ten tijde van het plegen van de hem tenlastegelegde feiten, indien bewezen, psychotisch gedecompenseerd was, wordt door de deskundigen open gelaten. Mocht dat naar de mening van het hof wel het geval zijn geweest, dan heeft die psychose naar de mening van de deskundigen eerder het karakter gehad van een middelen geïnduceerde psychose dan van een schizofrene psychose. Betrokkenes gemankeerde persoonlijkheid is van structurele aard en was derhalve ook aanwezig ten tijde van het plegen van de tenlastegelegde feiten, indien bewezen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De deskundigen beantwoorden de vraag of de ziekelijke stoornis en/of gebrekkige ontwikkeling van de geestvermogens de gedragskeuzen van de verdachte, dan wel zijn gedragingen ten tijde van het tenlastegelegde, beïnvloedde als volgt: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Omdat de deskundigen het antwoord op de vraag naar het al dan niet psychotisch geweest zijn van betrokkene in de periode rondom de tenlastegelegde feiten open laten, is het leggen van een verband tussen een eventuele psychose en de tenlastegelegde feiten in beginsel niet aan de orde. Mocht betrokkene naar het uiteindelijke oordeel van het hof in genoemde periode wel degelijk psychotisch zijn geweest, dan willen de deskundigen hier opmerken dat zij zich van betrokkenes binnenwereld op dat moment onvoldoende beeld hebben kunnen vormen om op basis daarvan betekenisvolle uitspraken te kunnen doen over het al dan niet door die psychose ingeperkt zijn geweest van betrokkenes wilsvrijheid. </para>
+          <para>Van de manier waarop betrokkenes gemankeerde persoonlijkheid - mocht deze op dit moment in juridische zin wel kwalificeren als psychische stoornis - in de tenlastegelegde feiten zou kunnen hebben doorgewerkt, hebben de deskundigen zich onvoldoende beeld kunnen vormen. Betrokkene heeft zich op dit punt onvoldoende laten onderzoeken. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De vierde vraag wordt, gelet op de beantwoording van de derde vraag, door de deskundigen niet beantwoord. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ter terechtzitting in hoger beroep is de deskundigen gevraagd - onder de aanname dat sprake is geweest van een verdovende middelen geïnduceerde psychose - of er voor de verdachte binnen die psychotische ontregeling ruimte was voor het besef van de ongeoorloofdheid van diens handelen en of de verdachte binnen die situatie keuzevrijheid had en zo ja, in welke mate. De deskundige Van Bakel heeft daarop naar voren gebracht dat hij die vraag niet kan beantwoorden, nu De Wijs-Heijlaerts en hij zich geen adequaat beeld hebben kunnen vormen over wat er in het hoofd van de verdachte omging. Toen de deskundige Van Bakel werd gevraagd of hij hierover iets in algemene zin kon zeggen, antwoordde hij dat het afhangt van het soort middel dat is gebruikt en dat het niet zo hoeft te zijn dat de persoon helemaal in een andere wereld zit. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De deskundige Van Bakel heeft voorts ter terechtzitting in hoger beroep verklaard dat een persoon in een psychose de keuze kan maken om een bepaald persoon niet als slachtoffer te kiezen, maar voor empathie is geen ruimte meer. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het standpunt van de advocaten-generaal </para>
+      <para />
+      <parablock>
+        <para>De advocaten-generaal hebben zich - op de gronden als uiteengezet in het schriftelijk requisitoir - op het standpunt gesteld dat de verdachte (in juridische zin) ten tijde van het begaan van de strafbare feiten lijdend was aan een ziekelijke, onbenoemde stoornis van de geestvermogens en/of een gebrekkige ontwikkeling. Zij vinden het echter onaannemelijk dat door deze stoornis het gewicht van de verwijtbaarheid van verdachtes handelen in sterke mate werd gerelativeerd. Zij achten wilsvrijheid bij de verdachte rondom het plegen van de feiten aanwezig; deze was door de stoornis niet dusdanig ingeperkt dat de verdachte geen enkele wilsvrijheid had. De verdachte maakte zelf de keuze wie hij zou doden, of hij medicatie zou nemen, of hij wel of geen ‘bewijs’ zou meenemen en hoe en wanneer hij zijn slachtoffers zou maken. Het gedrag van de verdachte rondom de feiten, zoals het bewust en weloverwogen thuislaten van zijn telefoon om niet getraceerd te kunnen worden tijdens het plegen van de feiten, maken (objectief) keuzevrijheid inzichtelijk. De advocaten-generaal komen tot de conclusie dat de verdachte hooguit verminderd toerekeningsvatbaar is. De feiten kunnen daarom aan de verdachte worden toegerekend, zij het in verminderde mate, aldus de advocaten-generaal. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Het standpunt van de verdediging </para>
+      <para />
+      <parablock>
+        <para>De verdediging heeft - op de gronden als verwoord in de pleitnota’s - betoogd dat de verdachte volledig ontoerekeningsvatbaar is. Zij heeft daartoe aangevoerd dat de waanbelevingen van de verdachte lange tijd hebben bestaan en worden gestaafd door objectieve omstandigheden. Al vanaf 2018 blijkt uit WhatsApp-gesprekken dat het slecht gaat met de verdachte. Andere objectieve omstandigheden zijn te vinden in de zoekslagen en de medische gegevens; door veel verschillende gedragsdeskundigen die de verdachte zagen wordt ‘psychose’ of ‘schizofrenie’ genoemd. Daaruit blijkt eveneens dat geen sprake kan zijn van een middelen geïnduceerde psychose. De verdachte heeft cannabis gebruikt als zelfmedicatie en heeft de dexamfetamine gebruikt conform de voorgeschreven wijze. Van culpa in causa is aldus geen sprake. De verdediging stelt zich op het standpunt dat bij de verdachte voorafgaand aan en ten tijde van de tenlastegelegde feiten sprake was van een (langer durende) ernstige psychose door de chronische ziekte schizofrenie en/of een schizoaffectieve stoornis, welke psychose mogelijk werd aangejaagd door de voorgeschreven dexamfetamine. Conform het rapport van de deskundigen Den Boer en Vermeulen alsook van Weeda en Geurkink kunnen de feiten de verdachte niet worden toegerekend en dient hij aldus te worden ontslagen van alle rechtsvervolging. </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Het oordeel van het hof </para>
+      <para />
+      <parablock>
+        <para>Vraag 1: Was er ten tijde van het begaan van de strafbare feiten sprake van een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van de verdachte?</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof stelt op basis van de hiervoor weergegeven adviezen uit de drie rapporten vast dat de deskundigen niet komen tot een éénduidig antwoord op de vraag of er sprake is van een gebrekkige ontwikkeling of een ziekelijke stoornis van de geestvermogens van de verdachte en ook niet tot een gelijke classificatie van de gebrekkige ontwikkeling of ziekelijke stoornis bij de verdachte. Het hof kan derhalve evenmin een specifieke gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bij de verdachte vaststellen. Echter, de wet noch de jurisprudentie vereist dat de stoornis wordt geclassificeerd volgens de DSM-5 en dat deze dient te worden vastgesteld door (een) gedragskundige(n). Het hof dient vast te stellen of sprake is van een stoornis en/of gebrekkige ontwikkeling in juridische zin. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Uit de drie rapporten, de verklaringen van de deskundigen ter terechtzitting in hoger beroep, de overige medische stukken die zich bevinden in het dossier alsook de verklaringen van de verdachte, blijkt wél dat de verdachte iets ‘mankeert’. </para>
+        <para>De deskundigen Den Boer en Vermeulen concluderen dat de langdurige en ernstige psychotische ontregeling van de verdachte vermoedelijk past binnen het kader van een chronische psychotische stoornis, zoals schizofrenie, maar dat er ook gedacht kan worden aan een schizoaffectieve stoornis, terwijl de mogelijkheid van een psychotische depressie niet uitgesloten dient te worden. De deskundigen Weeda en Geurkink stellen vast dat ten tijde van plegen van de feiten sprake was van een floride psychotisch toestandsbeeld in het kader van de stoornis schizofrenie en een stoornis in cannabisgebruik. </para>
+        <para>De deskundigen Van Bakel en De Wijs-Heijlaerts hebben geen stoornis kunnen diagnosticeren, maar sluiten tezelfdertijd niet uit dat er in de toekomst wel tot het bestaan van persoonlijkheidspathologie besloten kan worden. Op grond van het door hen opgemaakte rapport kan naar het oordeel van het hof niet worden geconcludeerd dat de verdachte ten tijde van het plegen van de tenlastegelegde feiten niet aan een ziekelijke stoornis van de geestvermogens leed, maar slechts dat de deskundigen deze stoornis niet hebben kunnen vaststellen. Zij kunnen ook niet uitsluiten dat de verdachte ten tijde van het plegen van de feiten hieraan wel leed. Wel komen zij tot de conclusie dat er sprake is van een gemankeerde persoonlijkheid. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof komt op basis van drie rapportages, in onderling verband en samenhang bezien, aldus tot de vaststelling dat de verdachte ten tijde van het begaan van de strafbare feiten leed aan een ziekelijke stoornis van de geestvermogens. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Vraag 2: Zo ja, is causaal verband tussen de stoornis en het strafbare feit voldoende aannemelijk? </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De deskundigen Den Boer en Vermeulen zien een direct verband tussen de psychotische ontregeling en de tenlastegelegde feiten. De deskundigen Weeda en Geurkink stellen dat het handelen van de verdachte volledig werd ingegeven, ingekleurd en bepaald door de waandenkbeelden die voortkwamen uit de door hen vastgestelde stoornis. </para>
+        <para>De deskundigen Van Bakel en De Wijs-Heijlaerts kunnen omtrent het causale verband geen uitspraak doen, nu zij zich daarover een onvoldoende beeld hebben kunnen vormen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het betreft een verdachte die getuige zijn levensloop nog niet eerder in zijn leven agressief is geweest, met uitzondering van de zelfmoordpoging in november 2018, die volgens de deskundigen Den Boer en Vermeulen tevens verband hield met zijn psychotische ontregeling. De verdachte kreeg - naar eigen zeggen - opdracht om te doden en heeft hier vervolgens naar gehandeld. De feiten staan daarmee in direct verband met de ten tijde van de tenlastegelegde feiten aanwezige stoornis. Het hof is gelet op het vorenstaande van oordeel dat het causale verband tussen de stoornis en de strafbare feiten voldoende aannemelijk is. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Vraag 3: Zo ja, welk oordeel moet – gelet op de eerste twee vragen en gelet op alle omstandigheden van de casus – over de toerekening worden gegeven? </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De deskundigen Den Boer en Vermeulen alsook de deskundigen Weeda en Geurkink hebben geconcludeerd de tenlastegelegde feiten in het geheel niet aan de verdachte toe te rekenen. </para>
+        <para>De deskundigen Van Bakel en De Wijs-Heijlaerts konden hieromtrent geen advies geven. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof overweegt als volgt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof heeft hiervoor onder het kopje ‘Juridisch kader’ al overwogen dat één van de eisen om ontoerekeningsvatbaarheid aan te kunnen nemen de vaststelling eist dat de ziekelijke stoornis of gebrekkige ontwikkeling zodanig is dat zij aan toerekening van het strafbare feit aan de dader in de weg staan. Het hof heeft vervolgens vastgesteld dat daarvoor als beoordelingsstandaard gehanteerd kan worden of de verdachte door een psychische stoornis of gebrekkige ontwikkeling de strekking, de wettelijke en de morele ongeoorloofdheid en/of context van zijn gedraging(en) niet heeft (kunnen) begrijpen, dan wel niet in staat was om overeenkomstig dat begrip zijn wil te vormen. Alleen als de stoornis van de verdachte tot gevolg heeft dat hij de wederrechtelijkheid en de morele ongeoorloofdheid van het feit niet kan begrijpen of, als hij die wederrechtelijkheid en die morele ongeoorloofdheid wel begrijpt maar niet in overeenstemming met dat besef kan handelen, kan ontoerekeningsvatbaarheid aan de orde zijn. Deze beoordelingsstandaard behelst zoals reeds gezegd een cognitief en een volitief of wilselement. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof duidt dit nader als volgt. In het cognitieve element wordt onderscheid gemaakt tussen ‘begrijpen’ en ‘kunnen begrijpen’, terwijl bij de aard van het handelen zowel de kwalificatie ‘ongeoorloofd’ als ‘onrechtmatig’ voorkomt. Het ‘handelings-element’ wordt ook wel als ‘wilselement’ aangeduid. In de kern gaat het echter steeds om een beperking van de verdachte in diens ‘inschattingsvermogen’ en ‘sturingsvermogen’ in relatie tot het delictgedrag. Het komt er eigenlijk op neer dat de rechtvaardiging voor het niet of in mindere mate verantwoordelijk houden van de verdachte voor zijn gedrag is gelegen in (de mate van diens) onvermogen zijn begrip en wil te kunnen vormen, ongeacht de oorzaak daarvan. Het cognitieve en/of volitieve onvermogen van de verdachte vormt daarvan de kern. In feite is hetgeen wat uiteindelijk voor de beantwoording van de vraag naar (de mate van) het toerekenen het meest relevant is, niet zozeer de stoornis an sich, maar de (mate van) dysfunctie van de verdachte en meer in het bijzonder (de mate van) diens onvermogen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Uit het verhandelde ter terechtzitting in eerste aanleg en in hoger beroep is gebleken dat de verdachte zich alles van de periode tijdens de bewezenverklaarde feiten herinnert en dat hij zich ten tijde van het tenlastegelegde ook zeer bewust was van de wederrechtelijkheid van zijn handelen. Hij wist dat hij geen mensen mocht doden en zijn begrip van de wederrechtelijkheid van zijn gedragingen was in die zin niet verstoord. Dat de verdachte er van overtuigd was dat hij die personen moest vermoorden, omdat zijn familie anders zou worden uitgemoord, doet daar niet aan af. De verdachte heeft onder meer verklaard dat hij eerst moed moest verzamelen alvorens hij aan de opdracht om te doden kon voldoen, hij telkens erg van streek was na het doden, hij het gruwelijk vond om te doen en het ook niet wilde doen en dat hij na het doden van binnen keihard aan het huilen was. Uit voornoemde onderdelen uit de verklaring van de verdachte is naar het oordeel van het hof gebleken dat hij over voldoende capaciteit beschikte om de betekenis van zijn gedragingen te beseffen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ook op basis van de inhoud van de gedragskundige rapporten kan worden vastgesteld dat de verdachte niet volledig verstoken was van het vermogen om zijn begrip en wil te kunnen vormen. Zo heeft de verdachte ter gelegenheid van het onderzoek door het Pieter Baan Centrum blijkens het daarvan opgemaakte rapport onder meer de volgende verklaring ten overstaan van de deskundigen afgelegd: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>‘Gesprek met betrokkene over de ten laste gelegde feiten </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Die vrijdag kwam ik tot de conclusie dat ik twee mensen moest vermoorden, omdat anders mijn familie vermoord zou worden.” (...) Hij is de ochtend van 4 mei naar Den Haag gegaan met de trein. Hij is in zijn appartement een keukenmes gaan pakken. Hij had bedacht dat hij iemand zou gaan doden en ook hoe hij dit zou gaan doen. Hij had ook bedacht dat hij één persoon zou doden en daarna zichzelf zodat hij op die manier zijn familie kon redden. In de trein voelde hij zich “somber en leeg”. (...) Onderweg zag hij codes in de treintijden en de bordjes. De boodschap was steeds “dat het er absoluut twee moesten zijn. (...)” </para>
+        <para>Hij had al van tevoren bedacht dat hij naar het Scheveningse bos zou gaan om “het” te doen. </para>
+        <para>Hij is dan ook, nadat hij in zijn appartement was geweest “door het bos gaan dolen”. Zijn telefoon heeft hij thuis gelaten omdat er GPS in zit. Omdat hij het echt niet wilde doen, heeft hij naar eigen zeggen “heel vaak en heel lang geaarzeld”. Hij ging desalniettemin door met zijn ‘missie’. “Het moest iemand zijn die alleen was en er moest niemand in de buurt zijn.” Toen zag hij iemand alleen lopen, trok het mes “en ik begon te hakken”. Volgens betrokkene hebben de vrouw en hij geen woorden gewisseld: hij heeft haar direct dood gestoken. (...) </para>
+        <para>Hij heeft haar pink afgesneden want hij wist niet of hij bewijs mee moest nemen. Deze heeft hij later weggegooid. Hij was “helemaal van streek”. Hij was meer bang en verdrietig dan boos. Hij wilde het niet nog eens doen, ook al was dat wel de opdracht. “Ik dacht: als er een nummer twee komt, ben ik dat zelf.”</para>
+        <para>(...) </para>
+        <para>De volgende dag ging hij terug naar Heerlen. (...) Hij voelde zich niet goed maar zag op dat moment geen boodschappen meer. Hij dacht dus dat men akkoord was gegaan met zijn invulling van de opdracht. Dit duurde twee dagen, tot maandagavond 6 mei. (...) Hij dacht dat de boodschap die hij op dat moment kreeg, betekende dat zijn moeder eraan zou gaan”. Vanaf dat moment begon hij alles wat op tv gezegd werd persoonlijk op te vatten. Hij hoorde dat er dit keer wel echt twee mensen gedood moesten worden om zijn familie te redden. Hij heeft geslapen en de volgende dag heeft hij tegen het einde van de ochtend de keuze gemaakt om “het” te doen, waarmee hij bedoelt dat hij de opdracht twee mensen te doden alsnog zou volbrengen. “Ik heb een mes gepakt en ben naar de Brunssummerheide gegaan. (...)” Betrokkene heeft een tijdje (hoe lang weet hij niet meer) rondgelopen op de Brunssummerheide, op zoek naar slachtoffers. Hij herinnert zich de beschrijving van een getuige, een jonge vrouw die merkte dat hij haar achterna liep tot ze bij een open vlakte kwam en omkeerde. Hij zegt hierover: “Ik zag haar en ik kon het niet. Misschien omdat ze te jong was ofzo.” De volgende persoon werd “het”. Het was een vrouw. “Ik rende op haar af om haar te steken zo snel als ik kon, zo vaak als ik kon.” Hij ging er meteen vandoor via een nabij gelegen bospad. Niet veel later kwam hij een man tegen, met een hond. Hij is ook direct op deze man afgegaan. De man verzette zich hevig (...). Nadat hij de man dood had achtergelaten, heeft hij nog even op de hei rondgelopen. (...)’ </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof citeert uit het door de deskundigen Weeda en Geurkink opgemaakte rapport de volgende verklaring van de verdachte: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>‘Houding ten opzichte van het ten laste gelegde </para>
+        <para>Onderstaande is een combinatie van het uitgebreide stuk dat betrokkene zelf schreef over de periode 2014 tot aan de ten laste gelegde feiten (schuingedrukt), en de gesprekken die ondergetekenden daarover met hem voerden. </para>
+        <para>(...) </para>
+        <para>“In de dagen hier op begon ik verborgen berichten te zien in nummerplaten en tijden van de klok. Toen ik door de Albert Heijn liep zag ik de Moederdag advertenties, dreigementen dacht ik. Ik begon te denken dat nieuwsberichten in metafoor over mij gingen. Het getal 2 kwam steeds terug. Er moest iets met het getal 2 zijn. Ik besefte dat ik 2 mensen zou moeten vermoorden voor mijn afspraak met [betrokkene 1]. Ik besefte dat het 2 vreemden zou zijn of mijn moeder en waarschijnlijk ikzelf.”</para>
+        <para>Hij vult aan: “Toen wist ik: dit gaat niet ophouden totdat ik doe wat er van me gevraagd wordt.”</para>
+        <para>“Toen kwam zaterdag 4 mei. Ik had dagenlang amper geslapen. Die ochtend was ik heel gespannen. Mijn tijd was bijna op. Ik nam de trein naar Den Haag. Eenmaal aangekomen op mijn appartement pakte ik een mes en maakte ik mijn weg naar de Scheveningse bosjes. Uiteindelijk had ik genoeg moed verzameld om het te doen. Ik rende op een voorbijganger en hakte tot ze dood was. Plots ging ik dubbel zien en zag ik een groene/paarse gloed. Ik raakte in een adrenaline rush. Ik verschool me in de bosjes en dacht ‘ik kan niet meer’. Ik heb nog een lange tijd door het bos gelopen, twijfelend of ik door zou zetten, maar ik kon het niet. In mijn jaszak zat een afgehakte pink die ik had meegenomen als bewijs. Ik besloot deze weg te gooien en verliet het bos. Ik besefte dat ik gefaald had. Op de terugweg zag ik overal boodschappen in verkeersbordjes en kentekens. Ik probeerde dit te negeren.” (...) </para>
+        <para>Betrokkene kan niet precies terughalen wanneer hij dacht dat hij niet nog een persoon kon doden. “Misschien had ik het van tevoren al bedacht? Ik wist in ieder geval daarna heel zeker dat er geen tweede zou volgen. Dat was het, ik ben er klaar mee. Ik doe het niet nog een keer. Het was echt verschrikkelijk om te doen, echt too much. Ik kan het niet beschrijven.” Op de vraag waarom hij de pink afsneed en meenam antwoordt hij: “Als bewijs. In een opwelling. Maar ik vond het steeds vreselijker. Ik dacht: ik heb geen bewijs nodig, het systeem weet en ziet toch alles. Daarom heb ik hem weggegooid.” </para>
+        <para>(...)</para>
+        <para>“Maandagavond 6 mei was een hele surreële avond. Alle kranten artikelen gingen over mij en het was alsof de televisie met mij praatte. Ik dacht dat werd gezegd dat mijn moeder dood zou gaan. (...) De televisie reageerde hier op en maakte mij duidelijk dat dit goed was. Opgelucht trok ik mij terug op mijn kamer en ging ik op mijn laptop. Ik zag allemaal Moederdag advertenties en besefte dat mijn moeders leven nog steeds bedreigd werd, en dat mijn opdracht nog steeds gefaald was. Ik besefte dat ik het snel overnieuw moest doen.” </para>
+        <para>(...) </para>
+        <para>Als hij niet zou ingrijpen, als hij niet twee mensen zou doden, dan zou zijn moeder het slachtoffer worden. Op de vraag waarom hij, nu hij al een vrouw gedood had, nog twee mensen zou moeten doden heeft betrokkene geen antwoord. “Dat weet ik echt niet. Ik was alleen maar bezig met twee.” Hij vertelt hoe gruwelijk hij het vond om opnieuw te “moeten” doden, zeker na de eerdere ervaring. “Ik wilde niet, ik durfde niet, alles was met de grootste tegenzin. (...)” (...)</para>
+        <para>“De volgende ochtend pakte ik een keukenmes en maakte ik mijn weg naar de Brunssummerheide. Onderweg luisterde ik naar agressieve metal om mijzelf op te fokken. Eenmaal op de locatie liep ik een poos rond om moed te verzamelen.” </para>
+        <para>Hij vertelt desgevraagd dat hij op de heide eerst “een meid van ongeveer mijn leeftijd” tegenkwam. “Dat kon ik niet.” Hij kan hier nauwelijks op reflecteren. “Kennelijk kon ik wel beslissen wie wel en wie niet.” (...) </para>
+        <para>“Toen ik eenmaal iemand op het oog had rende ik op haar af en hakte ik op haar in tot ze dood was. Ik voelde mij vreselijk, het is echt een heel naar gevoel. Enige tijd later kwam ik de volgende persoon tegen. Toen ik klaar was met de opdracht was ik in een soort van trance. Ik liep lange tijd doelloos over de heide.’</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>En het rapport van Van Bakel en De Wijs-Heijlaerts houdt als verklaring van de verdachte onder meer het volgende in: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>‘Psychologisch onderzoek</para>
+        <para>(...)</para>
+        <para>Houding ten opzichte van de ten laste gelegde feiten </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Aanloop naar de ten laste gelegde feiten </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(...) Ten aanzien van de overtuiging dat hij twee mensen moest ombrengen vertelt hij het volgende. ‘Dat idee kwam bij mij binnen. Het is niet zo dat ik een stem heb gehoord. Ik had wel veel twijfel; ik wist het pas echt zeker dat ik het moest doen, toen ik in de trein zat naar Den Haag’. Gevraagd naar waaruit betrokkene dan precies afleidde dat hij twee mensen om het leven moest brengen, geeft hij aan dat hij gefixeerd was op het getal 2, dat hij bovengemiddeld vaak zag op nummerborden of andere zaken, waardoor hij dacht dat het geen toeval kon zijn. ‘Ook de tijden van de klok communiceerden met mij. (...) Het was een geheel aan hints dat ik kreeg waar ik uit opmaakte dat ik twee mensen moest doodmaken’. (...) Als ik geen gehoor zou geven aan de opdracht zou in eerste instantie mijn moeder vermoord worden, daarna andere familieleden en tot slot zou ik zelf vermoord worden’. (...) Het was noodzakelijk om het te doen. Ik heb wel heel vaak gedacht, doe het nu maar, want je maakt het alleen maar erger. Het was bedoeld om erger te voorkomen’. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ten aanzien van het eerste ten laste gelegde feit </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Voorafgaand aan de eerste doding zegt betrokkene dat hij gekozen had voor een mes als moordwapen, omdat hij niets beters wist te verzinnen. ‘Een pistool zou makkelijker geweest zijn, maar die had ik niet tot mijn beschikking. Een mes is alleen wel heel gewelddadig’. Besproken wordt of hij bij de keuze van de wijze waarop hij de moorden zou plegen het gevaar voor zijn eigen leven in beschouwing heeft genomen. Hij verklaart hierover dat hij zich bewust was van de risico’s, maar dat zijn eigen leven hierin geen rol speelde. ‘Ik was helemaal klaar met het leven. Het ging mij er alleen om dat mijn familie niet uitgemoord zou worden en dat ik niet dagenlang gemarteld zou worden’. Alvorens op pad te gaan naar de Scheveningse Bosjes, heeft hij enkele maatregelen getroffen om niet gepakt te worden. Betrokkene vertelt hierover: ‘Binnen het systeem was het zo dat een misdaad begaan als een heel grote deugd werd gezien, maar gepakt worden, was binnen het systeem een zonde. Je moest dus een dekmantel hebben. Dat is de reden dat ik mijn telefoon had thuisgelaten, want dan kon ik altijd zeggen dat ik op dat moment thuis was’. Over de keuze voor de Scheveningse Bosjes als locatie waar hij iemand zou gaan neersteken, vertelt hij dat hij er vaak kwam en het gebied goed kende. ‘Er lopen vaak mensen alleen te wandelen. Soms zie je iemand en dan weer een tijd helemaal niemand. Dat was dus een goede plek om het te doen. Ik heb in totaal een paar uur daar rondgedwaald. Zeker een uur ervoor en erna ook nog wel een uur’. Over zijn gemoedstoestand het uur voor de moord vertelt hij dat hij worstelde met het vinden van de moed om de opdracht ook daadwerkelijk te volbrengen. ‘Ik wilde het niet doen. Ik moest een knop omzetten van “oké, heel koelbloedig, geen medelijden hebben”. Ik zei tegen mezelf: “probeer mensen als een ding te zien, niet als een levend wezen, doe alsof je in een computerspel zit, daar heb je het zo vaak in gedaan. Met die gedachte lukt het uiteindelijk wel’’. Betrokkene vertelt dat op een gegeven moment bij een bosje, een mevrouw op een fiets voorbijkwam. ‘Ik keek om me heen en toen ik niemand zag, heb ik haar van achteren gestoken. Ik heb haar en die mevrouw op de Brunssummerheide niet in het gezicht gezien, dat hielp om het makkelijker te maken om het te doen. Ze viel, ze schreeuwde. En ik bleef maar steken totdat ze niet meer bewoog’. Betrokkene had aanvankelijk het plan opgevat om de vinger van het slachtoffer af te snijden om die avond aan LR te laten zien. Hiertoe sneed hij haar pink af en liep er een tijdje mee rond. Later zou hij hebben doorgekregen dat het systeem hem kon horen en zien en dat ze zijn gedachten konden lezen, waardoor de pink als ‘bewijsmateriaal’ niet meer nodig was. Gevraagd naar of het moeilijk was om de pink af te snijden, vraagt hij of rapporteur doelt op het feitelijk verminken of op hoe dit mentaal gezien voor hem was. Wanneer rapporteur aangeeft beide aspecten te bedoelen, zegt hij: ‘Mentaal was wel moeilijk, maar het was niet moeilijk om het eraf te snijden, dat ging heel goed. Daarna heb ik de pink weggegooid’. (...) Na de eerste doding zou betrokkene nog een tijd lang daar hebben rondgedwaald. Tot een tweede doding is het die dag niet gekomen. ‘Ik was in een trance in mezelf gekeerd. Dat ik daar misschien weg moest, kwam niet in me op. Ik kon me er evenwel niet toe zetten om nog iemand te vermoorden. Ik dacht, “dan nemen ze mij maar”. (...) </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Tussen het eerste ten laste gelegde feit en de feiten 2 en 3 </para>
+        <para>(...) </para>
+        <para>Betrokkene vertelt dat hij de dag erna naar [plaats] is gereisd. (...) Op 6 mei 2019 ‘s avonds, toen hij bij zijn ouders op de bank tv aan het kijken was, zag hij een tv-programma dat in metaforen met hem sprak. ‘Toen opende ik een website en daarop waren allemaal moederdag advertenties te zien. Die zag ik als een persoonlijke bedreiging naar mij. Toen wist ik, ik moet nog een keer en deze keer moeten het er twee zijn. Deze keer was het menens. (...)’ </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ten aanzien van de feiten 2 en 3 </para>
+        <para>Over de gebeurtenissen op 7 mei 2019 vertelt betrokkene het volgende. ‘Ik ben overdag naar de Brunssummerheide gegaan. Ik moest mezelf er wel toe aanzetten om het te doen. Ik had een iPad met heavy metal muziek om zoveel mogelijk agressie op te wekken. Ik heb toen eerst weer een poos daar rondgelopen, ben best wat mensen gepasseerd zonder wat te doen. Op een gegeven moment kwam ik een mevrouw tegen en toen nam ik mezelf voor “niet denken maar gewoon doen.” Geen van de vrouwen heb ik van voren in hun gezicht gezien, dat maakt het ook makkelijker om het te doen. (...) Gevraagd naar of het volgende slachtoffer bewust een man was, omdat hij twee mensen om het leven moest brengen en of zij wellicht ook van beide geslachten moesten zijn, zegt hij dat dit totaal geen verschil maakte. ‘Geslacht of afkomst maakte totaal niet uit. Daar keek ik totaal niet naar. Ook leeftijd zou geen rol van betekenis hebben gespeeld. ‘Leeftijd maakte voor het systeem niet uit, maar ik had er wel meer moeite mee om een jonger iemand te doden. Als je één keer een gevoel van medelijden voelt, dan lukt het niet meer’. De man heeft zich tijdens de aanval tegen betrokkene heftig verzet. (...) </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Psychiatrisch onderzoek</para>
+        <para>(...)</para>
+        <para>Speciële psychiatrische anamnese, inclusief het tenlastegelegde</para>
+        <para>(...)</para>
+        <para>Een dag later, op vrijdag 3 mei 2019 – een dag nadien zou betrokkene zijn eerste slachtoffer maken, indien bewezen –, werd hem uit hetgeen via klokken en nummerborden tot hem kwam, duidelijk dat het systeem wilde dat hij twee mensen om het leven zou brengen. Zou hij dat niet doen, dan zouden zijn ouders sterven. Betrokkene wilde het niet, maar het moest. Hij toog op zaterdagochtend 4 mei 2019 met de trein naar Den Haag, omdat hij dacht dat het daar moest gaan gebeuren. Die avond zou hij thuis in Den Haag LR op bezoek krijgen, eveneens ontwaakt, die dan zou beoordelen of hij al dan niet aan de opdracht voldaan had. Betrokkene zegt dat hij te voet van het station naar zijn woning is gelopen en daarna ook weer te voet naar de Scheveningse Bosjes. Hij heeft die dag niet in een bus gezeten. Betrokkene zegt dat het hem met veel moeite lukte om zichzelf zover te krijgen dat hij een oudere vrouw om het leven bracht, en wel met een mes. Het mes was niet verplicht. Betrokkene was vrij in de keuze van zijn middelen. (...) Betrokkene zegt dat het hem na het om het leven brengen van de 56-jarige vrouw niet meer lukte om nog een tweede slachtoffer te maken. ‘Ik kon het echt niet meer.’ Betrokkene spreekt over ‘een eigen moraal die je dan tegenhoudt’, in weerwil van de moraal die het systeem hem, met kracht, probeerde op te leggen. ‘Het mechanisme dat iets je tegen staat - bv. iemand met een mes steken, of jezelf slaan -, zit veel dieper dan een logische redenering. Je emoties kan het niet schelen wat logisch is. Je brein wil dan toch iets anders.’ (...) Het systeem hield zich daarna enkele dagen koest, tot de avond van 6 mei 2019. Betrokkene zat bij zijn ouders thuis op de bank en had plotseling het idee dat de tv met hem communiceerde dat er deze keer toch echt twee mensen vermoord moesten worden. De dag daarna bracht hij op de Brunssummerheide inderdaad twee mensen met messteken om het leven. Deze keer was het nog moeilijker dan in Den Haag. Op de heide liep hij eerst een aantal mensen voorbij. Betrokkene noemt een grote brede man met een herdershond. ‘Bij hem had ik geen kans.’ Daarna zag hij een meisje van zijn eigen leeftijd. ‘Ik kreeg het niet over mijn hart. Ik wilde die persoon geen kwaad doen.’ Een ouder iemand, iemand van boven de 50, was een betere optie. ‘Toen ik op een gegeven moment die vrouw zag, zette ik een knop om. Ik mocht niet meer twijfelen.’ Daarna stak hij ook nog een oudere man neer.’ </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof stelt op grond van de hierboven weergegeven inhoud van de gedragskundige rapporten vast dat de verdachte voor, tijdens en na de delicten de strekking, de wettelijke en de morele ongeoorloofdheid en de context van zijn gedragingen in ieder geval tot op zekere hoogte heeft kunnen begrijpen en ook tot op zekere hoogte in staat was om overeenkomstig dat begrip zijn wil te vormen. De verdachte verkeerde dus niet in het volledige onvermogen om in overeenstemming van het nog bij hem levende begrip van de morele ongeoorloofdheid en wederrechtelijkheid van de bewezenverklaarde feiten te handelen en hij was evenmin volledig verstoken van zijn vermogens om krachtens dat inzicht zijn wil te bepalen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze omstandigheden maken het dat het hof het advies van de deskundigen Den Boer en Vermeulen alsook deskundigen Weeda en Geurkink, om de verdachte volledig ontoerekeningsvatbaar te achten, niet zal volgen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verweren van de verdediging </para>
+        <para>Nu het hof niet komt tot een classificatie van de stoornis van de verdachte, laat het hof in het midden of de eventuele psychose waarin de verdachte verkeerde het gevolg was van schizofrenie, een schizoaffectieve stoornis dan wel van een andere aanwezige stoornis of dat sprake was van een (verdovende) middelen geïnduceerde psychose. Het hof gaat daarom niet verder in op het al dan niet verkeerd innemen van de voorgeschreven medicatie door de verdachte, het drugsgebruik van de verdachte en de geloofwaardigheid van diens verklaringen omtrent zijn middelen- en/of medicijngebruik. Gelet daarop behoeft het verweer van de verdediging omtrent de culpa in causa ook geen bespreking. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof gaat, zoals hierboven uiteengezet, uit van een stoornis ten tijde van de gepleegde feiten. Of alle verklaringen over systemen, gedachten en opdrachten die zich als gevolg van de stoornis volgens de verdachte in de daarvóór liggende periode (tot ver vóór de gepleegde strafbare feiten) overeenkomstig zijn met hetgeen de verdachte zich daadwerkelijk herinnert of een latere invulling zijn of een verhaal om zijn daden te disculperen, kan het hof niet beoordelen. </para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Conclusie </para>
+        <para>Het hof concludeert dat het gedrag van de verdachte ten tijde van de bewezenverklaarde feiten weliswaar in overwegende mate, doch niet volledig, werd bepaald door zijn ziekelijke stoornis. Op basis van de beschikbare informatie gaat het hof ervan uit dat de verdachte ten tijde van de feiten in enige mate in staat was een afweging te maken en dat hij voldoende in staat was om in overeenstemming met zijn begrip van de wederrechtelijkheid en morele ongeoorloofdheid van de feiten te handelen. Gelet hierop kan van volledige ontoerekeningsvatbaarheid geen sprake zijn. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het beroep van de verdediging op artikel 39 van het Wetboek van Strafrecht wordt dus verworpen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Gelet op hetgeen hiervoor is overwogen, komt het hof, met de rechtbank, tot het oordeel dat de feiten in verminderde mate aan de verdachte kunnen worden toegerekend. Die conclusie heeft tot gevolg dat de verdachte wel strafbaar is, omdat geen feiten of omstandigheden aannemelijk zijn geworden die zijn strafbaarheid volledig uitsluiten.”</para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het cassatiemiddel klaagt dat de bewezenverklaring van de feiten 1, 2 en 3, voor zover deze inhoudt dat de verdachte (telkens) met voorbedachte raad heeft gehandeld, ontoereikend is gemotiveerd in het licht van de vaststelling van het hof dat ten tijde van de tenlastegelegde feiten sprake was van ‘een psychische stoornis’ bij de verdachte.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Voor een bewezenverklaring van het bestanddeel ‘voorbedachte raad’ moet komen vast te staan dat de verdachte zich gedurende enige tijd heeft kunnen beraden op het te nemen of het genomen besluit en dat hij niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling, zodat hij de gelegenheid heeft gehad na te denken over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap te geven.<?linebreak?>Bij de vraag of sprake is van voorbedachte raad gaat het bij uitstek om een weging en waardering van de omstandigheden van het concrete geval door de rechter, waarbij deze het gewicht moet bepalen van de aanwijzingen die voor of tegen het bewezenverklaren van voorbedachte raad pleiten. De vaststelling dat de verdachte voldoende tijd had om zich te beraden op het te nemen of het genomen besluit vormt weliswaar een belangrijke objectieve aanwijzing dat met voorbedachte raad is gehandeld, maar behoeft de rechter niet ervan te weerhouden aan contra-indicaties een zwaarder gewicht toe te kennen. Daarbij kan bijvoorbeeld worden gedacht aan de omstandigheid dat de besluitvorming en uitvoering in plotselinge hevige drift plaatsvinden, dat slechts sprake is van een korte tijdspanne tussen besluit en uitvoering of dat de gelegenheid tot beraad eerst tijdens de uitvoering van het besluit ontstaat. Zo kunnen bepaalde omstandigheden (of een samenstel daarvan) de rechter uiteindelijk tot het oordeel brengen dat de verdachte in het gegeven geval niet met voorbedachte raad heeft gehandeld.<?linebreak?>Mede met het oog op het strafverzwarende gevolg dat dit bestanddeel heeft, moeten aan de vaststelling dat de voor voorbedachte raad vereiste gelegenheid heeft bestaan, bepaaldelijk eisen worden gesteld en dient de rechter, in het bijzonder als de voorbedachte raad niet rechtstreeks uit de bewijsmiddelen volgt, daaraan in zijn motivering van de bewezenverklaring nadere aandacht te geven.<?linebreak?>De achtergrond van het vereiste dat de verdachte de gelegenheid heeft gehad na te denken over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap te geven, is dat ingeval vaststaat dat de verdachte die gelegenheid heeft gehad, het redelijk is aan te nemen dat de verdachte gebruik heeft gemaakt van die gelegenheid en dus daadwerkelijk heeft nagedacht over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap heeft gegeven (vgl. het overleg en nadenken dat in de wetsgeschiedenis is geplaatst tegenover de ogenblikkelijke gemoedsopwelling). Dat de verdachte daadwerkelijk heeft nagedacht en zich rekenschap heeft gegeven leent zich immers moeilijk voor strafrechtelijk bewijs, zeker in het geval dat de verklaringen van de verdachte en/of eventuele getuigen geen inzicht geven in wat voor en tijdens het begaan van het feit in de verdachte is omgegaan. Of in een dergelijk geval voorbedachte raad bewezen kan worden, hangt dan sterk af van de hierboven bedoelde gelegenheid en van de overige feitelijke omstandigheden van het geval zoals de aard van het feit, de omstandigheden waaronder het is begaan alsmede de gedragingen van de verdachte voor en tijdens het begaan van het feit. Daarbij verdient opmerking dat de enkele omstandigheid dat niet is komen vast te staan dat is gehandeld in een ogenblikkelijke gemoedsopwelling, niet toereikend is om daaraan de gevolgtrekking te verbinden dat sprake is van voorbedachte raad. (Vgl. HR 15 oktober 2013, ECLI:NL:HR:2013:963.)</para>
+      <paragroup>
+        <nr>4.3.1</nr>
+        <para>Voor zover het cassatiemiddel berust op de opvatting dat het hof nadere vaststellingen had moeten doen over de precieze aard van de bij de verdachte vastgestelde ‘psychische stoornis’ en de manier waarop en de mate waarin deze stoornis de gedachten en het gedrag van de verdachte ten tijde van de tenlastegelegde feiten heeft beïnvloed, faalt het omdat die opvatting in haar algemeenheid geen steun vindt in het recht.</para>
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2</nr>
+        <para>Het hof heeft geoordeeld dat “de eventuele ontoerekeningsvatbaarheid van de verdachte niet uitsluit dat sprake is geweest van voorbedachte raad”. Dat oordeel getuigt niet van een onjuiste rechtsopvatting (vgl. HR 5 februari 2008, ECLI:NL:HR:2008:BB4959 en HR 16 maart 2010, ECLI:NL:HR:2010:BK8507). De bewezenverklaring is op dit punt toereikend gemotiveerd. De Hoge Raad neemt daarbij in aanmerking dat het hof uitvoerig heeft gemotiveerd dat en waarom – ondanks de vastgestelde ‘psychische stoornis’ – sprake is van voorbedachte raad. Het hof heeft daarbij, niet onbegrijpelijk, onder meer in aanmerking genomen dat de verdachte planmatig te werk is gegaan, hij de keuze heeft gemaakt welke slachtoffers hij zou doden, hij voldoende tijd heeft genomen om zich te beraden op de door hem genomen besluiten om mensen om het leven te brengen en allerlei afwegingen en keuzes heeft gemaakt waaruit blijkt dat hij zich een voorstelling heeft gemaakt van hoe en waar hij zijn daden het beste kon volbrengen. De daarop gebaseerde conclusie van het hof dat de verdachte niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling en dat ook geen andere contra-indicaties aannemelijk zijn geworden die aan het aannemen van voorbedachte raad in de weg staan, is niet onbegrijpelijk.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Het cassatiemiddel faalt in al zijn onderdelen. </para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>Beoordeling van het derde, het vierde en het vijfde cassatiemiddel</title>
+    <paragroup>
+      <nr>5.1</nr>
+      <parablock>
+        <para>De cassatiemiddelen komen met verschillende deelklachten onder meer op tegen het oordeel van het hof dat de bewezenverklaarde feiten (gedeeltelijk) aan de verdachte kunnen worden toegerekend. De cassatiemiddelen lenen zich voor gezamenlijke bespreking.</para>
+        <para>
+          <emphasis role="italic">Aan de beoordeling van de cassatiemiddelen voorafgaande beschouwing</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Aan een verdachte bij wie ten tijde van het begaan van het tenlastegelegde feit sprake was van – kort gezegd – een psychische stoornis, kan onder omstandigheden een beroep toekomen op de in artikel 39 van het Wetboek van Strafrecht (hierna: Sr) omschreven strafuitsluitingsgrond. De Hoge Raad ziet in de conclusie van de procureur-generaal in deze zaak aanleiding om nader in te gaan op enkele onderdelen van het daarbij te hanteren beoordelingskader, in het bijzonder met betrekking tot de ontoerekenbaarheid als bedoeld in artikel 39 Sr.</para>
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>De volgende wettelijke bepalingen zijn van belang.</para>
+        <para>- Artikel 37a leden 1 en 3 Sr:</para>
+        <para>“1. Indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen dat eist, kan de rechter gelasten dat een verdachte ter beschikking wordt gesteld indien hij tot het oordeel komt dat:</para>
+        <para>1°. bij de verdachte tijdens het begaan van het feit gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond; en</para>
+        <para>2°. het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld dan wel behoort tot een van de misdrijven omschreven in de artikelen 132, 285, eerste lid, 285b, en 395 van het Wetboek van Strafrecht, 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994, en 11, tweede lid, van de Opiumwet.</para>
+        <para>3. Ten behoeve van het oordeel, bedoeld in het eerste lid, doet de rechter een met redenen omkleed, gedagtekend en ondertekend advies overleggen van ten minste twee gedragsdeskundigen van verschillende disciplines, waaronder een psychiater, die de betrokkene hebben onderzocht. Zodanig advies dient door de gedragsdeskundigen gezamenlijk dan wel door ieder van hen afzonderlijk te zijn uitgebracht. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend, kan de rechter hiervan slechts gebruik maken met instemming van het openbaar ministerie en de verdachte. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over dit advies.”</para>
+        <para>- Artikel 39 Sr zoals dat luidde ten tijde van de bewezenverklaarde feiten:</para>
+        <para> “Niet strafbaar is hij die een feit begaat, dat hem wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens niet kan worden toegerekend.”</para>
+        <para>- Artikel 39 Sr luidt sinds de inwerkingtreding van de wet van 24 januari 2018, houdende regels voor het kunnen verlenen van verplichte zorg aan een persoon met een psychische stoornis (Wet verplichte geestelijke gezondheidszorg, Stb. 2018, 37) op 1 januari 2020:</para>
+        <para>“Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap niet kan worden toegerekend.”</para>
+        <para>- Artikel 289 Sr:</para>
+        <para>“Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.”</para>
+      </parablock>
+      <paragroup>
+        <nr>5.4.1</nr>
+        <para>Het is aan de feitenrechter om vast te stellen of bij de verdachte ten tijde van het begaan van het tenlastegelegde feit een psychische stoornis als bedoeld in artikel 37a Sr en artikel 39 Sr bestond. De rechter heeft daarin een eigen verantwoordelijkheid en is niet gebonden aan de door deskundigen uitgebrachte adviezen. De vaststelling dat sprake is van zo’n psychische stoornis, is van feitelijke aard en kan in cassatie slechts op haar begrijpelijkheid worden getoetst. (Vgl. over artikel 37a Sr HR 22 januari 2008, ECLI:NL:HR:2008:BC1311.)</para>
+      </paragroup>
+      <paragroup>
+        <nr>5.4.2</nr>
+        <para>In zijn arrest van 18 december 2012, ECLI:NL:HR:2012:BY5355 heeft de Hoge Raad verder geoordeeld dat geen rechtsregel meebrengt dat alleen een stoornis die is omschreven in de Diagnostic and Statistical Manual of Mental Disorders (hierna: DSM) kan worden aangemerkt als een “gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens” zoals bedoeld in artikel 37a lid 1 Sr. De Hoge Raad heeft in dat arrest bovendien opgemerkt dat de enkele omstandigheid dat een stoornis wel als zodanig wordt aangeduid in de DSM, evenmin betekent dat de rechter tot het oordeel moet komen dat sprake is van zo’n gebrekkige ontwikkeling of ziekelijke stoornis<emphasis role="italic">.</emphasis> Deze uitgangspunten zijn ook van toepassing ten aanzien van de psychische stoornis als bedoeld in artikel 39 Sr.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>De feitenrechter kan op grond van artikel 39 Sr beslissen dat het tenlastegelegde feit niet aan de verdachte kan worden toegerekend als ten tijde van dat feit bij de verdachte sprake was van een stoornis als bedoeld in deze bepaling en de verdachte als gevolg van die stoornis niet kon begrijpen dat dat feit wederrechtelijk was of niet in staat was in overeenstemming te handelen met zijn begrip van de wederrechtelijkheid van dat feit.</para>
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <parablock>
+        <para>Gedragingen van de verdachte die aan het optreden van de in artikel 39 Sr bedoelde stoornis zijn voorafgegaan, kunnen in de weg staan aan het oordeel dat het tenlastegelegde feit niet aan de verdachte kan worden toegerekend in de zin van deze bepaling, maar slechts onder bijzondere omstandigheden. Van zulke bijzondere omstandigheden kan bijvoorbeeld sprake zijn als het optreden van de stoornis aan de verdachte zelf te wijten is geweest omdat hij verdovende middelen heeft gebruikt. <?linebreak?>(Vgl. HR 9 juni 1981, ECLI:NL:HR:1981:AC0902 en HR 12 februari 2008, ECLI:NL:HR:2008:BC3797.)</para>
+        <para>
+          <emphasis role="italic">Het oordeel van de Hoge Raad </emphasis>
+        </para>
+      </parablock>
+      <paragroup>
+        <nr>5.7.1</nr>
+        <para>Het hof heeft naar aanleiding van het onderzoek op de terechtzitting en mede op basis van drie gedragskundige rapportages, in onderling verband en samenhang bezien, geoordeeld dat de verdachte ten tijde van het begaan van de strafbare feiten leed aan een psychische stoornis, zonder dat het daarbij een specifieke stoornis heeft vastgesteld. In dat verband heeft het hof verder geoordeeld dat “de wet noch de jurisprudentie vereist dat de stoornis wordt geclassificeerd volgens de DSM-5 en dat deze dient te worden vastgesteld door (een) gedragskundige(n)” en dat het hof moet vaststellen “of sprake is van een stoornis en/of gebrekkige ontwikkeling in juridische zin”. Deze oordelen getuigen, gelet op wat onder 5.4.2 is vooropgesteld, niet van een onjuiste rechtsopvatting. Voor zover het derde en het vierde cassatiemiddel berusten op de opvatting dat het hof vaststellingen had moeten doen over de precieze aard van de bij de verdachte vastgestelde stoornis, falen zij dus omdat die opvatting in haar algemeenheid geen steun vindt in het recht.</para>
+      </paragroup>
+      <paragroup>
+        <nr>5.7.2</nr>
+        <para>Het hof heeft vastgesteld dat de tenlastegelegde feiten in direct verband staan met de ten tijde van die feiten bij de verdachte aanwezige stoornis. Met betrekking tot de vraag of de bewezenverklaarde feiten aan de verdachte kunnen worden toegerekend, heeft het blijkens zijn onder 3.3 weergegeven overwegingen acht geslagen op wat daarover is aangevoerd door de vertegenwoordigers van het openbaar ministerie en door de verdediging. Verder heeft het hof onder ogen gezien dat over deze vraag in twee gedragskundige rapportages als advies van de betreffende deskundigen naar voren is gebracht dat de feiten (in het geheel) niet aan de verdachte zouden moeten worden toegerekend. Het hof heeft daarnaast op basis van zowel die gedragskundige rapportages, als van een derde gedragskundige rapportage en van in die rapportages weergegeven (door het hof geciteerde) eigen verklaringen van de verdachte overwogen dat de verdachte voor, tijdens en na de tenlastegelegde feiten “de strekking, de wettelijke en de morele ongeoorloofdheid en de context van zijn gedragingen in ieder geval tot op zekere hoogte heeft kunnen begrijpen en ook tot op zekere hoogte in staat was om overeenkomstig dat begrip zijn wil te vormen”. In dat verband heeft het hof ook vastgesteld dat de verdachte bij het begaan van de feiten telkens keuzes heeft gemaakt ten aanzien van de persoon van het beoogde slachtoffer en het moment van handelen. Op basis hiervan heeft het hof vastgesteld dat de verdachte niet verkeerde “in het volledige onvermogen om in overeenstemming van het nog bij hem levende begrip van de morele ongeoorloofdheid en wederrechtelijkheid van de bewezenverklaarde feiten te handelen en [dat] hij evenmin volledig verstoken [was] van zijn vermogens om krachtens dat inzicht zijn wil te bepalen”. <?linebreak?>Mede op grond van dit alles heeft het hof geconcludeerd dat de verdachte ten tijde van het begaan van de bewezenverklaarde feiten in enige mate in staat was een afweging te maken en voldoende in staat was om de wederrechtelijkheid van zijn gedragingen te begrijpen en overeenkomstig dat begrip te handelen. Verder heeft het hof geoordeeld dat het handelen van de verdachte weliswaar in overwegende mate, maar niet volledig werd bepaald door zijn stoornis en dat gelet hierop de feiten in verminderde mate aan de verdachte kunnen worden toegerekend. Dat oordeel getuigt, gelet op wat onder 5.4.1 en 5.5 is vooropgesteld, niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk. Verweven als het is met waarderingen van feitelijke aard, is voor verdere toetsing van dit oordeel in cassatie geen plaats.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>5.8</nr>
+      <para>Voor zover de cassatiemiddelen hierover klagen, falen ze.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>6</nr>Beoordeling van de cassatiemiddelen voor het overige</title>
+    <para>De Hoge Raad heeft ook de overige klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>7</nr>Ambtshalve beoordeling van de uitspraak van het hof </title>
+    <para>De verdachte bevindt zich in voorlopige hechtenis. De Hoge Raad doet uitspraak nadat meer dan zestien maanden zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in artikel 6 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden is overschreden. Dit moet leiden tot vermindering van de opgelegde gevangenisstraf van 22 jaren.</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>8</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>- vermindert deze in die zin dat deze 21 jaren en 10 maanden beloopt;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren Y. Buruma, A.L.J. van Strien, C. Caminada en T. Kooijmans, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">17 oktober 2023</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

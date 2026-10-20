@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2021:770</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T02:08:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-05-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-06-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/01240</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2020:2423" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2020:2423</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:251" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2021:251</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2021-0159 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2021/1726</rdf:li>
+          <rdf:li>NJ 2021/220</rdf:li>
+          <rdf:li>RvdW 2021/620</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:770">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:770</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-05-28T12:33:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-06-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2021:770 Hoge Raad , 01-06-2021 / 20/01240</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2021:770:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Belaging (art. 285b.1 Sr), handelen in strijd met gedragsaanwijzing (art. 184a Sr) en vernieling (art. 350.1 Sr). Maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking (langdurig toezicht), art. 38z Sr. Kan deze maatregel slechts worden opgelegd als reclasseringsrapport de oplegging daarvan daadwerkelijk adviseert? Gelet op het mogelijk ingrijpende karakter en de potentieel lange duur van het toezicht vergt oplegging van deze maatregel steeds een beoordeling van de individuele feiten en de omstandigheden van het voorliggende geval. Blijkens wetsgeschiedenis dient rechter die maatregel oplegt o.m. een inschatting te maken van het toekomstige recidiverisico, waarbij hij rekening houdt met het type delict (i.h.b. of aan dat delict mogelijk een verhoogd recidiverisico kleeft), omstandigheden waaronder dat is begaan en eventuele eerdere strafbare feiten. Wetgever achtte het daarbij van belang dat rechter t.b.v. deze beoordeling over een recent opgemaakt gemotiveerd reclasseringsadvies beschikt dat ook een risicotaxatie omvat. Geen rechtsregel vereist dat maatregel slechts kan worden opgelegd indien en v.zv. in rapportage van reclassering de oplegging van die maatregel wordt geadviseerd. Volgt verwerping.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2021:770:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	20/01240 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		1 juni 2021</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 20 maart 2020, nummer 21-004242-19, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] , </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1996,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft P. Scholte, advocaat te Amsterdam, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel komt op tegen de oplegging van de maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking als bedoeld in artikel 38z van het Wetboek van Strafrecht (hierna: Sr). Het voert daartoe onder meer aan dat het hof heeft miskend dat deze maatregel slechts kan worden opgelegd als een reclasseringsrapport “de oplegging van de maatregel (...) daadwerkelijk adviseert”.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft de verdachte veroordeeld ter zake van - kort gezegd - 1. belaging, 2. opzettelijk handelen in strijd met een gedragsaanwijzing en 3. vernieling. Het hof heeft de verdachte veroordeeld tot een gevangenisstraf voor de duur van vier maanden en gelast dat de verdachte ter beschikking zal worden gesteld met bevel tot verpleging van overheidswege. Ook heeft het hof aan de verdachte onder meer de maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking als bedoeld in artikel 38z Sr (hierna ook: de maatregel) opgelegd. Het hof heeft de oplegging van die maatregel in zijn uitspraak als volgt gemotiveerd:</para>
+        <para>“Er zijn omtrent de persoon van verdachte verschillende rapportages opgemaakt. Verdachte is onderzocht door S.A. Moonen, GZ-psycholoog, en N. Duits, psychiater. Op basis van uitvoerige gesprekken met verdachte hebben beiden op respectievelijk 10 april 2019 en 13 april 2019, minder dan een jaar geleden, gerapporteerd over verdachte.</para>
+        <para>Daarnaast beschikt het hof over adviezen van Reclassering Nederland uitgebracht op 15 januari 2019, 15 april 2019 en 10 juli 2019, alsook voortgangsverslagen van 12 september 2019, 7 november 2019, 6 februari 2020 en 5 maart 2020, waarin op basis van (wekelijkse) gesprekken tussen verdachte en de reclassering de voortgang in, kort gezegd, de dadelijk uitvoerbaar verklaarde TBS maatregel wordt gerapporteerd, mede op basis van aan de reclassering verstrekte informatie van de behandelaars van de verdachte.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(...)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Motivering van de maatregel langdurig toezicht ex artikel 38z Wetboek van Strafrecht</para>
+        <para>Het hof zal - naast de maatregel van TBS met verpleging - tevens een maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking als bedoeld in artikel 38z van het Wetboek van Strafrecht opleggen. Daarmee wordt de mogelijkheid gecreëerd om verdachte ook na afloop van de gemaximeerde TBS maatregel onder toezicht te stellen indien dat in verband met alsdan bestaande risico's noodzakelijk is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ook in dit verband heeft het hof acht geslagen op de hierboven aangehaalde rapportage Pro Justitia. Hieruit komt onder meer naar voren dat de psychische problematiek van verdachte structureel van aard is, dat verdachte niet of nauwelijks ziektebesef of -inzicht heeft en dat de kans op recidive groot is. Omdat niet verwacht wordt dat verdachte zich zonder meer aan voorwaarden houdt, is het noodzakelijk dat de behandeling klinisch aanvangt zodat verdachte gemotiveerd kan worden een behandeltraject aan te gaan, wat gezien zijn problematiek een langdurig en taai proces kan worden. Daarnaast moet langdurig aandacht besteed worden aan procesdiagnostiek en medicamenteuze behandeling van verdachtes psychopathologie.</para>
+        <para>In de behandeling dient men ervoor te waken dat verdachte te snel vrijheden krijgt (zoals toegang tot internet/sociale media).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De door het hof op te leggen gemaximeerde maatregel van terbeschikkingstelling zal na ommekomst van ten hoogste vier jaren van rechtswege eindigen. Het is de vraag of binnen die tijd de benodigde langdurige behandeling van verdachte kan plaatsvinden. Toekomstige risico's ten aanzien van de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen kunnen op met de gemaximeerde TBS in die zin mogelijk beperkt ondervangen worden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Gelet hierop acht het hof het noodzakelijk om de gedragsbeïnvloedende of vrijheidsbeperkende maatregel als bedoeld in artikel 38z Sr op te leggen. Aan de wettelijke vereisten voor oplegging van de maatregel is voldaan. De beoordeling van de noodzaak tot tenuitvoerlegging van de maatregel, en indien nodig onder welke voorwaarden, zal in de laatste fase van de aan verdachte opgelegde ter beschikkingstelling plaatsvinden. Een risicotaxatie van het dan aanwezige recidivegevaar dient in het kader van die beoordeling plaats te vinden.”</para>
+      </parablock>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 38z Sr luidt:</para>
+          <para>“1. Ter bescherming van de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen kan de rechter, ambtshalve of op vordering van het openbaar ministerie, een verdachte een maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking opleggen indien die verdachte bij die rechterlijke uitspraak:</para>
+          <para>a. ter beschikking wordt gesteld als bedoeld in de artikelen 37a, 37b of 38;</para>
+          <para>b. wordt veroordeeld tot een gevangenisstraf, of een gevangenisstraf waarvan een gedeelte niet zal worden ten uitvoer gelegd, wegens een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen en waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;</para>
+          <para>c. wordt veroordeeld tot een gevangenisstraf, of een gevangenisstraf waarvan een gedeelte niet zal worden ten uitvoer gelegd, wegens een misdrijf als omschreven in de artikelen 240b, 248c, 248d, 248e, 250, 273f, 317, eerste lid.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Bij de vordering tot oplegging van de maatregel legt de officier van justitie een recent opgemaakt, met redenen omkleed en ondertekend advies over van een reclasseringsinstelling.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>De geschiedenis van de wet van 25 november 2015, Stb. 2015, 460, die heeft geleid tot de totstandkoming van artikel 38z Sr, houdt onder meer het volgende in:</para>
+          <para>- de memorie van toelichting:</para>
+          <para>“Het belang dat gehecht wordt aan de voorzienbaarheid brengt met zich dat de rechter de zelfstandige maatregel reeds in het vonnis dient op te leggen. Op dat moment zal het voor de rechter lastig zijn om een inschatting te maken van de toekomstige persoonlijke omstandigheden van betrokkene en van de mate van succes van een mogelijke (tbs-)behandeling. De beoordeling van het toekomstige recidiverisico die de rechter bij het opleggen van de maatregel dient te maken rust niet zozeer op deze factoren, als wel op het type delict, waaraan mogelijk een verhoogd recidiverisico kleeft, de omstandigheden waaronder dat is begaan en eventuele eerdere strafbare feiten. Ten behoeve van deze beoordeling beschikt de rechter daarnaast over een recent opgemaakt gemotiveerd reclasseringsadvies dat naast een diagnose ook een risicotaxatie omvat. Een voorbeeld van een screeningsinstrument dat daarbij wordt gehanteerd is de «Recidive Inschattingsschalen» (RISc). De reclassering bepaalt met behulp hiervan in welke mate er sprake is van risico op recidive, welke factoren de kans op recidive vergroten (criminogene factoren) én welke interventies nodig zijn om deze kans te verkleinen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deze maatregel dient ter bescherming van de veiligheid in de samenleving. Personen die een ernstig delict hebben begaan, en in het bijzonder personen die een zeden- of zwaar geweldsdelict hebben gepleegd, veroorzaken doorgaans veel onrust in hun sociale omgeving wanneer zij terugkeren in de maatschappij. Indien blijkt dat het recidiverisico na de straf, voorwaardelijke invrijheidsstelling of terbeschikkingstelling niet voldoende is verminderd of als er bescherming nodig is voor slachtoffers of getuigen, kan de maatregel ten uitvoer worden opgelegd. Met de nieuwe maatregel krijgt de rechter meer mogelijkheden om voorzieningen te treffen die zoveel mogelijk zijn afgestemd op de persoon van de dader en het door hem gepleegde strafbare feit. Hierdoor wordt de effectiviteit van de rechtspraak vergroot.” </para>
+          <para>(Kamerstukken II 2013/14, 33816, nr. 3, p. 15 en p. 28)</para>
+          <para>- de nota naar aanleiding van het verslag:</para>
+          <para>“Gelet op het mogelijk ingrijpende karakter van de zelfstandige maatregel en de potentieel zeer lange duur van het toezicht, acht ik het niet wenselijk dat rechters bij bepaalde zeden- of geweldsmisdrijven als het ware automatisch een zelfstandige maatregel opleggen. Het opleggen van de zelfstandige maatregel vergt steeds een afweging van de individuele feiten en omstandigheden van het voorliggende geval. Naast het type delict, waaraan al dan niet een verhoogd recidiverisico kleeft, dienen daarbij onder meer de omstandigheden waaronder het delict is begaan, de persoon van de dader, de impact die het delict heeft gehad op het slachtoffer en mogelijk ontstane maatschappelijke onrust te worden betrokken. Ten behoeve van de beoordeling van het toekomstige recidiverisico beschikt de rechter daarnaast over een recent opgemaakt gemotiveerd reclasseringsadvies dat naast een diagnose ook een risicotaxatie omvat.” </para>
+          <para>(Kamerstukken II 2013/14, 33816, nr. 6, p. 22)</para>
+          <para>- de memorie van antwoord aan de Eerste Kamer:</para>
+          <para>“Tot slot wijzen deze leden erop dat de officier van justitie op grond van het tweede lid van artikel 38z verplicht is om bij zijn vordering tot oplegging van de zelfstandige maatregel een reclasseringsadvies over te leggen en zij willen weten of deze verplichting niet voor de rechter geldt, indien deze ambtshalve oplegging van de maatregel overweegt. Indien er geen reclasseringsadvies voorhanden is en de rechter overweegt ambtshalve een zelfstandige maatregel op te leggen, zal hij alsnog een reclasseringsadvies opvragen. De uiteindelijke beslissing over het al dan niet opleggen van de zelfstandige maatregel is echter aan de rechter en een daartoe strekkend positief reclasseringsadvies is daarvoor niet vereist, net zo min als dat voor het kunnen opleggen van de tbs-maatregel vereist is dat het NIFP-advies strekt tot oplegging van die maatregel.”</para>
+          <para>(Kamerstukken I 2015/16, 33816, D, p. 32)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Gelet op het mogelijk ingrijpende karakter en de potentieel lange duur van het toezicht vergt de oplegging van de maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking steeds een beoordeling van de individuele feiten en de omstandigheden van het voorliggende geval. Blijkens de hiervoor weergegeven wetsgeschiedenis dient de rechter die de maatregel oplegt onder meer een inschatting te maken van het toekomstige recidiverisico, waarbij hij rekening houdt met het type delict (in het bijzonder of aan dat delict mogelijk een verhoogd recidiverisico kleeft), de omstandigheden waaronder dat is begaan en eventuele eerdere strafbare feiten. De wetgever achtte het daarbij van belang dat de rechter ten behoeve van deze beoordeling over een recent opgemaakt gemotiveerd reclasseringsadvies beschikt dat ook een risicotaxatie omvat. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>Geen rechtsregel vereist dat de maatregel slechts kan worden opgelegd indien en voor zover in de rapportage van de reclassering de oplegging van die maatregel wordt geadviseerd. Voor zover het cassatiemiddel uitgaat van een andere rechtsopvatting, faalt het. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.3</nr>
+        <para>De Hoge Raad heeft ook de verder in het cassatiemiddel aangevoerde klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren Y. Buruma en A.L.J. van Strien, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">1 juni 2021</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

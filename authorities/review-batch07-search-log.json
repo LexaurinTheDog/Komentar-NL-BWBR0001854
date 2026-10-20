@@ -1,0 +1,85 @@
+{
+  "verified_at": "2026-10-20T17:06:59.890171+00:00",
+  "scope": "Selective research for38z,39,40,41,45. No exhaustive coverage claimed.",
+  "web_queries": [
+    "site.rechtspraak.nl \"38z\" \"Hoge Raad\" \"2021\"",
+    "site.rechtspraak.nl \"psychische overmacht\" \"van buiten komende drang\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"begin van uitvoering\" \"2021\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"Hoge Raad\" \"39\" \"kan worden toegerekend\" \"2023:1295\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2021:770\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2012:BX6734\""
+  ],
+  "discovery_method": "Web discovery followed by official full XML; PHR conclusions/third-party summaries not used as authority for a holding. Followed2021:481 to its expressly incorporated2021:389.",
+  "firecrawl": {
+    "availability_check": "firecrawl --status: authenticated,0 credits; no scrape performed in this batch and no service changes.",
+    "fallback": "Direct official repository manifest/XML/WTI and Rechtspraak full decisions fetched and format-validated."
+  },
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2021:770",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-770.md",
+      "sha256": "ac417b9dba828ed8f26dddbf24ac6779f6a15c7014d5971d435419b34249db02",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Selected primary authority; separate case card."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2023:1295",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-1295.md",
+      "sha256": "49af15860d8216b9d515c347c320a354570a2613fb778288ae6cda2dafec9201",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Selected primary authority; separate case card."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2012:BX6734",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2012-bx6734.md",
+      "sha256": "7c6d121f20255196caa78a6bd454800154861b5b23b5795cea904897cc598ea2",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Selected primary authority; separate case card."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2016:456",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2016-456.md",
+      "sha256": "19d21edecb8067a05c289d764d2aaf4f0a4e9ce000d85cb5b2004819105def8e",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Selected primary authority; separate case card."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2021:481",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-481.md",
+      "sha256": "3f2a305bf710f5b97aae7de706b929876450a280e73b1ff0e77f82c14b2589f9",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Discovery/related decision only; refers to2021:389 for reasons."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2021:389",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-389.md",
+      "sha256": "f161c405cbf22102543648aac50e3ccae89f84dad45e37b90b6dd09e206b910a",
+      "method": "Exact local national-corpus lookup; relevant passages compared with freshly fetched official full judgment. Full official judgment read, including quoted lower-court reasons, party submissions and disposition.",
+      "disposition": "Selected primary authority; separate case card."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2021:770",
+    "ECLI:NL:HR:2023:1295",
+    "ECLI:NL:HR:2012:BX6734",
+    "ECLI:NL:HR:2016:456",
+    "ECLI:NL:HR:2021:481",
+    "ECLI:NL:HR:2021:389"
+  ],
+  "selected_authorities": [
+    "ECLI:NL:HR:2021:770",
+    "ECLI:NL:HR:2023:1295",
+    "ECLI:NL:HR:2012:BX6734",
+    "ECLI:NL:HR:2016:456",
+    "ECLI:NL:HR:2021:389"
+  ],
+  "supported_units": [
+    "a38z",
+    "a39",
+    "a40",
+    "a41",
+    "a45"
+  ],
+  "other_units": "No additional sufficiently relevant verified decision selected for the other15 assigned units. This is not a claim that relevant cases do not exist.",
+  "primary_fetch_evidence": "sources/review-batch07-fetch-log.json"
+}
