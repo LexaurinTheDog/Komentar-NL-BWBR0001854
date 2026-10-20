@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2014-03-01_0/xml/BWBR0001854_2014-03-01_0.xml",
+    "accessed_at": "2026-10-20T22:00:10.432624+00:00",
+    "path": "sources/author-a144-a156-history-2014-03-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "7200d0ae7c31448a8b8383230621aaecec98a5fb1897a6e0eeb1cc1694e94533",
+    "bytes": 2737630,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-07-01_0/xml/BWBR0001854_2024-07-01_0.xml",
+    "accessed_at": "2026-10-20T22:00:11.356298+00:00",
+    "path": "sources/author-a144-a156-history-2024-07-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "09cdf46816fb5fc1883a2f2bec4d6c358199ccd298401a5419c8ab0b14a79f11",
+    "bytes": 2513453,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+    "accessed_at": "2026-10-20T22:00:12.163668+00:00",
+    "path": "sources/author-a144-a156-history-2025-07-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+    "bytes": 2534015,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+    "accessed_at": "2026-10-20T22:00:13.101174+00:00",
+    "path": "sources/author-a144-a156-history-2026-01-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "bytes": 2544128,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  }
+]

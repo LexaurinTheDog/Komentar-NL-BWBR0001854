@@ -1,0 +1,10 @@
+{
+  "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:321",
+  "http_status": 200,
+  "accessed_at": "2026-10-20T22:00:19.626739+00:00",
+  "sha256": "0e7bfa8b1de25aba170319cbebd4aafb597067421fa88eb93dccf3cfd3a18368",
+  "path": "sources/author-a144-a156-HR-2018-321.xml",
+  "root": "open-rechtspraak",
+  "full_judgment": true,
+  "rejected_previous_endpoint": "api/content/uitspraak returned HTML; not used as judgment"
+}

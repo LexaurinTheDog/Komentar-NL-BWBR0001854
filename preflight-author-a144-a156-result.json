@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "scope": "Bounded author batch a144–a156 with inserted/repealed slots; whole-book official structure checked, authorship limited to twenty IDs.",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:03:40.738160+00:00",
+  "version_evidence": "sources/author-a144-a156-version-evidence.json",
+  "historical_versions_checked": "sources/author-a144-a156-historical-change-map.json",
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-a144-a156-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": []
+}

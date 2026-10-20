@@ -1,10 +1,11 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 797,
+  "local_links_checked": 812,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AL6209",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:321",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1523",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:2028",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:625",
@@ -46,6 +47,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1156",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:202",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:2242",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:321",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:843",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1378",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:389",

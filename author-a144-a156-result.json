@@ -1,0 +1,240 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a144",
+    "a145",
+    "a146",
+    "a147",
+    "a147a",
+    "a148",
+    "a149",
+    "a150",
+    "a151",
+    "a151a",
+    "a151b",
+    "a151c",
+    "a151d",
+    "a151e",
+    "a151f",
+    "a152",
+    "a153",
+    "a154",
+    "a155",
+    "a156"
+  ],
+  "completed_units": 20,
+  "created_at": "2026-10-20T22:04:22.777147+00:00",
+  "commentary_file": "commentary/part-19.md",
+  "commentary_sha256": "db319ba1864b101f0d3245a74034db041e5610ff451d8a64ff2fdbac229ae213",
+  "unit_checks": [
+    {
+      "id": "a144",
+      "statutory_sha256": "e67c23b13cb785b96bef09436f8cd5fd6dce21b4549b307169c99950c8474a55",
+      "commentary_chars": 1762,
+      "commentary_sha256": "4de7756d4a1915727fa82b669a3749965009086c331a42d2a9b138eabf6f9bd6",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a145",
+      "statutory_sha256": "a0a6a367750aff0170125862756256b677d10b526f150aa814881bcd1978b17e",
+      "commentary_chars": 1739,
+      "commentary_sha256": "d832bb9bd6a78da4b029f76d72de28c3ba0336e7a712db2b6b2680064ba4d712",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a146",
+      "statutory_sha256": "2dc2aca622e456a0d1900cec0e2e351db0201f66e3cf3b6dadbb21aefd28d53f",
+      "commentary_chars": 1761,
+      "commentary_sha256": "1be2e0e6ed94926a484c1befec8a5f585bb9fe783d6b22f4fb02b869602c983e",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a147",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 863,
+      "commentary_sha256": "1afe6c85194a1d5da255efb8c1c7f52529ca5ee2ee6e26c7e01240a8e7c9b0cf",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    },
+    {
+      "id": "a147a",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 876,
+      "commentary_sha256": "bf8dc63e0b27fb1960812a5ccee2f5caca9ecdf633e8bff42abcc7aef28a01f7",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    },
+    {
+      "id": "a148",
+      "statutory_sha256": "b0ed2166154759f8add66b875e77c6d60c5adfc69ad27aedc162d3c06684d875",
+      "commentary_chars": 1657,
+      "commentary_sha256": "6f4a92986bd885f88fe8a9aed1e73abba60dca9a637ecc28d5be6ef645b5e5ff",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a149",
+      "statutory_sha256": "fda43c3cbcd172a9fbfa7b82f94395b87323aecbd7d972e5699ea5a502aea54b",
+      "commentary_chars": 1624,
+      "commentary_sha256": "2d300e6e2f8721dc750a7c5ed539acfcc79ce5d876b286d2947b9d2c65dd3ae7",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a150",
+      "statutory_sha256": "903bb1d1ebd49ec18af2a8e936987c44c83342051cba6f82ce7dcbb190f46f53",
+      "commentary_chars": 1576,
+      "commentary_sha256": "97c9796d1d83d54a3eb67edcdaafbcfa7a6826a0a3f28c57b76fbe6d543d3877",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151",
+      "statutory_sha256": "8f5fd5acfb2c52a02c0e7e32d3257d9043cf1e9e85989f3844e3cf24a86549fd",
+      "commentary_chars": 2015,
+      "commentary_sha256": "db55de2eb28055978bfaaa60a78c568349083dc53c3efe51b0ad92c2ad582500",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151a",
+      "statutory_sha256": "8defb50afd846c50992fd64395f58fd2a9f9851f57418eab361de193064874ce",
+      "commentary_chars": 1767,
+      "commentary_sha256": "90dd8e209c73ae5c2e3eb7794835eaaf0917cba52f7535feb2588b8d30fef0f6",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151b",
+      "statutory_sha256": "82b98220262c36efb998a4aa104d7d9583c7e681479c91de92dac196f9848355",
+      "commentary_chars": 2093,
+      "commentary_sha256": "48c9d982013cffaea2d93c499eb5aef515dcf1feb05a2fa7d51e6659f411236d",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151c",
+      "statutory_sha256": "04658f3669b51265ed350f96eb85991d46e1e31d795dc4f556f11b80b694c545",
+      "commentary_chars": 1764,
+      "commentary_sha256": "a84954c718e02f31e3e597b0d5579a89147ba90ee340bb4ed12d33304758efec",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151d",
+      "statutory_sha256": "cf5143b89a6a2f5eb7af373e4480b463a5587023871c35ef7e876c8e2c99455c",
+      "commentary_chars": 1765,
+      "commentary_sha256": "c9d5ffa1a730fe9c30bdfc53c1c562130d1d499bcb67dfe07728b6dd9c28d86e",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151e",
+      "statutory_sha256": "0559c8e828990c0264416a4102c78b0d421b798086c5a59788ac9f9867832d63",
+      "commentary_chars": 1900,
+      "commentary_sha256": "df152d559c75cd2b1bc60e39254111b463666f36e1bd2568a8cb1265b2cb040a",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a151f",
+      "statutory_sha256": "413418a737bda2b0b42b875228c26af07ddd4d780cd8516266a6f784f567661f",
+      "commentary_chars": 1933,
+      "commentary_sha256": "67056b4682fb79b248de6a16f2c0d4ae70f6a731241f816d0e95c90b89838b3f",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a152",
+      "statutory_sha256": "cd1e7ff459b40637fd6ac367be9b71e8652b78f266b5a006bde83c2c86262440",
+      "commentary_chars": 2140,
+      "commentary_sha256": "40cebd0eaadf93dc0f613ac6773a31e67683a7db716c21689b2881592d0d5eed",
+      "source_read": true,
+      "disposition": "specific_substantive_commentary_and_fictional_example"
+    },
+    {
+      "id": "a153",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 830,
+      "commentary_sha256": "e0107834f936f809328b0904aaa5f490f91bfbf8e1a19fc59332d1de29976304",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    },
+    {
+      "id": "a154",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 893,
+      "commentary_sha256": "2df91c8baec072ccf89699b36da3ded388a696af9ea692127da79409edf9e618",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    },
+    {
+      "id": "a155",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 871,
+      "commentary_sha256": "c00758499137ea1e88668881683043f8388899f5ecaebe9993a0fe007b5aba60",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    },
+    {
+      "id": "a156",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_chars": 1102,
+      "commentary_sha256": "760a1cbd19aad4c95de45a068deea8c69632194aa5aeadec51b62250db27ab22",
+      "source_read": true,
+      "disposition": "repealed_slot_explained"
+    }
+  ],
+  "source_preflight": {
+    "complete": true,
+    "scope": "Bounded author batch a144–a156 with inserted/repealed slots; whole-book official structure checked, authorship limited to twenty IDs.",
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T22:03:40.738160+00:00",
+    "version_evidence": "sources/author-a144-a156-version-evidence.json",
+    "historical_versions_checked": "sources/author-a144-a156-historical-change-map.json",
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/author-a144-a156-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "unresolved_blockers": []
+  },
+  "case_cards": [
+    "authorities/author-a144-a156-HR-2018-321.md"
+  ],
+  "limitations": [
+    "Independent second pass pending for these twenty newly authored units.",
+    "Selective case-law research; no inference that uncited units lack case law.",
+    "Whole-book commentary remains incomplete; no prose outside assigned IDs replaced."
+  ],
+  "technical_validation": {
+    "batch_ids_complete": true,
+    "batch_ids_rendered": 20,
+    "statutory_agreement": 1.0,
+    "official_inventory": 812,
+    "missing_or_duplicate_official_ids": false,
+    "repeated_long_paragraphs": 0,
+    "local_links_ok": true,
+    "full_book_validation": {
+      "repo": "Komentar-NL-BWBR0001854",
+      "units": 812,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 582934,
+      "errors": [
+        "krátký/chybějící komentář u 432 jednotek: ['a157(0<400)', 'a158(0<400)', 'a159(0<400)', 'a160(0<400)', 'a161(0<400)', 'a161bis(0<400)', 'a161ter(0<400)', 'a161quater(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_builder_returncode": 1,
+    "out_of_scope_missing_commentaries": 432
+  }
+}
