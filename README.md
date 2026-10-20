@@ -1,6 +1,6 @@
 # Commentaar op het Wetboek van Strafrecht — onvoltooid werkmanuscript
 
-Dit Nederlandstalige manuscript betreft het volledige Wetboek van Strafrecht, BWBR0001854. Het beoogde bereik is **810 officiële artikelen**, inclusief expliciete vervallen plaatsen, plus de afzonderlijk behouden aanhef en het slotformulier: **812 eenheden**. De huidige toelichting omvat **420 eenheden: de aanhef, het gehele Eerste Boek en alle officiële artikelplaatsen 92–180, inclusief ingevoegde en vervallen nummers**. De **392 overige eenheden zijn nog niet toegelicht**. Dit is een onvoltooid boek; de volledige bouw en validatie blijven geblokkeerd door ontbrekende toelichtingen buiten de afgeronde batches.
+Dit Nederlandstalige manuscript betreft het volledige Wetboek van Strafrecht, BWBR0001854. Het beoogde bereik is **810 officiële artikelen**, inclusief expliciete vervallen plaatsen, plus de afzonderlijk behouden aanhef en het slotformulier: **812 eenheden**. De huidige toelichting omvat **440 eenheden: de aanhef, het gehele Eerste Boek en alle officiële artikelplaatsen 92–193, inclusief ingevoegde en vervallen nummers**. De **372 overige eenheden zijn nog niet toegelicht**. Dit is een onvoltooid boek; de volledige bouw en validatie blijven geblokkeerd door ontbrekende toelichtingen buiten de afgeronde batches.
 
 De beslissende datum is **19 oktober 2026**, de aanvang van het schrijven. Gebruikt is de officiële toestand **2026-07-01_0**. Op 19 oktober zijn de [officiële informatiepagina](https://wetten.overheid.nl/BWBR0001854/informatie), het [officiële manifest](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml) en de [XML](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml) gecontroleerd. De informatiepagina vermeldt gelding vanaf 1 juli 2026 tot heden; het manifest wijst die toestand aan, met einddatum 9999-12-31. De officiële SHA-512-bestandshash komt overeen. Voorziene wijzigingen per 1 januari 2027 en wijzigingen zonder ingangsdatum zijn buiten de geldende tekst gehouden.
 
@@ -87,3 +87,6 @@ Auteursbatch 170–180: twintig officiële eenheden, inclusief alle letterartike
 
 
 Tweede lezing 170–180, 21 oktober 2026: twintig toegewezen eenheden inhoudelijk gecontroleerd; drie toelichtingen verduidelijkt. [Resultaat](review-batch21-result.json). Het boek blijft onvoltooid.
+
+
+Auteursbatch 181–193: twintig officiële eenheden inclusief letterartikelen zijn op 21 oktober 2026 toegelicht. [Batchresultaat](author-a181-a193-result.json), [bronvooronderzoek](preflight-author-a181-a193-result.json) en [versiecontrole](sources/author-a181-a193-version-evidence.json). Twee volledig gelezen arresten ondersteunen artikelen 184 en 189; onafhankelijke tweede lezing van deze batch staat nog uit.

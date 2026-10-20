@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2012:BV6665</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T16:08:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BV6665</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2012-03-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">10/05215</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2012:BV6665" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2012:BV6665</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSHE:2010:BM9992" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHSHE:2010:BM9992, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2012/1288</rdf:li>
+          <rdf:li>NJB 2012/914</rdf:li>
+          <rdf:li>NJ 2013/50 met annotatie van P. Mevis</rdf:li>
+          <rdf:li>SR-Updates.nl 2013-0055</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2012:BV6665">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2012:BV6665</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T09:43:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2012-03-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2012:BV6665 Hoge Raad , 27-03-2012 / 10/05215</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2012:BV6665:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>OM-cassatie. Art 184.1 Sr eist een “krachtens wettelijk voorschrift” gedane vordering. Een dergelijk voorschrift moet uitdrukkelijk inhouden dat de betrokken ambtenaar gerechtigd is tot het doen van een vordering (vgl. HR LJN BB4108). De tenlastelegging houdt in dat de vordering van de daar genoemde agenten aan de verdachte om te vertrekken, is gedaan krachtens art. 7 van de APV Tilburg. In aanmerking genomen dat deze bepaling niet uitdrukkelijk inhoudt dat de politieambtenaar is gerechtigd tot het doen van een vordering als waarvan te dezen sprake is, geeft ’s Hofs oordeel dat de vordering niet “krachtens wettelijk voorschrift” is gedaan, niet blijk van een onjuiste rechtsopvatting.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2012:BV6665:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>27 maart 2012</para>
+      <para>Strafkamer</para>
+      <para>nr. S 10/05215</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Hertogenbosch van 30 juni 2010, nummer 20/001665-09, in de strafzaak tegen:</para>
+      <para>[Verdachte], geboren te [geboorteplaats] op [geboortedatum] 1965, wonende te [woonplaats].</para>
+    </parablock>
+    <para />
+    <para>1. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De Advocaat-Generaal Silvis heeft bij aanvullende conclusie geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+    <para />
+    <para>2. Beoordeling van het middel</para>
+    <para />
+    <para>2.1. Het middel klaagt over de door het Hof gegeven vrijspraak, in die zin dat het Hof is uitgegaan van een onjuiste rechtsopvatting omtrent de in de tenlastelegging voorkomende woorden "krachtens artikel 7 van de Algemene Plaatselijke Verordening van de gemeente Tilburg, in elk geval krachtens enig wettelijk voorschrift".</para>
+    <para />
+    <parablock>
+      <para>2.2.1. Aan de verdachte is tenlastegelegd dat:</para>
+      <para>"hij op of omstreeks 27 december 2007 te Tilburg opzettelijk niet heeft voldaan aan een bevel of een vordering, krachtens artikel 7 van de Algemene Plaatselijke Verordening van de gemeente Tilburg, in elk geval krachtens enig wettelijk voorschrift, gedaan door [verbalisant 1] en/of [verbalisant 2], ambtena(a)r(en) van politie Midden en West-Brabant, die was/waren belast met de uitoefening van enig toezicht en/of die was/waren belast met en/of bevoegd verklaard tot het opsporen en/of onderzoeken van strafbare feiten, immers heeft verdachte toen en daar opzettelijk, nadat deze ambten(a)ar(en) hem had(den) bevolen, althans van hem had(den) gevorderd om zich te verwijderen, althans te verplaatsen/begeven in een door die ambtena(a)r(en) van politie Midden en West-Brabant aangegeven richting, geen gevolg gegeven aan dit bevel of die vordering."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.2.2. Het Hof heeft de verdachte van het hem tenlastegelegde vrijgesproken en daartoe het volgende overwogen:</para>
+      <para>"De tenlastelegging is toegespitst op het misdrijf van artikel 184, eerste lid, van het Wetboek van Strafrecht.</para>
+      <para>Ten aanzien van de feitelijke gang van zaken overweegt het hof als volgt.</para>
+      <para>In het proces-verbaal van bevindingen van de politie Midden en West-Brabant, district Tilburg, team Tilburg binnenstad, nummer PL204F/07-356127, d.d. 11 januari 2008 in de wettelijke vorm opgemaakt door [verbalisant 1] en [verbalisant 2], respectievelijk agent en hoofdagent van politie wordt - zakelijk weergegeven - het volgende gerelateerd.</para>
+      <para>Op 27 december 2007 waren [verbalisant 1] en [verbalisant 2], ambtenaren van politie Midden en West-Brabant, belast met het toezicht in het horecaconcentratiegebied in het centrum van Tilburg en bevoegd verklaard tot het opsporen en onderzoeken van strafbare feiten.</para>
+      <para>Omstreeks 01.50 uur hielden zij op de openbare weg, het Piusplein, een man aan. Terwijl de verbalisanten met de aangehouden man wachtten op transport, liep de verdachte samen met twee andere mannen voorbij. Eén van hen riep tegen de verbalisanten dat zij de aangehouden man moesten loslaten omdat het zijn buurman was, waarop de drie mannen naar de verbalisanten toeliepen. Eén van de mannen trachtte vervolgens de arm van de aangehouden man vast te pakken. [Verbalisant 1] heeft de mannen daarop te kennen gegeven dat zij afstand dienden te houden. Nadat de mannen geen aanstalten gaven gehoor te geven aan het verzoek, heeft [verbalisant 1] hun gevorderd afstand te houden. Twee van de mannen, waaronder de verdachte, voldeden niet aan deze vordering en trachtten opnieuw de aangehouden man te ontzetten. Daarop is door de verbalisanten nogmaals met luide en duidelijk hoorbare stem aan de twee mannen gevorderd om het horecagebied te verlaten, waarbij zij wezen in welke richting de mannen zich dienden te verwijderen. De verdachte voldeed opnieuw niet aan de vordering, waarna hij werd aangehouden.</para>
+      <para>Ter terechtzitting in hoger beroep d.d. 16 juni 2010 heeft de verdachte verklaard dat hij samen met twee mannen op 27 december 2007 in het centrum van Tilburg was, dat hij zag dat een man werd aangehouden en dat één van zijn metgezellen tegen een bij de aanhouding betrokken ambtenaar van politie heeft gezegd dat zij de aangehouden man moesten loslaten omdat het zijn buurman was. Voort heeft de verdachte verklaard dat zijn metgezellen en hij, tezamen met een groep andere personen, in de buurt stonden van de aangehouden man en dat hij heeft gehoord dat hem tweemaal door een ambtenaar van politie werd gevorderd afstand te houden.</para>
+      <para>Op grond van bovenstaande is het hof van oordeel dat de verdachte op 27 december 2007 te Tilburg opzettelijk niet heeft voldaan aan een vordering, gedaan door [verbalisant 1], en [verbalisant 2] ambtenaren van politie Midden en West-Brabant, die waren belast met de uitoefening van enig toezicht en bevoegd verklaard tot het opsporen en onderzoeken van strafbare feiten, immers heeft verdachte toen en daar opzettelijk, nadat deze ambtenaren hem hadden bevolen zich te verwijderen, geen gevolg gegeven aan deze vordering.</para>
+      <para>Het ten laste gelegde misdrijf van artikel 184, eerste lid, van het Wetboek van Strafrecht eist evenwel dat de vordering is gedaan krachtens wettelijk voorschrift.</para>
+      <para>Het hof overweegt omtrent dit bestanddeel als volgt.</para>
+      <para>In de tenlastelegging wordt bovengenoemd bestanddeel nader gespecificeerd als een vordering, krachtens artikel 7 van de Algemene Plaatselijke Verordening van de gemeente Tilburg (hierna: APV Tilburg), in elk geval krachtens enig wettelijk voorschrift, gedaan.</para>
+      <para>Artikel 7 van de APV Tilburg, zoals dat op 27 december 2007 van kracht was, luidt - voor zover relevant - als volgt.</para>
+      <para>1. (...)</para>
+      <para>2. Eenieder, die op de weg aanwezig is bij enig voorval, waardoor er wanordelijkheden ontstaan of dreigen te ontstaan of bij een tot toeloop van publiek aanleiding gevende gebeurtenis, dan wel zich bevindt in of aanwezig is bij een samenscholing, is verplicht op een daartoe strekkend bevel van een ambtenaar van politie zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen.</para>
+      <para>3. (...)</para>
+      <para>Blijkens de tekst vertoont artikel 7 van de APV Tilburg een sterke verwantschap met artikel 2.1.1.1 van de door veel gemeenten gebruikte model-APV van de Vereniging van Nederlandse Gemeenten (VNG). De toelichting bij laatstgenoemd artikel luidt - voor zover relevant - als volgt.</para>
+      <para>Het gaat hier om bestaande politiebevoegdheden. Deze bevoegdheid berust op de artikelen 2 en 12 Politiewet. Deze bevoegdheid wordt in feite herhaald als van een gemeentelijke strafbepaling een aanwijzing, last, bevel of oordeel van een politieambtenaar een element vormt.</para>
+      <para>De Hoge Raad heeft in zijn arrest van 29 januari 2008 (LJN: BB4108) ten aanzien van het in artikel 184, eerste lid, van het Wetboek van Strafrecht genoemde vereiste dat het bevel of de vordering is gedaan krachtens wettelijk voorschrift overwogen, dat een dergelijk voorschrift uitdrukkelijk moet inhouden dat de betrokken ambtenaar gerechtigd is tot het doen van een vordering. Naar het oordeel van het hof bepaalt artikel 7 van de APV Tilburg evenwel niet uitdrukkelijk dat de betrokken ambtenaar gerechtigd is tot het doen van een vordering. Immers, een zodanige bevoegdheid wordt in deze bepaling niet met zoveel woorden toegekend maar zou daarin moeten worden ingelezen.</para>
+      <para>De artikelen 2 en 12 van de Politiewet 1993, die - gezien de verwantschap tussen artikel 2.1.1.1 van de model-APV en artikel 7 van de APV Tilburg - ook in relatie lijken te staan tot laatstgenoemde bepaling, bevatten respectievelijk een algemene taakomschrijving voor de politie en de toewijzing van het gezag over de politie aan de burgemeester (waaronder het geven van "aanwijzingen") in het kader van de handhaving van de openbare orde. Deze bepalingen kunnen evenmin worden aangemerkt als een wettelijk voorschrift op basis waarvan vorderingen of bevelen kunnen worden gegeven waaraan op straffe van overtreding van artikel 184, eerste lid, van het Wetboek van Strafrecht moet worden voldaan.</para>
+      <para>Nu ook overigens geen wettelijk voorschrift voorhanden is, op grond waarvan de betrokken ambtenaar in onderhavig geval gerechtigd was tot het doen van de vordering, komt het hof tot het oordeel dat de vordering niet krachtens wettelijk voorschrift is gedaan, zodat de verdachte dient te worden vrijgesproken van het ten laste gelegde feit."</para>
+    </parablock>
+    <para />
+    <para>2.3. De tenlastelegging is toegesneden op art. 184, eerste lid, Sr. Die bepaling eist een "krachtens wettelijk voorschrift" gedane vordering. Een dergelijk voorschrift moet uitdrukkelijk inhouden dat de betrokken ambtenaar gerechtigd is tot het doen van een vordering (vgl. HR 29 januari 2008, LJN BB4108, NJ 2008/206).</para>
+    <para />
+    <para>2.4. De tenlastelegging houdt in dat de vordering van de daar genoemde agenten aan de verdachte om te vertrekken, is gedaan krachtens art. 7 van de Algemene Plaatselijke Verordening Tilburg. In aanmerking genomen dat deze bepaling, die in de conclusie van de Advocaat-Generaal onder 6 is weergegeven, niet uitdrukkelijk inhoudt dat de ambtenaar van politie is gerechtigd tot het doen van een vordering als waarvan te dezen sprake is, geeft het oordeel van het Hof dat de vordering niet "krachtens wettelijk voorschrift" is gedaan, niet blijk van een onjuiste rechtsopvatting.</para>
+    <para />
+    <para>2.5. Het middel faalt derhalve.</para>
+    <para />
+    <para />
+    <para>3. Beslissing</para>
+    <para />
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren B.C. de Savornin Lohman en J. de Hullu, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken op 27 maart 2012.</para>
+  </uitspraak>
+</open-rechtspraak>

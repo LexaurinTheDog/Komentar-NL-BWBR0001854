@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1132",
+    "accessed_at": "2026-10-20T22:25:51.642317+00:00",
+    "http_status": 200,
+    "sha256": "15a30def25b5bc26548dce69001afbc42adba27ba48b17007deb1d578a1dbad0",
+    "path": "sources/author-a181-a193-HR-2021-1132.xml",
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "bytes": 23897,
+    "full_judgment_chars": 17030,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2012:BV6665",
+    "accessed_at": "2026-10-20T22:25:51.776029+00:00",
+    "http_status": 200,
+    "sha256": "4fa198d9535a07d4332e58d892e4530af5a06fcc19df5d3e0051e4906b336c0c",
+    "path": "sources/author-a181-a193-HR-2012-BV6665.xml",
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "bytes": 15771,
+    "full_judgment_chars": 9876,
+    "expected_format_valid": true
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a181",
+    "a182",
+    "a183",
+    "a184",
+    "a184a",
+    "a185",
+    "a185a",
+    "a186",
+    "a187",
+    "a188",
+    "a189",
+    "a189a",
+    "a190",
+    "a191",
+    "a192",
+    "a192a",
+    "a192b",
+    "a192c",
+    "a192d",
+    "a193"
+  ],
+  "completed_units": 20,
+  "created_at": "2026-10-20T22:30:15.656443+00:00",
+  "independent_review_pending": true,
+  "commentary_file": "commentary/part-22.md",
+  "unit_checks": [
+    {
+      "id": "a181",
+      "statutory_sha256": "080621d175f04eace842210e4dc5abffa0607b08022028bd89b2c26d4c9b21db",
+      "commentary_sha256": "aaf916e8062fc57548ebb6748db01c93ab634c9448d93da539d9d8ab103efd14",
+      "commentary_chars": 1769,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a182",
+      "statutory_sha256": "1946b8e0e4485be093e84de6ee0e0df16e31692152745fddb612ada9fbba96ba",
+      "commentary_sha256": "62511ed3161b0536d6b01050f17a69ed1d8a6b2d2714730e08beeb243a46306a",
+      "commentary_chars": 1782,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a183",
+      "statutory_sha256": "cb72f35bd840f251a8ec53ec77db7465c29c20490f0d9e30b236461d303d7df7",
+      "commentary_sha256": "57f38be3c4d73c29d316f09599fe97b84f317ddecc5e75c866b920af2ad729d5",
+      "commentary_chars": 1665,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a184",
+      "statutory_sha256": "88a07e6763f96c4cff33bbb879ec1af4d4f2022d19a17c8676a10b6530ed5b7f",
+      "commentary_sha256": "7afe514cbce8caedf36e6544e8d1fe77eb3d01ef38ac82d52031464416b73f44",
+      "commentary_chars": 2160,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a184a",
+      "statutory_sha256": "69d429afb9ba98acc6b108b89794479a7c651347883fc5765671e95c34fdcdf3",
+      "commentary_sha256": "623bb27e9718e6a5017d2d514f4343f9cc04aa3db037d99531ed2ea10922d9ae",
+      "commentary_chars": 1756,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a185",
+      "statutory_sha256": "95deb7db30eb0936bdf5e5aeab5ec103997ebeefe942840d75cdfffa20a9ba24",
+      "commentary_sha256": "4ed460a306e3d04d7033da81cc214ce97dd16c1c474145d0fa81adc3367206ba",
+      "commentary_chars": 1675,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a185a",
+      "statutory_sha256": "95d310519caf505d0ab712b6bab2892d572537652a4fd094b6d99ea0bf6ab57d",
+      "commentary_sha256": "00b7330d9933d8ccc7bf708c1941522e7286219f57349ff88fab1fcd7b0dd148",
+      "commentary_chars": 1647,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a186",
+      "statutory_sha256": "bbfe4c3447b209e919a1433841b994acefaa0c99d73ced510301777adcbde616",
+      "commentary_sha256": "79d4e532f4c9fef8d6fcbaf88479319bf0c7e9cda77ff22aa9cad886e59eb3b5",
+      "commentary_chars": 1676,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a187",
+      "statutory_sha256": "cf2a5d00ca38f13d95210d608119018b39424308e1a88e03ab7b6d373006ff64",
+      "commentary_sha256": "ed8b65ab3260489d9d652f0d4b33ba299f879bf4b4a0269bc73af32dd6a672d8",
+      "commentary_chars": 1768,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a188",
+      "statutory_sha256": "711a2a9590ec09a70d31aa2776c3388788789aca6067a92f1f89ba3b8ccb200d",
+      "commentary_sha256": "fe054b3be4c08250d2762586fcbf52afbb359068029365bb8fc8348e3880444e",
+      "commentary_chars": 1716,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a189",
+      "statutory_sha256": "8c71e18298f1852dd5f81a0005f11b23e506725cfadc3fda3c1194a7be551148",
+      "commentary_sha256": "34cdbacac19a873aaa68e9bf4a8e6f26a2317e815b07cc4fc0fa388a4c74ce4c",
+      "commentary_chars": 2268,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a189a",
+      "statutory_sha256": "7d06255e423a935036a6b917a012c945e0b1e3eb483876360200092cd10289b6",
+      "commentary_sha256": "5ee2649178984402e16755658858953f359b80fc01a47f583341b9f0f77da79b",
+      "commentary_chars": 1864,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a190",
+      "statutory_sha256": "6a5d459d8560211786ab0d1d836ec80f8de52cfb3688805f6ceb261aa5ca7397",
+      "commentary_sha256": "1e3ad95c65f405fd47f80ef86b28d6b595fe99413f9dbef366c0dff131a71dde",
+      "commentary_chars": 1697,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a191",
+      "statutory_sha256": "350a3ab2659b837d71077de16a94213c98853eee76a519f3b748ad2cf99cd2b5",
+      "commentary_sha256": "02adf96e892ddcddf825388138b148be56c4e1cc67552b756c692205a2147766",
+      "commentary_chars": 1804,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a192",
+      "statutory_sha256": "018e806bf65ccd23b8ba1d017f0f6bff0fa15bb65c8beee7c4e0d62249c0fb1f",
+      "commentary_sha256": "2e6454333db0eb700e54a42756cbf6d1f748df22872fee7ce23b271c4808b81a",
+      "commentary_chars": 2117,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a192a",
+      "statutory_sha256": "7631ad596a2045dfb48d63adc9989a4094f8db8a1f1549d683284a8cf2fdbb77",
+      "commentary_sha256": "b84df0213666ee03bd910bec18979f4150a0b1a125a7f0def237f4abcf17d5a9",
+      "commentary_chars": 1688,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a192b",
+      "statutory_sha256": "65981ee67d321b6ebb2fb82dcce25119a0451bdcee25f5661654a71bb2ca5321",
+      "commentary_sha256": "2a05d7a38663560a0ec305e0e5e8465e1bf4f9e0fd10da4bc7080f008c741989",
+      "commentary_chars": 1775,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a192c",
+      "statutory_sha256": "efecd22612f028f307c43082dad6aee5ea97609b86c4a4d3315219e6ad5b435b",
+      "commentary_sha256": "f776975c7957476235b8f1dccc7ddce061dbe5a0c46348e532522f7a3d47e5ae",
+      "commentary_chars": 1674,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a192d",
+      "statutory_sha256": "d372fda37a08d872b28b735b794ba0f661c97b33955dd51724d3c69d1f0a0eec",
+      "commentary_sha256": "33386102a7fa6a925d2e045532eb82345a1db3306ec40f0e76c30c5e90b623ce",
+      "commentary_chars": 1698,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a193",
+      "statutory_sha256": "7d107d1f776a4bb1596408137bbc518d019b75632bf91d3a0a38d87dd4b7be74",
+      "commentary_sha256": "5cbc211d0e4f5d8743e84d918a367f97f19e07c5b71db1714fd5603cb4218015",
+      "commentary_chars": 2455,
+      "source_read": true,
+      "author_content_check": true
+    }
+  ],
+  "source_preflight": "preflight-author-a181-a193-result.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Whole book incomplete: 372 other units lack commentary.",
+    "Independent second pass pending.",
+    "Selective case-law research; no full separate verification of external procedural codes or local implementing provisions.",
+    "Article192(3) literal cross-reference flagged; no silent source repair or definitive historical interpretation asserted."
+  ],
+  "coverage_complete": true,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "exact_repeated_paragraphs": 0,
+  "checkpoint": "22-deel-22.md",
+  "full_build_ok": false
+}

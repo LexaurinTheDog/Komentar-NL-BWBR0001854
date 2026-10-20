@@ -4125,6 +4125,66 @@
       "bytes": 27846974,
       "root": "wetstechnische-informatie",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T22:25:41.438385+00:00",
+      "path": "sources/author-a181-a193-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T22:25:41.678867+00:00",
+      "path": "sources/author-a181-a193-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T22:25:42.518249+00:00",
+      "path": "sources/author-a181-a193-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1132",
+      "accessed_at": "2026-10-20T22:25:51.642317+00:00",
+      "http_status": 200,
+      "sha256": "15a30def25b5bc26548dce69001afbc42adba27ba48b17007deb1d578a1dbad0",
+      "path": "sources/author-a181-a193-HR-2021-1132.xml",
+      "root": "open-rechtspraak",
+      "full_judgment_nonempty": true,
+      "bytes": 23897,
+      "full_judgment_chars": 17030,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2012:BV6665",
+      "accessed_at": "2026-10-20T22:25:51.776029+00:00",
+      "http_status": 200,
+      "sha256": "4fa198d9535a07d4332e58d892e4530af5a06fcc19df5d3e0051e4906b336c0c",
+      "path": "sources/author-a181-a193-HR-2012-BV6665.xml",
+      "root": "open-rechtspraak",
+      "full_judgment_nonempty": true,
+      "bytes": 15771,
+      "full_judgment_chars": 9876,
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,

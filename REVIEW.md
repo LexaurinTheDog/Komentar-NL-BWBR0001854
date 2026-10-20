@@ -398,3 +398,6 @@ Auteursbatch a170–a180: twintig nieuwe specifieke toelichtingen, gelezen tegen
 
 
 Tweede lezing batch21: alle twintig toegewezen eenheden a170–a180 inclusief letterartikelen tegen verse officiële XML gelezen. Gevaar, opzet/schuld, sancties, rechtenontzetting en interne verwijzingen afzonderlijk gecontroleerd. De officiële manifestintervallen bevestigen juli2026 op auteurs- en reviewdatum; geen historische teksten samengevoegd. HR2021:1569 volledig herlezen, met onderscheid tussen verweer en rechterlijk oordeel. Correcties:172 opzet/wederrechtelijkheid;173a stoffen ook op de bodem;175 noodzakelijk beroepsverband. [Exacte IDs en bevindingen](review-batch21-result.json); [preflight](preflight-review-batch21-result.json). Geen materiële batchblokkade. Geen verklaring van voltooiing van het boek of externe professionele goedkeuring.
+
+
+Auteursbatch a181–a193: alle twintig teksten en toelichtingen zijn door de auteur naast elkaar gelezen. De beoordeling omvat lidonderscheidingen, sancties, eigen voorbeelden, interne verwijzingen en twee volledig gelezen primaire arresten. Bij artikel 192 lid 3 is de opvallende letterlijke terugverwijzing expliciet behouden en als interpretatierisico besproken. Dit is geen onafhankelijke tweede lezing of externe juridische goedkeuring. [Technisch batchresultaat](author-a181-a193-result.json).

@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_complete_book_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -23,15 +23,15 @@
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a170-a180-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a181-a193-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 420,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots92–180 including inserted/repealed places.",
-  "remaining_units": 392,
-  "next_unit": "a181",
-  "commentary_chars": 648837,
+  "completed_units": 440,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots92–193 including inserted/repealed places.",
+  "remaining_units": 372,
+  "next_unit": "a194",
+  "commentary_chars": 685600,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -98,7 +98,9 @@
     "ECLI:NL:HR:2018:321",
     "ECLI:NL:HR:2009:BH0594",
     "ECLI:NL:HR:2011:BN9287",
-    "ECLI:NL:HR:2021:1569"
+    "ECLI:NL:HR:2021:1569",
+    "ECLI:NL:HR:2012:BV6665",
+    "ECLI:NL:HR:2021:1132"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -139,7 +141,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:24:24.318654+00:00",
+  "updated_at": "2026-10-20T22:30:27.528644+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -1062,6 +1064,33 @@
       ],
       "complete": true,
       "result": "author-a170-a180-result.json",
+      "independent_review_pending": true
+    },
+    {
+      "ids": [
+        "a181",
+        "a182",
+        "a183",
+        "a184",
+        "a184a",
+        "a185",
+        "a185a",
+        "a186",
+        "a187",
+        "a188",
+        "a189",
+        "a189a",
+        "a190",
+        "a191",
+        "a192",
+        "a192a",
+        "a192b",
+        "a192c",
+        "a192d",
+        "a193"
+      ],
+      "complete": true,
+      "result": "author-a181-a193-result.json",
       "independent_review_pending": true
     }
   ]

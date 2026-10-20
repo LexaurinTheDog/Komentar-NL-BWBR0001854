@@ -1,0 +1,159 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2021:1132
+date: '2021-07-13'
+date_published: '2021-07-12'
+case_number:
+- 20/02154
+procedure:
+- Cassatie
+subject:
+- Strafrecht
+relations:
+- 'In cassatie op : ECLI:NL:GHSHE:2020:2381'
+- 'Conclusie: ECLI:NL:PHR:2021:512'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:1132
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1132
+chars: 15746
+license: Public Domain Mark
+retrieved_at: '2026-10-04T00:57:21Z'
+---
+
+# ECLI:NL:HR:2021:1132 – Hoge Raad, 2021-07-13
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2021-07-13
+- **Zaaknummer:** 20/02154
+- **Rechtsgebied:** Strafrecht
+
+## Inhoudsindicatie
+
+Begunstiging door mobiele telefoon te verstoppen in plantenbak, art. 189.1.3 Sr. Beroep op strafuitsluitingsgrond van art. 189.3 Sr, omdat verdachte bang was voor haar eigen vervolging. Art. 189.3 Sr is eveneens van toepassing op degene die in art. 189.1 Sr vermelde handelingen mede verricht ten einde gevaar van vervolging voor zichzelf te ontgaan (vgl. HR:1995:ZD0248). In het licht van wat door en namens verdachte is aangevoerd, is ’s hofs oordeel dat beroep op strafuitsluitingsgrond uit art. 189.3 Sr moet worden verworpen, niet toereikend gemotiveerd.
+
+Volgt vernietiging en terugwijzing.
+
+## Uitspraak
+
+1 Procesverloop in cassatie
+
+Het beroep is ingesteld door de verdachte. Namens deze heeft J.J.J. van Rijsbergen, advocaat te Breda, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De advocaat-generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het gerechtshof ’s-Hertogenbosch, teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.
+
+2 Beoordeling van het cassatiemiddel
+
+2.1
+
+Het cassatiemiddel klaagt over de verwerping door het hof van het beroep op de strafuitsluitingsgrond als bedoeld in artikel 189 lid 3 van het Wetboek van Strafrecht (hierna: Sr).
+
+2.2
+
+Ten laste van de verdachte is bewezenverklaard dat:
+
+“zij op 13 augustus 2018 te [plaats] , opzettelijk een voorwerp, te weten een GSM, die kon dienen om de waarheid aan de dag te brengen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen heeft verborgen, door die GSM te verstoppen in een plantenbak.”
+
+2.3.1
+
+Het proces-verbaal van de terechtzitting in hoger beroep van 3 juli 2020 houdt onder meer als verklaring van de verdachte in:
+
+“Mijn vriend, [betrokkene 1] , en ik hebben ongeveer een halfjaar samen op de [a-straat 1] te [plaats] gewoond. Op 13 augustus 2018 is in deze woning een vechtpartij tussen [betrokkene 1] en [betrokkene 3] ontstaan. Hierbij waren [betrokkene 2] en ik ook aanwezig. Ik was erg in paniek. Ik kreeg de telefoon van [betrokkene 1] in mijn handen gedrukt. [betrokkene 1] is in het verleden vreemdgegaan. Daarna heb ik zijn telefoon een aantal keer gecontroleerd. Ik heb gezien dat er gesprekken over drugs op de telefoon stonden. Ik wist dat er drugs in huis lag en als de politie de telefoon zou vinden, een doorzoeking zou plaatsvinden. Ik was bang voor wat de politie in ons huis zou vinden als ze die telefoon zouden vinden. Dit zou ook gevolgen voor mij hebben. Het was mijn huis. Ik was bang dat ik een strafblad zou krijgen.
+
+Ik heb aan [betrokkene 1] een plastic zakje gevraagd en daar heb ik de telefoon in gedaan. Vervolgens heb ik de telefoon in de plantenbak gelegd. Daarvoor had ik al een klein gat in de aarde gemaakt en daar heb ik deze telefoon ingelegd. Ik weet niet meer of ik de plant schuin heb gehouden.
+
+Ik kom nu pas met mijn verklaring omdat ik bang was dat ik een strafblad zou krijgen.
+
+U, voorzitter, houdt mij voor dat [betrokkene 1] bij de politie op 15 augustus 2018 en 17 augustus 2018 heeft verklaard dat hij tegen [betrokkene 2] heeft gezegd dat [betrokkene 2] het vuurwapen moest wegleggen en dat hij wilde dat zijn telefoon weg zou zijn. Ik weet niets van het vuurwapen. [betrokkene 1] heeft niet gezegd dat ik de telefoon moest verstoppen. Hij heeft enkel gezegd dat ik de telefoon bij me moest houden. Maar dit wilde ik niet en daarom heb ik hem in de plantenbak weggelegd.
+
+U, voorzitter, houdt mij voor dat ik voor de drugsfeiten ben vrijgesproken en dat mijn verklaring die ik nu pas voor het eerst afleg, goed binnen het verweer van mijn raadsman past. Voorheen heb ik bij de politie gelogen en gezegd dat ik niets van de drugs af wist. Ik deal zelf niet in drugs. Ik rook het enkel een aantal keer per week. Het was duur om elke keer naar de coffeeshop te gaan. Daarom heeft [betrokkene 1] een grotere hoeveelheid drugs gehaald en dit in huis gelegd. Ik wist dat dit illegaal was.
+
+(...)
+
+U, advocaat-generaal, houdt mij voor dat mijn verklaring berekenend over komt. [betrokkene 1] heeft vaker huiszoekingen meegemaakt. Ik dacht in het slechtste scenario en wilde geen huiszoeking meemaken. Ik zou geen andere reden kunnen bedenken waarom ik de telefoon heb weggelegd. Ik heb de telefoon enkel ter bescherming van mezelf weggelegd. Als [betrokkene 1] wilde dat ik dat voor hem zou doen, moest hij dat zelf maar doen.”
+
+2.3.2
+
+Volgens het proces-verbaal van de terechtzitting in hoger beroep van 3 juli 2020 heeft de raadsman van de verdachte daar het volgende aangevoerd:
+
+“De rechtbank heeft cliënte veroordeeld voor de overtreding van art. 189 Sr, een strafrechtelijke bepaling die ziet op begunstiging van de dader en het verijdelen van inbeslagneming. Het derde lid van art. 189 Sr bevat een bijzondere strafuitsluitingsgrond die bepaalt dat:
+
+‘Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.’
+
+De gegrondheid van het beroep op deze bijzondere strafuitsluitingsgrond van artikel 189 lid 3 Sr vergt een onderzoek van feitelijke aard, nu daarvoor door de rechter moet worden vastgesteld dat de verdachte de bewezenverklaarde handelingen heeft verricht mede teneinde gevaar van vervolging voor zichzelf te ontgaan (Zie H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, tweede deel, Haarlem: H.D. Tjeenk Willink 1881, p. 187, en HR 17 oktober 1995, ECLI:NL:HR:1995:ZD0248, NJ 1996, 337, m.nt. Schalken, rov. 7.6 en 7.7.).
+
+In de zaak van cliënte heeft de politierechter volstaan met een aantekening mondeling vonnis. In de zaak van medeverdachte [betrokkene 1] heeft de meervoudige strafkamer een schriftelijk en gemotiveerd vonnis gewezen. In dit vonnis heeft de rechtbank vastgesteld dat de aangever [betrokkene 3] (van het in hoger beroep niet meer aan de orde zijnde geweldsincident) op 13 augustus 2018 naar de woning van cliënte en medeverdachte [betrokkene 1] zou zijn gekomen, omdat hij een afspraak had gemaakt met [betrokkene 1] om hasj te kopen. Cliënte was op dat moment in de woning aanwezig (zie vonnis, p. 5). De rechtbank heeft tevens vastgesteld dat bij het uitlezen van de telefoon van medeverdachte [betrokkene 1] diverse WhatsApp gesprekken zijn aangetroffen die zien op de verkoop van hasj, waaruit de rechtbank de conclusie trekt dat medeverdachte [betrokkene 1] in de periode 1 april 2018 tot en met 13 augustus 2018 hasj heeft verkocht (zie vonnis, p. 10).
+
+Vast staat derhalve dat er zich in de telefoon, waarop feit 3 ziet, informatie bevond die aldus de rechtbank het wettig en overtuigend bewijs oplevert dat de bezitter van die telefoon zich gedurende een langere periode schuldig heeft gemaakt aan dealeractiviteiten. Het behoeft geen betoog dat het aantreffen van een telefoon met dergelijke WhatsApp gesprekken zal leiden tot een doorzoeking van de woning van de bezitter van die telefoon, hetgeen in casu ook is gebeurd. De doorzoeking van de woning van cliënte en medeverdachte [betrokkene 1] heeft uiteindelijk - voor zover in hoger beroep relevant - onder meer geleid tot het aantreffen van een bus Pringles-chips in de kast van de hal van de woning met daarin 77,8 gram hasj (dossier, p. 253-254).
+
+Cliënte wist dat deze bus Pringles met hasj daarin in de woning lag. Zij rookte ook weleens hasj en deze kwam dan uit deze bus. Eveneens was cliënte op de hoogte van de inhoud van de gesprekken op de telefoon van haar vriend [betrokkene 1] (de deal gerelateerde WhatsApp berichtjes). Zij had deze weleens gelezen. Voor cliënte was het aldus zonneklaar dat de politie deze telefoon niet moest vinden. Alhoewel zij geen enkele betrokkenheid had bij hetgeen waarop de WhatsApp berichtjes in de telefoon zagen, was zij wel op de hoogte van de aanwezigheid van de bus met Pringles met daarin hasj in de woning. Cliënte was zodoende erg bang dat de politie over zou gaan tot een huiszoeking na het aantreffen van de telefoon en alsdan de bus Pringles met hasj zouden vinden en aan haar zouden koppelen (bijvoorbeeld via vingerafdrukken). Dit heeft cliënte doen besluiten de telefoon in de plantenbak te leggen in de hoop dat de politie deze telefoon niet zou vinden en niet over zou gaan tot een huiszoeking.
+
+U zult zich afvragen waarom cliënte nu pas met dit verweer komt. Dit is erin gelegen dat cliënte dit verweer in eerste aanleg niet kon voeren. Het verweer zou er immers toe leiden dat zij weliswaar niet veroordeeld zou worden voor feit 3 (189 Sr), maar wel weer voor het ernstigere feit 1 (bezit hasj/hennep). Nu cliënte onherroepelijk is vrijgesproken voor feit 1 voelt zij zich vrij de waarheid te vertellen over het verstoppen van de telefoon. Een waarheid die juridisch zeer relevant is voor de vraag of het terzake feit 3 tot een veroordeling kan leiden.
+
+Gezien het voorgaande staat vast dat cliënte de bewezenverklaarde handelingen terzake feit 3 heeft verricht mede teneinde gevaar van vervolging voor zichzelf te ontgaan (Zie H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, tweede deel, Haarlem: H.D. Tjeenk Willink 1881, p. 187, en HR 17 oktober 1995, ECLI:NL:HR: 1995:ZD0248, NJ 1996, 337, m.nt. Schalken, rov. 7.6 en 7.7.). Uw hof hanteert als criterium de maatstaf ‘of de verdachte in redelijkheid ervan mocht uitgaan dat een verdenking van een strafbaar feit zou ontstaan met betrekking tot de bedoelde persoon’ (in casu cliënte zelf) (Hof’s-Hertogenbosch 17 november 2010, LJN B04266 en 11 juli 2011, LJN BRI 191). Aan die maatstaf wordt ontegenzeggelijk voldaan. Het is zeer redelijk te veronderstellen dat het aantreffen van een telefoon met dealer gerelateerde WhatsApp berichten, zal leiden tot een doorzoeking van de betreffende woning op de aanwezigheid van drugs. Het behoeft evenmin weinig verbeelding, vast te stellen dat het vervolgens aantreffen van die drugs in de woning, zal leiden tot een strafrechtelijke verdenking tegen de hoofdbewoners van dat pand, in casu cliënte en medeverdachte [betrokkene 1] . Daarvoor was cliënte erg angstig, omdat zij een blanco strafblad had en indertijd voornemens was te solliciteren naar een functie als Buitengewoon Opsporingsambtenaar (BOA) bij de Nederlandse Spoorwegen (NS). Zij had zich al enigszins in die functie verdiept en wist dat haar strafrechtelijke blazoen daarvoor brandschoon moest zijn.
+
+Gezien het aan de orde zijn van de bijzondere strafuitsluitingsgrond van art. 189 lid 3 Sr wordt verzocht cliënte te ontslaan van alle rechtsvervolging (OVAR).”
+
+2.3.3
+
+Het hof heeft het aangevoerde als volgt verworpen:
+
+“Strafbaarheid van de verdachte
+
+(...)
+
+Verbalisant [verbalisant 1] heeft gerelateerd dat hij samen met collega [verbalisant 2] door het operationeel centrum op 13 augustus 2018 naar de [a-straat 1] te [plaats] werd gestuurd. Daar zou een steekpartij hebben plaatsgevonden. Ter plaatse is verbalisant [verbalisant 1] naar de achtertuin van de woning gelopen. Hij heeft gezien dat een vrouw gehurkt bij een plant zat, deze schuin hield en wat rommelde bij en om deze plant. Vervolgens is er forensisch onderzoek in de woning verricht. Hierbij is een in plastic zak verpakte mobiele telefoon in een plantenbak aangetroffen. De verdachte heeft erkend dat zij de mobiele telefoon van [betrokkene 1] in de plantenbak heeft gelegd. [betrokkene 1] heeft verklaard dat hij de mobiele telefoon aan de verdachte heeft gegeven. Hij wilde dat de mobiele telefoon weg zou zijn omdat deze altijd in beslag genomen wordt.
+
+De verdachte heeft ter terechtzitting in hoger beroep aangevoerd dat ze de telefoon in de plantenbak heeft verstopt omdat ze bang was dat ze een strafblad zou krijgen, terwijl ze voornemend was te solliciteren naar een functie als Buitengewoon Opsporingsambtenaar bij de Nederlandse Spoorwegen. Ook heeft ze verklaard dat ze niet heeft gehandeld op verzoek van [betrokkene 1] .
+
+Het hof ziet zich voor beantwoording van de vraag gesteld of de verdachte een beroep op de strafuitsluitingsgrond van artikel 189 lid 3 Sr toekomt.
+
+Voor een geslaagd beroep op artikel 189 lid 3 Sr is vereist dat de verdachte heeft gehandeld teneinde gevaar van vervolging voor zichzelf te ontgaan.
+
+Uit het dossier leidt het hof af dat er in de woning waar verdachte verbleef met haar vriend [betrokkene 1] zojuist een vechtpartij had plaatsgevonden waarbij [betrokkene 1] betrokken was en zowel een wapen als een mes is gebruikt. In de woning was op dat moment ook [betrokkene 2] aanwezig. [betrokkene 1] wilde, nadat [betrokkene 2] de politie zag, dat zijn telefoon weg zou zijn. Verdachte heeft verklaard dat [betrokkene 1] tegen haar heeft gezegd zijn telefoon bij haar te houden. Vervolgens heeft verdachte de telefoon, die verpakt zat in een plastic zak, in de grond in de plantenbak gestopt. [betrokkene 1] heeft tegen [betrokkene 2] gezegd het vuurwapen weg te leggen.
+
+Gelet op de uiterlijke verschijningsvorm van de gedragingen van verdachte en de context waarbinnen verdachte deze gedragingen heeft verricht, is het hof van oordeel dat het opzettelijk verbergen van de telefoon was gericht met het oogmerk om de inbeslagneming ervan te beletten, belemmeren of verijdelen terwijl die telefoon kon dienen om de waarheid aan de dag te brengen.
+
+Aan de verklaring van verdachte dat ze niet heeft gehandeld op verzoek van [betrokkene 1] en bang was voor een strafblad hecht het hof gelet op die hierboven vastgestelde feiten en omstandigheden geen geloof. Het hof betrekt hierbij dat verdachte deze verklaring eerst ter terechtzitting in hoger beroep heeft afgelegd. Gelet op het voorgaande wordt het beroep op de strafuitsluitingsgrond van artikel 189 lid 3 Sr dan ook verworpen.
+
+Het hof verwerpt het verweer van de verdediging in al haar onderdelen."
+
+2.4.1
+
+Artikel 189 leden 1 en 3 Sr luidt:
+
+“1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
+
+1° hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de nasporing van of aanhouding door de ambtenaren van de justitie of politie;
+
+2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;
+
+3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in artikel 36e aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
+
+(...)
+
+3. Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.”
+
+2.4.2
+
+Het derde lid van artikel 189 Sr is eveneens van toepassing op degene die de in het eerste lid vermelde handelingen mede verricht ten einde gevaar van vervolging voor zichzelf te ontgaan (vgl. HR 17 oktober 1995, ECLI:NL:HR:1995:ZD0248).
+
+2.5
+
+In het licht van wat door en namens de verdachte is aangevoerd, is het oordeel van het hof dat het beroep op de strafuitsluitingsgrond uit artikel 189 lid 3 Sr moet worden verworpen, niet toereikend gemotiveerd.
+
+2.6
+
+Het cassatiemiddel is terecht voorgesteld.
+
+3 Beslissing
+
+De Hoge Raad:
+
+- vernietigt de uitspraak van het hof;
+
+- wijst de zaak terug naar het gerechtshof ‘s-Hertogenbosch, opdat de zaak opnieuw wordt berecht en afgedaan.
+
+Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren A.E.M. Röttgering en C. Caminada, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 13 juli 2021.

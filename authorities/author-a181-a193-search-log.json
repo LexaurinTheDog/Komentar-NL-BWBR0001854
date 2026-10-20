@@ -1,0 +1,37 @@
+{
+  "searched_at": "2026-10-20T22:30:15.656443+00:00",
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad artikel 184 uitdrukkelijk bevoegdheid bevel 2012",
+    "site.rechtspraak.nl Hoge Raad artikel 189 vervolging zichzelf"
+  ],
+  "method": "Official-database web discovery followed by full official XML retrieval and complete reading; matching complete national-corpus decisions also read. Search snippets and PHR conclusions not used as court holdings.",
+  "national_corpus": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-1132.md",
+      "snapshot": "sources/author-a181-a193-HR-2021-1132-corpus.md",
+      "sha256": "3058b4d80f4ec244b3aa25a79174b8c6359a116e8593cbb3f1ae44136808bad3",
+      "full_text_read": true
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2012-bv6665.md",
+      "snapshot": "sources/author-a181-a193-HR-2012-BV6665-corpus.md",
+      "sha256": "490641989984a84b92d56607befde121e5a7fe8e9d45822a85fb899d23b3a4d2",
+      "full_text_read": true
+    }
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:HR:2012:BV6665",
+      "unit": "a184",
+      "paragraphs": "2.3–2.5; 3",
+      "card": "authorities/author-a181-a193-HR-2012-BV6665.md"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2021:1132",
+      "unit": "a189",
+      "paragraphs": "2.4.2–2.6; 3",
+      "card": "authorities/author-a181-a193-HR-2021-1132.md"
+    }
+  ],
+  "limits": "Selective research; no claim to exhaustive current case law. No sufficiently relevant verified decision selected for the remaining assigned provisions; no case-specific holding asserted for them."
+}

@@ -221,3 +221,6 @@ Auteursbatch a170–a180: [ophaalbewijs](sources/author-a170-a180-fetch-log.json
 
 
 Reviewbatch21: [verse versiecontrole](sources/review-batch21-version-evidence.json), [HTTP en hashes](sources/review-batch21-fetch-log.json), [onafhankelijke officiële inventaris](sources/review-batch21-coverage.json), [primaire rechtspraakcontrole](sources/review-batch21-authority-check.json).
+
+
+Auteursbatch a181–a193: [ophaalbewijs](sources/author-a181-a193-fetch-log.json), [versiecontrole](sources/author-a181-a193-version-evidence.json), [zelfstandige XML-inventaris](sources/author-a181-a193-coverage.json), [rechtspraakzoeklog](authorities/author-a181-a193-search-log.json), [HR2012:BV6665](authorities/author-a181-a193-HR-2012-BV6665.md), [HR2021:1132](authorities/author-a181-a193-HR-2021-1132.md). De actuele XML is bytegelijk aan de intake-XML. Toekomstige wijzigingen zijn geen onderdeel van het gebruikte geldende recht. De verwijzingen naar andere wetboeken zijn besproken binnen de grenzen van de aangehaalde Sr-tekst; er wordt geen actuele uitvoeringsregeling of lokale APV als afzonderlijk geverifieerd gepresenteerd.
