@@ -1,0 +1,19 @@
+{
+  "checked_output_commit": "a928975b299f2ec04dcfb1f4ba75cbe949addb82",
+  "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+  "exit_code": 1,
+  "stdout": "{\"repo\": \"Komentar-NL-BWBR0001854\", \"units\": 812, \"verbatim_ratio\": 1.0, \"commentary_chars\": 380057, \"errors\": [\"krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": "",
+  "result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 380057,
+    "errors": [
+      "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "scope": "Full 812-unit inventory unchanged; sole failure is 532 unassigned missing commentaries."
+}

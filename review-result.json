@@ -409,5 +409,59 @@
     "exact_repeated_substantive_paragraphs": [],
     "cross_unit_similarity_above_0_82": [],
     "manual_reading": "All twenty explanations read against each individual provision for actual elements, consequences, examples, overclaim and cross-references. Length and repetition metrics are not legal quality certification."
+  },
+  "technical_checks": {
+    "checked_at": "2026-10-20T18:39:03.014130+00:00",
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
+      "scope": "Unchanged full 812-unit inventory. 532 missing commentaries outside these twenty reviewed units."
+    },
+    "strict_full_validator": {
+      "checked_output_commit": "a928975b299f2ec04dcfb1f4ba75cbe949addb82",
+      "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+      "exit_code": 1,
+      "stdout": "{\"repo\": \"Komentar-NL-BWBR0001854\", \"units\": 812, \"verbatim_ratio\": 1.0, \"commentary_chars\": 380057, \"errors\": [\"krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+      "stderr": "",
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 380057,
+        "errors": [
+          "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "scope": "Full 812-unit inventory unchanged; sole failure is 532 unassigned missing commentaries."
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_present": true,
+      "all_rendered": true,
+      "short_ids": [],
+      "commentary_chars": 45094
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true,
+      "expected_units": 812,
+      "parsed_units": 812,
+      "missing": [],
+      "duplicates": []
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "checked": 603,
+      "ok": true
+    },
+    "all_bounded_review_reports_disjoint": true,
+    "total_reviewed_across_batches": 280,
+    "whole_book_pass": false,
+    "failure_outside_assignment_only": true
   }
 }

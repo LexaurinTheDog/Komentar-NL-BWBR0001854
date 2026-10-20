@@ -236,7 +236,7 @@ Het [verse versiebewijs](sources/review-batch14-version-evidence.json) bevestigt
 
 De volledige HR-beslissingen 2016:168 en 2015:768 zijn opnieuw gelezen en opgehaald, met onderscheid tussen partijstandpunt, geciteerde hofmotivering en eigen HR-oordeel. De bestaande kaarten zijn inhoudelijk juist bevonden. Hun tijdrechtelijke en procedurele beperkingen blijven gelden. De [bronnencontrole](sources/review-batch14-authority-evidence.json) vermeldt ook niet-gebruikte fetchkandidaten en de beperkte onderzoeksscope.
 
-Dit is een onafhankelijke tweede lezing van deze twintig eenheden, geen onafhankelijke beoordeling van het gehele boek of externe professionele goedkeuring. De volledige bouw en strikte validator worden ongewijzigd uitgevoerd; ontbrekende toelichtingen buiten de opdracht worden niet verhuld.
+Dit is een onafhankelijke tweede lezing van deze twintig eenheden, geen onafhankelijke beoordeling van het gehele boek of externe professionele goedkeuring. De volledige bouw en strikte validator zijn ongewijzigd uitgevoerd. Beide falen uitsluitend wegens 532 ontbrekende toelichtingen buiten de opdracht. De wettelijke tekstovereenkomst is 100%, alle twintig toegewezen toelichtingen zijn weergegeven en alle 603 gecontroleerde lokale koppelingen bestaan. De veertien batchrapporten bestrijken zonder overlap 280 eenheden. Het technische resultaat is vastgelegd; het leescheckpoint is lokaal gecommit.
 
 | Eenheid | Bevinding |
 | --- | --- |

@@ -96,7 +96,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 378049,
+    "commentary_chars": 380057,
     "errors": [
       "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
     ],
@@ -113,7 +113,7 @@
     "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
     "Fourteen disjoint bounded batches cover 280 units; 532 units remain unreviewed and lack commentary. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T18:37:05.983873+00:00",
+  "updated_at": "2026-10-20T18:39:03.014130+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -130,7 +130,7 @@
     "bounded_recheck": "sources/review-batch14-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T18:31:58.796235+00:00",
+  "validation_checked_at": "2026-10-20T18:39:03.014130+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -169,7 +169,17 @@
     "report": "review-result.json",
     "batch_report": "review-batch14-result.json",
     "source_preflight": "sources/review-batch14-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:37:05.983873+00:00"
+    "reviewed_at": "2026-10-20T18:37:05.983873+00:00",
+    "technical_validation": {
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_ok": true,
+      "all20_present": true,
+      "all20_rendered": true,
+      "full_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 532
+    }
   },
   "prior_bounded_reviews": [
     {
@@ -779,7 +789,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 378049,
+    "commentary_chars": 380057,
     "errors": [
       "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
     ],
