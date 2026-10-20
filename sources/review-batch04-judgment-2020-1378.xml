@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:1378</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:25:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/00523</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2020:570" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2020:570</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0279 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2020/2175</rdf:li>
+          <rdf:li>RvdW 2020/976</rdf:li>
+          <rdf:li>JOR 2021/54 met annotatie van Hornman, M.J.H.</rdf:li>
+          <rdf:li>NJ 2021/78 met annotatie van J.M. ten Voorde</rdf:li>
+          <rdf:li>JONDR 2021/264</rdf:li>
+          <rdf:li>NTS 2020/117</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1378">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1378</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T18:58:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:1378 Hoge Raad , 08-09-2020 / 19/00523</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:1378:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Oplichting (art. 326.1 Sr) en valsheid in geschrift (art. 225.1 Sr) door zijn klanten voor wie hij openstaande schulden zou innen steeds meer geld afhandig te maken zonder dat daar werkzaamheden tegenover staan, terwijl hij zijn incassobureau eerst als eenmanszaak en nadien als commanditaire vennootschap en als besloten vennootschap exploiteert. 1. Bijkomende straf ontzetting uit beroep bij commanditaire vennootschap, art. 28.15, 235.1 en 339.1 Sr. Kon hof bijkomende straf opleggen van ontzetting van recht van verdachte om beroep van bestuurder of feitelijk leidinggevende van rechtspersoon dan wel daarmee gelijkgestelde vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen uit te oefenen? 2. Omzetting vervangende hechtenis in gijzeling bij schadevergoedingsmaatregel, art. 36f Sr.</para>
+        <para>Ad 1. O.g.v. art. 28.1 Sr kan verdachte worden ontzet uit o.m. recht bepaalde beroepen uit te oefenen. Die mogelijkheid bestaat in bij wet bepaalde gevallen en indien strafbaar feit is begaan in uitoefening van dat beroep. Deze ontzetting dient betrekking te hebben op recht op uitoefening van beroep dat in voldoende verband staat met beroep waarin strafbaar feit is begaan. Mede in het licht van wetsgeschiedenis van art. 28.1.5 Sr kan ontzetting van recht bepaalde beroepen uit te oefenen zich ook uitstrekken tot beroepsuitoefening als overeenkomstig rechtspersonenrecht benoemd bestuurder van rechtspersoon. Hof heeft vastgesteld dat verdachte incassobureau eerst als eenmanszaak en nadien, omdat hij dan zijn adres kon afschermen, als commanditaire vennootschap en als besloten vennootschap heeft geëxploiteerd. In bewezenverklaarde periode was verdachte exploitant van incassobureau in de vorm van commanditaire vennootschap. Gelet op deze vaststellingen en in aanmerking genomen wat hiervoor voorop is gesteld, getuigt ‘s hofs kennelijke oordeel dat beroep van bestuurder van rechtspersoon in voldoende verband staat met uitoefening van beroep waarin verdachte bewezenverklaarde misdrijven heeft begaan, niet van onjuiste rechtsopvatting en is het niet onbegrijpelijk. V.zv. ‘s hofs beslissing inhoudt dat verdachte wordt ontzet van recht beroep uit te oefenen van “feitelijke leidinggevende” van rechtspersoon of daarmee gelijkgestelde vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen, heeft hof miskend dat feitelijk leidinggeven - waarbij hof kennelijk het oog heeft op in art. 51 Sr neergelegde strafbaarstelling van feitelijk leidinggeven aan door rechtspersoon of daaraan gelijkgestelde rechtsvorm begaan strafbaar feit - als zodanig niet kan worden aangemerkt als uitoefening van voldoende bepaald beroep a.b.i. art. 28.1..5 Sr. Dat doet overigens niet af aan mogelijkheid dat ontzetting betrekking heeft op specifiek omschreven vorm van beroepsuitoefening, waarvan leidinggeven aan activiteiten van rechtspersoon deel kan uitmaken. HR doet de zaak zelf af en vernietigt bijkomende straf v.zv. deze verder strekt dan ontzetting van recht tot uitoefening van beroep van bestuurder van rechtspersoon. </para>
+        <para>Ad 2. HR ambtshalve: Hof heeft verdachte verplichtingen opgelegd om aan de Staat ten behoeve van in arrest genoemde slachtoffers in arrest vermelde bedragen te betalen, bij gebreke van betaling en verhaal te vervangen door in arrest telkens genoemde aantal dagen hechtenis. HR zal ’s hofs uitspraak ambtshalve vernietigen v.zv. daarbij vervangende hechtenis is toegepast overeenkomstig hetgeen is beslist in ECLI:NL:HR:2020:914. HR bepaalt dat met toepassing van art. 6:4:20 Sv gijzeling van gelijke duur kan worden toegepast.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:1378:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	19/00523 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		8 september 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 30 januari 2019, nummer 21/003354-18, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1992,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J.C. Reisinger, advocaat te Utrecht, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal B.F. Keulen heeft geconcludeerd tot vernietiging van de bestreden uitspraak, maar uitsluitend wat betreft de strafoplegging, tot terugwijzing van de zaak naar het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, opdat de zaak in zoverre op het bestaande hoger beroep opnieuw wordt berecht en afgedaan, en tot verwerping van het beroep voor het overige.</para>
+      <para>De raadsman van de verdachte heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het derde cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over de door het hof opgelegde bijkomende straf van ontzetting van het recht van de verdachte om het beroep van bestuurder of feitelijk leidinggevende van een rechtspersoon, dan wel een daarmee gelijkgestelde vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen uit te oefenen.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+          <para>“1. hij in de periode van 1 januari 2014 tot en met 1 juni 2015, te [plaats] (telkens) met het oogmerk om zich wederrechtelijk te bevoordelen (telkens) door het aannemen van een valse hoedanigheid en door listige kunstgrepen en/of door een samenweefsel van verdichtsels, meer personen, waaronder de aangevers [aangever 1] en [aangever 2] en [aangever 3] (namens [A]) en [aangever 4] (namens [B] BV) en [aangever 5] (namens [E]) en [aangever 6] (namens [H]) en [aangever 7], heeft bewogen tot de afgifte van geldbedragen ter hoogte van (in elk geval en in totaal) EUR 87.040,11 immers heeft verdachte valselijk en listig en/of bedrieglijk en/of in strijd met de waarheid</para>
+          <para>- zich voorgedaan als een bonafide incassobureau genaamd [C] en/of</para>
+          <para>- aangevers in verband daarmee medegedeeld (onder meer) de volgende werkzaamheden te hebben verricht:</para>
+          <para>- het trachten te innen van openstaande vorderingen van deze aangever(s) op derden en/of het opvoeren van onkosten die daaruit zijn voortgekomen,</para>
+          <para>- het inschakelen van een deurwaarder,</para>
+          <para>- het starten van (een) civiele vorderingsprocedure(s) bij de rechtbank,</para>
+          <para>- het cederen van (een) vordering(en) aan een financiële instelling genaamd [F] en/of</para>
+          <para>- in verband met deze niet verrichte werkzaamheden facturen opgesteld en verstuurd aan aangevers en/of aangever(s) vervolgens aangegeven dat hij het bedrag van de facturen niet heeft ontvangen en/of aangever(s) verzocht om (nogmaals) het bedrag over te maken;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. hij in de periode van 1 december 2014 tot en met 22 januari 2015 te [plaats], meermalen een geschrift dat bestemd was om tot bewijs van enig feit te dienen, te weten een brief valselijk heeft opgemaakt door</para>
+          <para>- een brief d.d. 17 december 2014 gericht aan [aangever 1] en</para>
+          <para>- een brief d.d. 22 januari 2015 gericht aan [aangever 4] ([B] B.V.) en</para>
+          <para>- een brief d.d. 2 januari 2015 gericht aan [aangever 3] ([A]) op te stellen, waarin verdachte de naam van de financiële instelling [F] gebruikt en deze brieven heeft voorzien van het logo en adresgegevens van [F] en een naam ([betrokkene 3]) en handtekening, welke moest doorgaan voor de naam/handtekening van een medewerker van [F],</para>
+          <para>met het oogmerk om het als echt en onvervalst te gebruiken.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Het hof heeft met betrekking tot het onder 1 bewezenverklaarde feit onder meer het volgende vastgesteld:</para>
+          <para>“Verdachte heeft in en vóór de ten laste gelegde periode een incassobureau, genaamd [C], (opeenvolgend) als eenmanszaak, commanditaire vennootschap en als besloten vennootschap geëxploiteerd. Klanten konden zich tot verdachte wenden om openstaande vorderingen door hem te laten incasseren, eventueel met gebruikmaking van een deurwaarder. Verdachte heeft zijn klanten facturen verstuurd in verband met te verrichten of reeds verrichte werkzaamheden.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>De door het hof als bewijsmiddel 1 gebruikte verklaring van de verdachte houdt onder meer in:</para>
+          <para>“O: We gaan het verhoor even in een aantal gedeelten hakken. We willen graag iets meer weten over [C CV] en [D BV].</para>
+          <para>V: Wanneer heb je [C CV] opgericht?</para>
+          <para>A: Dat is voorgezet uit een eenmanszaak. In September 2010 heb ik [G] opgericht en toen heb ik het daarna veranderd in [C]. Vervolgens ben ik het in 2012 voort gaan zetten als CV. En dat heeft bestaan tot 1 januari 2015. Op dat moment is er een ontbinding geweest, een administratie ontbinding om de boekjaren heel te houden. En 18 februari 2015 ben ik feitelijk uitgeschreven.</para>
+          <para>V: Wat is een CV?</para>
+          <para>A: Een commanditaire vennootschap.</para>
+          <para>V: Wat is het verschil?</para>
+          <para>A: In een BV moest er 18.000 minimaal ingelegd worden en die middelen had ik niet. En bij een cv kon ik mijn privé adres afschermen. Om deze reden heb ik hiervoor gekozen.</para>
+          <para>V: Met wie heb je die opgericht?</para>
+          <para>A: Alleen.</para>
+          <para>V: Wat is [C CV] voor een bedrijf?</para>
+          <para>A: Incasso bureau.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.4</nr>
+        <parablock>
+          <para>Het hof heeft de verdachte veroordeeld ter zake van oplichting, meermalen gepleegd en valsheid in geschrift, meermalen gepleegd, en – naast een gevangenisstraf van veertien maanden, waarvan vijf maanden voorwaardelijk met een proeftijd van twee jaren – de volgende bijkomende straf opgelegd:</para>
+          <para>“Ontzet de verdachte van het recht tot uitoefening van het beroep van bestuurder of feitelijke leidinggevende van een rechtspersoon, dan wel een daarmee gelijkgestelde vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen voor de duur van 2 (twee) jaren.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>De volgende wettelijke bepalingen zijn van belang.</para>
+          <para>- Artikel 28 lid 1, aanhef en onder 5°, van het Wetboek van Strafrecht (hierna: Sr):</para>
+          <para>“De rechten waarvan de schuldige, in de bij de wet bepaalde gevallen, bij rechterlijke uitspraak kan worden ontzet, zijn:</para>
+          <para>(...)</para>
+          <para>5°. de uitoefening van bepaalde beroepen.”</para>
+          <para>- Artikel 235 lid 1 Sr:</para>
+          <para>“Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>- Artikel 339 lid 1 Sr:</para>
+          <para>“Bij veroordeling wegens een der in deze titel omschreven misdrijven, kan de rechter de openbaarmaking van zijn uitspraak gelasten en de schuldige worden ontzet van de uitoefening van het beroep waarin hij het misdrijf begaan heeft.”</para>
+          <para>De misdrijven valsheid in geschrift onderscheidenlijk oplichting zijn in dezelfde afdeling van het Wetboek van Strafrecht opgenomen als artikel 235 onderscheidenlijk artikel 339.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>In de memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de wet van 12 juni 2009 tot wijziging van het Wetboek van Strafrecht, Wetboek van Strafvordering en enkele aanverwante wetten in verband met de strafbaarstelling van het deelnemen en meewerken aan training voor terrorisme, uitbreiding van de mogelijkheden tot ontzetting uit het beroep als bijkomende straf en enkele andere wijzigingen (Stb. 2009, 245), is de vraag besproken of de wet al de mogelijkheid biedt “personen in geval van veroordeling voor bepaalde duur het recht te ontzeggen een bepaald beroep uit te oefenen, daaronder begrepen het optreden als bestuurder van een rechtspersoon”. Deze memorie van toelichting houdt in dat artikel 28 lid 1, aanhef en onder 5°, Sr hiervoor de grondslag geeft en dat aanpassing van die wettelijke bepaling daarom niet nodig is. Hierover is het volgende opgemerkt:</para>
+          <para>“Bestaande wetgeving</para>
+          <para>Op grond van artikel 28, eerste lid, onder 5°, van het Wetboek van Strafrecht (Sr) kan de rechter in de bij de wet bepaalde gevallen de schuldige ontzetten uit het recht bepaalde beroepen uit te oefenen. Ontzetting van het recht tot uitoefening van beroepen in het algemeen is niet geoorloofd. Dit zou immers betekenen dat men beroofd zou zijn van nagenoeg elke mogelijkheid om inkomen te verwerven. De ontzetting van het recht beperkt zich tot de uitoefening van het beroep waarin de schuldige het misdrijf heeft begaan. </para>
+          <para>Het begrip «beroep» is in de wet niet nader omlijnd. In de literatuur wordt aangenomen dat het ontbreken van een definitie veronderstelt dat aan het begrip «beroep» de meest ruime betekenis mag worden gegeven (vgl. Noyon-Langemeijer-Remmelink, Het Wetboek van Strafrecht, art. 28, aant. 19 (suppl. 53)). Uit rechtspraak kan worden afgeleid dat met name twee aspecten van belang worden geacht om een activiteit als beroep aan te merken. </para>
+          <para>In de eerste plaats moeten de verrichtingen die in het kader van de activiteit plaatsvinden een zekere samenhang vertonen, wil er sprake zijn van een beroep. Het gaat er daarbij bijvoorbeeld om dat iemand de diverse taken vervult die bij het desbetreffende beroep behoren. Zo maakt het regelmatig schetsen van bouwplannen iemand nog geen architect als hij de overige aan dit beroep verbonden werkzaamheden niet verricht. </para>
+          <para>Het tweede aspect betreft de duurzaamheid. Pas wanneer de werkzaamheden met een zekere bestendigheid plaatsvinden, kan van de uitoefening van een beroep worden gesproken. De eenmalige uitvoering van een specifieke last is dus geen beroepsuitoefening. Hierbij kan bijvoorbeeld worden gedacht aan het verschil tussen het optreden als executeur-testamentair in de privé-hoedanigheid van familielid en in de uitoefening van het beroep van notaris. </para>
+          <para>Niet relevant is verder of betrokkene de werkzaamheid uitvoert als hoofdberoep dan wel als nevenberoep. Het is namelijk goed voorstelbaar dat iemand verschillende beroepen naast elkaar uitoefent. «Beroep» beperkt zich evenmin tot kostwinning. Een bezigheid die praktisch als beroep wordt verricht, verliest het beroepsmatig karakter niet wanneer zij om niet of enkel tegen vergoeding van onkosten wordt verricht. Activiteiten van een zekere samenhang en duurzaamheid kunnen derhalve, ook zonder bezoldiging, worden aangemerkt als het uitoefenen van een beroep. </para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bestuurders </para>
+          <para>Tegen bovenomschreven achtergrond wordt in het kader van een geïntensiveerde en integrale aanpak van financieel-economische criminaliteit voorgesteld om de mogelijkheden tot het opleggen van een ontzetting als bedoeld in artikel 28, eerste lid, onder 5°, Sr te verruimen. Daarbij is ook bezien of de terminologie van bedoeld voorschrift er voldoende op toegesneden is om personen die zich erop toeleggen illegale financiële voordelen te behalen door misbruik te maken van rechtspersonen, met deze sanctie te kunnen bestraffen. Dit blijkt het geval te zijn. De term beroep is voldoende ruim om de verschillende functies die in de door de rechtspersoon in stand gehouden onderneming(en) kunnen worden bekleed, zoals accountants, financieel adviseurs, juristen et cetera, te omvatten. De term beroep is ook voldoende ruim om personen die als bestuurders en commissarissen deel uit maken van de organen van de rechtspersoon (waaronder naast kapitaalvennootschappen tevens stichtingen en verenigingen) als beroepsbeoefenaren aan te merken. </para>
+          <para>Binnen het kader van een rechtspersoon kunnen gewoonlijk tal van functies worden onderscheiden. Te denken valt aan accountants, financieel adviseurs, juristen en administratief en commercieel personeel. Niet zelden worden de functies, behorende tot het hogere kader van de rechtspersoon, ook wel aangeduid met het verzamelbegrip «bestuurders». Het gaat dan bijvoorbeeld om de beleidsbepalende en leidinggevende functies. Dit neemt niet weg dat ook deze zogenoemde bestuurders doorgaans ook een bepaalde functie bekleden, bijvoorbeeld die van chief executive officer (CEO), directeur of commissaris. De toepasselijkheid van artikel 28, eerste lid, onder 5°, Sr is daarmee gegeven. </para>
+          <para>Het voorgaande geldt eveneens voor functies binnen stichtingen en verenigingen. De bovengenoemde in de rechtspraak ontwikkelde criteria om van de uitoefening van een beroep te kunnen spreken zijn ook op activiteiten in het kader van een stichting of vereniging van toepassing. Voor zover binnen een stichting of vereniging dan wel een andere rechtspersoon van geringe omvang geen specifieke differentiatie heeft plaatsgevonden naar afzonderlijke en nader bepaalde functies, kan de rechter met het oog op de toepassing van artikel 28, eerste lid, onder 5°, Sr terugvallen op de ontzetting van het recht tot het beroepsmatig zijn van bestuurder van een vereniging of stichting. </para>
+          <para>Op de keper beschouwd kan de term «bestuurder» derhalve zowel worden gebruikt als verzamelbegrip voor een aantal (top)functies die worden uitgeoefend in het kader van een samenhangende bedrijfseconomische activiteit, alsook gelden als benaming voor een werkzaamheid die niet gekoppeld is aan een specifieke functie maar desondanks aangemerkt kan worden als een vorm van beroepsuitoefening in de zin van artikel 28, eerste lid, onder 5°, Sr. </para>
+          <para>Ook het wetboek zelf biedt overigens aanknopingspunten voor deze interpretatie. Zo benoemt het misdrijf van artikel 336 Sr (bedrog in jaarstukken) onder andere de bestuurder van een rechtspersoon of vennootschap expliciet als normadressaat. Daarbij biedt artikel 339, eerste lid, Sr de mogelijkheid om degene die zich in de hoedanigheid van bestuurder van een rechtspersoon of vennootschap schuldig maakt aan bedrog in jaarstukken, uit zijn beroep te ontzetten. Ik vermeld hier nog dat in het rapport «De sanctie van ontzetting uit de bevoegdheid bestuurder van een rechtspersoon te zijn, een rechtsvergelijkend onderzoek naar strafrechtelijke en andere beroeps- en bestuursverboden (januari 1998)» van het T.M.C. Asser Instituut, ook wordt gewezen op de mogelijkheid ten aanzien van bestuurders ontzetting uit het beroep te vorderen op grond van artikel 28, eerste lid, onder 5°. </para>
+          <para>Het OM heeft evenwel in zijn advies een aantal kanttekeningen geplaatst bij het gebruik van het begrip «beroep» met betrekking tot bestuurders. Het OM stelt dat het beter zou zijn om in dit kader te spreken van «functie» en artikel 28, eerste lid, onder 5°, Sr in die zin aan te vullen. Ik zie daar echter geen aanleiding toe. Uit het bovenstaande blijkt dat het begrip «beroep» in de rechtspraktijk ruim wordt uitgelegd. Niet is gebleken dat het begrip «beroep» met betrekking tot bestuurders te beperkt is. Met het advies van de NVvR ben ik van mening dat uiteindelijk de rechter in een concrete zaak zal moeten uitmaken of bepaalde werkzaamheden voldoende specifiek zijn om van een beroep te kunnen spreken en wat de precieze omvang van dat beroep is.”</para>
+          <para>(Kamerstukken II 2007/08, 31386, nr. 3, p. 13-15)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3</nr>
+        <parablock>
+          <para>De nota naar aanleiding van het verslag bij voornoemd wetsvoorstel houdt in:</para>
+          <para>“De leden van de fractie van het CDA stelden een vraag over het gebruik van het begrip «beroep» met betrekking tot bestuurders. Zij vroegen of in dit verband niet beter van «functie» kan worden gesproken. Zoals in de memorie van toelichting is uiteengezet, wordt het begrip beroep in de rechtspraktijk ruim uitgelegd. Om een bepaalde activiteit als beroep aan te kunnen merken is het van belang dat de verrichtingen in het kader van die activiteit enige mate van samenhang vertonen en met een zekere bestendigheid plaatsvinden. Bovendien beperkt de mogelijkheid tot ontzetting uit het beroep zich niet tot het hoofdberoep, maar kan deze sanctie evenzeer betrekking hebben op de uitoefening van een nevenberoep. Ook het als nevenfunctie verrichten van werkzaamheden als bestuurder kan derhalve als een beroepsmatige activiteit worden aangemerkt. De begrippen beroep en functie zijn nauw aan elkaar verwant. Naar mijn mening is het begrip beroep evenwel ruimer dan het begrip functie. Het begrip functie wordt voornamelijk gehanteerd om de verschillende posities binnen het kader van een organisatie formeel te duiden. Het begrip beroep is meer verbonden aan het verrichten van bepaalde werkzaamheden. Geenszins uitgesloten is dat wanneer iemand uit een bepaalde functie zou worden ontzet, deze persoon dezelfde werkzaamheden onder de noemer van een andere functie zou kunnen blijven verrichten. De ontzetting uit een «functie» heeft daarmee naar mijn mening een beperkter bereik, waardoor de sanctie aan effectiviteit inboet. Bij deze stand van zaken zie ik geen aanleiding om naast de mogelijkheid tot ontzetting uit het beroep te voorzien in de mogelijkheid tot ontzetting uit een «functie».</para>
+          <para>Deze leden vroegen voorts naar de reikwijdte van de ontzetting uit het beroep. De ontzetting heeft betrekking op het beroep waarin het misdrijf is begaan. Degene die door de rechter is ontzet uit het recht tot uitoefening van het beroep bestuurder, zal die werkzaamheid voor de duur van de ontzetting nergens mogen uitoefenen. De ontzetting is derhalve niet beperkt tot de specifieke betrekking binnen de bij het strafbare feit betrokken rechtspersoon, maar ziet op de werkzaamheden die aan de beroepsuitoefening van de bestuurder verbonden zijn. De desbetreffende werkzaamheden zullen voor de duur van de ontzetting niet beroepsmatig mogen worden verricht.”</para>
+          <para>(Kamerstukken II 2008/09, 31386, nr. 8, p. 12-13)</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Op grond van artikel 28 lid 1 Sr kan een verdachte worden ontzet uit onder meer het recht bepaalde beroepen uit te oefenen. Die mogelijkheid bestaat in de bij de wet bepaalde gevallen en indien het strafbare feit is begaan in de uitoefening van dat beroep. Deze ontzetting dient betrekking te hebben op het recht op uitoefening van een beroep dat in voldoende verband staat met het beroep waarin het strafbaar feit is begaan. Mede in het licht van de onder 2.3.2 en 2.3.3 aangehaalde parlementaire geschiedenis kan de ontzetting van het recht bepaalde beroepen uit te oefenen zich ook uitstrekken tot de beroepsuitoefening als overeenkomstig het rechtspersonenrecht benoemd bestuurder van een rechtspersoon. </para>
+      <paragroup>
+        <nr>2.5.1</nr>
+        <para>Het hof heeft vastgesteld dat de verdachte het – in de bewezenverklaring onder 1 vermelde – incassobureau [C] eerst als eenmanszaak en nadien, omdat hij dan zijn adres kon afschermen, als commanditaire vennootschap en als besloten vennootschap heeft geëxploiteerd. In de bewezenverklaarde periode was de verdachte exploitant van het incassobureau in de vorm van een commanditaire vennootschap. Gelet op deze vaststellingen en in aanmerking genomen wat onder 2.4 voorop is gesteld, getuigt het kennelijke oordeel van het hof dat het beroep van bestuurder van een rechtspersoon in voldoende verband staat met de uitoefening van het beroep waarin de verdachte de bewezenverklaarde misdrijven heeft begaan, niet van een onjuiste rechtsopvatting en is het niet onbegrijpelijk.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.2</nr>
+        <para>Voor zover de beslissing van het hof inhoudt dat de verdachte wordt ontzet van het recht het beroep uit te oefenen van “feitelijke leidinggevende” van een rechtspersoon of een daarmee gelijkgestelde vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen, heeft het hof miskend dat feitelijk leidinggeven – waarbij het hof kennelijk het oog heeft op de in artikel 51 Sr neergelegde strafbaarstelling van het feitelijk leidinggeven aan een door een rechtspersoon of een daaraan gelijkgestelde rechtsvorm begaan strafbaar feit – als zodanig niet kan worden aangemerkt als de uitoefening van een voldoende bepaald beroep, als bedoeld in de zin van artikel 28 lid 1, aanhef en onder 5°, Sr. Dat doet overigens niet af aan de mogelijkheid dat de ontzetting betrekking heeft op een specifiek omschreven vorm van beroepsuitoefening, waarvan leidinggeven aan activiteiten van een rechtspersoon deel kan uitmaken.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.3</nr>
+        <para>Het cassatiemiddel slaagt in zoverre. De Hoge Raad zal zelf de zaak afdoen en de bijkomende straf vernietigen voor zover deze verder strekt dan de ontzetting van het recht tot uitoefening van het beroep van bestuurder van een rechtspersoon.</para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de cassatiemiddelen voor het overige</title>
+    <para>De Hoge Raad heeft ook de overige klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Ambtshalve beoordeling van de uitspraak van het hof</title>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het hof heeft de verdachte de verplichtingen opgelegd, kort gezegd, om aan de Staat ten behoeve van de in het arrest genoemde slachtoffers de in het arrest vermelde bedragen te betalen, bij gebreke van betaling en verhaal te vervangen door het in het arrest telkens genoemde aantal dagen hechtenis.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De Hoge Raad zal de uitspraak van het hof ambtshalve vernietigen voor zover daarbij telkens vervangende hechtenis is toegepast, overeenkomstig hetgeen is beslist in HR 26 mei 2020, ECLI:NL:HR:2020:914.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad: </para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend voor zover de bijkomende straf verder strekt dan de ontzetting van het recht tot uitoefening van het beroep van bestuurder van een rechtspersoon, en voor zover bij de schadevergoedingsmaatregel ten behoeve van de in het arrest genoemde slachtoffers telkens vervangende hechtenis is toegepast;</para>
+      <para>- verstaat dat de bijkomende straf de ontzetting van het recht tot uitoefening van het beroep van bestuurder van een rechtspersoon betreft;</para>
+      <para>- bepaalt dat ten aanzien van de schadevergoedingsmaatregel ten behoeve van de in het arrest genoemde slachtoffers met toepassing van artikel 6:4:20 van het Wetboek van Strafvordering telkens gijzeling van gelijke duur kan worden toegepast;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend en M.J. Borgers, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">8 september 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

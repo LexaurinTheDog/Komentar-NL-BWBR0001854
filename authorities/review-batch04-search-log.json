@@ -1,0 +1,47 @@
+{
+  "verified_at": "2026-10-20T16:42:57.939102+00:00",
+  "scope": "Selective cases on profession disqualification, compensation and forfeiture without prior94 seizure; no exhaustive claim.",
+  "firecrawl_status": "Authenticated but zero remaining credits; no scrape attempted.",
+  "search_service": "Web discovery, local national collection, direct official full-text XML.",
+  "web_queries": [
+    "site.hogeraad.nl verbeurdverklaring 33a witwassen geldbedragen 2015 1341",
+    "site.uitspraken.rechtspraak.nl \"artikel 28\" \"beroep\" \"Hoge Raad\" ontzetting",
+    "site.officielebekendmakingen.nl \"31\" \"ontzetting\" \"2026\" \"onherroepelijk\"",
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"33a\" \"1341\"",
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"33c\" \"onevenredig\" \"2018\"",
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"2015:3689\""
+  ],
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2020:1378",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-1378.md",
+      "sha256": "3ed97b844b2a535e23f0891c041a8aa4f8302ce695be19e113f9fa4071a93200",
+      "method": "Exact ECLI national-corpus match followed by actual full-text reading and freshly fetched official XML, including disposition and limits."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:3689",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-3689.md",
+      "sha256": "301d4d6d1b7716eb606df01c8d0726855e0009b4e7fb3190bbe803fcb91ac068",
+      "method": "Exact ECLI national-corpus match followed by actual full-text reading and freshly fetched official XML, including disposition and limits."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:1156",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1156.md",
+      "sha256": "5bedb900e543055302f0fceeab36bf6d3479c7227d51fa4421af89317a14629e",
+      "method": "Exact ECLI national-corpus match followed by actual full-text reading and freshly fetched official XML, including disposition and limits."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2020:1378",
+    "ECLI:NL:HR:2015:3689",
+    "ECLI:NL:HR:2018:1156"
+  ],
+  "supported_units": [
+    "a28",
+    "a33c",
+    "a34"
+  ],
+  "unselected_results": "PHR opinions and third-party summaries used only for discovery, not holdings; no primary authority1341 selected. Referred EHRM cases, older HR cases and parliamentary history not separately cited as verified authorities.",
+  "other_units": "No newly verified sufficiently relevant case selected for the other17 units; this is not a claim that no case exists.",
+  "primary_fetch_evidence": "sources/review-batch04-fetch-log.json"
+}

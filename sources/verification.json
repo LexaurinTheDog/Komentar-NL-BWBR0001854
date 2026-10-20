@@ -513,6 +513,81 @@
       "bytes": 15621,
       "root": "officiele-publicatie",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T16:39:04.636166+00:00",
+      "path": "sources/review-batch04-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T16:39:04.978364+00:00",
+      "path": "sources/review-batch04-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T16:39:05.764859+00:00",
+      "path": "sources/review-batch04-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1378",
+      "accessed_at": "2026-10-20T16:39:16.373701+00:00",
+      "path": "sources/review-batch04-judgment-2020-1378.xml",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1378",
+      "content_type": "application/xml",
+      "sha256": "2300a526cd5015f0a840a4cd147f5fa01a5e8819d91e34eb39763b8d7ea8c7f1",
+      "bytes": 34145,
+      "root": "open-rechtspraak",
+      "expected_format_valid": true,
+      "full_judgment_nonempty": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:3689",
+      "accessed_at": "2026-10-20T16:39:16.574694+00:00",
+      "path": "sources/review-batch04-judgment-2015-3689.xml",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:3689",
+      "content_type": "application/xml",
+      "sha256": "6a52676828af29cf5b66b8611dfb52f7c083d60d935867356a6b91affba31e1a",
+      "bytes": 16211,
+      "root": "open-rechtspraak",
+      "expected_format_valid": true,
+      "full_judgment_nonempty": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1156",
+      "accessed_at": "2026-10-20T16:39:16.751162+00:00",
+      "path": "sources/review-batch04-judgment-2018-1156.xml",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1156",
+      "content_type": "application/xml",
+      "sha256": "a5f78d2518decc511e79d5d465e1f79f45f97b63725b3f8dc5fff7911404416c",
+      "bytes": 19740,
+      "root": "open-rechtspraak",
+      "expected_format_valid": true,
+      "full_judgment_nonempty": true
     }
   ],
   "effective_version_verified": true,
@@ -556,6 +631,6 @@
       "action": "No scrape initiated; direct official XML used."
     }
   },
-  "bounded_review_checked_at": "2026-10-20T16:35:30.643139+00:00",
-  "bounded_review_evidence": "sources/review-batch03-version-evidence.json"
+  "bounded_review_checked_at": "2026-10-20T16:42:57.939102+00:00",
+  "bounded_review_evidence": "sources/review-batch04-version-evidence.json"
 }

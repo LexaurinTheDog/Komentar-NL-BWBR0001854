@@ -5,12 +5,12 @@
     "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
     "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
   ],
-  "executed_at": "2026-10-20T16:36:32.412183+00:00",
+  "recorded_at": "2026-10-20T16:44:24.434362+00:00",
   "returncode": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
   "ok": false,
   "full_inventory_unchanged": true,
-  "task_scope": "Independent review of exactly20 assigned units,15i–23. Existing548-unit authoring deficit is outside assignment.",
-  "checkpoint_renderer": "_render_checkpoint.py renders all264 existing commentaries as explicitly incomplete; does not claim full build success."
+  "task_scope": "Independent second reading of exactly20 assigned units24–36. Existing548-unit authoring deficit is outside assignment.",
+  "checkpoint_renderer": "_render_checkpoint.py renders all264 existing comments as explicitly incomplete; no full-build success claimed."
 }

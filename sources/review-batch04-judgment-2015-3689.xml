@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:3689</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T05:44:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-12-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-12-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/06204</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:1788" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:1788, Gevolgd</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=33a">Wetboek van Strafrecht 33a</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=34">Wetboek van Strafrecht 34</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903">Wetboek van Strafvordering</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903&amp;artikel=94">Wetboek van Strafvordering 94</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903&amp;artikel=94a">Wetboek van Strafvordering 94a</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJ 2016/62</rdf:li>
+          <rdf:li>RvdW 2016/163</rdf:li>
+          <rdf:li>SR-Updates.nl 2016-0021</rdf:li>
+          <rdf:li>NbSr 2016/36 met annotatie van mr. R. Zilver, mr. J.J. Bussink</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:3689">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:3689</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-12-22T10:21:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-12-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:3689 Hoge Raad , 22-12-2015 / 14/06204</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:3689:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>OM-cassatie. Conservatoir beslag en verbeurdverklaring. Art. 94a Sv en art. 33a Sr. Voor de v.v. a.b.i. art. 33a Sr is het niet nodig dat op het voorwerp waarvan de v.v. wordt uitgesproken ex art. 94 Sv beslag is gelegd. Ex. art. 34 Sr zal in zo’n geval het voorwerp moeten worden uitgeleverd of de geschatte waarde daarvan moeten worden betaald. Voor uitlevering zal verdachte, indien op hetzelfde voorwerp een ander dan het in art. 94 Sv vermelde beslag is gelegd, afhankelijk zijn van de medewerking van de beslaglegger. Een conservatoir beslag a.b.i. art. 94a Sv staat derhalve niet eraan in de weg dat een voorwerp wordt verbeurdverklaard. Een andersluidende opvatting zou ook tot het onaanvaardbare resultaat leiden dat de strafrechter door een beslaglegger in zijn sanctiemogelijkheden wordt beperkt. CAG anders.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:3689:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>22 december 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/06204</para>
+    <para>AKA/AGE</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para> </para>
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Amsterdam van 12 september 2014, nummer 23/002524-12, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1967.</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De raadsman van de verdachte, mr. H. Bakker, advocaat te Amsterdam, heeft het beroep tegengesproken.</para>
+      <para>De Advocaat-Generaal P.C. Vegter heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <parablock>
+      <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel houdt in dat het Hof ten onrechte geen beslissing heeft gegeven op de vordering van de Advocaat-Generaal bij het Hof tot verbeurdverklaring.</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1.</nr>
+        <para>Het Hof heeft de verdachte ter zake van het onder 2 bewezenverklaarde 'medeplegen van opzettelijk gebruik maken van een vals geschrift, als bedoeld in artikel 225, eerste lid, van het Wetboek van Strafrecht, als ware het echt en onvervalst, meermalen gepleegd' veroordeeld tot een geldboete van € 15.000,-, subsidiair 110 dagen hechtenis, en een taakstraf van 80 uren, subsidiair 40 dagen hechtenis.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2.</nr>
+        <parablock>
+          <para>De Advocaat-Generaal heeft de verbeurdverklaring gevorderd van een woning aan de [a-straat 1] te Badhoevedorp en een BMW X3. Hij heeft daartoe ter terechtzitting in hoger beroep onder meer het volgende aangevoerd:</para>
+          <para>"Ik vorder verbeurdverklaring van het pand omdat het pand is gekocht met behulp van een hypotheekakte die niet klopt. Het is om die reden niet bezwaarlijk dat er op het pand beslag ex artikel 94a Wetboek van Strafvordering rust." </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3.</nr>
+        <parablock>
+          <para>Het Hof heeft ten aanzien van de door de Advocaat-Generaal gevorderde verbeurdverklaring het volgende overwogen:</para>
+          <para>"De advocaat-generaal heeft gevorderd dat de woning aan de [a-straat 1] te Badhoevedorp en de BMW X3 verbeurd worden verklaard. Het hof overweegt dat op de woning en het voertuig conservatoir beslag rust in de zin van artikel 94a Sv. Op basis van HR 19 februari 2008, ECLI:NL:HR:2008:BC4453, NJ 2008, 129, is het onmogelijk om goederen waarop conservatoir beslag rust, verbeurd te verklaren. Gelet op het karakter van het gelegde beslag zal het hof daarom niet beslissen op het beslag."</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <parablock>
+        <para>Bij de beoordeling van de middelen zijn de volgende wettelijke bepalingen van belang.</para>
+        <para>Art. 33a, eerste lid, Sr:</para>
+        <para>"Vatbaar voor verbeurdverklaring zijn:</para>
+        <para>a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;</para>
+        <para>b. voorwerpen met betrekking tot welke het feit is begaan;</para>
+        <para>c. voorwerpen met behulp van welke het feit is begaan of voorbereid;</para>
+        <para>d. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;</para>
+        <para>e. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;</para>
+        <para>f. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Art. 34, eerste en tweede lid, Sr:</para>
+        <para>"1. Niet in beslag genomen voorwerpen worden, bij verbeurdverklaring, in de uitspraak op een bepaald geldelijk bedrag geschat.</para>
+        <para>2. De voorwerpen moeten in dit geval worden uitgeleverd of de geschatte waarde moet worden betaald."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Art. 94, eerste en tweede lid, Sv:</para>
+        <para>"1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in artikel 36e van het Wetboek van Strafrecht, aan te tonen.</para>
+        <para>2. Voorts zijn vatbaar voor inbeslagneming alle voorwerpen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Art. 94a, eerste, tweede en derde lid, Sv:</para>
+        <para>"1. In geval van verdenking van een misdrijf, waarvoor een geldboete van de vijfde categorie kan worden opgelegd, kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen geldboete.</para>
+        <para>2. In geval van verdenking van of veroordeling wegens een misdrijf, waarvoor een geldboete van de vijfde categorie kan worden opgelegd, kunnen voorwerpen in beslag genomen worden tot bewaring van het recht tot verhaal voor een naar aanleiding van dat misdrijf op te leggen verplichting tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.</para>
+        <para>3. Ingeval van verdenking van een misdrijf, waarvoor een geldboete van de vierde categorie kan worden opgelegd, kunnen voorwerpen in beslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen maatregel als bedoeld in artikel 36f van het Wetboek van Strafrecht."</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.4.1.</nr>
+        <para>Het conservatoir beslag als bedoeld in art. 94a Sv strekt tot bewaring van het recht tot verhaal voor een van de ter zake van bepaalde misdrijven op te leggen in art. 94a Sv genoemde vermogenssancties. Een op de voet van art. 94 Sv gelegd beslag dient de waarheidsvinding in strafzaken, het aantonen van wederrechtelijk verkregen voordeel, dan wel de veiligstelling van verbeurdverklaring of onttrekking aan het verkeer door de strafrechter. Dit verschil in doelstelling brengt mee dat door het openbaar ministerie op een voorwerp zowel beslag op de voet van art. 94 Sv als op de voet van art. 94a Sv kan worden gelegd, dan wel dat een op art. 94 Sv gebaseerd beslag wordt omgezet in een op art. 94a Sv gebaseerd beslag en andersom. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2.</nr>
+        <para>Voor de verbeurdverklaring als bedoeld in art. 33a Sr is het niet nodig dat op de voet van art. 94 Sv beslag is gelegd op het voorwerp waarvan de verbeurdverklaring wordt uitgesproken. Ingevolge art. 34 Sr zal in zo'n geval het voorwerp moeten worden uitgeleverd of de geschatte waarde daarvan moeten worden betaald. Voor uitlevering zal de verdachte, indien op hetzelfde voorwerp een ander dan het in art. 94 Sv vermelde beslag is gelegd, afhankelijk zijn van de medewerking van de beslaglegger.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.1.</nr>
+        <para>Een conservatoir beslag als bedoeld in art. 94a Sv staat derhalve niet eraan in de weg dat een voorwerp wordt verbeurd verklaard. Een andersluidende opvatting zou ook tot het onaanvaardbare resultaat leiden dat de strafrechter door een beslaglegger in zijn sanctiemogelijkheden wordt beperkt.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2.</nr>
+        <para>Het oordeel van het Hof zoals weergegeven onder 3.2.3, is derhalve onjuist. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>Het middel klaagt daarover terecht.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Hetgeen hiervoor is overwogen brengt mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak maar uitsluitend wat betreft de strafoplegging, de beslissingen omtrent de inbeslaggenomen voorwerpen daaronder begrepen;</para>
+      <para>wijst de zaak terug naar het Gerechtshof Amsterdam, opdat de zaak in zoverre op het bestaande hoger beroep opnieuw wordt berecht en afgedaan;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+      <para />
+      <para>	Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en E.S.G.N.A.I. van de Griend, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">22 december 2015</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
