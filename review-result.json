@@ -4,232 +4,233 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a144",
-    "a145",
-    "a146",
-    "a147",
-    "a147a",
-    "a148",
-    "a149",
-    "a150",
-    "a151",
-    "a151a",
-    "a151b",
-    "a151c",
-    "a151d",
-    "a151e",
-    "a151f",
-    "a152",
-    "a153",
-    "a154",
-    "a155",
-    "a156"
+    "a157",
+    "a158",
+    "a159",
+    "a160",
+    "a161",
+    "a161bis",
+    "a161ter",
+    "a161quater",
+    "a161quinquies",
+    "a161sexies",
+    "a161septies",
+    "a162",
+    "a162a",
+    "a163",
+    "a164",
+    "a165",
+    "a166",
+    "a167",
+    "a168",
+    "a169"
   ],
   "unresolved_blockers": [],
-  "verified_at": "2026-10-20T22:06:56.446649+00:00",
-  "source_preflight": "sources/review-batch19-version-evidence.json",
+  "verified_at": "2026-10-20T22:15:32.171163+00:00",
+  "source_preflight": "sources/review-batch20-version-evidence.json",
   "findings": [
     {
-      "id": "a144",
+      "id": "a157",
       "reviewed": true,
-      "finding": "Wanorde/gedruis bij vergadering onderscheiden van uitsluitend wanorde bij betoging; geoorloofdheid, opzet, daadwerkelijk storen en maximum gecontroleerd. Behouden.",
+      "finding": "Opzet op brand/ontploffing/overstroming, drie gevaartrappen, levensgevaar plus dood onder3 en maxima gecontroleerd; HR2009:BH0594 volledig gelezen, eigen oordeel4.2–4.4 correct weergegeven.",
       "changed": false,
-      "source_text_sha256": "e67c23b13cb785b96bef09436f8cd5fd6dce21b4549b307169c99950c8474a55",
-      "commentary_before_sha256": "4de7756d4a1915727fa82b669a3749965009086c331a42d2a9b138eabf6f9bd6",
-      "commentary_after_sha256": "4de7756d4a1915727fa82b669a3749965009086c331a42d2a9b138eabf6f9bd6"
+      "source_text_sha256": "6bcf4823839c9854ab66a8f7f5ab5fd846937d8aa73e727393776c91f952b461",
+      "commentary_before_sha256": "eeefa978f9c184d4c874b87403421dc978e60292c7bf75af09f97b4b82fb43dd",
+      "commentary_after_sha256": "eeefa978f9c184d4c874b87403421dc978e60292c7bf75af09f97b4b82fb43dd"
     },
     {
-      "id": "a145",
+      "id": "a158",
       "reviewed": true,
-      "finding": "Openbare samenkomst onderscheiden van plechtigheid zonder zelfstandig openbaarheidsvereiste; geweld/bedreiging, verhindering en strafmaximum gecontroleerd. Behouden.",
+      "finding": "Schuld, ontstaan tegenover te duchten gevaar, letselalternatief onder2 en zelfstandige doodsvariant onder3 met maxima gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "a0a6a367750aff0170125862756256b677d10b526f150aa814881bcd1978b17e",
-      "commentary_before_sha256": "d832bb9bd6a78da4b029f76d72de28c3ba0336e7a712db2b6b2680064ba4d712",
-      "commentary_after_sha256": "d832bb9bd6a78da4b029f76d72de28c3ba0336e7a712db2b6b2680064ba4d712"
+      "source_text_sha256": "6f3f69c57780cc66aec27003b4788f9e69fda7d437baea81a822e264571e913d",
+      "commentary_before_sha256": "4e37777b6616a887553fc3720c3a83d710a6975ff1d8068f2bb7fe17790b42a6",
+      "commentary_after_sha256": "4e37777b6616a887553fc3720c3a83d710a6975ff1d8068f2bb7fe17790b42a6"
     },
     {
-      "id": "a146",
+      "id": "a159",
       "reviewed": true,
-      "finding": "Wanorde/gedruis, opzettelijk storen tegenover verhinderen, drie beschermde activiteiten en maximum gecontroleerd. Behouden.",
-      "changed": false,
-      "source_text_sha256": "2dc2aca622e456a0d1900cec0e2e351db0201f66e3cf3b6dadbb21aefd28d53f",
-      "commentary_before_sha256": "1be2e0e6ed94926a484c1befec8a5f585bb9fe783d6b22f4fb02b869602c983e",
-      "commentary_after_sha256": "1be2e0e6ed94926a484c1befec8a5f585bb9fe783d6b22f4fb02b869602c983e"
-    },
-    {
-      "id": "a147",
-      "reviewed": true,
-      "finding": "Vervallen status en datum 1 maart 2014 aan officiële XML-attributen getoetst; historische inhoud niet als huidig recht behandeld. Behouden.",
-      "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "1afe6c85194a1d5da255efb8c1c7f52529ca5ee2ee6e26c7e01240a8e7c9b0cf",
-      "commentary_after_sha256": "1afe6c85194a1d5da255efb8c1c7f52529ca5ee2ee6e26c7e01240a8e7c9b0cf"
-    },
-    {
-      "id": "a147a",
-      "reviewed": true,
-      "finding": "Zelfstandig artikel-ID, vervallen status en datum 1 maart 2014 gecontroleerd; geen vermenging met lid van 147. Behouden.",
-      "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "bf8dc63e0b27fb1960812a5ccee2f5caca9ecdf633e8bff42abcc7aef28a01f7",
-      "commentary_after_sha256": "bf8dc63e0b27fb1960812a5ccee2f5caca9ecdf633e8bff42abcc7aef28a01f7"
-    },
-    {
-      "id": "a148",
-      "reviewed": true,
-      "finding": "Toegang en vervoer naar begraafplaats/crematorium, geoorloofdheid, opzet, verhinderen/belemmeren en maximum gecontroleerd. Behouden.",
-      "changed": false,
-      "source_text_sha256": "b0ed2166154759f8add66b875e77c6d60c5adfc69ad27aedc162d3c06684d875",
-      "commentary_before_sha256": "6f4a92986bd885f88fe8a9aed1e73abba60dca9a637ecc28d5be6ef645b5e5ff",
-      "commentary_after_sha256": "6f4a92986bd885f88fe8a9aed1e73abba60dca9a637ecc28d5be6ef645b5e5ff"
-    },
-    {
-      "id": "a149",
-      "reviewed": true,
-      "finding": "Grafschending en wederrechtelijke monumentbeschadiging op begraafplaats onderscheiden; plaatsvereiste en verwijzing 150 gecontroleerd. Behouden.",
-      "changed": false,
-      "source_text_sha256": "fda43c3cbcd172a9fbfa7b82f94395b87323aecbd7d972e5699ea5a502aea54b",
-      "commentary_before_sha256": "2d300e6e2f8721dc750a7c5ed539acfcc79ce5d876b286d2947b9d2c65dd3ae7",
-      "commentary_after_sha256": "2d300e6e2f8721dc750a7c5ed539acfcc79ce5d876b286d2947b9d2c65dd3ae7"
-    },
-    {
-      "id": "a150",
-      "reviewed": true,
-      "finding": "Opgraven/wegnemen onderscheiden van later verplaatsen/vervoeren, opzet en wederrechtelijkheid; geen verhullingsdoel uit 151 toegevoegd. Behouden.",
-      "changed": false,
-      "source_text_sha256": "903bb1d1ebd49ec18af2a8e936987c44c83342051cba6f82ce7dcbb190f46f53",
-      "commentary_before_sha256": "97c9796d1d83d54a3eb67edcdaafbcfa7a6826a0a3f28c57b76fbe6d543d3877",
-      "commentary_after_sha256": "97c9796d1d83d54a3eb67edcdaafbcfa7a6826a0a3f28c57b76fbe6d543d3877"
-    },
-    {
-      "id": "a151",
-      "reviewed": true,
-      "finding": "Alle zes handelingen en drie verhullingsdoelen gecontroleerd; volledig HR2018:321 en nationale corpusversie gelezen. Eigen HR-oordeel2.4 van hofoordeel2.2.3 onderscheiden. Behouden.",
-      "changed": false,
-      "source_text_sha256": "8f5fd5acfb2c52a02c0e7e32d3257d9043cf1e9e85989f3844e3cf24a86549fd",
-      "commentary_before_sha256": "db55de2eb28055978bfaaa60a78c568349083dc53c3efe51b0ad92c2ad582500",
-      "commentary_after_sha256": "db55de2eb28055978bfaaa60a78c568349083dc53c3efe51b0ad92c2ad582500"
-    },
-    {
-      "id": "a151a",
-      "reviewed": true,
-      "finding": "Leeftijd, negatieve voogdijvoorwaarde, voorafgaande schriftelijke raadstoestemming, winstbejag en opzettelijk bevorderen gecontroleerd. Leeftijdsgrens verduidelijkt: vanaf exact zes maanden buiten deze leeftijdsomschrijving; voogdij als negatief bestanddeel geformuleerd.",
+      "finding": "Temporeel verband bij/in vooruitzicht van brand, wederrechtelijk verbergen/onbruikbaar maken tegenover beletten/belemmeren gecontroleerd. Voorbeeld verduidelijkt tot tijdens de brand.",
       "changed": true,
-      "source_text_sha256": "8defb50afd846c50992fd64395f58fd2a9f9851f57418eab361de193064874ce",
-      "commentary_before_sha256": "90dd8e209c73ae5c2e3eb7794835eaaf0917cba52f7535feb2588b8d30fef0f6",
-      "commentary_after_sha256": "1e77c0d009464c8c2bdcd9089dfad8410187fda249689482ae3fed58dacb2d84"
+      "source_text_sha256": "1d931cdcdd8252550a2445573db721a371fbfea7ecae97c1f868fd0ca7ed0d68",
+      "commentary_before_sha256": "26257a692bf80710453dc60cf79de23cde33cd2aa06836f00dcb7ad620abbdcd",
+      "commentary_after_sha256": "71b4ec8672bc78d9c1f46bddea1da0cfc780d2649d16555e0f0c120e22da80a0"
     },
     {
-      "id": "a151b",
+      "id": "a160",
       "reviewed": true,
-      "finding": "Beroep/bedrijf en opzet in lid1, zelfstandige openbare varianten lid2a/b en volledig voornemen lid3 gecontroleerd. Geen winstbejageis uit151a overgenomen. Behouden.",
+      "finding": "Bestaande/voorziene watersnood, drie sabotagevarianten, opzet, wederrechtelijkheid bij materialen en ontbreken gevaargevolg gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "82b98220262c36efb998a4aa104d7d9583c7e681479c91de92dac196f9848355",
-      "commentary_before_sha256": "48c9d982013cffaea2d93c499eb5aef515dcf1feb05a2fa7d51e6659f411236d",
-      "commentary_after_sha256": "48c9d982013cffaea2d93c499eb5aef515dcf1feb05a2fa7d51e6659f411236d"
+      "source_text_sha256": "c4845d6a18db1707733c941d0164d0a3584ef63209fc048ace25d24054688c9a",
+      "commentary_before_sha256": "7e0eb93343b34531928fe220b6385ce20d594e0285ff92e7814637bec61d358f",
+      "commentary_after_sha256": "7e0eb93343b34531928fe220b6385ce20d594e0285ff92e7814637bec61d358f"
     },
     {
-      "id": "a151c",
+      "id": "a161",
       "reviewed": true,
-      "finding": "Duurzame verzorging/opvoeding, rechtstreekse/middellijke bemiddeling, bevoegde organisaties/verwijzing en behoud151b lid1 gecontroleerd. Behouden.",
+      "finding": "Limitatieve werken, opzettelijke aantasting, overstromingsgevaar/goederengevaar, levensgevaar en dood gecontroleerd. Officiële verschrijving vijften blijft als zodanig zichtbaar; niet in wettekst geëmendeerd.",
       "changed": false,
-      "source_text_sha256": "04658f3669b51265ed350f96eb85991d46e1e31d795dc4f556f11b80b694c545",
-      "commentary_before_sha256": "a84954c718e02f31e3e597b0d5579a89147ba90ee340bb4ed12d33304758efec",
-      "commentary_after_sha256": "a84954c718e02f31e3e597b0d5579a89147ba90ee340bb4ed12d33304758efec"
+      "source_text_sha256": "767e8b9637e77238c74da712a9eae2a48362f5bcc29d9bf57fd3cba6d4601b86",
+      "commentary_before_sha256": "d47116e2b9843f17595c580118d937cd56ae61fe67f9fa35382f2c13b86995ec",
+      "commentary_after_sha256": "d47116e2b9843f17595c580118d937cd56ae61fe67f9fa35382f2c13b86995ec"
     },
     {
-      "id": "a151d",
+      "id": "a161bis",
       "reviewed": true,
-      "finding": "Twee alternatieve handelingen, openbare plaats versus ongevraagde toezending, kennis/ernstige reden en expliciete incorporatie239lid3 gecontroleerd. Behouden.",
+      "finding": "Vier alternatieve aantastingen, openbare stroomlevering, gevaartrappen en vier maxima gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "cf5143b89a6a2f5eb7af373e4480b463a5587023871c35ef7e876c8e2c99455c",
-      "commentary_before_sha256": "c9d5ffa1a730fe9c30bdfc53c1c562130d1d499bcb67dfe07728b6dd9c28d86e",
-      "commentary_after_sha256": "c9d5ffa1a730fe9c30bdfc53c1c562130d1d499bcb67dfe07728b6dd9c28d86e"
+      "source_text_sha256": "356e83d7b95db3bbaaf20876417ce962c23a4fb8fd74922765de238c1f476e76",
+      "commentary_before_sha256": "dd256b2d9e61cd7e1eb9d2dc557d531baa5697955c21bde1c63d77bac0e2c716",
+      "commentary_after_sha256": "dd256b2d9e61cd7e1eb9d2dc557d531baa5697955c21bde1c63d77bac0e2c716"
     },
     {
-      "id": "a151e",
+      "id": "a161ter",
       "reviewed": true,
-      "finding": "Drie alternatieven, werkelijke leeftijd onder16, schadelijkheid en incorporatie239lid3 gecontroleerd; historisch tekstverschil jaar/jaren en ontbreken van dit nummer in2014 onderscheiden. Behouden.",
+      "finding": "Schuld en ontstaan stroombelemmering/goederengevaar, levensgevaar en dood onderscheiden; maxima/boete gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "0559c8e828990c0264416a4102c78b0d421b798086c5a59788ac9f9867832d63",
-      "commentary_before_sha256": "df152d559c75cd2b1bc60e39254111b463666f36e1bd2568a8cb1265b2cb040a",
-      "commentary_after_sha256": "df152d559c75cd2b1bc60e39254111b463666f36e1bd2568a8cb1265b2cb040a"
+      "source_text_sha256": "422c8e491c85ecc80877f231c9cebfc2b86e9c82c61624b7840a37c3d787dc15",
+      "commentary_before_sha256": "6958d8c365c522687af11f5d11dfe5e2538f01cb7ec724574cc2fbed7dfb7ef6",
+      "commentary_after_sha256": "6958d8c365c522687af11f5d11dfe5e2538f01cb7ec724574cc2fbed7dfb7ef6"
     },
     {
-      "id": "a151f",
+      "id": "a161quater",
       "reviewed": true,
-      "finding": "Alle drie basisvarianten, leeftijd18 alleen onder2, gevolgmaxima6/9jaar en facultatieve beroepsontzetting gecontroleerd; nieuwe nummering onderscheiden van historie. Behouden.",
+      "finding": "Objecten blootstelling onderscheiden van besmetting inclusief milieu, openbare gezondheid/levensgevaar en cumulatieve doodsvariant gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "413418a737bda2b0b42b875228c26af07ddd4d780cd8516266a6f784f567661f",
-      "commentary_before_sha256": "67056b4682fb79b248de6a16f2c0d4ae70f6a731241f816d0e95c90b89838b3f",
-      "commentary_after_sha256": "67056b4682fb79b248de6a16f2c0d4ae70f6a731241f816d0e95c90b89838b3f"
+      "source_text_sha256": "9a6b4eed83023d60583f8872f95763822d9dee7fd5cb2b3d2f525ac3ca5f0cc1",
+      "commentary_before_sha256": "621d82e2f533db5466edd4d45861ecb9097b3c2d5926d4551ef201197c38a7dd",
+      "commentary_after_sha256": "621d82e2f533db5466edd4d45861ecb9097b3c2d5926d4551ef201197c38a7dd"
     },
     {
-      "id": "a152",
+      "id": "a161quinquies",
       "reviewed": true,
-      "finding": "Twee sanctieroutes, verwijzing138b lid5 tegenover140/140a en rechten28lid1onder1–4 gecontroleerd. Voorwaarde28lid3 verduidelijkt als daadwerkelijk opgelegde gevangenisstraf, geen wettelijk maximum. Duur31 gecontroleerd.",
+      "finding": "Schuldvariant behoudt te duchten gevaar; openbare gezondheid tegenover levensgevaar en bij dood herhaald levensgevaar gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "be1f332b0f68511640d8f8f2081d21610eae121447e5b956bd6e625ef9aba0d6",
+      "commentary_before_sha256": "e39930657268f7d09bbc0ad4b0256843a76114098d6f5ca1b23783b3e8a13500",
+      "commentary_after_sha256": "e39930657268f7d09bbc0ad4b0256843a76114098d6f5ca1b23783b3e8a13500"
+    },
+    {
+      "id": "a161sexies",
+      "reviewed": true,
+      "finding": "Huidige drie onderdelen onderscheiden van historische vier en oud lid2. Volledig HR2011:BN9287 gelezen; oordeel3.5–3.6 verduidelijkt met onbestemd maar aanmerkelijk aantal afnemers; geen HR-veroordeling gesuggereerd.",
       "changed": true,
-      "source_text_sha256": "cd1e7ff459b40637fd6ac367be9b71e8652b78f266b5a006bde83c2c86262440",
-      "commentary_before_sha256": "40cebd0eaadf93dc0f613ac6773a31e67683a7db716c21689b2881592d0d5eed",
-      "commentary_after_sha256": "73b0ef97359edca941b87ffbb3ac39bb68b09a2a4da8dd99250d161f0a4cefe1"
+      "source_text_sha256": "04a7b234f323a445f27fd5f243caff3f1db4318414337e376865730b8cddd680",
+      "commentary_before_sha256": "0306f08aea412658f381be167669642c1089920fef27f090fbb54cb6b92df85e",
+      "commentary_after_sha256": "21b5b2d7bfc76f1f33d0c1ed528bd0003e58f7c43ccd89c3b96258e65d8ff99b"
     },
     {
-      "id": "a153",
+      "id": "a161septies",
       "reviewed": true,
-      "finding": "Vervallen status, datum1februari2006 en behoud structurele titel gecontroleerd. Geen actuele of gereconstrueerde historische norm toegevoegd. Behouden.",
+      "finding": "Ruimere schuldopsomming onder1, openbare gegevens-/telecomfuncties en ontstaan gevaar onderscheiden van161sexies; maxima gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "e0107834f936f809328b0904aaa5f490f91bfbf8e1a19fc59332d1de29976304",
-      "commentary_after_sha256": "e0107834f936f809328b0904aaa5f490f91bfbf8e1a19fc59332d1de29976304"
+      "source_text_sha256": "b6c09400b95d839cc370176ad1a63372d855a77079cd80bcc0a34e1bc74dd6ba",
+      "commentary_before_sha256": "746ad5f1f205b00627c439ecb3bc4e675100457874c5b3143000250c63ab15ef",
+      "commentary_after_sha256": "746ad5f1f205b00627c439ecb3bc4e675100457874c5b3143000250c63ab15ef"
     },
     {
-      "id": "a154",
+      "id": "a162",
       "reviewed": true,
-      "finding": "Vervallen status en datum1februari2006, eigen nummer en historische verwijzingsfunctie gecontroleerd. Behouden.",
+      "finding": "Verkeerswerk/weg/veiligheidsmaatregel, opzet, te duchten verkeersgevaar en doodsvariant gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "2df91c8baec072ccf89699b36da3ded388a696af9ea692127da79409edf9e618",
-      "commentary_after_sha256": "2df91c8baec072ccf89699b36da3ded388a696af9ea692127da79409edf9e618"
+      "source_text_sha256": "5f78c599afad822e89b14bf1740d18939a3a7a4e1a70f864b6bf3a1dfb61c61c",
+      "commentary_before_sha256": "abc91f36c93a89df5f99527be8053b5fa1a23e12d54c57240e052c6a69eac087",
+      "commentary_after_sha256": "abc91f36c93a89df5f99527be8053b5fa1a23e12d54c57240e052c6a69eac087"
     },
     {
-      "id": "a155",
+      "id": "a162a",
       "reviewed": true,
-      "finding": "Vervallen status en datum1februari2006, ontbreken actuele uitzondering/sanctie en temporele toets gecontroleerd. Behouden.",
+      "finding": "Buiten bedrijf kwalificeert luchtvaartuig, niet elke voorziening; luchtvaartveiligheid of gemeen gevaar luchthavenbelangen en doodsvariant gecontroleerd tegen historische beperktere versie.",
       "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "c00758499137ea1e88668881683043f8388899f5ecaebe9993a0fe007b5aba60",
-      "commentary_after_sha256": "c00758499137ea1e88668881683043f8388899f5ecaebe9993a0fe007b5aba60"
+      "source_text_sha256": "236891e2d94430f373b299e90de10f21a844e5205cb2028eaae3787496234b99",
+      "commentary_before_sha256": "e1810115195be4ca2256611e03f656009e1b12c98104d38d6e64408a92e7c4ad",
+      "commentary_after_sha256": "e1810115195be4ca2256611e03f656009e1b12c98104d38d6e64408a92e7c4ad"
     },
     {
-      "id": "a156",
+      "id": "a163",
       "reviewed": true,
-      "finding": "Vervallen status en datum1februari2006, einde TitelVI en historische controlelijst gecontroleerd. Geen overgangsnorm afgeleid. Behouden.",
+      "finding": "Schuld aan verkeersinfrastructuuraantasting, werkelijk onveilig worden en doodsvariant met verschillende maxima gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "760a1cbd19aad4c95de45a068deea8c69632194aa5aeadec51b62250db27ab22",
-      "commentary_after_sha256": "760a1cbd19aad4c95de45a068deea8c69632194aa5aeadec51b62250db27ab22"
+      "source_text_sha256": "4028ecf09b9325241d3b0d2bd3f77227aa27b2970ece452b00d4bcabfcaaaee7",
+      "commentary_before_sha256": "a72f51864d9e54dd07c85c426eefac0a46df328f7e8a0bd9d5f7968587ba1c8f",
+      "commentary_after_sha256": "a72f51864d9e54dd07c85c426eefac0a46df328f7e8a0bd9d5f7968587ba1c8f"
+    },
+    {
+      "id": "a164",
+      "reviewed": true,
+      "finding": "Opzet op veroorzaken gevaar, mechanisch spoorverkeer én luchtverkeer, ontbreken noodzakelijke infrastructuurschade, doodsvariant en historische toevoeging luchtverkeer gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "6eaa5f4fe7140dda6e3e5e5074f97c9f0b9a337143eda0ca3ee274e7c811fd8b",
+      "commentary_before_sha256": "bb49789ebf08c2c488128011c3aeab46e29eb7b780c08611c35c66425a4742e0",
+      "commentary_after_sha256": "bb49789ebf08c2c488128011c3aeab46e29eb7b780c08611c35c66425a4742e0"
+    },
+    {
+      "id": "a165",
+      "reviewed": true,
+      "finding": "Schuld aan ontstaan spoor-/luchtverkeersgevaar, persoonlijke taken en doodscausaliteit gecontroleerd; historische versie zonder luchtverkeer niet overgenomen.",
+      "changed": false,
+      "source_text_sha256": "c200523430dd8c1d6fbb511f73d6becbbd5168145d9cb5640f999016c087f430",
+      "commentary_before_sha256": "3f1e46011f0e53e2993313043a1f1a619f08f28be42c7c22fe5609fcf223c5b3",
+      "commentary_after_sha256": "3f1e46011f0e53e2993313043a1f1a619f08f28be42c7c22fe5609fcf223c5b3"
+    },
+    {
+      "id": "a166",
+      "reviewed": true,
+      "finding": "Functionele veiligheidstekens, zes handelingen, te duchten gevaar bij alle drie onderdelen, ongevalsgevolg en dood onderscheiden; maxima gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "a15b48f0b37a3f35df5f1db4c28d7560d44b48535963ba5f888c21f9d1e033dc",
+      "commentary_before_sha256": "55edd84f95b03cd81fe4eb474c718d6ccb5291da14831337915309d8dd6a3cec",
+      "commentary_after_sha256": "55edd84f95b03cd81fe4eb474c718d6ccb5291da14831337915309d8dd6a3cec"
+    },
+    {
+      "id": "a167",
+      "reviewed": true,
+      "finding": "Schuldvariant tekens, feitelijk onveilig verkeer onder1, ongeval onder2 en dood onder3 zonder extra te duchten gevaar gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "d90931d4832f9f88626c53eebec84d0c39150b4cd279b5bd4fc7be9841f1bdcd",
+      "commentary_before_sha256": "a152853708611a93d2b5e3f9573865a265e58fa401bb9a0ccea2447ca44d50b9",
+      "commentary_after_sha256": "a152853708611a93d2b5e3f9573865a265e58fa401bb9a0ccea2447ca44d50b9"
+    },
+    {
+      "id": "a168",
+      "reviewed": true,
+      "finding": "Vervoermiddel, opzet én wederrechtelijkheid, levensgevaar en cumulatieve doodsvariant gecontroleerd. Boete expliciet als wettelijk alternatief geformuleerd.",
+      "changed": true,
+      "source_text_sha256": "2265c7b328137c138c05b671634e8f182c1aba40c8bf65a6db1ae8b89f244937",
+      "commentary_before_sha256": "0f68d173ee8578df0a735252f11aef4b3c1c42de8151f7cbae853550a5d2d097",
+      "commentary_after_sha256": "3ab7ec1bd258c41e328785e20c4b18cb0c7a31408f19465eacc5487419d60fff"
+    },
+    {
+      "id": "a169",
+      "reviewed": true,
+      "finding": "Schuld aan aantasting vervoermiddel, ontstaan levensgevaar voor ander en zelfstandige doodsvariant gecontroleerd; thematische controlelijst passend bij verschillen in titel.",
+      "changed": false,
+      "source_text_sha256": "6b60d252a57969e9d00d25e8ffd19c44b71aeca151e5f3afe5cb0357276e19ab",
+      "commentary_before_sha256": "58edff72f0fd2e3f27204c72fe4340f7e6a8d40c834178df96fe65efba23ba34",
+      "commentary_after_sha256": "58edff72f0fd2e3f27204c72fe4340f7e6a8d40c834178df96fe65efba23ba34"
     }
   ],
   "limitations": [
     "Exactly twenty assigned units reviewed; whole manuscript remains incomplete.",
-    "Selective case law only; one retained full primary judgment and national corpus snapshot reread, no exhaustive subsequent-case search.",
+    "Two retained full primary judgments reread; selective prior national-corpus research checked, no exhaustive subsequent-case search.",
     "No external professional approval."
   ],
   "other_commentary_files_unchanged": true,
-  "batch_commentary_present": 20,
-  "statutory_text_agreement": 1.0,
-  "local_links_ok": true,
-  "coverage_complete": true,
-  "whole_book_validation_ok": false,
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 583108,
+    "commentary_chars": 616098,
     "errors": [
-      "krátký/chybějící komentář u 432 jednotek: ['a157(0<400)', 'a158(0<400)', 'a159(0<400)', 'a160(0<400)', 'a161(0<400)', 'a161bis(0<400)', 'a161ter(0<400)', 'a161quater(0<400)']"
+      "krátký/chybějící komentář u 412 jednotek: ['a170(0<400)', 'a171(0<400)', 'a172(0<400)', 'a173(0<400)', 'a173a(0<400)', 'a173b(0<400)', 'a174(0<400)', 'a175(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
-  }
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
 }

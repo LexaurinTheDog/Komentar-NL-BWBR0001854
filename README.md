@@ -78,3 +78,6 @@ Auteurscheckpoint **21 oktober 2026**: uitsluitend de twintig toegewezen eenhede
 Tweede lezing 144–156, 21 oktober 2026: precies twintig toegewezen eenheden tegen de officiële tekst gecontroleerd. Artikel 151a verduidelijkt op de exacte leeftijdsgrens en de voogdijvoorwaarde; artikel 152 op de vereiste opgelegde gevangenisstraf. [Reviewresultaat](review-batch19-result.json). Het gehele boek blijft onvoltooid.
 
 Auteursbatch **157–169** heeft op 21 oktober 2026 precies twintig officiële eenheden toegevoegd. Zie het [batchresultaat](author-a157-a169-result.json), [verse officiële versiecontrole](sources/author-a157-a169-version-evidence.json) en de zaakkaarten voor [brandgevaar](authorities/HR-2009-BH0594.md) en [computerdienstverlening](authorities/HR-2011-BN9287.md). Dit is oorspronkelijk conceptcommentaar met selectieve rechtspraak; de onafhankelijke tweede lezing van deze batch staat nog open.
+
+
+Tweede lezing 157–169, 21 oktober 2026: twintig toegewezen eenheden tegen verse officiële XML gecontroleerd; drie toelichtingen verduidelijkt. [Resultaat](review-batch20-result.json). Het boek blijft onvoltooid.

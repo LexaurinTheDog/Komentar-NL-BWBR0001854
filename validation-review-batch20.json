@@ -1,0 +1,12 @@
+{
+  "repo": "Komentar-NL-BWBR0001854",
+  "units": 812,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 616098,
+  "errors": [
+    "krátký/chybějící komentář u 412 jednotek: ['a170(0<400)', 'a171(0<400)', 'a172(0<400)', 'a173(0<400)', 'a173a(0<400)', 'a173b(0<400)', 'a174(0<400)', 'a175(0<400)']",
+    "necommitnuté změny v repu"
+  ],
+  "warnings": [],
+  "ok": false
+}

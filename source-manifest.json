@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/author-a157-a169-version-evidence.json",
-  "generated_at": "2026-10-20T22:13:56.893394+00:00",
+  "latest_version_evidence": "sources/review-batch20-version-evidence.json",
+  "generated_at": "2026-10-20T22:15:32.171163+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -3214,6 +3214,46 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch20-authority-check.json",
+      "bytes": 8361,
+      "sha256": "0ddccb259b269fb480b39f7028f9efae98270dc603da7a79d2189c55630f9c97"
+    },
+    {
+      "path": "sources/review-batch20-before.json",
+      "bytes": 35606,
+      "sha256": "c353aa0cfed513efa774048d53fa07309d4e28688fd5b7cbd9aed05d34815dc7"
+    },
+    {
+      "path": "sources/review-batch20-coverage.json",
+      "bytes": 20828,
+      "sha256": "8a90bb2a1820afe397194bb4aea880e3f1657d5486c13303e366488fa1b67614"
+    },
+    {
+      "path": "sources/review-batch20-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch20-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "32b86b07396cec60ce47cf48ef07c2663009d62a75b4dc249f29b76d5090917f"
+    },
+    {
+      "path": "sources/review-batch20-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch20-version-evidence.json",
+      "bytes": 166317,
+      "sha256": "05333206c36c61d55c98decd43295cecf0cc411f24b664644943b8b20a15ea2a"
+    },
+    {
+      "path": "sources/review-batch20-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -3225,8 +3265,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 196910,
-      "sha256": "c3d25294709b4714233ab55ae96ce8356876b174768e9652f8f4bc3c6bf90c62"
+      "bytes": 198676,
+      "sha256": "51d98973edf154ec888edee8158b57e6322034ea9604a2cf4b170ba6e5be8335"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
