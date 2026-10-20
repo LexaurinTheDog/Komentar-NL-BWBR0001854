@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_complete_book_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T23:27:51.973374+00:00",
+    "rechecked_at": "2026-10-20T23:40:26.031378+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a285c-a302-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a303-a318-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 580,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–302 including inserted/repealed places.",
-  "remaining_units": 232,
-  "next_unit": "a303",
-  "commentary_chars": 946644,
+  "completed_units": 600,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–318 including inserted/repealed places.",
+  "remaining_units": 212,
+  "next_unit": "a319",
+  "commentary_chars": 979749,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -112,7 +112,8 @@
     "ECLI:NL:HR:2009:BI7099",
     "ECLI:NL:HR:2013:BZ3626",
     "ECLI:NL:HR:2013:963",
-    "ECLI:NL:HR:2020:712"
+    "ECLI:NL:HR:2020:712",
+    "ECLI:NL:HR:2012:BQ9251"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -127,9 +128,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 947964,
+    "commentary_chars": 979749,
     "errors": [
-      "krátký/chybějící komentář u 232 jednotek: ['a303(0<400)', 'a304(0<400)', 'a304a(0<400)', 'a304b(0<400)', 'a304c(0<400)', 'a305(0<400)', 'a306(0<400)', 'a306a(0<120)']"
+      "krátký/chybějící komentář u 212 jednotek: ['a319(0<120)', 'a320(0<400)', 'a321(0<400)', 'a322(0<400)', 'a322a(0<400)', 'a323(0<400)', 'a323a(0<400)', 'a324(0<120)']"
     ],
     "warnings": [],
     "ok": false
@@ -1282,6 +1283,6 @@
       "selective_only": true
     }
   ],
-  "last_author_batch": "author-a285c-a302-result.json",
-  "last_author_batch_independent_review_pending": false
+  "last_author_batch": "author-a303-a318-result.json",
+  "last_author_batch_independent_review_pending": true
 }

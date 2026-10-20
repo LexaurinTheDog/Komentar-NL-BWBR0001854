@@ -1,0 +1,20 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2012:BQ9251",
+    "read_only_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2012-bq9251.md",
+    "exists": true,
+    "sha256": "fc01a912077c257a7d2845e059bf2065976e6d8328d7c2e12d6fc87ea60cb88d",
+    "full_primary_snapshot": "authorities/author-a303-a318-ECLI-NL-HR-2012-BQ9251.xml",
+    "read_chars": 29348,
+    "ecli_present": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:1051",
+    "read_only_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1051.md",
+    "exists": true,
+    "sha256": "26c3e9b4fae8b31f8a7f8885e66eaf3a3b27d16924316be0db1c7e09a6c5ae3d",
+    "full_primary_snapshot": "authorities/author-a303-a318-ECLI-NL-HR-2018-1051.xml",
+    "read_chars": 14562,
+    "ecli_present": true
+  }
+]

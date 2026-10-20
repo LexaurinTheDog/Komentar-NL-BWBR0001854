@@ -1,0 +1,8 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 212 jednotkám, např.: ['a319', 'a320', 'a321', 'a322', 'a322a', 'a323', 'a323a', 'a324', 'a325', 'a326']\n",
+  "remaining_outside_scope": 212,
+  "checkpoint_renderer": "_render_checkpoint.py",
+  "complete_book_build": false
+}

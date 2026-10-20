@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-01-01_0/xml/BWBR0001854_2012-01-01_0.xml",
+    "path": "sources/author-a303-a318-historical-2012-01-01_0.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:43:33.356569+00:00",
+    "sha256": "0db77135126634ef4e1c53f3729d8526f091d48dda72ec774515d8d4e4a8287f",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-07-01_0/xml/BWBR0001854_2018-07-01_0.xml",
+    "path": "sources/author-a303-a318-historical-2018-07-01_0.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T23:43:34.330375+00:00",
+    "sha256": "6f46a88797704aa15b6f6345ed1b820d37212608388fdf511a59df73f2188cca",
+    "expected_format_valid": true
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "scope": "a303–a318",
+  "method": "Gerichte selectie van primaire HR-arresten over het goederenbegrip en zwaar lichamelijk letsel; officiële volledige XML opgehaald en gelezen; aanwezigheid in lokaal nationaal HR-corpus gecontroleerd.",
+  "queries": [
+    "ECLI:NL:HR:2012:BQ9251 — virtuele goederen en artikel 310",
+    "ECLI:NL:HR:2018:1051 — zwaar lichamelijk letsel, artikel 308 en 312"
+  ],
+  "selected": [
+    "ECLI:NL:HR:2012:BQ9251",
+    "ECLI:NL:HR:2018:1051"
+  ],
+  "no_separate_verified_case": [
+    "a304",
+    "a304a",
+    "a304b",
+    "a304c",
+    "a305",
+    "a306a",
+    "a307",
+    "a309",
+    "a311",
+    "a313",
+    "a314",
+    "a315",
+    "a316",
+    "a317",
+    "a318"
+  ],
+  "limits": "Geen uitputtende zoekslag of volledige latere-behandelingscontrole. Geen uitspraak toegevoegd voor een technische eenheid zonder geverifieerd relevant oordeel."
+}
