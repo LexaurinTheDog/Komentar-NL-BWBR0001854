@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:625</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:24:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/00140</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2020:114" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2020:114</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2018:11207" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHARL:2018:11207, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0133</rdf:li>
+          <rdf:li>NJB 2020/983</rdf:li>
+          <rdf:li>RvdW 2020/509</rdf:li>
+          <rdf:li>NJ 2020/160</rdf:li>
+          <rdf:li>EeR 2020, afl. 3, p. 112</rdf:li>
+          <rdf:li>NTS 2020/63</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:625">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:625</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-07T12:06:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:625 Hoge Raad , 07-04-2020 / 19/00140</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:625:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verkrachting, art. 242 Sr. Oplegging TBS met dwangverpleging aan ‘weigerende observandus’, art. 37 (oud) en 37a (oud) Sr. Aanmerken van PBC-rapport als ‘een ander advies of rapport’ a.b.i. art. 37.3 (oud) Sr, terwijl hof dit PBC-rapport kennelijk ook heeft aangemerkt als rapport over de reden van de weigering van medewerking aan het onderzoek a.b.i. die bepaling. Hof heeft o.b.v. PBC-rapportage vastgesteld dat verdachte tijdens observatie weliswaar meerdere gesprekken heeft gevoerd met onderzoekers en heeft deelgenomen aan activiteiten op de afdeling, maar dat verdachte zijn medewerking aan het onderzoek naar zijn persoon grotendeels heeft geweigerd. O.g.v. deze vaststelling heeft hof verdachte aangemerkt als ‘weigerende obervandus’. Hof heeft vervolgens, met toepassing van art. 37.3 (oud) Sr TBS o.m. gegrond op datzelfde rapport v.zv. dat onderzoeksresultaten en conclusies van psychiater en psycholoog bevatte over een bij verdachte tijdens het begaan van het feit bestaande gebrekkige ontwikkeling en ziekelijke stoornis van zijn geestvermogens. Hof heeft daarbij kennelijk geoordeeld dat het hem vrijstond dit rapport te beschouwen als ‘een ander advies of rapport’ a.b.i. art. 37.3 (oud) Sr, dat hof over de wenselijkheid of noodzakelijkheid van een last a.b.i. art. 37a.1 (oud) Sr kon voorlichten v.zv. verdachte wel heeft meegewerkt aan het onderzoek. Dat oordeel geeft niet blijk van onjuiste rechtsopvatting en is evenmin onbegrijpelijk. Omstandigheid dat hof PBC-rapport kennelijk ook heeft gebruikt als rapport over de reden van de weigering a.b.i. art. 37.3 (oud) Sr, doet daaraan niet af. Volgt verwerping.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:625:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	19/00140</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		7 april 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, van 28 december 2018, nummer 21/006699-17, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1985,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J. Kuijper, advocaat te Amsterdam, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De plaatsvervangend advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel komt op tegen de beslissing van het hof aan de verdachte de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege op te leggen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft de verdachte ter zake van verkrachting veroordeeld en hem onder meer ter beschikking gesteld met verpleging van overheidswege. Het hof heeft de oplegging van die maatregel in zijn uitspraak als volgt gemotiveerd:</para>
+        <para>“In het kader van deze strafzaak is multidisciplinair gedragskundig onderzoek gedaan naar de persoon van de verdachte. Hij is daarvoor opgenomen geweest in het Pieter Baan Centrum (PBC) in de periode van 10 mei 2017 tot 2 juni 2017. Verdachte heeft zijn medewerking aan het onderzoek naar zijn persoon in het PBC grotendeels geweigerd. Hij heeft wel meerdere gesprekken gevoerd met de onderzoekers en heeft deelgenomen aan activiteiten op de afdeling.</para>
+        <para>In het rapport d.d. 26 juli 2017 van het PBC staat onder meer het volgende beschreven: </para>
+        <para>“Door de aanvankelijke weigering van betrokkene, die gedurende het onderzoek wat meer zijn medewerking verleende, had de forensisch milieuonderzoeker [...] beperkt inhoudelijke gesprekscontacten met betrokkene. Wel werd gesproken met enkele leden van het sociale netwerk van betrokkene en werd schriftelijk informatie ontvangen van instellingen.</para>
+        <para>[...]</para>
+        <para>De psychiater en psycholoog verkregen informatie uit de eigen contacten, de beschikbare stukken, het forensisch milieuonderzoek en de observaties van de groepsleiding.”</para>
+        <para>en</para>
+        <para>“Uit het milieuonderzoek, de korte contacten met betrokkene en de groepsobservatie komt het beeld naar voren van een man de zich oppervlakkig aangepast en beheerst kan opstellen en weinig opvallende gedragskenmerken laat zien, maar in zijn partnerrelaties dominerend, jaloers, controlerend en dwingend gedrag vertoont, krenkbaar is als zaken niet lopen zoals hij wil of wanneer anderen hem verlaten en vervolgens met bedreigingen, verbale en fysieke agressie reageert.</para>
+        <para>[...]</para>
+        <para>De krenkbaarheid en agressieregulatieproblematiek binnen partnerrelaties, de instabiliteit in relaties en de heftige reacties na verlating, wijzen op pathologie. De beschreven symptomen zouden kunnen passen bij narcistische kenmerken en/of borderline kenmerken in de persoonlijkheid c. q. een persoonlijkheidsstoornis.”</para>
+        <para>en</para>
+        <para>“Betrokkene leidde vanaf zijn volwassenheid een impulsief en onverantwoordelijk leven. Hij was niet in staat een opleiding af te maken of een baan vast te houden, had meerdere vriendinnen tegelijkertijd, liet zich bij periodes financieel onderhouden door zijn partners, hij maakte schulden, hield zich onvoldoende aan afspraken en realistische doelen op de lange termijn ontbraken.</para>
+        <para>[...]</para>
+        <para>De aard van de gedragingen en het disfunctioneren zouden kunnen passen bij een antisociale persoonlijkheid (stoornis).”</para>
+        <para>[...]</para>
+        <para>Concluderend kan gesteld worden dat de beschreven disfuncties op relationeel gebied (agressieregulatieproblemen binnen partnerrelaties, krenkbaarheid, problemen met verlatingen, instabiliteit in relaties) een patroon zijn en niet binnen het normale bereik vallen. Voor een gebrekkige ontwikkeling van zijn geestvermogens zijn er dan ook voldoende aanwijzingen.”<?linebreak?>en</para>
+        <para>“Daarnaast is er sprake van een ziekelijke stoornis, namelijk een stoornis in het gebruik van cannabis (matig van ernst).”</para>
+        <para>Op basis van bovenstaande rapportages stelt het hof vast dat er bij verdachte sprake is van een ziekelijke stoornis, te weten een stoornis in het gebruik van cannabis, alsmede van een persoonlijkheidsstoornis, te weten (mogelijk) een antisociale persoonlijkheidsstoornis en/of een stoornis met narcistische en/of borderline kenmerken. Gelet op het bestendige karakter van deze stoornissen, waren deze ook aanwezig op het moment dat verdachte het bewezen verklaarde pleegde. Het hof is van oordeel dat het bewezen verklaarde feit in enige mate is begaan onder invloed van deze stoornissen. Het bewezen verklaarde feit wordt hem daarom in enigszins verminderde mate toegerekend.</para>
+        <para>(...)<?linebreak?>Motivering van de op te leggen maatregel van terbeschikkingstelling</para>
+        <para>Door de verdediging is op gronden zoals weergegeven in de ter zitting van het hof overgelegde pleitnota - kort gezegd - betoogd dat geen maatregel van terbeschikkingstelling kan en moet worden opgelegd.</para>
+        <para>Het hof overweegt als volgt.</para>
+        <para>Een verdachte bij wie tijdens het begaan van een feit een gebrekkige ontwikkeling en/of ziekelijke stoornis van de geestvermogens bestond, kan op last van de rechter ter beschikking worden gesteld indien het door hem begane feit een misdrijf is dat wordt genoemd in artikel 37a, eerste lid, aanhef en onder 1° van het Wetboek van Strafrecht en de veiligheid van anderen en de algemene veiligheid van personen het opleggen van die maatregel eist. In artikel 37, tweede lid van het Wetboek van Strafrecht is bepaald dat de last tot terbeschikkingstelling slechts kan worden gegeven nadat een met redenen omkleed, gedagtekend en ondertekend recent advies is overgelegd van ten minste twee gedragsdeskundigen van verschillende disciplines – waaronder een psychiater - die verdachte hebben onderzocht.</para>
+        <para>Zoals hierboven beschreven is verdachte geobserveerd in het Pieter Baan Centrum teneinde onderzoek te doen naar zijn geestelijke gesteldheid, maar heeft verdachte slechts in beperkte mate meegewerkt aan dit onderzoek. Hij kan worden aangemerkt als een zogenoemde weigerende observandus.</para>
+        <para>Artikel 37a, derde lid, juncto artikel 37, derde lid, van het Wetboek van Strafrecht, maakt het mogelijk dat ook aan een weigerende observandus de maatregel van terbeschikkingstelling wordt opgelegd. De eis van recente multidisciplinaire rapportage (artikel 37, tweede lid van het Wetboek van Strafrecht) geldt in een dergelijk geval niet. Wel dient, gelet op artikel 37a, eerste lid, van het Wetboek van Strafrecht te worden vastgesteld dat verdachte op het moment van het begaan van de misdrijven leed aan een psychische stoornis en dient er, op de voet van artikel 37a, derde lid, juncto de laatste volzin van artikel 37, derde lid, van het Wetboek van Strafrecht, zoveel mogelijk informatie te worden vergaard over de wenselijkheid of noodzakelijkheid van de last van een terbeschikkingstelling. Het hof heeft zich zoveel mogelijk voorzien van de beschikbare rapportages over de persoon van verdachte.</para>
+        <para>Het hof heeft geen reden om aan de juistheid van deze door de deskundigen van het Pieter Baan Centrum zoals hiervoor omschreven conclusies te twijfelen en neemt deze over. Het hof is van oordeel dat bij verdachte sprake is van een ziekelijke stoornis, te weten een stoornis in het gebruik van cannabis, alsmede van een persoonlijkheidsstoornis, te weten (mogelijk) een antisociale persoonlijkheidsstoornis en/of een stoornis met narcistische en/of borderline kenmerken. Het hof stelt op grond van de rapportages vast dat deze gebrekkige ontwikkeling en ziekelijke stoornis van zijn geestvermogens bestond tijdens het begaan van het bewezen verklaarde.</para>
+        <para>Het hof is op grond van alle omtrent verdachte beschikbare informatie, waarbij de PBC rapportage in het bijzonder in aanmerking wordt genomen, van oordeel dat de maatregel van terbeschikkingstelling moet worden opgelegd. Gebleken is immers zoals hiervoor overwogen dat bij de verdachte ten tijde van het plegen van het bewezen verklaarde feit een gebrekkige ontwikkeling en ziekelijke stoornis van zijn geestvermogens bestond.</para>
+        <para>Het door hem begane feit betreft een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van meer dan vier jaren is gesteld (een misdrijf dat wordt genoemd in artikel 37a, eerste lid, aanhef en onder 1° van het Wetboek van Strafrecht).</para>
+        <para>Er is groot recidivegevaar aanwezig. Dit leidt het hof af uit de voornoemde rapportages van het PBC en de reclassering, uit de ernst van het feit, uit de omstandigheden waaronder het feit is gepleegd, uit het feit dat verdachte ondanks verschillende ambulante behandeltrajecten door diverse instanties en personen dit feit heeft gepleegd, alsmede gelet op de recidive op het punt van geweld binnen relaties blijkens het uittreksel uit de Justitiële Documentatie. Daarnaast slaat het hof ook acht op de omstandigheid dat uit de verklaring van verdachte tegenover de politie d.d. 6 september 2016 voortvloeit dat verdachte het onderhavige feit pleegde terwijl hij boos was op zijn toenmalige vriendin, [betrokkene 1], die op 16 augustus 2016 tegen de wil van verdachte in uitging in Den Haag, waarover verdachte zich die avond en nacht erg boos maakte.</para>
+        <para>De deskundigen concluderen in dit verband ook dat verdachte bij een geringe aanleiding zeer agressief kan reageren.</para>
+        <para>Gelet op de problematiek van verdachte is de verwachting van het hof dat een lang en intensief klinisch behandeltraject nodig zal zijn.</para>
+        <para>Het recidivegevaar acht het hof groot.</para>
+        <para>In het rapport van de reclassering van 16 november 2017 staat onder meer het volgende beschreven:</para>
+        <para>“Uit het milieuonderzoek van het Pieter Baan Centrum komt naar voren dat er een patroon van huiselijk geweld, waaronder een seksueel gewelddadige component, in zijn relaties schuilt.</para>
+        <para>Betrokkene windt zijn vriendinnen eerst om zijn vingers om daarna macht over ze uit te oefenen en ze niet meer lost te laten. Dat leidde meerdere malen tot veroordelingen voor huiselijk geweld.”</para>
+        <para>(...)</para>
+        <para>“Inschatting recidiverisico</para>
+        <para>Het recidiverisico op het gebied van geweld (incluis seksueel geweld) in relaties dan wel daarbuiten, achten wij hoog als betrokkene schuldig wordt bevonden.”</para>
+        <para>In het rapport van de reclassering van 18 oktober 2018 staat als advies onder meer het volgende beschreven:</para>
+        <para>“Voor wat betreft de tweede vraag (Het hof begrijpt: moet behandeling in een ambulant of in een klinisch kader plaatsvinden) zijn wij voor een klinische behandeling en de daarbij horende indicatiestelling en toeleiding eveneens afhankelijk van een psychiatrische- en/of psychologische onderbouwing. Daarbij opmerkend dat een klinische behandeling, in het kader van tbs met voorwaarden of als bijzondere voorwaarde bij een voorwaardelijke veroordeling, contra geïndiceerd is wanneer vrijwilligheid en bereidheid ontbreekt. Bij betrokkene is dit het geval want hij wil niet meewerken aan een klinische behandeling en is ontkennend. Daarnaast werd tijdens het bespreken van de casus in ons Tbs Casuïstiek Overleg door onze consulent psychiater opgemerkt dat de geschetste persoonlijkheidsproblematiek in sommige gevallen een contraindicatie kan zijn voor een klinische opname. Het is onduidelijk of dit bij betrokkene ook het geval is. Wat rest, is een ambulante behandeling als bijzondere voorwaarde bij een voorwaardelijke veroordeling. In ons reclasseringsadvies d.d. 16-11-2017 beschreven wij onze, nog steeds heersende, twijfels hierover. Zijn motivatie voor een ambulante behandeling lijkt extern en vooral gebaseerd op vrijheid en autonomie in plaats van inzicht en intrinsieke motivatie.</para>
+        <para>Kortom, omdat betrokkene niet optimaal wil meewerken aan psychiatrisch- en/of psychologisch onderzoek ontbreekt het aan diagnostische informatie, een strafadvies van een PJ rapporteur en een indicatiestelling door het IFZ. Nog los van zijn ontkenning, zijn hierdoor onze mogelijkheden beperkt en kunnen wij slechts persisteren bij ons eerder uitgebracht advies, zoals beschreven in ons reclasseringsadvies d.d. 16-11-2017”<?linebreak?>Op grond van vorengaande in combinatie met de vaststelling dat verdachte ook ter zitting van het hof heeft aangegeven niet mee te willen werken aan een klinische behandeling is het hof van oordeel dat er sprake is van een groot recidivegevaar en dat behandeling hiervoor alleen kan in het kader van de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege. Een ambulante behandeling waar verdachte wel aan mee wil werken is al zonder resultaat gebleven en aan een klinische behandeling wil verdachte niet meewerken. De veiligheid van anderen en de algemene veiligheid van personen eisen derhalve het opleggen van de maatregel van terbeschikkingstelling en het daarbij te geven bevel dat verdachte van overheidswege zal worden verpleegd, waarbij de duur van de maatregel niet in tijd is beperkt. Het door verdachte begane misdrijf was gericht op en veroorzaakte gevaar voor de onaantastbaarheid van het lichaam van een persoon.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Voor de beoordeling van het cassatiemiddel zijn de volgende wettelijke bepalingen van belang, die ten tijde van de bewezenverklaarde verkrachting (op 16 augustus 2016) luidden:</para>
+        <para>- artikel 37a lid 1 en 3 (oud) van het Wetboek van Strafrecht (hierna: Sr):</para>
+        <para>“1. De verdachte bij wie tijdens het begaan van het feit gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan op last van de rechter ter beschikking worden gesteld indien:<?linebreak?>1° het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel behoort tot een der misdrijven omschreven in de artikelen (...), en<?linebreak?>2° de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen het opleggen van die maatregel eist.<?linebreak?>(...)<?linebreak?>3. Het tweede en derde lid van artikel 37 zijn van overeenkomstige toepassing.”</para>
+        <para>- artikel 37 lid 2 en 3 (oud) Sr:</para>
+        <para>“2. De rechter geeft een last als bedoeld in het eerste lid slechts nadat hij zich een met redenen omkleed, gedagtekend en ondertekend advies heeft doen overleggen van ten minste twee gedragsdeskundigen van verschillende disciplines - waaronder een psychiater - die de betrokkene hebben onderzocht. Zodanig advies dient door de gedragsdeskundigen gezamenlijk dan wel door ieder van hen afzonderlijk te zijn uitgebracht. Indien dit advies eerder dan een jaar voor de aanvang van de terechtzitting is gedagtekend kan de rechter hiervan slechts gebruik maken met instemming van het openbaar ministerie en de verdachte.</para>
+        <para>3. Het tweede lid blijft buiten toepassing indien de betrokkene weigert medewerking te verlenen aan het onderzoek dat ten behoeve van het advies moet worden verricht. Voor zover mogelijk maken de gedragsdeskundigen gezamenlijk dan wel ieder van hen afzonderlijk over de reden van de weigering rapport op. De rechter doet zich zoveel mogelijk een ander advies of rapport, dat hem over de wenselijkheid of noodzakelijkheid van een last als bedoeld in het eerste lid kan voorlichten en aan de totstandkoming waarvan de betrokkene wel bereid is om medewerking te verlenen, overleggen.”</para>
+      </parablock>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Het cassatiemiddel klaagt onder meer dat het hof ten onrechte het hiervoor weergegeven rapport van het Pieter Baan Centrum (hierna: PBC) heeft aangemerkt als ‘een ander advies of rapport’ als bedoeld in artikel 37 lid 3 (oud) Sr, nu het hof kennelijk dit PBC-rapport ook heeft aangemerkt als rapport over de reden van de weigering van medewerking aan het onderzoek, als bedoeld in die bepaling.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <parablock>
+          <para>Het hof heeft op basis van rapportage van het PBC vastgesteld dat de verdachte tijdens observatie in het PBC weliswaar meerdere gesprekken heeft gevoerd met onderzoekers van het PBC en heeft deelgenomen aan activiteiten op de afdeling, maar dat de verdachte zijn medewerking aan het onderzoek naar zijn persoon grotendeels heeft geweigerd. Op grond van deze vaststelling heeft het hof de verdachte aangemerkt als ‘weigerende obervandus’. </para>
+          <para>Het hof heeft vervolgens, met toepassing van artikel 37 lid 3 (oud) Sr, de maatregel van terbeschikkingstelling van de verdachte onder meer gegrond op datzelfde rapport van het PBC voor zover dat onderzoeksresultaten en conclusies van de psychiater en de psycholoog bevatte over een bij de verdachte tijdens het begaan van het feit bestaande gebrekkige ontwikkeling en ziekelijke stoornis van zijn geestvermogens. Het hof heeft daarbij kennelijk geoordeeld dat het hem vrijstond dit rapport te beschouwen als ‘een ander advies of rapport’ als bedoeld in artikel 37 lid 3 (oud) Sr, dat het hof over de wenselijkheid of noodzakelijkheid van een last als bedoeld in artikel 37a lid 1(oud) Sr kon voorlichten voor zover de verdachte wel heeft meegewerkt aan het onderzoek. Dat oordeel geeft niet blijk van een onjuiste rechtsopvatting en is evenmin onbegrijpelijk. Anders dan in de toelichting op het middel is betoogd doet de omstandigheid dat het hof het PBC-rapport kennelijk ook heeft gebruikt als rapport over de reden van de weigering, als bedoeld in artikel 37 lid 3 (oud) Sr, daaraan niet af. Het cassatiemiddel faalt in zoverre.</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het cassatiemiddel voor het overige</title>
+    <para>	De Hoge Raad heeft ook de verder in het cassatiemiddel aangevoerde klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren V. van den Brink en A.L.J. van Strien, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">7 april 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

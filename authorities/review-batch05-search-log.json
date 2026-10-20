@@ -1,0 +1,47 @@
+{
+  "verified_at": "2026-10-20T16:52:18.634271+00:00",
+  "scope": "Selective proof standard, partial refusal of behavioural examination and four-year TBS ceiling. No exhaustive coverage.",
+  "firecrawl_status": "Authenticated; zero remaining credits. Official direct XML used without changing settings or credentials.",
+  "search_service": "Web discovery, national local corpus and primary data.rechtspraak.nl XML.",
+  "web_queries": [
+    "site.uitspraken.rechtspraak.nl Hoge Raad 36e vrijspraak Geerings 2021 voldoende aanwijzingen",
+    "site.uitspraken.rechtspraak.nl Hoge Raad \"38e\" \"2013\" \"114\"",
+    "site.uitspraken.rechtspraak.nl Hoge Raad \"37a\" \"2018\" stoornis rechter deskundigen",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:HR:2020:1523\"",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:HR:2020:625\"",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:HR:2013:BY8434\""
+  ],
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2020:1523",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-1523.md",
+      "sha256": "8bd5966c1848caf9fe3503911fa8adcd8653c790c7f74cd401b2ce368a724baa",
+      "method": "Exact ECLI search in national corpus; relevant numbered holdings checked against freshly retrieved official full judgment; entire official judgment read, including historic law, quoted court reasoning and disposition."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2020:625",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-625.md",
+      "sha256": "dc8c330a4583aef60b667a1490b5ebedab149ab79c7a95bd8fdae5c9d72c98ea",
+      "method": "Exact ECLI search in national corpus; relevant numbered holdings checked against freshly retrieved official full judgment; entire official judgment read, including historic law, quoted court reasoning and disposition."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2013:BY8434",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-by8434.md",
+      "sha256": "a94b14ac24ba109194f2500f6aa23e54a95b05c649e5e2e5c568671736e760b5",
+      "method": "Exact ECLI search in national corpus; relevant numbered holdings checked against freshly retrieved official full judgment; entire official judgment read, including historic law, quoted court reasoning and disposition."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2020:1523",
+    "ECLI:NL:HR:2020:625",
+    "ECLI:NL:HR:2013:BY8434"
+  ],
+  "supported_units": [
+    "a36e",
+    "a37a",
+    "a38e"
+  ],
+  "unselected_results": "PHR conclusions used only to locate HR judgments; summaries, civil Bopz results and academic/commercial annotations not used as holdings. Other cases cited within selected judgments not separately verified.",
+  "other_units": "No newly selected sufficiently relevant verified case for the other 17 units; not an assertion of absence of relevant jurisprudence.",
+  "primary_fetch_evidence": "sources/review-batch05-fetch-log.json"
+}

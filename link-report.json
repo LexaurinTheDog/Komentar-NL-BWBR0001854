@@ -1,8 +1,11 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 179,
+  "local_links_checked": 210,
   "broken_local_links": [],
   "external_links": [
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1523",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:625",
     "https://github.com/LexaurinTheDog",
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",

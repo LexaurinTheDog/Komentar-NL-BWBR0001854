@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:1523</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T01:56:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/00794</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2020:861" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2020:861</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0307 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2020/2425</rdf:li>
+          <rdf:li>RvdW 2020/1065</rdf:li>
+          <rdf:li>JOW 2020/44</rdf:li>
+          <rdf:li>NJ 2021/46 met annotatie van J.M. Reijntjes</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1523">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1523</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-29T10:59:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:1523 Hoge Raad , 29-09-2020 / 18/00794</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:1523:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Profijtontneming, w.v.v. uit deelnemen aan criminele organisatie die zich bezighield met het op grote schaal verkopen en afleveren van softdrugs. Onschuldpresumptie bij ontneming uit andere/soortgelijke feiten ex art. 36e.2 (oud) Sr. In strafzaak is o.m. bewezenverklaard dat betrokkene in periode 19-7-2012 tot en met 27-11-2012 zich schuldig heeft gemaakt aan deelneming aan organisatie die tot oogmerk heeft plegen van misdrijven. Hof heeft kennelijk geoordeeld dat “voldoende aanwijzingen” bestaan dat betrokkene ook voorafgaand aan die periode in 2011 en 2012 heeft deelgenomen aan criminele organisatie, waarbij die deelneming kan worden aangemerkt als ander strafbaar feit ex art. 36e.2 Sr en v.zv. het gaat om periode voor 1-7-2011, als soortgelijk feit a.b.i. art. 36e.2 (oud) Sr. Op ontnemingsprocedure is art. 6.1 EVRM van toepassing. Dat betekent o.m. dat ook in ontnemingsprocedure (mede in art. 6.2 EVRM gewaarborgde) recht van persoon om voor onschuldig te worden gehouden, totdat zijn schuld in rechte is komen vast te staan, dient te worden gerespecteerd (vgl. ECLI:NL:HR:1995:ZD0312 en EHRM nr. 41087/98). HR herhaalt relevante overwegingen uit ECLI:NL:HR:2010:BK3424 m.b.t. karakter van en bewijsrechtelijke regels in ontnemingsprocedure. Art. 6 EVRM staat er daarbij niet aan in de weg dat rechter in ontnemingsprocedure gebruik maakt van bewijsrechtelijke vermoedens en dat bewijslast t.z.v. schatting van w.v.v. op redelijke en billijke wijze wordt verdeeld tussen OM en betrokkene (vgl. ECLI:NL:HR:2002:AE1182). O.g.v. art. 36e.2 Sr kan ontnemingsmaatregel mede betrekking hebben op voordeel dat betrokkene heeft verkregen door middel van of uit baten van andere strafbare feiten waaromtrent “voldoende aanwijzingen” bestaan dat deze door betrokkene zijn begaan. Indien rechter in ontnemingsprocedure oordeelt dat voldoende aanwijzingen bestaan dat betrokkene andere strafbare feiten a.b.i. art. 36e.2 Sr heeft begaan, dient (totstandkoming van) dat oordeel binnen hiervoor bedoelde eigen kader voor bewijs in ontnemingsprocedure in overeenstemming te zijn met onschuldpresumptie. In art. 36e.2 Sr bedoelde “voldoende aanwijzingen” mogen daarom niet door rechter worden aangenomen indien niet buiten redelijke twijfel kan worden vastgesteld dat andere strafbare feiten door betrokkene zijn begaan. Tevens behoort betrokkene gelegenheid te hebben aan te (doen) voeren dat en waarom er onvoldoende aanwijzingen bestaan dat andere strafbare feiten door hem zijn begaan. O.g.v. (vaststellingen in) bewijsvoering heeft hof geoordeeld dat betrokkene, die in 2011 en 2012 inkomsten genoot uit coffeeshop, ook in die periode betrokken is geweest bij ruimschoots en structureel overtreden van gedoogvoorwaarden. Gelet hierop en in het licht van wat hiervoor is overwogen, getuigt ’s hofs daarin besloten liggende oordeel dat sprake is van “voldoende aanwijzingen” a.b.i. art. 36e.2 Sr van deelneming aan criminele organisatie door betrokkene voorafgaand aan bewezenverklaarde periode, niet van onjuiste rechtsopvatting en is het niet onbegrijpelijk. Volgt verwerping. Samenhang met 18/00790 P, 18/00791 P, 18/00792, 18/00793, 18/00795 P, 18/00914 P en 18/01230 P. Vervolg op ECLI:NL:HR:2016:408 (strafzaak).</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:1523:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	18/00794 P</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		29 september 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een uitspraak van het gerechtshof Arnhem-Leeuwarden van 15 februari 2018, nummer 21/000228-16, op een vordering tot ontneming van wederrechtelijk verkregen voordeel ten laste </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [betrokkene], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1974,</para>
+      <para>hierna: de betrokkene.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de betrokkene. Namens deze heeft J.C. Reisinger, advocaat te Utrecht, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal D.J.C. Aben heeft geconcludeerd tot vernietiging van het bestreden arrest voor wat betreft de hoogte van de opgelegde betalingsverplichting wegens overschrijding van de redelijke termijn in de cassatiefase, tot vermindering van het te betalen bedrag naar de gebruikelijke maatstaf, en tot verwerping van het beroep voor het overige.</para>
+      <para>De raadsman van de betrokkene heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt dat het oordeel van het hof dat er voldoende aanwijzingen zijn dat de betrokkene wederrechtelijk voordeel heeft verkregen uit de deelname aan een criminele organisatie voorafgaand aan de in de strafzaak bewezenverklaarde periode, getuigt van een onjuiste rechtsopvatting dan wel ontoereikend is gemotiveerd. </para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>De bestreden uitspraak houdt onder meer in:</para>
+          <para>“De vaststelling van het wederrechtelijk verkregen voordeel</para>
+          <para>De veroordeelde is bij arrest van dit hof van 14 juli 2014 (parketnummer 21-009372-13) ter zake van het onder 1, 2 en 3 bewezen verklaarde, respectievelijk deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, medeplegen van opzettelijk handelen in strijd met het in artikel 3 onder C van de Opiumwet gegeven verbod en witwassen, meermalen gepleegd, veroordeeld tot een taakstraf voor de duur van 240 uren, subsidiair 120 dagen hechtenis.</para>
+          <para>Uit het strafdossier en bij de behandeling van de vordering ter terechtzitting in hoger beroep is gebleken dat veroordeelde uit het bewezenverklaarde handelen financieel voordeel heeft genoten. </para>
+          <para>Aan de inhoud van wettige bewijsmiddelen ontleent het hof de schatting van dat voordeel op een bedrag van € 167.624,48 (honderdzevenenzestigduizend zeshonderdvierentwintig euro en achtenveertig cent). Het hof komt als volgt tot deze schatting:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Periode</para>
+          <para>In het onderzoek naar veroordeelde is bij doorzoekingen in de coffeeshop [A] en in de woningen van de in de coffeeshop werkzame veroordeelden op 27 november 2012 ruim 180 kilo softdrugs aangetroffen, waarvan in de coffeeshop zelf een hoeveelheid van 9.218 gram hasj en 8.668 gram wiet.</para>
+          <para>De getuige [getuige] heeft bij de politie verklaard dat hij aan de coffeeshop wiet leverde, soms één à twee keer per week, met wisselende hoeveelheden van twee tot vijf kilo per keer, dat hij dit vijf jaar had gedaan en dat hij daarover met [medeverdachte 1] contact had.</para>
+          <para>
+            [medeverdachte 1] heeft verklaard dat zij 500 gram in de coffeeshop mochten hebben, dat de voorraad buiten de coffeeshop op stashplaatsen werd bewaard, dat als ze wat nodig hadden, dat dat dan werd opgehaald en dat [getuige] al vijf jaar de vaste leverancier was van de wiet bij [A].</para>
+          <para>Het hof bepaalt op grond van het voorgaande, dat de periode waarbinnen het wederrechtelijk voordeel wordt berekend, de periode van 1 januari 2011 tot en met 27 november 2012 beloopt. Weliswaar blijkt uit de hiervoor aangehaalde verklaringen van [medeverdachte 1] en de getuige [getuige] dat de gedoogvoorwaarden ruimschoots en structureel werden overtreden, maar het hof kan ten aanzien van veroordeelde niet vaststellen in hoeverre hij daarbij tot en met het kalenderjaar 2010 persoonlijk betrokken is geweest. Voor de jaren 2011 en 2012 (tot en met 27 november) is dit anders. Voor de laatste maanden van 2012 volgt dit reeds uit de veroordeling door dit hof op 14 juli 2014. Aannemelijk is op grond van de bevindingen rondom verzwegen omzet, zoals hierna omschreven, dat de gang van zaken binnen [A] in 2011 en begin 2012 niet anders was dan de gang van zaken in de laatste maanden van 2012 en hij in deze periode kennelijk heeft deelgenomen aan de criminele organisatie. Het hof zal daarom uitgaan van een ontneming berekend over de periode van 1 januari 2011 tot en met 27 november 2012.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Verzwegen omzet</para>
+          <para>Gedurende het onderzoek tegen veroordeelde en de medeveroordeelde werd in drie periodes van willekeurige dagen het aantal bezoekers geteld van coffeeshop [A]. In de periode van 22 juni 2011 tot en met 3 juli 2011 werden gemiddeld 1028 bezoekers per dag geteld, in de periode van 23 december 2011 tot en met 11 augustus 2012 974 bezoekers en in de periode van 20 november 2012 tot en met 22 november 2012 1177 bezoekers.</para>
+          <para>Uit analyse van in beslag genomen beelden van in de coffeeshop aanwezige en op de verkoopbalie gerichte camera’s, met betrekking tot de periode van 19 tot en met 26 november 2012, bleek dat in de coffeeshop sprake was van twee verkooppunten aan de verkoopbalie van de coffeeshop en dat enkel het verkooppunt aan de rechterzijde was aangesloten op een kassa met een registratiesysteem.</para>
+          <para>Op de beeldopnames van 20 november 2012 en 22 november 2012, zijn de bezoekers van de coffeeshop geteld die een transactie verrichten. In totaal werden bij beide verkooppunten aan de verkoopbalie op 20 november 2012 1228 klanten en op 22 november 2012 1184 klanten geteld.</para>
+          <para>Voorts werd op deze beelden waargenomen dat er aanzienlijk meer betalingen door deze klanten plaatsvonden aan het linker verkooppunt, zonder kassasysteem. Het wisselgeld voor de klanten werd van onder de balie gepakt, er vond geen zichtbare registratie plaats van betalende klanten aan de linkerzijde van de balie, of als er geld van onder de balie werd weggepakt.</para>
+          <para>Onderzoek naar de kassabonnen en het kassasysteem van coffeeshop [A] heeft bevestigd dat het aantal klanten dat geregistreerd werd op de hiervoor genoemde dagen vele malen lager lag. Op 20 november 2012 zouden er volgens de kassabonnen slechts 460 klanten zijn geweest en op 22 november 2012 slechts 388 klanten.</para>
+          <para>Door de politie is gerelateerd dat uit bij de Belastingdienst opgevraagde gegevens blijkt dat de coffeeshop in 2011 als omzet heeft opgegeven een bedrag van € 875.000,- en in 2012 een verwachte omzet van € 1.333.333,-, maar dat gezien de door de politie getelde bezoekersaantallen er een grotere omzet zou moeten zijn geweest ten bedrage van € 3.600.000,-.</para>
+          <para>Op basis van het voorgaande kan worden uitgegaan van een gemiddeld verzwegen winst van 60%. Over de periode van 2011-2012 bedroeg de niet opgegeven omzet minus de inkoop € 1.830.696,-.</para>
+          <para>In het rapport berekening wederrechtelijk verkregen voordeel is gekozen om het voordeel pondspondsgewijs over veroordeelde en zijn vijf broers te verdelen. Het hof gaat in deze wijze van verdeling niet mee. Door veroordeelde, [medeverdachte 2], [medeverdachte 3] en [medeverdachte 4] is bij de rechter-commissaris verklaard dat zij geld van de coffeeshop in eigen zak stopten en dit zelf hielden zonder het op enige manier in de boeken te verantwoorden. Het hof ziet dit als een aanwijzing dat er geen afspraak bestond tussen de verdachten om de verzwegen omzet gelijkelijk te verdelen. Aannemelijk is dat het aandeel van veroordeelde in de verzwegen omzet beperkter is dan het resultaat van de pondspondsgewijze berekening waar in het rapport vanuit is gegaan. Daarbij betrekt het hof dat, alleen al gelet op diens rol als (enig) eigenaar van de coffeeshop en gelet op diens vermogenspositie, aan [medeverdachte 5] een groter deel van de verzwegen winst behoort te worden toegerekend, dan aan veroordeelde en zijn andere broers.</para>
+          <para>Vast staat dat veroordeelde, naast zijn salaris, ook voordeel heeft genoten uit de verzwegen omzet. Gelet op de familieverhoudingen en gelet op de vermogenspositie van de broers gaat het hof ervan uit dat de broers van elkaar accepteerden dat zij allen zich contante bedragen vanuit de verzwegen omzet toe-eigenden, dat de verzwegen omzet zodoende tussen de broers werd verdeeld en dat veroordeelde uit de verzwegen omzet (veel) meer dan de (gestelde) bedragen heeft ontvangen die hij zelf vanuit de kas in eigen zak stopte.</para>
+          <para>Het hof gaat er voorts van uit dat het ten minste de helft van de verzwegen winst is toegekomen aan [medeverdachte 5], als (enig) eigenaar van de coffeeshop, en dat de overige broers, waaronder veroordeelde, voor het overige deel hebben meegedeelde in de verzwegen winst, afhankelijk van hun rol en (periode van) betrokkenheid.</para>
+          <para>Het hof schat met toepassing van lid 7 van artikel 36e van het Wetboek van Strafrecht het aandeel van veroordeelde in de verzwegen winst op € 150.000,-.</para>
+        </parablock>
+        <para />
+        <para />
+        <parablock>
+          <para>Salaris</para>
+          <para>Anders dan de rechtbank, is het hof van oordeel dat het netto-salaris van veroordeelde over de periode 2011-2012 als wederrechtelijk verkregen voordeel dient te worden aangemerkt. Het hof zal per jaar een bedrag van € 15.000,- op het genoten jaarloon in mindering brengen en overweegt daartoe dat veroordeelde in het geval hij niet bij de coffeeshop werkzaam was geweest ook een inkomen had verworven om in zijn levensonderhoud te voorzien. De omvang van dit inkomen begroot het hof op € 15.000,- op jaarbasis. Uitsluitend voor zover veroordeelde meer heeft verdiend dan dit bedrag op jaarbasis, is sprake van voordeel (als bedoeld in artikel 36e van het Wetboek van Strafrecht).</para>
+          <para>Veroordeelde heeft in de periode 2011-2012 een netto-salaris ontvangen van € 47.624,48. Hierop wordt een bedrag van € 30.000,- (2 x € 15.000,-) in mindering gebracht, hetgeen tot gevolg heeft dat een bedrag van € 17.624,48 als wederrechtelijk verkregen voordeel in de berekening wordt meegenomen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Conclusie</para>
+          <para>Hetgeen hiervoor is overwogen leidt tot de volgende berekening:</para>
+          <para>- Aandeel in verzwegen winst 		€ 150.000,-</para>
+          <para>- Netto-salaris 				€   17.624,48 +</para>
+          <para>Totaal: 					€ 167.624,48.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>De aanvulling op het verkorte arrest als bedoeld in artikel 365a van het Wetboek van Strafvordering (hierna: Sv) houdt onder meer het volgende in:</para>
+          <para>“6. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 10.104-10.110) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Op 27 november 2012 werd door de rechter-commissaris voor een doorzoeking ter inbeslagneming binnengetreden in de woning, [a-straat 1] te [plaats].</para>
+          <para>Een lijst met een nadere specificatie van de in beslag genomen voorwerpen in als bijlage bij dit proces-verbaal gevoegd.</para>
+          <para>Bijlage inbeslaggenomen goederen</para>
+          <para>10.06.02.001 		hasj 9805 gram (bruto)</para>
+          <para>10.06.03.001 		hasj 2158 gram (bruto)</para>
+          <para>10.06.04.001 		hasj 312 G (bruto) en wiet 10 G (bruto)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>7. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 10.076-10.079) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Op 27 november 2012 werd door de hulp-officier van justitie voor een doorzoeking ter inbeslagneming binnengetreden in [b-straat 1] te [plaats].</para>
+          <para>Een lijst met een nadere specificatie van de in beslag genomen voorwerpen in als bijlage bij dit proces-verbaal gevoegd.</para>
+          <para>Bijlage inbeslaggenomen goederen</para>
+          <para>8.01.01.001		408 gram (bruto) joints</para>
+          <para>8.01.02.001		zak met voorgedraaide joints 200 gram (bruto)</para>
+          <para>8.01.03.011		tas met gesealde zakken wiet 4160 gram (bruto)</para>
+          <para>8.01.04.001		14 blokjes hasj 1628 gram (bruto)</para>
+          <para>8.01.05.001		stukje hasj 12 gram (bruto)</para>
+          <para>8.01.07.001		zakje wiet 10 gram (bruto)</para>
+          <para>8.05.01.001		zakje wiet 4 gram (bruto)</para>
+          <para>8.07.01.001		wiet 5500 gram (bruto)</para>
+          <para>8.07.02.001		weedtoppen 108.200 gram (bruto)</para>
+          <para>8.08.01.001		gesealde wiet 6130 gram (bruto)</para>
+          <para>8.08.02.001		blok hasj 494 gram (bruto)</para>
+          <para>8.10.01.001		oranje doos met hasj 1668 gram (bruto)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>8. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 11 e.v.) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Op 27 november 2012 vonden diverse doorzoekingen plaats in onder andere de hieronder genoemde woningen. Daarnaast vonden in een aantal bedrijfspanden te Utrecht doorzoekingen plaats.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Woningen</para>
+          <para>1. [c-straat 1] te [plaats] 	Woning van [medeverdachte 5]</para>
+          <para>In deze woning werd onder andere beslag genomen:</para>
+          <para>Softdrugs, drugs.</para>
+          <para>2. [c-straat 2] te [plaats] 		Woning van [betrokkene 3]</para>
+          <para>In deze woning werd onder andere drugs in beslag genomen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. [d-straat 1] te [plaats] 	Woning boven coffeeshop [A]</para>
+          <para>Hier werd onder meer het navolgende in beslag genomen:</para>
+          <para>Hash, diverse verdovende middelen, hennep.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>6. [d-straat 2] 		Woning [medeverdachte 1]</para>
+          <para>In deze woning werd onder andere in beslag genomen:</para>
+          <para>Diverse verdovende middelen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>8. [b-straat 1] te [plaats] 	Woning [medeverdachte 2], ook [betrokkene] en [medeverdachte 4] staan hier GBA-ingeschreven.</para>
+          <para>In deze woning werd onder andere in beslag genomen:</para>
+          <para>Drugs</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>10. [a-straat 1] te [plaats] Verblijfplaats [betrokkene] In deze woning werd onder andere in beslag genomen:</para>
+          <para>Drugs</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>12. [e-straat 1] [plaats] Woning [betrokkene 2] In deze woning werd onder andere in beslag genomen:</para>
+          <para>Drugs.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bedrijf</para>
+          <para>3. [d-straat 3] te [plaats] Coffeeshop [A]</para>
+          <para>Op deze locatie werd onder andere in beslag genomen:</para>
+          <para>diverse soorten softdrugs, waaronder hennep (power, ww, haze, polm, royal), diverse voorgedraaide joints (weed, haze, mix, polm), gedroogde henneptoppen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>5. [d-straat 4] te [plaats] Vestiging [B]</para>
+          <para>Op deze locatie werd onder andere in beslag genomen: henneptoppen, weed, (voorgedraaide) joints.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>9. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s) 1084-1089 van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als verklaring van getuige [getuige]:</para>
+          <para>V: Wat vervoerde u in de tassen?</para>
+          <para>A: Bij [A] was het wiet.</para>
+          <para>V: Wat leverde u aan gewicht?</para>
+          <para>A: Ongeveer 2 kg, andere keer 5 kg.</para>
+          <para>V: Hoe lang hebt u dat gedaan?</para>
+          <para>A: Een jaar of vijf, ook niet elke week.</para>
+          <para>V: Met wie had u daar contact over?</para>
+          <para>A: Met [medeverdachte 1].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>10. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s) 1693-1711 van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als verklaring van getuige [medeverdachte 1]:</para>
+          <para>V: Wat is de toegestane hoeveelheid softdrugs die je in je coffeeshop mag hebben?</para>
+          <para>A: Iedereen mag 500 gram in een coffeeshop hebben?</para>
+          <para>V: Waar wordt de voorraad buiten de coffeeshop bewaard?</para>
+          <para>A: Zoveel mogelijk buiten de shop.</para>
+          <para>V: Door wie wordt de coffeeshop bevoorraad?</para>
+          <para>A: Je hebt weleens stashplaatsen. Als het op is wordt er gehaald.</para>
+          <para>A: Ik heb één goede leverancier, ene [getuige].</para>
+          <para>V: Wie regelt de inkoop van de hash en de wiet voor coffeeshop [A]?</para>
+          <para>A: Ik met die vriend [getuige].</para>
+          <para>V: [getuige] heeft bij de politie verklaard dat hij ongeveer al 5 jaar de leverancier van wiet bij [A] is.</para>
+          <para>A: Ja, het is echt zo, 1000%.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>11. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 9221-9225) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Na verkregen bevelen observatie werd gedurende een periode van 14 dagen een statische observatie uitgevoerd op de coffeeshop [A] en de ernaast gelegen videotheek [C] [d-straat 3] tot en met [d-straat 4] te [plaats]. De hiervan opgenomen beelden zijn digitaal vastgelegd en beveiligd. De opnameperiode liep van 21 juni 2011 tot 5 juli 2011. </para>
+          <para>Om een beeld te krijgen over het aantal bezoekers in de periode voornoemd zijn door mij de beelden bekeken en is een telling gedaan van ingaande bezoekers. Van de telling heb ik een overzichtlijst gemaakt die hierbij is gevoegd.</para>
+          <para>Datum 		Totaal bezoek</para>
+          <para>23-6-2011 		1011</para>
+          <para>24-6-2011 		1179</para>
+          <para>25-6-2011 		994</para>
+          <para>26-6-2011 		1046</para>
+          <para>27-6-2011 		1004</para>
+          <para>28-6-2011 		976</para>
+          <para>29-6-2011 		1073</para>
+          <para>2-7-2011 		1032</para>
+          <para>3-7-2011 		942</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>12. Het in de wettelijke vorm opgemaakte proces (als bijlage op de pagina’s  2543-2544) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisanten:</para>
+          <para>Na verkregen bevelen observatie werd een statische observatie uitgevoerd op de coffeeshop [A] en de ernaast gelegen videotheek [C] [d-straat 3] tot en met [d-straat 4] te [plaats]. </para>
+          <para>Om een beeld te krijgen over het aantal bezoekers zijn de beelden bekeken en is een telling gedaan van ingaande bezoekers. Van de telling heb ik, [verbalisant], een overzichtlijst gemaakt. Op deze lijst is per uur een bezoekersoverzichttelling bijgehouden.</para>
+          <para>Zaterdag 23 december 2011 	totaal 964 bezoekers</para>
+          <para>Donderdag 5 januari 2012 		totaal 845 bezoekers</para>
+          <para>Dinsdag 17 juli 2012 		totaal 1042 bezoekers</para>
+          <para>Zaterdag 11 augustus 2012 	totaal 1046 bezoekers</para>
+          <para>Het gemiddelde bezoekers over deze vier getelde dagen bedraagt: 974.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>13. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 4145-4146) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisanten:</para>
+          <para>Op bevel van de officier van justitie werd een statische observatie uitgevoerd op de coffeeshop [A] en de ernaast gelegen videotheek [C] [d-straat 3] tot en met [d-straat 4] te [plaats]. Het is mij, verbalisant, bekend dat coffeeshop [A] een toegangsdeur aan de voorzijde heeft, en een achterdeur welke uitkomt op een binnenplaats die gedeeld wordt met de naastgelegen [C] aan de [d-straat 4].</para>
+          <para>Om een beeld te krijgen over het aantal bezoekers zijn de beelden bekeken en is een telling gedaan van ingaande bezoekers. Van de telling heb ik, [verbalisant], een overzichtlijst gemaakt. Op deze lijst is per uur een bezoekersoverzichttelling bijgehouden. </para>
+          <para>Dinsdag 20 november 2012	totaal 1220 bezoekers</para>
+          <para>Woensdag 21 november 2012	totaal 1138 bezoekers</para>
+          <para>Donderdag 22 november 2012 	totaal 1175 bezoekers.</para>
+          <para>Het gemiddelde bezoekers over deze vier getelde dagen bedraagt: 1177.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>14. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 4147-4150) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisanten:</para>
+          <para>Op 27 november 2012 werd door de afdeling Bureau Digitale Eenheid van de politie het camerasysteem van coffeeshop [A] veiliggesteld en in beslag genomen. De camera’s hadden onder meer zicht op de balie van coffeeshop [A]. Het inbeslaggenomen camerasysteem en de daarop opgeslagen gegevens werden onderzocht door Bureau Digitale Techniek van de politie Midden-Nederland. </para>
+          <para>Het camerasysteem bleek een opslag te hebben van 8 dagen, van 19 november 2012 tot en met 26 november 2012. Het systeem bevat 8 camera’s. </para>
+          <para>Om een beeld te krijgen over het aantal betalende bezoekers in de data voornoemd zijn door mij, verbalisant [verbalisant], de beelden bekeken en is een telling gedaan van betalende bezoekers. Ik heb de opnames bekeken van 20 november 2012 tot 22 november 2012 en daarbij die bezoekers geteld die een transactie verrichtten aan de kassa. Uit de camerabeelden boven de verkoopbalie bleek dan: </para>
+          <para>- Er gebruik werd gemaakt van 2 verkooppunten aan de balie met ieder een eigen weegschaal te weten één aan de linkerzijde en één aan de rechterzijde. </para>
+          <para>- Alleen het verkooppunt aan de rechterzijde aangesloten was op een kassa met registratiesysteem. </para>
+          <para>- Er aanzienlijk meer betalingen door klanten aan de linkerzijde (zonder kassasysteem) van de balie plaatsvonden.</para>
+          <para>- Wisselgeld voor klanten voornamelijk van het geld onder balie werd gepakt.</para>
+          <para>- Geld van betalende klanten voornamelijk onder de balie werd gelegd.</para>
+          <para>- Er geen registratie van betalende klanten te zien was aan de linkerzijde.</para>
+          <para>- Er geen registratie zichtbaar was als het geld onder de balie werd weggehaald.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Van de telling heb ik, verbalisant [verbalisant], een overzichtlijst gemaakt.</para>
+          <para>Klantentelling</para>
+          <para>Dinsdag 20 november 2012 	Linkerzijde balie 	Rechterzijde balie 	Totaal</para>
+          <para>733 			495 			1228</para>
+          <para>Klantentelling </para>
+          <para>Dinsdag 22 november 2012 	Linkerzijde balie 	Rechterzijde balie 	Totaal</para>
+          <para>794 			390			1184</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>15. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 4515-4520) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Door de afdeling Bureau Digitale Eenheid van de politie werd de kassa van de coffeeshop op 27 november 2012 veiliggesteld en in beslag genomen. In het kassasysteem waren gegevens terug te vinden vanaf 21 augustus 2012 tot en met 27 november 2012 welke onder meer betrekking hadden op omzetten per dag, klanten per dag en verkochte hoeveelheden. </para>
+          <para>Uit de kassabonnen en het kassasysteem bleek dat het aantal bezoekers dat geregistreerd werd in de administratie van de getelde dagen vele malen lager lag. </para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="babf9814-4f37-4e9b-8f42-f0b85fd4f342" depth="245" width="465" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <para />
+        <parablock>
+          <para>Het vermoeden bestaat dat in de periode van 1 januari 2011 tot en met 27 november 2012 gemiddeld 65% van de omzet niet wordt opgegeven bij de belastingdienst.</para>
+          <para>Uit de opgevraagde gegevens bij de Belastingdienst bleek dat coffeeshop [A] de navolgende omzetten heeft opgegeven:</para>
+          <para>2011: € 875.000,-</para>
+          <para>2012: € 1.000,000,- (3 maanden), geëxtrapoleerd: € 1.333.333,- verwachte omzet 2012.</para>
+          <para>Echter gezien de bezoekersaantallen zou er een grotere omzet moeten zijn geweest. De Belastingdienst gaat uit van een besteding van 10 euro per bezoeker. Dit genereert op basis van de gegevens van de Belastingdienst derhalve een omzet van 1.000 bezoekers x 10 euro x 360 dagen = € 3.600.000,- per jaar. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>16. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina 11.092) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="ba235844-789f-4787-8769-b6a3af1ebb6a" depth="203" width="452" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <parablock>
+          <para>17. Het proces-verbaal van verhoor van getuigen d.d. 19 maart 2015 opgemaakt door de rechter-commissaris strafzaken in de rechtbank Midden-Nederland, voor zover inhoudende – zakelijk weergegeven – als verklaring van [medeverdachte 4]:</para>
+          <para>Ik heb zelf wel eens geld achtergehouden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>18. Het proces-verbaal van verhoor van getuigen d.d. 16 oktober 2013 opgemaakt door de rechter-commissaris strafzaken in de rechtbank Midden-Nederland, voor zover inhoudende – zakelijk weergegeven – als verklaring van [medeverdachte 4]:</para>
+          <para>U vraagt mij wat ik met het geld deed wat ik aannam van klanten. Ik deed het in mijn zak. De briefjes van 50 gingen in mijn zak. Soms gingen de briefjes van 20 ook in mijn zak. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>19. Het proces-verbaal van verhoor van getuigen d.d. 23 maart 2015 opgemaakt door de rechter-commissaris strafzaken in de rechtbank Midden-Nederland, voor zover inhoudende – zakelijk weergegeven – als verklaring van [medeverdachte 2]:</para>
+          <para>U vraagt mij of ik verklaard heb dat er wel eens geld in de zak werd gestoken. Ja, dat heb ik verklaard. Ik heb ook wel eens wat in mijn zak gestopt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>20. Het proces-verbaal van verhoor van getuigen d.d. 15 oktober 2013 opgemaakt door de rechter-commissaris strafzaken in de rechtbank Midden-Nederland, voor zover inhoudende – zakelijk weergegeven – als verklaring van [medeverdachte 2]:</para>
+          <para>Ik heb zelf ook wel eens geld in mijn zak gedaan. Ik heb wel eens geld voor mijzelf besteed. Dit was al een tijdje.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>21. Het proces-verbaal van verhoor van getuigen d.d. 16 oktober 2013 opgemaakt door de rechter-commissaris strafzaken in de rechtbank Midden-Nederland, voor zover inhoudende – zakelijk weergegeven – als verklaring van [medeverdachte 3]:</para>
+          <para>U vraagt mij wat er met het geld gebeurde dat ik van een klant kreeg. Dat ging in de kassa of in onze zak. Dit is langer dan een paar maanden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>22. Het in de wettelijke vorm opgemaakte proces-verbaal (als bijlage op pagina’s 16365-16367) van het proces-verbaal, genummerd 2012 266002) voor zover inhoudende – zakelijk weergegeven – als relaas van verbalisant:</para>
+          <para>Na vordering (art. 126a Sv) werden de bankafschriften van rekeningnummer 68.71.70.060 van coffeeshop [A] ontvangen. Hieruit bleek dat het netto-salaris via de bankrekening werd uitbetaald aan het personeel. De netto-uitbetalingen zijn in het bijgevoegde overzicht gezet (zie bijlage A).</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bijlage A:</para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="537d6c09-2a0f-4155-aea3-50b7f633f15c" depth="762" width="551" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="a13e8136-f718-4ac5-8eef-5822023c273c" depth="517" width="552" format="image/png" />
+          </imageobject>
+        </mediaobject>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>In de met deze ontnemingsprocedure verband houdende strafzaak is onder meer bewezenverklaard dat de betrokkene in de periode 19 juli 2012 tot en met 27 november 2012 zich schuldig heeft gemaakt aan deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven. Het hof heeft kennelijk geoordeeld dat “voldoende aanwijzingen” bestaan dat de betrokkene ook voorafgaand aan die periode in 2011 en 2012 heeft deelgenomen aan een criminele organisatie, waarbij die deelneming kan worden aangemerkt als ander strafbaar feit in de zin van artikel 36e lid 2 van het Wetboek van Strafrecht (hierna: Sr), en voor zover het gaat om de periode voor 1 juli 2011, als soortgelijk feit als bedoeld in artikel 36e lid 2 (oud) Sr. Het hof heeft het door de betrokkene over de periode van 1 januari 2011 tot en met 27 november 2012 wederrechtelijk verkregen voordeel geschat op € 167.642,48.</para>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Op de ontnemingsprocedure is artikel 6 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM) van toepassing. Dat betekent onder meer dat ook in de ontnemingsprocedure het – mede in artikel 6 lid 2 EVRM gewaarborgde – recht van een persoon om voor onschuldig te worden gehouden, totdat zijn schuld in rechte is komen vast te staan, dient te worden gerespecteerd. (Vgl. HR 5 december 1995, ECLI:NL:HR:1995:ZD0312, rov. 6.1, en EHRM 5 juli 2001, nr. 41087/98 (Phillips tegen het Verenigd Koninkrijk), § 39 en 40.) </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>De ontnemingsprocedure heeft een ander karakter dan de strafprocedure. Het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, kan op grond van artikel 338 Sv door de rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek op de terechtzitting door de inhoud van wettige bewijsmiddelen de overtuiging heeft bekomen. In de ontnemingsprocedure is de rechter echter voor de schatting van het wederrechtelijk verkregen voordeel gebonden aan artikel 511f Sv waarin is bepaald dat de rechter die schatting slechts kan ontlenen aan de inhoud van wettige bewijsmiddelen. In verband daarmee gelden in de ontnemingsprocedure andere regels van procesrecht dan in de strafprocedure. (Vgl. HR 2 maart 2010, ECLI:NL:HR:2010:BK3424.) Artikel 6 EVRM staat er daarbij niet aan in de weg dat de rechter in de ontnemingsprocedure gebruik maakt van bewijsrechtelijke vermoedens (“presumptions of fact or of law”; vgl. EHRM 5 juli 2001, nr. 41087/98 (Phillips tegen het Verenigd Koninkrijk), § 40) en dat de bewijslast ter zake van de schatting van het wederrechtelijk verkregen voordeel op redelijke en billijke wijze wordt verdeeld tussen het openbaar ministerie en de betrokkene (vgl. HR 28 mei 2002, ECLI:NL:HR:2002:AE1182).</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.3</nr>
+        <para>Op grond van artikel 36e lid 2 Sr kan een ontnemingsmaatregel mede betrekking hebben op het voordeel dat de betrokkene heeft verkregen door middel van of uit de baten van andere strafbare feiten waaromtrent “voldoende aanwijzingen” bestaan dat deze door de betrokkene zijn begaan. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.4</nr>
+        <para>Indien de rechter in de ontnemingsprocedure oordeelt dat voldoende aanwijzingen bestaan dat de betrokkene andere strafbare feiten als bedoeld in artikel 36e lid 2 Sr heeft begaan, dient (de totstandkoming van) dat oordeel binnen het in 2.4.2 bedoelde eigen kader voor het bewijs in de ontnemingsprocedure in overeenstemming te zijn met de onschuldpresumptie. De in artikel 36e lid 2 Sr bedoelde “voldoende aanwijzingen” mogen daarom niet door de rechter worden aangenomen indien niet buiten redelijke twijfel kan worden vastgesteld dat andere strafbare feiten door de betrokkene zijn begaan. Tevens behoort de betrokkene de gelegenheid te hebben aan te (doen) voeren dat en waarom er onvoldoende aanwijzingen bestaan dat andere strafbare feiten door hem zijn begaan.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>De bewijsvoering van het hof houdt het volgende in. Op 27 november 2012 is bij doorzoekingen in de coffeeshop [A] en in de woningen van in de coffeeshop werkzame personen, waaronder de betrokkene, ruim 180 kilo softdrugs aangetroffen. Medeveroordeelde [medeverdachte 1] heeft verklaard dat de voorraad buiten de coffeeshop op stashplaatsen werd bewaard en dat, als ze wat nodig hadden, dat dan werd opgehaald. Getuige [getuige] heeft verklaard dat hij vijf jaar wiet leverde aan de coffeeshop. Medeveroordeelde [medeverdachte 1] heeft dat bevestigd. Verder heeft het hof vastgesteld dat, mede gelet op de bevindingen met betrekking tot de bezoekersaantallen in 2011 en 2012, de gang van zaken binnen de coffeeshop in 2011 en begin 2012 niet anders was dan de gang van zaken in de laatste maanden van 2012, de periode waarop de in de hoofdzaak bewezenverklaarde deelname aan een criminele organisatie betrekking heeft. Op grond hiervan heeft het hof geoordeeld dat de betrokkene, die in 2011 en 2012 inkomsten genoot uit de coffeeshop, ook in die periode betrokken is geweest bij het ruimschoots en structureel overtreden van de gedoogvoorwaarden. Gelet hierop en in het licht van wat onder 2.3 en 2.4 is overwogen, getuigt het daarin besloten liggende oordeel van het hof dat sprake is van “voldoende aanwijzingen” als bedoeld in artikel 36e lid 2 Sr van deelneming aan een criminele organisatie door de betrokkene voorafgaand aan de bewezenverklaarde periode, niet van een onjuiste rechtsopvatting en is het niet onbegrijpelijk.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede en het derde cassatiemiddel</title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie). </para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het vierde cassatiemiddel</title>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het cassatiemiddel klaagt dat in de cassatiefase de redelijke termijn als bedoeld in artikel 6 lid 1 EVRM is overschreden omdat de stukken te laat door het hof zijn ingezonden. </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Het cassatiemiddel is gegrond. Bovendien doet de Hoge Raad uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Een en ander brengt mee dat de redelijke termijn als bedoeld in artikel 6 lid 1 EVRM is overschreden. Dit moet leiden tot vermindering van de opgelegde betalingsverplichting van € 167.624,48.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de hoogte van de opgelegde betalingsverplichting ter ontneming van het wederrechtelijk verkregen voordeel;</para>
+      <para>- vermindert het te betalen bedrag in die zin dat de hoogte daarvan € 162.624 bedraagt;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren Y. Buruma, E.S.G.N.A.I. van de Griend, M.J. Borgers en A.E.M. Röttgering, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">29 september 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

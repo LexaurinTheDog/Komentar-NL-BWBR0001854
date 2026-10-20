@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T16:39:16.978747+00:00",
+    "rechecked_at": "2026-10-20T16:46:48.244058+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch04-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch05-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -30,7 +30,7 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 271655,
+  "commentary_chars": 276244,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -45,9 +45,12 @@
     "ECLI:NL:HR:2022:11",
     "ECLI:NL:HR:2020:1378",
     "ECLI:NL:HR:2015:3689",
-    "ECLI:NL:HR:2018:1156"
+    "ECLI:NL:HR:2018:1156",
+    "ECLI:NL:HR:2020:1523",
+    "ECLI:NL:HR:2020:625",
+    "ECLI:NL:HR:2013:BY8434"
   ],
-  "case_law_scope": "Selective: twelve complete primary HR decisions read for articles1,14c,14e,22b,28,33c,34 and41; no exhaustive coverage.",
+  "case_law_scope": "Selective: fifteen primary HR decisions for articles 1,14c,14e,22b,28,33c,34,36e,37a,38e and41. No exhaustive coverage.",
   "build_result": {
     "command": [
       "python3",
@@ -55,14 +58,14 @@
       "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
       "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
     ],
-    "recorded_at": "2026-10-20T16:44:24.434362+00:00",
+    "recorded_at": "2026-10-20T16:52:19.781219+00:00",
     "returncode": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
     "ok": false,
     "full_inventory_unchanged": true,
-    "task_scope": "Independent second reading of exactly20 assigned units24–36. Existing548-unit authoring deficit is outside assignment.",
-    "checkpoint_renderer": "_render_checkpoint.py renders all264 existing comments as explicitly incomplete; no full-build success claimed."
+    "task_scope": "Independent second reading of exactly 20 assigned units 36a–38g. Existing 548-unit authoring deficit is outside assignment.",
+    "checkpoint_renderer": "_render_checkpoint.py renders all 264 existing comments as explicitly incomplete; no full-build success claimed."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -80,9 +83,9 @@
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
-    "Second pass comprises four disjoint20-unit batches:80 reviewed,732 not reviewed. No whole-book completion or external professional approval."
+    "Second pass comprises five disjoint 20-unit batches: 100 reviewed, 712 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T16:45:25.283006+00:00",
+  "updated_at": "2026-10-20T16:52:18.634271+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T16:39:16.978747+00:00",
@@ -102,39 +105,39 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a24",
-      "a24a",
-      "a24b",
-      "a24c",
-      "a24d",
-      "a24e",
-      "a26",
-      "a27",
-      "a27a",
-      "a28",
-      "a29",
-      "a31",
-      "a32",
-      "a33",
-      "a33a",
-      "a33b",
-      "a33c",
-      "a34",
-      "a35",
-      "a36"
+      "a36a",
+      "a36b",
+      "a36c",
+      "a36d",
+      "a36e",
+      "a36f",
+      "a37",
+      "a37a",
+      "a37b",
+      "a37c",
+      "a37d",
+      "a37e",
+      "a38",
+      "a38a",
+      "a38b",
+      "a38c",
+      "a38d",
+      "a38e",
+      "a38f",
+      "a38g"
     ],
     "corrected_units": [
-      "a24d",
-      "a28",
-      "a33a",
-      "a33c",
-      "a34",
-      "a36"
+      "a36b",
+      "a36c",
+      "a36e",
+      "a36f",
+      "a37a",
+      "a38e"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "source_preflight": "sources/review-batch04-version-evidence.json",
-    "reviewed_at": "2026-10-20T16:42:57.939102+00:00"
+    "source_preflight": "sources/review-batch05-version-evidence.json",
+    "reviewed_at": "2026-10-20T16:52:18.634271+00:00"
   },
   "prior_bounded_reviews": [
     {
@@ -232,8 +235,46 @@
       "report": "review-batch03-result.json",
       "source_preflight": "sources/review-batch03-version-evidence.json",
       "reviewed_at": "2026-10-20T16:35:30.643139+00:00"
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a24",
+        "a24a",
+        "a24b",
+        "a24c",
+        "a24d",
+        "a24e",
+        "a26",
+        "a27",
+        "a27a",
+        "a28",
+        "a29",
+        "a31",
+        "a32",
+        "a33",
+        "a33a",
+        "a33b",
+        "a33c",
+        "a34",
+        "a35",
+        "a36"
+      ],
+      "corrected_units": [
+        "a24d",
+        "a28",
+        "a33a",
+        "a33c",
+        "a34",
+        "a36"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-batch04-result.json",
+      "source_preflight": "sources/review-batch04-version-evidence.json",
+      "reviewed_at": "2026-10-20T16:42:57.939102+00:00"
     }
   ],
-  "second_pass_total_reviewed_units": 80,
-  "second_pass_remaining_units": 732
+  "second_pass_total_reviewed_units": 100,
+  "second_pass_remaining_units": 712
 }

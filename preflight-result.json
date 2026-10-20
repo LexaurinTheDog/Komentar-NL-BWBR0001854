@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T16:39:16.978747+00:00",
+  "verified_at": "2026-10-20T16:46:48.244058+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1535,6 +1535,28 @@
     "inventory": "sources/review-batch04-coverage.json",
     "all812_texts_notes_status_dates_match": true,
     "aanhef_and_wetsluiting": "Present; no omissions repaired or required.",
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch05_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T16:46:48.244058+00:00",
+    "version_evidence": "sources/review-batch05-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch05-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch05-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Both present, no source repairs required.",
     "unresolved_blockers": []
   }
 }
