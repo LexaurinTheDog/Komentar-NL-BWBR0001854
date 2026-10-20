@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2025:7824",
+    "accessed_at": "2026-10-20T23:01:51.187419+00:00",
+    "http_status": 200,
+    "path": "authorities/author-a244-a256-ECLI-NL-RBAMS-2025-7824.xml",
+    "sha256": "698b008cf187e348b13abf3dd7e7fc76536d5ccac68dc3bd58d3943968d8648d",
+    "valid_fulltext": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2025:1283",
+    "accessed_at": "2026-10-20T23:01:51.357171+00:00",
+    "http_status": 200,
+    "path": "authorities/author-a244-a256-ECLI-NL-GHAMS-2025-1283.xml",
+    "sha256": "29650eea583769a624a2d9e89323d46507055c968ce1170884dc383b2b1bd77a",
+    "valid_fulltext": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:1410",
+    "accessed_at": "2026-10-20T23:01:51.541517+00:00",
+    "http_status": 200,
+    "path": "authorities/author-a244-a256-ECLI-NL-HR-2022-1410.xml",
+    "sha256": "05de3abe5aa07e5e687de2dd9ba94459ec619cb374f39cdf9915b3f261b62548",
+    "valid_fulltext": true
+  }
+]

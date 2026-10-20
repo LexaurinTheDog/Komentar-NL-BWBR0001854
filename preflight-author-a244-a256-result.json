@@ -1,0 +1,45 @@
+{
+  "complete": true,
+  "scope": [
+    "a244",
+    "a245",
+    "a246",
+    "a247",
+    "a248",
+    "a249",
+    "a250",
+    "a250a",
+    "a251",
+    "a252",
+    "a253",
+    "a253a",
+    "a254",
+    "a254a",
+    "a254b",
+    "a254ba",
+    "a254c",
+    "a254d",
+    "a255",
+    "a256"
+  ],
+  "decisive_date": "2026-10-19",
+  "batch_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T23:02:01.406802+00:00",
+  "version_evidence": "sources/author-a244-a256-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "historical_change_map": "sources/author-a244-a256-historical-change-map.json",
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-a244-a256-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "coverage": "sources/author-a244-a256-coverage.json",
+  "case_law_historical_text": "sources/author-a244-a256-case-law-version.json",
+  "unresolved_blockers": []
+}

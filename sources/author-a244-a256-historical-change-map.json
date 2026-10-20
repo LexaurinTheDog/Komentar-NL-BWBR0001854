@@ -1,0 +1,130 @@
+{
+  "current_source": "sources/author-a244-a256-effective.xml",
+  "previous_source": "sources/author-a244-a256-previous.xml",
+  "intake_source": "sources/intake-version.xml",
+  "current_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+  "current_equal_to_intake": true,
+  "scope_comparisons": [
+    {
+      "id": "a244",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a245",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a246",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a247",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a248",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a249",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a250",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a250a",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a251",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a252",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a253",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a253a",
+      "current_equal_previous": true,
+      "current_effective_from": "2025-01-01",
+      "previous_effective_from": "2025-01-01"
+    },
+    {
+      "id": "a254",
+      "current_equal_previous": true,
+      "current_effective_from": "2025-07-01",
+      "previous_effective_from": "2025-07-01"
+    },
+    {
+      "id": "a254a",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a254b",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a254ba",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a254c",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a254d",
+      "current_equal_previous": true,
+      "current_effective_from": "2024-07-01",
+      "previous_effective_from": "2024-07-01"
+    },
+    {
+      "id": "a255",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a256",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    }
+  ]
+}

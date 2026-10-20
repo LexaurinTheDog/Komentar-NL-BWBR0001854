@@ -1,0 +1,16 @@
+{
+  "method": "Read-only filename search across national corpus; full local HR text read and compared with newly fetched official judgment.",
+  "searched_root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "matches": [
+    {
+      "original_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1410.md",
+      "snapshot_path": "authorities/author-a244-a256-local-HR-2022-1410.md",
+      "sha256": "1b85725d2b3a520389d90fde0f69e398054051f3c76fe954f232553b491ec65d"
+    }
+  ],
+  "not_present": [
+    "ECLI:NL:RBAMS:2025:7824",
+    "ECLI:NL:GHAMS:2025:1283"
+  ],
+  "limitations": "Filename lookup of selected judgments only; no exhaustive full-corpus doctrinal search."
+}

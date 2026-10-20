@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHAMS:2025:1283</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-08-14T10:05:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-05-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Amsterdam" scheme="overheid.RechterlijkeMacht">Gerechtshof Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-05-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23-000070-25</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJFS 2025/186</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHAMS:2025:1283">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHAMS:2025:1283</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-05-19T14:55:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-05-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHAMS:2025:1283 Gerechtshof Amsterdam , 08-05-2025 / 23-000070-25</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHAMS:2025:1283:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Jeugdzaak. De verdachte heeft zich samen met een ander schuldig gemaakt aan het openbaar maken van een video van seksuele aard van een destijds vijftienjarig meisje (art. 254ba Sr). Het filmpje is via social media verspreid en op school getoond. Verdachte is in eerste aanleg vrijgesproken, maar mede gelet op de wijziging van de tenlastelegging in hoger beroep veroordeeld. Oplegging van een werkstraf, die aansluit bij de onherroepelijk opgelegde straf van de medeverdachte en het advies van de Raad. Vordering benadeelde partij: toepassing artikel 6:106 sub b BW “aantasting in de persoon op andere wijze”, toekenning van € 2.500,00 aan smartengeld, hoofdelijke aansprakelijkheid van de verdachte.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHAMS:2025:1283:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>afdeling strafrecht</para>
+    <para>parketnummer: 23-000070-25 </para>
+    <para>datum uitspraak: 8 mei 2025 </para>
+  </parablock>
+  <parablock>
+    <para>TEGENSPRAAK </para>
+  </parablock>
+  <parablock>
+    <para>Arrest van het gerechtshof Amsterdam gewezen op het hoger beroep, ingesteld tegen het vonnis van de kinderrechter in de rechtbank Amsterdam van 31 december 2024 in de strafzaak onder parketnummer 13-290612-24 tegen</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">
+        [verdachte]
+      </emphasis>,</para>
+    <para>geboren te [geboorteplaats] ( [geboorteland] ) op [geboortedag] 2009, </para>
+    <para>adres: [adres] .</para>
+  </parablock>
+  <section>
+    <title>Onderzoek van de zaak</title>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen naar aanleiding van het onderzoek ter terechtzitting in hoger beroep van 24 april 2025 en naar aanleiding van het onderzoek ter terechtzitting in eerste aanleg.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het openbaar ministerie heeft hoger beroep ingesteld tegen voormeld vonnis.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen de verdachte en zijn raadsvrouw en de advocaat van de benadeelde partij naar voren hebben gebracht.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Tenlastelegging</title>
+    <para />
+    <parablock>
+      <para>Gelet op de in hoger beroep door het gerechtshof toegelaten wijziging is aan de verdachte tenlastegelegd dat:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>hij, op of omstreeks de periode van 06 juni 2024 tot en met 10 juni 2024 te Amstelveen, tezamen en</para>
+      <para>in vereniging met een ander, de beschikking heeft gehad over en/of openbaar heeft gemaakt:</para>
+      <para>een afbeelding van seksuele aard, van een persoon, [benadeelde] , te</para>
+      <para>weten een video, waarop te zien is dat deze [benadeelde] seksuele handelingen verricht,</para>
+      <para>terwijl hij, verdachte, en/of zijn mededader(s) wist(en) of redelijkerwijs moest(en) vermoeden dat</para>
+      <para>deze afbeelding opzettelijk en wederrechtelijk was vervaardigd, en/of terwijl hij, verdachte, en/of</para>
+      <para>zijn mededader(s) wist(en) dat die openbaarmaking voor die persoon nadelig kon zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zal het hof deze verbeterd lezen. De verdachte wordt daardoor niet in de verdediging geschaad.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Vonnis waarvan beroep</title>
+    <para />
+    <parablock>
+      <para>Het vonnis waarvan beroep zal worden vernietigd, omdat het hof – anders dan de kinderrechter en mede gelet op de wijziging van de tenlastelegging in hoger beroep – tot een bewezenverklaring komt. </para>
+      <para>
+        <emphasis role="bold underline">Bewezenverklaring</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof acht wettig en overtuigend bewezen dat de verdachte het tenlastegelegde heeft begaan, met dien verstande dat: </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>hij in de periode van 07 juni 2024 tot en met 10 juni 2024 te Amstelveen, tezamen en</para>
+      <para>in vereniging met een ander, openbaar heeft gemaakt: een afbeelding van seksuele aard, van een persoon, [benadeelde] , te weten een video, waarop te zien is dat deze [benadeelde] seksuele handelingen verricht, terwijl hij, verdachte en zijn mededader, redelijkerwijs moesten vermoeden dat deze afbeelding opzettelijk en wederrechtelijk was vervaardigd, en terwijl hij, verdachte en</para>
+      <para>zijn mededader wisten dat die openbaarmaking voor die persoon nadelig kon zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet hiervan worden vrijgesproken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bewezenverklaarde is gegrond op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bewijsmiddelen</title>
+    <para />
+    <para>1. <emphasis role="bold">Een proces-verbaal van aangifte van 11 juni 2024, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaar [verbalisant 1] [doorgenummerde pagina’s 16-19];</emphasis></para>
+    <para />
+    <parablock>
+      <para>Dit proces-verbaal houdt in als <emphasis role="bold">verklaring van [benadeelde] </emphasis>voor zover van belang en zakelijk weergegeven:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op maandag 10 juni 2024 omstreeks 8.30 uur kwam ik op school. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Er liepen twee jongens, namelijk [verdachte] en [medeverdachte] , naar mij toe en zij vroegen aan mij hoe het ging. Ik vond het een rare vraag en vroeg aan hen beiden waarom ze dat vroegen. Hierop zeiden ze allebei: 'Wist je het niet?</para>
+      <para>
+        <?linebreak?>Ik antwoorde dat ik niet wist waar het over ging. Ik hoorde hen beide zeggen dat hij het had gefilmd.</para>
+      <para>
+        <?linebreak?>Ik vroeg door, maar zij wilden mijn vragen niet verder beantwoorden. Ik had toen wel het idee dat zij het over [persoon] hadden. [persoon] is een klasgenoot en een vriend van mij.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] zei dat [persoon] het naar  [medeverdachte] had gestuurd via Snapchat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Toen ik het filmpje bekeek, zag ik mijzelf. Ik zag mijzelf van achteren en ik zag dat ik aan het vrijen was.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ik wist niet dat [persoon] een video had gemaakt. Ik heb hem ook geen toestemming gegeven om een video te nemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ik was inderdaad op donderdag 6 juni 2024 omstreeks 16.00 bij [persoon] thuis geweest. Wij hadden toen sex gehad, wij hadden gevreeën.</para>
+    </parablock>
+    <para />
+    <para>2. <emphasis role="bold">Een proces-verbaal van verhoor minderjarige verdachte [persoon] van 12 juli 2024, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 2] en [verbalisant 3] [doorgenummerde pagina’s 106-116]. </emphasis></para>
+    <para />
+    <parablock>
+      <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als <emphasis role="bold">verklaring van [persoon]</emphasis>:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ze (<emphasis role="italic">het hof begrijpt: [medeverdachte] en de verdachte</emphasis>) vroegen of ik gefilmd had. Ik heb het toen aan hen laten zien want dat wilden ze graag. Toen smeekte ze mij om het filmpje te sturen. Ik heb toen  naar [medeverdachte] gestuurd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De volgende dag had ik mij verslapen voor school, dat was een vrijdag. Ik was rond 12.30 uur op</para>
+      <para>school. Toen ik net op school was werd er tegen mij gezegd 'wat hoor ik en wat heb ik</para>
+      <para>gezien'. Ik heb geen antwoord gegeven en ben gelijk op zoek gegaan naar [verdachte] en</para>
+      <para>
+        [medeverdachte] . Ik vroeg aan andere mensen of [medeverdachte] het had laten zien en die vertelde mij dat hij het wel had laten zien. Uiteindelijk vroeg ik aan [verdachte] wat hij had gedaan. Hij had het echt aan veel mensen laten zien.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V: Hoe heb je het filmpje naar [medeverdachte] gestuurd?<?linebreak?>A: Via snapchat. </para>
+    </parablock>
+    <para />
+    <para />
+    <para>3. <emphasis role="bold">Een proces-verbaal van verhoor getuige [getuige] van 5 juli 2024, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 3] en [verbalisant 4] [doorgenummerde pagina’s 25-28]. </emphasis></para>
+    <para />
+    <parablock>
+      <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als <emphasis role="bold">verklaring van [getuige]</emphasis>:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V: Wanneer en van wie kreeg je het filmpje voor het eerst te zien?<?linebreak?>A: Dit was dan de vrijdag. Dit was aan mij laten zien door twee jongens, [verdachte] en [medeverdachte] .</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>A: Ze gingen de school rond en lieten dit filmpje aan iedereen zien. Ik zag dat ze dit filmpje aan meerdere mensen lieten zien. Ook al wilde je het niet zien, ze lieten het zien. Beide zeiden: "Wil je het filmpje zien van [benadeelde] en [persoon] ?’</para>
+    </parablock>
+    <para />
+    <para />
+    <para>4. <emphasis role="bold">De verklaring van de verdachte, afgelegd ter terechtzitting in eerste aanleg van 31 december 2024.</emphasis></para>
+    <para />
+    <parablock>
+      <para>Deze verklaring houdt in, voor zover van belang en zakelijk weergegeven:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>U houdt voor dat ik bij de politie heb verklaard dat [benadeelde] aan mij vroeg of er een filmpje was, (…). </para>
+      <para>Ik zei duidelijk tegen [benadeelde] dat ik dat filmpje niet had, maar dat ik iemand kende die dat filmpje had. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Strafbaarheid van het bewezenverklaarde</title>
+    <para />
+    <parablock>
+      <para>Geen omstandigheid is aannemelijk geworden die de strafbaarheid van het bewezenverklaarde uitsluit, zodat dit strafbaar is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bewezenverklaarde levert op:</para>
+      <para>
+        <emphasis role="bold">medeplegen van openbaar maken van een afbeelding van seksuele aard van een persoon, terwijl hij redelijkerwijs moet vermoeden dat deze door of als gevolg van het opzettelijk en wederrechtelijk vervaardigen van een afbeelding van seksuele aard van een persoon is verkregen en terwijl hij weet dat die openbaarmaking nadelig voor die persoon kan zijn.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Strafbaarheid van de verdachte</title>
+    <para />
+    <parablock>
+      <para>De verdachte is strafbaar, omdat geen omstandigheid aannemelijk is geworden die de strafbaarheid ten aanzien van het bewezenverklaarde uitsluit.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Oplegging van straf</title>
+    <para />
+    <parablock>
+      <para>De kinderrechter heeft de verdachte ten aanzien van het tenlastegelegde vrijgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De advocaat-generaal heeft ter terechtzitting in hoger beroep gevorderd dat de verdachte voor het tenlastegelegde zal worden veroordeeld tot een werkstraf voor de duur van 20 uren, subsidiair 10 dagen jeugddetentie. Zij heeft daarbij opgemerkt dat aan de medeverdachte [medeverdachte] bij onherroepelijke strafbeschikking een werkstraf voor de duur van 20 uren is opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsvrouw heeft ter terechtzitting in hoger beroep geen standpunt ingenomen over de eventueel op te leggen straf.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft in hoger beroep de op te leggen straf bepaald op grond van de ernst van het feit en de omstandigheden waaronder dit is begaan en gelet op de persoon van de verdachte. Het hof heeft daarbij in het bijzonder het volgende in beschouwing genomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De verdachte heeft zich samen met een ander schuldig gemaakt aan het openbaar maken van een video van seksuele aard van een destijds vijftienjarig en daarmee kwetsbaar meisje. Het slachtoffer was er zich  niet van bewust dat deze video was gemaakt, hetgeen dit gedrag extra schadelijk maakt. De video is verspreid via social media en getoond aan velen van haar schoolgenoten. Dit is een ernstig strafbaar feit en het heeft een enorme impact gehad op het leven van de aangeefster, zoals ook blijkt uit haar slachtofferverklaring, zoals zij die ter terechtzitting in hoger beroep heeft afgelegd. De psychische gevolgen voor slachtoffers van misbruik van seksueel beeldmateriaal kunnen ernstig en langdurig zijn. Zij kampen veelal met gevoelens zoals schaamte, onmacht, onveiligheid en wantrouwen. Hierbij speelt een rol dat eenmaal verspreid materiaal vaak niet (volledig) verwijderd en vernietigd kan worden, zodat slachtoffers ook na de publicatie hiermee nog gedurende lange tijd geconfronteerd kunnen worden. Het hof neemt de verdachte kwalijk dat hij hier geen oog voor heeft gehad.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof acht, mede gelet op de straf die in de zaak van de medeverdachte [medeverdachte] onherroepelijk is opgelegd, een onvoorwaardelijke werkstraf van na te melden duur passend en geboden. Deze straf sluit voorts aan bij het advies dat door de Raad voor de Kinderbescherming in geval van een bewezenverklaring is gegeven.</para>
+      <para>
+        <emphasis role="bold underline">Vordering van de benadeelde partij [benadeelde]</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De benadeelde partij heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze bedraagt € 5.000,00, bestaande uit immateriële schade, vermeerderd met wettelijke rente vanaf 7 juni 2024. Dit bedrag wordt gevorderd bij wijze van voorschot. De vordering tot schadevergoeding is bij het vonnis waarvan beroep afgewezen, omdat de verdachte is vrijgesproken. </para>
+      <para>De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd met verwijzing naar het voegingsformulier en de pleitnota in eerste aanleg, dus met handhaving van het bedrag van de oorspronkelijke vordering  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De benadeelde partij heeft in de pleitnota eerste aanleg tevens een verzoek gedaan om aan de verdachte een expliciet verbod op te leggen om de beelden te tonen of te laten zien. De advocaat van de benadeelde partij heeft dit verzoek ter terechtzitting in hoger beroep niet uitdrukkelijk herhaald, waaruit het hof afleidt dat het op dit verzoek niet hoeft te beslissen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De advocaat-generaal heeft ter terechtzitting in hoger beroep verzocht de gevorderde immateriële schade te matigen naar een totaalbedrag van € 1.500,00 en dat bedrag – in plaats van dat hoofdelijk op te leggen – op gelijke wijze te verdelen over de verdachte en de twee medeverdachten. De advocaat-generaal heeft in dit verband toegelicht dat aan medeverdachte [medeverdachte] bij voornoemde strafbeschikking een vergoedingsplicht aan de benadeelde partij voor immateriële schade is opgelegd van € 500,00, zijnde 1/3 deel van € 1.500,00. Derhalve heeft zij gevorderd tot toewijzing van een bedrag van € 500,00, vermeerderd met de wettelijke rente en met oplegging van de schadevergoedingsmaatregel. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsvrouw heeft ter terechtzitting in hoger beroep geen standpunt ingenomen over de vordering tot schadevergoeding.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof overweegt als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6:106, eerste lid, aanhef en onder b, van het Burgerlijk Wetboek (verder: BW) brengt mee dat de benadeelde partij onder meer recht heeft op een naar billijkheid vast te stellen immateriële schadevergoeding indien zij ten gevolge van het strafbare feit op andere wijze in haar persoon is aangetast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Uit de uitspraak van de Hoge Raad van 28 mei 2019 (ECLI:NL:HR:2019:793) volgt dat van aantasting in de persoon ‘op andere wijze’ in ieder geval sprake is indien de benadeelde partij geestelijk letsel heeft opgelopen. Degene die zich hierop beroept, zal voldoende concrete gegevens moeten aanvoeren waaruit kan volgen dat in verband met de omstandigheden van het geval psychische schade is ontstaan. Daartoe is vereist dat naar objectieve maatstaven het bestaan van geestelijk letsel kan worden vastgesteld. Ook als het bestaan van geestelijk letsel in voornoemde zin niet kan worden aangenomen, is niet uitgesloten dat de aard en de ernst van de normschending en van de gevolgen daarvan voor de benadeelde, meebrengen dat van de in art. 6:106, aanhef en onder b, BW bedoelde aantasting in zijn persoon ‘op andere wijze’ sprake is. In zo een geval zal degene die zich hierop beroept de aantasting in zijn persoon met concrete gegevens moeten onderbouwen. Dat is slechts anders indien de aard en de ernst van de normschending meebrengen dat de in dit verband relevante nadelige gevolgen daarvan voor de benadeelde zo voor de hand liggen, dat een aantasting in de persoon kan worden aangenomen. Van een aantasting in de persoon ‘op andere wijze’ als bedoeld in art. 6:106, aanhef en onder b, BW is niet reeds sprake bij de enkele schending van een fundamenteel recht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nu naar het oordeel van het hof bij de benadeelde partij geen sprake is van lichamelijk letsel of van aantasting in eer en goede naam, is het de vraag of de benadeelde partij ‘op andere wijze’ in de persoon is aangetast in de zin van genoemd artikel. </para>
+      <para>In het onderhavige geval hebben de benadeelde partij en haar advocaat de impact die het handelen van de verdachte op haar heeft gehad ter terechtzitting in hoger beroep toegelicht. De benadeelde partij heeft gesteld dat zij in de maanden na het bewezenverklaarde feit dagelijks werd geconfronteerd met de (reacties op) de video. Zij werd gepest, uitgelachen en uitgescholden, is drie maanden niet naar school geweest en heeft uiteindelijk van school moeten wisselen. Ook op haar nieuwe school is zij aangesproken op de gebeurtenissen. Zij heeft wekelijks begeleiding vanuit de hulpverlening gekregen en is recent doorverwezen voor eventuele  traumatherapie. </para>
+      <para>De gevorderde schadevergoeding is door de verdediging niet betwist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gezien de ingrijpende aard van het handelen van de verdachte, de inbreuk die daarmee op de persoonlijke integriteit van de benadeelde partij is gemaakt en de daarmee verband houdende psychische gevolgen is het hof van oordeel dat de benadeelde partij voldoende concreet heeft onderbouwd dat zij als gevolg van het bewezenverklaarde handelen van de verdachte  is aangetast in haar persoon ‘op andere wijze’ als bedoeld in art. 6:106, aanhef en onder b, BW en daardoor immateriële schade heeft geleden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof stelt de omvang van de immateriële schade op de voet van het bepaalde in artikel 6:106 BW naar maatstaven van billijkheid vast op € 2.500,00. Daarbij is rekening gehouden met de aard en ernst van het feit en de gevolgen daarvan voor de benadeelde partij, alsmede de vergoedingen die in soortgelijke gevallen door rechters zijn toegekend. Het overige deel van de gevorderde immateriële schade zal het hof afwijzen, omdat dit de grenzen van de billijkheid te buiten gaat. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gegeven het bewezenverklaarde medeplegen met een ander, stelt het hof vast dat de verdachte <emphasis role="italic">hoofdelijk</emphasis> aansprakelijk is (als bedoeld in art. 6:102 BW) voor de als gevolg van het bewezenverklaarde feit door de benadeelde partij geleden immateriële schade zoals hierboven is vastgesteld op een bedrag van € 2.500,00. Het hof wijst de vordering tot dit bedrag dus hoofdelijk toe, vermeerderd met de gevorderde wettelijke rente. In hetgeen de advocaat-generaal heeft aangevoerd, ziet het hof geen aanleiding om hoofdelijke toewijzing achterwege te laten. </para>
+      <para>Voornoemde bedrag wordt, anders dan gevorderd, <emphasis role="italic">niet </emphasis>toegewezen bij wijze van <emphasis role="italic">voorschot</emphasis> in afwachting van een definitief oordeel van de civiele rechter, omdat de strafprocedure daarvoor geen grondslag kent.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Daarnaast zal het hof, eveneens hoofdelijk, de schadevergoedingsmaatregel opleggen ter hoogte van een bedrag van € 2.500,00, vermeerderd met de gevorderde wettelijke rente, op de hierna te noemen wijze om te bevorderen dat de schade door de verdachte wordt vergoed.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Toepasselijke wettelijke voorschriften</title>
+    <para />
+    <parablock>
+      <para>De op te leggen straf is gegrond op de artikelen 36f, 63, 77a, 77g, 77h, 77m, 77n en 254ba, tweede lid onder a en b, van het Wetboek van Strafrecht.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vernietigt het vonnis waarvan beroep en doet opnieuw recht:</para>
+      <para>Verklaart zoals hiervoor overwogen bewezen dat de verdachte het tenlastegelegde heeft begaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart het bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Veroordeelt de verdachte tot een <emphasis role="bold">taakstraf</emphasis>, bestaande uit een <emphasis role="bold">werkstraf</emphasis> voor de duur van <emphasis role="bold">20 (twintig) uren</emphasis>, indien niet naar behoren verricht te vervangen door <emphasis role="bold">10 (tien) dagen jeugddetentie</emphasis>.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Vordering van de benadeelde partij [benadeelde]</emphasis>
+      </para>
+      <para>Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde] ter zake van het bewezenverklaarde tot het bedrag van <emphasis role="bold">€ 2.500,00 (tweeduizend vijfhonderd euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening</emphasis>.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wijst de vordering tot schadevergoeding voor het overige af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Legt aan de verdachte hoofdelijk de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde] , ter zake van het bewezenverklaarde een bedrag te betalen van € 2.500,00 (tweeduizend vijfhonderd euro) als vergoeding voor immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bepaalt de duur van de gijzeling op ten hoogste 0 (nul) dagen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bepaalt de aanvangsdatum van de wettelijke rente voor de immateriële schade op 7 juni 2025.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de meervoudige strafkamer van het gerechtshof Amsterdam, waarin zitting hadden mr. A.W.T. Klappe, mr. C.J. van der Wilt en mr P.J. van Eekeren, in tegenwoordigheid van mr. C.E. Dongelmans, griffier, en is uitgesproken op de openbare terechtzitting van dit gerechtshof van 8 mei 2025.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is buiten staat dit arrest mede te ondertekenen. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

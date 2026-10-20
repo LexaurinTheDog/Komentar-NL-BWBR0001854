@@ -41,5 +41,8 @@
     "a243"
   ],
   "coverage": "sources/review-batch25-coverage.json",
-  "html_entry_point": "sources/review-batch25-html-fetch.json"
+  "html_entry_point": "sources/review-batch25-html-fetch.json",
+  "bounded_authoring_checks": [
+    "preflight-author-a244-a256-result.json"
+  ]
 }
