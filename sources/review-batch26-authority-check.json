@@ -1,0 +1,41 @@
+{
+  "reviewed_at": "2026-10-20T23:09:55.678127+00:00",
+  "checks": [
+    {
+      "unit": "a244",
+      "path": "authorities/author-a244-a256-ECLI-NL-RBAMS-2025-7824.xml",
+      "sha256": "698b008cf187e348b13abf3dd7e7fc76536d5ccac68dc3bd58d3943968d8648d",
+      "full_text_reviewed": true,
+      "paragraphs": "1–10; met name3.4.2–3.4.3",
+      "card": "authorities/author-a244-a256-RBAMS-2025-7824.md",
+      "limits": "Eigen rechterlijk oordeel onderscheiden van partijstellingen en geciteerde hofmotivering. Geen toegang tot onderliggend dossier. RBAMS verwijst naar bewijsbijlage I die niet in de gepubliceerde XML is opgenomen; relevante eigen motivering staat in3.4.1–3.4.3. Geen uitputtende opvolgingscontrole."
+    },
+    {
+      "unit": "a254ba",
+      "path": "authorities/author-a244-a256-ECLI-NL-GHAMS-2025-1283.xml",
+      "sha256": "29650eea583769a624a2d9e89323d46507055c968ce1170884dc383b2b1bd77a",
+      "full_text_reviewed": true,
+      "paragraphs": "Volledige tekst; Bewezenverklaring, bewijsmiddelen1–4, strafbaarheid en beslissing",
+      "card": "authorities/author-a244-a256-GHAMS-2025-1283.md",
+      "limits": "Eigen rechterlijk oordeel onderscheiden van partijstellingen en geciteerde hofmotivering. Geen toegang tot onderliggend dossier. RBAMS verwijst naar bewijsbijlage I die niet in de gepubliceerde XML is opgenomen; relevante eigen motivering staat in3.4.1–3.4.3. Geen uitputtende opvolgingscontrole."
+    },
+    {
+      "unit": "a255",
+      "path": "authorities/author-a244-a256-ECLI-NL-HR-2022-1410.xml",
+      "sha256": "05de3abe5aa07e5e687de2dd9ba94459ec619cb374f39cdf9915b3f261b62548",
+      "full_text_reviewed": true,
+      "paragraphs": "1–4; met name2.4–2.5",
+      "card": "authorities/author-a244-a256-HR-2022-1410.md",
+      "limits": "Eigen rechterlijk oordeel onderscheiden van partijstellingen en geciteerde hofmotivering. Geen toegang tot onderliggend dossier. RBAMS verwijst naar bewijsbijlage I die niet in de gepubliceerde XML is opgenomen; relevante eigen motivering staat in3.4.1–3.4.3. Geen uitputtende opvolgingscontrole."
+    }
+  ],
+  "search_log": "authorities/author-a244-a256-search-log.json",
+  "local_corpus_evidence": "authorities/author-a244-a256-local-corpus.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "prior_body_comparison": "sources/author-a244-a256-historical-change-map.json",
+    "prior_body_comparison_reviewed": true
+  },
+  "method": "Three retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed."
+}

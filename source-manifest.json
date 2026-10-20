@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/review-batch25-version-evidence.json",
-  "generated_at": "2026-10-20T23:00:43.503850+00:00",
+  "latest_version_evidence": "sources/review-batch26-version-evidence.json",
+  "generated_at": "2026-10-20T23:09:55.678127+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -1030,6 +1030,71 @@
     },
     {
       "path": "sources/author-a227a-a243-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
+      "path": "sources/author-a244-a256-case-law-2022-10-01_0.xml",
+      "bytes": 2497988,
+      "sha256": "ac9d21f4de393ef9913fde50330d96031cb687dd19067ef98e275395a3f77fad"
+    },
+    {
+      "path": "sources/author-a244-a256-case-law-2024-01-01_0.xml",
+      "bytes": 2506076,
+      "sha256": "2ec4a9bb76cc0ebdb17f7eea2f4a41a18809f1a9ee237fb2777739fe16060aa0"
+    },
+    {
+      "path": "sources/author-a244-a256-case-law-2025-01-01_0.xml",
+      "bytes": 2520829,
+      "sha256": "728096aac7b857b65166d71b0563bf8260a57f215d1c77f453ef477dac6ca5e5"
+    },
+    {
+      "path": "sources/author-a244-a256-case-law-version.json",
+      "bytes": 4115,
+      "sha256": "5e1a4ad33108e30383532772914ff2756b2931ae1ea3cccb876592b3d35eb3d8"
+    },
+    {
+      "path": "sources/author-a244-a256-coverage.json",
+      "bytes": 20832,
+      "sha256": "48a4afa29c139a80368a462f87d3323960270082ed1b9ee5a2e188753d773961"
+    },
+    {
+      "path": "sources/author-a244-a256-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/author-a244-a256-fetch-log.json",
+      "bytes": 4531,
+      "sha256": "1bbc13c0b898ab3127d635426e14408f4a9f91d3d635a02f338d027ae8484e22"
+    },
+    {
+      "path": "sources/author-a244-a256-historical-change-map.json",
+      "bytes": 3685,
+      "sha256": "afa77bbeaa624854e56de7aedc228864935e039c81829c4faa0d372c3fd388e4"
+    },
+    {
+      "path": "sources/author-a244-a256-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/author-a244-a256-official.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/author-a244-a256-previous.xml",
+      "bytes": 2544128,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1"
+    },
+    {
+      "path": "sources/author-a244-a256-version-evidence.json",
+      "bytes": 166300,
+      "sha256": "fe4f873179fe8d74bdba40487c9c2afa3efe769976ad9f1cb9bf47309fe60547"
+    },
+    {
+      "path": "sources/author-a244-a256-wti.xml",
       "bytes": 27846974,
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
@@ -3789,6 +3854,56 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch26-authority-check.json",
+      "bytes": 2805,
+      "sha256": "833987ac8883b3b74ff5f9f0a336d16214594b7e107951d0ae0fafb7ae160836"
+    },
+    {
+      "path": "sources/review-batch26-before.json",
+      "bytes": 44547,
+      "sha256": "43abdf0cf126792cac5db11a04fefeb0e382f5531f89300c5e081ebf7046f346"
+    },
+    {
+      "path": "sources/review-batch26-coverage.json",
+      "bytes": 20828,
+      "sha256": "cc83e125e637ea80b308249b361f7439e11bc9c460e34810cc81d273e8a86f33"
+    },
+    {
+      "path": "sources/review-batch26-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch26-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "ad71f5ac091e0b89c4f2acd000df653e6de94301bd85f5bf6e87a6113b4df874"
+    },
+    {
+      "path": "sources/review-batch26-html-fetch.json",
+      "bytes": 511,
+      "sha256": "7e5ffcef06bbbfbce8d1a4957d6902c30a8250b7a2f127ca440e26b42342f14a"
+    },
+    {
+      "path": "sources/review-batch26-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch26-version-evidence.json",
+      "bytes": 166290,
+      "sha256": "7423e96a8ebc8cf491d7a3de43bdbbbf9e84ec13b89d1c1bbfed035317801ce4"
+    },
+    {
+      "path": "sources/review-batch26-wetten.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/review-batch26-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -3800,8 +3915,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 238005,
-      "sha256": "8f44ad73b8614eeaa1a47b3fd0166d99decb4fcb8cbcb120f444f839bf8c6bcd"
+      "bytes": 245033,
+      "sha256": "5c3a41453c499c02a48615d87eca31bdef48acaaa8dd1c4cedf3c40620b1747d"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -4547,6 +4662,71 @@
       "path": "authorities/author-a227a-a243-search-log.json",
       "bytes": 1017,
       "sha256": "51fb7fedd98db2e4716e0966234f86fec8271fea4a36bc83a712668bce25b13c"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-GHAMS-2025-1283.txt",
+      "bytes": 20556,
+      "sha256": "e7c7044c8877eaae5b48ddb70154eff8367231b0270100348ff50b60a4960572"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-GHAMS-2025-1283.xml",
+      "bytes": 29912,
+      "sha256": "29650eea583769a624a2d9e89323d46507055c968ce1170884dc383b2b1bd77a"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-HR-2022-1410.txt",
+      "bytes": 9205,
+      "sha256": "c208a2eb31aa99c665554f1661a0f1b1d54d9dbf8ad3081ffc9f360ca44bc304"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-HR-2022-1410.xml",
+      "bytes": 16208,
+      "sha256": "05de3abe5aa07e5e687de2dd9ba94459ec619cb374f39cdf9915b3f261b62548"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-RBAMS-2025-7824.txt",
+      "bytes": 54253,
+      "sha256": "bb944e524143eb297c0d5cdabab8255c0432569e7220e1a1a330c74332cd8867"
+    },
+    {
+      "path": "authorities/author-a244-a256-ECLI-NL-RBAMS-2025-7824.xml",
+      "bytes": 68139,
+      "sha256": "698b008cf187e348b13abf3dd7e7fc76536d5ccac68dc3bd58d3943968d8648d"
+    },
+    {
+      "path": "authorities/author-a244-a256-GHAMS-2025-1283.md",
+      "bytes": 1641,
+      "sha256": "45045dad603c5cc8f826856cedff1d5557425ddb86fbc3b0fb8641636c5c4506"
+    },
+    {
+      "path": "authorities/author-a244-a256-HR-2022-1410.md",
+      "bytes": 1395,
+      "sha256": "8aff825df9871811b49a1ddf77fbc3735624a3875290347e55435c676572a698"
+    },
+    {
+      "path": "authorities/author-a244-a256-RBAMS-2025-7824.md",
+      "bytes": 1399,
+      "sha256": "c8bed8c05dc38b18c6a32a8c492cbc5a7797215bb019d388bd0a675be06a06a5"
+    },
+    {
+      "path": "authorities/author-a244-a256-fetch-log.json",
+      "bytes": 1067,
+      "sha256": "0305733d38172a49fd44593c104febb0623a2d3c45ef4fcc138551a0de9a24be"
+    },
+    {
+      "path": "authorities/author-a244-a256-local-HR-2022-1410.md",
+      "bytes": 9919,
+      "sha256": "1b85725d2b3a520389d90fde0f69e398054051f3c76fe954f232553b491ec65d"
+    },
+    {
+      "path": "authorities/author-a244-a256-local-corpus.json",
+      "bytes": 691,
+      "sha256": "8aa3947bc49e62ae0da237234fcd411d6ec4b33f040cb0cddeb7e8e82988d04e"
+    },
+    {
+      "path": "authorities/author-a244-a256-search-log.json",
+      "bytes": 1411,
+      "sha256": "9c9d18eae45d8e9f27d7b4e7ba2b1996443c99de03aa69ed85851e99b013b187"
     },
     {
       "path": "authorities/author-a92-a100-search-log.json",

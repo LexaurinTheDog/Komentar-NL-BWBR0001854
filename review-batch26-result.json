@@ -1,0 +1,236 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a244",
+    "a245",
+    "a246",
+    "a247",
+    "a248",
+    "a249",
+    "a250",
+    "a250a",
+    "a251",
+    "a252",
+    "a253",
+    "a253a",
+    "a254",
+    "a254a",
+    "a254b",
+    "a254ba",
+    "a254c",
+    "a254d",
+    "a255",
+    "a256"
+  ],
+  "unresolved_blockers": [],
+  "verified_at": "2026-10-20T23:09:55.678127+00:00",
+  "source_preflight": "sources/review-batch26-version-evidence.json",
+  "findings": [
+    {
+      "id": "a244",
+      "reviewed": true,
+      "finding": "Artikel244 volledig tegen officiële tekst gelezen: niet uitputtende ontbrekende-wilregel, functionele beperking bij psychische toestanden en afzonderlijke schuld/opzet-toets. RBAMS3.4.2–3.4.3 en beslissing volledig herlezen.",
+      "changed": false,
+      "source_text_sha256": "4ea624118c77802f2ae61b6b10eec165734333b54388a14317ea8ed27e4f1234",
+      "commentary_before_sha256": "6eeeb374e2648749bb93c9e4c2eb679d833d328e87511a39cd2a982d013bfc76",
+      "commentary_after_sha256": "6eeeb374e2648749bb93c9e4c2eb679d833d328e87511a39cd2a982d013bfc76"
+    },
+    {
+      "id": "a245",
+      "reviewed": true,
+      "finding": "Beide leden, alle a–d-gronden, zestien/achttiengrens, zes/achtjaarmaxima, vierde/vijfde categorie en beperkte leeftijdsgenotenuitzondering elders gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "aa87c3bb03a7c75348ce768f90219ddb4c4080451b8449223bf4be48645c7a8a",
+      "commentary_before_sha256": "14f6605094095e328c75d7ddd71bfa2db676011cc8ce4220422c6ebe26359655",
+      "commentary_after_sha256": "14f6605094095e328c75d7ddd71bfa2db676011cc8ce4220422c6ebe26359655"
+    },
+    {
+      "id": "a246",
+      "reviewed": true,
+      "finding": "Binnendringen en alle a–d-gronden, beide leden, negen/twaalfjaarmaxima, vijfde categorie en verhouding239/245/254 gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "31929dc09bb3096a990fd8983cc277e16c6796454b79b8f683613b16291dfd9c",
+      "commentary_before_sha256": "2c48a2200a740a7ef79953f98e78e4f07241edcc7b2ee7535951d7f83d503a36",
+      "commentary_after_sha256": "2c48a2200a740a7ef79953f98e78e4f07241edcc7b2ee7535951d7f83d503a36"
+    },
+    {
+      "id": "a247",
+      "reviewed": true,
+      "finding": "Twaalf/zestiengrens, achtjaar en tienjaarachtmaanden, aparte dwangvariant en twee cumulatieve lid3-voorwaarden gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "01c27e5e622752c153fb354f21ddf2d71ded85887396446ec64cbb9db9b764c6",
+      "commentary_before_sha256": "919f4f5f89c8b522998735735d3196e80acc9e150bdb4c191c00861639f7a497",
+      "commentary_after_sha256": "919f4f5f89c8b522998735735d3196e80acc9e150bdb4c191c00861639f7a497"
+    },
+    {
+      "id": "a248",
+      "reviewed": true,
+      "finding": "Binnendringen, twaalf/vijftienjaar, vijfde categorie, eigen lid3-uitzondering en ontbreken numerieke leeftijdstabel nagelezen.",
+      "changed": false,
+      "source_text_sha256": "76e386dc81a915fc304e3bc752baff969b9acb98b5e17525bce7365327935265",
+      "commentary_before_sha256": "ed0c66cb0403b3e1f6d190d1765dc10a4702bf6297a06e6c3ea6559ca8c9800c",
+      "commentary_after_sha256": "ed0c66cb0403b3e1f6d190d1765dc10a4702bf6297a06e6c3ea6559ca8c9800c"
+    },
+    {
+      "id": "a249",
+      "reviewed": true,
+      "finding": "Beneden twaalf, seksuele aard, tienjaar/dertienjaarviermaanden, vijfde categorie en afwezigheid eigen leeftijdsgenotenuitzondering gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "8edfb9f1732ead0dc35987add0979344574a3778d6e3c5d51be0640e928c0c5f",
+      "commentary_before_sha256": "f48a61d72060ae29b2fce3858b0243138319798bb3621f58c26ad62a3ea48a1f",
+      "commentary_after_sha256": "f48a61d72060ae29b2fce3858b0243138319798bb3621f58c26ad62a3ea48a1f"
+    },
+    {
+      "id": "a250",
+      "reviewed": true,
+      "finding": "Leeftijd, binnendringen, vijftien/achttienjaarmaxima, vijfde categorie,239-uitbreiding en254-gevolgen gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "565586fa9a8b9f0b5e66fd5a71efeb37fb58a20bb9f981ac4edac60d19718f88",
+      "commentary_before_sha256": "45a19b1eddd30deb9e41e5c60c8279cb4272ef1ae3ed1958b5e4e631b4164775",
+      "commentary_after_sha256": "45a19b1eddd30deb9e41e5c60c8279cb4272ef1ae3ed1958b5e4e631b4164775"
+    },
+    {
+      "id": "a250a",
+      "reviewed": true,
+      "finding": "Alle verschaffings-, poging-, kennis- en vaardigheidsroutes, opzet, doelbinding, verwijzing247–250 en vierjaarmaximum gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "ea134d73ff456b6e8e376d2fb9cc2c499e53095c014bbc40752f8e2454d34c0b",
+      "commentary_before_sha256": "2c9b11868d8e0ee34f8c481120cde11046af6b8a7d787c40e2e5d374adc9b50f",
+      "commentary_after_sha256": "2c9b11868d8e0ee34f8c481120cde11046af6b8a7d787c40e2e5d374adc9b50f"
+    },
+    {
+      "id": "a251",
+      "reviewed": true,
+      "finding": "Alle drie leden, leeftijdsgroepen, lokpersonen, drie gedragingen, schadelijkheid en beperkte uitzondering lid3 en twee sanctiekaders gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "8cfdf46a6f3bf6cd05bf81e0d284ff8220c665362837862cb01532d842721f81",
+      "commentary_before_sha256": "3795f6cf58520cd7d4761d3e502762863fd3cd0149c45e6c7f415804960c15ff",
+      "commentary_after_sha256": "3795f6cf58520cd7d4761d3e502762863fd3cd0149c45e6c7f415804960c15ff"
+    },
+    {
+      "id": "a252",
+      "reviewed": true,
+      "finding": "Object met kennelijke minderjarigheid/schijnbare betrokkenheid en alle tien handelingen gecontroleerd; openlijk tentoonstellen in toelichting expliciet toegevoegd.239lid3 en254lid1c gecontroleerd.",
+      "changed": true,
+      "source_text_sha256": "a219e2d89bec776c9a5ef5a927b0d636120facee0950d47a45e35432089d1c87",
+      "commentary_before_sha256": "d6f452a1f991b4fde45c10ab0118613fd85ad022541c8987815044a3e1d9cdb9",
+      "commentary_after_sha256": "56225a90b8ad6675005fffade38dcd9a12e14dfaf24aba5b027210f74969b85f"
+    },
+    {
+      "id": "a253",
+      "reviewed": true,
+      "finding": "Opzettelijk bijwonen, beide voorstellingsalternatieven en zesjaarmaximum gelezen; naast seksuele aard ook onmiskenbare seksuele strekking expliciet gemaakt.",
+      "changed": true,
+      "source_text_sha256": "265dab57acdc58f8ad7bf30186a663afd541d4bff3cb845cfe885b98f2e63379",
+      "commentary_before_sha256": "c970d7d4f989476054e2c57ca7972db605b333b5e70579c40df08d745d184412",
+      "commentary_after_sha256": "eedb1b4ab416db232976482bda06f95025ed0f48d8279c786a4f5a00aeb76e24"
+    },
+    {
+      "id": "a253a",
+      "reviewed": true,
+      "finding": "Voorwerp/lichaamsdeel, uiterlijke leeftijd beneden zestien, seksuele bestemming, negen handelingen, vierjaarmaximum en beperkte verwijzingen254/254a gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "e6c322eedb0b5d2d316a03ed6f9005667cbc022a0c43dbad916a8d6fe4f4b394",
+      "commentary_before_sha256": "9a37a890fc3a5513c93058847d197f6b2cd4adc4b3c3f596d736522a6f4f5680",
+      "commentary_after_sha256": "9a37a890fc3a5513c93058847d197f6b2cd4adc4b3c3f596d736522a6f4f5680"
+    },
+    {
+      "id": "a254",
+      "reviewed": true,
+      "finding": "Alle leden, a–e en b1–3, precieze verwijzingsreeksen, letsel/gevaar/dood en maxima nagelezen. Beroep naast gewoonte als alternatieve grond verduidelijkt; geen algemene regelmaatseis voor beide.",
+      "changed": true,
+      "source_text_sha256": "7a43f77176324388a92b35c92ab7cd6c3f065b171fc4e1e409519ffcf33cd4c7",
+      "commentary_before_sha256": "67b23b96fe3dbe2026770115f1cf4f7bfbf8f83ac17bfcd9df308df0814ef256",
+      "commentary_after_sha256": "38d1a6498340d26adf37abb2c50ab31b07e14e06a49ac7854eb66ef2e5de6dd4"
+    },
+    {
+      "id": "a254a",
+      "reviewed": true,
+      "finding": "Beide leden en240–253-reeks gecontroleerd; rechten28lid1onder1/2/4 en eigen beroepsverband onderscheiden, kan-karakter behouden.",
+      "changed": false,
+      "source_text_sha256": "7caf363cbc8f6aac576253e7cd1859efed1d3b0407bcf36ec0dc7eae2fff5300",
+      "commentary_before_sha256": "0c209e8ae34dc031cb57537f467599b9219e7174c9dedfe90f6b32fd223dd4b3",
+      "commentary_after_sha256": "0c209e8ae34dc031cb57537f467599b9219e7174c9dedfe90f6b32fd223dd4b3"
+    },
+    {
+      "id": "a254b",
+      "reviewed": true,
+      "finding": "Openbare en niet-openbare route, opzet, eerbaarheid, onvrijwillige aanwezige en zesmaanden/derdecategorie gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "2ed62e9bfd09f1199be8b6b3f402421493cd2fadf6be6551353d5e25c9956943",
+      "commentary_before_sha256": "e138cb64da144b140aa5cd9f0d9f59643ed2c367afe40d7b012be49bfeb432dc",
+      "commentary_after_sha256": "e138cb64da144b140aa5cd9f0d9f59643ed2c367afe40d7b012be49bfeb432dc"
+    },
+    {
+      "id": "a254ba",
+      "reviewed": true,
+      "finding": "Vier routes afzonderlijk gelezen: vervaardiging, beschikking en twee openbaarmakingen. Beschikkende persoon/openbaarmaker onderscheiden van afgebeelde persoon. GHAMS volledig herlezen en139h-vergelijking gecontroleerd.",
+      "changed": true,
+      "source_text_sha256": "ddb1885d30389c19929d6f57b7ee3b4e770799a3c79888c123187eb65d5b386a",
+      "commentary_before_sha256": "3b829eebbac6a87b0f1af2d26dbcf1641b02c327bd8d6b797c6326612838ecdc",
+      "commentary_after_sha256": "237e23f9959a8ef16833716516ab39c22566cb13494a7fa219b9e28d94ee5680"
+    },
+    {
+      "id": "a254c",
+      "reviewed": true,
+      "finding": "Beide leden, mens/dier en schijnbare betrokkenheid, zeven handelingen, ontbreken aparte toegangsroute en zesmaanden/eenjaar met derde/vierde categorie gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "2006c838241c2e062634cc27b43ddc9a56ed43aef882bb3b8398fd958d7f10cc",
+      "commentary_before_sha256": "5e3390e012827a124c5c5c260930ca435bed6af3d5ec3767d445075e5a987a34",
+      "commentary_after_sha256": "5e3390e012827a124c5c5c260930ca435bed6af3d5ec3767d445075e5a987a34"
+    },
+    {
+      "id": "a254d",
+      "reviewed": true,
+      "finding": "Alle varianten verrichten/laten verrichten/laten ondergaan, derde en dier zelf, achttienmaandenmaximum en onderscheid254c gecontroleerd; thematische checklist beoordeeld.",
+      "changed": false,
+      "source_text_sha256": "498d05d03bba682de7018c15f68ab7e0d60034e2b4a2cddaeeec08f71a9414db",
+      "commentary_before_sha256": "3925390bef2d46b172df4f8c437c22f85795382546d211ecc02ae7678bb2d884",
+      "commentary_after_sha256": "3925390bef2d46b172df4f8c437c22f85795382546d211ecc02ae7678bb2d884"
+    },
+    {
+      "id": "a255",
+      "reviewed": true,
+      "finding": "Wet/overeenkomst, onderhoud/verpleging/verzorging, opzet en hulpeloosheid en tweejaarmaximum gecontroleerd. HR volledige tekst herlezen: zelfstandige delictsvervulling per persoon, geen uitspraak dat elk incident nieuw feit is.",
+      "changed": false,
+      "source_text_sha256": "4ab53824b5f428ede4927aa2c726b5d70d41123896b18437bd6a0552dceaf958",
+      "commentary_before_sha256": "4ba3d6fe4136e43e3e16730dee10d9c516fbbf039915b43c2513be8bc4215f3a",
+      "commentary_after_sha256": "4ba3d6fe4136e43e3e16730dee10d9c516fbbf039915b43c2513be8bc4215f3a"
+    },
+    {
+      "id": "a256",
+      "reviewed": true,
+      "finding": "Beneden zeven, twee alternatieven en bijzonder oogmerk bij verlaten, vierjaarzesmaandenmaximum,257–259 en fictieve overdrachtsvoorbeelden gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "48a580e017e3e1cbf4c8fd6d1b5ace77f23a230337a648e275cf9f61126449b8",
+      "commentary_before_sha256": "bab658a098be5c4ffbe25acc9159cefc6290f4e8981db8f5ea887ab31f501453",
+      "commentary_after_sha256": "bab658a098be5c4ffbe25acc9159cefc6290f4e8981db8f5ea887ab31f501453"
+    }
+  ],
+  "limitations": [
+    "Exactly twenty assigned units reviewed; whole manuscript remains incomplete. No separate survey of external care, child-protection or privacy regimes beyond the cited Sr provisions.",
+    "Three retained full primary judgments reread; prior selective national-corpus research checked. No exhaustive later-case search or comprehensive finality check.",
+    "No external professional approval."
+  ],
+  "other_commentary_files_unchanged": true,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 838824,
+    "errors": [
+      "krátký/chybějící komentář u 292 jednotek: ['a257(0<400)', 'a258(0<400)', 'a259(0<400)', 'a260(0<400)', 'a261(0<400)', 'a262(0<400)', 'a265(0<400)', 'a266(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
