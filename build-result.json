@@ -1,9 +1,9 @@
 {
   "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-  "checked_at": "2026-10-20T17:42:45.340497+00:00",
+  "checked_at": "2026-10-20T17:52:25.313230+00:00",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
   "full_inventory_units": 812,
-  "bounded_review_ids": "review-batch10-result.json"
+  "bounded_review_ids": "review-batch11-result.json"
 }

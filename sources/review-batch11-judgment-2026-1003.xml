@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2026:1003</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-10-01T10:03:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-06-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">26/00090</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatieInHetBelangDerWet">Cassatie in het belang der wet</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2026:250" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2026:250</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2026/1366</rdf:li>
+          <rdf:li>RvdW 2026/771</rdf:li>
+          <rdf:li>FJR 2026/60.5</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:1003">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:1003</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-29T12:14:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2026:1003 Hoge Raad , 30-06-2026 / 26/00090</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2026:1003:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Cassatie in het belang van de wet. Voorwaardelijke PIJ-maatregel opgelegd in jeugdzaak, dadelijke uitvoerbaarheid van voorwaarden. Kunnen aan voorwaardelijke PIJ-maatregel verbonden voorwaarden en toezicht op naleving van bijzondere voorwaarden dadelijk uitvoerbaar worden bevolen?</para>
+        <para>Rechter kan in gevallen omschreven in art. 77s Sr PIJ-maatregel opleggen en daarbij o.g.v. art. 77x.2 Sr bepalen dat deze maatregel niet zal worden tenuitvoergelegd en daarbij bijzondere voorwaarden a.b.i. art. 77z.2 St stellen. Als rechter zo’n voorwaardelijke PIJ-maatregel oplegt, stelt hij daarbij o.g.v. art. 77y.1 Sr proeftijd vast van ten hoogste 2 jaren. Art. 77za Sr houdt in dat rechter bij zijn uitspraak kan bevelen dat o.g.v. art. 77z Sr gestelde voorwaarden en o.g.v. art. 77aa Sr uit te oefenen toezicht dadelijk uitvoerbaar zijn als er ernstig rekening mee moet worden gehouden dat veroordeelde wederom misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor onaantastbaarheid van lichaam van een of meer personen. Als rechter bevel a.b.i. art. 77za Sr geeft, gaat o.g.v. art. 77y.2.c Sr proeftijd in op dag van einduitspraak.</para>
+        <para>Tegen deze achtergrond getuigt oordeel van Rb dat m.b.t. voorwaardelijke PIJ-maatregel dadelijke uitvoerbaarheid kon worden bevolen van gestelde voorwaarden en van toezicht op naleving van bijzondere voorwaarden, niet van onjuiste rechtsopvatting. Daarbij is van belang dat totstandkomingsgeschiedenis van hiervoor genoemde bepalingen zich niet verzet tegen dit oordeel van Rb zoals dat voortvloeit uit toepasselijke wettelijke bepalingen (art. 77s, 77x, 77y, 77z, 77za en 77aa Sr en art. 6:2:22, 6:3:15, 6:6:6, 6:6:10a, 6:6:20, 6:6:21, 6:6:31 en 6:6:32 Sv). </para>
+        <para>HR merkt nog op dat art. 6:6:32.6 Sv voorziet in bevoegdheid van rechter die voorwaarden heeft gesteld i.v.m. voorwaardelijke PIJ-maatregel, om alsnog tul van maatregel te bevelen in gevallen die in deze bepaling worden genoemd. Deze bepaling of enige andere wettelijke bepaling voorziet niet in mogelijkheid om zo’n beslissing te nemen zolang uitspraak waarbij voorwaardelijke PIJ-maatregel is opgelegd, nog niet onherroepelijk is, en ook niet in mogelijkheid om in dat stadium toepassing te geven aan art. 6:6:10a Sv, 6:6:20 Sv of 6:6:21 Sv (vgl. HR:2024:1729). </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2026:1003:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>26/00090 CW</para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>30 juni 2026</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie in het belang van de wet tegen een vonnis van de rechtbank Gelderland van 28 mei 2024, nummer 05-130657-23, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte],</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 2006,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De uitspraak van de rechtbank</title>
+    <para>Bij de uitspraak van de rechtbank is de verdachte voor poging tot doodslag veroordeeld tot een jeugddetentie van 193 dagen en een voorwaardelijke maatregel van plaatsing in een inrichting voor jeugdigen (hierna: PIJ-maatregel) met een proeftijd van twee jaren. De rechtbank heeft bevolen dat de gestelde voorwaarden en het toezicht op de naleving van de bijzondere voorwaarden dadelijk uitvoerbaar zijn.</para>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het cassatieberoep</title>
+    <para>De advocaat-generaal V.M.A. Sinnige heeft beroep in cassatie in het belang van de wet ingesteld tegen de beslissing van de rechtbank. De vordering strekt tot vernietiging van de uitspraak van de rechtbank. </para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het cassatiemiddel klaagt dat de rechtbank ten onrechte de dadelijke uitvoerbaarheid heeft bevolen van de aan de voorwaardelijke PIJ-maatregel verbonden voorwaarden en van het toezicht op de naleving van de bijzondere voorwaarden.</para>
+      <paragroup>
+        <nr>3.2.1</nr>
+        <parablock>
+          <para>De rechtbank heeft over de oplegging van de voorwaardelijke PIJ-maatregel en het bevel tot dadelijke uitvoerbaarheid van de daaraan verbonden voorwaarden en van het toezicht overwogen:</para>
+          <para>“<emphasis role="italic">PIJ-maatregel</emphasis></para>
+          <para>De rechtbank is van oordeel dat aan de wettelijke vereisten voor het opleggen van een PIJ-maatregel, zoals vermeld in artikel 77s van het Wetboek van Strafrecht (Sr) is voldaan. De bewezenverklaarde feiten zijn misdrijven waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld. Op grond van wat de psycholoog en de psychiater naar voren hebben gebracht, is de rechtbank tot het oordeel gekomen dat bij de verdachte ten tijde van het begaan van de misdrijven een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond en daarnaast de veiligheid van anderen en de algemene veiligheid van personen en goederen het opleggen van een PIJ-maatregel eisen. Bovendien is deze maatregel in het belang van een zo gunstig mogelijke verdere ontwikkeling van de verdachte. De rechtbank zal daarom deze maatregel bevelen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank heeft verder acht geslagen op de rapportages van de psychiater en de psycholoog. Alle deskundigen achten van belang dat verdachte voor zijn problematiek een intensieve en passende klinische behandeling zal krijgen, die hij volledig afrondt. De vraag is of een dergelijke behandeling binnen een voorwaardelijke PIJ kan worden vorm gegeven. De rechtbank is van oordeel dat dit het geval is en overweegt hiertoe als volgt. De rechtbank denkt dat de groeikansen van verdachte groter worden wanneer behandeling plaatsvindt vanuit een meer intrinsieke motivatie, zoals nu het geval lijkt te zijn sinds zijn plaatsing in [A]. Er lijkt dus geen sprake te zijn van een jarenlange opbouw van delicten, dan wel een criminele carrière. Verdachte heeft ook nooit eerder behandeling gehad. Dit zijn argumenten die overtuigend pleiten voor oplegging van een voorwaardelijke maatregel.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank geeft verdachte hiermee een kans en verwacht van verdachte dat hij die kans ook benut. De rechtbank acht de forse ‘stok achter de deur’ in de vorm van een voorwaardelijke PIJ-maatregel op dit punt afdoende waarborg. Komt tijdens de proeftijd de behandeling van verdachte (verwijtbaar) onvoldoende van de grond of blijkt verdachte toch nog in aanraking te komen met justitie en politie, dan wacht hem de onvoorwaardelijke PIJ-maatregel. Omdat sprake is van misdrijven gericht tegen of gevaar veroorzakend voor de onaantastbaarheid van het lichaam van één of meer personen, kan die maatregel, gelet op het bepaalde in artikel 6:6:31 van het Wetboek van Strafvordering, ook telkens voor de duur van twee jaren worden verlengd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank zal aan de voorwaardelijke PIJ-maatregel de bijzondere voorwaarden verbinden zoals geadviseerd. De rechtbank zal daarbij bepalen dat verdachte klinisch wordt behandeld in [A] (of een soortgelijke instelling). De rechtbank stelt bij de aan de PIJ-maatregel verbonden voorwaarden de proeftijd vast op twee jaren.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Dadelijk uitvoerbaar</emphasis>
+          </para>
+          <para>De rechtbank zal de bijzondere voorwaarden en het toezicht door de jeugdreclassering dadelijk uitvoerbaar verklaren.</para>
+          <para>Verdachte heeft zich schuldig gemaakt aan een misdrijf dat gericht is tegen dan wel gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen. Zonder behandeling bestaat gevaar op herhaling. Verdachte doet het nu vooral goed omdat hij weet dat hem anders een onvoorwaardelijke PIJ-maatregel boven het hoofd hangt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank wijkt hiermee af van de door het gerechtshof Arnhem-Leeuwarden ingezette lijn (ECLI:NL:GHARL:2024:788). De rechtbank ziet namelijk in de tekst van de wet, de bedoeling van de wetgever en in het doel van de voorwaardelijke PIJ-maatregelen voldoende argumenten om wel over te gaan tot het dadelijk uitvoerbaar verklaren van de voorwaarden.</para>
+          <para>De rechtbank verwijst in de eerste plaats naar de wettekst van de artikelen 77x lid 2 Sr, 77z Sr en 77za Sr.</para>
+          <para>Daarnaast verwijst de rechtbank naar de kamerstukken 32 319, nr. 3 (Mvt). Daaruit volgt dat het doel van het dadelijk uitvoerbaar verklaren is om te voorkomen dat een veroordeelde door het instellen van hoger beroep zich aan het toezicht van justitie onttrekt. De rechtbank vindt dat dit doel evenzo goed – zo niet des te meer – bestaat bij een voorwaardelijke PIJ-maatregel. Dat de voorwaardelijke PIJ-maatregel niet met zoveel woorden is genoemd in deze kamerstukken betekent niet zonder meer dat bedoeld is om deze uit te sluiten van de mogelijkheid uitvoerbaar bij voorraad te verklaren. Zeker niet als deze kamerstukken worden bezien in het licht van de nota van wijziging (kamerstukken 33 498, nr. 7). Hierin wordt beoogd de gedragsbeïnvloedende maatregel meer in lijn te brengen met de regeling die is neergelegd in 77za Sr. In de nota van wijziging is over de gedragsbeïnvloedende maatregel het volgende te lezen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>“Daarmee wordt de regeling eveneens meer in lijn gebracht met de regeling die voor voorwaardelijke sancties is neergelegd in artikel 77za Sr. Daar is de <emphasis role="italic">uitvoerbaarheid bij voorraad geregeld</emphasis> van de voorwaardelijk opgelegde jeugddetentie <emphasis role="italic">en de voorwaardelijk opgelegde pij-maatregel</emphasis>” (cursief rechtbank). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tot slot verwijst de rechtbank naar de uitspraak van de HR van 24 januari 2023 ECLI:NL:HR:2023:70. Deze uitspraak ziet op een door het gerechtshof opgelegde PIJ-maatregel waarbij de bijzondere voorwaarden en het toezicht dadelijk uitvoerbaar zijn verklaard in het onderliggende vonnis van het gerechtshof. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank zal het inmiddels geschorste bevel tot voorlopige hechtenis van verdachte opheffen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>Het vonnis van de rechtbank houdt verder onder meer in:</para>
+          <para>“<emphasis role="bold">11. De beslissing</emphasis></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• legt op <emphasis role="bold">de maatregel van plaatsing in een inrichting voor jeugdigen</emphasis>;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• bepaalt dat deze maatregel niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten, omdat verdachte zich voor het einde van de proeftijd van twee jaren niet heeft gehouden aan de hierna te melden voorwaarden:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• stelt als algemene voorwaarde dat verdachte zich niet schuldig maakt aan een strafbaar feit;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• stelt als bijzondere voorwaarden dat:</para>
+          <para>- verdachte meewerkt aan plaatsing en klinische behandeling in een forensische setting zoals [A] of een soortgelijke instelling te bepalen door de reclassering en zich houdt aan de huisregels van deze instelling;</para>
+          <para>- verdachte vervolgens meewerkt aan ambulante behandeling door een nader door de reclassering te bepalen behandelinstelling;</para>
+          <para>- verdachte zich zal inzetten voor dagbesteding die aansluit bij zijn draagkracht, zich zal houden aan de afspraken met de reclassering en niet van dagbesteding zal veranderen zonder overleg en toestemming van de reclassering;</para>
+          <para>- verdachte zich zal onthouden van telefoon en socialmedia gebruik;</para>
+          <para>- verdachte gedurende de proeftijd op geen enkele wijze – direct of indirect – contact zal opnemen, zoeken of hebben met [naam 1], zolang het Openbaar Ministerie dit nodig vindt;</para>
+          <para>verdachte meewerkt aan deze voorwaarden voor zo lang de jeugdreclassering dat nodig acht;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• stelt als overige voorwaarden dat:</para>
+          <para>- verdachte zijn medewerking zal verlenen aan het ten behoeve van het vaststellen van zijn identiteit afnemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage zal aanbieden;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>- verdachte zijn medewerking zal verlenen aan het reclasseringstoezicht als bedoeld in artikel 77aa, eerste tot en met vierde lid, van het Wetboek van Strafrecht. De medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang de reclassering dit noodzakelijk acht zijn daaronder begrepen;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• geeft opdracht aan de gecertificeerde instelling Jeugdbescherming Gelderland afdeling Jeugdreclassering, tot het houden van toezicht op de naleving van deze bijzondere voorwaarden en tot begeleiding van verdachte ten behoeve daarvan;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• beveelt dat de gestelde voorwaarden en het toezicht dadelijk uitvoerbaar zijn;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>• heft op het – geschorste – bevel tot voorlopige hechtenis.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>De volgende bepalingen zijn van belang.</para>
+        <para>- Artikel 77s lid 1 en 7 van het Wetboek van Strafrecht (hierna: Sr):</para>
+        <para>“1. Aan de verdachte bij wie ten tijde van het begaan van het misdrijf een gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond, kan de maatregel van plaatsing in een inrichting voor jeugdigen worden opgelegd, indien:</para>
+        <para>a. het feit waarvoor de maatregel wordt opgelegd, een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld dan wel behoort tot een der misdrijven omschreven in de artikelen 132, 285, eerste lid, 285b en 395 van het Wetboek van Strafrecht, 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994, en 11, tweede lid, van de Opiumwet, en</para>
+        <para>b. de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen het opleggen van die maatregel eist, en</para>
+        <para>c. de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkeling van de verdachte.</para>
+        <para>7. De maatregel geldt voor de tijd van drie jaar.”</para>
+        <para>- Artikel 77x lid 2 Sr:</para>
+        <para>“In geval van een veroordeling tot plaatsing in een inrichting voor jeugdigen kan de rechter bepalen dat deze niet ten uitvoer zal worden gelegd. Artikel 6:6:10a van het Wetboek van Strafvordering is van overeenkomstige toepassing.”</para>
+        <para>- Artikel 77y Sr:</para>
+        <para>“1. De rechter die bepaalt dat een door hem opgelegde straf of maatregel niet zal worden ten uitvoer gelegd, stelt daarbij een proeftijd vast van ten hoogste twee jaren.</para>
+        <para>2. De proeftijd gaat in:</para>
+        <para>(...)</para>
+        <para>c. indien de rechter een bevel als bedoeld in artikel 77za (...) heeft gegeven, op de dag van de einduitspraak.”</para>
+        <para>- Artikel 77z Sr:</para>
+        <para>“1. Toepassing van artikel 77x geschiedt onder de algemene voorwaarde dat de veroordeelde zich voor het einde van de proeftijd niet schuldig maakt aan een strafbaar feit.</para>
+        <para>2. Bij toepassing van artikel 77x kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:</para>
+        <para>1°. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;</para>
+        <para>2°. geheel of gedeeltelijk herstel van de door het strafbare feit veroorzaakte schade;</para>
+        <para>3°. storting van een door de rechter vast te stellen waarborgsom, ten hoogste gelijk aan het verschil tussen het maximum van de geldboete die voor het feit kan worden opgelegd en de opgelegde boete;</para>
+        <para>4°. storting van een door de rechter vast te stellen geldbedrag in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen. Het bedrag kan niet hoger zijn dan de geldboete die ten hoogste voor het strafbare feit kan worden opgelegd;</para>
+        <para>5°. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;</para>
+        <para>6°. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;</para>
+        <para>7°. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;</para>
+        <para>8°. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;</para>
+        <para>9°. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;</para>
+        <para>10°. opneming van de veroordeelde in een zorginstelling;</para>
+        <para>11°. een verplichting zich onder behandeling te stellen van een deskundige of zorginstelling;</para>
+        <para>12°. het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang;</para>
+        <para>13°. het deelnemen aan een gedragsinterventie;</para>
+        <para>14°. het volgen van onderwijs, gedurende een bepaalde termijn, ten hoogste gelijk aan de proeftijd;</para>
+        <para>15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.</para>
+        <para>3. Indien bij de toepassing van artikel 77x een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:</para>
+        <para>a. ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt; en</para>
+        <para>b. medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 77aa, eerste tot en met het vierde lid, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.</para>
+        <para>4. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.</para>
+        <para>5. De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.”</para>
+        <para>- Artikel 77za Sr:</para>
+        <para>“De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van artikel 77z gestelde voorwaarden, en het op grond van artikel 77aa uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.”</para>
+        <para>- Artikel 77aa Sr:</para>
+        <para>“1. De rechter kan aan een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet of, in bijzondere gevallen en na overleg met een dergelijke rechtspersoon, aan een particulier persoon, opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.</para>
+        <para>2. De rechter kan, indien de veroordeelde ingevolge artikel 255 van Boek 1 van het Burgerlijk Wetboek onder toezicht is gesteld, aan een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet opdragen aan de veroordeelde ter zake van de naleving der bijzondere voorwaarden hulp en steun te verlenen.</para>
+        <para>3. Indien de jeugdige de leeftijd van zestien jaren heeft bereikt, kan de rechter een in artikel 14c, zesde lid, bedoelde reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.</para>
+        <para>4. Bij algemene maatregel van bestuur, op de voordracht van Onze Minister van Justitie en Veiligheid en Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van het toezicht en de begeleiding, bedoeld in het eerste en tweede lid.”</para>
+        <para>- Artikel 6:2:22 lid 1 van het Wetboek van Strafvordering (hierna: Sv):</para>
+        <para>“De maatregel van plaatsing in een inrichting voor jeugdigen eindigt voorwaardelijk na twee jaar, tenzij de maatregel wordt verlengd op de wijze als bedoeld in artikel 6:6:31. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden. De maatregel vervalt bij het onherroepelijk worden van een rechterlijke uitspraak waarbij aan de betrokkene wederom de maatregel of de maatregel, bedoeld in artikel 37a van het Wetboek van Strafrecht, wordt opgelegd.”</para>
+        <para>- Artikel 6:3:15 lid 1 Sv:</para>
+        <para>“Indien ernstige redenen bestaan voor het vermoeden dat een voorwaarde, maatregel of aanwijzing als bedoeld in artikel 6:3:14 niet wordt nageleefd of anderszins het belang van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen zulks eist en aannemelijk is dat de rechter vrijheidsbeneming zal bevelen, kan het openbaar ministerie de aanhouding van de verdachte of veroordeelde bevelen.”</para>
+        <para>- Artikel 6:6:6 Sv:</para>
+        <para>“De rechter die kennisneemt van het beroep kan, gehoord het openbaar ministerie, een bevel tot dadelijke uitvoerbaarheid van een straf of maatregel opheffen of schorsen.”</para>
+        <para>- Artikel 6:6:10a lid 1 en 2 Sv:</para>
+        <para>“1. Indien de ter beschikking gestelde een gestelde voorwaarde niet heeft nageleefd of anderszins het belang van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen zulks eist, kan de rechter-commissaris op vordering van het openbaar ministerie een bevel tot tijdelijke opname van de ter beschikking gestelde geven voor de duur van maximaal zeven weken in een door de rechter aangewezen instelling.</para>
+        <para>2. De tijdelijke opname kan door de rechter-commissaris op vordering van het openbaar ministerie met ten hoogste zeven weken worden verlengd.”</para>
+        <para>- Artikel 6:6:20 lid 1, aanhef en onder a, Sv:</para>
+        <para>“De rechter-commissaris is bevoegd tot het op vordering van het openbaar ministerie nemen van spoedeisende, tijdelijke en voorlopige beslissingen in het kader van de tenuitvoerlegging van voorwaardelijke en vrijheidsbeperkende straffen en maatregelen. Dit betreft de beslissingen tot:</para>
+        <para>a. de voorlopige tenuitvoerlegging van de niet ten uitvoer gelegde vrijheidsstraf of maatregel.”</para>
+        <para>- Artikel 6:6:21 lid 1 en 3 Sv:</para>
+        <para>“1. De rechter is bevoegd tot het op vordering van het openbaar ministerie bevelen van de tenuitvoerlegging van de voorwaardelijk niet ten uitvoer gelegde straf of maatregel, of een gedeelte daarvan, al of niet onder instandhouding of wijziging van de voorwaarden.</para>
+        <para>3. Een vordering als bedoeld in het eerste lid, kan worden ingediend indien het openbaar ministerie oordeelt dat de veroordeelde een gestelde voorwaarde of opgelegde maatregel niet naleeft of niet heeft nageleefd, en er niet met een waarschuwing kan worden volstaan.”</para>
+        <para>- Artikel 6:6:31 lid 1 tot en met 3 Sv:</para>
+        <para>“1. De rechter die in eerste aanleg kennis heeft genomen van het misdrijf ter zake waarvan de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, kan op vordering van het openbaar ministerie de termijn, bedoeld in artikel 6:2:22, eerste lid, telkens met ten hoogste twee jaren verlengen. Niet eerder dan twee maanden en niet later dan één maand voor het tijdstip waarop de maatregel voorwaardelijk eindigt, kan het openbaar ministerie een vordering indienen tot verlenging van de maatregel. Artikel 6:6:11 is van overeenkomstige toepassing.</para>
+        <para>2. Verlenging van de termijn van de maatregel is slechts mogelijk voor zover de maatregel daardoor de duur van zeven jaar niet te boven gaat. In de gevallen waarin de maatregel is verlengd, eindigt de maatregel voorwaardelijk een jaar voordat de maximale duur van de maatregel wordt bereikt. De rechter geeft in de beslissing tot verlenging van de maatregel aan wanneer de maatregel, behoudens verdere verlenging, onvoorwaardelijk eindigt. Artikel 6:2:22, tweede lid, is van overeenkomstige toepassing. Op de beslissing tot verlenging van de maatregel waarbij de maximale duur van de maatregel zal worden bereikt, is artikel 77s, tweede en vijfde lid, van het Wetboek van Strafrecht van overeenkomstige toepassing.</para>
+        <para>3. De verlenging is slechts mogelijk, indien de maatregel is opgelegd ter zake van een misdrijf dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van één of meer personen. Artikel 77s, eerste lid, onder b en c, van het Wetboek van Strafrecht is van overeenkomstige toepassing.”</para>
+        <para>- Artikel 6:6:32 lid 6 en 8 Sv:</para>
+        <para>“6. De rechter die voorwaarden heeft gesteld in het verband van een voorwaardelijk opgelegde maatregel plaatsing in een inrichting voor jeugdigen, kan op vordering van het openbaar ministerie, indien een gestelde voorwaarde niet wordt nageleefd of anderszins het belang van de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen zulks eist, alsnog de tenuitvoerlegging van de maatregel bevelen.</para>
+        <para>8. De artikelen 6:3:15, 6:6:20, 6:6:21 en 6:6:22 zijn van overeenkomstige toepassing. Indien het openbaar ministerie de aanhouding noodzakelijk blijft vinden, dient het onverwijld een vordering tot voorlopige tenuitvoerlegging in bij de rechter-commissaris en een vordering als bedoeld in het derde lid, bij de rechter.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>In de gevallen die zijn omschreven in artikel 77s Sr kan de rechter de PIJ-maatregel opleggen. Daarbij kan de rechter op grond van artikel 77x lid 2 Sr bepalen dat deze maatregel niet zal worden tenuitvoergelegd en daarbij bijzondere voorwaarden als bedoeld in artikel 77z lid 2 Sr stellen. Als de rechter zo’n voorwaardelijke PIJ-maatregel oplegt, stelt hij daarbij op grond van artikel 77y lid 1 Sr een proeftijd vast van ten hoogste twee jaren. Artikel 77za Sr houdt in dat de rechter bij zijn uitspraak kan bevelen dat de op grond van artikel 77z Sr gestelde voorwaarden en het op grond van artikel 77aa Sr uit te oefenen toezicht dadelijk uitvoerbaar zijn als er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen. Als de rechter een bevel als bedoeld in artikel 77za Sr geeft, gaat op grond van artikel 77y lid 2, aanhef en onder c, Sr de proeftijd in op de dag van de einduitspraak.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Tegen de achtergrond van wat onder 3.4 is vooropgesteld, getuigt het oordeel van de rechtbank dat met betrekking tot de voorwaardelijke PIJ-maatregel de dadelijke uitvoerbaarheid kon worden bevolen van de gestelde voorwaarden en van het toezicht op de naleving van de bijzondere voorwaarden, niet van een onjuiste rechtsopvatting. Daarbij is van belang dat de totstandkomingsgeschiedenis van de onder 3.4 genoemde bepalingen zoals deze is weergegeven in de vordering tot cassatie in het belang van de wet onder 4.16 tot en met 4.21, zich niet verzet tegen dit oordeel van de rechtbank zoals dat voortvloeit uit de onder 3.3 weergegeven wettelijke bepalingen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Het cassatiemiddel is tevergeefs voorgesteld.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>Opmerking verdient het volgende. Artikel 6:6:32 lid 6 Sv voorziet in de bevoegdheid van de rechter die voorwaarden heeft gesteld in het verband van een voorwaardelijke PIJ-maatregel, om alsnog de tenuitvoerlegging van de maatregel te bevelen in de gevallen die in deze bepaling worden genoemd. Deze bepaling of enige andere wettelijke bepaling voorziet niet in de mogelijkheid om zo’n beslissing te nemen zolang de uitspraak waarbij de voorwaardelijke PIJ-maatregel is opgelegd, nog niet onherroepelijk is, en ook niet in de mogelijkheid om in dat stadium toepassing te geven aan artikel 6:6:10a Sv, 6:6:20 Sv of 6:6:21 Sv. (Vgl., over de maatregel van terbeschikkingstelling met voorwaarden, HR 26 november 2024, ECLI:NL:HR:2024:1729, rechtsoverweging 6.4.1-6.4.3.)</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren A.L.J. van Strien, T. Kooijmans, T.B. Trotman en F. Damsteegt, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">30 juni 2026</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

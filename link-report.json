@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 438,
+  "local_links_checked": 472,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -25,6 +25,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:456",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:733",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:1111",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:3186",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:66",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1156",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:202",
@@ -43,7 +44,10 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:203",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:289",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:888",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1003",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
+    "https://wetten.overheid.nl/BWBR0001903/2026-07-01",
+    "https://wetten.overheid.nl/BWBR0034925/2026-01-01",
     "https://zoek.officielebekendmakingen.nl/stb-2006-310.html",
     "https://zoek.officielebekendmakingen.nl/stb-2006-330.html",
     "https://zoek.officielebekendmakingen.nl/stb-2007-575.html",

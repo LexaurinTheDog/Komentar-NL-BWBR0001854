@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T17:35:04.740282+00:00",
+  "verified_at": "2026-10-20T17:46:32.213467+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1423,7 +1423,7 @@
     },
     "selection_reason": "Effective and visibility intervals in official manifest contain the original authoring date; fresh WTI independently lists latest commenced code change as 2026-07-01. Retrieval timestamp and consolidated label are not used as proof of effectiveness.",
     "latest_bounded_review": {
-      "report": "sources/review-batch10-version-evidence.json",
+      "report": "sources/review-batch11-version-evidence.json",
       "manifest_sha512_verified": true,
       "applicable_at_authoring": [
         {
@@ -1443,7 +1443,7 @@
           "visible_to": "9999-12-31"
         }
       ],
-      "external_evidence": "sources/review-batch10-external-evidence.json"
+      "external_evidence": "sources/review-batch11-external-evidence.json"
     }
   },
   "historical_versions_checked": {
@@ -1819,6 +1819,34 @@
     "inventory": "sources/review-batch10-coverage.json",
     "all812_texts_notes_status_dates_match": true,
     "aanhef_and_wetsluiting": "Both present; no source/parser repairs needed.",
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch11_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T17:46:32.213467+00:00",
+    "version_evidence": "sources/review-batch11-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126,
+      "additional_body_comparison": {
+        "version": "2026-01-01_0",
+        "manifest_sha512_verified": true,
+        "change_map": "sources/review-batch11-change-map.json",
+        "changed_ids": []
+      }
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch11-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch11-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Both present; no omissions or parser repairs required.",
     "unresolved_blockers": []
   }
 }

@@ -1,0 +1,64 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "accessed_at": "2026-10-20T17:46:21.221055+00:00",
+    "path": "sources/review-batch11-manifest.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "content_type": "application/xml",
+    "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+    "bytes": 88311,
+    "root": "work",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "accessed_at": "2026-10-20T17:46:21.557173+00:00",
+    "path": "sources/review-batch11-effective.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "content_type": "application/xml",
+    "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+    "bytes": 2545812,
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+    "accessed_at": "2026-10-20T17:46:22.205056+00:00",
+    "path": "sources/review-batch11-wti.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+    "content_type": "application/xml",
+    "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+    "bytes": 27846974,
+    "root": "wetstechnische-informatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:3186",
+    "accessed_at": "2026-10-20T17:46:31.751088+00:00",
+    "path": "sources/review-batch11-judgment-2017-3186.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:3186",
+    "content_type": "application/xml",
+    "sha256": "64e441553d66cc702ea9384e8ca597acf3322bdfb0a24f8a7281bc57adaed412",
+    "bytes": 48013,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:1003",
+    "accessed_at": "2026-10-20T17:46:31.948507+00:00",
+    "path": "sources/review-batch11-judgment-2026-1003.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:1003",
+    "content_type": "application/xml",
+    "sha256": "03c1d907819c1b02ce5af6af39c6837b1521cf1ad4d3934febae82c67c110ab3",
+    "bytes": 35820,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  }
+]
