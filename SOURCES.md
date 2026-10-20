@@ -209,3 +209,6 @@ Batch 144–156: [officiële versiecontrole](sources/author-a144-a156-version-ev
 
 
 Reviewbatch19: [verse officiële versiecontrole](sources/review-batch19-version-evidence.json), [ophaalresultaten](sources/review-batch19-fetch-log.json), [onafhankelijke inventaris](sources/review-batch19-coverage.json) en [herlezing primaire uitspraak en historische bronnen](sources/review-batch19-authority-check.json).
+
+
+De auteursbatch 157–169 gebruikt de opnieuw opgehaalde officiële XML en het manifest, met HTTP-resultaten, UTC-tijden en SHA-256 in het [fetchlog](sources/author-a157-a169-fetch-log.json). De geldigheidsintervallen in het [versiebewijs](sources/author-a157-a169-version-evidence.json) bevestigen toestand 2026-07-01_0; historische teksten worden afzonderlijk vergeleken en niet samengevoegd. De [gerichte rechtspraakzoeklog](authorities/author-a157-a169-search-log.json) verantwoordt twee volledig gelezen arresten en de beperkingen voor de andere achttien artikelen.

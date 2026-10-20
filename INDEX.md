@@ -1,6 +1,6 @@
 # Inhoud — onvoltooid werkmanuscript
 
-380 van 812 eenheden toegelicht. De volledige wettelijke inventaris blijft behouden; de ontbrekende delen zijn niet als voltooide hoofdstukken weergegeven.
+400 van 812 eenheden toegelicht. De volledige wettelijke inventaris blijft behouden; de ontbrekende delen zijn niet als voltooide hoofdstukken weergegeven.
 
 - [Inleiding](00-inleiding.md)
 - [Bronnen](SOURCES.md)
@@ -24,3 +24,4 @@
 - [Artikel 129 – Artikel 138a](17-deel-17.md)
 - [Artikel 138aa – Artikel 143](18-deel-18.md)
 - [Artikel 144 – Artikel 156](19-deel-19.md)
+- [Artikel 157 – Artikel 169](20-deel-20.md)

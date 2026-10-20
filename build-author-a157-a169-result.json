@@ -1,0 +1,6 @@
+{
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 412 jednotkám, např.: ['a170', 'a171', 'a172', 'a173', 'a173a', 'a173b', 'a174', 'a175', 'a175a', 'a175b']\n",
+  "limitation": "Shared build retains full-book gate; missing 412 out-of-scope commentaries. Existing checkpoint renderer used without changing shared builder."
+}

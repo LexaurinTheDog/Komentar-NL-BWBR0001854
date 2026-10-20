@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_author_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -23,15 +23,15 @@
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a144-a156-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a157-a169-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 380,
-  "completed_scope": "Aanhef; all Eerste Boek units; all official article slots 92–156 including inserted and repealed numbers.",
-  "remaining_units": 432,
-  "next_unit": "a157",
-  "commentary_chars": 583108,
+  "completed_units": 400,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–169 including inserted/repealed places.",
+  "remaining_units": 412,
+  "next_unit": "a170",
+  "commentary_chars": 615884,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -95,7 +95,9 @@
     "ECLI:NL:HR:2016:1011",
     "ECLI:NL:HR:2023:806",
     "ECLI:NL:HR:2024:1573",
-    "ECLI:NL:HR:2018:321"
+    "ECLI:NL:HR:2018:321",
+    "ECLI:NL:HR:2009:BH0594",
+    "ECLI:NL:HR:2011:BN9287"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -136,7 +138,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:07:36.932024+00:00",
+  "updated_at": "2026-10-20T22:13:19.983299+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -863,32 +865,67 @@
   "second_pass_total_reviewed_units": 380,
   "second_pass_remaining_units": 432,
   "bounded_author": {
-    "ids": [
-      "a144",
-      "a145",
-      "a146",
-      "a147",
-      "a147a",
-      "a148",
-      "a149",
-      "a150",
-      "a151",
-      "a151a",
-      "a151b",
-      "a151c",
-      "a151d",
-      "a151e",
-      "a151f",
-      "a152",
-      "a153",
-      "a154",
-      "a155",
-      "a156"
-    ],
+    "kind": "author",
     "complete": true,
-    "result": "author-a144-a156-result.json",
-    "independent_review_pending": false,
-    "review_result": "review-batch19-result.json"
+    "whole_book_complete": false,
+    "ids": [
+      "a157",
+      "a158",
+      "a159",
+      "a160",
+      "a161",
+      "a161bis",
+      "a161ter",
+      "a161quater",
+      "a161quinquies",
+      "a161sexies",
+      "a161septies",
+      "a162",
+      "a162a",
+      "a163",
+      "a164",
+      "a165",
+      "a166",
+      "a167",
+      "a168",
+      "a169"
+    ],
+    "completed_units": 20,
+    "independent_second_pass": false,
+    "source_evidence": "sources/author-a157-a169-version-evidence.json",
+    "coverage": "sources/author-a157-a169-coverage.json",
+    "commentary_chars": {
+      "a157": 1861,
+      "a158": 1615,
+      "a159": 1570,
+      "a160": 1567,
+      "a161": 1633,
+      "a161bis": 1572,
+      "a161ter": 1619,
+      "a161quater": 1614,
+      "a161quinquies": 1661,
+      "a161sexies": 1725,
+      "a161septies": 1655,
+      "a162": 1532,
+      "a162a": 1583,
+      "a163": 1581,
+      "a164": 1661,
+      "a165": 1561,
+      "a166": 1568,
+      "a167": 1556,
+      "a168": 1626,
+      "a169": 2016
+    },
+    "case_law_sources": [
+      "ECLI:NL:HR:2009:BH0594",
+      "ECLI:NL:HR:2011:BN9287"
+    ],
+    "limitations": [
+      "Selective case law; 18 units without retained case authority.",
+      "Fresh independent legal second pass pending.",
+      "Remaining book commentary outside this bounded assignment."
+    ],
+    "authored_at": "2026-10-20T22:13:19.983299+00:00"
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -943,6 +980,34 @@
         "out_of_scope_missing_commentaries": 492,
         "validation": "validation-author-a117-a128.json"
       }
+    },
+    {
+      "ids": [
+        "a144",
+        "a145",
+        "a146",
+        "a147",
+        "a147a",
+        "a148",
+        "a149",
+        "a150",
+        "a151",
+        "a151a",
+        "a151b",
+        "a151c",
+        "a151d",
+        "a151e",
+        "a151f",
+        "a152",
+        "a153",
+        "a154",
+        "a155",
+        "a156"
+      ],
+      "complete": true,
+      "result": "author-a144-a156-result.json",
+      "independent_review_pending": false,
+      "review_result": "review-batch19-result.json"
     }
   ],
   "latest_bounded_review_case_scope": "Full retained HR2018:321 and national-corpus snapshot reread for a151; selective authority coverage only."

@@ -1,0 +1,15 @@
+{
+  "queries": [
+    "site.rechtspraak.nl 157 te duchten 2009 BH0594",
+    "site.rechtspraak.nl 161sexies 2011 gemeen gevaar"
+  ],
+  "local_collection": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "local_method": "Filename search over local national corpus for BH0594 and BN9287; no corresponding files found; official full-text API used.",
+  "cases_read": [
+    "ECLI:NL:HR:2009:BH0594",
+    "ECLI:NL:HR:2011:BN9287"
+  ],
+  "rejected_endpoint": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?id=ECLI:NL:HR:2009:BH0594 returned HTML application page, rejected as malformed XML; official data.rechtspraak.nl used instead.",
+  "limitations": "Targeted selective search only. No sufficiently relevant verified case retained for the other 18 assigned articles; no claim of exhaustive negative research.",
+  "accessed_at": "2026-10-20T22:13:19.983299+00:00"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "accessed_at": "2026-10-20T22:12:12.643050+00:00",
+    "path": "sources/author-a157-a169-manifest.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+    "expected_format_valid": true,
+    "root": "work"
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "accessed_at": "2026-10-20T22:12:13.316203+00:00",
+    "path": "sources/author-a157-a169-effective.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+    "expected_format_valid": true,
+    "root": "toestand"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BH0594",
+    "accessed_at": "2026-10-20T22:12:13.560094+00:00",
+    "path": "sources/author-a157-a169-HR-2009-BH0594.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BH0594",
+    "sha256": "d3d9714add3919f7edab8e596c7f2d460ad37bc90f7fe22a1b8a27949b58e09a",
+    "expected_format_valid": true,
+    "root": "open-rechtspraak"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2011:BN9287",
+    "accessed_at": "2026-10-20T22:12:13.768968+00:00",
+    "path": "sources/author-a157-a169-HR-2011-BN9287.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2011:BN9287",
+    "sha256": "0e48445eefe1a7c5960463d22cd27f8cbcb7217744949a4ff94a80eb3d665ec2",
+    "expected_format_valid": true,
+    "root": "open-rechtspraak"
+  }
+]

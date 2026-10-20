@@ -1,0 +1,63 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a157",
+    "a158",
+    "a159",
+    "a160",
+    "a161",
+    "a161bis",
+    "a161ter",
+    "a161quater",
+    "a161quinquies",
+    "a161sexies",
+    "a161septies",
+    "a162",
+    "a162a",
+    "a163",
+    "a164",
+    "a165",
+    "a166",
+    "a167",
+    "a168",
+    "a169"
+  ],
+  "completed_units": 20,
+  "independent_second_pass": false,
+  "source_evidence": "sources/author-a157-a169-version-evidence.json",
+  "coverage": "sources/author-a157-a169-coverage.json",
+  "commentary_chars": {
+    "a157": 1861,
+    "a158": 1615,
+    "a159": 1570,
+    "a160": 1567,
+    "a161": 1633,
+    "a161bis": 1572,
+    "a161ter": 1619,
+    "a161quater": 1614,
+    "a161quinquies": 1661,
+    "a161sexies": 1725,
+    "a161septies": 1655,
+    "a162": 1532,
+    "a162a": 1583,
+    "a163": 1581,
+    "a164": 1661,
+    "a165": 1561,
+    "a166": 1568,
+    "a167": 1556,
+    "a168": 1626,
+    "a169": 2016
+  },
+  "case_law_sources": [
+    "ECLI:NL:HR:2009:BH0594",
+    "ECLI:NL:HR:2011:BN9287"
+  ],
+  "limitations": [
+    "Selective case law; 18 units without retained case authority.",
+    "Fresh independent legal second pass pending.",
+    "Remaining book commentary outside this bounded assignment."
+  ],
+  "authored_at": "2026-10-20T22:13:19.983299+00:00"
+}
