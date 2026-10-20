@@ -203,5 +203,24 @@
   "local_links_ok": true,
   "exact_repeated_paragraphs": 0,
   "checkpoint": "22-deel-22.md",
-  "full_build_ok": false
+  "full_build_ok": false,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 685600,
+    "errors": [
+      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "build_result": {
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+    "exit_code": 1,
+    "reason": "372 uncommented units outside assigned scope; no narrowed build or validator used.",
+    "bounded_checkpoint_renderer": "_render_checkpoint.py",
+    "rendered_units": 20
+  },
+  "generic_prose_check": "All twenty explanations read against their statutory wording: distinct elements, sanctions and fictional examples; no repeated paragraph found. Character length not treated as legal approval."
 }
