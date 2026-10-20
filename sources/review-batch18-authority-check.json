@@ -1,0 +1,155 @@
+{
+  "reviewed_at": "2026-10-20T21:54:58.260557+00:00",
+  "checks": [
+    {
+      "unit": "a138aa",
+      "path": "sources/author-a138aa-a143-HR-2026-1262.xml",
+      "sha256": "16ac402c9cc31e66179dde1f0c58cf0db2609d7aebeb5205ee5b94519518e939",
+      "full_text_reviewed": true,
+      "paragraphs": "2.3–2.5; beslissing 3",
+      "card": "authorities/author-a138aa-a143-HR-2026-1262.md"
+    },
+    {
+      "unit": "a140",
+      "path": "sources/author-a138aa-a143-HR-2022-970.xml",
+      "sha256": "f0d50d6dc07b73e4950721094aacba7b2a2d7962fe76e79092f00649a643a32e",
+      "full_text_reviewed": true,
+      "paragraphs": "2.4.1–2.6.4; beslissing 4",
+      "card": "authorities/author-a138aa-a143-HR-2022-970.md"
+    },
+    {
+      "unit": "a141",
+      "path": "sources/author-a138aa-a143-HR-2003-AL6209.xml",
+      "sha256": "da2e0a87809ec9e1c24f2f2d55706e13a98351d06e2c5dccaa96aa737a51d589",
+      "full_text_reviewed": true,
+      "paragraphs": "3.4–3.10; beslissing 6",
+      "card": "authorities/author-a138aa-a143-HR-2003-AL6209.md"
+    }
+  ],
+  "historical_bodies": [
+    {
+      "version": "2003-10-01_0",
+      "path": "sources/author-a138aa-a143-history-2003-10-01_0.xml",
+      "sha256": "d6088b07490447e9c550fcaaceae52e685c02efb967fd7ce06847bb780b34a30",
+      "assigned_ids_present": [
+        "a139",
+        "a139a",
+        "a139b",
+        "a139c",
+        "a139d",
+        "a139e",
+        "a139f",
+        "a139g",
+        "a140",
+        "a141",
+        "a142",
+        "a143"
+      ],
+      "assigned_ids_absent": [
+        "a138aa",
+        "a138ab",
+        "a138b",
+        "a138c",
+        "a139h",
+        "a140a",
+        "a141a",
+        "a142a"
+      ],
+      "change_map": "sources/author-a138aa-a143-historical-change-map.json",
+      "disposition": "Historical evidence only; old computer provisions and 139h not concatenated into effective inventory."
+    },
+    {
+      "version": "2022-07-01_0",
+      "path": "sources/author-a138aa-a143-history-2022-07-01_0.xml",
+      "sha256": "f219dd9a2395bc4a60f231958c490e32022a94b20a8d412680f30b188ddb72fd",
+      "assigned_ids_present": [
+        "a138aa",
+        "a138ab",
+        "a138b",
+        "a138c",
+        "a139",
+        "a139a",
+        "a139b",
+        "a139c",
+        "a139d",
+        "a139e",
+        "a139f",
+        "a139g",
+        "a139h",
+        "a140",
+        "a140a",
+        "a141",
+        "a141a",
+        "a142",
+        "a142a",
+        "a143"
+      ],
+      "assigned_ids_absent": [],
+      "change_map": "sources/author-a138aa-a143-historical-change-map.json",
+      "disposition": "Historical evidence only; old computer provisions and 139h not concatenated into effective inventory."
+    },
+    {
+      "version": "2024-07-01_0",
+      "path": "sources/author-a138aa-a143-history-2024-07-01_0.xml",
+      "sha256": "09cdf46816fb5fc1883a2f2bec4d6c358199ccd298401a5419c8ab0b14a79f11",
+      "assigned_ids_present": [
+        "a138aa",
+        "a138ab",
+        "a138b",
+        "a138c",
+        "a139",
+        "a139a",
+        "a139b",
+        "a139c",
+        "a139d",
+        "a139e",
+        "a139f",
+        "a139g",
+        "a139h",
+        "a140",
+        "a140a",
+        "a141",
+        "a141a",
+        "a142",
+        "a142a",
+        "a143"
+      ],
+      "assigned_ids_absent": [],
+      "change_map": "sources/author-a138aa-a143-historical-change-map.json",
+      "disposition": "Historical evidence only; old computer provisions and 139h not concatenated into effective inventory."
+    },
+    {
+      "version": "2025-07-01_0",
+      "path": "sources/author-a138aa-a143-history-2025-07-01_0.xml",
+      "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+      "assigned_ids_present": [
+        "a138aa",
+        "a138ab",
+        "a138b",
+        "a138c",
+        "a139",
+        "a139a",
+        "a139b",
+        "a139c",
+        "a139d",
+        "a139e",
+        "a139f",
+        "a139g",
+        "a139h",
+        "a140",
+        "a140a",
+        "a141",
+        "a141a",
+        "a142",
+        "a142a",
+        "a143"
+      ],
+      "assigned_ids_absent": [],
+      "change_map": "sources/author-a138aa-a143-historical-change-map.json",
+      "disposition": "Historical evidence only; old computer provisions and 139h not concatenated into effective inventory."
+    }
+  ],
+  "search_log": "sources/author-a138aa-a143-case-search.json",
+  "local_corpus": "sources/author-a138aa-a143-local-corpus.json",
+  "limits": "Selective rereading of retained full primary decisions and existing search provenance; no new exhaustive case-law search. Other seventeen units have no separately cited verified case in this batch."
+}

@@ -1,0 +1,235 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a138aa",
+    "a138ab",
+    "a138b",
+    "a138c",
+    "a139",
+    "a139a",
+    "a139b",
+    "a139c",
+    "a139d",
+    "a139e",
+    "a139f",
+    "a139g",
+    "a139h",
+    "a140",
+    "a140a",
+    "a141",
+    "a141a",
+    "a142",
+    "a142a",
+    "a143"
+  ],
+  "unresolved_blockers": [],
+  "verified_at": "2026-10-20T21:54:58.260557+00:00",
+  "source_preflight": "sources/review-batch18-version-evidence.json",
+  "findings": [
+    {
+      "id": "a138aa",
+      "reviewed": true,
+      "finding": "Logistieke plaats, toegangsmethoden en verenigde personen gecontroleerd. Lid 3 verduidelijkt als toegang verschaffen en facultatieve verhoging met een derde. HR1262 betreft uitsluitend strafmotivering.",
+      "changed": true,
+      "source_text_sha256": "568ca043b1038091dd7ca1c27ed936918a92c4d154672aed5c78966c06f9f355",
+      "commentary_before_sha256": "8f15d3d29c807b6e0564f77a67e512abed19612b4c0c117257b385e15e76cc8a",
+      "commentary_after_sha256": "537e0b4ee886f49f5740b8d33300417c14a982a753a940d8564d957e21eb70ec"
+    },
+    {
+      "id": "a138ab",
+      "reviewed": true,
+      "finding": "Vier niet-limitatieve toegangsmethoden, vervolggegevenshandelingen, openbaar netwerk en buitenlandse mogendheid gecontroleerd; onderscheid 138c behouden.",
+      "changed": false,
+      "source_text_sha256": "9a2d15e1563bdfd6a599896a742844470b782a7a2ce8d150382bae60b59873e1",
+      "commentary_before_sha256": "b9ff907a174d653085ecb61b6a8cbf784ca8827cc9dd51bac1ffcdc4c291bef4",
+      "commentary_after_sha256": "b9ff907a174d653085ecb61b6a8cbf784ca8827cc9dd51bac1ffcdc4c291bef4"
+    },
+    {
+      "id": "a138b",
+      "reviewed": true,
+      "finding": "Gegevensaanbod, causaal belemmeren, botnet/bevoordeling, schade/vitale infrastructuur en drie bijzondere verhogingen gecontroleerd. Fracties en beperking tot gevangenisstraf toegevoegd.",
+      "changed": true,
+      "source_text_sha256": "21bcc238a5f8f97d2cd8a38f786418528634cd654d26ed952e738cbad52277c3",
+      "commentary_before_sha256": "fe53476ba0b9018a03aad6eb4ec3219d3eccf32a88361b94ce7c5ae9d9c70831",
+      "commentary_after_sha256": "45d15623297996aa5088f7a18353610dcfb674ca66080f50d77b17c32f6a0bbc"
+    },
+    {
+      "id": "a138c",
+      "reviewed": true,
+      "finding": "Opgeslagen niet-openbare gegevens, overnemen/doorgeven en leden2–4 gecontroleerd; leesbevoegdheid niet verward met kopieerbevoegdheid.",
+      "changed": false,
+      "source_text_sha256": "6478f4e0757b9d5a8c4dcaeff1e1df76db0c7caa68a5165f813d24a512f8034b",
+      "commentary_before_sha256": "bc19c2d9b8508381de67e7ec846941c71d95581b5c1df0247f6e90806778012f",
+      "commentary_after_sha256": "bc19c2d9b8508381de67e7ec846941c71d95581b5c1df0247f6e90806778012f"
+    },
+    {
+      "id": "a139",
+      "reviewed": true,
+      "finding": "Openbare dienstbestemming, beide basisroutes, bevoegde vordering, nachtfictie, bedreiging en verenigde personen gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "fb181ef58696b8752d647ad82f4ba2a74b9cdac0f21d330b13ca18744a2152bf",
+      "commentary_before_sha256": "a3777c05dae19181e8f07f6523c63c12cd10440ec3158a4728c3a4f3bfed7a7f",
+      "commentary_after_sha256": "a3777c05dae19181e8f07f6523c63c12cd10440ec3158a4728c3a4f3bfed7a7f"
+    },
+    {
+      "id": "a139a",
+      "reviewed": true,
+      "finding": "Afluisteren tegenover opnemen, deelname/opdracht en drie uitsluitend op opnemen gerichte uitzonderingen afzonderlijk gelezen.",
+      "changed": false,
+      "source_text_sha256": "8680c3db492240b560aac6ca758464245b4a8ad379236fe17c443b265ea8f36b",
+      "commentary_before_sha256": "9122f7a674a7b5cb56803b8e384a20001ddd4263cd9ba72fc32e1c7e9170119d",
+      "commentary_after_sha256": "9122f7a674a7b5cb56803b8e384a20001ddd4263cd9ba72fc32e1c7e9170119d"
+    },
+    {
+      "id": "a139b",
+      "reviewed": true,
+      "finding": "Elders gevoerd gesprek, heimelijkheid, specifiek oogmerk en beperkte overname van 139a lid2 onder1/3 gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "8c575df066f096ce78dec71ce59d7bb815dd63654bf312dedd18d630f3b24512",
+      "commentary_before_sha256": "12787bb4274cd62493b0511e9766f6740f7944ff1e33167661d008ad2dee1828",
+      "commentary_after_sha256": "12787bb4274cd62493b0511e9766f6740f7944ff1e33167661d008ad2dee1828"
+    },
+    {
+      "id": "a139c",
+      "reviewed": true,
+      "finding": "Niet voor dader bestemde gegevens, technisch onderscheppen en alle drie uitzonderingen met kennelijk misbruik gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "e2c8bf3ade696a051afbd704476ea137a27ac6e2065c537452f3bc5dc647172a",
+      "commentary_before_sha256": "42ee63e844eaf56dc17c8af262e362b3cb3fccf00a4bd3ae9bd2bf80379d916c",
+      "commentary_after_sha256": "42ee63e844eaf56dc17c8af262e362b3cb3fccf00a4bd3ae9bd2bf80379d916c"
+    },
+    {
+      "id": "a139d",
+      "reviewed": true,
+      "finding": "Plaatsingsvariant, oogmerk, twee verschillende hulpmiddelenlijsten en verzwaarde computervredebreuk in lid3 gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "7905d854125e7a00e0d502b5ca1d23124888e0a457c558a6dac05f34708e851d",
+      "commentary_before_sha256": "16c29823673d9d020c50a50540d5aaba98cb2d4e5fecba6dbd7512f4e71d45c0",
+      "commentary_after_sha256": "16c29823673d9d020c50a50540d5aaba98cb2d4e5fecba6dbd7512f4e71d45c0"
+    },
+    {
+      "id": "a139e",
+      "reviewed": true,
+      "finding": "Beschikken, bekendmaken en ter beschikking stellen onderscheiden; werkelijk wederrechtelijke herkomst en wetenschap/schuld onderzocht.",
+      "changed": false,
+      "source_text_sha256": "faa3d8085c8bf526aa734d7cac1dbba69fac1a10a9c6d967db3a57d0b3d8e870",
+      "commentary_before_sha256": "4e0b2539ce52f662cddc1e5e84d8175a34ff39afa2fea9f2d6ca418a0974ef4b",
+      "commentary_after_sha256": "4e0b2539ce52f662cddc1e5e84d8175a34ff39afa2fea9f2d6ca418a0974ef4b"
+    },
+    {
+      "id": "a139f",
+      "reviewed": true,
+      "finding": "Locatie afgebeelde persoon, kenbaarheid hulpmiddel, opzet en wederrechtelijkheid gecontroleerd; verwijzingen441b/254ba aan huidige code getoetst.",
+      "changed": false,
+      "source_text_sha256": "483d4bbfb5893ab18c0c7652dc1bc47887290b854ea0ed32330d6b881af6fdae",
+      "commentary_before_sha256": "4c2264291aa2b0076d8c40ce8836267061b1662b7327a13c2eb97fef17ccc42a",
+      "commentary_after_sha256": "4c2264291aa2b0076d8c40ce8836267061b1662b7327a13c2eb97fef17ccc42a"
+    },
+    {
+      "id": "a139g",
+      "reviewed": true,
+      "finding": "Kennistijdstip onderdeel a, winstbejag in b en goede-trouw/algemeen-belanguitzondering gecontroleerd; geen vrijstelling voor hacken afgeleid.",
+      "changed": false,
+      "source_text_sha256": "a49298593b728bb2b38ec8cf5d7870249c2419b74bf4de832f3a835e1861edd5",
+      "commentary_before_sha256": "7a9f36dd955cc29e7bb68e8842bed42355ffd2b6fa7fe9bddea3f33cea48386d",
+      "commentary_after_sha256": "7a9f36dd955cc29e7bb68e8842bed42355ffd2b6fa7fe9bddea3f33cea48386d"
+    },
+    {
+      "id": "a139h",
+      "reviewed": true,
+      "finding": "Vervallen status en datum1juli2024 aan XML en historie getoetst; historische toepassing via artikel1lid2 niet vervangen door254ba.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "e14e5c021d6525217db1a482856bc804b708f7decdbe129e181920430998aaf0",
+      "commentary_after_sha256": "e14e5c021d6525217db1a482856bc804b708f7decdbe129e181920430998aaf0"
+    },
+    {
+      "id": "a140",
+      "reviewed": true,
+      "finding": "Alle vijf leden en HR970 volledig gelezen. Derde lid2-route via Boek10verklaring toegevoegd; wetenschap als onvoorwaardelijk opzet verduidelijkt. Hofcitaten onderscheiden van HR-oordelen.",
+      "changed": true,
+      "source_text_sha256": "2e4d8c1973c172ef846c5563719b3141cf82fd8641a33e262919bb4a3f729cfe",
+      "commentary_before_sha256": "eacd5d67b71bf9c213c0b43b4604c3ff95ab6491f4c17c1b2d0d0ec074effb39",
+      "commentary_after_sha256": "843788811c887914a6e511a0f7886c79c7226a863a4006eb8646ad8db7a89ca2"
+    },
+    {
+      "id": "a140a",
+      "reviewed": true,
+      "finding": "Verwijzingen83/83a, maxima15/20jaar, eigen leidersstraf en uitsluitend overgenomen140lid5 gecontroleerd; versie1juli2025 onderscheiden van oudere tekst.",
+      "changed": false,
+      "source_text_sha256": "8d84521bfec816711859ae1ea535477a8f29c52a81b9c52c5ea8808d8fcb513b",
+      "commentary_before_sha256": "0735d176acb87b56d7fca30a7619858ca2792c37febd49c0914435bb16b664b3",
+      "commentary_after_sha256": "0735d176acb87b56d7fca30a7619858ca2792c37febd49c0914435bb16b664b3"
+    },
+    {
+      "id": "a141",
+      "reviewed": true,
+      "finding": "Openlijk/invereniging, eigen bijdrage en individuele gevolgen gecontroleerd. AL6209 bevestigt geweldsbegrip maar vernietigt wegens bijdrage; geen automatische groepsaansprakelijkheid.",
+      "changed": false,
+      "source_text_sha256": "8228373f32f0d6ebdc4b7e96008b2eca1b71ad2d06a27ad222f40137f3db110b",
+      "commentary_before_sha256": "2f86273dcf471bc37f6c1ddbaed596813bafe7099e0d9b4d984bffaff79449e8",
+      "commentary_after_sha256": "2f86273dcf471bc37f6c1ddbaed596813bafe7099e0d9b4d984bffaff79449e8"
+    },
+    {
+      "id": "a141a",
+      "reviewed": true,
+      "finding": "Drie ondersteuningsvormen en opzet gecontroleerd; eisenopenlijk/invereniging niet uit141 overgenomen en geweldsvoltooiing niet als expliciet bestanddeel ingevoegd.",
+      "changed": false,
+      "source_text_sha256": "602645f7cfce956ff90bd8b45aa2bd6c585bda41a3e4c1cdfd5555b36bbec90f",
+      "commentary_before_sha256": "8f95578e1ae99c0422843c9e5fac3f678dd68a3cba3fedc74e2d42a398770f8e",
+      "commentary_after_sha256": "8f95578e1ae99c0422843c9e5fac3f678dd68a3cba3fedc74e2d42a398770f8e"
+    },
+    {
+      "id": "a142",
+      "reviewed": true,
+      "finding": "Rustverstoring door vals alarm onderscheiden van onnodig gebruik alarmnummer; resultaatvereisten niet verwisseld.",
+      "changed": false,
+      "source_text_sha256": "fec10cd25aead1c0d78b7141cbd0a9604c529370b88138795af089e6d5ad01c4",
+      "commentary_before_sha256": "9f67c78a2f349fd2cfd28b133d5a6bd49aaf8b8650fa6298ef4b94e84dc1cfd4",
+      "commentary_after_sha256": "9f67c78a2f349fd2cfd28b133d5a6bd49aaf8b8650fa6298ef4b94e84dc1cfd4"
+    },
+    {
+      "id": "a142a",
+      "reviewed": true,
+      "finding": "Voorwerp plaatsen/verzenden tegenover gegevensdoorgeven, misleidingsoogmerk en ontbreken echte bom gecontroleerd; geen evacuatievereiste toegevoegd.",
+      "changed": false,
+      "source_text_sha256": "1fab7ccb57801fa6d53ef3818c7c2f976fcdd90b8d73239cb163de44308b5905",
+      "commentary_before_sha256": "99babcccfba22d7d8a3b7392afa262a94ac65ec654b72b5bf7c625045ede314c",
+      "commentary_after_sha256": "99babcccfba22d7d8a3b7392afa262a94ac65ec654b72b5bf7c625045ede314c"
+    },
+    {
+      "id": "a143",
+      "reviewed": true,
+      "finding": "Geoorloofde openbare vergadering/betoging, geweldsmiddel, verhindering en causaliteit gecontroleerd;144verstoring en45poging afzonderlijk geplaatst.",
+      "changed": false,
+      "source_text_sha256": "1ca7b6ab6bc51a406021646148086fe061932a3b4b4dda1ee23dcbabf5ab3e96",
+      "commentary_before_sha256": "ae671449fc30e2dc199b15cbf11f33ae4fc019d5b1ed3bf68a117d8c4b7f8346",
+      "commentary_after_sha256": "ae671449fc30e2dc199b15cbf11f33ae4fc019d5b1ed3bf68a117d8c4b7f8346"
+    }
+  ],
+  "limitations": [
+    "Exactly twenty assigned units reviewed; whole manuscript remains incomplete.",
+    "Selective case law only; three retained full primary judgments reread, no exhaustive subsequent-case search.",
+    "No external professional approval."
+  ],
+  "other_commentary_files_unchanged": true,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 552003,
+    "errors": [
+      "krátký/chybějící komentář u 452 jednotek: ['a144(0<400)', 'a145(0<400)', 'a146(0<400)', 'a147(0<120)', 'a147a(0<120)', 'a148(0<400)', 'a149(0<400)', 'a150(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
