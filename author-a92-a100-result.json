@@ -107,7 +107,7 @@
     "cross_unit_paragraphs_above_similarity_0_78": [],
     "method": "Exact paragraphs plus SequenceMatcher, followed by unit-specific author reading; numerical checks do not prove legal quality."
   },
-  "checked_at": "2026-10-20T18:30:18.405537+00:00",
+  "checked_at": "2026-10-20T18:31:58.796235+00:00",
   "limitations": [
     "Bounded original authoring, not independent second pass.",
     "532 other units remain without commentary.",
@@ -212,7 +212,25 @@
       "scope": "Full 812-unit inventory unchanged. 532 missing commentaries outside assigned author batch; no narrowing of shared build gate.",
       "checked_at": "2026-10-20T18:30:38.795569+00:00"
     },
-    "strict_validator": "pending clean output commit",
-    "statutory_text_expected_unchanged": true
-  }
+    "strict_validator": {
+      "exit_code": 1,
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 378049,
+        "errors": [
+          "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "scope": "Full unchanged validator, clean output git tree. Only 532 missing commentaries outside batch fail."
+    },
+    "statutory_text_expected_unchanged": true,
+    "statutory_text_agreement": 1.0,
+    "all_assigned_units_meet_minimum": true,
+    "whole_book_pass": false
+  },
+  "unresolved_blockers": []
 }

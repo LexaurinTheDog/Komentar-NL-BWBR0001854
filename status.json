@@ -97,9 +97,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 339029,
+    "commentary_chars": 378049,
     "errors": [
-      "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+      "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -115,7 +115,7 @@
     "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
     "The 16 newly authored units a92–a100 await independent second pass; no whole-book completion."
   ],
-  "updated_at": "2026-10-20T18:30:38.795569+00:00",
+  "updated_at": "2026-10-20T18:31:58.796235+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:07:46.788534+00:00",
@@ -129,9 +129,10 @@
     "new_commentary_units": 0,
     "unresolved_blockers": [],
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
-    "bounded_recheck": "sources/review-batch13-version-evidence.json"
+    "bounded_recheck": "sources/review-batch13-version-evidence.json",
+    "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T18:19:33.420661+00:00",
+  "validation_checked_at": "2026-10-20T18:31:58.796235+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -724,7 +725,27 @@
     "completed_units": 16,
     "report": "author-a92-a100-result.json",
     "independent_second_pass": false,
-    "technical_validation": "pending final clean-tree strict run",
+    "technical_validation": {
+      "all16_commentaries_present": true,
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_checked": 586,
+      "local_links_ok": true,
+      "full_shared_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 532
+    },
     "source_preflight": "sources/author-a92-a100-version-evidence.json"
+  },
+  "validation": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 378049,
+    "errors": [
+      "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
   }
 }
