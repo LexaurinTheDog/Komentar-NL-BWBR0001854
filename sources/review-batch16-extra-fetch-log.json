@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "accessed_at": "2026-10-20T19:14:35.607148+00:00",
+    "path": "sources/review-batch16-wetten.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+    "bytes": 4600683,
+    "expected_format_valid": true,
+    "expected_text": "Wetboek van Strafrecht"
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "accessed_at": "2026-10-20T19:14:35.607437+00:00",
+    "path": "sources/review-batch16-stb-2019-187.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "sha256": "85be5bafd3bd026d9c289edf268af420e4c9c150d09f25555f960c776748f0d2",
+    "bytes": 32943,
+    "expected_format_valid": true,
+    "expected_text": "De artikelen 118 en 119 vervallen"
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "accessed_at": "2026-10-20T19:14:35.607527+00:00",
+    "path": "sources/review-batch16-stb-2019-277.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "sha256": "4c79094576a0a49ac59c07455a993beb5f5fedda45e30965e18e39b4b13df299",
+    "bytes": 22779,
+    "expected_format_valid": true,
+    "expected_text": "januari 2020"
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-30821-112.html",
+    "accessed_at": "2026-10-20T19:14:35.607670+00:00",
+    "path": "sources/review-batch16-kst-30821-112.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://zoek.officielebekendmakingen.nl/kst-30821-112.html",
+    "sha256": "3b0cf96e649fd29fcf35eafcb4dce96badbd8689e91055ed61441395950790c9",
+    "bytes": 63633,
+    "expected_format_valid": true,
+    "expected_text": "artikel 127"
+  }
+]

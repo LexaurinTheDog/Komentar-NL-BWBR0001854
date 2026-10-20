@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_author_complete_authoring_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T19:08:27.435380+00:00",
+    "rechecked_at": "2026-10-20T19:17:09.650475+00:00",
     "official_wti_http": 200,
-    "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
+    "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch15-version-evidence.json",
+    "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "sources/author-a117-a128-version-evidence.json"
   },
   "total_units": 812,
@@ -31,7 +31,7 @@
   "completed_scope": "Aanhef; all Eerste Boek units; all official article slots92–128 including inserted and repealed numbers.",
   "remaining_units": 492,
   "next_unit": "a129",
-  "commentary_chars": 467619,
+  "commentary_chars": 468952,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -92,11 +92,17 @@
   ],
   "case_law_scope": "Selective primary case research; four new public full judgments read in this author batch, with jurisdiction, procedural and historical limits stated.",
   "build_result": {
-    "command": "build_repo.py WORK (unchanged full manuscript build)",
+    "command": [
+      "python3",
+      "-B",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
+    ],
     "returncode": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 492 jednotkám, např.: ['a129', 'a130', 'a130a', 'a130b', 'a131', 'a132', 'a133', 'a134', 'a134a', 'a135']\n",
-    "scope": "Full build expected to report only492 missing out-of-scope commentaries; separate existing-prose renderer creates the explicitly incomplete checkpoint."
+    "ran_at": "2026-10-20T19:18:19.521354+00:00",
+    "scope": "Unchanged whole-manuscript builder; expected refusal because 492 out-of-scope articles have no commentary. No narrowed build or placeholders used. Explicit incomplete checkpoint separately rendered by existing local helper."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -119,14 +125,13 @@
     "Selective case-law research; historical Assen holding not current limitation law; Rotterdam reasoning/dictum difference disclosed.",
     "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
     "Technical checks of length, links and repeated paragraphs do not establish legal correctness.",
-    "Original author checking, not an independent second pass.",
     "492 out-of-scope statutory units still lack commentary.",
     "Selective case-law coverage; Antilliaanse comparison and historical sentence issue explicitly bounded.",
     "Treaty catalog digest mismatches disclosed with fresh identical official bodies and published-text corroboration.",
     "Technical length, link and repetition checks do not prove legal quality.",
-    "300 units previously underwent bounded second-pass review; the twenty new units have author checking only."
+    "320 existing commentaries underwent sixteen bounded second-pass reviews; 492 code units still lack commentary."
   ],
-  "updated_at": "2026-10-20T19:10:17.768834+00:00",
+  "updated_at": "2026-10-20T19:17:09.650475+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -140,7 +145,7 @@
     "new_commentary_units": 0,
     "unresolved_blockers": [],
     "strict_validation_scope": "Full unchanged validator, 100% statutory agreement. 532 absent commentaries outside assignment prevent book-wide success.",
-    "bounded_recheck": "sources/review-batch14-version-evidence.json",
+    "bounded_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
   "validation_checked_at": "2026-10-20T19:10:17.768834+00:00",
@@ -148,49 +153,55 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a101",
-      "a102",
-      "a103",
-      "a103a",
-      "a104",
-      "a105",
-      "a106",
-      "a107",
-      "a107a",
-      "a108",
-      "a109",
-      "a110",
-      "a111",
-      "a112",
-      "a113",
-      "a114",
-      "a114a",
-      "a114b",
-      "a115",
-      "a116"
+      "a117",
+      "a117a",
+      "a117b",
+      "a118",
+      "a119",
+      "a120",
+      "a120a",
+      "a120b",
+      "a120c",
+      "a121",
+      "a121a",
+      "a122",
+      "a123",
+      "a123a",
+      "a124",
+      "a124a",
+      "a125",
+      "a126",
+      "a127",
+      "a128"
     ],
     "corrected_units": [
-      "a104",
-      "a106",
-      "a108",
-      "a113",
-      "a114b",
-      "a115"
+      "a117",
+      "a120",
+      "a120a",
+      "a122",
+      "a126",
+      "a127"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "batch_report": "review-batch15-result.json",
-    "source_preflight": "sources/review-batch15-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:55:23.446801+00:00",
+    "batch_report": "review-batch16-result.json",
+    "source_preflight": "sources/review-batch16-version-evidence.json",
+    "reviewed_at": "2026-10-20T19:17:09.650475+00:00",
     "technical_validation": {
       "statutory_text_agreement": 1.0,
-      "coverage_ok": true,
-      "local_links_ok": true,
+      "official_inventory_units": 812,
+      "independent_coverage_ok": true,
       "all20_present": true,
       "all20_rendered": true,
+      "all20_quoted_texts_equal": true,
+      "other_commentary_files_and_rendered_chapters_unchanged": true,
+      "local_links_ok": true,
+      "local_links_checked": 704,
+      "exact_repeated_long_paragraphs": 0,
       "full_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 512
+      "out_of_scope_missing_commentaries": 492,
+      "build_result": "build-batch16-result.json",
+      "prose_check": "sources/review-batch16-prose-check.json"
     }
   },
   "prior_bounded_reviews": [
@@ -808,10 +819,59 @@
         "strict_validator_ok": false,
         "out_of_scope_missing_commentaries": 532
       }
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a101",
+        "a102",
+        "a103",
+        "a103a",
+        "a104",
+        "a105",
+        "a106",
+        "a107",
+        "a107a",
+        "a108",
+        "a109",
+        "a110",
+        "a111",
+        "a112",
+        "a113",
+        "a114",
+        "a114a",
+        "a114b",
+        "a115",
+        "a116"
+      ],
+      "corrected_units": [
+        "a104",
+        "a106",
+        "a108",
+        "a113",
+        "a114b",
+        "a115"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-result.json",
+      "batch_report": "review-batch15-result.json",
+      "source_preflight": "sources/review-batch15-version-evidence.json",
+      "reviewed_at": "2026-10-20T18:55:23.446801+00:00",
+      "technical_validation": {
+        "statutory_text_agreement": 1.0,
+        "coverage_ok": true,
+        "local_links_ok": true,
+        "all20_present": true,
+        "all20_rendered": true,
+        "full_build_ok": false,
+        "strict_validator_ok": false,
+        "out_of_scope_missing_commentaries": 512
+      }
     }
   ],
-  "second_pass_total_reviewed_units": 300,
-  "second_pass_remaining_units": 512,
+  "second_pass_total_reviewed_units": 320,
+  "second_pass_remaining_units": 492,
   "bounded_author": {
     "complete": true,
     "ids": [

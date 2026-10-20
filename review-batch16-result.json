@@ -1,0 +1,491 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a117",
+    "a117a",
+    "a117b",
+    "a118",
+    "a119",
+    "a120",
+    "a120a",
+    "a120b",
+    "a120c",
+    "a121",
+    "a121a",
+    "a122",
+    "a123",
+    "a123a",
+    "a124",
+    "a124a",
+    "a125",
+    "a126",
+    "a127",
+    "a128"
+  ],
+  "corrected_units": [
+    "a117",
+    "a120",
+    "a120a",
+    "a122",
+    "a126",
+    "a127"
+  ],
+  "retained_units": [
+    "a117a",
+    "a117b",
+    "a118",
+    "a119",
+    "a120b",
+    "a120c",
+    "a121",
+    "a121a",
+    "a123",
+    "a123a",
+    "a124",
+    "a124a",
+    "a125",
+    "a128"
+  ],
+  "evidence_links_updated": [
+    "a118",
+    "a119"
+  ],
+  "findings": [
+    {
+      "id": "a117",
+      "source_reading": "Beide leden gelezen: aanslag op leven of vrijheid; lid 2 uitsluitend leven, dood en voorbedachte raad alternatief. Definitie 87b en uitvoeringsbegin 79/45 afzonderlijk gelezen.",
+      "finding": "Verduidelijkt. Begin van uitvoering levert het voltooide bijzondere aanslagdelict op zonder automatische pogingskorting. Verdrag van 1973 bij naam begrensd, zodat geen verwarring met het Weense diplomatenverdrag ontstaat. Twaalf jaar tegenover levenslang/dertig jaar en terrorismeroutes 83/120a juist.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a45",
+        "a79",
+        "a83",
+        "a87b",
+        "a117a",
+        "a117b",
+        "a120a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "6f62ca456b499a801cdc20b15591da0b4b0ebdaaddd5eb28a44d666ba40caf1f",
+      "commentary_before_sha256": "0d6b52423be6e1b79929947cd11ff837d741db4d0988b1f75e4d4cee95a25db5",
+      "commentary_after_sha256": "34e099aa99c4619b4c208aae4a8163d3d2bf7cf2557c8f26f46bbf7ac1969384",
+      "commentary_chars": 2586,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel117",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a117a",
+      "source_reading": "Volledige subsidiariteitsbepaling gelezen, inclusief persoonlijke hoedanigheid, feitelijke aanranding en driejaar-/vierdecategoriegrens.",
+      "finding": "Behouden. Persoonlijke fysieke aanval onderscheiden van uiting en levens-/vrijheidsaanslag. Geen zelfstandig letselvereiste toegevoegd; zwaardere strafbepaling gaat voor. 120a/120c vergen hun eigen terroristische voorwaarden.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a87b",
+        "a117",
+        "a120a",
+        "a120c"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "7279361847879682e7f9b8c24a8be9fe308791e94490e6c2bd0ab64fa90de8b5",
+      "commentary_before_sha256": "b80bd8aa8975915f353d1a23f996a08598cd8ced25ba99c40bfdeef9ddc198d2",
+      "commentary_after_sha256": "b80bd8aa8975915f353d1a23f996a08598cd8ced25ba99c40bfdeef9ddc198d2",
+      "commentary_chars": 2125,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel117a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a117b",
+      "source_reading": "Volledige gewelds- en gevaarbepaling gelezen met 87b lid 3. Hele openbare Den Haag-uitspraak gelezen; met name 3.5.2, 3.5.5 en dictum naast de partijstandpunten gelegd.",
+      "finding": "Behouden. Zelfstandige causale gevaarseis niet verward met opzet op geweld of daadwerkelijke schade. Afwezigheid ambassadeur alleen binnen de concrete rechtbankredenering besproken. Geen algemene aansprakelijkheid voor aanval op leeg diplomatiek bezit aangenomen.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a87b",
+        "a120a"
+      ],
+      "verified_case_sources": [
+        "ECLI:NL:RBDHA:2021:14437"
+      ],
+      "statutory_text_sha256": "7519e5ffb1689bdbbe654fa05291ac7ed9c11c80c62cdc636a733109cbac88cd",
+      "commentary_before_sha256": "51a434398d93ced5dc1dc9998f4567caea1319e1b654181bd65010d4c913f1e0",
+      "commentary_after_sha256": "51a434398d93ced5dc1dc9998f4567caea1319e1b654181bd65010d4c913f1e0",
+      "commentary_chars": 2301,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel117b",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a118",
+      "source_reading": "Huidige volledige vervallen plaats, alle drie historische leden, wijzigingswet I onder D en inwerkingtredingsbesluit gelezen. Huidige 1/267 gecontroleerd.",
+      "finding": "Inhoud behouden; bronkoppeling naar de herstelde historische vergelijking bijgewerkt. Gehele artikel vervallen per 1 januari 2020, inclusief ontzettingsgrondslag; algemene belediging niet met herleving gelijkgesteld.",
+      "disposition": "retained_with_evidence_link_update",
+      "internal_cross_references_checked": [
+        "a1",
+        "a267"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "5226553439feecb3b91db97c2d14a449c26398b47dbbce180c9395858c2989b8",
+      "commentary_after_sha256": "35f7fd9f2be03c3b6f11fbaaeed0e48725f526174e653005e9295132bdbf6700",
+      "commentary_chars": 1613,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel118",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a119",
+      "source_reading": "Huidige vervallen plaats en drie historische leden gelezen; verschillende verspreidings-/voorraadroutes en herhalingsvoorwaarde beoordeeld. Beide Staatsbladstukken gelezen.",
+      "finding": "Inhoud behouden; bronkoppeling bijgewerkt. Geen historische verspreidingsvorm, schuldmaatstaf of beroepsontzetting als huidig recht gebruikt. Voorbeeld maakt geen algemene straffeloosheidsclaim.",
+      "disposition": "retained_with_evidence_link_update",
+      "internal_cross_references_checked": [
+        "a1",
+        "a118"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "afd34d8e28e103b7f034e7e5e6414da5c6363694b5036564caebfabe63b66989",
+      "commentary_after_sha256": "18241ae4ab30e915ccb42764f89c5318bf4f60b55fa8f82e8c1a7248b2415ac5",
+      "commentary_chars": 1618,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel119",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a120",
+      "source_reading": "Exacte verwijzingslijst 115/116, hun actuele kring staatshoofd, rechten 28 onder 1–4, leden 2–4 en duur/aanvang 31 gelezen.",
+      "finding": "Gecorrigeerd. Het hoofd van een bevriende staat vervangen niet door ieder regeringslid; eerdere onjuiste uitbreiding geschrapt. Facultatief reclasseringstoezicht bij ambtsontzetting uit 28 lid 4 toegevoegd. Geen algemene beroepsontzetting en geen kiesrecht zonder werkelijk opgelegde eenjaarstraf.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a28",
+        "a31",
+        "a87b",
+        "a115",
+        "a116",
+        "a120c"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "668ad37b49f1334c68a8ec114f8765e54e744b6a616ce797f550b0bca2f32de5",
+      "commentary_before_sha256": "1c5fe79543c12c6bcc6e2ef973f419abc9e884458b6b0461f78bc4706651361f",
+      "commentary_after_sha256": "a5816fffe2afa1cd67c89ef9f4a0e889f0a5aaf2c7081704b512422ddd481248",
+      "commentary_chars": 2209,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel120",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a120a",
+      "source_reading": "Hele verhogingszin naast alle vijf basisstraffen gelegd: 115 lid 1 vijftien, 116 zes, 117 lid 1 twaalf, 117a drie, 117b acht jaar. Beide routes 83 en definitie 83a gelezen.",
+      "finding": "Materieel gecorrigeerd. De eerdere onjuiste stelling dat geen grondvariant vijftien jaar had is verwijderd. 115 lid 1 wordt levenslang of maximaal dertig jaar; 116 zes naar negen; 117 lid 1 twaalf naar achttien; 117a drie naar vier en een half; 117b acht naar twaalf. Geen verhoging boetecategorieën of automatische concrete straf. Deel van de bevolking onder 83a expliciet behouden.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a83",
+        "a83a",
+        "a115",
+        "a116",
+        "a117",
+        "a117a",
+        "a117b"
+      ],
+      "verified_case_sources": [
+        "ECLI:NL:RBDHA:2021:14437"
+      ],
+      "statutory_text_sha256": "b33929693a060f7078f6304a3bbfb574de19f15f021d103a8556f0bd11a0426b",
+      "commentary_before_sha256": "2a65e5fba1aa76e556c82c7b0d8cd36180deb7e76d98672d624fe6a99756fcbe",
+      "commentary_after_sha256": "5607aeaf6e24072d286bb899c2580d209de10d9394e16512e829a7cd14200e73",
+      "commentary_chars": 2558,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel120a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a120b",
+      "source_reading": "Beide leden gelezen; overeenkomst 80, aanslag 79 en alle vijf routes van 96 lid 2 afzonderlijk gecontroleerd, inclusief oogmerk en bestemmings-/wetenschapseisen.",
+      "finding": "Behouden. Uitsluitend 115/117 als terroristisch doelmisdrijf; 117b niet toegevoegd. Lid 2 kan eenzijdige voorbereiding bestrijken, zonder fictieve overeenkomst. Voorbereidingsdoel en terroristische bestemming zijn onderscheiden; eigen tienjaarsmaximum juist.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a79",
+        "a80",
+        "a96",
+        "a115",
+        "a117",
+        "a120c"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "d68728c88665817e825c60ab828728fe35e7614785e955a5dbc9dc80929e92b3",
+      "commentary_before_sha256": "60e04143ca7a95b877a80fb8d199744b2da44921ede82a0e605e5bb793246f8d",
+      "commentary_after_sha256": "60e04143ca7a95b877a80fb8d199744b2da44921ede82a0e605e5bb793246f8d",
+      "commentary_chars": 2221,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel120b",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a120c",
+      "source_reading": "Hele bijkomende-strafbepaling gelezen, onderscheiden verwijzing naar 117/117a/117b plus 120b en 28/31.",
+      "finding": "Behouden. 117-verwijzing terecht niet tot lid 1 beperkt; alleen kiesrecht, facultatief, met eenjaarstraf en aanvang bij onherroepelijkheid. Gewone 117a-aanranding levert deze bijzondere ontzetting niet op.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a28",
+        "a31",
+        "a117",
+        "a117a",
+        "a117b",
+        "a120b"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "5c0a939df89a708b5f149b3b71418333cd1a6800a867c430c1d8b7e986f4e5df",
+      "commentary_before_sha256": "9d6d43050ecd4882b4695a91a3686c22f1f4861aba2b03ff1e69091fa38c2604",
+      "commentary_after_sha256": "9d6d43050ecd4882b4695a91a3686c22f1f4861aba2b03ff1e69091fa38c2604",
+      "commentary_chars": 2429,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel120c",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a121",
+      "source_reading": "Volledige alternatieve delictsomschrijving gelezen: beide kamers of één kamer, vergadering en genoemde personen, geweldsmiddel, gevolgen, levenslang/dertig jaar. 45/83/122 gecontroleerd.",
+      "finding": "Behouden. Niet iedere bedreiging politicus valt hieronder; vergaderingseffect en persoonlijke route onderscheiden. Geen terroristisch oogmerk voor grondfeit geëist. Commissies en poging afzonderlijk behandeld.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a45",
+        "a83",
+        "a83a",
+        "a121a",
+        "a122"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "86cffe4f313a261ab189971c113c67d3341bbf0c62be1e47c11bd5c081f4edce",
+      "commentary_before_sha256": "09009c01f0985ea01c489677a726d0bd46bab212c05eba1254fcc45730a6d806",
+      "commentary_after_sha256": "09009c01f0985ea01c489677a726d0bd46bab212c05eba1254fcc45730a6d806",
+      "commentary_chars": 2198,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel121",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a121a",
+      "source_reading": "Hele commissiebepaling gelezen met herkomst, leden/ministers/staatssecretarissen, alle vijf aantastingsroutes, geweldsmiddel en eigen maximum.",
+      "finding": "Behouden. Geen informeel partijoverleg tot parlementaire commissie gemaakt; persoonlijke verhindering mogelijk terwijl vergadering doorgaat. Bijzonder samenspanningsartikel 122 terecht niet uitgebreid.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a121",
+        "a122"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "59dbc54eba040b39b6cf25c9fbdaa7bfcff41187b1295f97c532b16509cb28fa",
+      "commentary_before_sha256": "cdaf78a39b54c1f45b219540742f64be10b817fc6482471de8ef41c5a1c62dcd",
+      "commentary_after_sha256": "cdaf78a39b54c1f45b219540742f64be10b817fc6482471de8ef41c5a1c62dcd",
+      "commentary_chars": 2164,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel121a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a122",
+      "source_reading": "Beide leden gelezen naast 80 en de volledige tekst van 96 lid 2. Reikwijdte tot uitsluitend 121 en terroristische kwalificatie 83 gecontroleerd.",
+      "finding": "Verduidelijkt. Het eigen oogmerk om 121 voor te bereiden of te bevorderen staat nu expliciet naast de vijf verschillende routes. Geen terroristisch oogmerk aan het grondfeit toegevoegd en geen uitbreiding tot 121a of decentrale organen.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a80",
+        "a83",
+        "a96",
+        "a120b",
+        "a121",
+        "a121a",
+        "a123",
+        "a123a",
+        "a124",
+        "a124a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "fbe3e644a248ee905b9f1474fd6d43f744e4bc62b4273a0a9dedc76b1e995973",
+      "commentary_before_sha256": "c5814127df8c6a8eed7122fdb16cee62705ca1162ba86d8219423cac5bd02ca8",
+      "commentary_after_sha256": "a212fd3869d118d62701d4033fc6b9d4220aac6e3281b924e7b30af5f6d28367",
+      "commentary_chars": 2430,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel122",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a123",
+      "source_reading": "Hele statenbepaling gelezen: vergadering, lid/voorzitter/gedeputeerde, geweld of dreiging, uiteenlopende effecten en negenjaarsmaximum.",
+      "finding": "Behouden. Deelnemerskring niet met uitsluitend stemgerechtigde statenleden vereenzelvigd; los ambtsconflict niet automatisch vergaderdelict. Artikel 123a en ontbreken 122-verwijzing juist weergegeven.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a122",
+        "a123a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "d33e9d7f4223563e1bec628a64b16e851e2f7c1b543706cc63ef6a12aef583d8",
+      "commentary_before_sha256": "144fabd0181a1b26aca4f54ef3041067150ac642de933ed0583e60c0edc19d5e",
+      "commentary_after_sha256": "144fabd0181a1b26aca4f54ef3041067150ac642de933ed0583e60c0edc19d5e",
+      "commentary_chars": 2016,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel123",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a123a",
+      "source_reading": "Hele commissiebepaling gelezen: instelling door staten, lid/gedeputeerde/commissaris, geweldsmiddel en persoonlijke en collectieve routes, vier jaar/categorie vier.",
+      "finding": "Behouden. Institutionele herkomst en gesloten personenlijst juist; insprekers niet stilzwijgend leden. Geen hoger statenmaximum ingevoerd wegens belang van de commissie.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a122",
+        "a123"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "5f1672f10d992e1d7c2a4c75380860469f77193c035a197b4f71b54d557c7104",
+      "commentary_before_sha256": "02dbebfdf8687854ea4a44ab750709125b7d2ba3a1e9b48abf82770111b915fa",
+      "commentary_after_sha256": "02dbebfdf8687854ea4a44ab750709125b7d2ba3a1e9b48abf82770111b915fa",
+      "commentary_chars": 1999,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel123a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a124",
+      "source_reading": "Hele raadsbepaling gelezen. Volledig Gelderland-vonnis opnieuw gelezen met 2 III, bewijs, kwalificatie, straf en dictum. Historische artikeltekst rechtstreeks gecontroleerd na nr-normalisatie.",
+      "finding": "Inhoud behouden. Uiteenjagen niet met elke verstoring gelijkgesteld. Geweld buiten gebouw, causaal veiligheidsbesluit, individueel opzet en medeplegen blijven afzonderlijk onderbouwd. Historische bewijsmapping gerepareerd; geen oordeel over elke demonstrant of over 124a afgeleid.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a47",
+        "a124a"
+      ],
+      "verified_case_sources": [
+        "ECLI:NL:RBGEL:2016:3180"
+      ],
+      "statutory_text_sha256": "578cfb1ac3888ef067cb782f5e992a15ffa91540291815d9b38df2cc59c13bd9",
+      "commentary_before_sha256": "60952796fe06e1280aaccac0e8d7b2392bd965840d3f9c2d14b3e0b0e177059a",
+      "commentary_after_sha256": "60952796fe06e1280aaccac0e8d7b2392bd965840d3f9c2d14b3e0b0e177059a",
+      "commentary_chars": 2293,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel124",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a124a",
+      "source_reading": "Volledige door-de-raad-ingestelde-commissievariant gelezen met lid/wethouder/burgemeester, persoonlijke routes en lagere strafbedreiging.",
+      "finding": "Behouden. Voortgaande vergadering sluit persoonlijke verwijdering niet uit; informeel overleg niet met wettelijk beschermde commissie gelijkgesteld. Geldermalsen-vonnis blijft uitdrukkelijk een toepassing van 124.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a124"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "b0ac85d751739e070a6978d3a49996ee0b58ec050eeec96fd638bd74511d0440",
+      "commentary_before_sha256": "f5eb191ae186223c1e4b69c5d9536aca193e99e4a8439f20f8d1541691a7c10f",
+      "commentary_after_sha256": "f5eb191ae186223c1e4b69c5d9536aca193e99e4a8439f20f8d1541691a7c10f",
+      "commentary_chars": 1987,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel124a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a125",
+      "source_reading": "Hele verkiezingsbepaling gelezen met wettelijke uitschrijving, gelegenheid, geweld of dreiging, opzettelijk verhinderen en eigen/andermans kiesrecht.",
+      "finding": "Behouden. Machtiging niet uit de strafbepaling afgeleid, werkelijk belemmerde vrije uitoefening vereist; mislukte uitvoering afzonderlijk aan 45 getoetst. Geen verwarring met gift, bedrog of identiteitsfraude.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a45",
+        "a126",
+        "a127",
+        "a128"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "9f9268dfe05c884406c9d23221a314662f32ee14c5cc2b8d8adada83cc3a9458",
+      "commentary_before_sha256": "d28c5da7210f2f54fc11a3a2afd73d80029b3378fa6076fd758e25a7d05d5fa3",
+      "commentary_after_sha256": "d28c5da7210f2f54fc11a3a2afd73d80029b3378fa6076fd758e25a7d05d5fa3",
+      "commentary_chars": 2017,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel125",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a126",
+      "source_reading": "Beide leden gelezen met actief/passief omkopen, gift/belofte, niet of bepaald stemmen, eigen/andermans kiesrecht en kiezer/gemachtigde. Hele HR2019:843 gelezen, specifiek 2.3 en 2.4.",
+      "finding": "Verduidelijkt. Het is de ontvanger die door aanvaarding onder concrete omstandigheden de redelijke verwachting wekt; eenzijdige hoop van de gever is daarmee niet gelijkgesteld. Geen uitdrukkelijke toezegging of directe overdracht geëist. Antilliaans recht blijft uitdrukkelijk vergelijkend, niet als Nederlandse directe holding gepresenteerd.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a45",
+        "a125",
+        "a127"
+      ],
+      "verified_case_sources": [
+        "ECLI:NL:HR:2019:843"
+      ],
+      "statutory_text_sha256": "a52ce6c051f0bd915f67ac73754b37f4cec93b4e640cbd2ef5d0fbce34e8dae1",
+      "commentary_before_sha256": "8d1f6fae64d7c54d5d0f2319e3647f3cb9e78d55df8a0d2b01df8bc8c16687f9",
+      "commentary_after_sha256": "8635c0cacf2aa383bf374d04e57e7346cefd2b940a84289b059d75edc9b447d5",
+      "commentary_chars": 2385,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel126",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a127",
+      "source_reading": "Hele bedrog-/gevolgbepaling gelezen met beide alternatieve gevolgen en causaliteit. Volledig HR2010:BK9221 gelezen en 130 naast de huidige tekst gelegd. Relevante passage primaire regeringsbrief 30821-112 gelezen.",
+      "finding": "Aangevuld. Artikel 130 noemt ook thans 127 niet; ontbrekende wettelijke kiesrechtontzetting kan niet door ernst worden aangevuld. Het cassatieoordeel blijft een motiveringsbeslissing over straf, geen vrijspraak of algemeen verbod op combinatie. Het vereiste stemgevolg en gewone fout/bedrog blijven onderscheiden.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a126",
+        "a128",
+        "a130"
+      ],
+      "verified_case_sources": [
+        "ECLI:NL:HR:2010:BK9221"
+      ],
+      "statutory_text_sha256": "93ffb88a194dc477d515425d1e7770699c24b038b6cb85b932fd8a864d7eca22",
+      "commentary_before_sha256": "7a1ef93154e24cb82877cfaf156c640b3dc7c22f20c72704e32019a87bae0e88",
+      "commentary_after_sha256": "3030a2fc5554befbf5ae498c08a3d040dc6605a9923019ce6b45f414b9b919fd",
+      "commentary_chars": 3034,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel127",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a128",
+      "source_reading": "Hele identiteits-/deelnemingsbepaling gelezen: opzettelijk zich voor ander uitgeven, wettelijke verkiezing en daadwerkelijke deelname; grens met volmacht en 45 gecontroleerd.",
+      "finding": "Behouden. Eigen kiesrecht sluit identiteitsfraude niet uit, geldige herkenbare volmacht is onderscheiden. Voorbereidend documentbezit niet automatisch voltooiing; geen verandering verkiezingswinnaar vereist.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a45",
+        "a127"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "ee5231a66264401fe0979fd8dc64bf70c1eb1fb8b451fa516d2ee8654c301aa3",
+      "commentary_before_sha256": "a533ee25e60c2d4c9c672a474a104d73426d938dd7dee0833bc80ee07707f92a",
+      "commentary_after_sha256": "a533ee25e60c2d4c9c672a474a104d73426d938dd7dee0833bc80ee07707f92a",
+      "commentary_chars": 2823,
+      "official_path": "/BoekTweede/TiteldeelIV/Artikel128",
+      "unresolved_blockers": []
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Bounded second pass of exactly twenty assigned units; no review or completion of the remaining 492 absent commentaries.",
+    "Selective case-law verification; district-court later procedural histories not established. Public full texts read; referenced evidence appendices and private case files not reconstructed.",
+    "HR2019:843 applies former Antilliaanse law and is used only as an expressly bounded comparison. HR2010:BK9221 concerns sentence reasoning, not a new general election-fraud interpretation.",
+    "Treaty catalog SHA-512 discrepancies remain as disclosed in sources/author-a117-a128-source-limitations.json. Available official definitions and preserved published primary extracts reviewed; no catalog authentication of those treaty bodies claimed.",
+    "Fresh official current code body itself passes official catalog SHA-512, independent full DOM inventory and content agreement. Technical length, link and repetition tests are not proof of legal quality.",
+    "No external professional approval or whole-book independent review claimed."
+  ],
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T19:17:09.650475+00:00",
+  "source_preflight": "sources/review-batch16-version-evidence.json",
+  "historical_comparison": "sources/review-batch16-historical-change-map.json",
+  "official_coverage": "sources/review-batch16-coverage.json",
+  "independent_dom_coverage": "coverage-evidence.json",
+  "case_fetch_log": "authorities/review-batch16-fetch-log.json",
+  "search_log": "authorities/review-batch16-search-log.json",
+  "protected_source_files_unchanged": true,
+  "other_commentary_files_unchanged": true,
+  "source_text_agreement": 1.0,
+  "total_commentaries": 320,
+  "remaining_commentaries": 492,
+  "supporting_evidence_findings": [
+    {
+      "finding": "Prior author history map missed whitespace-prefixed nr 124 in each historical body. Corrected review map includes it and independently confirms text equality; live units/parser were already correct.",
+      "evidence": "sources/review-batch16-historical-change-map.json",
+      "resolved": true
+    }
+  ],
+  "technical_validation": {
+    "statutory_text_agreement": 1.0,
+    "official_inventory_units": 812,
+    "independent_coverage_ok": true,
+    "all20_present": true,
+    "all20_rendered": true,
+    "all20_quoted_texts_equal": true,
+    "other_commentary_files_and_rendered_chapters_unchanged": true,
+    "local_links_ok": true,
+    "local_links_checked": 704,
+    "exact_repeated_long_paragraphs": 0,
+    "full_build_ok": false,
+    "out_of_scope_missing_commentaries": 492,
+    "build_result": "build-batch16-result.json",
+    "prose_check": "sources/review-batch16-prose-check.json"
+  }
+}

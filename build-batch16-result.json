@@ -1,0 +1,13 @@
+{
+  "command": [
+    "python3",
+    "-B",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
+  ],
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 492 jednotkám, např.: ['a129', 'a130', 'a130a', 'a130b', 'a131', 'a132', 'a133', 'a134', 'a134a', 'a135']\n",
+  "ran_at": "2026-10-20T19:18:19.521354+00:00",
+  "scope": "Unchanged whole-manuscript builder; expected refusal because 492 out-of-scope articles have no commentary. No narrowed build or placeholders used. Explicit incomplete checkpoint separately rendered by existing local helper."
+}

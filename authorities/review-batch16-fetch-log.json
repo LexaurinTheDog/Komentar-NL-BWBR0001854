@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2010%3ABK9221",
+    "accessed_at": "2026-10-20T19:12:08.844776+00:00",
+    "path": "authorities/review-batch16-ECLI-NL-HR-2010-BK9221.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2010%3ABK9221",
+    "sha256": "2060d149cbe55b25c8f35833e381a5460da59e291be9aed384997e119b7fc160",
+    "bytes": 12571,
+    "expected_format_valid": true,
+    "full_public_judgment": true,
+    "same_bytes_as_author_snapshot": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A843",
+    "accessed_at": "2026-10-20T19:12:08.845083+00:00",
+    "path": "authorities/review-batch16-ECLI-NL-HR-2019-843.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A843",
+    "sha256": "30bfc4af4968c89ba77b4dd1b2b9230f403af8ea7738e32e061c2beaaa0524f7",
+    "bytes": 28589,
+    "expected_format_valid": true,
+    "full_public_judgment": true,
+    "same_bytes_as_author_snapshot": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBDHA%3A2021%3A14437",
+    "accessed_at": "2026-10-20T19:12:08.845177+00:00",
+    "path": "authorities/review-batch16-ECLI-NL-RBDHA-2021-14437.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBDHA%3A2021%3A14437",
+    "sha256": "09ae4b80acc5ac7dfaf44414764f8c6d63d2b3089223ddc2529ae60b79f86b4f",
+    "bytes": 88853,
+    "expected_format_valid": true,
+    "full_public_judgment": true,
+    "same_bytes_as_author_snapshot": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBGEL%3A2016%3A3180",
+    "accessed_at": "2026-10-20T19:12:08.845241+00:00",
+    "path": "authorities/review-batch16-ECLI-NL-RBGEL-2016-3180.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBGEL%3A2016%3A3180",
+    "sha256": "528a83c544e641bf821548caef801f25a592271e758c94da22dd00a3f7cf2719",
+    "bytes": 64047,
+    "expected_format_valid": true,
+    "full_public_judgment": true,
+    "same_bytes_as_author_snapshot": true
+  }
+]

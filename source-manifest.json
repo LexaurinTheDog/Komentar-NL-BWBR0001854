@@ -1,9 +1,9 @@
 {
-  "scope": "Local primary evidence inventory; per-fetch HTTP/format outcomes and catalog discrepancies retained in logs. Inventory presence is not authentication.",
+  "scope": "Local retained primary evidence inventory; HTTP and format logs and catalog discrepancies kept separately. Inventory does not authenticate a body on its own.",
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/author-a117-a128-version-evidence.json",
-  "latest_bounded_limitations": "sources/author-a117-a128-source-limitations.json",
-  "generated_at": "2026-10-20T19:08:27.435380+00:00",
+  "latest_version_evidence": "sources/review-batch16-version-evidence.json",
+  "latest_bounded_review": "review-batch16-result.json",
+  "generated_at": "2026-10-20T19:18:19.521354+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -2451,6 +2451,81 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch16-before.json",
+      "bytes": 47848,
+      "sha256": "d7c39f618ffb950e6549c4a170a91d0af1f4b4c2f1edaad36941b336b096b8eb"
+    },
+    {
+      "path": "sources/review-batch16-coverage.json",
+      "bytes": 20828,
+      "sha256": "82c5ab65ed944911a3155bac2305acd14e1d073a2bf1374a1a902d26ffa83e5f"
+    },
+    {
+      "path": "sources/review-batch16-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch16-extra-fetch-log.json",
+      "bytes": 2075,
+      "sha256": "8e99f26c234e2978ea152aeb74792eb57ac664c8f18f5d2f92056581be8ffbf4"
+    },
+    {
+      "path": "sources/review-batch16-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "8d56f15be6e0b23f1493631158d95f25daa2c68ed89c197d3cbfdcc21aac9215"
+    },
+    {
+      "path": "sources/review-batch16-historical-change-map.json",
+      "bytes": 50155,
+      "sha256": "80910cdc8738d3d71ce0db43ebe081ca2f6886d409af9130a6ba263a7177baeb"
+    },
+    {
+      "path": "sources/review-batch16-kst-30821-112.html",
+      "bytes": 63633,
+      "sha256": "3b0cf96e649fd29fcf35eafcb4dce96badbd8689e91055ed61441395950790c9"
+    },
+    {
+      "path": "sources/review-batch16-kst-30821-112.txt",
+      "bytes": 32733,
+      "sha256": "4590dfb8df24ec1c50b66f62c508db1842a354be5c247dd41e508f4ccbbab502"
+    },
+    {
+      "path": "sources/review-batch16-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch16-prose-check.json",
+      "bytes": 1608,
+      "sha256": "27b6f40e90ae58bd05a83c9f5c1b50056b3b632be7aa140ae55f53bbacca66f8"
+    },
+    {
+      "path": "sources/review-batch16-stb-2019-187.html",
+      "bytes": 32943,
+      "sha256": "85be5bafd3bd026d9c289edf268af420e4c9c150d09f25555f960c776748f0d2"
+    },
+    {
+      "path": "sources/review-batch16-stb-2019-277.html",
+      "bytes": 22779,
+      "sha256": "4c79094576a0a49ac59c07455a993beb5f5fedda45e30965e18e39b4b13df299"
+    },
+    {
+      "path": "sources/review-batch16-version-evidence.json",
+      "bytes": 167693,
+      "sha256": "fe5735be71753cb8ae812cc0f0bd466397da874078056793e480b82db863b989"
+    },
+    {
+      "path": "sources/review-batch16-wetten.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/review-batch16-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -2462,8 +2537,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 155791,
-      "sha256": "23265fa83e0bd443ddae8ae2ff297314b2d95db69314706ef7913349bfd6ca14"
+      "bytes": 162841,
+      "sha256": "c67229edf8e9d5db75c51eb52bb3299b43fb28e9b1d60cebe3443f097e9c34c0"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -2587,8 +2662,8 @@
     },
     {
       "path": "authorities/HR-2010-BK9221.md",
-      "bytes": 2041,
-      "sha256": "3e9203bfeebb3bb80344d73ae696bcb8c11c2708e3009d8e79c730157f554d6c"
+      "bytes": 2280,
+      "sha256": "890fa73eee0f40e9dd73413cac6ba4df06c9b6ad6b6cdfd3bf6e6d6975a1aaa9"
     },
     {
       "path": "authorities/HR-2011-BM9102.md",
@@ -2687,8 +2762,8 @@
     },
     {
       "path": "authorities/HR-2019-843.md",
-      "bytes": 2075,
-      "sha256": "68260c9ab3247b16a2deb61352d58ab51f4197990ecab49aa2b2b4d5bc710340"
+      "bytes": 2314,
+      "sha256": "6b867a47bafd651f6fa54e83fc031fec9fbd06c67f5a40a30829f79f444d65ba"
     },
     {
       "path": "authorities/HR-2020-1378.md",
@@ -2807,13 +2882,13 @@
     },
     {
       "path": "authorities/RBDHA-2021-14437.md",
-      "bytes": 2683,
-      "sha256": "7c0a51124c62d5e82d4f3a35e49f980dea0ebb60c283626854081cbc0bb5631b"
+      "bytes": 2922,
+      "sha256": "e9cb64b0e0ae80769ec6b8cddf40ea0779a8c85fae01fafec01d0ee4ea12b55d"
     },
     {
       "path": "authorities/RBGEL-2016-3180.md",
-      "bytes": 2700,
-      "sha256": "e5f29983dd1d3e4445082eb357daf3bfffca6489241657dcaf45f8ec765e79c8"
+      "bytes": 3074,
+      "sha256": "00eb331d8ec496cbc2e918b6d743508a59363a149bed7f2851d7fd676e1f63f4"
     },
     {
       "path": "authorities/RBROT-2013-8265.md",
@@ -2924,6 +2999,36 @@
       "path": "authorities/review-batch15-search-log.json",
       "bytes": 7130,
       "sha256": "d1db02bb77feabb9d72088d6c77de9557a184a3e33a9a2533f34b33c7a2787f0"
+    },
+    {
+      "path": "authorities/review-batch16-ECLI-NL-HR-2010-BK9221.xml",
+      "bytes": 12571,
+      "sha256": "2060d149cbe55b25c8f35833e381a5460da59e291be9aed384997e119b7fc160"
+    },
+    {
+      "path": "authorities/review-batch16-ECLI-NL-HR-2019-843.xml",
+      "bytes": 28589,
+      "sha256": "30bfc4af4968c89ba77b4dd1b2b9230f403af8ea7738e32e061c2beaaa0524f7"
+    },
+    {
+      "path": "authorities/review-batch16-ECLI-NL-RBDHA-2021-14437.xml",
+      "bytes": 88853,
+      "sha256": "09ae4b80acc5ac7dfaf44414764f8c6d63d2b3089223ddc2529ae60b79f86b4f"
+    },
+    {
+      "path": "authorities/review-batch16-ECLI-NL-RBGEL-2016-3180.xml",
+      "bytes": 64047,
+      "sha256": "528a83c544e641bf821548caef801f25a592271e758c94da22dd00a3f7cf2719"
+    },
+    {
+      "path": "authorities/review-batch16-fetch-log.json",
+      "bytes": 2423,
+      "sha256": "d0d30127bec0aeef6758b3a2fd2c4b2244afe4ab31862fca9b35b344f7e48a40"
+    },
+    {
+      "path": "authorities/review-batch16-search-log.json",
+      "bytes": 7963,
+      "sha256": "557d3fa01b36a964be5ab0f969c80795a3630286f23bfc2aee555917563b65ac"
     },
     {
       "path": "authorities/search-log.json",

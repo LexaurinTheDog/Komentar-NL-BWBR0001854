@@ -1,0 +1,89 @@
+{
+  "scope": [
+    "a117",
+    "a117a",
+    "a117b",
+    "a118",
+    "a119",
+    "a120",
+    "a120a",
+    "a120b",
+    "a120c",
+    "a121",
+    "a121a",
+    "a122",
+    "a123",
+    "a123a",
+    "a124",
+    "a124a",
+    "a125",
+    "a126",
+    "a127",
+    "a128"
+  ],
+  "all_assigned_commentaries_present": true,
+  "no_placeholders_in_rendered_batch": true,
+  "exact_repeated_long_paragraphs": [],
+  "highest_pairwise_similarities": [
+    {
+      "ids": [
+        "a120b",
+        "a122"
+      ],
+      "ratio": 0.3965
+    },
+    {
+      "ids": [
+        "a121",
+        "a123"
+      ],
+      "ratio": 0.3916
+    },
+    {
+      "ids": [
+        "a121a",
+        "a124a"
+      ],
+      "ratio": 0.3455
+    },
+    {
+      "ids": [
+        "a123a",
+        "a124a"
+      ],
+      "ratio": 0.3357
+    },
+    {
+      "ids": [
+        "a117b",
+        "a124"
+      ],
+      "ratio": 0.32
+    },
+    {
+      "ids": [
+        "a124a",
+        "a125"
+      ],
+      "ratio": 0.3182
+    },
+    {
+      "ids": [
+        "a121a",
+        "a123"
+      ],
+      "ratio": 0.3167
+    },
+    {
+      "ids": [
+        "a121",
+        "a123a"
+      ],
+      "ratio": 0.3159
+    }
+  ],
+  "inspection": "Each assigned commentary manually read alongside its own statute. Parallel parliamentary/provincial/municipal rules retain their different institutions, roles and maxima; similarities do not substitute for element-by-element review. No mechanically repeated generic paragraph found.",
+  "other_commentary_files_unchanged": true,
+  "all_other_rendered_chapters_unchanged": true,
+  "minimum_length_is_not_legal_quality": true
+}
