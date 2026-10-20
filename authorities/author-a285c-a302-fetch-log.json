@@ -1,0 +1,32 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2013:963",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:963",
+    "accessed_at": "2026-10-20T23:27:52.765778+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "c0f445aca55a4440ac910a85101665b5aefb79103e33354dabf77da5b8a1dc21",
+    "path": "authorities/author-a285c-a302-ECLI-NL-HR-2013-963.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:1051",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1051",
+    "accessed_at": "2026-10-20T23:27:52.935167+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "143d26994f6868ba961aabafde8fb7dc114b1c1ed0ea31cfdf7e85a03807b29b",
+    "path": "authorities/author-a285c-a302-ECLI-NL-HR-2018-1051.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2020:712",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:712",
+    "accessed_at": "2026-10-20T23:27:53.199553+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "76c451ae7b9e823fa4d80e49a3d34c49da8a5f36176d3da0f00cebccec4fa4f8",
+    "path": "authorities/author-a285c-a302-ECLI-NL-HR-2020-712.xml",
+    "fulltext_valid": true
+  }
+]

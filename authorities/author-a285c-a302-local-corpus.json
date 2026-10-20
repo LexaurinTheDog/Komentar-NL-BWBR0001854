@@ -1,0 +1,26 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2013:963",
+    "read_only_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-963.md",
+    "sha256": "5c6c231d03decb0c47c80824f106ca3b9c3021aed1b693ee097137af768b08db",
+    "read_chars": 23255,
+    "full_primary_snapshot": "authorities/author-a285c-a302-ECLI-NL-HR-2013-963.xml",
+    "primary_ecli_present": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:1051",
+    "read_only_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1051.md",
+    "sha256": "26c3e9b4fae8b31f8a7f8885e66eaf3a3b27d16924316be0db1c7e09a6c5ae3d",
+    "read_chars": 14562,
+    "full_primary_snapshot": "authorities/author-a285c-a302-ECLI-NL-HR-2018-1051.xml",
+    "primary_ecli_present": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2020:712",
+    "read_only_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-712.md",
+    "sha256": "6111e402edefbbca48c3833acf17892b9f2f96165fcf49c445b282afe41cf056",
+    "read_chars": 107207,
+    "full_primary_snapshot": "authorities/author-a285c-a302-ECLI-NL-HR-2020-712.xml",
+    "primary_ecli_present": true
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "searched_at": "2026-10-20T23:32:32.281622+00:00",
+  "method": "Gerichte identificatie en volledige lezing in officiële openbare databank; controle overeenkomstige nationale lokale corpusteksten. Geen brede of uitputtende zoekactie.",
+  "queries": [
+    {
+      "endpoint": "https://data.rechtspraak.nl/uitspraken/content",
+      "id": "ECLI:NL:HR:2013:963"
+    },
+    {
+      "endpoint": "https://data.rechtspraak.nl/uitspraken/content",
+      "id": "ECLI:NL:HR:2018:1051"
+    },
+    {
+      "endpoint": "https://data.rechtspraak.nl/uitspraken/content",
+      "id": "ECLI:NL:HR:2020:712"
+    }
+  ],
+  "web_checks": [
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "result": "web fetch HTTP 429; official repository XML used successfully"
+    },
+    {
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:963",
+      "result": "HTML shell only; full official data XML used"
+    },
+    {
+      "queries": [
+        "site.wetten.overheid.nl \"Wet toetsing levensbeëindiging\" \"BWBR\"",
+        "site.wetten.overheid.nl \"Wet afbreking zwangerschap\" \"BWBR\""
+      ],
+      "result": "Search snippets not relied on; actual official XML separately fetched and read"
+    }
+  ],
+  "full_judgments_read": [
+    "ECLI:NL:HR:2013:963",
+    "ECLI:NL:HR:2018:1051",
+    "ECLI:NL:HR:2020:712"
+  ],
+  "supported_units": [
+    "a289",
+    "a293",
+    "a300",
+    "a301",
+    "a302"
+  ],
+  "other_units": "Geen voldoende relevante volledig geverifieerde uitspraak voor opname geselecteerd. Geen stelling dat zulke rechtspraak niet bestaat.",
+  "local_corpus": "authorities/author-a285c-a302-local-corpus.json",
+  "historical_check": "sources/author-a285c-a302-case-statute-comparison.json",
+  "limitations": [
+    "Selectieve jurisprudentie, geen volledige actualiteits- of latere-behandelingsaudit.",
+    "Geen commerciële annotaties gebruikt."
+  ]
+}

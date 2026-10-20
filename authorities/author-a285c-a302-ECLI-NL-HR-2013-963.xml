@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2013:963</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T01:42:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-10-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2013-10-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">12/00655</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2013:757" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2013:757</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=289">Wetboek van Strafrecht 289</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2013/1303</rdf:li>
+          <rdf:li>NJB 2013/2310</rdf:li>
+          <rdf:li>NJ 2014/156 met annotatie van B.F. Keulen</rdf:li>
+          <rdf:li>VA 2014/17</rdf:li>
+          <rdf:li>JIN 2013/209 met annotatie van C.J.A. de Bruijn</rdf:li>
+          <rdf:li>SR-Updates.nl 2013-0396</rdf:li>
+          <rdf:li>NbSr 2013/356</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:963">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:963</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-10-15T15:32:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-10-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2013:963 Hoge Raad , 15-10-2013 / 12/00655</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2013:963:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Poging doodslag/moord. Voorbedachte raad. HR herhaalt de toepasselijke overweging m.b.t. voorbedachte raad uit ECLI:NL:HR:2012:BR2342. De achtergrond van het vereiste dat de verdachte de gelegenheid heeft gehad na te denken over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap te geven, is dat ingeval vaststaat dat de verdachte die gelegenheid heeft gehad, het redelijk is aan te nemen dat de verdachte daarvan gebruik heeft gemaakt en dus daadwerkelijk heeft nagedacht over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap heeft gegeven. Dat de verdachte daadwerkelijk heeft nagedacht en zich rekenschap heeft gegeven leent zich immers moeilijk voor strafrechtelijk bewijs, zeker in het geval dat de verklaringen van de verdachte en/of eventuele getuigen geen inzicht geven in hetgeen voor en t.t.v. het begaan van het feit in de verdachte is omgegaan. Of in een dergelijk geval voorbedachte raad bewezen kan worden, hangt dan sterk af van de gelegenheid en de overige feitelijke omstandigheden van het geval. De enkele omstandigheid dat niet is komen vast te staan dat is gehandeld in een ogenblikkelijke gemoedsopwelling, is niet toereikend om daaraan de gevolgtrekking te verbinden dat sprake is van voorbedachte raad. Tegen deze achtergrond heeft het Hof zijn oordeel dat de voorbedachte raad kan worden bewezenverklaard niet toereikend gemotiveerd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2013:963:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>15 oktober 2013</para>
+    <para>Strafkamer</para>
+    <para>nr. 12/00655</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Gravenhage van 24 januari 2012, nummer 22/005961-10, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1972. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>	Het beroep is ingesteld door de verdachte. Namens deze heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van het bestreden arrest voor zover het de opgelegde straf betreft, tot terugwijzing van de zaak naar het Gerechtshof, dan wel verwijzing naar een aangrenzend hof, teneinde in zoverre op het bestaande beroep opnieuw te worden berecht en afgedaan, en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Bewezenverklaring en bewijsvoering</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Het Hof heeft ten laste van de verdachte bewezenverklaard dat:</para>
+        <para>"hij op 25 januari 2010 te Rotterdam ter uitvoering van het door verdachte voorgenomen misdrijf om opzettelijk een persoon genaamd [betrokkene 1] van het leven te beroven met dat opzet</para>
+        <para>- met een mes in de hals van [betrokkene 1] heeft gestoken en </para>
+        <para>daarna ter uitvoering van het door de verdachte voorgenomen misdrijf om opzettelijk en met voorbedachten rade die persoon genaamd [betrokkene 1] van het leven te beroven met dat opzet en na kalm beraad en rustig overleg </para>
+        <para>- met een mes een stekende beweging naar de hals van [betrokkene 1] heeft gemaakt,</para>
+        <para>terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+        <para>"1. Een proces-verbaal van de politie Rotterdam-Rijnmond d.d. 25 januari 2010 met nummer PL2010027113-1, in wettelijke vorm opgemaakt en ondertekend door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende - kort en zakelijk weergegeven -: met als de op 25 januari 2010 tegenover die verbalisant afgelegde verklaring van aangever [betrokkene 1]:</para>
+        <para>Op 25 januari 2010 was ik werkzaam in snackbar "[A]" te Rotterdam. Omstreeks 02:45 uur waren vier klanten in de zaak. Twee klanten ken ik niet bij naam. Ik zal één van deze de "dader" noemen want hij heeft mij gestoken en de andere man noem ik de "oude man". Ik stond achter de balie. De dader en de oude man kwamen samen binnenlopen. Ik zag dat de dader aan een tafel en op een van de stoelen daarbij aan de rechterzijde van de snackbar ging zitten. Terwijl de dader mij aankeek, hoorde ik dat hij iets tegen mij zei in de Turkse taal. Ik verstond niet alles wat hij zei, maar ik hoorde iets van "moeder" en "ik neuk je moeder" of woorden van gelijke strekking. Ik zei tegen de dader dat hij alles tegen mij mocht zeggen, maar niets over mijn moeder. Opeens stond de dader op en schreeuwde in de Nederlandse taal dat hij niets over mijn moeder had gezegd. Ik zei tegen hem dat ik hem wel had verstaan. Ik zag dat hij boos werd en driftig met zijn armen stond te zwaaien. Ik hoorde dat hij diverse malen riep: "homo en klootzak." Ik liep hierop achter de balie vandaan. Ik zei dat hij weg moest gaan, omdat zijn eten op was. Op dat moment stonden de dader en ik een kleine meter van elkaar af voor de balie. De dader werd agressief en wilde steeds op mij afkomen. Ik hoorde dat hij naar mij schreeuwde. Ik hield steeds afstand van de dader. Opeens zag ik dat de dader iets in zijn rechterhand had. Ik kon niet zien wat het was. Ik zag dat hij met zijn gestrekte rechterarm op mij afkwam lopen. Opeens voelde ik bloed over mijn borst lopen. Ik draaide mij om en zag in de spiegel een snee aan de linkerzijde van mijn nek zitten. De snee was een centimeter of acht en bloedde erg. Ik was in één keer van de kaart en probeerde met mijn hand de wond dicht te duwen. Ik probeerde 112 te bellen met mijn mobiele telefoon. Dat ging niet gemakkelijk, want ik moest de dader tegenhouden. Ik ben met de ambulance meegegaan en in het EMC hebben ze de snee in mijn nek gehecht. Ik ben erg geschrokken en bang. Ik dacht ook echt dat ik dood zou gaan.</para>
+        <para>2. Het proces-verbaal van de raadsheer-commissaris, belast met de behandeling van strafzaken bij het gerechtshof te 's-Gravenhage. Dit proces-verbaal houdt onder meer in - zakelijk weergeven -: als de op 31 augustus 2011 tegenover deze raadsheer-commissaris afgelegde verklaring van aangever [betrokkene 1]:</para>
+        <para>We liepen met z'n drieën in de zaak in rondjes. De verdachte wilde niet weg. Toen gebeurde het opeens dat hij mij stak in mijn nek. [betrokkene 2] hielp mij na de eerste keer dat ik was gestoken. De tweede keer probeerde ik het mes weg te halen en werd ik in mijn hand gestoken.</para>
+        <para>3. Een geschrift, zijnde een medische verklaring van de Forensisch Artsen Rotterdam Rijnmond d.d. 16 februari 2010 betreffende [betrokkene 1], opgemaakt en ondertekend door de forensisch arts L.C. Los, voor zover inhoudende - kort en zakelijk weergegeven -:
+Letselbeschrijving en conclusies</para>
+        <para>Informatie SEH arts Erasmus MC over bezoek 25 januari 2010.</para>
+        <para>Objectieve bevindingen: wond van +/- 8 cm in de hals links tot in de onderhuid. Wond gehecht met 5 hechtingen. Genezingsduur: +/- 2 weken, blijvende littekens.</para>
+        <para>4. Een proces-verbaal van de politie Rotterdam-Rijnmond d.d. 25 januari 2010 met nummer PL2010027113-8, in wettelijke vorm opgemaakt en ondertekend door twee daartoe bevoegde opsporingsambtenaren, voor zover inhoudende - kort en zakelijk weergegeven -: Met als relaas van deze opsporingsambtenaren:</para>
+        <para>Op maandag 25 januari 2009 (het hof begrijpt: 25 januari 2010) omstreeks 3.18 uur werden wij verbalisanten door de regionale politiemeldkamer Rotterdam-Rijnmond gestuurd naar de [a-straat 1] te Rotterdam. Aldaar is snackbar "[A]" gevestigd. Wij verbalisanten hebben in de snackbar fotografische opnamen gemaakt van een mes dat werd aangetroffen achter de toonbank. Wij hebben het mes in beslag genomen.</para>
+        <para>5. Een proces-verbaal van de politie Rotterdam-Rijnmond d.d. 8 februari 2010 met nummer PL2010027113-25, in wettelijke vorm opgemaakt en ondertekend door een daartoe bevoegde opsporingsambtenaar, voor zover inhoudende - kort en zakelijk weergegeven -: Met als relaas van deze opsporingsambtenaar:</para>
+        <para>Het op 25 januari 2010 in de snackbar [A] in beslag genomen mes betreft een zogenaamd zakmes/vissersmes van het merk "Walther" en is geheel van metaal. Het mes bestaat uit een metalen lemmet van 7,9 centimeter lang en 2,5 centimeter breed en heeft één snijkant. Het metalen handvat is 10,5 centimeter lang waarop een zogenaamde "centerpons", een stalen pen met een harde punt, aan de achterzijde is bevestigd. Het mes is enkelhandig te openen en te sluiten door middel van een ingebouwd veermechanisme.</para>
+        <para>6. Een proces-verbaal van bevindingen van de politie Rotterdam-Rijnmond d.d. 26 januari 2010 met nummer PL2010027113-18, in wettelijke vorm opgemaakt en ondertekend door twee daartoe bevoegde opsporingsambtenaren, voor zover inhoudende - kort en zakelijk weergegeven -: Met als relaas van deze opsporingsambtenaren:</para>
+        <para>Wij stelden een onderzoek in naar de opgenomen videobeelden van een steekincident in de snackbar [A] gelegen aan de [a-straat 1] te Rotterdam. Wij keken naar deze videobeelden. Wij zagen de beelden van een tweetal camera's namelijk VS-02 Camera 1 en VS-02 Camera 2. De beelden van beiden camera's werden naast elkaar afgespeeld. Wij zagen dat de starttijd van de veiliggestelde beelden 02.58.47 uur was.</para>
+        <para>02.58.47</para>
+        <para>Wij zagen op de beelden de ambtshalve bekende verdachte [verdachte], nader te noemen 'verdachte', en de aangever [betrokkene 1], nader te noemen 'aangever'. Verder zagen wij vier onbekende personen in de publieke ruimte en een medewerker van Snackbar [A] achter de toonbank. Wij zagen dat de verdachte samen met een kalende man eten bestelde bij aangever.</para>
+      </parablock>
+      <paragroup>
+        <nr>03.00.36</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat verdachte samen met de kalende man aan een tafel ging zitten in de publieke ruimte. Dit was de tafel links van de toonbank, nagenoeg tegen de toonbank aan.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.06.47</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat aangever met zijn vinger wees naar verdachte. Wij zagen dat verdachte hierop opstond. Wij zagen dat zij kennelijk een discussie hadden waarbij veel handgebaren werden gemaakt. Wij zagen dat verdachte en aangever op dit moment met hun gezichten ongeveer 20 à 30 centimeter van elkaar verwijderd waren.</para>
+          <para>03.06.59</para>
+          <para>Wij zagen dat de kalende man verdachte probeerde weg te krijgen van de toonbank door hem weg te trekken.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.07.07</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat aangever achter de toonbank weg liep en de publieke ruimte inliep. Wij zagen dat aangever en verdachte constant in elkaars richting keken en tegen elkaar spraken.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.07.18</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat het met vier personen, namelijk aangever, verdachte, een negroïde man en de kalende man, tot een soort duwen en trekken kwam. Hierbij probeerden de kalende en de negroïde man aangever en verdachte uit elkaar te houden. Wij zagen dat de discussie nog steeds plaats vond en dat verdachte aangever opzocht ondanks tussenkomst van de kalende en de negroïde man.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.08.20</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat aangever en verdachte werden gescheiden, maar dat er wederom een hevige discussie ontstond. Wij zagen dat de kalende man de verdachte probeerde weg te trekken bij aangever.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.08.26</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat verdachte in zijn rechterhand een voorwerp vasthield. Dit voorwerp kwam bij of uit de jas van verdachte vandaan. Wij zagen dat dit een mes betrof.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.08.27</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat verdachte met zijn rechterhand het lemmet uit het heft klikte en met zijn rechterarm een zwaai maakte naar de hals van aangever. Wij zagen dat verdachte met het mes de linkerzijde van de hals van aangever raakte en het mes daar in zijn hals stak. Wij zagen dat verdachte daarbij met zijn arm over de negroïde persoon, die vlak voor hem stond, heen zwaaide. Wij zagen dat aangever direct met zijn linkerhand naar zijn hals greep. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.08.33</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat verdachte in de richting van de toegangsdeur van de snackbar werd gewerkt. Wij zagen dat verdachte nog steeds in zijn rechterhand het mes vasthield en in zijn linkerhand etenswaar. Wij zagen dat verdachte vlak na elkaar het mes in en uitklikte met zijn rechterhand.</para>
+          <para>03.08.47</para>
+          <para>Wij zagen dat verdachte bij de automaten, rechts van de toonbank, stond en dat aangever links van de toonbank stond. Wij zagen dat iedereen in de snackbar afstand bewaarde tot verdachte. Wij zagen dat verdachte zijn rechterhand achter zijn rug hield. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.09.14</nr>
+        <parablock>
+          <para>uur</para>
+          <para>Wij zagen dat verdachte langzaam naar aangever liep.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>03.09.17</nr>
+        <parablock>
+          <para>uur</para>
+          <para>We zagen dat verdachte op maximaal één meter van aangever stond en dat verdachte met zijn rechterhand plotseling uithaalde naar het gezicht of de hals van aangever. We zagen dat verdachte het mes in zijn rechterhand nog steeds vasthield. We zagen dat verdachte rakelings langs het gezicht of de hals van aangever schoot met zijn rechterhand en dat aangever hierop reageerde door met zijn linkerhand tegen de rechterarm van verdachte te slaan. We zagen dat hierdoor het mes uit de handen van verdachte over de toonbank viel.</para>
+          <para>7. Het proces-verbaal van de raadsheer-commissaris, belast met de behandeling van strafzaken bij het gerechtshof te 's-Gravenhage. Dit proces-verbaal houdt onder meer in - zakelijk weergeven -: als de op 31 augustus 2011 tegenover deze raadsheercommissaris afgelegde verklaring van [betrokkene 3]:</para>
+          <para>U vraagt mij waar [betrokkene 1] was toen hij [verdachte] vroeg zachter te praten. Nadat er iets over [betrokkene 1] zijn moeder is gezegd, is [betrokkene 1] vanachter de balie vandaan gekomen en is hij bij de eettafel gaan staan op ongeveer een halve meter afstand. Op het moment dat [betrokkene 1] zei dat hij weg moest, is [verdachte] opgestaan. Ik zag dat [betrokkene 1] op een gegeven moment zijn hand op zijn nek had. Ik zag bloed. Hij heeft gezegd dat de politie gebeld moest worden. Er waren drie mensen in de zaak die [betrokkene 1] gingen helpen. [verdachte] probeerde hem weer te steken. Dit heb ik gezien. Ik heb niet precies gezien van welke kant [verdachte] stak, maar het mes ging in de richting van de hals van [betrokkene 1]. [verdachte] is een lang persoon. [verdachte] is bijna zo lang als [betrokkene 1]. Ik denk dat [betrokkene 1] ongeveer twee meter is.</para>
+          <para>8. Een geschrift, zijnde een schriftelijke verklaring van [betrokkene 4] overgelegd door de raadsvrouw ter terechtzitting in eerste aanleg d.d. 27 oktober 2010, voor zover inhoudende - kort en zakelijk weergegeven -:</para>
+          <para>Ik was op een avond eind januari 2010 met [verdachte] eerst wat gaan drinken in een café. Wij zijn na sluitingstijd naar een daar vlakbij gelegen snackbar gegaan om wat te eten te kopen."</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Voorts heeft het Hof – voor zover in cassatie van belang – nog het volgende overwogen:</para>
+        <para>"Voorbedachte raad.</para>
+        <para>De raadsvrouwe heeft het ter zitting in hoger beroep aangevoerd dat de verdachte niet met "snode plannen" de snackbar is ingegaan en dat daarvan op de ter terechtzitting getoonde camerabeelden ook geen tekenen zijn te herkennen. Het hof begrijpt het voorgaande aldus dat de raadsvrouw meent dat de verdachte niet heeft gehandeld met voorbedachte raad en daarvan behoort te worden vrijgesproken.</para>
+        <para>De advocaat-generaal heeft zich op het standpunt gesteld dat de verdachte telkens heeft gehandeld met voorbedachte raad. Hij heeft daartoe in zijn op schrift gesteld requisitoir onder meer gewezen op de omstandigheid dat de verdachte tijd heeft gehad om zich te beraden op zijn beslissing of hij zijn mes zou gebruiken of niet en dat hij voldoende gelegenheid heeft gehad om zich te beraden over het al dan niet uitvoeren van die beslissing; de steekbewegingen van de verdachte waren geen uitingen van een ogenblikkelijke hevige gemoedsbeweging.</para>
+        <para>Het hof overweegt hieromtrent als volgt.</para>
+        <para>De eerste steekbeweging.</para>
+        <para>Anders dan de advocaat-generaal is het hof met de rechtbank van oordeel dat onvoldoende wettig en overtuigend bewijs voorhanden is dat de verdachte de eerste keer dat hij met zijn mes naar de verdachte stak heeft gehandeld met voorbedachte raad. Naar het oordeel van het hof heeft de verdachte op dat moment in een ogenblikkelijke gemoedsopwelling gestoken.</para>
+        <para>De tweede steekbeweging.</para>
+        <para>Anders dan de rechtbank is het hof echter met de advocaat-generaal van oordeel dat de verdachte ten tijde van het tweede steekincident - dat ongeveer 50 seconden na het eerste steekincident plaatsvond - wel met voorbedachte raad heeft gehandeld. Gelet op de tijdspanne die is gelegen tussen het moment waarop de verdachte [betrokkene 1] met het mes in de hals heeft gestoken en het moment dat hij voor de tweede keer [betrokkene 1] met het mes in zijn hals probeerde te steken, heeft de verdachte tijd gehad om zich te beraden op het te nemen of genomen besluit om [betrokkene 1] nogmaals met het mes te steken en zich rekenschap te geven van de gevolgen van zijn daad. De verdachte heeft voorts gestoken nadat hij zelf - vanuit een situatie waarin het, zij het kortdurend, rustig was en hij alleen stond - op [betrokkene 1] is afgelopen, waarna hij vrijwel direct heeft gestoken, zodat hij naar het oordeel van het hof niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling. Onder genoemde omstandigheden is het hof van oordeel dat de verdachte met voorbedachte raad heeft gehandeld toen hij [betrokkene 1] voor de tweede keer probeerde te steken." </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt dat de bewezenverklaring, voor zover inhoudende dat de verdachte met voorbedachte raad heeft gehandeld, ontoereikend is gemotiveerd.</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1.</nr>
+        <parablock>
+          <para>Art. 289 Sr luidt:</para>
+          <para>"Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2.</nr>
+        <parablock>
+          <para>De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de vaststelling van het Wetboek van Strafrecht houdt omtrent deze bepaling onder meer het volgende in:</para>
+          <para>"Moord is de doodslag met voorbedachten rade begaan. </para>
+          <para>Ten onregte heeft art. 297 C.P. het begrip van voorbedachten rade omschreven door »dessein formé avant l'action". Immers aan elke opzettelijke daad gaat een »dessein" vooraf, al zij dit slechts door eene zeer kleine tijdsruimte van de daad gescheiden. De uitdrukking voorbedachte raad zelve, zonder eenige wettelijke omschrijving, wijst duidelijk aan wat vereischt wordt, namelijk een tijdstip van kalm overleg, van bedaard nadenken; het tegenovergestelde van oogenblikkelijke gemoedsopwelling." (H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel II, 1881, p. 437)</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <parablock>
+        <para>Voor een bewezenverklaring van het bestanddeel 'voorbedachte raad' moet komen vast te staan dat de verdachte zich gedurende enige tijd heeft kunnen beraden op het te nemen of het genomen besluit en dat hij niet heeft gehandeld in een ogenblikkelijke gemoedsopwelling, zodat hij de gelegenheid heeft gehad na te denken over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap te geven.</para>
+        <para>Bij de vraag of sprake is van voorbedachte raad gaat het bij uitstek om een weging en waardering van de omstandigheden van het concrete geval door de rechter, waarbij deze het gewicht moet bepalen van de aanwijzingen die voor of tegen het bewezen verklaren van voorbedachte raad pleiten. De vaststelling dat de verdachte voldoende tijd had om zich te beraden op het te nemen of het genomen besluit vormt weliswaar een belangrijke objectieve aanwijzing dat met voorbedachte raad is gehandeld, maar behoeft de rechter niet ervan te weerhouden aan contra-indicaties een zwaarder gewicht toe te kennen. Daarbij kan bijvoorbeeld worden gedacht aan de omstandigheid dat de besluitvorming en uitvoering in plotselinge hevige drift plaatsvinden, dat slechts sprake is van een korte tijdspanne tussen besluit en uitvoering of dat de gelegenheid tot beraad eerst tijdens de uitvoering van het besluit ontstaat. Zo kunnen bepaalde omstandigheden (of een samenstel daarvan) de rechter uiteindelijk tot het oordeel brengen dat de verdachte in het gegeven geval niet met voorbedachte raad heeft gehandeld.</para>
+        <para>Mede met het oog op het strafverzwarende gevolg dat dit bestanddeel heeft, moeten aan de vaststelling dat de voor voorbedachte raad vereiste gelegenheid heeft bestaan, bepaaldelijk eisen worden gesteld en dient de rechter, in het bijzonder indien de voorbedachte raad niet rechtstreeks uit de bewijsmiddelen volgt, daaraan in zijn motivering van de bewezenverklaring nadere aandacht te geven (vgl. HR 28 februari 2012, ECLI:NL:HR:2012:BR2342, NJ 2012/518).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <parablock>
+        <para>De achtergrond van het vereiste dat de verdachte de gelegenheid heeft gehad na te denken over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap te geven, is dat ingeval vaststaat dat de verdachte die gelegenheid heeft gehad, het redelijk is aan te nemen dat de verdachte gebruik heeft gemaakt van die gelegenheid en dus daadwerkelijk heeft nagedacht over de betekenis en de gevolgen van zijn voorgenomen daad en zich daarvan rekenschap heeft gegeven (vgl. het overleg en nadenken dat in de wetsgeschiedenis is geplaatst tegenover de ogenblikkelijke gemoedsopwelling). Dat de verdachte daadwerkelijk heeft nagedacht en zich rekenschap heeft gegeven leent zich immers moeilijk voor strafrechtelijk bewijs, zeker in het geval dat de verklaringen van de verdachte en/of eventuele getuigen geen inzicht geven in hetgeen voor en ten tijde van het begaan van het feit in de verdachte is omgegaan. Of in een dergelijk geval voorbedachte raad bewezen kan worden, hangt dan sterk af van de hierboven bedoelde gelegenheid en van de overige feitelijke omstandigheden van het geval zoals de aard van het feit, de omstandigheden waaronder het is begaan alsmede de gedragingen van de verdachte voor en tijdens het begaan van het feit. Daarbij verdient opmerking dat de enkele omstandigheid dat niet is komen vast te staan dat is gehandeld in een ogenblikkelijke gemoedsopwelling, niet toereikend is om daaraan de gevolgtrekking te verbinden dat sprake is van voorbedachte raad.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Tegen de achtergrond van het voorafgaande heeft het Hof zijn oordeel dat de voorbedachte raad kan worden bewezenverklaard niet toereikend gemotiveerd. Daarbij neemt de Hoge Raad in het bijzonder in aanmerking hetgeen het Hof heeft overwogen met betrekking tot de gelegenheid tot nadenken en het zich rekenschap geven in verband met de in de overwegingen van het Hof vervatte contra-indicaties – in onderling verband en samenhang bezien – (i) dat de verdachte de eerste steek in een ogenblikkelijke gemoedsopwelling heeft toegebracht en (ii) dat het tweede steekincident korte tijd – ongeveer 50 seconden – daarna plaatsvond.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>Het middel is terecht voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak niet in stand kan blijven, de middelen voor het overige geen bespreking behoeven en als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak;</para>
+      <para>wijst de zaak terug naar het Gerechtshof Den Haag, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu, H.A.G. Splinter-van Kan, Y. Buruma en V. van den Brink, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">15 oktober 2013</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -5148,6 +5148,140 @@
       "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
       "bytes": 4600683,
       "disposition": "Entry-point response preserved. Effective legal text verified from official BWB repository XML, manifest intervals, SHA-512 and WTI; HTML not used as canonical source."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T23:27:41.651447+00:00",
+      "path": "sources/author-a285c-a302-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T23:27:41.975984+00:00",
+      "path": "sources/author-a285c-a302-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T23:27:42.782509+00:00",
+      "path": "sources/author-a285c-a302-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-20T23:31:16.543454+00:00",
+      "path": "sources/author-a285c-a302-previous.xml",
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2013-09-01_0/xml/BWBR0001854_2013-09-01_0.xml",
+      "accessed_at": "2026-10-20T23:31:35.979424+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-historical-2013-09-01_0.xml",
+      "sha256": "4aefeec1c2160dd635364ade8afca68315bfde437ed709b6ea8bda4f2344a404",
+      "expected_format": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2018-07-01_0/xml/BWBR0001854_2018-07-01_0.xml",
+      "accessed_at": "2026-10-20T23:31:36.929264+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-historical-2018-07-01_0.xml",
+      "sha256": "6f46a88797704aa15b6f6345ed1b820d37212608388fdf511a59df73f2188cca",
+      "expected_format": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-01-01_0/xml/BWBR0001854_2020-01-01_0.xml",
+      "accessed_at": "2026-10-20T23:31:37.949960+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-historical-2020-01-01_0.xml",
+      "sha256": "a3ebca0a138f59cad1af3c9847e4478dd110ba369065488b1a65dff2ae6791ca",
+      "expected_format": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0012410/manifest.xml",
+      "accessed_at": "2026-10-20T23:31:38.873195+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0012410-manifest.xml",
+      "sha256": "85b83bb8782568a4491d7e4d1182ab6599dbe4a659648a972ad9326ee69152cb",
+      "expected_format": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0012410/2021-10-01_0/xml/BWBR0012410_2021-10-01_0.xml",
+      "accessed_at": "2026-10-20T23:31:39.019026+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0012410-effective.xml",
+      "sha256": "420cbb35cac0835f27e357af46ab7e0d39447d67025f0ffb8410a4dd565e4c9e",
+      "expected_format": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003396/manifest.xml",
+      "accessed_at": "2026-10-20T23:31:39.273989+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0003396-manifest.xml",
+      "sha256": "454f9221092b0e837fec83f79574e33105fcdb08a078048c7a99db9cae92e2ac",
+      "expected_format": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0003396/2025-07-05_0/xml/BWBR0003396_2025-07-05_0.xml",
+      "accessed_at": "2026-10-20T23:31:39.420989+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0003396-effective.xml",
+      "sha256": "5f9bcb66840240152dc2da37ebf718a4323fef4bbb841d6f90d8c1eec9d60926",
+      "expected_format": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005009/manifest.xml",
+      "accessed_at": "2026-10-20T23:31:39.671061+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0005009-manifest.xml",
+      "sha256": "f7d399407559f778d0c00931c00c1a52af6ad3c2a13e084f714fa0c33c206a0b",
+      "expected_format": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0005009/2026-07-01_0/xml/BWBR0005009_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T23:31:39.806442+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a285c-a302-BWBR0005009-effective.xml",
+      "sha256": "9e9fb479d55fc205980c2aaf8876f2571d25ad8f9f58b6f67ed739332f6e200c",
+      "expected_format": "toestand",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,

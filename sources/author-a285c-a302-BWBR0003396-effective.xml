@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0003396/2025-07-05/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0003396" inwerkingtreding="2025-07-05"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="1834263" versie-id="29242112" id="C41622351" label-id="1788984" inwerkingtredingsdatum="2023-01-16">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="1834283" versie-id="2737022" id="C2737021" label-id="1788764" inwerking="1984-11-01" bron="Stb.1981-257" effect="nieuwe-regeling" ondertekening_bron="1981-05-01" status="goed">Wet van 1 mei 1981, houdende regelen met betrekking tot het afbreken van zwangerschap<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1981</publicatiejaar><publicatienr>257</publicatienr><ondertekeningsdatum isodatum="1981-05-01">01-05-1981</ondertekeningsdatum><dossierref dossier="15475">15475</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>356</publicatienr><ondertekeningsdatum isodatum="1984-07-21">21-07-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-11-01">01-11-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="1834293" versie-id="2737032" id="C2737031" label-id="1788774" inwerking="1984-11-01" bron="Stb.1981-257" effect="nieuwe-regeling" ondertekening_bron="1981-05-01">Wet afbreking zwangerschap<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1981</publicatiejaar><publicatienr>257</publicatienr><ondertekeningsdatum isodatum="1981-05-01">01-05-1981</ondertekeningsdatum><dossierref dossier="15475">15475</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>356</publicatienr><ondertekeningsdatum isodatum="1984-07-21">21-07-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-11-01">01-11-1984</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" stam-id="1834303" versie-id="30755252" id="C44144291" label-id="1788784" inwerking="2025-07-05" label="Artikel 1" bron="Stb.2025-151" effect="wijziging" ondertekening_bron="2025-05-26" publicatie_bron="2025-06-04" publicatie_iwt="2025-07-04" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="1788784L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:</al>
+    <al>Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;</al>
+    <al>inspecteur: de inspecteur van de Inspectie gezondheidszorg en jeugd;</al>
+    <al>arts: degene die bevoegd is de titel van arts te voeren, alsmede, voor zover het betreft de arts bij wie de vrouw onder regelmatige medische behandeling staat, dan wel die als medisch specialist of in de woonplaats van de vrouw als huisarts werkzaam is, degene die in het land waar hij is gevestigd, het beroep van arts wettig uitoefent;</al>
+    <al>ziekenhuis: een inrichting waarin personen worden opgenomen voor het ondergaan van een genees-, heel- of verloskundig onderzoek of een genees-, heel- of verloskundige behandeling, met inbegrip van een daarvan onderdeel uitmakende polikliniek;</al>
+    <al>abortuskliniek - hierna te noemen kliniek -: een inrichting, niet zijnde een ziekenhuis, waarin vrouwen een behandeling ondergaan, gericht op het afbreken van zwangerschap;</al>
+    <al> duur van de zwangerschap: tijd die een zwangerschap bedraagt, uitgedrukt in het aantal dagen of weken dat de amenorroe duurt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=1&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="1788784L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder het afbreken van zwangerschap niet verstaan het toepassen van een middel ter voorkoming van de innesteling van een bevruchte eicel in de baarmoeder.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=1&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid3" label-id="1788784L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder "geneesheer-directeur" mede verstaan de arts die, hoewel geen directeursfunctie bekledende, belast is met de zorg voor de algemene gang van zaken op geneeskundig gebied in de inrichting.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=1&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2025-151"><publicatiejaar>2025</publicatiejaar><publicatienr>151</publicatienr><uitgiftedatum isodatum="2025-06-04">04-06-2025</uitgiftedatum><ondertekeningsdatum isodatum="2025-05-26">26-05-2025</ondertekeningsdatum><dossierref dossier="36682">36682</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2025-174"><publicatiejaar>2025</publicatiejaar><publicatienr>174</publicatienr><uitgiftedatum isodatum="2025-07-04">04-07-2025</uitgiftedatum><ondertekeningsdatum isodatum="2025-06-30">30-06-2025</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-07-05">05-07-2025</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Abusievelijk is voor het eerste lid een wijziging geformuleerd die
+    niet kan worden doorgevoerd.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=1&amp;g=2025-07-05" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" stam-id="1834313" versie-id="29242082" id="C43674411" label-id="1788794" inwerking="2025-01-01" label="Artikel 2" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">2</nr>
+  </kop>
+  <al>Een behandeling, gericht op het afbreken van zwangerschap, mag slechts worden verricht door:</al>
+  <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>een arts in een ziekenhuis of kliniek, waaraan door Onze Minister vergunning tot het verrichten van dergelijke behandelingen is verleend;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=2&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel2/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>een huisarts, indien het een medicamenteuze afbreking van de zwangerschap betreft en voldaan is aan <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589164" verwijzing-id="3219100" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6a">artikel 6a</intref>.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=2&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=2&amp;g=2025-07-05" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" stam-id="1834323" versie-id="29242092" id="C43674431" label-id="1788804" inwerking="2025-01-01" label="Artikel 3" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="1788804L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een zwangerschap wordt niet eerder afgebroken dan nadat de vrouw de arts heeft bezocht en daarbij haar voornemen met hem heeft besproken. De arts en de vrouw stellen, met in achtneming van de eisen met betrekking tot hulpverlening en besluitvorming, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788824" verwijzing-id="3178211" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref>, in gezamenlijk overleg een termijn vast die voorafgaat aan de afbreking van de zwangerschap.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="1788804L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> In het geval, dat de arts de vrouw niet verwijst, stelt hij haar onverwijld een gedateerde schriftelijke kennisgeving daaromtrent ter hand, welke in elk geval het tijdstip vermeldt, waarop de vrouw zich tot hem had gewend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="1788804L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Het eerste en tweede lid zijn niet van toepassing indien is vastgesteld dat de duur van de zwangerschap nog geen 45 dagen bedraagt op het moment van zwangerschapsafbreking. In dat geval wordt een zwangerschap niet eerder afgebroken dan nadat een arts in een ziekenhuis of kliniek als bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219088" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel a</intref>, zich ervan heeft vergewist dat aan de bij of krachtens <intref doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788824" verwijzing-id="3219089" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel5">artikel 5</intref> gestelde eisen is voldaan, onderscheidenlijk nadat een huisarts als bedoeld in artikel 2, onderdeel b, zich ervan heeft vergewist dat aan de bij of krachtens <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589164" verwijzing-id="3219101" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6a">artikel 6a</intref> gestelde eisen is voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid4" label-id="1788804L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Indien de behandeling, gericht op het afbreken van de zwangerschap, wordt verricht om daarmee een dreigend gevaar voor het leven of de gezondheid van de vrouw af te wenden, wordt geen termijn gesteld als bedoeld in het eerste lid, tweede volzin, dan wel vervalt een ingevolge dat lid gestelde termijn.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3&amp;lid=4&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=4"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=3&amp;g=2025-07-05" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" stam-id="1834333" versie-id="29242102" id="C43674421" label-id="1788814" inwerking="2025-01-01" label="Artikel 4" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">4</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid1" label-id="1788814L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vergunning, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="1632339" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onder a</intref>, wordt aangevraagd door het bestuur van het ziekenhuis of de kliniek. Bij de aanvraag dienen de bij algemene maatregel van bestuur verlangde gegevens te worden verstrekt. Indien hij dit nodig acht voor een verantwoorde beslissing op het verzoek om vergunning, kan Onze Minister nadere gegevens vragen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=4&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid2" label-id="1788814L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Onze Minister beslist binnen zeven maanden na de ontvangst van de aanvraag.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=4&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel4/Lid3" label-id="1788814L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> Het ziekenhuis of de kliniek verkrijgt de vergunning indien aannemelijk is gemaakt dat aan de in de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788824" verwijzing-id="1632340" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel5">artikelen 5, eerste lid</intref>, of <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788834" verwijzing-id="1632341" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6">6</intref> bedoelde eisen zal worden voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=4&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=4&amp;g=2025-07-05" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=4&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="1834343" versie-id="2737282" id="C15476571" label-id="1788824" inwerking="1997-12-01" label="Artikel 5" bron="Stb.1993-655" effect="wijziging" ondertekening_bron="1993-11-11" publicatie_bron="1993-12-23" publicatie_iwt="1997-11-27" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid1" label-id="1788824L1">
+    <lidnr>1</lidnr>
+    <al>Bij algemene maatregel van bestuur worden eisen gesteld met betrekking tot hulpverlening en besluitvorming, welke erop zijn gericht te verzekeren dat iedere beslissing tot het afbreken van zwangerschap met zorgvuldigheid wordt genomen en alleen dan uitgevoerd, indien de noodsituatie van de vrouw deze onontkoombaar maakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel5/Lid2" label-id="1788824L2">
+    <lidnr>2</lidnr>
+    <al> Deze eisen strekken er met name toe te verzekeren: </al>
+    <lijst>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>dat de vrouw die het voornemen heeft tot afbreking van zwangerschap en zich met een daartoe strekkend verzoek tot de arts heeft gewend, wordt bijgestaan, in het bijzonder door het verstrekken van verantwoorde voorlichting over andere oplossingen van haar noodsituatie dan het afbreken van de zwangerschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=2&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>dat de arts, indien de vrouw van oordeel is dat haar noodsituatie niet op andere wijze kan worden beëindigd, zich ervan vergewist dat de vrouw haar verzoek heeft gedaan en gehandhaafd in vrijwilligheid, na zorgvuldige overweging en in het besef van haar verantwoordelijkheid voor ongeboren leven en van de gevolgen voor haarzelf en de haren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=2&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>dat, onverminderd het bepaalde in <intref verwijzing-id="1632342" doc="jci1.3:c:BWBR0003396&amp;artikel=20&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788974" bwb-ng-variabel-deel="/Artikel20">artikel 20</intref>, de arts de behandeling slechts verricht indien deze op grond van zijn bevindingen verantwoord is te achten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=2&amp;o=c&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel5/Lid2/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>dat na afbreking van de zwangerschap een genoegzame nazorg voor de vrouw en de haren beschikbaar is, mede in de vorm van voorlichting over methoden ter voorkoming van ongewenste zwangerschap.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=2&amp;o=d&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>655</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-11-11">11-11-1993</ondertekeningsdatum><dossierref dossier="19522">19522</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-553"><publicatiejaar>1997</publicatiejaar><publicatienr>553</publicatienr><uitgiftedatum isodatum="1997-11-27">27-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-19">19-11-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1997-12-01">01-12-1997</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=5&amp;g=2025-07-05" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" stam-id="1834353" versie-id="26520802" id="C37699181" label-id="1788834" inwerking="2020-03-19" label="Artikel 6" bron="Stb.2020-67" effect="wijziging" ondertekening_bron="2020-02-05" publicatie_bron="2020-02-24" publicatie_iwt="2020-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid1" label-id="1788834L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De vergunning wordt ten aanzien van een kliniek overigens slechts verleend indien: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>de kliniek wordt beheerd door een rechtspersoon met volledige rechtsbevoegdheid welke geen winst nastreeft;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>wordt voldaan aan bij algemene maatregel van bestuur te stellen eisen omtrent bestuur en beheer van de kliniek, organisatie, werkwijze, personeel, huisvesting en uitrusting, opdat gewaarborgd is dat de behandeling voldoet aan de eisen die daaraan uit medisch en verpleegkundig oogpunt behoren te worden gesteld, alsmede omtrent de samenstelling van het bestuur;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de kliniek bij de behandeling van de afbreking van zwangerschappen volgens bij algemene maatregel van bestuur te stellen regels samenwerkt met een of meer ziekenhuizen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;o=c&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>de rechtspersoon, die de kliniek beheert, jaarlijks verslag doet van de gang van zaken op medisch en financieel gebied in het voorafgaande kalenderjaar en dat verslag algemeen verkrijgbaar stelt;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;o=d&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=d"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6/Lid1/Onderdeele">
+        <li.nr>e.</li.nr>
+        <al>de rechtspersoon, die de kliniek beheert en geen openbaar lichaam is, krachtens de statuten de jaarrekening ter verkrijging van een verklaring daaromtrent door een accountant als bedoeld in <extref doc="jci1.3:c:BWBR0003045&amp;artikel=393" label-id="2872984" verwijzing-id="631510" bwb-id="BWBR0003045">artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek</extref> doet onderzoeken.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;o=e&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=e"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6/Lid2" label-id="1788834L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De vergunning heeft slechts mede betrekking op afbreking in een kliniek van zwangerschappen die langer dan dertien weken hebben geduurd, indien aan daartoe bij de algemene maatregel van bestuur, bedoeld in het eerste lid, onder <nadruk type="cur">b</nadruk> en <nadruk type="cur">c,</nadruk> te stellen nadere eisen van medische en verpleegkundige aard is voldaan.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-67"><publicatiejaar>2020</publicatiejaar><publicatienr>67</publicatienr><uitgiftedatum isodatum="2020-02-24">24-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35299">35299</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-93"><publicatiejaar>2020</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2020-03-18">18-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-06">06-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-19">19-03-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=6&amp;g=2025-07-05" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6a" stam-id="16671493" versie-id="30470102" id="C43687451" label-id="16589164" inwerking="2025-01-01" label="Artikel 6a" bron="Stb.2024-291" effect="wijziging" ondertekening_bron="2024-10-02" publicatie_bron="2024-10-18" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">6a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid1" label-id="16589164L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De huisarts is bevoegd een medicamenteuze afbreking van de zwangerschap uit te voeren, indien:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>gebruik wordt gemaakt van een medicament dat geregistreerd is voor de afbreking van een zwangerschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=1&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>is voldaan aan de eisen die volgen uit de <extref doc="jci1.3:c:BWBR0006251" label-id="2031064" verwijzing-id="3219090" bwb-id="BWBR0006251">Wet op de beroepen in de individuele gezondheidszorg</extref> omtrent bevoegdheid en bekwaamheid en de kwaliteitswaarborgen die door de beroepsorganisaties en de professionele standaard aan de organisatie, werkwijze en uitrusting van de praktijk van de huisarts worden gesteld opdat gewaarborgd is dat de behandeling voldoet aan de eisen die daaraan uit medisch oogpunt worden gesteld.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=1&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid2" label-id="16589164L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>Bij algemene maatregel van bestuur worden regels gesteld over het bepaalde in het eerste lid, onderdeel b. De bij of krachtens algemene maatregel van bestuur vast te stellen regels hebben in ieder geval betrekking op adequate en geaccrediteerde scholing van individuele huisartsen die naast medisch-technische zaken ook gericht is op voorlichting en begeleiding bij en na de besluitvorming.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel6a/Lid3" label-id="16589164L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Bij algemene maatregel van bestuur worden tevens eisen gesteld met betrekking tot hulpverlening en besluitvorming, welke erop zijn gericht te verzekeren dat iedere beslissing tot het afbreken van zwangerschap met zorgvuldigheid wordt genomen en alleen dan uitgevoerd, indien de noodsituatie van de vrouw deze onontkoombaar maakt. Deze eisen strekken er met name toe te verzekeren:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid3/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>dat de vrouw die het voornemen heeft tot afbreking van zwangerschap en zich met een daartoe strekkend verzoek tot de arts heeft gewend, wordt bijgestaan, in het bijzonder door het verstrekken van verantwoorde voorlichting over andere oplossingen van haar noodsituatie dan het afbreken van de zwangerschap;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=3&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid3/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>dat de arts, indien de vrouw van oordeel is dat haar noodsituatie niet op andere wijze kan worden beëindigd, zich ervan vergewist dat de vrouw haar verzoek heeft gedaan en gehandhaafd in vrijwilligheid, na zorgvuldige overweging en in het besef van haar verantwoordelijkheid voor ongeboren leven en van de gevolgen voor haarzelf en de haren;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=3&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid3/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>dat, onverminderd het bepaalde in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=20&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788974" verwijzing-id="3219091" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel20">artikel 20</intref>, de arts de behandeling slechts verricht indien deze op grond van zijn bevindingen verantwoord is te achten;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=3&amp;o=c&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=c"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel6a/Lid3/Onderdeeld">
+        <li.nr>d.</li.nr>
+        <al>dat na afbreking van de zwangerschap een genoegzame nazorg voor de vrouw en de haren beschikbaar is, mede in de vorm van voorlichting over methoden ter voorkoming van ongewenste zwangerschap.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=3&amp;o=d&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=d"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-291"><publicatiejaar>2024</publicatiejaar><publicatienr>291</publicatienr><uitgiftedatum isodatum="2024-10-18">18-10-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-10-02">02-10-2024</ondertekeningsdatum><dossierref dossier="36357">36357</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>De wijziging is in werking getreden op 6 november 2024 (Stb. 2024/322).</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=6a&amp;g=2025-07-05" onderdeel="artikel=6a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=6a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=6a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=6a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" stam-id="1834363" versie-id="26521492" id="C37699171" label-id="1788844" inwerking="2020-03-19" label="Artikel 7" bron="Stb.2020-67" effect="wijziging" ondertekening_bron="2020-02-05" publicatie_bron="2020-02-24" publicatie_iwt="2020-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">7</nr>
+  </kop>
+  <al>Onze Minister kan, al naar gelang de specifieke omstandigheden van een inrichting hiertoe nopen, aan een vergunning aanvullende voorschriften verbinden, onderscheidenlijk deze voorschriften wijzigen, aanvullen of intrekken. De voorschriften mogen slechts betrekking hebben op de tariefstelling en de onderwerpen waaromtrent en voor zover daarover bij of krachtens de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788824" verwijzing-id="2983400" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel5">artikelen 5</intref> en <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788834" verwijzing-id="2983401" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6">6</intref> eisen zijn gesteld.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-67"><publicatiejaar>2020</publicatiejaar><publicatienr>67</publicatienr><uitgiftedatum isodatum="2020-02-24">24-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35299">35299</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-93"><publicatiejaar>2020</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2020-03-18">18-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-06">06-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-19">19-03-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=7&amp;g=2025-07-05" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=7&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=7"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel8" code="a-8" stam-id="1834373" versie-id="2737112" id="C15476601" label-id="1788854" inwerking="1994-01-01" label="Artikel 8" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>8</nr>
+  </kop>
+  <al>Onze Minister kan een vergunning intrekken: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel8/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>indien onjuiste gegevens zijn verstrekt, die hebben geleid tot het verlenen van de vergunning;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=8&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel8/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>indien de voorschriften, gesteld bij of krachtens deze wet, dan wel de voorschriften verbonden aan de vergunning, zijn overtreden.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=8&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=8&amp;g=2025-07-05" onderdeel="artikel=8" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=8"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=8&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=8" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=8"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel9" code="a-9" stam-id="1834383" versie-id="2737342" id="C15476611" label-id="1788864" inwerking="1998-01-01" label="Artikel 9" bron="Stb.1997-510" effect="wijziging" ondertekening_bron="1997-11-06" publicatie_bron="1997-11-18" publicatie_iwt="1997-12-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>9</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid1" label-id="1788864L1">
+    <lidnr>1</lidnr>
+    <al>Een krachtens de <intref verwijzing-id="1632345" doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788824" bwb-ng-variabel-deel="/Artikel5">artikelen 5</intref> tot en met <intref verwijzing-id="1632346" doc="jci1.3:c:BWBR0003396&amp;artikel=8&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788854" bwb-ng-variabel-deel="/Artikel8">8</intref> genomen besluit bepaalt het tijdstip waarop de verlening of intrekking van de vergunning, dan wel de wijziging, aanvulling of intrekking van de aan de vergunning te verbinden voorschriften, ingaat.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=9&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel9/Lid2" label-id="1788864L2">
+    <lidnr>2</lidnr>
+    <al> Van het verlenen of intrekken van een vergunning wordt mededeling gedaan in de <nadruk type="cur">Staatscourant</nadruk>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=9&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-510"><publicatiejaar>1997</publicatiejaar><publicatienr>510</publicatienr><uitgiftedatum isodatum="1997-11-18">18-11-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-11-06">06-11-1997</ondertekeningsdatum><dossierref dossier="25280">25280</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1997-581"><publicatiejaar>1997</publicatiejaar><publicatienr>581</publicatienr><uitgiftedatum isodatum="1997-12-18">18-12-1997</uitgiftedatum><ondertekeningsdatum isodatum="1997-12-11">11-12-1997</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1998-01-01">01-01-1998</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=9&amp;g=2025-07-05" onderdeel="artikel=9" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=9"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=9&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=9" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=9"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel10" code="a-10" stam-id="1834393" versie-id="2737382" id="C15476621" label-id="1788874" inwerking="1999-02-17" label="Artikel 10" bron="Stb.1999-30" effect="wijziging" ondertekening_bron="1999-01-28" publicatie_bron="1999-02-16" publicatie_iwt="1999-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>10</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid1" label-id="1788874L1">
+    <lidnr>1</lidnr>
+    <al>Hangende het onderzoek naar feiten op grond waarvan volgens <intref verwijzing-id="1632318" doc="jci1.3:c:BWBR0003396&amp;artikel=8&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788854" bwb-ng-variabel-deel="/Artikel8">artikel 8</intref> intrekking van een vergunning mogelijk is, kan Onze Minister bevelen, dat de behandelingen in de inrichting, gericht op afbreking van zwangerschap, onverwijld zullen worden gestaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=10&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid2" label-id="1788874L2">
+    <lidnr>2</lidnr>
+    <al> Het bevel blijft van kracht totdat omtrent de intrekking van de vergunning is beschikt, onderscheidenlijk tot het tijdstip waarop de intrekking ingaat, behoudens eerdere opheffing van het bevel door Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=10&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel10/Lid3" label-id="1788874L3">
+    <lidnr>3</lidnr>
+    <al> Het bevel, alsmede de opheffing van het bevel, wordt schriftelijk gegeven. <intref verwijzing-id="1632319" doc="jci1.3:c:BWBR0003396&amp;artikel=9&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788864" bwb-ng-variabel-deel="/Artikel9">Artikel 9, eerste en tweede lid</intref>, is van overeenkomstige toepassing.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=10&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-30"><publicatiejaar>1999</publicatiejaar><publicatienr>30</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-01-28">28-01-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-40"><publicatiejaar>1999</publicatiejaar><publicatienr>40</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-02-04">04-02-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-02-17">17-02-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=10&amp;g=2025-07-05" onderdeel="artikel=10" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=10"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=10&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=10" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=10"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11" stam-id="1834403" versie-id="29242162" id="C43674441" label-id="1788884" inwerking="2025-01-01" label="Artikel 11" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid1" label-id="1788884L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Elke arts in een ziekenhuis of kliniek als bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3346214" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel a</intref>, die behandelingen, gericht op afbreking van zwangerschap, verricht, doet ten minste eens per jaar aan de geneesheer-directeur van de inrichting de volgende gegevens toekomen: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel11/Lid1/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>het aantal behandelingen, gericht op afbreking van zwangerschap, dat hij in dat tijdsverloop heeft verricht, en de eventueel daarbij opgetreden bijzonderheden;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=1&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid1/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>de duur van de zwangerschap, het aantal voorafgegane zwangerschappen en zwangerschapsafbrekingen, de leeftijd, de provincie - dan wel, voor zover het buiten Nederland woonachtige vrouwen betreft, het land - van woonplaats, de burgerlijke staat en het aantal kinderen van elk van de behandelde vrouwen;</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=1&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid1/Onderdeelc">
+        <li.nr>c.</li.nr>
+        <al>de datum waarop hij met de vrouw haar voornemen heeft besproken, alsmede, indien de vrouw door een arts bij wie de vrouw onder regelmatige medische behandeling staat, dan wel die als medisch specialist of in de woonplaats van de vrouw als huisarts werkzaam is, verwezen is, de medische hoedanigheid waarin hij de vrouw hulp heeft geboden, de vraag of, en zo ja in welke gevallen, overleg is gepleegd met andere deskundigen, en welke de aard van de deskundigheid van de geraadpleegde was, de datum van de ingreep, met dien verstande dat, indien het zich in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=3&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788804" verwijzing-id="3178212" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel3">artikel 3, vierde lid</intref>, bedoelde geval heeft voorgedaan, tevens de bijzondere redenen daarvoor worden opgegeven, en de nazorg die na de afbreking van de zwangerschap aan de vrouw is verleend.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=1&amp;o=c&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=c"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid2" label-id="1788884L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De geneesheer-directeur van de inrichting ziet erop toe dat alle in de inrichting werkzame artsen hem de in het eerste lid bedoelde gegevens volledig en tijdig doen toekomen in zodanige vorm dat zij niet tot individuele patiënten herleidbaar zijn. Hij draagt er zorg voor, dat deze gegevens ten minste vijf jaar worden bewaard.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid3" label-id="1788884L3">
+    <lidnr status="officieel">3</lidnr>
+    <al> De geneesheer-directeur doet eens per jaar aan de inspecteur opgave toekomen van de totalen, die aan de in de vorige leden bedoelde gegevens kunnen worden ontleend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid4" label-id="1788884L4">
+    <lidnr status="officieel">4</lidnr>
+    <al> Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de tijdstippen en wijze waarop de in de vorige leden van dit artikel bedoelde gegevens moeten worden verstrekt. Bij deze opgaven wordt de anonimiteit van de behandelde vrouwen gewaarborgd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=4&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid5" label-id="1788884L5">
+    <lidnr status="officieel">5</lidnr>
+    <al> De verkregen gegevens mogen uitsluitend worden gebruikt: </al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel11/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor statistische doeleinden en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=5&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>ten behoeve van het toezicht op de naleving van het bij of krachtens deze wet bepaalde.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=5&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=5&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11/Lid6" label-id="1788884L6">
+    <lidnr status="officieel">6</lidnr>
+    <al> De in het eerste lid bedoelde arts draagt er tevens zorg voor, dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen die ertoe hebben geleid de behandeling te geven. Hij is verplicht deze aantekeningen gedurende ten minste vijf jaar te bewaren en de daarin vervatte gegevens, mits niet herleidbaar tot individuele patiënten, desverzocht ter beschikking te stellen van de inspecteur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;lid=6&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=11&amp;g=2025-07-05" onderdeel="artikel=11" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=11"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=11" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel11a" stam-id="16671503" versie-id="29242132" id="C43674371" label-id="16589174" inwerking="2025-01-01" label="Artikel 11a" bron="Stb.2023-43" effect="nieuw" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">11a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid1" label-id="16589174L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De huisarts, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219092" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel b</intref>, doet ten minste eens per jaar de in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="3219093" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">artikel 11, eerste lid</intref>, bedoelde gegevens aan een door Onze Minister aangewezen rechtspersoon toekomen in zodanige vorm dat zij niet tot individuele patiënten herleidbaar zijn. De rechtspersoon doet deze gegevens toekomen aan de inspecteur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid2" label-id="16589174L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De rechtspersoon kan kostendekkende tarieven vaststellen voor de door zijn in het eerste lid, eerste volzin, verrichte werkzaamheden. Onze Minister kan tarieven vaststellen die de rechtspersoon ten hoogste mag berekenen voor de door hem verrichte werkzaamheden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid3" label-id="16589174L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>Indien de rechtspersoon, bedoeld in het eerste lid, naar het oordeel van Onze Minister zijn taak verwaarloost, kan Onze Minister de aanwijzing intrekken.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid4" label-id="16589174L4">
+    <lidnr status="officieel">4</lidnr>
+    <al>Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de tijdstippen en wijze waarop de in het eerste lid bedoelde gegevens moeten worden verstrekt. Bij deze opgaven wordt de anonimiteit van de behandelde vrouwen gewaarborgd.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=4&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=4"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid5" label-id="16589174L5">
+    <lidnr status="officieel">5</lidnr>
+    <al>De verkregen gegevens mogen uitsluitend worden gebruikt:</al>
+    <lijst level="single" nr-sluiting="." start="1" type="expliciet">
+      <li bwb-ng-variabel-deel="/Artikel11a/Lid5/Onderdeela">
+        <li.nr>a.</li.nr>
+        <al>voor statistische doeleinden, en</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=5&amp;o=a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=a"/></jcis></meta-data></li>
+      <li bwb-ng-variabel-deel="/Artikel11a/Lid5/Onderdeelb">
+        <li.nr>b.</li.nr>
+        <al>ten behoeve van het toezicht op de naleving van het bij of krachtens deze wet bepaalde.</al>
+      <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=5&amp;o=b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="o=b"/></jcis></meta-data></li>
+    </lijst>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=5&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=5"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel11a/Lid6" label-id="16589174L6">
+    <lidnr status="officieel">6</lidnr>
+    <al>De huisarts, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219094" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel b</intref>, draagt er tevens zorg voor, dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen die ertoe hebben geleid de behandeling te geven. Hij is verplicht deze aantekeningen gedurende ten minste vijf jaar te bewaren en de daarin vervatte gegevens, mits niet herleidbaar tot individuele patiënten, op verzoek ter beschikking te stellen van de inspecteur.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;lid=6&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=6"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=11a&amp;g=2025-07-05" onderdeel="artikel=11a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=11a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=11a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=11a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel12" stam-id="1834413" versie-id="29242172" id="C43674361" label-id="1788894" inwerking="2025-01-01" label="Artikel 12" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">12</nr>
+  </kop>
+  <al>De geneesheer-directeur van de inrichting onderscheidenlijk de huisarts, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219103" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel b</intref>, draagt zorg dat de inspecteur op zijn verzoek inzage wordt verschaft van de in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="1632322" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">artikel 11, tweede lid</intref>, onderscheidenlijk <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589174" verwijzing-id="3219104" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11a">artikel 11a, eerste lid</intref>, bedoelde gegevens en dat hem alle gevraagde inlichtingen, mits niet herleidbaar tot individuele patiënten, worden verstrekt die hij redelijkerwijs voor de uitoefening van zijn taak met betrekking tot deze wet behoeft.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=12&amp;g=2025-07-05" onderdeel="artikel=12" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=12"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=12&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=12" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=12"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel13" stam-id="1834423" versie-id="29242182" id="C43674481" label-id="1788904" inwerking="2025-01-01" label="Artikel 13" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">13</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid1" label-id="1788904L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Een algemene maatregel van bestuur, als bedoeld in de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=4&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788814" verwijzing-id="1632323" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel4">artikelen 4, eerste lid</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=5&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788824" verwijzing-id="1632324" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel5">5, eerste lid</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788834" verwijzing-id="3219105" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6">6, eerste lid, onderdelen b of c, tweede lid</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589164" verwijzing-id="3219106" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6a">6a, tweede of derde lid</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="3219107" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">11, vierde lid</intref>, en <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589174" verwijzing-id="3219108" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11a">11a, vierde lid</intref>, wordt vastgesteld op voordracht van Onze Minister.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=13&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel13/Lid2" label-id="1788904L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Hij treedt niet in werking dan nadat drie maanden sedert de datum van afkondiging zijn verstreken. Van de datum van afkondiging wordt door Onze Minister mededeling gedaan aan de Staten-Generaal onder overlegging van de over het ontwerp van de algemene maatregel van bestuur uitgebrachte adviezen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=13&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=13&amp;g=2025-07-05" onderdeel="artikel=13" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=13"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=13&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=13" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=13"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14" code="a-14" stam-id="1834433" versie-id="2737172" id="C2737171" label-id="1788914" inwerking="1994-01-01" label="Artikel 14" bron="Stb.1992-422" effect="wijziging" ondertekening_bron="1992-06-04" publicatie_iwt="1993-12-23" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>14</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Vervallen.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1992</publicatiejaar><publicatienr>422</publicatienr><ondertekeningsdatum isodatum="1992-06-04">04-06-1992</ondertekeningsdatum><dossierref dossier="22061">22061</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1993</publicatiejaar><publicatienr>693</publicatienr><uitgiftedatum isodatum="1993-12-23">23-12-1993</uitgiftedatum><ondertekeningsdatum isodatum="1993-12-23">23-12-1993</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1994-01-01">01-01-1994</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=14&amp;g=2025-07-05" onderdeel="artikel=14" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=14"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=14" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14a" stam-id="1834503" versie-id="24969502" id="C35955891" label-id="1788994" inwerking="2018-08-01" label="Artikel 14a" bron="Stb.2018-94" effect="wijziging" ondertekening_bron="2018-03-21" publicatie_bron="2018-04-05" publicatie_iwt="2018-07-20" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel14a/Lid1" label-id="1788994L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14a&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel14a/Lid2" label-id="1788994L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De toezichthouder beschikt niet over de bevoegdheden, genoemd in de <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:18" label-id="2820054" verwijzing-id="631511" bwb-id="BWBR0005537">artikelen 5:18</extref> en <extref doc="jci1.3:c:BWBR0005537&amp;artikel=5:19" label-id="2820064" verwijzing-id="631512" bwb-id="BWBR0005537">5:19 van de Algemene wet bestuursrecht</extref>. </al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14a&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-94"><publicatiejaar>2018</publicatiejaar><publicatienr>94</publicatienr><uitgiftedatum isodatum="2018-04-05">05-04-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-03-21">21-03-2018</ondertekeningsdatum><dossierref dossier="34797">34797</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2018-224"><publicatiejaar>2018</publicatiejaar><publicatienr>224</publicatienr><uitgiftedatum isodatum="2018-07-20">20-07-2018</uitgiftedatum><ondertekeningsdatum isodatum="2018-07-04">04-07-2018</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2018-08-01">01-08-2018</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=14a&amp;g=2025-07-05" onderdeel="artikel=14a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=14a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=14a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel14b" stam-id="15001893" versie-id="27632422" id="C39208731" label-id="14951744" inwerking="2021-07-01" label="Artikel 14b" bron="Stb.2021-135" effect="vervallen" ondertekening_bron="2021-03-03" publicatie_bron="2021-03-17" publicatie_iwt="2021-06-02" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">14b</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2021-135"><publicatiejaar>2021</publicatiejaar><publicatienr>135</publicatienr><uitgiftedatum isodatum="2021-03-17">17-03-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-03-03">03-03-2021</ondertekeningsdatum><dossierref dossier="35256">35256</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2021-254"><publicatiejaar>2021</publicatiejaar><publicatienr>254</publicatienr><uitgiftedatum isodatum="2021-06-02">02-06-2021</uitgiftedatum><ondertekeningsdatum isodatum="2021-05-18">18-05-2021</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2021-07-01">01-07-2021</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=14b&amp;g=2025-07-05" onderdeel="artikel=14b" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=14b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=14b" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=14b"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel15" code="a-15" stam-id="1834443" versie-id="2737392" id="C15476901" label-id="1788924" inwerking="2002-01-01" label="Artikel 15" bron="Stb.2001-481" effect="wijziging" ondertekening_bron="2001-09-27" publicatie_bron="2001-11-01" publicatie_iwt="2001-11-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>15</nr>
+  </kop>
+  <al>De arts die een behandeling, gericht op het afbreken van zwangerschap, verricht in een kliniek, tenzij het betreft een kliniek ten aanzien waarvan aan <intref verwijzing-id="1632326" doc="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" bwb-id="BWBR0003396" label-id="1788834" bwb-ng-variabel-deel="/Artikel6">artikel 6, tweede lid</intref>, is voldaan terwijl hij weet of redelijkerwijs moet vermoeden, dat de zwangerschap langer dan dertien weken heeft geduurd, wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2001-481"><publicatiejaar>2001</publicatiejaar><publicatienr>481</publicatienr><uitgiftedatum isodatum="2001-11-01">01-11-2001</uitgiftedatum><ondertekeningsdatum isodatum="2001-09-27">27-09-2001</ondertekeningsdatum><dossierref dossier="27472">27472</dossierref></publicatie><inwerkingtreding.datum isodatum="2002-01-01">01-01-2002</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=15&amp;g=2025-07-05" onderdeel="artikel=15" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=15"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=15&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=15" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=15"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel16" code="a-16" stam-id="1834453" versie-id="28840802" id="C40954551" label-id="1788934" inwerking="2023-01-01" label="Artikel 16" bron="Stb.2022-326" effect="vervallen" ondertekening_bron="2022-08-22" publicatie_bron="2022-08-26" publicatie_iwt="2022-10-04" status="vervallen">
+  <kop>
+    <label>Artikel</label>
+    <nr>16</nr>
+  </kop>
+<al><redactie type="vervanging">Vervallen</redactie></al><meta-data><brondata><oorspronkelijk><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2022-326"><publicatiejaar>2022</publicatiejaar><publicatienr>326</publicatienr><uitgiftedatum isodatum="2022-08-26">26-08-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-08-22">22-08-2022</ondertekeningsdatum><dossierref dossier="35737">35737</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="vervallen" soort="Stb" urlidentifier="stb-2022-377"><publicatiejaar>2022</publicatiejaar><publicatienr>377</publicatienr><uitgiftedatum isodatum="2022-10-04">04-10-2022</uitgiftedatum><ondertekeningsdatum isodatum="2022-09-28">28-09-2022</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2023-01-01">01-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=16&amp;g=2025-07-05" onderdeel="artikel=16" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=16"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=16&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=16" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=16"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel17" stam-id="1834463" versie-id="29242192" id="C43674461" label-id="1788944" inwerking="2025-01-01" label="Artikel 17" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">17</nr>
+  </kop>
+  <al>Het ziekenhuis of de kliniek waar behandelingen, gericht op het afbreken van zwangerschap, worden verricht in strijd met <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="1632329" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onder a</intref>, dan wel met het in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=10&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788874" verwijzing-id="1632330" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel10">artikel 10, eerste lid</intref>, bedoelde bevel, wordt gestraft met een geldboete van de vijfde categorie.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=17&amp;g=2025-07-05" onderdeel="artikel=17" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=17"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=17&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=17" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=17"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18" stam-id="1834473" versie-id="29242202" id="C43674381" label-id="1788954" inwerking="2025-01-01" label="Artikel 18" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid1" label-id="1788954L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De arts in een ziekenhuis of kliniek als bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219109" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel a</intref>, die nalaat te voldoen aan het bepaalde in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="1632331" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">artikel 11, eerste of zesde lid</intref>, wordt gestraft met een geldboete van de derde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18/Lid2" label-id="1788954L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> De geneesheer-directeur die nalaat te voldoen aan het bepaalde in de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="1632332" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">artikelen 11, tweede en derde lid</intref>, en <intref doc="jci1.3:c:BWBR0003396&amp;artikel=12&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788894" verwijzing-id="1632333" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel12">12</intref> wordt gestraft met een geldboete van de vierde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=18&amp;g=2025-07-05" onderdeel="artikel=18" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=18"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=18" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel18a" stam-id="16671513" versie-id="29242142" id="C43674351" label-id="16589184" inwerking="2025-01-01" label="Artikel 18a" bron="Stb.2023-43" effect="nieuw" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">18a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel18a/Lid1" label-id="16589184L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De huisarts, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219095" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel b</intref>, die nalaat te voldoen aan het bepaalde in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589174" verwijzing-id="3219096" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11a">artikel 11a, eerste of zesde lid</intref>, wordt gestraft met een geldboete van de derde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18a&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel18a/Lid2" label-id="16589184L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>De huisarts, bedoeld in <intref doc="jci1.3:c:BWBR0003396&amp;artikel=2&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788794" verwijzing-id="3219097" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel2">artikel 2, onderdeel b</intref>, die nalaat te voldoen aan het bepaalde in de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589174" verwijzing-id="3219098" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11a">artikelen 11a, vierde lid</intref>, of <intref doc="jci1.3:c:BWBR0003396&amp;artikel=12&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788894" verwijzing-id="3219099" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel12">12</intref> wordt gestraft met een geldboete van de vierde categorie.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18a&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=18a&amp;g=2025-07-05" onderdeel="artikel=18a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=18a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=18a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=18a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19" stam-id="1834483" versie-id="29242212" id="C43674451" label-id="1788964" inwerking="2025-01-01" label="Artikel 19" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid1" label-id="1788964L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>De in de <intref doc="jci1.3:c:BWBR0003396&amp;artikel=15&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788924" verwijzing-id="1632334" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel15">artikelen 15</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=17&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788944" verwijzing-id="3219110" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel17">17</intref>, <intref doc="jci1.3:c:BWBR0003396&amp;artikel=18&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788954" verwijzing-id="3219111" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel18">18</intref> en <intref doc="jci1.3:c:BWBR0003396&amp;artikel=18a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589184" verwijzing-id="3219112" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel18a">18a</intref> strafbaar gestelde feiten zijn overtredingen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel19/Lid2" label-id="1788964L2">
+    <lidnr status="officieel">2</lidnr>
+    <al> Met de opsporing van de in het vorige lid bedoelde strafbare feiten zijn, behalve de ambtenaren bedoeld in <extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="631513" bwb-id="BWBR0001903">artikel 141 van het Wetboek van Strafvordering</extref>, belast de inspecteurs.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=19&amp;g=2025-07-05" onderdeel="artikel=19" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=19"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=19" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel19a" stam-id="10532563" versie-id="29242222" id="C43674471" label-id="10507364" inwerking="2025-01-01" label="Artikel 19a" bron="Stb.2023-43" effect="wijziging" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">19a</nr>
+  </kop>
+  <al>Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33 500,– op te leggen ter zake van een gedraging die in strijd is met <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788884" verwijzing-id="2350904" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11">artikel 11, tweede lid, laatste volzin, derde, vierde of zesde lid</intref> of <intref doc="jci1.3:c:BWBR0003396&amp;artikel=11a&amp;z=2025-07-05&amp;g=2025-07-05" label-id="16589174" verwijzing-id="3219113" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel11a">artikel 11a, eerste, vierde of zesde lid</intref>.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=19a&amp;g=2025-07-05" onderdeel="artikel=19a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=19a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=19a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=19a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20" code="a-20" stam-id="1834493" versie-id="2737232" id="C15476961" label-id="1788974" inwerking="1984-11-01" label="Artikel 20" bron="Stb.1981-257" effect="nieuwe-regeling" ondertekening_bron="1981-05-01" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>20</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid1" label-id="1788974L1">
+    <lidnr>1</lidnr>
+    <al>Niemand is verplicht een vrouw een behandeling, gericht op het afbreken van zwangerschap, te geven, dan wel daaraan medewerking te verlenen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid2" label-id="1788974L2">
+    <lidnr>2</lidnr>
+    <al> Indien de arts gemoedsbezwaren koestert tegen het verrichten of doen verrichten van de behandeling, stelt hij de vrouw onverwijld nadat zij zich tot hem heeft gewend, daarvan in kennis.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20/Lid3" label-id="1788974L3">
+    <lidnr>3</lidnr>
+    <al> Het eerste lid ontheft een arts niet van de verplichting om desgevraagd en indien de vrouw daartoe toestemming heeft verleend inlichtingen omtrent de toestand van de vrouw te geven aan andere artsen.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1981</publicatiejaar><publicatienr>257</publicatienr><ondertekeningsdatum isodatum="1981-05-01">01-05-1981</ondertekeningsdatum><dossierref dossier="15475">15475</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1984</publicatiejaar><publicatienr>356</publicatienr><ondertekeningsdatum isodatum="1984-07-21">21-07-1984</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="1984-11-01">01-11-1984</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=20&amp;g=2025-07-05" onderdeel="artikel=20" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=20"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=20" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20a" stam-id="10658653" versie-id="26521502" id="C37699191" label-id="10633234" inwerking="2020-03-19" label="Artikel 20a" bron="Stb.2020-67" effect="wijziging" ondertekening_bron="2020-02-05" publicatie_bron="2020-02-24" publicatie_iwt="2020-03-18" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20a</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel20a/Lid1" label-id="10633234L1">
+    <lidnr status="officieel">1</lidnr>
+    <al>Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van dit artikel.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20a&amp;lid=1&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20a/Lid2" label-id="10633234L2">
+    <lidnr status="officieel">2</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0003396&amp;artikel=6&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788834" verwijzing-id="2368913" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel6">artikel 6, eerste lid, onder f</intref>, laat de rechtspersoon de jaarrekening onderzoeken met het oog op het verkrijgen van een verklaring als bedoeld in <extref doc="jci1.3:c:BWBR0028744&amp;artikel=121" label-id="10932984" verwijzing-id="2983402" bwb-id="BWBR0028744">artikel 121, eerste lid, van Boek 2 van het Burgerlijk Wetboek BES</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20a&amp;lid=2&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel20a/Lid3" label-id="10633234L3">
+    <lidnr status="officieel">3</lidnr>
+    <al>In afwijking van <intref doc="jci1.3:c:BWBR0003396&amp;artikel=19&amp;z=2025-07-05&amp;g=2025-07-05" label-id="1788964" verwijzing-id="2368914" bwb-id="BWBR0003396" bwb-ng-variabel-deel="/Artikel19">artikel 19, tweede lid</intref>, wordt in plaats van «<extref doc="jci1.3:c:BWBR0001903&amp;artikel=141" label-id="3003844" verwijzing-id="2368915" bwb-id="BWBR0001903">artikel 141 van het Wetboek van Strafvordering</extref>» gelezen: <extref doc="jci1.3:c:BWBR0028681&amp;artikel=184" label-id="10902184" verwijzing-id="2983403" bwb-id="BWBR0028681">artikel 184 van het Wetboek van Strafvordering BES</extref>.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20a&amp;lid=3&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-67"><publicatiejaar>2020</publicatiejaar><publicatienr>67</publicatienr><uitgiftedatum isodatum="2020-02-24">24-02-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-02-05">05-02-2020</ondertekeningsdatum><dossierref dossier="35299">35299</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-2020-93"><publicatiejaar>2020</publicatiejaar><publicatienr>93</publicatienr><uitgiftedatum isodatum="2020-03-18">18-03-2020</uitgiftedatum><ondertekeningsdatum isodatum="2020-03-06">06-03-2020</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2020-03-19">19-03-2020</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=20a&amp;g=2025-07-05" onderdeel="artikel=20a" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=20a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20a&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=20a" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel20b" stam-id="16671523" versie-id="29242152" id="C43674341" label-id="16589194" inwerking="2025-01-01" label="Artikel 20b" bron="Stb.2023-43" effect="nieuw" ondertekening_bron="2023-01-16" publicatie_bron="2023-02-10" publicatie_iwt="2024-11-29" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">20b</nr>
+  </kop>
+  <al>Onze Minister zendt uiterlijk voor 1 januari 2028, en vervolgens iedere zeven jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van deze wet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2024-367"><publicatiejaar>2024</publicatiejaar><publicatienr>367</publicatienr><uitgiftedatum isodatum="2024-11-29">29-11-2024</uitgiftedatum><ondertekeningsdatum isodatum="2024-11-25">25-11-2024</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2025-01-01">01-01-2025</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;artikel=20b&amp;g=2025-07-05" onderdeel="artikel=20b" korte-verwijzing="1.0:c:BWBR0003396&amp;artikel=20b"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20b&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="artikel=20b" korte-verwijzing="jci1.3:c:BWBR0003396&amp;artikel=20b"/></jcis></meta-data></artikel>
+    </wettekst>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2023-43"><publicatiejaar>2023</publicatiejaar><publicatienr>43</publicatienr><uitgiftedatum isodatum="2023-02-10">10-02-2023</uitgiftedatum><ondertekeningsdatum isodatum="2023-01-16">16-01-2023</ondertekeningsdatum><dossierref dossier="34891">34891</dossierref></publicatie><inwerkingtreding.datum isodatum="2023-01-16">16-01-2023</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0003396&amp;g=2025-07-05" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0003396"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0003396&amp;z=2025-07-05&amp;g=2025-07-05" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0003396"/></jcis></meta-data></wetgeving></toestand>
