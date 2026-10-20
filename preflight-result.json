@@ -1469,5 +1469,12 @@
     "Firecrawl CLI reports zero available credits; no new paid scrape attempted.",
     "Future 2027-01-01 and undated/pending amendments are recorded, not merged into effective text.",
     "548 units still lack commentary, as recorded before this task."
-  ]
+  ],
+  "validation": {
+    "statutory_verbatim_ratio": 1.0,
+    "coverage_ok": true,
+    "full_book_validator_ok": false,
+    "reason": "548 commentary units remain unwritten; not part of bounded source preflight.",
+    "evidence": "validation.json"
+  }
 }
