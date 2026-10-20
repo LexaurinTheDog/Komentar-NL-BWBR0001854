@@ -127,9 +127,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 914530,
+    "commentary_chars": 946644,
     "errors": [
-      "krátký/chybějící komentář u 252 jednotek: ['a285c(0<400)', 'a285d(0<400)', 'a286(0<400)', 'a286a(0<400)', 'a287(0<400)', 'a288(0<400)', 'a288a(0<400)', 'a289(0<400)']"
+      "krátký/chybějící komentář u 232 jednotek: ['a303(0<400)', 'a304(0<400)', 'a304a(0<400)', 'a304b(0<400)', 'a304c(0<400)', 'a305(0<400)', 'a306(0<400)', 'a306a(0<120)']"
     ],
     "warnings": [],
     "ok": false
@@ -154,7 +154,8 @@
     "Article137c Handvest reference preserved as a statutory citation; constituent treaty crimes are not independently expounded.",
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary.",
-    "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending."
+    "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
+    "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
   ],
   "updated_at": "2026-10-20T23:27:04.459963+00:00",
   "preflight": {
@@ -187,7 +188,7 @@
       "a156"
     ]
   },
-  "validation_checked_at": "2026-10-20T23:08:28.964545+00:00",
+  "validation_checked_at": "2026-10-20T23:33:53.977569+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -913,9 +914,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 914530,
+    "commentary_chars": 946644,
     "errors": [
-      "krátký/chybějící komentář u 252 jednotek: ['a285c(0<400)', 'a285d(0<400)', 'a286(0<400)', 'a286a(0<400)', 'a287(0<400)', 'a288(0<400)', 'a288a(0<400)', 'a289(0<400)']"
+      "krátký/chybějící komentář u 232 jednotek: ['a303(0<400)', 'a304(0<400)', 'a304a(0<400)', 'a304b(0<400)', 'a304c(0<400)', 'a305(0<400)', 'a306(0<400)', 'a306a(0<120)']"
     ],
     "warnings": [],
     "ok": false

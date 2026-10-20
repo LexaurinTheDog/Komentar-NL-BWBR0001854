@@ -233,7 +233,8 @@
       "authorities/author-a285c-a302-HR-2020-712.md"
     ],
     "missing": [],
-    "external_links": "Official statute XML, manifest, WTI, external statute XML and full judgment XML returned HTTP 200, individually logged. Public HTML web frontend returned HTTP 429 and was not used as statutory evidence."
+    "external_links": "Official statute XML, manifest, WTI, external statute XML and full judgment XML returned HTTP 200, individually logged. Public HTML web frontend returned HTTP 429 and was not used as statutory evidence.",
+    "whole_checkpoint_local_links_checked": 1134
   },
   "checkpoint_build": {
     "whole_book_builder_exit": 1,
@@ -241,5 +242,12 @@
     "reading_checkpoint": "Incomplete checkpoint: 580/812 units, 29 reading files",
     "source_text_agreement": 1.0,
     "rendered_assigned_units": 20
+  },
+  "validation": {
+    "strict_result": "validation-author-a285c-a302-result.json",
+    "whole_book_ok": false,
+    "batch_complete": true,
+    "only_failure": "232 uncommented units outside assigned scope",
+    "verbatim_ratio": 1.0
   }
 }
