@@ -4390,6 +4390,102 @@
       "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
       "bytes": 4600683,
       "disposition": "HTML entry-point attempt; legal text and effective intervals established from the official BWB repository XML, manifest and WTI, not from this HTML response."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T22:45:22.316962+00:00",
+      "path": "sources/author-a208-a227-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T22:45:22.767872+00:00",
+      "path": "sources/author-a208-a227-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T22:45:23.833256+00:00",
+      "path": "sources/author-a208-a227-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-20T22:48:13.268758+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "path": "sources/author-a208-a227-dated-page.html",
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+      "bytes": 4600683,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854",
+      "accessed_at": "2026-10-20T22:48:15.800451+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "path": "sources/author-a208-a227-current-page.html",
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+      "bytes": 4600683,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-20T22:48:18.042293+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "path": "sources/author-a208-a227-previous.xml",
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2024%3A1349",
+      "accessed_at": "2026-10-20T22:45:23.469312+00:00",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2024-1349.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "66492ed1a3c8db6fe637c6af43020e078870b476b61df9b09bde00d047f104fe",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A1927",
+      "accessed_at": "2026-10-20T22:45:23.699172+00:00",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2019-1927.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "fc9cea69e854283c680f0ad7df5ed9683bb3ccfc2b205c1e74c7fef8709f194a",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2000%3AAA6000",
+      "accessed_at": "2026-10-20T22:45:23.913312+00:00",
+      "path": "authorities/author-a208-a227-ECLI-NL-HR-2000-AA6000.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "36bbfe3b34050f5dab77a489e7e85e605304d1aee48d4343d74e72839c31b359",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -4554,6 +4650,13 @@
     "version_evidence": "sources/author-a194-a207b-version-evidence.json",
     "historical_change_map": "sources/author-a194-a207b-historical-change-map.json",
     "case_search_log": "authorities/author-a194-a207b-search-log.json",
+    "source_equal_to_existing_canonical": true
+  },
+  "bounded_author_a208_a227": {
+    "verified_at": "2026-10-20T22:45:41.821770+00:00",
+    "version_evidence": "sources/author-a208-a227-version-evidence.json",
+    "historical_change_map": "sources/author-a208-a227-historical-change-map.json",
+    "case_search_log": "authorities/author-a208-a227-search-log.json",
     "source_equal_to_existing_canonical": true
   }
 }

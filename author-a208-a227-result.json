@@ -1,0 +1,249 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a208",
+    "a209",
+    "a210",
+    "a213",
+    "a214",
+    "a214bis",
+    "a215",
+    "a216",
+    "a217",
+    "a218",
+    "a219",
+    "a220",
+    "a221",
+    "a222",
+    "a222bis",
+    "a223",
+    "a224",
+    "a225",
+    "a226",
+    "a227"
+  ],
+  "completed_units": 20,
+  "created_at": "2026-10-20T22:49:07.991422+00:00",
+  "independent_review_pending": true,
+  "commentary_file": "commentary/part-24.md",
+  "source_preflight": "preflight-author-a208-a227-result.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Whole book remains incomplete: 332 other units lack commentary.",
+    "Independent second pass of this authored batch is pending.",
+    "Case-law research is selective: three full primary judgments, one without substantive reasoning; no exhaustive later-citation or European-law survey.",
+    "External metrology, hallmarking, postal, treaty and procedural regimes are not presented as fully separately verified; cross-references are confined to the Sr wording and the read judgments.",
+    "No external professional approval; length and exact-repeat tests do not establish legal quality."
+  ],
+  "unit_checks": [
+    {
+      "id": "a208",
+      "statutory_sha256": "ede2621c3766e01cea54daf16ddd546a4b82a58b15b1290e9785b05d657c14e5",
+      "commentary_sha256": "8101043b513c54c2621195ae152ae9afbab12e4d24d23371d89ddfa8eef5e9e7",
+      "commentary_chars": 1621,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a209",
+      "statutory_sha256": "4dd441ba28351f3ffba406728bd098a0d7efff931f63ab5490f11947f02dd198",
+      "commentary_sha256": "9fabf619d29b6ead49a0425bf8278d35e39ad50e043f1a295e42e6f47766212f",
+      "commentary_chars": 1711,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a210",
+      "statutory_sha256": "fb248a151bb8753e0bb9417c4d4a5fb14e20e1c475e97fa88ca4060650267500",
+      "commentary_sha256": "9dbda9315bc5748e27d8e0ff0aa2fa84bf1841571d841294f0a203472e50aeb1",
+      "commentary_chars": 1650,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a213",
+      "statutory_sha256": "5e00f3f5ae5f8d2c569426db12255651783c4163f830ed49fe809a002e62e016",
+      "commentary_sha256": "329ed9f66431a4b2d250c8fecd03ba9461a75239edb60cc461c9ed2bcfd2fd40",
+      "commentary_chars": 1560,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a214",
+      "statutory_sha256": "50675c79b46dc22875d7735249a18d6e0915cc1fd6a521f9950c82ff0a110a05",
+      "commentary_sha256": "432ee1828cc3f14fd480ffbf65e6e789fbb60315f9f2223327f831393b8545a9",
+      "commentary_chars": 1643,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a214bis",
+      "statutory_sha256": "993b21c77120e9a7dbf281a12e24d6211cc9db309b79f37b4ebc1d2fb121c9a8",
+      "commentary_sha256": "11c313b41a224499c6a2a64e4d9450adec5f9b09a66299c20a37443c4975994f",
+      "commentary_chars": 1621,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a215",
+      "statutory_sha256": "008352fecb058c9b6546ffa2c9280304565d8d0f8b032819a66640c9ad47a38d",
+      "commentary_sha256": "7a95d06535c75b6a2b3cf02477d04e2313809947ea7a274d956f08ce5ca44a63",
+      "commentary_chars": 1742,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a216",
+      "statutory_sha256": "ac889c33d359881911dced17e9b7da7aea642519c4506ab114a9dd040e4b2792",
+      "commentary_sha256": "d04b6ea6d63b98ae2d8e45258744eaeb563158cc244d40e164dcadeafdfead5b",
+      "commentary_chars": 1660,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a217",
+      "statutory_sha256": "3e79262fffa37e26ed115884236428125a2b89d90b45c28c8d63ce63a2b2c5f5",
+      "commentary_sha256": "35a4fbeeff2f224f1299dcd3b437643e2b81d81f0ca0687ef237ac762f81fc6e",
+      "commentary_chars": 1609,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a218",
+      "statutory_sha256": "6c4a749f14f9b2685a5789e18e5325732244ac25c9ba6aaa979708cba603c86d",
+      "commentary_sha256": "a3ebe5dc0e3e8bca57e958ac8b13cb698208a4ef5ed850c97b33f8011c83380e",
+      "commentary_chars": 1623,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a219",
+      "statutory_sha256": "cecad4ca3ce57957dcacc116d757723dbf8e5f3cd13d0e7cfcd1b98ae0ec5700",
+      "commentary_sha256": "d66312c342126ffa385c3a383d1cbecef2613491040d21ff65106b4e7019cde7",
+      "commentary_chars": 1643,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a220",
+      "statutory_sha256": "9e35252caf2a57e424d2c6d5b798de6b7333ba062c507a1d4b874230dec5d859",
+      "commentary_sha256": "a6d06abb126e998581ec1589ea8cf15f7d5e83c7bb08020147249e9e92e0b033",
+      "commentary_chars": 1633,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a221",
+      "statutory_sha256": "dd72f1c2f49d5e350d85a9a37d5f59b376eec773d146f5dc2c238a421fc11b4b",
+      "commentary_sha256": "64bc8ac98d9e2e0bdeba0b352fe23f41ef462970e7cbc2626d6f0d908af69f22",
+      "commentary_chars": 1576,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a222",
+      "statutory_sha256": "bcb6146fde6c0b4de76cb55d7ce76edd73e182a8ba42988a4d089483b105dc10",
+      "commentary_sha256": "7ee2274c8d611f65858d46f6dacb6a5a4f6252d0c7e3fb01b91df5f9f35399fd",
+      "commentary_chars": 1600,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a222bis",
+      "statutory_sha256": "0168fcf87eb98892fd784975f0d996fcf50e9b50eae2d1fe0e3ed7f3fba45ba8",
+      "commentary_sha256": "0a16fde9e2a196acb9028a4ab5be162be5fc07a638061083a0948cbb0c5d7dc5",
+      "commentary_chars": 1572,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a223",
+      "statutory_sha256": "62c29b22687721af0a5e71523eea5a264d4444c1eb9bc4272680a1a38a3ab440",
+      "commentary_sha256": "66c6e0f3693658b82c997c5ea7123eca1ee4b9311deae680e5bea174150cd110",
+      "commentary_chars": 1602,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a224",
+      "statutory_sha256": "660a96845463b9481de35a7d896ed3ee482c0c70020c3b8cbc9badd4cf9ed3a6",
+      "commentary_sha256": "ee8134a6ec368ee52ef8ed7b7c4a96b0253472a2d23ef71d5c184e5f7d09b44c",
+      "commentary_chars": 1740,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a225",
+      "statutory_sha256": "d3513f6ea24437139ba4466a3db283f2c0af1293b02464ed888917c80f53595c",
+      "commentary_sha256": "aa718e5edf4dd6b4d038b9ef9a4810bc69bc3dc8cd6e15fa40bb94009591e549",
+      "commentary_chars": 2307,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a226",
+      "statutory_sha256": "5b3881d1859a64f268dcab2a33ffed2e8446e7689936092cfe373d051220f050",
+      "commentary_sha256": "e440adb8feffbcbb8a97299ebc6d264c269917c9a988fd48676402c2d2f3d389",
+      "commentary_chars": 2093,
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a227",
+      "statutory_sha256": "5d273449b5f94b5c9ae10ed231ee354676a2d3da3a190504324709ff83bdee22",
+      "commentary_sha256": "b7af20735ab4129e529d87f0238939fc2a93a2341dec3aef24a3e826742ecf18",
+      "commentary_chars": 2065,
+      "source_read": true,
+      "author_content_check": true
+    }
+  ],
+  "other_commentary_files_unchanged": [
+    "commentary/part-01.md",
+    "commentary/part-02.md",
+    "commentary/part-03.md",
+    "commentary/part-04.md",
+    "commentary/part-05.md",
+    "commentary/part-06.md",
+    "commentary/part-07.md",
+    "commentary/part-08.md",
+    "commentary/part-09.md",
+    "commentary/part-10.md",
+    "commentary/part-11.md",
+    "commentary/part-12.md",
+    "commentary/part-13.md",
+    "commentary/part-14-a92-a100.md",
+    "commentary/part-14.md",
+    "commentary/part-15.md",
+    "commentary/part-16.md",
+    "commentary/part-17.md",
+    "commentary/part-18.md",
+    "commentary/part-19.md",
+    "commentary/part-20.md",
+    "commentary/part-21.md",
+    "commentary/part-22.md",
+    "commentary/part-23.md"
+  ],
+  "case_cards": [
+    "authorities/author-a208-a227-HR-2019-1927.md",
+    "authorities/author-a208-a227-HR-2024-1349.md",
+    "authorities/author-a208-a227-HR-2000-AA6000.md"
+  ],
+  "coverage_complete": true,
+  "checkpoint": "24-deel-24.md",
+  "generic_prose_check": "All twenty explanations read against source; specific elements, consequences, distinctions and examples. Identical paragraph scan is supplementary, not legal approval.",
+  "full_build_ok": false,
+  "build_result": {
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 332 jednotkám, např.: ['a227a', 'a227b', 'a227c', 'a228', 'a229', 'a230', 'a231', 'a231a', 'a231b', 'a232']\n",
+    "reason": "332 uncommented units outside bounded task. Full build gate retained unchanged.",
+    "bounded_checkpoint_renderer": "_render_checkpoint.py",
+    "rendered_new_units": 20
+  },
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "exact_repeated_paragraphs": 0
+}

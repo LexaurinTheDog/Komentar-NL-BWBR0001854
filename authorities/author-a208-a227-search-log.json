@@ -1,0 +1,44 @@
+{
+  "searched_at": "2026-10-20T22:48:19.095407+00:00",
+  "queries": [
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"225\" \"bewijsbestemming\"",
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"227\" \"authentieke akte\"",
+    "site.uitspraken.rechtspraak.nl \"Hoge Raad\" \"213\" \"bankbiljetten\""
+  ],
+  "method": "Primary-domain discovery; local HR corpus consulted; three fresh official full XML responses read.",
+  "full_text_fetch_log": "authorities/author-a208-a227-fetch-log.json",
+  "local_corpus": "authorities/author-a208-a227-local-corpus.json",
+  "supported_units": [
+    "a213",
+    "a226",
+    "a227"
+  ],
+  "other_units": {
+    "ids": [
+      "a208",
+      "a209",
+      "a210",
+      "a214",
+      "a214bis",
+      "a215",
+      "a216",
+      "a217",
+      "a218",
+      "a219",
+      "a220",
+      "a221",
+      "a222",
+      "a222bis",
+      "a223",
+      "a224",
+      "a225"
+    ],
+    "disposition": "No sufficiently relevant full-text verified judgment selected in this bounded research; statutory explanation only. No exhaustive per-unit research claimed."
+  },
+  "excluded_candidates": [
+    "PHR search results were not treated as judgments.",
+    "HR2024:1349 was read but its unreasoned rejection under article 81 RO is not used as a substantive opzet holding.",
+    "The AG conclusion embedded in HR2000:AA6000 is distinguished from the opposite HR decision on authentic-act status."
+  ],
+  "limits": "Selective search, no exhaustive citator or full foreign marking-regime verification."
+}

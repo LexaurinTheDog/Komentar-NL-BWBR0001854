@@ -1,0 +1,23 @@
+[
+  {
+    "original_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-1349.md",
+    "snapshot": "authorities/author-a208-a227-local-2024-1349.md",
+    "sha256": "3b80dfce4773ff0e8cb49534161a8f8b71f188275f317506b022694b55e536a3",
+    "bytes": 2766,
+    "role": "Local corpus consulted; fresh full official XML controls the supported holding."
+  },
+  {
+    "original_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-1927.md",
+    "snapshot": "authorities/author-a208-a227-local-2019-1927.md",
+    "sha256": "7ca42142430875f878f639895fdc264750e124ea19f318121c9ab1616940685a",
+    "bytes": 25266,
+    "role": "Local corpus consulted; fresh full official XML controls the supported holding."
+  },
+  {
+    "original_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2000-aa6000.md",
+    "snapshot": "authorities/author-a208-a227-local-2000-aa6000.md",
+    "sha256": "d128f0b97724a6b5b98fe2756f1533d249b374e23fcef24b363dae9fcf128cb6",
+    "bytes": 18168,
+    "role": "Local corpus consulted; fresh full official XML controls the supported holding."
+  }
+]

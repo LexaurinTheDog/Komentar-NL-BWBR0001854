@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2000:AA6000</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T20:03:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AA6000</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2000-05-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">00458/99</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2000:AA6000" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2000:AA6000</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0003738&amp;artikel=7&amp;g=2000-05-30">Rijkswet op het Nederlanderschap 7</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=227&amp;g=2000-05-30">Wetboek van Strafrecht 227</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=261&amp;g=2000-05-30">Wetboek van Strafrecht 261</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOL 2000, 340</rdf:li>
+          <rdf:li>NJ 2001, 563 met annotatie van G. Knigge</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2000:AA6000">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2000:AA6000</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T16:03:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2001-11-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2000:AA6000 Hoge Raad , 30-05-2000 / 00458/99</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2000:AA6000:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>-</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2000:AA6000:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>30 mei 2000</para>
+      <para>Strafkamer</para>
+      <para>nr. 00458/99</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>	                        Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te Arnhem van 5 maart 1999 alsmede tegen alle op de terechtzitting van dit Hof gegeven beslissingen in de strafzaak tegen:</para>
+      <para>[verdachte], opgevende te zijn geboren te [geboorteplaats A] (Irak) op [geboortedatum] 1961, wonende te [woonplaats].</para>
+    </parablock>
+    <para />
+    <para>1.   De bestreden einduitspraak</para>
+    <para />
+    <para>     Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Arrondissementsrechtbank te Almelo van 4 november 1997 - de verdachte ter zake van 1. onder 1a "medeplegen van een ander uit winstbejag behulpzaam zijn bij het zich verschaffen van toegang tot en verblijven in Nederland, terwijl hij weet of ernstig redenen heeft te vermoeden dat de toegang en dat verblijf wederrechtelijk zijn, meermalen gepleegd", 1. onder 1b "een ander uit winstbejag behulpzaam zijn bij het zich verschaffen van toegang tot en verblijven in Nederland, terwijl hij weet of ernstige redenen heeft te vermoeden dat de toegang en dat verblijf weder-rechtelijk is, terwijl het feit wordt begaan door een persoon die daarvan een gewoonte maakt en in vereniging wordt begaan door meerdere personen" en 2. "ter voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten het misdrijf: Een ander uit winstbejag behulpzaam zijn bij het zich verschaffen van toegang tot of verblijven in Nederland, terwijl hij weet of ernstige redenen heeft te vermoeden dat de toegang tot dat verblijf wederrechtelijk is, terwijl het feit wordt begaan door een persoon die daarvan een gewoonte maakt en in vereniging wordt begaan door meerdere personen, opzettelijk voorwerpen kennelijk bestemd tot het in vereniging begaan van dat misdrijf, voorhanden hebben" en 3. primair "in een authentieke akte een valse opgave doen opnemen aangaande een feit van welks waarheid de akte moet doen blijken, met het oogmerk om die akte te gebruiken of door anderen te doen gebruiken als ware die opgave in overeenstemming met de waarheid" veroordeeld tot vier maanden gevangenisstraf, voorwaardelijk met een proeftijd van twee jaren, alsmede tot het verrichten van onbetaalde arbeid ten algemenen nutte voor de duur van éénhonderdtachtig uren in plaats van vier maanden gevangenisstraf, met onttrekking aan het verkeer zoals in het arrest omschreven.</para>
+    <para />
+    <para>2.   Geding in cassatie</para>
+    <para />
+    <para>2.1. Het beroep is ingesteld door de verdachte. Namens deze heeft mr. H. Tadema, advocaat te Deventer, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+    <para />
+    <para>2.2. De waarnemend Advocaat-Generaal Keijzer heeft geconcludeerd dat de Hoge Raad de bestreden uitspraak zal vernietigen, de inleidende dagvaarding voor wat betreft de tenlastelegging onder 3 primair nietig zal verklaren, en de zaak voor het overige zal verwijzen naar het Gerechtshof te Leeuwarden teneinde op het bestaande hoger beroep verder te worden berecht en afgedaan. </para>
+    <para />
+    <para>3.   Ambtshalve beoordeling van het bestreden arrest voor wat betreft het onder 3 primair bewezenverklaarde</para>
+    <para />
+    <parablock>
+      <para>3.1. Voor de beoordeling van de hier aan de orde zijnde kwestie is van belang dat aan de verdachte bij inleidende dagvaarding onder 3 primair het strafbare feit van art. 227, eerste lid, Sr is tenlastegelegd, in die zin dat zij, kort samengevat, in een authentieke akte, te weten een Koninklijk Besluit tot naturalisatie, opgemaakt door de Koningin en/of de Staat der Nederlanden, valselijk in strijd met de waarheid heeft doen of laten opnemen dat zij de Irakese nationaliteit bezat en in Irak was geboren, van de waarheid van welke feiten die akte moest doen blijken, terwijl zij in werkelijkheid de Syrische nationaliteit bezat en in Syrië was geboren, zulks met het oogmerk om die akte of een afschrift daarvan te gebruiken of door anderen te doen gebruiken als ware die opgave in overeenstemming met de waarheid.</para>
+      <para>	Subsidiair is onder 3 aan de verdachte valsheid in geschrift (art. 225, eerste lid, Sr) tenlastegelegd, in die zin dat zij, kort samengevat, een formulier "Verzoek tot naturalisatie" en/of een brief behorende bij dat formulier, zijnde geschriften die bestemd waren om tot bewijs van enig feit te dienen, valselijk heeft opgemaakt of vervalst, immers heeft zij in strijd met de waarheid vermeld of laten vermelden dat zij de Irakese nationaliteit bezat en in Irak was geboren en die geschriften voorzien van haar handtekening, zulks met het oogmerk om die geschriften als echt en onvervalst te gebruiken of door anderen te doen gebruiken.</para>
+      <para>	De Rechtbank heeft de verdachte van het onder 3 primair tenlastegelegde vrijgesproken en het onder 3 subsidiair tenlastegelegde bewezenverklaard. </para>
+      <para>	Het Hof heeft evenwel het onder 3 primair ten laste gelegde bewezenverklaard.</para>
+    </parablock>
+    <para> </para>
+    <para>3.2. Overeenkomstig de kennelijke opvatting van de steller van de tenlastelegging is het Hof ervan uitgegaan dat een Koninklijk Besluit tot naturalisatie als een authentieke akte moet worden aangemerkt. Op de grondslag van de tenlastelegging heeft het Hof immers bewezenverklaard dat deel van de tenlastelegging waar wordt gesproken van "een authentieke akte, te weten een Koninklijk Besluit tot naturalisatie, opgemaakt door de Koningin en/of de Staat der Nederlanden". Dat oordeel is onjuist, aangezien een Koninklijk Besluit, en wel zoals hier, de beslissing op grond waarvan het Nederlanderschap krachtens art. 7 en volgende van de Rijkswet op het Nederlanderschap is verleend, niet als een authentieke akte kan worden aangemerkt (vgl. HR 27 februari 1996, NJ 1996, 558). Het Hof had derhalve in plaats van de aangehaalde bewoordingen bewezen te verklaren, de dagvaarding voor wat betreft het onder 3 primair tenlastegelegde behoren nietig te verklaren. De Hoge Raad kan dit zelf doen.     </para>
+    <para />
+    <para>4.   Slotsom	</para>
+    <para />
+    <parablock>
+      <para>	Het vorenstaande brengt het volgende mee. </para>
+      <para>	De bestreden uitspraak kan voor wat betreft het tenlastegelegde en bewezenverklaarde feit onder 3 primair niet in stand blijven. De Hoge Raad zal op grond van het vorenstaande de dagvaarding in zoverre nietig verklaren. </para>
+      <para>	De beide tegen de bewezenverklaring onder 3 gerichte middelen behoeven bij die stand van zaken geen bespreking.</para>
+      <para>	De Hoge Raad oordeelt voorts geen andere grond aanwezig waarop de bestreden uitspraak, anders dan onder 5 vermeld, ambtshalve zou behoren te worden vernietigd.  </para>
+    </parablock>
+    <para />
+    <para>5.   Beslissing</para>
+    <para />
+    <parablock>
+      <para>	De Hoge Raad:</para>
+      <para>	Vernietigt de bestreden uitspraak, voorzover betreft de beslissingen ter zake van het ten laste gelegde onder 3 primair, alsmede voor wat betreft de strafoplegging;</para>
+      <para>	Verklaart de dagvaarding voor wat betreft het ten laste gelegde onder 3 primair nietig;  </para>
+      <para>	Verwijst de zaak naar het Gerechtshof te Leeuwarden opdat de zaak in zoverre, dat wil zeggen voor wat betreft het tenlastegelegde onder 3 subsidiair en voor wat de strafoplegging van de overige feiten betreft, op het bestaande hoger beroep opnieuw wordt berecht en afgedaan;</para>
+      <para>	Verwerpt het beroep voor het overige. </para>
+    </parablock>
+    <para />
+    <para>     Dit arrest is gewezen door de president  W.E. Haak als voorzitter, en de raadsheren G.J.M. Corstens, A.M.M. Orie, A.M.J. van Buchem-Spapens en J.P. Balkema, in bijzijn van de griffier S.P. Bakker, en uitgesproken op 30 mei 2000.</para>
+    <para />
+    <parablock>
+      <para>Nr. 00458/99	</para>
+      <para>mr N. Keijzer</para>
+      <para>zitting 8 februari 2000				conclusie inzake</para>
+      <para>						[Verdachte]</para>
+    </parablock>
+    <para />
+    <para />
+    <para>Edelhoogachtbaar College,</para>
+    <para />
+    <para />
+    <para>1.	Bij uitspraak van 5 maart 1999 heeft het Gerechtshof te Arnhem de verdachte, ter zake van (feiten 1a en 1b:) kort gezegd, een ander uit winstbejag behulpzaam zijn bij het wederrechtelijk zich verschaffen van toegang tot en verblijven in Nederland, (feit 2:) kort gezegd, voorbereiding tot zodanig misdrijf, en (feit 3, primair:) in een authentieke akte een valse opgave doen opnemen aangaande een feit van welks waarheid de akte moet doen blijken, met het oogmerk om die akte te gebruiken of door anderen te doen gebruiken als ware die opgave in overeenstemming met de waarheid, veroordeeld tot een gevangenisstraf voor de duur van vier maanden, voorwaardelijk met een proeftijd van twee jaren, alsmede het verrichten van 180 uren onbetaalde arbeid ten algemene nutte, met onttrekking aan het verkeer van een getypte “verklaring nationaliteit”.</para>
+    <para />
+    <para>2.	Tegen deze uitspraak heeft de verdachte cassatieberoep ingesteld. Namens haar heeft mr H. Tadema, advocaat te Deventer, twee middelen van cassatie voorgesteld.</para>
+    <para />
+    <para>3.	Het eerste middel houdt de klacht in dat het Hof aan de term “in een authentieke akte een valse opgave doen opnemen aangaande een feit van welks waarheid de akte moet doen blijken,” een met de wet (art. 227 Sr) strijdige betekenis heeft toegekend.</para>
+    <para />
+    <parablock>
+      <para>4.	Ten laste van de verdachte is onder 3 bewezenverklaard dat</para>
+      <para> “zij in de periode van 1 oktober 1995 tot en met 17 januari 1996, in de gemeente Vriezenveen en/of ‘s-Gravenhage, in een authentieke akte, te weten een Koninklijk Besluit tot naturalisatie, opgemaakt door de Koningin en/of de Staat der Neder-landen, valselijk - in strijd met de waarheid - heeft doen of laten opnemen dat verdachte de Irakese nationaliteit bezat en in [geboorteplaats A] (Irak) was geboren, van de waarheid van welke feiten die akte moet doen blijken, terwijl verdachte in werkelijkheid de Syrische nationaliteit bezat en in [geboorteplaats B] (Syrië) was geboren, zulks met het oogmerk om die akte of een afschrift daarvan te gebruiken of door anderen te doen gebruiken als ware die opgave in overeenstemming met de waarheid”.</para>
+    </parablock>
+    <para />
+    <para>5.	Het Hof heeft het bewezenverklaarde gekwalificeerd als hiervoren weergegeven, en onder de toepasselijke wettelijke voorschriften vermeld art. 227 van het Wetboek van Strafrecht.</para>
+    <para />
+    <para>6.	Het middel berust op twee stellingen. De eerste is dat onder “een feit van welks waarheid de akte moet doen blijken”, in art. 227 Sr, niet ieder feit valt te verstaan dat in de authentieke akte is opgegeven, maar slechts een feit, tot bewijs van de waarheid waarvan die akte strekt. De tweede stelling is dat een naturalisatiebesluit als het onderhavige niet strekt tot bewijs van de geboorteplaats en de nationaliteit van de betrokkene.</para>
+    <para />
+    <para>7.	Alvorens die stellingen te bespreken wijd ik een enkel woord aan de vraag of een naturalisatiebesluit kan gelden als authentieke akte1 in de zin van art. 227 Sr. </para>
+    <para />
+    <para>8.	In HR 27 februari 1996, NJ 1996, 558 m.nt. Kn heeft Uw Raad als uitgangspunt gekozen art. 183 Rv, waarvan het eerste en het tweede lid luiden:</para>
+    <para />
+    <parablock>
+      <para>1.	Akten zijn ondertekende geschriften, bestemd om tot bewijs te dienen.</para>
+      <para>2.	Authentieke akten zijn akten in de vereiste vorm en bevoegdelijk opgemaakt door ambtenaren aan wie bij of krachtens de wet is opgedragen op die wijze te doen blijken van door hen gedane waarnemingen of verrichtingen. Als authentieke akten worden tevens beschouwd de akten, waarvan het opmaken aan ambtenaren is voorbehouden, doch waarvan de wet het opmaken in bepaalde gevallen aan anderen dan ambtenaren opdraagt.</para>
+    </parablock>
+    <para />
+    <para>9.	Bij dat arrest heeft Uw Raad de vraag of een door de politie opgemaakt proces-verbaal een authentieke akte is als bedoeld in art. 227 Sr negatief beantwoord, omdat aan een zodanig proces-verbaal niet een in het raam van het civiele bewijsrecht bijzondere positie toekomt.</para>
+    <para />
+    <parablock>
+      <para>10.	Art. 7, eerste lid, Rijkswet op het Nederlanderschap luidt:</para>
+      <para>Met inachtneming van de bepalingen van dit Hoofdstuk verlenen Wij op voordracht van Onze Minister het Nederlanderschap aan vreemdelingen die daarom verzoeken.</para>
+    </parablock>
+    <para />
+    <para>11.	Het lijdt mijns inziens geen twijfel dat een Koninklijk Besluit tot naturalisatie, als in laatstgemelde bepaling bedoeld, voldoet aan de in art. 183 Rv gegeven criteria, en dat daaraan in het raam van het civiele bewijsrecht ingevolge art. 184, eerste lid, Rv een bijzondere positie toekomt, telkens wanneer het Nederlanderschap in een civiele procedure zou moeten worden bewezen. Zo’n Koninklijk Besluit kan derhalve inderdaad worden aangemerkt als authentieke akte.</para>
+    <para />
+    <para>12.	Thans dient de eerste stelling van het middel te worden besproken, te weten dat onder “een feit van welks waarheid de akte moet doen blijken”, in art. 227 Sr, slechts valt te verstaan een feit, tot bewijs van de waarheid waarvan die akte strekt, en niet tevens ieder ander feit dat in de authentieke akte is neergelegd.2</para>
+    <para />
+    <parablock>
+      <para>13.	Art. 184, eerste lid, Rv luidt:</para>
+      <para>   Authentieke akten leveren tegen een ieder dwingend bewijs op van</para>
+      <para>   hetgeen de ambtenaar binnen de kring van zijn bevoegdheid omtrent </para>
+      <para>   zijn waarnemingen en verrichtingen heeft verklaard.</para>
+    </parablock>
+    <para />
+    <para>14.	Hieruit valt af te leiden dat onder feiten, de waarheid waarvan een authentieke akte moet doen blijken, als bedoeld in art. 227 Sr, slechts zijn te verstaan de door de ambtenaar binnen de kring van zijn bevoegdheid gedane waarnemingen en verrichtingen, waaromtrent in die akte wordt verklaard. Dit brengt mee dat de eerste stelling van het middel gegrond is.</para>
+    <para />
+    <para>15.	De tweede stelling van het middel betreft de vraag of een Koninklijk Besluit tot naturalisatie, als bedoeld in art. 7, eerste lid, Rijkswet op het Nederlanderschap,  mede strekt tot bewijs van de geboorteplaats en de nationaliteit van de betrokkene.</para>
+    <para />
+    <para>16.	Wat de Koningin (“ander dan ambtenaar” in de zin van art. 183, tweede lid, Rv) bij een zodanige akte verricht is het verlenen van het Nederlanderschap. Van de waarheid van dat Nederlanderschap moet de akte mitsdien doen blijken. Wat zij binnen de kring van haar bevoegdheid uit hoofde van genoemd art. 7 verklaart omtrent haar waarnemingen kan slechts de criteria betreffen die bij die verrichting in acht dienen te worden genomen. Die criteria zijn neergelegd in de artikelen 8 en 9 van genoemde Rijkswet. De nationaliteit en de geboorteplaats van de betrokkene spelen daarbij geen rol. De tweede stelling van het middel, te weten dat een naturalisatiebesluit als in de bewezenverklaring bedoeld niet strekt tot bewijs van de nationaliteit en de geboorteplaats van de betrokkene, is derhalve eveneens gegrond.</para>
+    <para />
+    <para>17.	Dit alles leidt tot de slotsom dat de nationaliteit en de geboorteplaats van de verdachte niet kunnen gelden als een feit van welks waarheid de onderhavige authentieke akte moet doen blijken. Het middel klaagt er terecht over dat het Hof dit heeft miskend. Op grond van het hiervoren overwogene had het Hof immers de inleidende dagvaarding voor wat betreft de tenlastelegging onder 3 primair wegens innerlijke tegenstrijdigheid nietig moeten verklaren.</para>
+    <para />
+    <para>18.	Het tweede middel strekt ten betoge dat het Hof heeft verzuimd te responderen op een ter terechtzitting in hoger beroep gevoerd verweer.</para>
+    <para />
+    <parablock>
+      <para>19.	Blijkens het proces-verbaal van de terechtzitting in hoger beroep van 19 februari 1999 (pleitnota) heeft de raadsman aldaar onder meer aangevoerd:</para>
+      <para>“Appellante heeft daadwerkelijk de Iraakse nationaliteit gehad en niet de Syrische. In die zin heeft appellante geen valse gegevens verstrekt. Uit niets anders dan de eigen verklaring blijkt dat appellante niet de Iraakse nationaliteit had.</para>
+      <para>De IND heeft tot op heden nog geen standpunt ingenomen over de juistheid/onjuistheid van de nationaliteit van appellante. De stukken die in beslag genomen zijn onder haar echtgenoot zijn niet op echtheid onderzocht. Hierdoor blijft de met de bewezenverklaring onverenigbare mogelijkheid open dat appellante inderdaad geen valse opgave heeft gedaan van haar afkomst.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>20.	Het Hof is hierop niet in het bijzonder ingegaan. De verwerping van dit verweer ligt echter besloten in de bewezenverklaring en de motivering van die verwerping in de door het Hof gebezigde bewijsmiddelen. Dat de verdachte in een “Verzoek tot Naturalisatie” heeft opgeven dat zij is geboren te [geboorteplaats A] (Irak) en dat zij de Iraakse nationaliteit bezit heeft het Hof kunnen afleiden uit bewijsmiddel 23. Dat die opgave in strijd met de waarheid was heeft het Hof kunnen afleiden uit bewijsmiddel 13, hetwelk als verklaring van de verdachte onder meer inhoudt:</para>
+      <para>	“Mijn afkomst is Syrisch. Ik ben geboren in [geboorteplaats B] (Syrië). De Iraakse documenten waar wij onze assielaanvraag mee hebben ondersteund, te weten een Iraaks rijbewijs voor mijn echtgenoot, een Iraakse identiteitskaart voor mijn echtgenoot, een Iraakse identiteitskaart voor mij, zijn allemaal door mijn echtgenoot gekocht. Na aankomst in Nederland vroegen wij asiel aan en gaven op van Iraakse nationaliteit te zijn om zodoende meer kans te maken als asielzoeker.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>21.	Dit bewijsmiddel wordt nog ondersteund door bewijsmiddel 14, hetwelk als verklaring van [de echtgenoot] onder meer inhoudt:</para>
+      <para>“Ik ben getrouwd met [verdachte]. Zij heeft de Syrische nationaliteit.”</para>
+    </parablock>
+    <para />
+    <para>22.	Anders dan in de toelichting op het middel wordt betoogd laten deze bewijsmiddelen niet de met de bewezenverklaring strijdige mogelijkheid open dat de verdachte terecht heeft opgegeven de Iraakse nationaliteit te bezitten.</para>
+    <para />
+    <para>23.	Het middel is daarom ondeugdelijk.</para>
+    <para />
+    <para>24.	Het eerste middel gegrond achtende concludeer ik dat Uw Raad de bestreden uitspraak zal vernietigen, de inleidende dagvaarding voor wat betreft de telastelegging onder 3 primair nietig zal verklaren, en de zaak voor het overige zal verwijzen naar het Gerechtshof te Leeuwarden,3 teneinde op het bestaande hoger beroep verder te worden berecht en afgedaan.</para>
+    <para />
+    <parablock>
+      <para>Voor de Procureur-Generaal</para>
+      <para>bij de Hoge Raad der Nederlanden</para>
+    </parablock>
+    <para />
+    <para />
+    <para>Waarnemend Advocaat-Generaal</para>
+    <para />
+    <para />
+    <parablock>
+      <para>1 Zie omtrent de betekenis van die term: NLR, aant. 4 op art.</para>
+      <para>   226 Sr.</para>
+      <para>2 Uitvoerig over die kwestie: NLR, aant. 4 op art. 227 Sr.</para>
+      <para>3 Ingevolge art. 440 (nieuw) Sv is verwijzing zowel als</para>
+      <para>   terugwijzing mogelijk.</para>
+    </parablock>
+  </uitspraak>
+</open-rechtspraak>

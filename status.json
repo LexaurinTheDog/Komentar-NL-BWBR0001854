@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_checkpoint",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T22:40:06.439087+00:00",
+    "rechecked_at": "2026-10-20T22:49:07.991422+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a194-a207b-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a208-a227-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 460,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots92–207b including inserted/repealed places.",
-  "remaining_units": 352,
-  "next_unit": "a208",
-  "commentary_chars": 724301,
+  "completed_units": 480,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots92–227 including inserted/repealed places.",
+  "remaining_units": 332,
+  "next_unit": "a227a",
+  "commentary_chars": 759119,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -141,7 +141,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:42:22.727382+00:00",
+  "updated_at": "2026-10-20T22:49:07.991422+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -870,28 +870,28 @@
   "bounded_author": {
     "complete": true,
     "ids": [
-      "a194",
-      "a195",
-      "a196",
-      "a197",
-      "a197a",
-      "a197b",
-      "a197c",
-      "a197d",
-      "a198",
-      "a199",
-      "a200",
-      "a201",
-      "a202",
-      "a203",
-      "a204",
-      "a205",
-      "a206",
-      "a207",
-      "a207a",
-      "a207b"
+      "a208",
+      "a209",
+      "a210",
+      "a213",
+      "a214",
+      "a214bis",
+      "a215",
+      "a216",
+      "a217",
+      "a218",
+      "a219",
+      "a220",
+      "a221",
+      "a222",
+      "a222bis",
+      "a223",
+      "a224",
+      "a225",
+      "a226",
+      "a227"
     ],
-    "result": "author-a194-a207b-result.json",
+    "result": "author-a208-a227-result.json",
     "independent_review_pending": true
   },
   "validation": {
@@ -1061,6 +1061,67 @@
       ],
       "result": "author-a194-a207b-result.json",
       "independent_review_pending": true
+    },
+    {
+      "complete": true,
+      "ids": [
+        "a208",
+        "a209",
+        "a210",
+        "a213",
+        "a214",
+        "a214bis",
+        "a215",
+        "a216",
+        "a217",
+        "a218",
+        "a219",
+        "a220",
+        "a221",
+        "a222",
+        "a222bis",
+        "a223",
+        "a224",
+        "a225",
+        "a226",
+        "a227"
+      ],
+      "result": "author-a208-a227-result.json",
+      "independent_review_pending": true
+    }
+  ],
+  "case_law_batches": [
+    {
+      "scope": [
+        "a208",
+        "a209",
+        "a210",
+        "a213",
+        "a214",
+        "a214bis",
+        "a215",
+        "a216",
+        "a217",
+        "a218",
+        "a219",
+        "a220",
+        "a221",
+        "a222",
+        "a222bis",
+        "a223",
+        "a224",
+        "a225",
+        "a226",
+        "a227"
+      ],
+      "cards": [
+        "authorities/author-a208-a227-HR-2019-1927.md",
+        "authorities/author-a208-a227-HR-2024-1349.md",
+        "authorities/author-a208-a227-HR-2000-AA6000.md"
+      ],
+      "full_primary_texts_read": 3,
+      "substantive_judgments_used": 2,
+      "selective_only": true
     }
   ]
 }

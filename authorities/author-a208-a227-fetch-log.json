@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2024%3A1349",
+    "accessed_at": "2026-10-20T22:45:23.469312+00:00",
+    "path": "authorities/author-a208-a227-ECLI-NL-HR-2024-1349.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "66492ed1a3c8db6fe637c6af43020e078870b476b61df9b09bde00d047f104fe",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A1927",
+    "accessed_at": "2026-10-20T22:45:23.699172+00:00",
+    "path": "authorities/author-a208-a227-ECLI-NL-HR-2019-1927.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "fc9cea69e854283c680f0ad7df5ed9683bb3ccfc2b205c1e74c7fef8709f194a",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2000%3AAA6000",
+    "accessed_at": "2026-10-20T22:45:23.913312+00:00",
+    "path": "authorities/author-a208-a227-ECLI-NL-HR-2000-AA6000.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "36bbfe3b34050f5dab77a489e7e85e605304d1aee48d4343d74e72839c31b359",
+    "expected_format_valid": true
+  }
+]
