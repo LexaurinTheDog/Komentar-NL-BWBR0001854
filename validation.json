@@ -2,9 +2,9 @@
   "repo": "Komentar-NL-BWBR0001854",
   "units": 812,
   "verbatim_ratio": 1.0,
-  "commentary_chars": 724301,
+  "commentary_chars": 759119,
   "errors": [
-    "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']"
+    "krátký/chybějící komentář u 332 jednotek: ['a227a(0<400)', 'a227b(0<400)', 'a227c(0<400)', 'a228(0<400)', 'a229(0<400)', 'a230(0<400)', 'a231(0<400)', 'a231a(0<400)']"
   ],
   "warnings": [],
   "ok": false
