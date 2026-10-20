@@ -582,5 +582,20 @@
     ],
     "qualitative_assessment": "All20 prose blocks read separately with their fictional examples. Six active units distinguish separate statutory tests. Fourteen repealed slots have distinct retrieval, temporal or structural explanations; the ISD checklist is explicitly sourced to active articles."
   },
-  "validation_scope": "Full unchanged statutory inventory and shared tools; substantive review confined to the exact20 IDs."
+  "validation_scope": "Full unchanged statutory inventory and shared tools; substantive review confined to the exact20 IDs.",
+  "technical_validation": {
+    "checked_at": "2026-10-20T17:01:10.271909+00:00",
+    "full_build_ok": false,
+    "full_shared_validation_ok": false,
+    "verbatim_ratio": 1.0,
+    "completeness_ok": true,
+    "commented_total": 264,
+    "commented_assigned": 20,
+    "missing_commentaries_outside_scope": 548,
+    "broken_local_links": 0,
+    "validation_evidence": "validation.json",
+    "build_evidence": "build-result.json",
+    "coverage_evidence": "sources/review-batch06-coverage.json",
+    "not_a_legal_quality_certificate": true
+  }
 }

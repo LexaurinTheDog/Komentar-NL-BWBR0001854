@@ -62,20 +62,20 @@
       "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
       "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
     ],
-    "recorded_at": "2026-10-20T16:52:19.781219+00:00",
+    "recorded_at": "2026-10-20T17:00:26.990000+00:00",
     "returncode": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
     "ok": false,
     "full_inventory_unchanged": true,
-    "task_scope": "Independent second reading of exactly 20 assigned units 36a–38g. Existing 548-unit authoring deficit is outside assignment.",
-    "checkpoint_renderer": "_render_checkpoint.py renders all 264 existing comments as explicitly incomplete; no full-build success claimed."
+    "task_scope": "Independent second reading of exactly 20 assigned units 38h–38ij; existing 548-unit authoring deficit is outside assignment.",
+    "checkpoint_renderer": "_render_checkpoint.py renders the 264 existing comments as an explicitly incomplete checkpoint; no full-build success claimed."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 276244,
+    "commentary_chars": 279867,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -89,10 +89,10 @@
     "Case-law research and external cross-reference research remain selective.",
     "Second pass comprises six disjoint20-unit batches:120 reviewed,692 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T16:58:32.575258+00:00",
+  "updated_at": "2026-10-20T17:01:10.271909+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T16:46:48.244058+00:00",
+    "verified_at": "2026-10-20T16:55:46.412380+00:00",
     "report": "preflight-result.json",
     "decisive_date_preserved": "2026-10-19",
     "official_manifest_states_checked": 126,
@@ -102,10 +102,10 @@
     ],
     "new_commentary_units": 0,
     "unresolved_blockers": [],
-    "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail.",
+    "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
     "bounded_recheck": "sources/review-batch06-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T16:53:25.840470+00:00",
+  "validation_checked_at": "2026-10-20T17:01:10.271909+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
