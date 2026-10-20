@@ -1,0 +1,51 @@
+{
+  "searched_at": "2026-10-20T18:47:39.702960+00:00",
+  "web_queries": [
+    "site.uitspraken.rechtspraak.nl \"artikel 109\" \"feitelijke\" \"Koning\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 102\" \"vijand\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 115\" \"aanslag\"",
+    "\"feitelijke aanranding\" \"Koning\" \"ECLI\"",
+    "\"ECLI:NL:RBROT:2013:8265\"",
+    "\"ECLI:NL:RBASS:2002:AD8928\"",
+    "site.uitspraken.rechtspraak.nl \"Koningin\" \"artikel 110\"",
+    "site.uitspraken.rechtspraak.nl \"Koning\" \"109 Sr\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 103\" \"samenspanning\""
+  ],
+  "search_method": "web.run discovery; actual sources downloaded directly from official data.rechtspraak.nl API. Firecrawl status checked: authenticated, zero credits, no scrape used. Third-party results used only as leads.",
+  "local_evidence": "authorities/author-a101-a116-local-search.json",
+  "accepted": [
+    {
+      "ecli": "ECLI:NL:RBASS:2002:AD8928",
+      "units": [
+        "a101",
+        "a102"
+      ],
+      "scope": "Historical procedural caution only; not current sentence or limitation authority.",
+      "full_primary_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBROT:2013:8265",
+      "units": [
+        "a115"
+      ],
+      "scope": "Limited Article 83/115 reference; internal reasoning/dictum inconsistency disclosed.",
+      "full_primary_read": true
+    }
+  ],
+  "excluded": [
+    {
+      "ecli": "ECLI:NL:HR:2015:4",
+      "reason": "Lead from third-party related-case listing; full official judgment concerns cocaine and unlawful search, not Article 110 Sr. Read but not cited."
+    },
+    {
+      "ecli": "ECLI:NL:HR:1969:AB4060",
+      "reason": "Broad local hit concerns seizure of a car; inspected metadata, not used as authority."
+    },
+    {
+      "ecli": "ECLI:NL:GHARL:2013:9368",
+      "reason": "Third-party related-case lead not relied upon or presented as verified full authority."
+    }
+  ],
+  "other_units": "No sufficiently specific, fully verified decision added. Commentary is textually and systematically reasoned; research is selective, not exhaustive.",
+  "local_hit_disposition": "Eight precise lexical hits: five refer in quoted allegations to recruitment as Article 105, two concern Article 102 in Sint Maarten, one is a historical scholarly passage quoted within another case. None supplies a verified court holding on the assigned current Dutch provisions; not cited."
+}

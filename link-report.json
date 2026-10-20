@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 603,
+  "local_links_checked": 627,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -55,6 +55,8 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1003",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:904",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2005:AS5983",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBASS:2002:AD8928",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2013:8265",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
     "https://wetten.overheid.nl/BWBR0001903/2026-07-01",
     "https://wetten.overheid.nl/BWBR0002074/2013-01-01",
@@ -70,6 +72,8 @@
     "https://zoek.officielebekendmakingen.nl/stb-2008-4.html",
     "https://zoek.officielebekendmakingen.nl/stb-2013-485.html",
     "https://zoek.officielebekendmakingen.nl/stb-2014-33.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
     "https://zoek.officielebekendmakingen.nl/stb-2024-414.html",
     "https://zoek.officielebekendmakingen.nl/stb-2025-100.html",
     "https://zoek.officielebekendmakingen.nl/stb-2025-124.html",

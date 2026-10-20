@@ -1,0 +1,8 @@
+{
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
+  "scope": "Full unchanged 812-unit inventory; missing prose outside the twenty assigned author units prevents the full book build.",
+  "checked_at": "2026-10-20T18:47:50.077150+00:00"
+}

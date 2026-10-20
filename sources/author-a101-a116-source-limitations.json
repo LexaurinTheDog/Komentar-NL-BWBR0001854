@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-10-20T18:47:39.702960+00:00",
+  "items": [
+    {
+      "source": "authorities/ECLI-NL-RBROT-2013-8265.xml",
+      "issue": "Reasoning rejects invalidity argument about freedom; dictum declares same phrase partly invalid.",
+      "treatment": "Disclosed in a115 and case card; no definitive procedural holding inferred."
+    },
+    {
+      "source": "authorities/ECLI-NL-RBROT-2013-8265.xml",
+      "issue": "Referenced evidentiary annex II absent from publicly supplied XML.",
+      "treatment": "No claims about its unseen evidence; limited statutory-reference use only."
+    },
+    {
+      "source": "authorities/ECLI-NL-RBASS-2002-AD8928.xml",
+      "issue": "BBS and military limitation law are historical and not independently verified as current statutes.",
+      "treatment": "Judgment described only as historical procedural example, never current rule or sentence authority."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2012-10-01_0/xml/BWBR0001854_2012-10-01_0.xml",
+    "accessed_at": "2026-10-20T18:41:15.916994+00:00",
+    "path": "sources/author-a101-a116-history-2012-10-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "f0daea18481182b3207a188501c3660491d081e1c6e383f53ac970d67d9922ce",
+    "bytes": 2712001,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-12-15_0/xml/BWBR0001854_2019-12-15_0.xml",
+    "accessed_at": "2026-10-20T18:41:16.969133+00:00",
+    "path": "sources/author-a101-a116-history-2019-12-15_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "1898edd974db8362c354305da618c0a2410055ba684ad6a66ae4a149d2ede197",
+    "bytes": 2782109,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "accessed_at": "2026-10-20T18:41:17.755202+00:00",
+    "path": "sources/author-a101-a116-stb-2019-187.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "0efba929e005b00ba1848003816ec41c45df1fba8c6537bb2bbb6c8aa047fdf9",
+    "bytes": 32938,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "accessed_at": "2026-10-20T18:41:18.178593+00:00",
+    "path": "sources/author-a101-a116-stb-2019-277.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "14eead1bcd02c69231395ec3149259f0f952b032766a592f447be8289bafc806",
+    "bytes": 22774,
+    "expected_format_valid": true
+  }
+]

@@ -1,0 +1,396 @@
+{
+  "kind": "bounded_author_checkpoint",
+  "complete": true,
+  "book_complete": false,
+  "independent_review": false,
+  "ids": [
+    "a101",
+    "a102",
+    "a103",
+    "a103a",
+    "a104",
+    "a105",
+    "a106",
+    "a107",
+    "a107a",
+    "a108",
+    "a109",
+    "a110",
+    "a111",
+    "a112",
+    "a113",
+    "a114",
+    "a114a",
+    "a114b",
+    "a115",
+    "a116"
+  ],
+  "units_completed": 20,
+  "total_statutory_units": 812,
+  "total_commentaries": 300,
+  "remaining_commentaries": 512,
+  "commentary_chars_added": 42661,
+  "commentary_lengths": {
+    "a101": 2359,
+    "a102": 2750,
+    "a103": 2073,
+    "a103a": 2280,
+    "a104": 2215,
+    "a105": 2255,
+    "a106": 2371,
+    "a107": 1877,
+    "a107a": 2704,
+    "a108": 2399,
+    "a109": 1864,
+    "a110": 1982,
+    "a111": 1108,
+    "a112": 1222,
+    "a113": 1325,
+    "a114": 1705,
+    "a114a": 2066,
+    "a114b": 3033,
+    "a115": 2906,
+    "a116": 2167
+  },
+  "commentary_sha256": {
+    "a101": "8232cc44fa10af7e2ac4f1bd415e24181556f54f84b6f18213b74956d0388e38",
+    "a102": "4a8e8cf0abad7eb839ad62cba61ebab90769d9a232df6d05e4c6faf404acf12d",
+    "a103": "27bce8d8b6b0aa3d07ade758f18d78aa446a6b28d0c414fec80f8fd381df4fa9",
+    "a103a": "d9122fff6527e05e6647de3323da659f5d65f280ef5da737d98d4ceb5d6cdaf7",
+    "a104": "76205aebec3a4a117fdcb62d5bc916e933ff53ba6dfd66a8cf13dd315c92b695",
+    "a105": "3483c4e577fbe5df04dfd07f62681397b68c9dff992fb126be9a0dc7b0a4d25c",
+    "a106": "a352fdae2aa2f48ae9e7495c081df7526f7e3ac066e0d52d90c8b4cbf5439237",
+    "a107": "ec66987e10161539a79a413e5015a795166f2394d62af22db33d49559fcfa34d",
+    "a107a": "360b230b959ff9fd25176a5d213fbc9a4ab83b76e7782e86298ae3c0ab79d594",
+    "a108": "397214a0fd955d67dffff6611ff922a65f52b560aa29d51c21fc8544715e3a9f",
+    "a109": "84eb859ba2d446700facece47d5839f194d117a947614ab666de21fcd9e389f4",
+    "a110": "a670cf58c474fcdd80b91cf54403bc2ff0855962a103016b5b9bbf16ff9f6c26",
+    "a111": "7850cfbf9e7be366aa658ee5353adb47ad8529a26cadb6d56d8bc3fdf91bbed9",
+    "a112": "928d3b29c863f4763e6af2b608c3288118f404dd729ce2c8721c82e4e8e87300",
+    "a113": "e5820281d9babacbc27e119225522b8d2730b2dd5e0dfc8460112d3e2469132d",
+    "a114": "fd949bc673b4264cb96335e9697931f5faf6956cb339aa8ac7ba550280bb1092",
+    "a114a": "62a38b749eb428d9edd0ac294dfa4a49e9bc4b9aeca121c3e46a84cab379f13d",
+    "a114b": "028ccc675b3712d8d2560bf2380eef4dd2b777d758d223025cb8bca05e6d96dd",
+    "a115": "600cc1a16d3681101c6115dca8c68fb9f738d5320d118eda228945d3215a93d5",
+    "a116": "6901a49a4ee277345dcc534468dab56fb6ee5e6a5712c6969e6e5cbd990f60b5"
+  },
+  "all_prior_commentary_files_unchanged": {
+    "commentary/part-01.md": "766adba9a75959c383fb7d546164e668b88acebc212026425f6d9539c241b642",
+    "commentary/part-02.md": "e22b48ec9d79e56a8733de66bc5c086b954baeecc055363c8cf06468691d3162",
+    "commentary/part-03.md": "34a286d0d59a81c7e4aba8df829bc25660af1f34db6e3df11b27d978fd1eaa17",
+    "commentary/part-04.md": "05f87e2e1b5ddb09b06c91c46b8668152f9a592adb23fbb2da334f12fecdc28f",
+    "commentary/part-05.md": "5c4cea9fd8df2b40af32f8630407c15357e9f7d10dd1b0fcf5e97ce5f000bac8",
+    "commentary/part-06.md": "70ffa5b0680a60043a9af06a0b1df8994ef4c4e9d9709295dda4a6b1bbda4ad6",
+    "commentary/part-07.md": "00488d1fc824acfb12e18fd8555fa3062d94c541f052e37960ba9ba5744c5c1f",
+    "commentary/part-08.md": "38f9bb2a4e97dae3515ae9b343d66b5d18db0f0c99fbbc3592eddaed43b2d1ce",
+    "commentary/part-09.md": "89c79ac1abc05a05c38145c972c9126e274375927591abd5ce8324977f1d5a48",
+    "commentary/part-10.md": "c9ae80a6e42e35c69f2509273509167001b26152174813b387c8ab4f28d257d4",
+    "commentary/part-11.md": "09c30d0af947efc2e0ae6b25f594cb7e0232ad572a93dc5a11d7d0e6b5e53b85",
+    "commentary/part-12.md": "cb41a01a9ab4bd77284f36e3272f624fc622c2edfddee13e917d3af83ad5ec9a",
+    "commentary/part-13.md": "cd922f63135d8c5884e757a38293b15630c3758f9b800a4472c268bcc3dcd75a",
+    "commentary/part-14-a92-a100.md": "15b4951eae0ab9419402a5f461afad082fbf9b6fcaf349d465bfe6b9250721a9",
+    "commentary/part-14.md": "9b57c469e1eccdbd442035ad381568e935dfa1aee826f52200837c1ee9ae9fde"
+  },
+  "source_preflight": "sources/author-a101-a116-version-evidence.json",
+  "source_text_agreement": 1.0,
+  "completeness": "sources/author-a101-a116-coverage.json",
+  "historical_change_map": "sources/author-a101-a116-historical-change-map.json",
+  "findings": [
+    {
+      "id": "a101",
+      "author_checked": true,
+      "source_text_sha256": "df5e3deafdde3f2fe802e43eb00379c75dfe5302e6e731f83e6b6c32127c2085",
+      "finding": "Vrijwillige dienstneming door Nederlander, vooruitzicht en daadwerkelijk uitbreken oorlog afzonderlijk behandeld.",
+      "cross_references_checked": [
+        "a87",
+        "a107a"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBASS:2002:AD8928"
+      ]
+    },
+    {
+      "id": "a102",
+      "author_checked": true,
+      "source_text_sha256": "19126d7b56088f2c1b5b304ad6d9a58f067acda38da2e826fe25b82c6842dc43",
+      "finding": "Twee opzettelijke routes; eigen conflictbegrippen, bijzondere uitzondering en actuele strafmaat tegenover historisch vonnis.",
+      "cross_references_checked": [
+        "a87",
+        "a103a",
+        "a107",
+        "a107a"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBASS:2002:AD8928"
+      ]
+    },
+    {
+      "id": "a103",
+      "author_checked": true,
+      "source_text_sha256": "78c94c97fd611b9d82e892c7097f022a630b4f39541f5166e69d07d873d4c4cc",
+      "finding": "Overeenkomst volgens 80 onderscheiden van eenzijdig plan en reeds gepleegde hulp; eigen maximum.",
+      "cross_references_checked": [
+        "a80",
+        "a102",
+        "a103a",
+        "a107",
+        "a107a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a103a",
+      "author_checked": true,
+      "source_text_sha256": "845ca677d7166f98707def60487d86bfb0c341dcff7453969ef4d2ebd2a250fa",
+      "finding": "Werkelijke overtuiging en objectieve redelijkheid op handelingsmoment; beperkte verwijzing, geen vrijbrief voor 105.",
+      "cross_references_checked": [
+        "a102",
+        "a103",
+        "a105",
+        "a107a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a104",
+      "author_checked": true,
+      "source_text_sha256": "66727e24dc9ecb4c2b7a8f0a2cf1a4a6d0fc5496b5ec3b607b5060011e9eefc0",
+      "finding": "Beide onderdelen, ontbreken bijzonder oogmerk versus opzettelijke gedraging en eigen persoons-/dienstverband besproken.",
+      "cross_references_checked": [
+        "a40",
+        "a87",
+        "a102",
+        "a103a",
+        "a107",
+        "a107a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a105",
+      "author_checked": true,
+      "source_text_sha256": "8de619997349a7d133339280a7152b12f9014c0bc8b609cb4f9c0813812eb876",
+      "finding": "Bedrieglijk leveringsverband en bijzondere opzettelijk toelatende toezichthouder afzonderlijk uitgewerkt.",
+      "cross_references_checked": [
+        "a87",
+        "a106"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a106",
+      "author_checked": true,
+      "source_text_sha256": "f84f3ff021511b626463629ca24c1ca1a1378fba58d430d93ecdc6c5deac15c0",
+      "finding": "Drie leden, verschillende rechtenlijsten, einde 93–103, beroepsverband, publicatie en algemene grenzen onderscheiden.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a36",
+        "a92",
+        "a93",
+        "a103",
+        "a103a",
+        "a104",
+        "a105"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a107",
+      "author_checked": true,
+      "source_text_sha256": "24aad7adc5083dfb8e9fd716b10acd032a4621e7e4b3106e540a229e5b1d0bec",
+      "finding": "Bondgenoot en gemeenschappelijke oorlog cumulatief; eigen bestanddelen en maximum per gronddelict behouden.",
+      "cross_references_checked": [
+        "a102",
+        "a103",
+        "a104",
+        "a105",
+        "a107a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a107a",
+      "author_checked": true,
+      "source_text_sha256": "52f1f15e45393f5fb380285830d8da1686e92ce89e35c661bf983d6c269ea7e1",
+      "finding": "Nederlandse betrokkenheid en beide doeleinden; 100 onder 2 tegenover onder 1, overeenkomstige toepassing gemotiveerd.",
+      "cross_references_checked": [
+        "a87",
+        "a98a",
+        "a100",
+        "a101",
+        "a103a",
+        "a105",
+        "a107"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a108",
+      "author_checked": true,
+      "source_text_sha256": "24c439a5ff6c35a606b2be774817df9adc396123aa9297eea618150e15fb0d3d",
+      "finding": "Drie beschermde posities, 79-uitvoeringsdrempel, twee alternatieve lid-2-gronden alleen voor levensaanval.",
+      "cross_references_checked": [
+        "a45",
+        "a79",
+        "a83",
+        "a83a",
+        "a92",
+        "a114",
+        "a114a",
+        "a114b"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a109",
+      "author_checked": true,
+      "source_text_sha256": "0757ff0f4a597a049dd6034b9a56a0f80eeb5bde8fe3ef1e071771c16695b11e",
+      "finding": "Feitelijke persoonlijke aantasting tegenover uiting; subsidiariteit en eigen maximum, geen onbewezen letselvereiste.",
+      "cross_references_checked": [
+        "a79",
+        "a83a",
+        "a92",
+        "a114",
+        "a114a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a110",
+      "author_checked": true,
+      "source_text_sha256": "b6467bf50babd60258386e0e4cf556caf68c67d59b31e422caf6b3374114e6b0",
+      "finding": "Regent apart ten opzichte van 108; aanslagroute 92, subsidiariteit en eigen maximum gecontroleerd.",
+      "cross_references_checked": [
+        "a92",
+        "a108",
+        "a109",
+        "a114",
+        "a114a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a111",
+      "author_checked": true,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "finding": "Vervallen per 2020 en voormalige Koningsbelediging in officiële oudere toestand gecontroleerd; huidig 267 apart.",
+      "cross_references_checked": [
+        "a1",
+        "a267"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a112",
+      "author_checked": true,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "finding": "Vroegere personenkring onderscheiden van 111; geen huidige bijzondere beledigingsgrondslag aangenomen.",
+      "cross_references_checked": [
+        "a1",
+        "a111",
+        "a267"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a113",
+      "author_checked": true,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "finding": "Geheel vervallen met vroegere verspreidingsvormen en bijzondere beroepsontzetting; geen oude leden heringevoegd.",
+      "cross_references_checked": [
+        "a1",
+        "a111",
+        "a112"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a114",
+      "author_checked": true,
+      "source_text_sha256": "226550356a138adb0b0279cd806b2f6b1c2a0451d7c53c90134b94d2bf1e7ede",
+      "finding": "Facultatieve ontzetting, rechten onder 1–4, kiesrechtdrempel en verdwenen tweede lid onderscheiden.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a108",
+        "a109",
+        "a110",
+        "a111",
+        "a112"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a114a",
+      "author_checked": true,
+      "source_text_sha256": "3113450c0fe7a64f02e7d952ec8ceefe870473d113bc5f18e75c76a389b25d9e",
+      "finding": "Verhoging per gronddelict doorgerekend; bijzondere vijftienjaarsroute, 108 lid 2 via 83 en zelfstandig oogmerk.",
+      "cross_references_checked": [
+        "a10",
+        "a83",
+        "a83a",
+        "a108",
+        "a109",
+        "a110",
+        "a114b"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a114b",
+      "author_checked": true,
+      "source_text_sha256": "31e868a8bd2f134c637342b5c0b970e249173c96f0041bed4d91f731f3dc610a",
+      "finding": "Overeenkomst tegenover vijf eigen voorbereidingsroutes uit 96 lid 2, concrete bestemming en terroristisch oogmerk.",
+      "cross_references_checked": [
+        "a79",
+        "a80",
+        "a83a",
+        "a96",
+        "a108"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a115",
+      "author_checked": true,
+      "source_text_sha256": "5a3429cad572e0cb74ea4b47399f22b36295e5393e4201a6f47ff4098b846435",
+      "finding": "87a-definitie expliciet; leven en vrijheid, alternatieven lid 2 en aparte terrorismereferenties; broninconsistentie geopenbaard.",
+      "cross_references_checked": [
+        "a45",
+        "a79",
+        "a83",
+        "a83a",
+        "a87a",
+        "a117",
+        "a120a",
+        "a120b"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBROT:2013:8265"
+      ]
+    },
+    {
+      "id": "a116",
+      "author_checked": true,
+      "source_text_sha256": "70b304a8f7c1840a47260358b5cd0625e86177758b42565a639f09bb9992963c",
+      "finding": "87a, beschermde positie, subsidiaire feitelijke aanval, ontbreken afzonderlijk letselvereiste en eigen verhogingsroute.",
+      "cross_references_checked": [
+        "a83a",
+        "a87a",
+        "a115",
+        "a120a"
+      ],
+      "case_sources": []
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "This is original authorship with internal author checking, not an independent second pass.",
+    "The full book remains incomplete: 512 units outside this batch lack commentary.",
+    "Selective case-law research; historical Assen holding not current limitation law; Rotterdam reasoning/dictum difference disclosed.",
+    "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
+    "Technical checks of length, links and repeated paragraphs do not establish legal correctness."
+  ],
+  "updated_at": "2026-10-20T18:49:04.835195+00:00"
+}

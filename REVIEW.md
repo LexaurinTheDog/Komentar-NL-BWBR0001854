@@ -260,3 +260,10 @@ Dit is een onafhankelijke tweede lezing van deze twintig eenheden, geen onafhank
 | a98d | Behouden. Invoering 15 mei 2025 onderscheiden van teksttechniek 1 juli; werkelijk gevaar en bewustheid niet vervangen door enkel buitenlandse contacten. Regeringsuitleg van voorwaardelijk opzet wordt als zodanig toegeschreven, niet als rechterlijke vaststelling. |
 | a99 | Behouden. Teleurstellend onderhandelingsresultaat is niet zonder meer opzettelijke benadeling; mandaat en concrete nadelige gedraging moeten worden bewezen. Geen staatsgeheim of oorlogstijd als extra algemeen bestanddeel toegevoegd. |
 | a100 | Behouden. Gevaar van oorlogsbetrokkenheid wordt niet ook bij de voorschriftvariant geëist; neutraliteit en staatsveiligheidsvoorschrift onderscheiden. Controlelijst en feitdatumwaarschuwing zijn toepasselijk en specifiek. |
+
+
+## Auteurscontrole bij 101–116 — 20 oktober 2026
+
+Dit is een inhoudelijke controle door de auteur van twintig nieuw geschreven toelichtingen, geen onafhankelijke tweede lezing. Alle twintig artikelen zijn naast de actuele primaire XML gelezen. De [bevindingen per eenheid](author-a101-a116-result.json) leggen elementen, gevolgen en gecontroleerde interne verwijzingen vast. De bijzondere aandachtspunten zijn oorlog tegenover ander gewapend conflict, vrijwillige dienstneming tegenover vijandhulp, samenspanning tegenover eenzijdige voorbereiding, facultatieve rechtenontzetting, de opheffing van de beledigingsartikelen en de verschillende terroristische strafverhogingen. Bij 115 en 116 is de wettelijke definitie van bevriende staat in 87a expliciet verwerkt.
+
+De primaire vonnissen zijn gelezen met onderscheid tussen partijstandpunt, eigen rechterlijk oordeel en dictum. Assen is geen huidige verjarings- of strafmaatbron. Bij Rotterdam is de interne discrepantie over partiële nietigheid zichtbaar behouden en is geen veroordeling wegens een voltooide aanslag op een staatshoofd gesuggereerd. De nog ontbrekende 512 toelichtingen blijven buiten deze batch. De eerdere 280 beoordeelde eenheden zijn ongewijzigd; deze twintig nieuwe eenheden vereisen nog een onafhankelijke tweede lezing.

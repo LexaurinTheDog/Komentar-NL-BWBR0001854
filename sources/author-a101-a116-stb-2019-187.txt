@@ -1,0 +1,246 @@
+Staatsblad 2019, 187 | Overheid.nl > Officiële bekendmakingen
+(function (window, document, dataLayerName, id) {
+                window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({ start: (new Date).getTime(), event: "stg.start" }); var scripts = document.getElementsByTagName('script')[0], tags = document.createElement('script');
+                function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString() } document.cookie = a + "=" + b + d + "; path=/; Secure" }
+                var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug"); stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+                var qP = []; dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), qP.push("use_secure_cookies"), isStgDebug && qP.push("stg_debug"); var qPString = qP.length > 0 ? ("?" + qP.join("&")) : "";
+                tags.async = !0, tags.src = "https://koop.piwik.pro/containers/" + id + ".js" + qPString, scripts.parentNode.insertBefore(tags, scripts);
+                !function (a, n, i) { a[n] = a[n] || {}; for (var c = 0; c < i.length; c++)!function (i) { a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function () { var a = [].slice.call(arguments, 0); "string" == typeof a[0] && window[dataLayerName].push({ event: n + "." + i + ":" + a[0], parameters: [].slice.call(arguments, 1) }) } }(i[c]) }(window, "ppms", ["tm", "cm"]);
+            })(window, document, 'dataLayer', 'f8b9eee5-8d9c-4ea1-abd5-83e174f29813');
+Direct naar content
+Navigatie
+Contextinformatie
+Publicatie
+Acties
+Inhoudsopgave
+Gerelateerde informatie
+Menu
+U bent nu hier:
+Publicaties
+Officiële publicaties
+Inloggen
+Primaire navigatie
+Andere sites binnen
+Overheid.nl
+Home
+Uitgebreid zoeken
+Mijn abonnementen
+Help
+, opent in nieuw venster
+Andere sites binnen
+Overheid.nl
+Berichten over uw Buurt
+Zoals vergunningen, bouwplannen en lokale regelgeving.
+Rondom uw woonadres
+, opent in nieuw venster
+Rondom een zelfgekozen adres
+, opent in nieuw venster
+Dienstverlening
+Zoals belastingen, uitkeringen en subsidies.
+Naar dienstverlening
+, opent in nieuw venster
+Beleid & regelgeving
+Officiële publicaties van de overheid.
+Naar beleid & regelgeving
+, opent in nieuw venster
+Contactgegevens overheden
+Adressen en contactpersonen van overheidsorganisaties.
+Naar overheidsorganisaties
+, opent in nieuw venster
+U bent hier:
+Home
+Staatsblad 2019, 187
+Staatsblad van het Koninkrijk der Nederlanden
+Datum publicatie
+Organisatie
+Jaargang en nummer
+Rubriek
+Datum ondertekening
+05-06-2019 09:00
+Ministerie van Justitie en Veiligheid
+Staatsblad 2019, 187
+Wet
+15-05-2019
+Toon meer van:
+Inhoudsopgave
+Aanhef
+Lichaam
+ARTIKEL I
+Artikel 267
+Artikel 269
+ARTIKEL II
+Artikel 279
+Artikel 282
+ARTIKEL III
+ARTIKEL IV
+Ondertekening
+Toon meer van:
+Extra informatie
+Informatie over publicatie
+Toon meer van:
+Gerelateerd
+Publicaties over kamerdossier
+Kamerdossier 34456
+Toon publicaties die dit dossier behandelen
+Geconsolideerde regelgeving
+Publicaties referendum
+Authentieke versie (PDF)
+bestandsgrootte: 45 Kb
+, opent in nieuw venster
+Informatie
+Gerelateerd
+Printen
+Delen
+Wet van 15 mei 2019 tot wijziging van het Wetboek van Strafrecht en het Wetboek van
+            Strafrecht BES teneinde enkele bijzondere bepalingen inzake belediging van staatshoofden
+            en andere publieke personen en instellingen te doen vervallen
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau,
+               enz. enz. enz.
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Alzo Wij in overweging genomen hebben, dat het doen voortbestaan van bijzondere strafbepalingen
+               aangaande majesteitsschennis en het beledigen van bevriende staatshoofden niet langer
+               gewenst is,
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen
+               overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden
+               en verstaan bij deze:
+ARTIKEL I
+Het Wetboek van Strafrecht wordt als volgt gewijzigd:
+A
+In artikel 43b, derde onderdeel, wordt «artikelen 111 tot en met 113, 118, 119, 261
+                  tot en met 271, 418 en 419» vervangen door: artikelen 261 tot en met 271, 418 en 419.
+B
+De artikelen 111 tot en met 113 vervallen.
+C
+In artikel 114 vervallen het tweede lid en de aanduiding «1.» voor het eerste lid.
+D
+De artikelen 118 en 119 vervallen.
+E
+Artikel 267 komt te luiden:
+Artikel 267
+De in de voorgaande artikelen van deze titel bepaalde gevangenisstraffen kunnen met
+                        een derde worden verhoogd, indien de belediging wordt aangedaan aan:
+1°.
+de Koning, de echtgenoot van de Koning, de vermoedelijke opvolger van de Koning, diens
+                              echtgenoot, of de Regent;
+2°.
+een ambtenaar gedurende of ter zake van de rechtmatige uitoefening van zijn bediening,
+                              met uitzondering van leden van algemeen vertegenwoordigende lichamen;
+3°.
+een openbaar lichaam of een openbare instelling.
+F
+Artikel 269 komt te luiden:
+Artikel 269
+1.
+Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van
+                              hem tegen wie het misdrijf is gepleegd.
+2.
+Het eerste lid is niet van toepassing op de gevallen voorzien in artikel 267.
+3.
+Het eerste lid is tevens niet van toepassing in geval van belediging van leden van
+                              algemeen vertegenwoordigende lichamen.
+G
+In artikel 271, vierde lid, wordt «artikel 267, aanhef en onder 1° en 2°» vervangen
+                  door: artikel 267.
+ARTIKEL II
+Het Wetboek van Strafrecht BES wordt als volgt gewijzigd:
+A
+In artikel 4, onder 11°, vervalt: 125,.
+B
+De artikelen 118 tot en met 121 vervallen.
+C
+In artikel 122 vervalt de tweede volzin.
+D
+De artikelen 125 tot en met 127 vervallen.
+E
+In artikel 128 vervalt de tweede volzin.
+F
+Artikel 279 komt te luiden:
+Artikel 279
+De in de voorgaande artikelen van deze titel bepaalde straffen kunnen met een derde
+                        worden verhoogd, indien de belediging wordt aangedaan aan:
+1°.
+de Koning, de echtgenoot van de Koning, de vermoedelijke opvolger van de Koning, diens
+                              echtgenoot, of de Regent;
+2°.
+een ambtenaar gedurende of ter zake van de rechtmatige uitoefening van zijn bediening,
+                              met uitzondering van leden van algemeen vertegenwoordigende lichamen.
+Fa
+Artikel 282 komt te luiden:
+Artikel 282
+1.
+Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van
+                              hem tegen wie het misdrijf is gepleegd.
+2.
+Het eerste lid is niet van toepassing op de gevallen voorzien in artikel 279.
+3.
+Het eerste lid is tevens niet van toepassing in geval van belediging van leden van
+                              algemeen vertegenwoordigende lichamen.
+G
+In artikel 438 wordt «artikelen 118–121, 125–127, 273–284, 433 en 434» vervangen door:
+                  artikelen 273 tot en met 284, 433 en 434.
+ARTIKEL III
+In artikel 51a, tweede lid, van de Uitleveringswet wordt in het vierde gedachtestreepje
+               «114 tot en met 118» vervangen door: 114 tot en met 117.
+ARTIKEL IV
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries,
+                  autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering
+                  de hand zullen houden.
+histnoot
+Gegeven te ’s-Gravenhage, 15 mei 2019
+Willem-Alexander
+De Minister van Justitie en Veiligheid,
+F.B.J.
+Grapperhaus
+Uitgegeven de
+vijfde
+juni 2019
+De Minister van Justitie en Veiligheid,
+F.B.J.
+Grapperhaus
+X
+Histnoot
+histnoot
+Kamerstuk
+34 456
+Naar boven
+Permanente link
+Kopieer de link naar uw clipboard
+https://zoek.officielebekendmakingen.nl/stb-2019-187.html
+Sluit modaal
+Disclaimer
+De hier aangeboden pdf-bestanden van het Staatsblad, Staatscourant, Tractatenblad, provinciaal blad, gemeenteblad, waterschapsblad en blad gemeenschappelijke regeling vormen de formele bekendmakingen in de zin van de Bekendmakingswet en de Rijkswet goedkeuring en bekendmaking verdragen voor zover ze na 1 juli 2009 zijn uitgegeven. Voor pdf-publicaties van vóór deze datum geldt dat alleen de in papieren vorm uitgegeven bladen formele status hebben; de hier aangeboden elektronische versies daarvan worden bij wijze van service aangeboden.
+Over deze website
+, opent in nieuw venster
+Contact
+, opent in nieuw venster
+English
+, opent in nieuw venster
+Help
+, opent in nieuw venster
+Zoeken
+, opent in nieuw venster
+Informatie hergebruiken
+, opent in nieuw venster
+Privacy en cookies
+, opent in nieuw venster
+Toegankelijkheid
+, opent in nieuw venster
+Sitemap
+, opent in nieuw venster
+Kwetsbaarheid melden
+, opent in nieuw venster
+Open data
+, opent in nieuw venster
+Linked Data Overheid
+, opent in nieuw venster
+PUC Open Data
+, opent in nieuw venster
+MijnOverheid.nl
+, opent in nieuw venster
+Rijksoverheid.nl
+, opent in nieuw venster
+Ondernemersplein.nl
+, opent in nieuw venster
+Werkenbijdeoverheid.nl
+, opent in nieuw venster

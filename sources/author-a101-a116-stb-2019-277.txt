@@ -1,0 +1,155 @@
+Staatsblad 2019, 277 | Overheid.nl > Officiële bekendmakingen
+(function (window, document, dataLayerName, id) {
+                window[dataLayerName] = window[dataLayerName] || [], window[dataLayerName].push({ start: (new Date).getTime(), event: "stg.start" }); var scripts = document.getElementsByTagName('script')[0], tags = document.createElement('script');
+                function stgCreateCookie(a, b, c) { var d = ""; if (c) { var e = new Date; e.setTime(e.getTime() + 24 * c * 60 * 60 * 1e3), d = "; expires=" + e.toUTCString() } document.cookie = a + "=" + b + d + "; path=/; Secure" }
+                var isStgDebug = (window.location.href.match("stg_debug") || document.cookie.match("stg_debug")) && !window.location.href.match("stg_disable_debug"); stgCreateCookie("stg_debug", isStgDebug ? 1 : "", isStgDebug ? 14 : -1);
+                var qP = []; dataLayerName !== "dataLayer" && qP.push("data_layer_name=" + dataLayerName), qP.push("use_secure_cookies"), isStgDebug && qP.push("stg_debug"); var qPString = qP.length > 0 ? ("?" + qP.join("&")) : "";
+                tags.async = !0, tags.src = "https://koop.piwik.pro/containers/" + id + ".js" + qPString, scripts.parentNode.insertBefore(tags, scripts);
+                !function (a, n, i) { a[n] = a[n] || {}; for (var c = 0; c < i.length; c++)!function (i) { a[n][i] = a[n][i] || {}, a[n][i].api = a[n][i].api || function () { var a = [].slice.call(arguments, 0); "string" == typeof a[0] && window[dataLayerName].push({ event: n + "." + i + ":" + a[0], parameters: [].slice.call(arguments, 1) }) } }(i[c]) }(window, "ppms", ["tm", "cm"]);
+            })(window, document, 'dataLayer', 'f8b9eee5-8d9c-4ea1-abd5-83e174f29813');
+Direct naar content
+Navigatie
+Contextinformatie
+Publicatie
+Acties
+Inhoudsopgave
+Menu
+U bent nu hier:
+Publicaties
+Officiële publicaties
+Inloggen
+Primaire navigatie
+Andere sites binnen
+Overheid.nl
+Home
+Uitgebreid zoeken
+Mijn abonnementen
+Help
+, opent in nieuw venster
+Andere sites binnen
+Overheid.nl
+Berichten over uw Buurt
+Zoals vergunningen, bouwplannen en lokale regelgeving.
+Rondom uw woonadres
+, opent in nieuw venster
+Rondom een zelfgekozen adres
+, opent in nieuw venster
+Dienstverlening
+Zoals belastingen, uitkeringen en subsidies.
+Naar dienstverlening
+, opent in nieuw venster
+Beleid & regelgeving
+Officiële publicaties van de overheid.
+Naar beleid & regelgeving
+, opent in nieuw venster
+Contactgegevens overheden
+Adressen en contactpersonen van overheidsorganisaties.
+Naar overheidsorganisaties
+, opent in nieuw venster
+U bent hier:
+Home
+Staatsblad 2019, 277
+Staatsblad van het Koninkrijk der Nederlanden
+Datum publicatie
+Organisatie
+Jaargang en nummer
+Rubriek
+Datum ondertekening
+30-07-2019 09:00
+Ministerie van Justitie en Veiligheid
+Staatsblad 2019, 277
+Klein Koninklijk Besluit
+18-07-2019
+Toon meer van:
+Inhoudsopgave
+Aanhef
+Lichaam
+Enig artikel
+Ondertekening
+Toon meer van:
+Extra informatie
+Informatie over publicatie
+Toon meer van:
+Gerelateerd
+Geconsolideerde regelgeving
+Publicaties referendum
+Authentieke versie (PDF)
+bestandsgrootte: 41 Kb
+, opent in nieuw venster
+Informatie
+Printen
+Delen
+Besluit van 18 juli 2019 tot vaststelling van het tijdstip van inwerkingtreding van
+            de wet van 15 mei 2019 tot wijziging van het Wetboek van Strafrecht en het Wetboek
+            van Strafrecht BES teneinde enkele bijzondere bepalingen inzake belediging van staatshoofden
+            en andere publieke personen en instellingen te doen vervallen (Stb. 2019, 187)
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau,
+               enz. enz. enz.
+Op de voordracht van Onze Minister van Justitie en Veiligheid van 16 juli 2019, directie
+               Wetgeving en Juridische Zaken, nr. 2644604;
+Gelet op artikel IV van de wet van 15 mei 2019 tot wijziging van het Wetboek van Strafrecht
+               en het Wetboek van Strafrecht BES teneinde enkele bijzondere bepalingen inzake belediging
+               van staatshoofden en andere publieke personen en instellingen te doen vervallen (
+Stb. 2019, 187
+);
+Hebben goedgevonden en verstaan:
+Enig artikel
+De wet van 15 mei 2019 tot wijziging van het Wetboek van Strafrecht en het Wetboek
+                  van Strafrecht BES teneinde enkele bijzondere bepalingen inzake belediging van staatshoofden
+                  en andere publieke personen en instellingen te doen vervallen (
+Stb. 2019, 187
+) treedt in werking met ingang van 1 januari 2020.
+Onze Minister van Justitie en Veiligheid is belast met de uitvoering van dit besluit
+                  dat in het Staatsblad zal worden geplaatst.
+’s-Gravenhage, 18 juli 2019
+Willem-Alexander
+De Minister van Justitie en Veiligheid,
+F.B.J.
+Grapperhaus
+Uitgegeven de
+dertigste
+juli 2019
+De Minister van Justitie en Veiligheid,
+F.B.J.
+Grapperhaus
+Naar boven
+Permanente link
+Kopieer de link naar uw clipboard
+https://zoek.officielebekendmakingen.nl/stb-2019-277.html
+Sluit modaal
+Disclaimer
+De hier aangeboden pdf-bestanden van het Staatsblad, Staatscourant, Tractatenblad, provinciaal blad, gemeenteblad, waterschapsblad en blad gemeenschappelijke regeling vormen de formele bekendmakingen in de zin van de Bekendmakingswet en de Rijkswet goedkeuring en bekendmaking verdragen voor zover ze na 1 juli 2009 zijn uitgegeven. Voor pdf-publicaties van vóór deze datum geldt dat alleen de in papieren vorm uitgegeven bladen formele status hebben; de hier aangeboden elektronische versies daarvan worden bij wijze van service aangeboden.
+Over deze website
+, opent in nieuw venster
+Contact
+, opent in nieuw venster
+English
+, opent in nieuw venster
+Help
+, opent in nieuw venster
+Zoeken
+, opent in nieuw venster
+Informatie hergebruiken
+, opent in nieuw venster
+Privacy en cookies
+, opent in nieuw venster
+Toegankelijkheid
+, opent in nieuw venster
+Sitemap
+, opent in nieuw venster
+Kwetsbaarheid melden
+, opent in nieuw venster
+Open data
+, opent in nieuw venster
+Linked Data Overheid
+, opent in nieuw venster
+PUC Open Data
+, opent in nieuw venster
+MijnOverheid.nl
+, opent in nieuw venster
+Rijksoverheid.nl
+, opent in nieuw venster
+Ondernemersplein.nl
+, opent in nieuw venster
+Werkenbijdeoverheid.nl
+, opent in nieuw venster

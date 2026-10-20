@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_author_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T18:37:05.983873+00:00",
+    "rechecked_at": "2026-10-20T18:49:04.835195+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch14-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a101-a116-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 280,
-  "completed_scope": "aanhef; all 263 Eerste Boek units through 91; 16 official units 92–100 including inserted numbers",
-  "remaining_units": 532,
-  "next_unit": "a101",
-  "commentary_chars": 380057,
+  "completed_units": 300,
+  "completed_scope": "Aanhef; all Eerste Boek units; all official article slots 92–116 including inserted and repealed numbers.",
+  "remaining_units": 512,
+  "next_unit": "a117",
+  "commentary_chars": 422718,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -82,15 +82,18 @@
     "ECLI:NL:HR:2009:BG7743",
     "ECLI:NL:HR:2003:AI1588",
     "ECLI:NL:HR:2016:168",
-    "ECLI:NL:HR:2015:768"
+    "ECLI:NL:HR:2015:768",
+    "ECLI:NL:RBASS:2002:AD8928",
+    "ECLI:NL:RBROT:2013:8265"
   ],
-  "case_law_scope": "Selective: 48 primary HR decisions used across existing manuscript; two added in author a92–a100 batch. Not exhaustive.",
+  "case_law_scope": "Selective: 48 prior primary HR decisions and two limited-use primary district court judgments. No exhaustive coverage.",
   "build_result": {
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
-    "scope": "Unchanged full 812-unit inventory. 532 missing commentaries outside these twenty reviewed units."
+    "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
+    "scope": "Full unchanged 812-unit inventory; missing prose outside the twenty assigned author units prevents the full book build.",
+    "checked_at": "2026-10-20T18:47:50.077150+00:00"
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -104,16 +107,19 @@
     "ok": false
   },
   "remaining_limitations": [
-    "Books II and III and wetsluiting still require original commentary (532 units).",
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
     "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
     "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json.",
     "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
-    "Fourteen disjoint bounded batches cover 280 units; 532 units remain unreviewed and lack commentary. No whole-book completion or external professional approval."
+    "This is original authorship with internal author checking, not an independent second pass.",
+    "The full book remains incomplete: 512 units outside this batch lack commentary.",
+    "Selective case-law research; historical Assen holding not current limitation law; Rotterdam reasoning/dictum difference disclosed.",
+    "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
+    "Technical checks of length, links and repeated paragraphs do not establish legal correctness."
   ],
-  "updated_at": "2026-10-20T18:39:03.014130+00:00",
+  "updated_at": "2026-10-20T18:49:04.835195+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -753,37 +759,31 @@
   "bounded_author": {
     "complete": true,
     "ids": [
-      "a92",
-      "a93",
-      "a94",
-      "a95",
-      "a95a",
-      "a96",
-      "a97",
-      "a97a",
-      "a97b",
-      "a98",
-      "a98a",
-      "a98b",
-      "a98c",
-      "a98d",
-      "a99",
-      "a100"
+      "a101",
+      "a102",
+      "a103",
+      "a103a",
+      "a104",
+      "a105",
+      "a106",
+      "a107",
+      "a107a",
+      "a108",
+      "a109",
+      "a110",
+      "a111",
+      "a112",
+      "a113",
+      "a114",
+      "a114a",
+      "a114b",
+      "a115",
+      "a116"
     ],
-    "completed_units": 16,
-    "report": "author-a92-a100-result.json",
+    "completed_units": 20,
+    "report": "author-a101-a116-result.json",
     "independent_second_pass": false,
-    "technical_validation": {
-      "all16_commentaries_present": true,
-      "statutory_text_agreement": 1.0,
-      "coverage_ok": true,
-      "local_links_checked": 586,
-      "local_links_ok": true,
-      "full_shared_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 532
-    },
-    "source_preflight": "sources/author-a92-a100-version-evidence.json"
+    "source_preflight": "sources/author-a101-a116-version-evidence.json"
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",

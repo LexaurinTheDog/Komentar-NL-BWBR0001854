@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:4</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T23:17:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-01-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-01-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">13/00300</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2014:2447" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#contrair">Conclusie: ECLI:NL:PHR:2014:2447, Contrair</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSHE:2012:BY4110" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">In cassatie op : ECLI:NL:GHSHE:2012:BY4110, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903">Wetboek van Strafvordering</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001903&amp;artikel=359a">Wetboek van Strafvordering 359a</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2015/171</rdf:li>
+          <rdf:li>RvdW 2015/174</rdf:li>
+          <rdf:li>NJ 2015/109 met annotatie van T.M. Schalken</rdf:li>
+          <rdf:li>SR-Updates.nl 2015-0003</rdf:li>
+          <rdf:li>NbSr 2015/49</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:4">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:4</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-01-06T14:13:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-01-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:4 Hoge Raad , 06-01-2015 / 13/00300</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:4:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vormverzuim. Art. 359a Sv. HR verwijst naar ECLI:NL:HR:2013:BY5321. De doorzoeking van de woning van verdachte heeft plaatsgevonden zonder voorafgaande machtiging van de RC dan wel toestemming van de verdachte. Na de doorzoeking en inbeslagneming van de blackberry heeft de verdachte alsnog toestemming tot doorzoeking van de woning gegeven. ’s Hofs oordeel dat de omstandigheid dat de doorzoeking onrechtmatig is geweest niet een zodanig ernstig vormverzuim oplevert dat dit moet leiden tot uitsluiting van het bewijs, geeft geen blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk, in aanmerking genomen dat het gevoerde verweer omtrent de ernst van het verzuim en het daardoor veroorzaakte nadeel niet meer inhoudt dan dat sprake is van “een ernstige schending van een strafvorderlijke waarborg”. CAG: anders.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:4:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>6 januari 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. 13/00300</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Hertogenbosch van 26 november 2012, nummer 20/001599-12, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1990. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft mr. Th.J. Kelder, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal W.H. Vellinga heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het Gerechtshof dan wel verwijzing naar een aangrenzend hof teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <parablock>
+      <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt dat het Hof het gevoerde verweer dat de berichten die zijn uitgelezen uit de inbeslaggenomen Blackberry van de verdachte moeten worden uitgesloten van het bewijs ten onrechte, althans op ontoereikende gronden heeft verworpen.</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1.</nr>
+        <parablock>
+          <para>Het Hof heeft ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>"hij meermalen in de periode van 01 juli 2010 tot en met 15 maart 2011 te Veldhoven telkens opzettelijk heeft verkocht en/of afgeleverd en/of verstrekt een hoeveelheid cocaïne, zijnde cocaïne een middel als bedoeld in de bij de Opiumwet behorende lijst I."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2.</nr>
+        <parablock>
+          <para>Het Hof heeft het in het middel bedoelde verweer als volgt samengevat en verworpen:</para>
+          <para>"De verdediging heeft vrijspraak bepleit. Daartoe heeft de verdediging primair aangevoerd dat de enkele verklaring van [betrokkene] en de door de verdachte aangegane transactie ter zake een Opiumwetdelict niet tot een redelijk vermoeden van schuld ten aanzien van de onderhavige verdenking had mogen leiden. De opsporingsbevoegdheden in het kader van het onderzoek jegens verdachte - aanhouding van verdachte en de doorzoeking van de woning - zijn derhalve niet rechtmatig aangewend en dienen te leiden tot bewijsuitsluiting, ingevolge artikel 359a van het Wetboek van Strafvordering. De door de verdachte afgelegde verklaringen alswel de berichten die zijn uitgelezen uit de Blackberry van verdachte dienen te worden uitgesloten van het bewijs. Subsidiair heeft de verdediging aangevoerd dat er geen rechtsgeldige bevoegdheid bestond tot het doorzoeken van de woning van verdachte waarbij de Blackberry van verdachte in beslag is genomen. Dit toestel is derhalve onrechtmatig in beslag genomen en de uitgelezen berichten dienen te worden uitgesloten van het bewijs.</para>
+          <para>Het hof overweegt als volgt.</para>
+          <para>(...)</para>
+          <para>Onrechtmatige doorzoeking</para>
+          <para>Op dinsdag 15 maart 2011 is een machtiging afgegeven tot binnentreden van de woning van verdachte op grond van artikel 55 van het Wetboek van Strafvordering. Deze machtiging had betrekking tot het binnentreden van de woning ter aanhouding van de verdachte. Blijkens onder meer het proces-verbaal van bevindingen (nummer PL2218 2011023947-51 blz. 561) hebben verbalisanten de woning, nadat verdachte niet werd aangetroffen, doorzocht. Verdachte heeft voorafgaand aan de doorzoeking van de woning geen toestemming hiertoe verleend. Tijdens deze doorzoeking is de Blackberry van verdachte in beslag genomen.<?linebreak?>Op grond van artikel 97 van het Wetboek van Strafvordering kan in geval van ontdekking op heterdaad danwel in geval van verdenking van een strafbaar feit waarvoor voorlopige hechtenis is toegestaan - bij dringende noodzakelijkheid - de (hulp)officier van justitie een woning doorzoeken. Hiervoor is altijd voorafgaand een machtiging van de rechter-commissaris noodzakelijk. Uit het voorhanden zijnde dossier is niet gebleken dat de rechter-commissaris zo'n machtiging heeft afgegeven. De verbalisanten hadden de situatie moeten bevriezen en de machtiging moeten afwachten, dan wel - indien geen sprake was van dringende noodzakelijkheid - de komst van de rechter-commissaris (ingevolge artikel 110 van het Wetboek van Strafvordering).<?linebreak?>Tevens was in het onderhavige geval geen sprake van ontdekking van een strafbaar feit op heterdaad en was, zoals hiervoor onder het kopje ‘Onrechtmatige aanhouding’ reeds is geoordeeld, geen sprake van een redelijk vermoeden van schuld aan een strafbaar feit door verdachte waarvoor voorlopige hechtenis is toegestaan.</para>
+          <para>Het hof komt derhalve tot de conclusie dat de doorzoeking van de woning van verdachte onrechtmatig is. Aldus is naar het oordeel van het hof sprake van een onherstelbaar vormverzuim in het voorbereidend onderzoek in de zin van artikel 359a van het Wetboek van Strafvordering.</para>
+          <para>Het hof dient vervolgens de vraag te beantwoorden welke rechtsgevolgen aan voormeld vormverzuim moeten worden verbonden. Bij de beoordeling hiervan dient het hof rekening te houden met de eerder genoemde factoren, te weten het belang van het geschonden voorschrift, de ernst van het verzuim en het nadeel dat daardoor wordt veroorzaakt. <?linebreak?>Het hof stelt daarbij voorop dat het belang van de verdachte dat het gepleegde feit niet wordt ontdekt, niet kan worden aangemerkt als een rechtens te respecteren belang. Een eventuele schending van dat belang van verdachte als gevolg van een vormverzuim levert dus niet een nadeel op als bedoeld in art. 359a, tweede lid, van het Wetboek van Strafvordering. <?linebreak?>De raadsman heeft geconcludeerd tot bewijsuitsluiting van de uitgelezen berichten uit de in beslag genomen Blackberry.<?linebreak?>Bewijsuitsluiting kan slechts aan de orde komen indien het bewijsmateriaal door het verzuim is verkregen, en komt in aanmerking indien door de onrechtmatige bewijsgaring een belangrijk (strafvorderlijk) voorschrift of rechtsbeginsel in aanzienlijke mate is geschonden. <?linebreak?>Het belang dat het geschonden voorschrift dient, is de bescherming van de huisvrede en het privéleven van de bewoner. De verdachte is getroffen in die belangen en het gaat hier om belangrijke rechtsbeginselen. Het hof is evenwel van oordeel dat verdachte in onvoldoende mate nadeel als gevolg van de schending van het voorschrift heeft ondervonden om over te gaan tot bewijsuitsluiting. Het hof overweegt dienaangaande dat verdachte na de doorzoeking van de woning en de inbeslagneming van de Blackberry alsnog toestemming heeft verleend tot de doorzoeking van de woning. Dit terwijl de verdachte in de positie verkeerde om hiertegen bezwaar maken. Dat de verdachte niet is gewezen op de mogelijkheid om geen toestemming te verlenen - zoals door de verdediging is gesteld - doet hier niet aan af. Immers reeds het feit dat om toestemming wordt gevraagd, duidt er op dat die toestemming ook kan worden geweigerd. <?linebreak?>Het verweer van de verdediging wordt dan ook verworpen. Het hof komt tot de slotsom dat kan worden volstaan met de constatering dat sprake is van een onherstelbaar vormverzuim."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3.</nr>
+        <parablock>
+          <para>Het proces-verbaal van de terechtzitting in hoger beroep houdt in dat de raadsvrouwe het woord ter verdediging heeft gevoerd overeenkomstig een aan het proces-verbaal gehechte pleitnota. Die pleitnota houdt – voor zover hier van belang – het volgende in:</para>
+          <para>"16. Nu geen bevoegdheid heeft bestaan tot doorzoeking van de woning en dit gebrek naar mijn mening niet kan worden hersteld met de later verleende toestemming door cliënt, is het mobiele telefoontoestel onrechtmatig in beslag genomen en hadden de gegevens die daaruit zijn gelezen door de politierechter moeten worden uitgesloten van bewijs.</para>
+          <para>17. Hiermee is immers sprake van een vormverzuim bij het voorbereidend onderzoek dat niet meer kan worden hersteld en waarvan de rechtsgevolgen niet uit de wet. blijken.</para>
+          <para>Omdat hier sprake is van een dusdanig ernstige schending van een strafvorderlijke waarborg, dient daaraan het gevolg te worden verbonden dat de resultaten die door het verzuim – en daarmee onrechtmatig - zijn verkregen, niet mogen bijdragen aan het bewijs van het ten laste gelegde."</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Het Hof heeft vastgesteld dat de doorzoeking heeft plaatsgevonden zonder voorafgaande machtiging van de Rechter-Commissaris dan wel voorafgaande toestemming van de verdachte. In zijn overwegingen heeft het Hof als zijn oordeel tot uitdrukking gebracht dat de omstandigheid dat de doorzoeking van de woning van de verdachte, die na de doorzoeking en de inbeslagneming van de Blackberry alsnog toestemming heeft gegeven tot de doorzoeking van de woning, onrechtmatig is geweest, niet een zodanig ernstig vormverzuim oplevert dat dit moet leiden tot uitsluiting van het bewijs. Dit oordeel geeft niet blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk, in aanmerking genomen dat het gevoerde verweer omtrent de ernst van het verzuim en het daardoor veroorzaakte nadeel niet meer inhoudt dan dat sprake is van "een ernstige schending van een strafvorderlijke waarborg". (Vgl. HR 19 februari 2013, ECLI:NL:HR:2013:BY5321, NJ 2013/308).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Het middel is tevergeefs voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het derde middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Het middel is gegrond. Voorts doet de Hoge Raad uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Een en ander brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot vermindering van de aan de verdachte opgelegde taakstraf van 160 uren, subsidiair 80 dagen hechtenis.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Nu de Hoge Raad geen grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak, maar uitsluitend wat betreft het aantal uren te verrichten taakstraf en de duur van de vervangende hechtenis;</para>
+      <para>vermindert het aantal uren taakstraf en de duur van de vervangende hechtenis in die zin dat deze 152 uren, subsidiair 76 dagen hechtenis, bedraagt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren H.A.G. Splinter-van Kan en Y. Buruma, in bijzijn van de waarnemend griffier J.D.M. Hart, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">6 januari 2015</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
