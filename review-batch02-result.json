@@ -1,0 +1,581 @@
+{
+  "task": "bounded_independent_second_pass",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a14c",
+    "a14d",
+    "a14e",
+    "a14f",
+    "a14fa",
+    "a14g",
+    "a14h",
+    "a14i",
+    "a14j",
+    "a14k",
+    "a14l",
+    "a15",
+    "a15a",
+    "a15b",
+    "a15c",
+    "a15d",
+    "a15e",
+    "a15f",
+    "a15g",
+    "a15h"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a14c",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "All seven paragraphs, all fourteen conditions and both automatic duties read against raw XML. Distinctions checked between continuing obligation and performance deadline; damages, security and victim-fund payments; contact through intermediaries; abstinence and testing; care alternatives; automatic cooperation, electronic monitoring and judicial supervision order. Articles 14a, 14b, 14e, 23(1–2) and 24 checked as source cross-references.",
+      "finding_and_resolution": "Corrected overly narrow description of the separate performance deadline. Added Schadefonds recipient, distinct financial caps and the limited scope of paragraph 5. Made identification/house visits/reporting and every paragraph-7 power explicit. Added precise limits on discretionary supervision conditions supported by two full HR judgments, including the insufficiency of willingness to cooperate.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14c",
+        "source_xml_id": "C37518421",
+        "effective_from": "2020-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "c94829b5760c7cd48a201b5277b79014b6dca7b506d2fe2af75732ba9c36b6ed",
+        "raw_article_sha256": "7bdc9dcea305fd9fe15e60c5a39e7d3d9912e2d29fe55d30b91dbd154f7d42dd",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a14a",
+        "a14b",
+        "a14e",
+        "a23",
+        "a24"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2022:1196",
+        "ECLI:NL:HR:2025:119"
+      ],
+      "commentary_before_sha256": "85713adc2cec8d6365debaf887e1904268159e50aaecf613fe75db02b6fd0ddc",
+      "commentary_after_sha256": "5336af45766ec9b675094bffb27b5e4e501de463d3a7503f03d193b44e442c8f"
+    },
+    {
+      "id": "a14d",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read the entire repealed slot and metadata: no retained paragraph; repeal effective 2020-01-01. Verified the specific replacement reference in commentary to current article 14c(6).",
+      "finding_and_resolution": "Retained: current judicial reclassering order correctly located in 14c(6). Example rejects a current power based solely on the empty slot without denying historical applicability.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14d",
+        "source_xml_id": "C37503411",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "04f53faac1e15b6a2602624b7b96fb241fb3a2310f4f3608ed9b27b3dc2b4a60",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a14c"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "35d1d150d0d1222245f07a3cb434929d81e2224930561855fb2c0564c96216c3",
+      "commentary_after_sha256": "35d1d150d0d1222245f07a3cb434929d81e2224930561855fb2c0564c96216c3"
+    },
+    {
+      "id": "a14e",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read the single unnumbered operative paragraph: judicial decision in the judgment, on own initiative or OM request, conditions and supervision, serious prospective risk concerning bodily integrity. Compared exact 14b wording and full HR 2022:1729.",
+      "finding_and_resolution": "Added the express limitation of article 14b’s article-252 equivalence to that article; no automatic transfer to 14e. Explained the actual failure of the stalking-case reasoning, destruction of the immediate-enforcement order and unchanged probation, without a categorical exclusion of stalking. Added a practical conditional-sentence checklist.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14e",
+        "source_xml_id": "C37504251",
+        "effective_from": "2020-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "61bb70895617f7edf21ac104f0c409760e4dc00edfc2016e9180aa96e961628e",
+        "raw_article_sha256": "eb5729736d68c0381df952d6620c17ae61331b5acbaf692349c7865e447c55a9",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a14a",
+        "a14b",
+        "a14c"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2022:1729"
+      ],
+      "commentary_before_sha256": "6716283e7c94168e43fdd961e652e7353016e623353ea8cb71b7e5bd30da7220",
+      "commentary_after_sha256": "4cd6eab21ce942de310975c5230e0cfe459b90d485ab4b07e0c6e24e916910f9"
+    },
+    {
+      "id": "a14f",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete slot and 2020-01-01 repeal metadata; checked current judicial condition-change power in 14c(7).",
+      "finding_and_resolution": "Retained: concrete amendment request points to the operative provision; no former wording or historical procedure invented.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14f",
+        "source_xml_id": "C37503381",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "fc5f601842f658d0f69e9916c2185ca9cdc9e4f270523d0901aa993f71ad479e",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a14c"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "9ed91cbe72473845b59dac8d8764513383f376a4df5ae265af4e1c1800ef5ee1",
+      "commentary_after_sha256": "9ed91cbe72473845b59dac8d8764513383f376a4df5ae265af4e1c1800ef5ee1"
+    },
+    {
+      "id": "a14fa",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Checked distinct official identifier 14fa, independent artikel element, wholly repealed status and 2020-01-01 commencement of repeal.",
+      "finding_and_resolution": "Retained: distinguishes a standalone historical article from a subparagraph of 14f and creates no residual enforcement power.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14fa",
+        "source_xml_id": "C37504321",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "c11f32bc9f7b86af51938cc02564e0fab0a4f8d0c4fbed1cf63aeb1160ccc7e7",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "8548e7bd928fc686394f76454bd0da6f48120318957cdfa24ce7d0a75055d876",
+      "commentary_after_sha256": "8548e7bd928fc686394f76454bd0da6f48120318957cdfa24ce7d0a75055d876"
+    },
+    {
+      "id": "a14g",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read the whole repealed article and effective repeal date; examined assertion about breach of conditions and the temporal qualification of enforcement law.",
+      "finding_and_resolution": "Retained: correctly avoids deriving execution from the empty slot and does not assert a specific unverified replacement procedure.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14g",
+        "source_xml_id": "C37503421",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "0a5c642c6a12a9ed68036a28a9ae075521f44b07ff3ddd00de56d332f720d02c",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "e0e54a44e82f3ce929495e87aaf63a9138bf9dfc8be7d6ac24ea6b0a17a4aa27",
+      "commentary_after_sha256": "e0e54a44e82f3ce929495e87aaf63a9138bf9dfc8be7d6ac24ea6b0a17a4aa27"
+    },
+    {
+      "id": "a14h",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete Vervallen text and metadata; checked that commentary does not state a surviving procedural step or deadline.",
+      "finding_and_resolution": "Retained: historical form citation requires locating the applicable current procedural basis; no deadline fabricated.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14h",
+        "source_xml_id": "C37504391",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "7102813f2e2ed54f6397babd6a36f94c6c8e0ac02fb545a64541d18596194e35",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "98108ce038b3a249a40e57080ce027a2a77a15a6949370870bba48f695de949a",
+      "commentary_after_sha256": "98108ce038b3a249a40e57080ce027a2a77a15a6949370870bba48f695de949a"
+    },
+    {
+      "id": "a14i",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Checked the standalone slot between 14h and 14j, repeal date and absence of any surviving paragraph or exception.",
+      "finding_and_resolution": "Retained: documentary numbering continuity is distinguished from an operative power. Fictional conditional-sentence issue is reserved to applicable law.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14i",
+        "source_xml_id": "C37503591",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "b0e8f70907beadff244ecbefd8465e4c69ea07b40506415ca9f69b2d1eb9eec2",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "8025f0f13e02a5de38021b13e645a0ca5d3951a76210f12bd2d3c65b7dc9821c",
+      "commentary_after_sha256": "8025f0f13e02a5de38021b13e645a0ca5d3951a76210f12bd2d3c65b7dc9821c"
+    },
+    {
+      "id": "a14j",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read repealed status and 2020-01-01 metadata; checked the historical-case example for temporal overclaim.",
+      "finding_and_resolution": "Retained: an old decision may concern an earlier procedural moment, but the commentary does not treat its power as current or reconstruct its old content.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14j",
+        "source_xml_id": "C37503971",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "b0da986185982a18e2711140886f87564b6679395ee6e8c8aedf1fc77f3bd1ac",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "1726f508491001c4d57a3ce772430ac22496f5ba9e3c9be68ac43847bf0cd651",
+      "commentary_after_sha256": "1726f508491001c4d57a3ce772430ac22496f5ba9e3c9be68ac43847bf0cd651"
+    },
+    {
+      "id": "a14k",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read entire repealed slot and date; checked the distinction between repeal of this article and survival of conditional-sentence obligations elsewhere.",
+      "finding_and_resolution": "Retained: rejects the inference that every condition disappears when this individual provision is repealed; the example depends on the judgment and applicable regime.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14k",
+        "source_xml_id": "C37504161",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "5aa9106319b8c2c14f9adc30247db34b7088a8f5dbebe63ee0ddeea14c59416a",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "2a646f7cfc1ca68c54ab9feca2c09b8619882bfec581e4fc2a049383c3d46210",
+      "commentary_after_sha256": "2a646f7cfc1ca68c54ab9feca2c09b8619882bfec581e4fc2a049383c3d46210"
+    },
+    {
+      "id": "a14l",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Verified last retained article-14 slot in official sequence, complete repeal and absence of operative content since 2020-01-01.",
+      "finding_and_resolution": "Retained: preserves documentary traceability for historical references without claiming to reproduce former wording.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14l",
+        "source_xml_id": "C37503641",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "8a9f7e9c3dfb8461bd4fe4b25a2498481955be096fb6eaf7609709b4e61fa2b6",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "57d7c1409d55eb85ed9b56a72775a7a4466aad4cfbf7fe49511ff31211bf9111",
+      "commentary_after_sha256": "57d7c1409d55eb85ed9b56a72775a7a4466aad4cfbf7fe49511ff31211bf9111"
+    },
+    {
+      "id": "a15",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete Vervallen text and repeal metadata, then checked the release-date calculation example for unsupported current rules.",
+      "finding_and_resolution": "Retained: correctly provides no release calculation from the empty slot; leaves actual execution law and transitional rules for separate verification.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15",
+        "source_xml_id": "C37504471",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "4ea7f35bd007cec83a15859c8ef19bb6d1e4ed315ca00491e42b7ad2d25e411c",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "4a18c99ee584f526b5ceaba5bc50ecb0f6dff9550f9ac437fd7e10e75e4126fd",
+      "commentary_after_sha256": "4a18c99ee584f526b5ceaba5bc50ecb0f6dff9550f9ac437fd7e10e75e4126fd"
+    },
+    {
+      "id": "a15a",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read independent article element, complete repeal and 2020-01-01 effective date; no active dependent norm remains.",
+      "finding_and_resolution": "Retained: legacy application forms do not preserve an authority merely by continuing to cite the former number.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15a",
+        "source_xml_id": "C37503521",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "ae95e493a4cab7a511e75b6b316279dbeb1ff74f8d1c005fbe33b751ff53316f",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "11b0842db1e05dbd829cf2799f3394ba4a4d99a3965d6541f40bef7d8e1c0ab1",
+      "commentary_after_sha256": "11b0842db1e05dbd829cf2799f3394ba4a4d99a3965d6541f40bef7d8e1c0ab1"
+    },
+    {
+      "id": "a15b",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Checked current slot, absence of conditions or time limits, and effective repeal date against XML.",
+      "finding_and_resolution": "Retained: properly separates a historical letter about release from present obligations and makes no unsupported statement of current release terms.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15b",
+        "source_xml_id": "C37504081",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "7321e4ad4dae6b472beebda44498a8a57401e8614f6fcf11ffff7884e0020b15",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "b4a56e6e17bf2a89ad035386153a70bfc17fa69475a292e8a8fe4dd2e7f64b9c",
+      "commentary_after_sha256": "b4a56e6e17bf2a89ad035386153a70bfc17fa69475a292e8a8fe4dd2e7f64b9c"
+    },
+    {
+      "id": "a15c",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Verified full repeal without second paragraph; checked possible historical reference to paragraph 2 and its need for date/transition analysis.",
+      "finding_and_resolution": "Retained: does not recombine repealed 15a–15c texts as current law or assume an old citation automatically invalid.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15c",
+        "source_xml_id": "C37504401",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "2cd8095ba858c9624fa32ef697fb601835649a20ed40e72d7d210601ee3dba52",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "6dd5d8bf8555991ba78a8ce61eb8cc248c7811fe7a398c14dc20db6a70eb07cb",
+      "commentary_after_sha256": "6dd5d8bf8555991ba78a8ce61eb8cc248c7811fe7a398c14dc20db6a70eb07cb"
+    },
+    {
+      "id": "a15d",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read the entire empty slot and repeal date; checked that the historical-party argument is not attributed as current statutory power.",
+      "finding_and_resolution": "Retained: correct requirement to establish temporal applicability, with no reconstruction of the former substantive grounds.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15d",
+        "source_xml_id": "C37503741",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "cb1d6fbff56e1c4c79dca43e085182fe829373faf8f978e23505a1ddbb6496e8",
+        "editorial_notes": [
+          "Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is."
+        ]
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "cd79625b462e7a96d818d99297bc01c59a03f6dd418cb180de4cbd944be05c01",
+      "commentary_after_sha256": "cd79625b462e7a96d818d99297bc01c59a03f6dd418cb180de4cbd944be05c01"
+    },
+    {
+      "id": "a15e",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Checked independent retained identifier and complete repeal on 2020-01-01; reviewed the automated-register example.",
+      "finding_and_resolution": "Retained: explicitly rejects silently inserting a historical norm into the selected current state.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15e",
+        "source_xml_id": "C37503481",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "dd278e5d88c9b5290e4c211b96230aa30bb5fe2ededa8d87d7eb96443ef61c2a",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "072b6f888710612ea54568f492015a3140fe3301624549a15f9b23eb005f597f",
+      "commentary_after_sha256": "072b6f888710612ea54568f492015a3140fe3301624549a15f9b23eb005f597f"
+    },
+    {
+      "id": "a15f",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read repeal status and date; reviewed old-template example and claimed consequences of missing text.",
+      "finding_and_resolution": "Retained: distinguishes checking the actual governing procedure from the unsupported inference that the legal consequence no longer exists anywhere.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15f",
+        "source_xml_id": "C37503611",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "cfaa4c2fa91568a0958a9d7a6714907d97c36bdb66a69b0466b89e48fdb875f5",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "482c6e32713f3a55ccbfcaa5d487acb137797f44ac973894fca04040de79f480",
+      "commentary_after_sha256": "482c6e32713f3a55ccbfcaa5d487acb137797f44ac973894fca04040de79f480"
+    },
+    {
+      "id": "a15g",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete Vervallen slot, metadata and the example involving a pre-2020 decision.",
+      "finding_and_resolution": "Retained: appropriately requires the historical source for the old decision; the current missing norm is not portrayed as a missing manuscript page.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15g",
+        "source_xml_id": "C37503791",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "ab14c85aa97635735f38f55a947edb3ab4e136a455dc1190d8663b41860151e1",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "b0d340ebd9fdad69961bbc5b500e216d20cdc8ca8eae0a511edf09f4f54c0995",
+      "commentary_after_sha256": "b0d340ebd9fdad69961bbc5b500e216d20cdc8ca8eae0a511edf09f4f54c0995"
+    },
+    {
+      "id": "a15h",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Verified entire slot repealed on 2020-01-01, no exception paragraph; checked example’s alternative of a corrected current reference or justified historical version.",
+      "finding_and_resolution": "Retained: avoids claiming that every historical citation is wrong; requires the party to establish actual temporal applicability.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch02-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel15h",
+        "source_xml_id": "C37503561",
+        "effective_from": "2020-01-01",
+        "status": "vervallen",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "raw_article_sha256": "7d7e2c89ba572fdf91fa23870c765d1004919a1756bf9581309f684676d7d154",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "b846d3d9eec49f8a4bffcd41c3ea15a6f9a85ee933ec519c095b538581418b1b",
+      "commentary_after_sha256": "b846d3d9eec49f8a4bffcd41c3ea15a6f9a85ee933ec519c095b538581418b1b"
+    }
+  ],
+  "limitations": [
+    "Completion applies only to the exact twenty reviewed_ids. Prior batch is separately preserved in review-batch01-result.json; no whole-book completion is claimed.",
+    "The book still lacks commentary for 548 units. Shared full build and strict validation remain expected to fail on that existing deficit; no validator or inventory is narrowed.",
+    "Case-law research is selective: three full primary HR judgments were read for articles 14c and 14e. No exhaustive search or no-relevant-case claim for repealed slots.",
+    "Historical execution procedures, transitional regimes and the complete current external identification/Strafvordering regimes are not reconstructed; external provisions quoted by judgments are labelled as case context.",
+    "Repealed-slot explanations are deliberately concise and share a documentary purpose, but were each read against their own official element and metadata.",
+    "Technical agreement, identifier coverage, lengths and repetition checks do not establish legal quality or external professional approval."
+  ],
+  "verified_at": "2026-10-20T16:27:20.170605+00:00",
+  "decisive_date": "2026-10-19",
+  "effective_version": "2026-07-01_0",
+  "official_source": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "source_xml_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "source_preflight": "sources/review-batch02-version-evidence.json",
+  "baseline_work_commit": "ed72905",
+  "corrected_units": [
+    "a14c",
+    "a14e"
+  ],
+  "other_commentary_preserved": true,
+  "statutory_units_unchanged": true,
+  "repetition_review": {
+    "exact_repeated_paragraphs_over_150_chars": [],
+    "highest_pairwise_similarity": [
+      {
+        "ids": [
+          "a14fa",
+          "a15e"
+        ],
+        "similarity": 0.234
+      },
+      {
+        "ids": [
+          "a15a",
+          "a15f"
+        ],
+        "similarity": 0.192
+      },
+      {
+        "ids": [
+          "a14d",
+          "a14f"
+        ],
+        "similarity": 0.175
+      },
+      {
+        "ids": [
+          "a14l",
+          "a15e"
+        ],
+        "similarity": 0.17
+      },
+      {
+        "ids": [
+          "a14d",
+          "a14fa"
+        ],
+        "similarity": 0.167
+      }
+    ],
+    "qualitative_assessment": "Every assigned block read; the eighteen repeal notes consistently avoid inventing historical norms. Their shared documentary purpose is proportionate to the explicit Vervallen slots. Active provisions now address distinct legal tests and concrete verified cases."
+  },
+  "validation_scope": "Full inventory and unchanged shared validation; separate bounded substantive review of exactly 20 assigned units.",
+  "technical_checks": {
+    "complete_statutory_inventory": 812,
+    "independent_dom_full_text_agreement": true,
+    "bounded_commented_units": 20,
+    "broken_local_links": 0,
+    "evidence": [
+      "completeness-report.json",
+      "audit-report.json",
+      "link-report.json",
+      "build-result.json"
+    ],
+    "full_build_ok": false,
+    "full_build_reason": "548 pre-existing missing commentaries outside assigned review scope",
+    "strict_validation": {
+      "repo": "Komentar-NL-BWBR0001854",
+      "units": 812,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 264625,
+      "errors": [
+        "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "assigned_batch_has_missing_or_short_commentary": false
+  }
+}

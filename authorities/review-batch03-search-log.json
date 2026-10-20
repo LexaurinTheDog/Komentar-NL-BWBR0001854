@@ -1,0 +1,47 @@
+{
+  "verified_at": "2026-10-20T16:35:30.643139+00:00",
+  "scope": "Selective authorities for22b and primary indexation enactment for23; not exhaustive case-law research.",
+  "web_queries": [
+    "site.hogeraad.nl artikel22b taakstraf een dag gevangenisstraf2018 2013",
+    "site.uitspraken.rechtspraak.nl \"22b\" \"ernstige inbreuk\" \"Hoge Raad\"",
+    "site.officielebekendmakingen.nl2026 geldboetecategorieën550 5500"
+  ],
+  "search_service": "Web search after Firecrawl status reported0 credits; direct official APIs used for full texts.",
+  "local_corpus_query": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/manifest.jsonl",
+    "method": "Exact ECLI matches, followed by reading local decisions and the complete official XML.",
+    "results": [
+      {
+        "ecli": "ECLI:NL:HR:2017:66",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-66.md",
+        "sha256": "d653bb4419a4713933a94b4b5a12391ec86d886308b94b431bf8dc91e2ef0a84",
+        "use": "Exact national-corpus match; complete current official judgment XML read, including court reasoning, quoted party positions and limits."
+      },
+      {
+        "ecli": "ECLI:NL:HR:2018:202",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-202.md",
+        "sha256": "b3b3fc06a6f1582813085d5abea7a8e44df55eca481cea6f7926049f8cfc1338",
+        "use": "Exact national-corpus match; complete current official judgment XML read, including court reasoning, quoted party positions and limits."
+      },
+      {
+        "ecli": "ECLI:NL:HR:2022:11",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-11.md",
+        "sha256": "b6ca8dc71527b82b0ef53f147ccb0b28b459a8d948bd851cdaa5ff4c507bc327",
+        "use": "Exact national-corpus match; complete current official judgment XML read, including court reasoning, quoted party positions and limits."
+      }
+    ]
+  },
+  "decisions_read_full": [
+    "ECLI:NL:HR:2017:66",
+    "ECLI:NL:HR:2018:202",
+    "ECLI:NL:HR:2022:11"
+  ],
+  "additional_primary_enactment": "https://zoek.officielebekendmakingen.nl/stb-2025-401.xml",
+  "primary_evidence": "sources/review-batch03-fetch-log.json",
+  "supported_units": [
+    "a22b",
+    "a23"
+  ],
+  "unselected_results": "AG opinions, secondary summaries and parliamentary excerpts discovered but not used as separately verified holdings. HR2014:3539 appears within HR2022:11; not independently cited.",
+  "other_units": "No newly verified sufficiently relevant case selected for the other18 units; no exhaustive no-case-exists claim. Repealed slots do not reconstruct historical execution procedures."
+}

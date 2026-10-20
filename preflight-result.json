@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T16:12:51.768520+00:00",
+  "verified_at": "2026-10-20T16:31:35.864353+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1497,6 +1497,22 @@
         "method": "Every element in fresh official XML checked for bijlage/annex; none present."
       }
     ],
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch03_recheck": {
+    "complete": true,
+    "report": "sources/review-batch03-version-evidence.json",
+    "fetch_log": "sources/review-batch03-fetch-log.json",
+    "inventory": "sources/review-batch03-coverage.json",
+    "historical_manifest_intervals": 126,
+    "effective_version": "2026-07-01_0",
+    "statutory_units_matched": 812,
+    "missing": [],
+    "duplicates": [],
+    "annexes": "No annex elements in complete official XML.",
+    "aanhef_and_wetsluiting": "Both present.",
+    "pending_changes": "WTI2027-01-01 and undated pending amendments segregated.",
+    "repairs_required": [],
     "unresolved_blockers": []
   }
 }

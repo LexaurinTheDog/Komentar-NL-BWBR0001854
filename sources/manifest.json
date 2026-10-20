@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:28:28.639787+00:00",
+  "generated_at": "2026-10-20T16:37:02.164242+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -227,6 +227,71 @@
       "bytes": 27846974
     },
     {
+      "path": "sources/review-batch03-coverage.json",
+      "sha256": "65b9f9f9cdf7e31e99afde95880e9ef2c4f81cef914a9d36039b090cc61abb08",
+      "bytes": 20828
+    },
+    {
+      "path": "sources/review-batch03-effective.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812
+    },
+    {
+      "path": "sources/review-batch03-fetch-log.json",
+      "sha256": "d9f98c5d85fc8453f389f031a829ea1c103becd97b2fcbc8ba910624c6539a67",
+      "bytes": 3881
+    },
+    {
+      "path": "sources/review-batch03-judgment-2017-66.txt",
+      "sha256": "3555e3c6ef6c416a5a2312bc0935c16a63bcac9d1cc4eabde8bb36d4c5403643",
+      "bytes": 14977
+    },
+    {
+      "path": "sources/review-batch03-judgment-2017-66.xml",
+      "sha256": "d434e1a2ab215a43a723a83bd9be2d794dce9308361d57424cb738f4300ca80d",
+      "bytes": 22365
+    },
+    {
+      "path": "sources/review-batch03-judgment-2018-202.txt",
+      "sha256": "b0960f891edfbd40ef5174160ccf7599b5f29b7e582d7e0ab96a1c0e0ab31c16",
+      "bytes": 28880
+    },
+    {
+      "path": "sources/review-batch03-judgment-2018-202.xml",
+      "sha256": "136b52a0fd67df3c26967702c68d11aec29798bad9b30d71654a07226384f8bf",
+      "bytes": 37824
+    },
+    {
+      "path": "sources/review-batch03-judgment-2022-11.txt",
+      "sha256": "fcd9738e7b30f52d6eefec8781f13e60a8ef4b9d81901f2cb0353b5436d6468e",
+      "bytes": 7916
+    },
+    {
+      "path": "sources/review-batch03-judgment-2022-11.xml",
+      "sha256": "d3f500ead1a8e8935c19c2f66711a3b934ee8852d612e818491d8af27326bbc8",
+      "bytes": 14357
+    },
+    {
+      "path": "sources/review-batch03-manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311
+    },
+    {
+      "path": "sources/review-batch03-stb-2025-401.xml",
+      "sha256": "ee96aba78cd78dd7509ea39a365188dafcd5ef26458760e4569f5f77ec7efdd0",
+      "bytes": 15621
+    },
+    {
+      "path": "sources/review-batch03-version-evidence.json",
+      "sha256": "57b06ab82481d7aa0fab2a0fd29ae5108e281601e7aa6f8479e32dd94a38f507",
+      "bytes": 166283
+    },
+    {
+      "path": "sources/review-batch03-wti.xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c",
       "bytes": 252422
@@ -238,8 +303,9 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "00b97b4790aa5d4d7e99d88d38f208d99413e92adda93281227bad248f1bf248",
-      "bytes": 22560
+      "sha256": "8a7956b66fb30d2db53f5cde49673fa5a206ef617f5e0ff6a88fb54c3b45c51b",
+      "bytes": 26612
     }
-  ]
+  ],
+  "note": "Includes preserved failed responses; successful and rejected evidence are distinguished by verification/fetch logs."
 }
