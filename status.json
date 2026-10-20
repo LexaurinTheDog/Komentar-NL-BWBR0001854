@@ -113,9 +113,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 685781,
+    "commentary_chars": 724301,
     "errors": [
-      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']"
+      "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -898,9 +898,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 685781,
+    "commentary_chars": 724301,
     "errors": [
-      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']"
+      "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']"
     ],
     "warnings": [],
     "ok": false
