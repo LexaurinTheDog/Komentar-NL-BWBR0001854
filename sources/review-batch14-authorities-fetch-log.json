@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:168",
+    "path": "sources/review-batch14-judgment-2016-168.xml",
+    "accessed_at": "2026-10-20T18:34:42.404635+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "bytes": 68583,
+    "sha256": "53e8492fb1bf1115b0388a1acbcdac90ee32065f476484607d934be1b0cb04c9",
+    "expected_format_valid": true,
+    "full_judgment": true,
+    "byte_equal_author_snapshot": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:768",
+    "path": "sources/review-batch14-judgment-2015-768.xml",
+    "accessed_at": "2026-10-20T18:34:42.654620+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "bytes": 37112,
+    "sha256": "f501687f5ef83b889e01d6877996ab240754e81ac30b8264198dbf228fa8a2af",
+    "expected_format_valid": true,
+    "full_judgment": true,
+    "byte_equal_author_snapshot": true
+  }
+]

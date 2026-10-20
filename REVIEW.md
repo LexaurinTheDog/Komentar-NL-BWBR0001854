@@ -224,3 +224,39 @@ De controles onderscheiden de aanslagdrempel van 79, samenspanning van 80, alle 
 Het verse officiële brononderzoek bevestigt 100% overeenkomst met de bestaande parserbron, de volledige onafhankelijke inventaris en afwezigheid van bijlagen. De nieuwe toelichting verandert geen wettekst of nummering. De formele volledige bouw wordt met alle 812 eenheden uitgevoerd; de nog ontbrekende toelichtingen buiten deze opdracht worden zichtbaar als blokkade behouden. Het bestaande leescheckpoint wordt met deze zestien eenheden herbouwd. Actuele technische resultaten en de link- en herhalingscontrole staan in het batchresultaat en statusbestand. Lengte en tekstovereenkomst zijn technische controles, geen bewijs van juridische kwaliteit of externe professionele goedkeuring.
 
 De uitgevoerde controles voor dit auteurscheckpoint vonden **16/16** nieuwe toelichtingen in het leesbestand, **586** bestaande lokale koppelingen en geen herhaalde inhoudelijke alinea. De onverzwakte validator meldt **100% wettekstovereenkomst** en uitsluitend **532 ontbrekende toelichtingen buiten de batch**. Het gehele boek slaagt dus nog niet; de auteursbatch is lokaal vastgelegd en de nieuwe toelichtingen wachten op een onafhankelijke tweede lezing.
+
+
+## Veertiende begrensde tweede lezing — 20 oktober 2026
+
+Precies twintig toegewezen eenheden zijn inhoudelijk met de officiële bron vergeleken: **a90septies, a90octies, a90novies, a91, a92, a93, a94, a95, a95a, a96, a97, a97a, a97b, a98, a98a, a98b, a98c, a98d, a99, a100**. Zeven toelichtingen zijn gericht gecorrigeerd of verduidelijkt; dertien zijn behouden. Het [machineleesbare resultaat](review-batch14-result.json) bewaart per eenheid de bronlezing, bevinding, voor/na-hash en beperkingen.
+
+De belangrijkste correctie betreft de vervangingsketen van artikel 97b. Verder zijn de titelgrens van artikel 91, de oogmerkconstructie bij 97, daadwerkelijk contact in het voorbeeld van 97a, de culpadrempel van 98b en de afzonderlijke geweldsinstructieroutes verduidelijkt. Het voorbeeld bij 92 suggereert geen permanentie-eis meer. Alle overige commentaarbestanden en de wettelijke eenheden zijn ongewijzigd.
+
+Het [verse versiebewijs](sources/review-batch14-version-evidence.json) bevestigt 2026-07-01_0 voor 19 en 20 oktober 2026. Het [dekkingsbewijs](sources/review-batch14-coverage.json) bevat 812/812 eenheden, inclusief aanhef, slot en vervallen plaatsen, zonder bijlagen. De [historische kaart](sources/review-batch14-change-map.json) houdt de oudere toestanden gescheiden; 90novies en 98d ontbraken toen, en 98/98c hadden een ander maximum.
+
+De volledige HR-beslissingen 2016:168 en 2015:768 zijn opnieuw gelezen en opgehaald, met onderscheid tussen partijstandpunt, geciteerde hofmotivering en eigen HR-oordeel. De bestaande kaarten zijn inhoudelijk juist bevonden. Hun tijdrechtelijke en procedurele beperkingen blijven gelden. De [bronnencontrole](sources/review-batch14-authority-evidence.json) vermeldt ook niet-gebruikte fetchkandidaten en de beperkte onderzoeksscope.
+
+Dit is een onafhankelijke tweede lezing van deze twintig eenheden, geen onafhankelijke beoordeling van het gehele boek of externe professionele goedkeuring. De volledige bouw en strikte validator worden ongewijzigd uitgevoerd; ontbrekende toelichtingen buiten de opdracht worden niet verhuld.
+
+| Eenheid | Bevinding |
+| --- | --- |
+| a90septies | Behouden. De toelichting onderscheidt formele bevoegdheid van ervaring en vult geen nieuwe registratie-eis in. Het voorbeeld zegt niet dat de maatregel bij iedere ontbrekende deskundige onmogelijk is. |
+| a90octies | Behouden. Geregistreerd partnerschap wordt onderscheiden van ongehuwd samenwonen. De uitzondering verdwijnt niet door de algemene gelijkstelling. |
+| a90novies | Uitgebreid: de twee wetten volledig benoemd, lid 2 niet met lid 3 vereenzelvigd, en rechtmatige taakuitoefening als zelfstandige voorwaarde bij 42 behouden. Geen volledige actuele regeling van alle politiebevoegdheden gepretendeerd. |
+| a91 | Gecorrigeerd door explicitering: VIII A valt binnen de opsomming, IX erbuiten. De definities werken niet via 91 automatisch door. Bijzondere wet en verordening niet als onbeperkt uitwisselbare afwijkingsbronnen behandeld. |
+| a92 | Het woord blijvende verwijderd uit de illustratie van ongeschiktheid. De tekst noemt geen algemene permanentie-eis. Bijzonder aanslagbegrip, afzonderlijk oogmerk en niet-verplichte strafmaxima zijn behouden. |
+| a93 | Behouden. Afscheiding vereist niet de in de andere route genoemde vreemde heerschappij; politieke meningsuiting bewijst geen uitvoeringsbegin. Geen succesvolle gebiedsoverdracht als voltooiingseis toegevoegd. |
+| a94 | Behouden. Aanslag en omwenteling blijven onderscheiden; het terroristische oogmerk wordt niet uit politieke strekking alleen afgeleid. Rechtmatige constitutionele hervorming niet met het delict gelijkgesteld. |
+| a95 | Behouden. Regeringsraad en ministerraad niet verwisseld; individuele lidbescherming en het ontbreken van een aanslagbestanddeel correct behandeld. Geen onbewezen huidige orgaanbezetting of institutionele praktijk toegevoegd. |
+| a95a | Behouden. Het doorgaan van de gehele vergadering sluit lidgerichte aantasting niet uit; vreedzame politieke druk wordt niet zonder geweldsvereiste strafbaar verklaard. |
+| a96 | Behouden. Overeenkomst niet als algemeen lid-2-vereiste toegevoegd; trachten, kennis van bestemming, mededelingsbestemming van plannen en regeringsmaatregel afzonderlijk uitgelegd. |
+| a97 | Verduidelijkt: de buitenlandse verbinding met het oogmerk hulp toe te zeggen of voorbereidingshulp te verlenen is het aanknopingspunt; feitelijke verwezenlijking van die hulp is niet als extra voltooiingsvoorwaarde gesteld. |
+| a97a | Het fictieve voorbeeld preciseert nu dat daadwerkelijk contact is ontstaan. Een weigering in dat contact verschilt van een nooit verzonden verzoek; oogmerk en buitenlandse vestiging blijven afzonderlijke eisen. |
+| a97b | Materiële correctie: het huidige voorwerp vervangt het eerdere voorwerp waarop het invoer- of buitenlandse bestemmingsverband kan berusten. De eerdere parafrase kon de keten omkeren. Geschiktheid, bestemming en kennis/ernstige reden tot vermoeden blijven cumulatief uitgewerkt. |
+| a98 | Behouden. Rubricering is geen beslissend constitutief etiket; lid 2 vergt herkomst én veiligheidsverband. Het historische zesjaarsmaximum is niet als het huidige achtjaarsmaximum gepresenteerd. |
+| a98a | Behouden. Buitenlandse ontvanger, tussenpersoongevaar, oorlog/dienst/opdracht en zelfstandige voorbereiding onderscheiden. Positie geheimhoudingsplichtige bron niet met die van journalist vereenzelvigd; geen algemene toestemming voor journalistenaftap afgeleid. |
+| a98b | Verduidelijkt: aanmerkelijke verwijtbare onvoorzichtigheid en totaalbeoordeling nodig. Een interne instructiefout of incident alleen bewijst geen strafrechtelijke culpa; het gevolg en causaal verband blijven nodig. |
+| a98c | Behouden. Bezit, verwervingshandeling met oogmerk en bijzondere verboden-plaatsroute onderscheiden. De negatieve oogmerkuitzondering geldt alleen onder 3; het huidige maximum van acht jaar wordt niet naar oude feiten teruggeprojecteerd. |
+| a98d | Behouden. Invoering 15 mei 2025 onderscheiden van teksttechniek 1 juli; werkelijk gevaar en bewustheid niet vervangen door enkel buitenlandse contacten. Regeringsuitleg van voorwaardelijk opzet wordt als zodanig toegeschreven, niet als rechterlijke vaststelling. |
+| a99 | Behouden. Teleurstellend onderhandelingsresultaat is niet zonder meer opzettelijke benadeling; mandaat en concrete nadelige gedraging moeten worden bewezen. Geen staatsgeheim of oorlogstijd als extra algemeen bestanddeel toegevoegd. |
+| a100 | Behouden. Gevaar van oorlogsbetrokkenheid wordt niet ook bij de voorschriftvariant geëist; neutraliteit en staatsveiligheidsvoorschrift onderscheiden. Controlelijst en feitdatumwaarschuwing zijn toepasselijk en specifiek. |

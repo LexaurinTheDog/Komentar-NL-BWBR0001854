@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 564,
+  "local_links_checked": 603,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -27,6 +27,8 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:BY9718",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:3474",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:3689",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:768",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:168",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:456",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:733",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:1111",
@@ -60,6 +62,7 @@
     "https://wetten.overheid.nl/BWBR0002768/2018-02-06",
     "https://wetten.overheid.nl/BWBR0019836/2022-11-25",
     "https://wetten.overheid.nl/BWBR0034925/2026-01-01",
+    "https://zoek.officielebekendmakingen.nl/kst-36280-E.html",
     "https://zoek.officielebekendmakingen.nl/stb-2006-310.html",
     "https://zoek.officielebekendmakingen.nl/stb-2006-330.html",
     "https://zoek.officielebekendmakingen.nl/stb-2007-575.html",
@@ -68,8 +71,12 @@
     "https://zoek.officielebekendmakingen.nl/stb-2013-485.html",
     "https://zoek.officielebekendmakingen.nl/stb-2014-33.html",
     "https://zoek.officielebekendmakingen.nl/stb-2024-414.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2025-100.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2025-124.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2025-155.html",
     "https://zoek.officielebekendmakingen.nl/stb-2025-22.html",
     "https://zoek.officielebekendmakingen.nl/stb-2025-401.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2025-76.html",
     "https://zoek.officielebekendmakingen.nl/stb-2026-20.html",
     "https://zoek.officielebekendmakingen.nl/stb-2026-81.html"
   ],

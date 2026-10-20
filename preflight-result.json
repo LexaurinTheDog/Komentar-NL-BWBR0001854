@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T18:07:46.788534+00:00",
+  "verified_at": "2026-10-20T18:33:26.474782+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1942,5 +1942,64 @@
       "a99",
       "a100"
     ]
+  },
+  "bounded_review_batch14_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T18:33:26.474782+00:00",
+    "version_evidence": "sources/review-batch14-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126,
+      "body_comparisons": [
+        {
+          "date": "2009-06-11",
+          "version": "2009-04-01_0",
+          "path": "sources/author-a92-a100-historical-2009-06-11.xml",
+          "sha256": "75645a8844ae9dae1116d9543d91516fa7fabe9374a630524be40ed9ae4659ba",
+          "manifest_sha512_verified": true,
+          "missing_historical_ids": [
+            "a90novies",
+            "a98d"
+          ],
+          "changed_ids": [
+            "a90novies",
+            "a98",
+            "a98c",
+            "a98d"
+          ]
+        },
+        {
+          "date": "2011-07-17",
+          "version": "2011-07-02_1",
+          "path": "sources/author-a92-a100-historical-2011-07-17.xml",
+          "sha256": "63bc5d5a8181d0328482f296ea615762a5b492fabfe73e50a1fd1b8086d0597f",
+          "manifest_sha512_verified": true,
+          "missing_historical_ids": [
+            "a90novies",
+            "a98d"
+          ],
+          "changed_ids": [
+            "a90novies",
+            "a98",
+            "a98c",
+            "a98d"
+          ]
+        }
+      ],
+      "change_map": "sources/review-batch14-change-map.json"
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch14-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch14-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Both retained. No real omission or source/parser repair required.",
+    "unresolved_blockers": []
   }
 }

@@ -1,0 +1,7 @@
+{
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
+  "scope": "Unchanged full 812-unit inventory. 532 missing commentaries outside these twenty reviewed units."
+}

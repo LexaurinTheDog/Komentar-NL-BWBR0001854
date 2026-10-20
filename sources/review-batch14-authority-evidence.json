@@ -1,0 +1,129 @@
+{
+  "checked_at": "2026-10-20T18:35:25.249387+00:00",
+  "selected_judgments": [
+    "ECLI:NL:HR:2016:168",
+    "ECLI:NL:HR:2015:768"
+  ],
+  "judgments_full_text_read": true,
+  "fresh_judgment_http_log": "sources/review-batch14-authorities-fetch-log.json",
+  "publications_rechecked": [
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-76.xml",
+      "accessed_at": "2026-10-20T18:22:54.803558+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "path": "sources/author-a92-a100-stb-2025-76.xml",
+      "bytes": 21994,
+      "sha256": "ecd04781885e98e357b3a927384a982a6c26ea20233743bbe71ffef67ff00cf4",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-100.xml",
+      "accessed_at": "2026-10-20T18:22:54.961620+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "path": "sources/author-a92-a100-stb-2025-100.xml",
+      "bytes": 4712,
+      "sha256": "924b0db26bd65f3292a98581dc54dc1a88d989df35c68574c8b742af274a2bd1",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-124.xml",
+      "accessed_at": "2026-10-20T18:22:55.225269+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "path": "sources/author-a92-a100-stb-2025-124.xml",
+      "bytes": 120830,
+      "sha256": "bda832e67050fa0bf07a1919eb4b48c48ca04fd97e6261a31fa627aeaf907bde",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2025-155.xml",
+      "accessed_at": "2026-10-20T18:22:55.427756+00:00",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "path": "sources/author-a92-a100-stb-2025-155.xml",
+      "bytes": 7088,
+      "sha256": "8cb172503a7e79ab51f4202788182542c4da29ce27a79326d2172d27c00601d4",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36280-E.xml",
+      "accessed_at": "2026-10-20T18:22:00.441517+00:00",
+      "path": "sources/author-a92-a100-kst-36280-E.xml",
+      "http_status": 200,
+      "content_type": "text/xml",
+      "bytes": 20228,
+      "sha256": "855d6a35fb7de6ee74430bae322048478b73560f4a19e3d041ed40bb095afc7b",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    }
+  ],
+  "historical_comparison": [
+    {
+      "date": "2009-06-11",
+      "version": "2009-04-01_0",
+      "path": "sources/author-a92-a100-historical-2009-06-11.xml",
+      "sha256": "75645a8844ae9dae1116d9543d91516fa7fabe9374a630524be40ed9ae4659ba",
+      "manifest_sha512_verified": true,
+      "missing_historical_ids": [
+        "a90novies",
+        "a98d"
+      ],
+      "changed_ids": [
+        "a90novies",
+        "a98",
+        "a98c",
+        "a98d"
+      ]
+    },
+    {
+      "date": "2011-07-17",
+      "version": "2011-07-02_1",
+      "path": "sources/author-a92-a100-historical-2011-07-17.xml",
+      "sha256": "63bc5d5a8181d0328482f296ea615762a5b492fabfe73e50a1fd1b8086d0597f",
+      "manifest_sha512_verified": true,
+      "missing_historical_ids": [
+        "a90novies",
+        "a98d"
+      ],
+      "changed_ids": [
+        "a90novies",
+        "a98",
+        "a98c",
+        "a98d"
+      ]
+    }
+  ],
+  "historical_change_map": "sources/review-batch14-change-map.json",
+  "local_corpus": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2016-168.md",
+      "sha256": "c970680edcbc2bcb8e8cd08fc08076e787938f6e944c743c426cd0b0212d1f78",
+      "ecli": "ECLI:NL:HR:2016:168",
+      "role": "National corpus counterpart located and hash-checked; the complete official judgment supplies the legal review. Same decision, not independent authority."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-768.md",
+      "sha256": "8d6023ee915258888b7f7974d80eb94511cf32bc9b389eb4ff554b24b2d644f1",
+      "ecli": "ECLI:NL:HR:2015:768",
+      "role": "National corpus counterpart located and hash-checked; the complete official judgment supplies the legal review. Same decision, not independent authority."
+    }
+  ],
+  "search_scope": "Review of existing citations and relevant national corpus counterparts. No new exhaustive discovery search claimed. Prior discovery log: authorities/author-a92-a100-search-log.json.",
+  "unused_fetch_candidates": [
+    "2020:447",
+    "2009:BG7743",
+    "2026:430"
+  ],
+  "unused_disposition": "Fetched by reused preflight helper; not relied upon, not counted as read or supporting these units.",
+  "limitations": [
+    "Two selected judgments only; no comprehensive current case-law survey.",
+    "Existing WBS external catalog digest discrepancy is not resolved; no individual site asserted to be designated.",
+    "No present-day intelligence procedural regime inferred from the 2015 judgment."
+  ]
+}
