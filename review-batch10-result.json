@@ -626,5 +626,51 @@
     ],
     "human_review": "All20 units individually read. Five repealed slots share a documentary function, with distinct examples. Active units explain their own actual rules and risks; similarity/length not used as legal quality proxy."
   },
-  "validation_scope": "Full original812-unit inventory retained; full shared build/validator run separately and existing out-of-scope548 omissions honestly recorded."
+  "validation_scope": "Full original812-unit inventory retained; full shared build/validator run separately and existing out-of-scope548 omissions honestly recorded.",
+  "technical_checks": {
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+      "checked_at": "2026-10-20T17:42:45.340497+00:00",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
+      "full_inventory_units": 812,
+      "bounded_review_ids": "review-batch10-result.json"
+    },
+    "full_shared_validator": {
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 307718,
+        "errors": [
+          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "exit_code": 1,
+      "clean_output_commit": "3a39d0f4101cea2f70afd222be004d95d7910786",
+      "run_evidence": "validation-batch10-run.json",
+      "full_inventory_unchanged": true,
+      "failure_outside_assignment_only": true
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_have_commentary": true,
+      "short_ids": [],
+      "commentary_chars": 28808
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "ok": true,
+      "checked": 438
+    },
+    "checked_at": "2026-10-20T17:44:29.816982+00:00"
+  }
 }
