@@ -1,0 +1,27 @@
+{
+  "searched_at": "2026-10-20T22:58:41.627688+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"231b\" \"Hoge Raad\" \"2019\"",
+    "site.rechtspraak.nl \"schuldaanranding\" \"2025\""
+  ],
+  "primary_texts_read": [
+    "ECLI:NL:HR:2019:1698",
+    "ECLI:NL:RBZWB:2025:6856"
+  ],
+  "supported_units": [
+    "a231b",
+    "a240",
+    "a241"
+  ],
+  "local_corpus": "author-a227a-a243-local-corpus.json",
+  "fetch_log": "author-a227a-a243-fetch-log.json",
+  "unselected_results": [
+    "PHR2019:837 and PHR2024:339 are not judgments and are not cited as court holdings."
+  ],
+  "other_assigned_units": "No sufficiently relevant verified judgment selected for these units in this bounded selective research; explanation rests on the official statute.",
+  "limitations": [
+    "Selective research, no exhaustive per-unit or later-citation search.",
+    "Public RBZWB text refers to evidence appendix II absent from the public XML; underlying dossier not accessed.",
+    "No verified appeal status for RBZWB judgment."
+  ]
+}

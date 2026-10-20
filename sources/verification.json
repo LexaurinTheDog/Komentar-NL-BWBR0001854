@@ -4532,6 +4532,140 @@
       "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
       "bytes": 4600683,
       "disposition": "HTML entry-point attempt; legal text and effective intervals established from the official BWB repository XML, manifest and WTI, not from this HTML response."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T22:53:33.150273+00:00",
+      "path": "sources/author-a227a-a243-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T22:53:33.467482+00:00",
+      "path": "sources/author-a227a-a243-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T22:53:34.504784+00:00",
+      "path": "sources/author-a227a-a243-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-20T22:53:57.811102+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "path": "sources/author-a227a-a243-dated-page.html",
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+      "bytes": 4600683,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854",
+      "accessed_at": "2026-10-20T22:54:00.702774+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "path": "sources/author-a227a-a243-current-page.html",
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+      "bytes": 4600683,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-20T22:54:04.030123+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "path": "sources/author-a227a-a243-previous.xml",
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A1698",
+      "accessed_at": "2026-10-20T22:53:33.150167+00:00",
+      "path": "authorities/author-a227a-a243-ECLI-NL-HR-2019-1698.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "b50de0122722e6f44313e1bdb896b4ed83af13aeb66d9012bf213ead5d20b39d",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBZWB%3A2025%3A6856",
+      "accessed_at": "2026-10-20T22:53:33.352250+00:00",
+      "path": "authorities/author-a227a-a243-ECLI-NL-RBZWB-2025-6856.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "d3298a620173f5f080b8179caf4bb566c72b2a81a4400d37fd1c78b7332727dd",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-07-01_0/xml/BWBR0001854_2024-07-01_0.xml",
+      "accessed_at": "2026-10-20T22:57:25.067884+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a227a-a243-case-law-version-2024.xml",
+      "sha256": "09cdf46816fb5fc1883a2f2bec4d6c358199ccd298401a5419c8ab0b14a79f11",
+      "expected_format_valid": true,
+      "comparisons": [
+        {
+          "id": "a239",
+          "case_date_text": "1 In deze titel wordt onder degene die met een persoon seksuele handelingen verricht mede verstaan: degene die een persoon seksuele handelingen laat verrichten met diegene, met zichzelf of met een derde, dan wel degene die een persoon seksuele handelingen laat ondergaan door een derde. 2 In deze titel wordt onder degene die met een kind seksuele handelingen verricht mede verstaan: degene die een kind seksuele handelingen laat verrichten met diegene, met zichzelf of met een derde, dan wel degene die een kind seksuele handelingen laat ondergaan door een derde. 3 In deze titel wordt onder visuele weergave mede verstaan: gegevens die geschikt zijn om een visuele weergave te vormen of een gegevensdrager bevattende gegevens die geschikt zijn om een visuele weergave te vormen.",
+          "current_text": "1 In deze titel wordt onder degene die met een persoon seksuele handelingen verricht mede verstaan: degene die een persoon seksuele handelingen laat verrichten met diegene, met zichzelf of met een derde, dan wel degene die een persoon seksuele handelingen laat ondergaan door een derde. 2 In deze titel wordt onder degene die met een kind seksuele handelingen verricht mede verstaan: degene die een kind seksuele handelingen laat verrichten met diegene, met zichzelf of met een derde, dan wel degene die een kind seksuele handelingen laat ondergaan door een derde. 3 In deze titel wordt onder visuele weergave mede verstaan: gegevens die geschikt zijn om een visuele weergave te vormen of een gegevensdrager bevattende gegevens die geschikt zijn om een visuele weergave te vormen.",
+          "same_operative_text": true
+        },
+        {
+          "id": "a240",
+          "case_date_text": "Als schuldig aan schuldaanranding wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.",
+          "current_text": "Als schuldig aan schuldaanranding wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.",
+          "same_operative_text": true
+        },
+        {
+          "id": "a241",
+          "case_date_text": "1 Als schuldig aan opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt. 2 Als schuldig aan gekwalificeerde opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld, of bedreiging.",
+          "current_text": "1 Als schuldig aan opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt. 2 Als schuldig aan gekwalificeerde opzetaanranding wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld, of bedreiging.",
+          "same_operative_text": false
+        },
+        {
+          "id": "a242",
+          "case_date_text": "Als schuldig aan schuldverkrachting wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.",
+          "current_text": "Als schuldig aan schuldverkrachting wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene ernstige reden heeft om te vermoeden dat bij die persoon daartoe de wil ontbreekt.",
+          "same_operative_text": true
+        },
+        {
+          "id": "a243",
+          "case_date_text": "1 Als schuldig aan opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt. 2 Als schuldig aan gekwalificeerde opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.",
+          "current_text": "1 Als schuldig aan opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, degene die met een persoon seksuele handelingen verricht, welke handelingen bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam, terwijl diegene weet dat bij die persoon daartoe de wil ontbreekt. 2 Als schuldig aan gekwalificeerde opzetverkrachting wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, degene die zich schuldig maakt aan het misdrijf omschreven in het eerste lid, voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging.",
+          "same_operative_text": true
+        },
+        {
+          "id": "a244",
+          "case_date_text": "Voor de toepassing van de misdrijven omschreven in de artikelen 240 tot met 243 ontbreekt bij een persoon in ieder geval de wil tot seksuele handelingen indien diegene in een staat van bewusteloosheid, verminderd bewustzijn of lichamelijke onmacht verkeert of een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft dat deze niet of onvolkomen in staat is een wil te bepalen of kenbaar te maken omtrent de seksuele handelingen of daartegen weerstand te bieden.",
+          "current_text": "Voor de toepassing van de misdrijven omschreven in de artikelen 240 tot met 243 ontbreekt bij een persoon in ieder geval de wil tot seksuele handelingen indien diegene in een staat van bewusteloosheid, verminderd bewustzijn of lichamelijke onmacht verkeert of een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap heeft dat deze niet of onvolkomen in staat is een wil te bepalen of kenbaar te maken omtrent de seksuele handelingen of daartegen weerstand te bieden.",
+          "same_operative_text": true
+        }
+      ]
     }
   ],
   "effective_version_verified": true,
@@ -4704,5 +4838,10 @@
     "historical_change_map": "sources/author-a208-a227-historical-change-map.json",
     "case_search_log": "authorities/author-a208-a227-search-log.json",
     "source_equal_to_existing_canonical": true
+  },
+  "bounded_author_a227a_a243": {
+    "version_evidence": "sources/author-a227a-a243-version-evidence.json",
+    "historical_change_map": "sources/author-a227a-a243-historical-change-map.json",
+    "canonical_unchanged": true
   }
 }

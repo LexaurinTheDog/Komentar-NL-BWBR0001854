@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2019%3A1698",
+    "accessed_at": "2026-10-20T22:53:33.150167+00:00",
+    "path": "authorities/author-a227a-a243-ECLI-NL-HR-2019-1698.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "b50de0122722e6f44313e1bdb896b4ed83af13aeb66d9012bf213ead5d20b39d",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3ARBZWB%3A2025%3A6856",
+    "accessed_at": "2026-10-20T22:53:33.352250+00:00",
+    "path": "authorities/author-a227a-a243-ECLI-NL-RBZWB-2025-6856.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "d3298a620173f5f080b8179caf4bb566c72b2a81a4400d37fd1c78b7332727dd",
+    "expected_format_valid": true
+  }
+]

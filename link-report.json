@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 958,
+  "local_links_checked": 981,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AL6209",
@@ -55,6 +55,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:2242",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:321",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:897",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:1698",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:1927",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:593",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:609",
@@ -85,6 +86,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:14437",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2016:3180",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2013:8265",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6856",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
     "https://wetten.overheid.nl/BWBR0001903/2026-07-01",
     "https://wetten.overheid.nl/BWBR0002074/2013-01-01",

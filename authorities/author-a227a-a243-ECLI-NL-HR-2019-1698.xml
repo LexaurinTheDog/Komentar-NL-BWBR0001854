@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2019:1698</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T11:48:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-11-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2019-11-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/03683</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:837" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2019:837</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2019-0400 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2019/2701</rdf:li>
+          <rdf:li>RvdW 2020/16</rdf:li>
+          <rdf:li>NJ 2020/53 met annotatie van J.M. Reijntjes</rdf:li>
+          <rdf:li>NbSr 2019/377</rdf:li>
+          <rdf:li>NbSr 2020/377</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:1698">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:1698</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2019-11-26T11:14:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-11-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2019:1698 Hoge Raad , 26-11-2019 / 18/03683</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2019:1698:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Misbruik van identificerende persoonsgegevens door i.h.k.v. mobiele toezichtcontrole Duitse verblijfsvergunning die op naam van ander is gesteld te overhandigen, art. 231b Sr. Welke uitleg dient te worden gegeven aan bestanddeel “enig nadeel” a.b.i. art. 231b Sr? Art. 231b Sr bepaalt dat opzettelijk misbruik van identificerende persoonsgegevens van ander strafbaar is indien uit dat misbruik “enig nadeel kan ontstaan”. Uit wetsgeschiedenis blijkt dat deze bepaling slechts ertoe strekt (potentiële) slachtoffers van misbruik van hun persoonsgegevens te beschermen tegen nadelige gevolgen die dit misbruik voor hen kan hebben. Mede in aanmerking genomen de omstandigheid dat art. 231b Sr is bedoeld als aanvulling op de art. 231 en 231a Sr, waarin bestanddeel ”enig nadeel” niet is genoemd, moet worden aangenomen dat vereiste dat ”enig nadeel” van gebruik van identificerende persoonsgegevens ex art. 231b Sr uitsluitend betrekking heeft op mogelijk nadeel voor in art. 231b Sr bedoelde ”ander” wiens persoonsgegevens door verdachte zijn misbruikt. Hof heeft geoordeeld dat uit in bewezenverklaring genoemd gebruik van identificerende persoonsgegevens van A door verdachte, “enig nadeel [kon] ontstaan” ex art. 231b Sr. Dat oordeel is niet toereikend gemotiveerd, in aanmerking genomen dat uit bewijsvoering niet z.m. kan worden afgeleid dat voor die A enig nadeel kon ontstaan. Volgt vernietiging en terugwijzing.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2019:1698:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	18/03683</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		26 november 2019</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof 's-Hertogenbosch van 15 augustus 2018, nummer 20/003653-17, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren te [geboorteplaats] op [geboortedatum 1] 1988,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft I.T.H.L. van de Bergh, advocaat te Maastricht, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De Advocaat-Generaal B.F. Keulen heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het Gerechtshof ’s-Hertogenbosch teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het middel klaagt dat het Hof wat betreft het tenlastegelegde een onjuiste uitleg heeft gegeven aan de daarin gebezigde, aan art. 231b Sr ontleende term ‘enig nadeel’, althans dat het oordeel van het Hof dienaangaande ontoereikend is gemotiveerd.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>“hij op 4 augustus 2017 in de gemeente Sittard-Geleen opzettelijk en wederrechtelijk identificerende persoonsgegevens, niet zijnde biometrische persoonsgegevens, van een ander heeft gebruikt met het oogmerk om zijn identiteit te verhelen of de identiteit van de ander te misbruiken, waardoor uit dat gebruik enig nadeel kon ontstaan, immers heeft hij, verdachte, bij het Mobiel Toezicht Vreemdelingen (bij de controle van een Internationale Flixbus) aan de wachtmeesters der Koninklijke Marechaussee, [verbalisant 1] en [verbalisant 2] , beiden ambtenaar belast met de grensbewaking en het toezicht op vreemdelingen, opgegeven te zijn [naam] , geboren op [geboortedatum 2] -1963 te [naam] en daarbij een Duitse verblijfsvergunning, zijnde een Unbefristeter Aufenthaltstitel, met documentnummer [… 1] , afgegeven op 11-04-2016, op naam van [naam], geboren op [geboortedatum 2] ‑1963 te [naam], aan die [verbalisant 1] overhandigd.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>De bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+          <para>“1. Het proces-verbaal van bevindingen d.d. 4 augustus 2017 (pg. 7-10), voor zover inhoudende als relaas van verbalisanten [verbalisant 1] en [verbalisant 2] , beiden wachtmeester eerste klasse der Koninklijke Marechaussee:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 4 augustus 2017 waren wij, beiden ambtenaar belast met het toezicht op vreemdelingen, belast met de uitoefening van het Mobiel Toezicht Vreemdelingen ter bestrijding van illegaal verblijf. Deze mobiele toezichtcontrole werd uitgevoerd op grond van artikel 50 van de Vreemdelingenwet 2000 in overeenstemming met het gestelde in artikel 4.17a lid 1 onder c, lid 2 en lid 5 van het Vreemdelingenbesluit 2000.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 4 augustus 2017 kregen wij van onze meldkamer de melding dat er een internationale bus de A76 te Heerlen was gepasseerd, wat betekent dat deze bus de Duits-Nederlandse grens heeft gepasseerd en Nederland is binnengereden. Daar wij belast zijn met de uitoefening van het Mobiel Toezicht Vreemdelingen besloten wij genoemde bus te achterhalen en de inzittenden te controleren conform de Vreemdelingenwet 2000.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 4 augustus 2017 zagen wij een internationale bus van de vervoersmaatschappij ‘FLIXBUS’ rijden over de Rijksweg A76 komende uit de richting van Duitsland. Ik heb aan de bestuurder van dit voertuig een teken tot volgen gegeven. Wij zagen dat de bestuurder deze aanwijzing begreep en ons volgde naar een parkeervak gelegen aan de Rijksweg-Zuid, gemeente Sittard-Geleen en aldaar zijn voertuig tot stilstand bracht.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ik, [verbalisant 1] , heb de bestuurder alsmede alle inzittenden van het voornoemde voertuig staande gehouden op grond van artikel 50 lid 1 van de Vreemdelingenwet, ter vaststelling van de identiteit, nationaliteit en verblijfsrechtelijke positie. Ik vorderde alle inzittenden in de Engelse, Duitse en Franse taal mij een document te tonen waaruit zijn of haar identiteit, nationaliteit en verblijfsrechtelijke positie kon blijken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ik, [verbalisant 1] , zag dat een van de inzittenden mij een Duitse verblijfsvergunning, zijnde een Unbefristet Aufenthaltstitel, voorzien van het documentnummer [… 1] overhandigde, afgegeven op 11-04-2016.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ik zag dat dit document op naam stond van:</para>
+          <para>Naam: [naam];</para>
+          <para>Voornaam: [naam];</para>
+          <para>Geboortedatum: [geboortedatum 2] -1963;</para>
+          <para>Geboorteplaats: [naam].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 4 augustus 2017 is er tijdens de insluitingsfouillering van verdachte een Duits document in zijn portemonnee aangetroffen, zijnde een ‘Aufenthaltsgestattung zur Durchführung des Asylverfahrens’. Genoemd document was voorzien van documentnummer [… 2], van een op verdachte gelijkende pasfoto en stond op naam gesteld van:</para>
+          <para>
+            [verdachte], geboren [geboortedatum 1] 1988 te [geboorteplaats].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Verdachte gaf aan dat dit zijn document was en dat de personalia op genoemd document zijn personalia waren.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Het proces-verbaal van verhoor d.d. 4 augustus 2017 (pg. 30-35), voor zover inhoudende als verklaring van verdachte ([verdachte] ), nadat aan hem een kopie van het document is getoond dat hij op 4 augustus 2017 tijdens de controle heeft gebruikt:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dit document is van een vriend, [naam]. Toen de politie in de bus kwam heb ik dat laten zien. Ik wilde de politie doen denken dat ik degene was die op het aangeboden document stond.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Het Hof heeft met betrekking tot de bewezenverklaring voorts het volgende overwogen:</para>
+          <para>“De verdediging heeft zich primair op het standpunt gesteld dat door het gebruik van de Aufenthaltstitel door de verdachte geen nadeel is en kon ontstaan, aangezien geen registratie plaatsvindt van personen die de grens passeren, zodat de verdachte moet worden vrijgesproken.</para>
+          <para>Het hof overweegt als volgt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uit de wetsgeschiedenis van art. 231b van het Wetboek van Strafrecht blijkt dat met het bestanddeel ‘waardoor enig nadeel kan ontstaan’ wordt gedoeld op financieel nadeel, reputatieschade of schade door vervuiling van (overheids)databases.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof merkt op dat niet vereist is dat daadwerkelijk nadeel is ontstaan; de enkele mogelijkheid van nadeel in voornoemde vormen is voldoende.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De verdachte heeft door het gebruik van de identificerende persoonsgegevens van [naam] zijn identiteit verhuld of de identiteit van [naam] misbruikt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof is van oordeel dat het enkele feit dat doorgaans geen registratie van personen die de grens passeren plaatsvindt, nog niet meebrengt dat geen nadeel kan ontstaan door het gebruik van de identiteit van de ander. Het feit dat bij een controle, zoals de onderhavige, persoonsgegevens kunnen worden geregistreerd van een persoon wiens identiteit door een ander is gebruikt, kan immers tot nadeel leiden bestaande in het vervuilen van (overheids)databases.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet hierop is het hof van oordeel dat nadeel kon ontstaan door het gebruik van de identiteit van [naam] door de verdachte.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het verweer wordt bijgevolg verworpen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <para>De tenlastelegging is toegesneden op art. 231b Sr. Daarom moet de in de tenlastelegging en de bewezenverklaring voorkomende term ‘enig nadeel kon ontstaan’ geacht worden aldaar te zijn gebezigd in dezelfde betekenis als toekomt aan de term ‘enig nadeel kan ontstaan’ in dat artikel.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>Artikel 231 Sr luidt:</para>
+          <para>“1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Artikel 225, derde lid, is van overeenkomstige toepassing.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Art. 231a Sr luidt: </para>
+          <para>“1. Hij die biometrische kenmerken of biometrische persoonsgegevens valselijk opmaakt of vervalst met het oogmerk om deze als echt en onvervalst te gebruiken of te doen gebruiken in gevallen waarin die kenmerken of persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, teneinde zijn identiteit te verhelen of de identiteit van een ander te verhelen of misbruiken, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Met dezelfde straf wordt gestraft hij die in gevallen waarin biometrische kenmerken of biometrische persoonsgegevens worden gebruikt voor het vaststellen van iemands identiteit, opzettelijk gebruik maakt van valse of vervalste biometrische kenmerken of biometrische persoonsgegevens als waren deze echt en onvervalst met het oogmerk om zijn identiteit te verhelen of de identiteit van een ander te misbruiken of opzettelijk gebruik maakt van biometrische kenmerken of biometrische persoonsgegevens van een ander met het oogmerk om de verdenking van een strafbaar feit op de ander of niet op hem te doen ontstaan.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Artikel 225, derde lid, is van overeenkomstige toepassing.</para>
+          <para>Art. 231b Sr luidt:</para>
+          <para>“Hij die opzettelijk en wederrechtelijk identificerende persoonsgegevens, niet zijnde biometrische persoonsgegevens, van een ander gebruikt met het oogmerk om zijn identiteit te verhelen of de identiteit van de ander te verhelen of misbruiken, waardoor uit dat gebruik enig nadeel kan ontstaan, wordt gestraft met een gevangenisstraf van ten hoogste vijf jaren of geldboete van de vijfde categorie.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3</nr>
+        <para>Art. 231b Sr is als amendement toegevoegd aan het wetsvoorstel dat heeft geleid tot de wet van 12 maart 2014, Stb. 2014, 125. De wetsgeschiedenis met betrekking tot deze bepaling is weergegeven in de conclusie van de Advocaat-Generaal onder 10 tot en met 14 en houdt in het bijzonder het volgende in.</para>
+        <para />
+        <parablock>
+          <para>- De toelichting op dit amendement luidt:</para>
+          <para>“Met dit amendement wordt het misbruik van identificerende persoonsgegevens van iemand anders strafbaar gesteld. Deze strafbaarstelling vormt een aanvulling op de artikelen 231 en 231a van het Wetboek van Strafrecht. Bij fraude met identificerende persoonsgegevens gaat het om fraude met alle gegevens waarmee een persoon kan worden geïdentificeerd, zoals (combinaties van) naam, adres, telefoonnummer, accounts, handles, nicknames etc. etc.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deze gedraging is thans niet afzonderlijk strafbaar gesteld, terwijl het aantal slachtoffers van fraude met identificerende persoonsgegevens de afgelopen jaren explosief toeneemt. Het hieruit voortkomende nadeel kan vele vormen aannemen, zoals direct financieel nadeel, reputatieschade of schade door het vervuilen van (overheids)databases met valselijk aan een persoon gelinkte informatie. Het moet daarbij wel gaan om gevallen waarbij men derden het idee geeft dat zij daadwerkelijk te maken te hebben met de persoon van wie de identiteit onterecht is aangenomen. Satire en parodie vallen hier dus niet onder.”</para>
+          <para>(Kamerstukken II 2012/13, 33352, 7, p. 2)</para>
+          <para>- De nadere toelichting op dit amendement door het Kamerlid Dijkhoff bij gelegenheid van de mondelinge behandeling in de Tweede Kamer luidt, voor zover hier van belang:</para>
+          <para>“Over het wetsvoorstel zelf dat de minister naar de Kamer heeft gestuurd, heb ik eigenlijk niets te zeggen. Alleen ontbreekt er volgens ons nog een element, namelijk de identiteitsfraude die niet met officiële documenten plaatsvindt. Dat is een groot probleem en het aantal gevallen stijgt nog steeds heel explosief. (...) Onze wetgeving is op veel terreinen nog niet aangepast en op onze moderne tijd ingericht. Vandaar dat ik samen met de collega's Oosenbrug, Oskam en Gesthuizen een amendement heb ingediend om de identiteit van Nederlanders adequaat te kunnen beschermen, ook in moderne, vaak online omgevingen. Ik licht dat amendement graag toe, ook om de reikwijdte nader te verklaren. Het principe dat iemands identiteit tegen misbruik beschermd moet worden, is in onze wet al bekend. In de uitwerking van dat principe is vooral aandacht voor officiële identiteitsbewijzen die door de overheid worden verstrekt. We zien echter dat in het sociale en economische verkeer de identiteit van een persoon steeds minder wordt herkend middels persoonlijk contact of zulke officiële overheidsdocumenten. Steeds vaker wordt identiteit afgeleid uit andere, voor een persoon identificerende gegevens. Dat kunnen accounts zijn, profielen van social media of gegevens die zijn doorgegeven via telefoon, e-mail, app of website. Ook telefoonnummers, nicknames, namen, adressen, accounts of combinaties hiervan kunnen identificerende persoonsgegevens zijn. Dit is niet bedoeld als een limitatieve opsomming, omdat er ongetwijfeld nog innovaties komen waarbij nieuwe vormen van identificatie belangrijk gaan worden. De bedoeling van dit amendement is uitdrukkelijk om de wetgeving toekomstbestendig te maken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het aantal gevallen waarin gefraudeerd wordt met zulke identificerende gegevens van een ander, neemt de afgelopen jaren dus explosief toe. (...) Men kan op relatief eenvoudige wijze ten opzichte van een derde doen alsof men iemand anders is, en deze derde daadwerkelijk doen geloven dat men iemand anders is. Hij denkt dan dat hij te maken heeft met degene van wie de identiteit valselijk is aangenomen. Het aannemen van andermans identiteit en het frauderen met iemands identiteit kan voor de betrokken persoon aanzienlijk nadeel opleveren. Dit nadeel kan ook vele vormen aannemen, zoals direct financieel nadeel, reputatieschade of het opbouwen van een set aan valse gegevens in databases die aan een persoon worden gelinkt. Dit kan uiteindelijk zelfs in het opsporings- en veiligheidsdomein gevaar en nadeel opleveren. Stel je voor: ik koop allerlei zaken, die ik contant afreken, dan licht ik dus niemand op, maar geef ik wel steevast de naam van een andere persoon op. Als ik met die zaken vervolgens een aanslag ga plegen, dan zal de persoon wiens naam is opgegeven, in het begin behoorlijk wat uit te leggen hebben als men er aan de hand van allerlei databases achter komt dat die informatie gelinkt is aan die persoon.”</para>
+          <para>(Handelingen II 2012/13, nr. 104, item 8, p. 1)</para>
+          <para>- De Minister van Justitie en Veiligheid heeft op vragen die zijn gesteld bij gelegenheid van de mondelinge behandeling in de Tweede Kamer onder meer geantwoord:</para>
+          <para>“Fraude met iemands identificerende persoonsgegevens, zoals iemands personalia of een computeraccount, is, zoals de heer Dijkhoff in het kader van zijn amendement aangeeft, op dit moment niet afzonderlijk strafbaar gesteld. De reden daarvan is dat fraude met identificerende persoonsgegevens onderdeel vormt van meer algemene delictsomschrijvingen. Ik noem oplichting (artikel 326, WvSr), flessentrekkerij (artikel 326a, WvSr) en bedreiging (artikel 284, WvSr). Met behulp van die bepalingen kan op dit moment strafrechtelijk tegen deze vorm van identiteitsfraude worden opgetreden. (...) Dit alles heeft ertoe geleid dat ik nog eens ben gaan nadenken. De uitkomst is dat ik wel gevoelig ben voor de afzonderlijke strafbaarstelling van misbruik van identificerende persoonsgegevens, zoals in het amendement wordt voorgesteld. De strafbaarstelling stelt de strafwaardigheid van juist dat misbruik centraal en scherpt het aan.”</para>
+          <para>(Handelingen II 2012/13, nr. 104, item 8, p. 5)</para>
+          <para>- De memorie van antwoord (Eerste Kamer) luidt, voor zover hier van belang:</para>
+          <para>“In artikel 231b Sr wordt het misbruik van identificerende persoonsgegevens van iemand anders strafbaar gesteld. Indien iemand opzettelijk en wederrechtelijk identificerende persoonsgegevens van een ander gebruikt met het oogmerk om zijn identiteit te verhelen of de identiteit van de ander te verhelen of misbruiken, en de ander door dat gebruik nadeel wordt berokkend, kan op grond van dat artikel strafrechtelijk tegen hem worden opgetreden. Een eerste voorbeeld van een situatie die onder het bereik van deze strafbaarstelling valt, is de situatie waarin iemand willens en wetens en zonder toestemming de naam van een ander gebruikt en vervolgens onder de naam van die ander bij een bedrijf materieel huurt zonder dit materieel weer terug te brengen als gevolg waarvan het bedrijf degene wiens naam is misbruikt, aansprakelijk stelt voor de schade die het daardoor heeft opgelopen. Een ander voorbeeld dat onder de reikwijdte van artikel 231b Sr valt, is de situatie waarin iemand op naam van een ander en zonder diens instemming een account aanmaakt, en die ander op dat account in een kwaad daglicht stelt waardoor die ander reputatieschade lijdt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>In de tekst van het amendement waarbij het voorstel is gedaan artikel 231b in het Wetboek van Strafrecht te voegen, wordt gesproken over «enig nadeel». Dit veronderstelt dat sprake kan zijn van eventuele (financiële) schade.”</para>
+          <para>(Kamerstukken I 2013/14, 33352, C, p. 4-5)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Art. 231b Sr bepaalt, kort gezegd, dat het opzettelijk misbruik van identificerende persoonsgegevens van een ander strafbaar is indien uit dat misbruik “enig nadeel kan ontstaan”. Uit de hiervoor weergegeven wetsgeschiedenis komt naar voren dat “het nadeel vele vormen [kan] aannemen, zoals direct financieel nadeel, reputatieschade of schade door het vervuilen van (overheids)databases met valselijk aan een persoon gelinkte informatie”. Daarbij moet het wel steeds gaan om gevallen waarbij men derden het idee geeft dat zij “daadwerkelijk te maken hebben met de persoon van wie de identiteit onterecht is aangenomen”. Ook overigens blijkt uit die wetsgeschiedenis dat deze bepaling slechts ertoe strekt (potentiële) slachtoffers van het misbruik van hun persoonsgegevens te beschermen tegen de nadelige gevolgen die dit misbruik voor hen kan hebben. Mede in aanmerking genomen de omstandigheid dat art. 231b Sr is bedoeld als een aanvulling op de artikelen 231 en 231a Sr, waarin het bestanddeel ‘enig nadeel’ niet is genoemd, moet worden aangenomen dat het vereiste dat ‘enig nadeel’ van het gebruik van identificerende persoonsgegevens in de zin van art. 231b Sr uitsluitend betrekking heeft op het mogelijke nadeel voor de in art. 231b Sr bedoelde ‘ander’ wiens persoonsgegevens door de verdachte zijn misbruikt.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>Het Hof heeft geoordeeld dat uit het in de bewezenverklaring genoemde gebruik van identificerende persoonsgegevens van [naam] door de verdachte, “enig nadeel [kon] ontstaan” in de zin van art. 231b Sr. Dat oordeel is niet toereikend gemotiveerd, in aanmerking genomen dat uit de bewijsvoering niet zonder meer kan worden afgeleid dat voor die [naam] enig nadeel kon ontstaan.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.3</nr>
+        <para>Het middel is terecht voorgesteld.</para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de bestreden uitspraak;</para>
+      <para>- wijst de zaak terug naar het Gerechtshof ‘s-Hertogenbosch, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren Y. Buruma en V. van den Brink, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">26 november 2019</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
