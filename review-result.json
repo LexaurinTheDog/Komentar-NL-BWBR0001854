@@ -4,215 +4,215 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a181",
-    "a182",
-    "a183",
-    "a184",
-    "a184a",
-    "a185",
-    "a185a",
-    "a186",
-    "a187",
-    "a188",
-    "a189",
-    "a189a",
-    "a190",
-    "a191",
-    "a192",
-    "a192a",
-    "a192b",
-    "a192c",
-    "a192d",
-    "a193"
+    "a194",
+    "a195",
+    "a196",
+    "a197",
+    "a197a",
+    "a197b",
+    "a197c",
+    "a197d",
+    "a198",
+    "a199",
+    "a200",
+    "a201",
+    "a202",
+    "a203",
+    "a204",
+    "a205",
+    "a206",
+    "a207",
+    "a207a",
+    "a207b"
   ],
   "unresolved_blockers": [],
-  "verified_at": "2026-10-20T22:32:23.525217+00:00",
-  "source_preflight": "sources/review-batch22-version-evidence.json",
+  "verified_at": "2026-10-20T22:42:22.727382+00:00",
+  "source_preflight": "sources/review-batch23-version-evidence.json",
   "findings": [
     {
-      "id": "a181",
+      "id": "a194",
       "reviewed": true,
-      "finding": "Drie gevolgvarianten, causaliteit, maxima en artikel82 gecontroleerd.",
+      "finding": "Drie informatieplichtige persoonsgroepen, drie gedragsvarianten, sanctie en beperking beroepsontzetting tot lid1 gecontroleerd. Zelfincriminatievoorbehoud begrensd; geen ongelezen arrest opgevoerd.",
       "changed": false,
-      "source_text_sha256": "080621d175f04eace842210e4dc5abffa0607b08022028bd89b2c26d4c9b21db",
-      "commentary_before_sha256": "aaf916e8062fc57548ebb6748db01c93ab634c9448d93da539d9d8ab103efd14",
-      "commentary_after_sha256": "aaf916e8062fc57548ebb6748db01c93ab634c9448d93da539d9d8ab103efd14"
+      "source_text_sha256": "71f2d68366db6b9d932b0af05c0b34f47a97e30eeb470fc73494b6722e05a4fc",
+      "commentary_before_sha256": "6ead52ef363f19062a6085e443d9b55c64ced56c1b0bd472fdf13ea0469cf9b4",
+      "commentary_after_sha256": "6ead52ef363f19062a6085e443d9b55c64ced56c1b0bd472fdf13ea0469cf9b4"
     },
     {
-      "id": "a182",
+      "id": "a195",
       "reviewed": true,
-      "finding": "Verenigde krachten, individuele gevolgformulering en drie straftrappen gecontroleerd.",
+      "finding": "Rechterlijke ontzetting, wetenschap, uitoefening en gelding op feitstijdstip gecontroleerd; verwijzingen28 en31 rechtstreeks nagelezen.",
       "changed": false,
-      "source_text_sha256": "1946b8e0e4485be093e84de6ee0e0df16e31692152745fddb612ada9fbba96ba",
-      "commentary_before_sha256": "62511ed3161b0536d6b01050f17a69ed1d8a6b2d2714730e08beeb243a46306a",
-      "commentary_after_sha256": "62511ed3161b0536d6b01050f17a69ed1d8a6b2d2714730e08beeb243a46306a"
+      "source_text_sha256": "32598af8d3556e3d8c616958758f98e67fdfff8df353b93bdc27365f61f732b6",
+      "commentary_before_sha256": "9e1b8a749d9ffe03873b6f35591328be847fd082d6d620f190f93e33859e0034",
+      "commentary_after_sha256": "9e1b8a749d9ffe03873b6f35591328be847fd082d6d620f190f93e33859e0034"
     },
     {
-      "id": "a183",
+      "id": "a196",
       "reviewed": true,
-      "finding": "Strafvorderlijke hoedanigheid en aangewezen installatie gecontroleerd.",
+      "finding": "Onderscheidingstekens versus ambtsdaad, niet bekleden versus schorsing, opzet en sanctie gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "cb72f35bd840f251a8ec53ec77db7465c29c20490f0d9e30b236461d303d7df7",
-      "commentary_before_sha256": "57f38be3c4d73c29d316f09599fe97b84f317ddecc5e75c866b920af2ad729d5",
-      "commentary_after_sha256": "57f38be3c4d73c29d316f09599fe97b84f317ddecc5e75c866b920af2ad729d5"
+      "source_text_sha256": "f35adf74a9953e67fee4e9f5e6d690093c3ad6d3957d4930fcaa452d2f814606",
+      "commentary_before_sha256": "0d0d8cf0bb8a2ba61351a423eba696629d00ffcde5ee6b3d9399ae58361c3ac2",
+      "commentary_after_sha256": "0d0d8cf0bb8a2ba61351a423eba696629d00ffcde5ee6b3d9399ae58361c3ac2"
     },
     {
-      "id": "a184",
+      "id": "a197",
       "reviewed": true,
-      "finding": "Twee varianten, beperkte uitbreiding lid2, recidive en HR2012 volledig gelezen; lid3 preciezer geformuleerd als gelijkstelling van vorderingen/handelingen.",
+      "finding": "Beide besluiten, artikel66alid7, wetenschap/vermoeden en strafmaximum gecontroleerd; HR2020 volledig herlezen. Terugkeerstappen onderscheiden van voorafgaand vertrek en ontbrekend bewezen bestanddeel.",
+      "changed": false,
+      "source_text_sha256": "5d44d48abf08385c71eda50b933cd2b8bbde2a153970280b5b3dc03b96799d03",
+      "commentary_before_sha256": "0c842088c4002a2b0ea5d84c9fc50a2feabe901dcd2b4b21ec5711b57c9b7931",
+      "commentary_after_sha256": "0c842088c4002a2b0ea5d84c9fc50a2feabe901dcd2b4b21ec5711b57c9b7931"
+    },
+    {
+      "id": "a197a",
+      "reviewed": true,
+      "finding": "Alle negen leden gecontroleerd: toegang/doorreis versus winstgerichte verblijfshulp, landenkring, zes straftrappen, terroristisch oogmerk, BES en bijkomende rechten. HR2013oud beperkt tot ontbreken uitbuitingsvereiste.",
+      "changed": false,
+      "source_text_sha256": "47b99383cb22cae1b0c804407e65cf4c7eaf9bf688d17e34ea67df107f364754",
+      "commentary_before_sha256": "d6ff751220e4a33f488c31fd9cd9684dedcb34f7c3c94d296f5f9a852f078f2c",
+      "commentary_after_sha256": "d6ff751220e4a33f488c31fd9cd9684dedcb34f7c3c94d296f5f9a852f078f2c"
+    },
+    {
+      "id": "a197b",
+      "reviewed": true,
+      "finding": "Arbeid krachtens overeenkomst/aanstelling, wederrechtelijke toegang/verblijf, kennis/vermoeden en ontbreken winstbejagvereiste gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "85f5b07e9a6eb99dd4c27b1034f7f1eafdf00322360777e2f6b4de650d74177e",
+      "commentary_before_sha256": "b0ceb7fb69ab301c8894a7aa91edb1b0664440c9995e0fea165ed4593c7b132f",
+      "commentary_after_sha256": "b0ceb7fb69ab301c8894a7aa91edb1b0664440c9995e0fea165ed4593c7b132f"
+    },
+    {
+      "id": "a197c",
+      "reviewed": true,
+      "finding": "Beroep/gewoonte als bestendig plegen van197b gecontroleerd; vierjaarmaximum en vijfde boetecategorie behouden.",
+      "changed": false,
+      "source_text_sha256": "3e14e0dfb55795c2d81dc61cc48982e44321cf63ddc2013c475c7f1f58a2ff87",
+      "commentary_before_sha256": "2f873b4d6af613d5ecaa8f0848259c24df6b73735bc2a6424356b73cc07287f6",
+      "commentary_after_sha256": "2f873b4d6af613d5ecaa8f0848259c24df6b73735bc2a6424356b73cc07287f6"
+    },
+    {
+      "id": "a197d",
+      "reviewed": true,
+      "finding": "Facultatieve beroeps/ambtsontzetting en openbaarmaking, beide gronddelicten en verschil met beroepsmatig delict gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "0f9c0fd4b2b347592eb855a2c2900a461a8071e51170dde1de165ed74de7e1d6",
+      "commentary_before_sha256": "1787f14ce49b74f922080346d8fd507d1a20ae9c9914de7b2eaa4110aca01c3d",
+      "commentary_after_sha256": "1787f14ce49b74f922080346d8fd507d1a20ae9c9914de7b2eaa4110aca01c3d"
+    },
+    {
+      "id": "a198",
+      "reviewed": true,
+      "finding": "Alle drie leden en sanctie gecontroleerd; HR2019volledig herlezen. Feitenweergave gecorrigeerd: overname van huur van pand, geen overdracht van pand; toegangsweigering toegevoegd.",
       "changed": true,
-      "source_text_sha256": "88a07e6763f96c4cff33bbb879ec1af4d4f2022d19a17c8676a10b6530ed5b7f",
-      "commentary_before_sha256": "7afe514cbce8caedf36e6544e8d1fe77eb3d01ef38ac82d52031464416b73f44",
-      "commentary_after_sha256": "9d048fbbe70bc199e25f54d86ec107b3432aea5f27112394c470a17125be33ce"
+      "source_text_sha256": "14b427cc8a8fe70dd3db0247ab94c969ce3eba5b835dbb1e7bc9162dec26ae3a",
+      "commentary_before_sha256": "d0db889d11cd7384a21705cf331fd017b64d8e60d11f9f832c6d6c3778210244",
+      "commentary_after_sha256": "d0c283db118e45272def773c8014505d37f66d24224b816a3ee083625f322ab1"
     },
     {
-      "id": "a184a",
+      "id": "a199",
       "reviewed": true,
-      "finding": "Beide aangewezen maatregelen, opzet en maxima gecontroleerd.",
+      "finding": "Zegel en afsluiting, bevoegd gezag, opzet, bewaardersvariant en afzonderlijke onachtzaamheid met hechtenis gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "69d429afb9ba98acc6b108b89794479a7c651347883fc5765671e95c34fdcdf3",
-      "commentary_before_sha256": "623bb27e9718e6a5017d2d514f4343f9cc04aa3db037d99531ed2ea10922d9ae",
-      "commentary_after_sha256": "623bb27e9718e6a5017d2d514f4343f9cc04aa3db037d99531ed2ea10922d9ae"
+      "source_text_sha256": "274e3218e14c4ecced2bb77f6de8bf891da99f060dbbe6bcd9a576f2de4c73b0",
+      "commentary_before_sha256": "b5c44a925f257dd1f300355be3e736ef729ce680aa8249f498e5bafb8edf3c94",
+      "commentary_after_sha256": "b5c44a925f257dd1f300355be3e736ef729ce680aa8249f498e5bafb8edf3c94"
     },
     {
-      "id": "a185",
+      "id": "a200",
       "reviewed": true,
-      "finding": "Opschudding plus niet vertrekken, bevoegd bevel en rechtmatige bediening gecontroleerd.",
+      "finding": "Bewijszaken en publieke documenten, vier handelingen, verdragsgerecht en maximum gecontroleerd; geen universele bewijsbestemming verondersteld.",
       "changed": false,
-      "source_text_sha256": "95deb7db30eb0936bdf5e5aeab5ec103997ebeefe942840d75cdfffa20a9ba24",
-      "commentary_before_sha256": "4ed460a306e3d04d7033da81cc214ce97dd16c1c474145d0fa81adc3367206ba",
-      "commentary_after_sha256": "4ed460a306e3d04d7033da81cc214ce97dd16c1c474145d0fa81adc3367206ba"
+      "source_text_sha256": "d5474c02eefc9622e2554a17e6ac1bca4e77fe9f223e4d133ac5bf0d7b6da679",
+      "commentary_before_sha256": "7d528f92cbb332c8a88d3636b647cb518310ea3d1d74abab4723b45adae66ec5",
+      "commentary_after_sha256": "7d528f92cbb332c8a88d3636b647cb518310ea3d1d74abab4723b45adae66ec5"
     },
     {
-      "id": "a185a",
+      "id": "a201",
       "reviewed": true,
-      "finding": "Limitatieve artikelenlijst en toegelaten buitenlandse dienstuitoefening gecontroleerd.",
+      "finding": "Brieven/stukken en concrete postfase, drie handelingen, opzet, maximum en grens met elektronische berichten gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "95d310519caf505d0ab712b6bab2892d572537652a4fd094b6d99ea0bf6ab57d",
-      "commentary_before_sha256": "00b7330d9933d8ccc7bf708c1941522e7286219f57349ff88fab1fcd7b0dd148",
-      "commentary_after_sha256": "00b7330d9933d8ccc7bf708c1941522e7286219f57349ff88fab1fcd7b0dd148"
+      "source_text_sha256": "c4a473bffc5c7ef6371a8c51243f15c93a6458fcfd6aae271ef35b096cb4f3f0",
+      "commentary_before_sha256": "53190db2100bdcc3f72d80fb23735aba554cef26d9e0b072bde27deb431ce8e5",
+      "commentary_after_sha256": "53190db2100bdcc3f72d80fb23735aba554cef26d9e0b072bde27deb431ce8e5"
     },
     {
-      "id": "a186",
+      "id": "a202",
       "reviewed": true,
-      "finding": "Derde bevel, onmiddellijk vertrek, volksoploop en opzet gecontroleerd.",
+      "finding": "Limitatieve198–201, beide toegangs/bereikvarianten, alle middelen en facultatief jaar extra gecontroleerd; begrippen89/90 nagelezen.",
       "changed": false,
-      "source_text_sha256": "bbfe4c3447b209e919a1433841b994acefaa0c99d73ced510301777adcbde616",
-      "commentary_before_sha256": "79d4e532f4c9fef8d6fcbaf88479319bf0c7e9cda77ff22aa9cad886e59eb3b5",
-      "commentary_after_sha256": "79d4e532f4c9fef8d6fcbaf88479319bf0c7e9cda77ff22aa9cad886e59eb3b5"
+      "source_text_sha256": "7fcbe5bdb0ca6df529bdfa3ce5a10476ac2bea1ac4a2afb67940360bca377a56",
+      "commentary_before_sha256": "b1799b50f70376fdcb4ca712c416adcd077a1b500658bc3af9cb0b2f7b41cd58",
+      "commentary_after_sha256": "b1799b50f70376fdcb4ca712c416adcd077a1b500658bc3af9cb0b2f7b41cd58"
     },
     {
-      "id": "a187",
+      "id": "a203",
       "reviewed": true,
-      "finding": "Openbare bekendmaking, wederrechtelijkheid en kennisnemingsoogmerk gecontroleerd.",
+      "finding": "Vredestijd, krijgsman Rijksdienst, desertie, uitlokkingsmiddelen47 en hulpwijzen48 nagelezen; zesmaandenmaximum gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "cf2a5d00ca38f13d95210d608119018b39424308e1a88e03ab7b6d373006ff64",
-      "commentary_before_sha256": "ed8b65ab3260489d9d652f0d4b33ba299f879bf4b4a0269bc73af32dd6a672d8",
-      "commentary_after_sha256": "ed8b65ab3260489d9d652f0d4b33ba299f879bf4b4a0269bc73af32dd6a672d8"
+      "source_text_sha256": "9367f864e9d51320d8829f64a30abdb06c999fb7dc7221924f1cb05c74a98463",
+      "commentary_before_sha256": "b54c614e33f283ad249b2bd85d6552fe8f5adbc12c1d84d02661687ceaa5be41",
+      "commentary_after_sha256": "b54c614e33f283ad249b2bd85d6552fe8f5adbc12c1d84d02661687ceaa5be41"
     },
     {
-      "id": "a188",
+      "id": "a204",
       "reviewed": true,
-      "finding": "Wetenschap van niet gepleegd feit onderscheiden van onvoldoende bewijs en vergissing.",
+      "finding": "Vredestijd, oproer/muiterij, Rijksdienst en verwijzingen47/48 gecontroleerd; zesjaarmaximum onderscheiden van203.",
       "changed": false,
-      "source_text_sha256": "711a2a9590ec09a70d31aa2776c3388788789aca6067a92f1f89ba3b8ccb200d",
-      "commentary_before_sha256": "fe054b3be4c08250d2762586fcbf52afbb359068029365bb8fc8348e3880444e",
-      "commentary_after_sha256": "fe054b3be4c08250d2762586fcbf52afbb359068029365bb8fc8348e3880444e"
+      "source_text_sha256": "cd3ea28191cb51dd070e3cddcd51193e374ed09f65d0d8ffcd2270060f8fc8e7",
+      "commentary_before_sha256": "c72e7e81b5a070320d81c8721c6f8b23d3c1a2d6a567698b77fdc70a35bd938c",
+      "commentary_after_sha256": "c72e7e81b5a070320d81c8721c6f8b23d3c1a2d6a567698b77fdc70a35bd938c"
     },
     {
-      "id": "a189",
+      "id": "a205",
       "reviewed": true,
-      "finding": "Drie vormen, terrorisme, uitzondering en internationale kring gecontroleerd; familiegraden expliciet toegevoegd. HR2021 volledig herlezen; terugwijzing onderscheiden van definitief geslaagde uitsluiting.",
+      "finding": "Alle drie leden en beide wervingsalternatieven gecontroleerd; HR2011en2018 volledig herlezen. Verduidelijkt dat rechtstreekse inzet ook concrete rechtstreeks strijdgerichte diensten kan omvatten; geen beperking tot eigen gevechten.",
       "changed": true,
-      "source_text_sha256": "8c71e18298f1852dd5f81a0005f11b23e506725cfadc3fda3c1194a7be551148",
-      "commentary_before_sha256": "34cdbacac19a873aaa68e9bf4a8e6f26a2317e815b07cc4fc0fa388a4c74ce4c",
-      "commentary_after_sha256": "2cef9c8536d1955096420822d99a06211d74fa32ee3dbce86474ee01aa872a57"
+      "source_text_sha256": "a60e8c8c2176cf46ec259adb8288594e031f995b8da4f6b6eb9b16ef86dcbe6a",
+      "commentary_before_sha256": "9b3991adaa41863cf36f777fe36501569edd4ae2382111ee8278ada9d8a7e279",
+      "commentary_after_sha256": "f62719c0c75169f08011c3245aa7f0ffc2fa0e99ce0f34a3934764825df8ada8"
     },
     {
-      "id": "a189a",
+      "id": "a206",
       "reviewed": true,
-      "finding": "Inrichten versus wetend voorhanden hebben, beroep/gewoonte uitsluitend lid1 en ingangsdatum gecontroleerd.",
+      "finding": "Beide subonderdelen, burgerdienstplicht, verzoek, opzet, ongeschiktheid en doodsgevolg uitsluitend laatste geval gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "7d06255e423a935036a6b917a012c945e0b1e3eb483876360200092cd10289b6",
-      "commentary_before_sha256": "5ee2649178984402e16755658858953f359b80fc01a47f583341b9f0f77da79b",
-      "commentary_after_sha256": "5ee2649178984402e16755658858953f359b80fc01a47f583341b9f0f77da79b"
+      "source_text_sha256": "21b97451c0aee1e70a0684b21a457c020d5b0c17e7573eeb90bc86d1a14ebacb",
+      "commentary_before_sha256": "f0d060a602935edc7c8980132bfc2dcdff52324856e6c4e921b00f374dcfb19e",
+      "commentary_after_sha256": "f0d060a602935edc7c8980132bfc2dcdff52324856e6c4e921b00f374dcfb19e"
     },
     {
-      "id": "a190",
+      "id": "a207",
       "reviewed": true,
-      "finding": "Gerechtelijke lijkschouwing, drie gedragingen en opzet gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "6a5d459d8560211786ab0d1d836ec80f8de52cfb3688805f6ceb261aa5ca7397",
-      "commentary_before_sha256": "1e3ad95c65f405fd47f80ef86b28d6b595fe99413f9dbef366c0dff131a71dde",
-      "commentary_after_sha256": "1e3ad95c65f405fd47f80ef86b28d6b595fe99413f9dbef366c0dff131a71dde"
+      "finding": "Vier leden, eedgrond, schriftelijk/mondeling, vertegenwoordiging, vervangende belofte, opzet en nadeelcriterium gecontroleerd. HR2019herlezen; toegelaten ontzettingsrechten28lid1onder1/2/4 expliciet uitgeschreven.",
+      "changed": true,
+      "source_text_sha256": "1a41e0a60bfedc59955ec582fc37940883b71f9bd60ac86f078adede0956d8ac",
+      "commentary_before_sha256": "ec8094d19e00247b5890bbb5c998a613e14e5a41a4f2b90ad3e3b187d56f767e",
+      "commentary_after_sha256": "ba3b501e923716a5e570626e5f32c0ef98cf3123e060835a025514467e0a2459"
     },
     {
-      "id": "a191",
+      "id": "a207a",
       "reviewed": true,
-      "finding": "Vrijheidsbeneming op genoemde titels, bevrijding versus zelfbevrijdingshulp gecontroleerd.",
+      "finding": "Verdrag Koninkrijk, internationaal gerecht, verklaringsvorm, opzet en vierde boetecategorie gecontroleerd; verwijzing207leden2/4 niet uitgebreid.",
       "changed": false,
-      "source_text_sha256": "350a3ab2659b837d71077de16a94213c98853eee76a519f3b748ad2cf99cd2b5",
-      "commentary_before_sha256": "02adf96e892ddcddf825388138b148be56c4e1cc67552b756c692205a2147766",
-      "commentary_after_sha256": "02adf96e892ddcddf825388138b148be56c4e1cc67552b756c692205a2147766"
+      "source_text_sha256": "432a85863814eec2130019ba90f780283e3efef1be34b9d7c4d7b5bee61556c1",
+      "commentary_before_sha256": "b8b20925d71ffa0cfa80a3ed59883e278a0ff9b4afee66011d0d9b086fdfbdf3",
+      "commentary_after_sha256": "b8b20925d71ffa0cfa80a3ed59883e278a0ff9b4afee66011d0d9b086fdfbdf3"
     },
     {
-      "id": "a192",
+      "id": "a207b",
       "reviewed": true,
-      "finding": "Alle leden en afwijkende sancties gecontroleerd; opvallende officiële verwijzing vorige lid niet gecorrigeerd of als algemene strafplicht uitgelegd.",
+      "finding": "Nederlandse locatie, videoconferentie, mondeling persoonlijk, verdragsgrond, sanctie, verwijzing207 en klacht bevoegde autoriteit gecontroleerd; uitzondering66 niet als vervallen klacht gelezen.",
       "changed": false,
-      "source_text_sha256": "018e806bf65ccd23b8ba1d017f0f6bff0fa15bb65c8beee7c4e0d62249c0fb1f",
-      "commentary_before_sha256": "2e6454333db0eb700e54a42756cbf6d1f748df22872fee7ce23b271c4808b81a",
-      "commentary_after_sha256": "2e6454333db0eb700e54a42756cbf6d1f748df22872fee7ce23b271c4808b81a"
-    },
-    {
-      "id": "a192a",
-      "reviewed": true,
-      "finding": "Documenttoegang, drie kennisnemingsvormen en sanctie gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "7631ad596a2045dfb48d63adc9989a4094f8db8a1f1549d683284a8cf2fdbb77",
-      "commentary_before_sha256": "b84df0213666ee03bd910bec18979f4150a0b1a125a7f0def237f4abcf17d5a9",
-      "commentary_after_sha256": "b84df0213666ee03bd910bec18979f4150a0b1a125a7f0def237f4abcf17d5a9"
-    },
-    {
-      "id": "a192b",
-      "reviewed": true,
-      "finding": "Schriftelijke inlichtingen, opzettelijk niet voldoen en lagere straf gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "65981ee67d321b6ebb2fb82dcce25119a0451bdcee25f5661654a71bb2ca5321",
-      "commentary_before_sha256": "2a05d7a38663560a0ec305e0e5e8465e1bf4f9e0fd10da4bc7080f008c741989",
-      "commentary_after_sha256": "2a05d7a38663560a0ec305e0e5e8465e1bf4f9e0fd10da4bc7080f008c741989"
-    },
-    {
-      "id": "a192c",
-      "reviewed": true,
-      "finding": "Commissie en aangewezen personen, plaatsbetreding en opzet gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "efecd22612f028f307c43082dad6aee5ea97609b86c4a4d3315219e6ad5b435b",
-      "commentary_before_sha256": "f776975c7957476235b8f1dccc7ddce061dbe5a0c46348e532522f7a3d47e5ae",
-      "commentary_after_sha256": "f776975c7957476235b8f1dccc7ddce061dbe5a0c46348e532522f7a3d47e5ae"
-    },
-    {
-      "id": "a192d",
-      "reviewed": true,
-      "finding": "Persoonskring, gehele verwijzingsreeks en niet-vervolging onderscheiden van rechtmatigheid.",
-      "changed": false,
-      "source_text_sha256": "d372fda37a08d872b28b735b794ba0f661c97b33955dd51724d3c69d1f0a0eec",
-      "commentary_before_sha256": "33386102a7fa6a925d2e045532eb82345a1db3306ec40f0e76c30c5e90b623ce",
-      "commentary_after_sha256": "33386102a7fa6a925d2e045532eb82345a1db3306ec40f0e76c30c5e90b623ce"
-    },
-    {
-      "id": "a193",
-      "reviewed": true,
-      "finding": "Twee documentcategorieën, wettig bevel, opzet en verschillende strafmaxima gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "7d107d1f776a4bb1596408137bbc518d019b75632bf91d3a0a38d87dd4b7be74",
-      "commentary_before_sha256": "5cbc211d0e4f5d8743e84d918a367f97f19e07c5b71db1714fd5603cb4218015",
-      "commentary_after_sha256": "5cbc211d0e4f5d8743e84d918a367f97f19e07c5b71db1714fd5603cb4218015"
+      "source_text_sha256": "e7f6eb3927856ac1ecfb84eab715693f14428067bd7a697bbcf5dda8147c9f06",
+      "commentary_before_sha256": "a5c00605e6843afddf5b0f57bc393b97e010dde484bfc06034198c6654547f48",
+      "commentary_after_sha256": "a5c00605e6843afddf5b0f57bc393b97e010dde484bfc06034198c6654547f48"
     }
   ],
   "limitations": [
     "Exactly twenty assigned units reviewed; whole manuscript remains incomplete.",
-    "Two retained full primary judgments reread; selective prior national-corpus research checked, no exhaustive subsequent-case search.",
+    "Six retained full primary judgments reread; prior selective national-corpus research checked. No exhaustive later-case search or separate full European-law survey.",
     "No external professional approval."
   ],
   "other_commentary_files_unchanged": true,
@@ -220,9 +220,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 685781,
+    "commentary_chars": 724848,
     "errors": [
-      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']"
+      "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false

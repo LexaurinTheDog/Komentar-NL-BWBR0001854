@@ -1,0 +1,66 @@
+{
+  "reviewed_at": "2026-10-20T22:42:22.727382+00:00",
+  "checks": [
+    {
+      "unit": "a197",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2020-1893.xml",
+      "sha256": "e0e8c9efd18007b656209b9e9ce34891e10bdcc5cb44e03ac2fa85b353d7c171",
+      "full_text_reviewed": true,
+      "paragraphs": "1.2; 3.3–3.6.3; 4",
+      "card": "authorities/author-a194-a207b-HR-2020-1893.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a197a",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2013-946.xml",
+      "sha256": "24e74891e0f8d9b2155389340362c8b0d69cdbab5b7a7fbb27dfb7a332f55277",
+      "full_text_reviewed": true,
+      "paragraphs": "3; 4.2–4.4; beslissing",
+      "card": "authorities/author-a194-a207b-HR-2013-946.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a198",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-593.xml",
+      "sha256": "bd86c7ac253b3bb13077ff3cbba1b61deabfe6a4f1d4f53d2c8e534d58c45331",
+      "full_text_reviewed": true,
+      "paragraphs": "2.2; 3.3; 4.2–4.3.2; 7",
+      "card": "authorities/author-a194-a207b-HR-2019-593.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a205",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2011-BP7585.xml",
+      "sha256": "0cb5231514579d4f3302d6cec76e0abbef1de838b4e5db31b8a9099402455771",
+      "full_text_reviewed": true,
+      "paragraphs": "2.2–2.4; 6",
+      "card": "authorities/author-a194-a207b-HR-2011-BP7585.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a205",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2018-897.xml",
+      "sha256": "11810ccb73a9417603f1f5e84e440af6085e0fee1ef44bf23388b6104a8edf3c",
+      "full_text_reviewed": true,
+      "paragraphs": "3.2–3.4.3; 4",
+      "card": "authorities/author-a194-a207b-HR-2018-897.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a207",
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-609.xml",
+      "sha256": "ac66124eae5c087289d2536298513562c93f12217c3ada4fefe22b0d5be1edec",
+      "full_text_reviewed": true,
+      "paragraphs": "2.2–2.6; 4",
+      "card": "authorities/author-a194-a207b-HR-2019-609.md",
+      "limits": "Eigen cassatieoordeel onderscheiden van partijstellingen en geciteerde hofmotivering; historische sancties niet als huidige sancties gebruikt. Geen uitputtend onderzoek naar latere rechtspraak."
+    }
+  ],
+  "search_log": "authorities/author-a194-a207b-search-log.json",
+  "local_corpus_evidence": "authorities/author-a194-a207b-local-corpus.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "method": "Six retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed."
+}
