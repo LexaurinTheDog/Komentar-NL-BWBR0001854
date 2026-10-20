@@ -1,0 +1,224 @@
+{
+  "scope": [
+    "a62",
+    "a63",
+    "a64",
+    "a65",
+    "a66",
+    "a67",
+    "a68",
+    "a69",
+    "a70",
+    "a71",
+    "a72",
+    "a73",
+    "a74",
+    "a74a",
+    "a74b",
+    "a74c",
+    "a75",
+    "a76",
+    "a76a",
+    "a77"
+  ],
+  "old_version": "2026-01-01_0",
+  "old_source": "sources/review-batch09-historical.xml",
+  "old_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+  "old_manifest_sha512_matches": true,
+  "current_version": "2026-07-01_0",
+  "current_source": "sources/review-batch09-effective.xml",
+  "current_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "changes": [
+    {
+      "id": "a62",
+      "changed": false,
+      "old_text": "1 Bij samenloop op de wijze in de artikelen 57 en 58 bedoeld, hetzij van overtredingen met misdrijven, hetzij van overtredingen onderling, wordt voor elke overtreding zonder vermindering straf opgelegd.\n\n2 De vervangende vrijheidsstraffen mogen voor de misdrijven en overtredingen of voor de overtredingen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet overschrijden.",
+      "current_text": "1 Bij samenloop op de wijze in de artikelen 57 en 58 bedoeld, hetzij van overtredingen met misdrijven, hetzij van overtredingen onderling, wordt voor elke overtreding zonder vermindering straf opgelegd.\n\n2 De vervangende vrijheidsstraffen mogen voor de misdrijven en overtredingen of voor de overtredingen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet overschrijden.",
+      "old_text_sha256": "7ed17bebb9f6724ae2f8150c47c7ac591008f9b0ecf81009dba842efa28356b0",
+      "current_text_sha256": "7ed17bebb9f6724ae2f8150c47c7ac591008f9b0ecf81009dba842efa28356b0",
+      "diff": []
+    },
+    {
+      "id": "a63",
+      "changed": true,
+      "old_text": "Indien iemand, nadat hem een straf is opgelegd, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.",
+      "current_text": "1 Indien iemand, nadat hij onherroepelijk tot straf is veroordeeld, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.\n\n2 In het geval meer veroordelingen zijn uitgesproken, wordt enkel in aanmerking genomen de veroordeling waarbij de hoogste straf is opgelegd.\n\n3 In het geval het strafbare feit waaraan iemand schuldig wordt verklaard een misdrijf betreft waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaar of meer is gesteld, kan de rechter gemotiveerd beslissen om een op het eerste lid aanvullende gevangenisstraf op te leggen van niet meer dan een derde van het op dat feit gestelde maximum, indien sprake is van een gegeven dat tijdens het opsporingsonderzoek of gedurende de fase van vervolging aan de officier van justitie of de rechter niet bekend was en dat op zichzelf of in verband met feiten of omstandigheden het ernstige vermoeden had doen ontstaan dat, indien het gegeven bekend zou zijn geweest, het onderzoek van de zaak zou hebben geleid tot het opleggen van vrijheidsstraf.",
+      "old_text_sha256": "721e33c4fa08df3cdd952579f6421af099fd467540e0a411c21f465217dd6afe",
+      "current_text_sha256": "3495bcf7b8d40799c4ff561a5f10b6e1a43d07690510946e9928aa641a3c3252",
+      "diff": [
+        "--- 2026-01-01_0",
+        "+++ 2026-07-01_0",
+        "@@ -1 +1,5 @@",
+        "-Indien iemand, nadat hem een straf is opgelegd, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.",
+        "+1 Indien iemand, nadat hij onherroepelijk tot straf is veroordeeld, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.",
+        "+",
+        "+2 In het geval meer veroordelingen zijn uitgesproken, wordt enkel in aanmerking genomen de veroordeling waarbij de hoogste straf is opgelegd.",
+        "+",
+        "+3 In het geval het strafbare feit waaraan iemand schuldig wordt verklaard een misdrijf betreft waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaar of meer is gesteld, kan de rechter gemotiveerd beslissen om een op het eerste lid aanvullende gevangenisstraf op te leggen van niet meer dan een derde van het op dat feit gestelde maximum, indien sprake is van een gegeven dat tijdens het opsporingsonderzoek of gedurende de fase van vervolging aan de officier van justitie of de rechter niet bekend was en dat op zichzelf of in verband met feiten of omstandigheden het ernstige vermoeden had doen ontstaan dat, indien het gegeven bekend zou zijn geweest, het onderzoek van de zaak zou hebben geleid tot het opleggen van vrijheidsstraf."
+      ]
+    },
+    {
+      "id": "a64",
+      "changed": false,
+      "old_text": "Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het feit is begaan, tot de klacht gerechtigd.",
+      "current_text": "Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het feit is begaan, tot de klacht gerechtigd.",
+      "old_text_sha256": "b1d0463d9ff462bb26dedc37543d560b21deb5b289717b6b53295d87afccdaac",
+      "current_text_sha256": "b1d0463d9ff462bb26dedc37543d560b21deb5b289717b6b53295d87afccdaac",
+      "diff": []
+    },
+    {
+      "id": "a65",
+      "changed": false,
+      "old_text": "1 Indien de in artikel 64 aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, geschiedt de klacht door zijn wettige vertegenwoordiger in burgerlijke zaken.\n\n2 Indien de in artikel 64 aangewezen persoon overleden is, zijn tot de klacht gerechtigd: zijn ouders, zijn kinderen en zijn overlevende echtgenoot, tenzij blijkt dat hij een vervolging niet heeft gewild.\n\n3 Indien de klacht tegen de wettige vertegenwoordiger in burgerlijke zaken van de in artikel 64 aangewezen persoon moet geschieden, zijn tot de klacht gerechtigd: de echtgenoot, een bloedverwant in de rechte linie of, bij het ontbreken van al die personen, een broer en een zuster.\n\n4 Indien een in het tweede of derde lid aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, kan vervolging plaatsvinden op klacht van diens wettige vertegenwoordiger in burgerlijke zaken.",
+      "current_text": "1 Indien de in artikel 64 aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, geschiedt de klacht door zijn wettige vertegenwoordiger in burgerlijke zaken.\n\n2 Indien de in artikel 64 aangewezen persoon overleden is, zijn tot de klacht gerechtigd: zijn ouders, zijn kinderen en zijn overlevende echtgenoot, tenzij blijkt dat hij een vervolging niet heeft gewild.\n\n3 Indien de klacht tegen de wettige vertegenwoordiger in burgerlijke zaken van de in artikel 64 aangewezen persoon moet geschieden, zijn tot de klacht gerechtigd: de echtgenoot, een bloedverwant in de rechte linie of, bij het ontbreken van al die personen, een broer en een zuster.\n\n4 Indien een in het tweede of derde lid aangewezen persoon de leeftijd van zestien jaren nog niet heeft bereikt of anders dan wegens verkwisting onder curatele is gesteld, dan wel aan een zodanige psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap lijdt dat hij niet in staat is te beoordelen of zijn belang gediend is met de klacht, kan vervolging plaatsvinden op klacht van diens wettige vertegenwoordiger in burgerlijke zaken.",
+      "old_text_sha256": "36ae781079fea5b3e015a0db137eb74f75732d636f59f3c4993e967353836f24",
+      "current_text_sha256": "36ae781079fea5b3e015a0db137eb74f75732d636f59f3c4993e967353836f24",
+      "diff": []
+    },
+    {
+      "id": "a66",
+      "changed": false,
+      "old_text": "1 De klacht kan worden ingediend gedurende drie maanden na de dag waarop de tot klacht gerechtigde kennis heeft genomen van het gepleegde feit.\n\n2 Indien degene tegen wie het feit is begaan, nadat de termijn een aanvang heeft genomen, is overleden, dan wel het recht tot het indienen van de klacht heeft verloren, verkregen of herkregen, loopt deze termijn zonder verlenging door.",
+      "current_text": "1 De klacht kan worden ingediend gedurende drie maanden na de dag waarop de tot klacht gerechtigde kennis heeft genomen van het gepleegde feit.\n\n2 Indien degene tegen wie het feit is begaan, nadat de termijn een aanvang heeft genomen, is overleden, dan wel het recht tot het indienen van de klacht heeft verloren, verkregen of herkregen, loopt deze termijn zonder verlenging door.",
+      "old_text_sha256": "78ed8874bbc921623b0baed5b4a18dc2224dce57dd683e1b36769726e215ac8c",
+      "current_text_sha256": "78ed8874bbc921623b0baed5b4a18dc2224dce57dd683e1b36769726e215ac8c",
+      "diff": []
+    },
+    {
+      "id": "a67",
+      "changed": false,
+      "old_text": "Hij die de klacht indient, blijft gedurende acht dagen na de dag der indiening bevoegd deze in te trekken.",
+      "current_text": "Hij die de klacht indient, blijft gedurende acht dagen na de dag der indiening bevoegd deze in te trekken.",
+      "old_text_sha256": "be1bca9d3373832da6dd2ab0ff51e692b8df488aa62df0855606e818cc3bbe62",
+      "current_text_sha256": "be1bca9d3373832da6dd2ab0ff51e692b8df488aa62df0855606e818cc3bbe62",
+      "diff": []
+    },
+    {
+      "id": "a68",
+      "changed": false,
+      "old_text": "1 Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.\n\n2 Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:\n\n1°. vrijspraak of ontslag van rechtsvervolging;\n\n2°. veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.\n\n3 Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.",
+      "current_text": "1 Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.\n\n2 Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:\n\n1°. vrijspraak of ontslag van rechtsvervolging;\n\n2°. veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.\n\n3 Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.",
+      "old_text_sha256": "587b1571ba57a703e59e0b4024a875597a9154942c5b84f19947f5eef9105815",
+      "current_text_sha256": "587b1571ba57a703e59e0b4024a875597a9154942c5b84f19947f5eef9105815",
+      "diff": []
+    },
+    {
+      "id": "a69",
+      "changed": false,
+      "old_text": "Het recht tot strafvordering vervalt door de dood van de verdachte.",
+      "current_text": "Het recht tot strafvordering vervalt door de dood van de verdachte.",
+      "old_text_sha256": "d83c9f03570160e5638763acb197bfd8d284640ada92c881a742885748ec5365",
+      "current_text_sha256": "d83c9f03570160e5638763acb197bfd8d284640ada92c881a742885748ec5365",
+      "diff": []
+    },
+    {
+      "id": "a70",
+      "changed": false,
+      "old_text": "1 Het recht tot strafvordering vervalt door verjaring:\n\n1°. in drie jaren voor alle overtredingen;\n\n2°. in zes jaren voor de misdrijven waarop geldboete, hechtenis of gevangenisstraf van niet meer dan drie jaren is gesteld;\n\n3°. in twaalf jaren voor de misdrijven waarop tijdelijke gevangenisstraf van meer dan drie jaren is gesteld;\n\n4°. in twintig jaren voor de misdrijven waarop gevangenisstraf van acht jaren of meer is gesteld.\n\n2 In afwijking van het eerste lid verjaart het recht tot strafvordering niet:\n\n1°. voor de misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld;\n\n2°. voor de misdrijven omschreven in de artikelen 242, 243, eerste lid, 245, 246, eerste lid, 247, eerste en tweede lid, 249, eerste lid, 252, 253 en het misdrijf omschreven in artikel 241, eerste en tweede lid, indien het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.",
+      "current_text": "1 Het recht tot strafvordering vervalt door verjaring:\n\n1°. in drie jaren voor alle overtredingen;\n\n2°. in zes jaren voor de misdrijven waarop geldboete, hechtenis of gevangenisstraf van niet meer dan drie jaren is gesteld;\n\n3°. in twaalf jaren voor de misdrijven waarop tijdelijke gevangenisstraf van meer dan drie jaren is gesteld;\n\n4°. in twintig jaren voor de misdrijven waarop gevangenisstraf van acht jaren of meer is gesteld.\n\n2 In afwijking van het eerste lid verjaart het recht tot strafvordering niet:\n\n1°. voor de misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld;\n\n2°. voor de misdrijven omschreven in de artikelen 242, 243, eerste lid, 245, 246, eerste lid, 247, eerste en tweede lid, 249, eerste lid, 252, 253 en het misdrijf omschreven in artikel 241, eerste en tweede lid, indien het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.",
+      "old_text_sha256": "73c59698a40842f2aaee5c8d5dc3e0adad9761bb0edd802d8dc3126c32c9a030",
+      "current_text_sha256": "73c59698a40842f2aaee5c8d5dc3e0adad9761bb0edd802d8dc3126c32c9a030",
+      "diff": []
+    },
+    {
+      "id": "a71",
+      "changed": false,
+      "old_text": "De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd, behoudens in de volgende gevallen:\n\n1°. bij de misdrijven omschreven in de artikelen 173, eerste lid, en 173b, vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;\n\n2°. bij valsheid op de dag na die waarop gebruik is gemaakt van het voorwerp ten opzichte waarvan de valsheid gepleegd is;\n\n3°. bij de misdrijven omschreven in artikel 251 en de artikelen 284 en 285c, indien gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, de artikelen 300 tot en met 302, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt of voor zover het feit oplevert mishandeling van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel het misdrijf, omschreven in artikel 302, voor zover het feit oplevert gedwongen abortus of gedwongen sterilisatie van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;\n\n4°. bij de misdrijven omschreven in de artikelen 279 en 282, eerste en tweede lid op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;\n\n5°. bij de overtredingen omschreven in de artikelen 465, 466 en 467, op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van artikel 18c van Boek 1 van het Burgerlijk Wetboek, de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994 zijn overgebracht.",
+      "current_text": "De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd, behoudens in de volgende gevallen:\n\n1°. bij de misdrijven omschreven in de artikelen 173, eerste lid, en 173b, vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;\n\n2°. bij valsheid op de dag na die waarop gebruik is gemaakt van het voorwerp ten opzichte waarvan de valsheid gepleegd is;\n\n3°. bij de misdrijven omschreven in artikel 251 en de artikelen 284 en 285c, indien gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, de artikelen 300 tot en met 302, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt of voor zover het feit oplevert mishandeling van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel het misdrijf, omschreven in artikel 302, voor zover het feit oplevert gedwongen abortus of gedwongen sterilisatie van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;\n\n4°. bij de misdrijven omschreven in de artikelen 279 en 282, eerste en tweede lid op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;\n\n5°. bij de overtredingen omschreven in de artikelen 465, 466 en 467, op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van artikel 18c van Boek 1 van het Burgerlijk Wetboek, de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994 zijn overgebracht.",
+      "old_text_sha256": "5bab93e202a2d93155e68c2b40824ad6a0fd5d85c7614ffda1edbc897e0867c0",
+      "current_text_sha256": "5bab93e202a2d93155e68c2b40824ad6a0fd5d85c7614ffda1edbc897e0867c0",
+      "diff": []
+    },
+    {
+      "id": "a72",
+      "changed": false,
+      "old_text": "1 Elke daad van vervolging stuit de verjaring, ook ten aanzien van anderen dan de vervolgde.\n\n2 Na de stuiting vangt een nieuwe verjaringstermijn aan. Het recht tot strafvordering vervalt evenwel ten aanzien van overtredingen na tien jaren en ten aanzien van misdrijven indien vanaf de dag waarop de oorspronkelijke verjaringstermijn is aangevangen een periode is verstreken die gelijk is aan twee maal de voor het misdrijf geldende verjaringstermijn.",
+      "current_text": "1 Elke daad van vervolging stuit de verjaring, ook ten aanzien van anderen dan de vervolgde.\n\n2 Na de stuiting vangt een nieuwe verjaringstermijn aan. Het recht tot strafvordering vervalt evenwel ten aanzien van overtredingen na tien jaren en ten aanzien van misdrijven indien vanaf de dag waarop de oorspronkelijke verjaringstermijn is aangevangen een periode is verstreken die gelijk is aan twee maal de voor het misdrijf geldende verjaringstermijn.",
+      "old_text_sha256": "e1ddd932ff9a66dd308309a4a8f88f82a3da9889619b81d9e832610ccfe22992",
+      "current_text_sha256": "e1ddd932ff9a66dd308309a4a8f88f82a3da9889619b81d9e832610ccfe22992",
+      "diff": []
+    },
+    {
+      "id": "a73",
+      "changed": false,
+      "old_text": "De schorsing van de strafvervolging ter zake van een prejudicieel geschil schorst de verjaring.",
+      "current_text": "De schorsing van de strafvervolging ter zake van een prejudicieel geschil schorst de verjaring.",
+      "old_text_sha256": "7d6b5172bd231ab2eb54ff01710d9cf93c245f85439ee820439c8112f64badf0",
+      "current_text_sha256": "7d6b5172bd231ab2eb54ff01710d9cf93c245f85439ee820439c8112f64badf0",
+      "diff": []
+    },
+    {
+      "id": "a74",
+      "changed": false,
+      "old_text": "1 De officier van justitie kan voor de aanvang van de terechtzitting een of meer voorwaarden stellen ter voorkoming van de strafvervolging wegens misdrijven, met uitzondering van die waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van meer dan zes jaar, en wegens overtreding. Door voldoening aan die voorwaarden vervalt het recht tot strafvordering.\n\n2 De volgende voorwaarden kunnen worden gesteld:\n\na. betaling aan de staat van een geldsom, te bepalen op ten minste € 3 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;\n\nb. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;\n\nc. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;\n\nd. voldoening aan de staat van een geldbedrag of overdracht van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge artikel 36e voor ontneming vatbare wederrechtelijk verkregen voordeel;\n\ne. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;\n\nf. het verrichten van onbetaalde arbeid of het volgen van een leerproject gedurende ten hoogste honderdtwintig uren.\n\n3 De officier van justitie doet in geval van misdrijf aan de rechtstreeks belanghebbende die hem bekend is, onverwijld schriftelijk mededeling van de datum waarop hij die voorwaarden heeft gesteld.\n\n4 Artikel 6:1:1 van het Wetboek van Strafvordering is van overeenkomstige toepassing op de op grond van het eerste lid gestelde voorwaarden.\n\n5 Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de artikelen 22b, 22c, eerste lid, en de artikelen 6:1:9, 6:3:1, tweede lid, en 6:3:6 van het Wetboek van Strafvordering met betrekking tot taakstraffen, van overeenkomstige toepassing. Bij het verrichten van de onbetaalde arbeid of het leerproject wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. De onbetaalde arbeid of het leerproject wordt binnen een termijn van negen maanden na instemming met de voorwaarde voltooid.\n\n6 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de nakoming van de voorwaarde, bedoeld in het tweede lid, onderdeel a. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldsom, de termijn waarbinnen die betaling moet zijn geschied en de verantwoording van de ontvangen geldbedragen. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de nakoming van de overige in het tweede lid bedoelde voorwaarden.",
+      "current_text": "1 De officier van justitie kan voor de aanvang van de terechtzitting een of meer voorwaarden stellen ter voorkoming van de strafvervolging wegens misdrijven, met uitzondering van die waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van meer dan zes jaar, en wegens overtreding. Door voldoening aan die voorwaarden vervalt het recht tot strafvordering.\n\n2 De volgende voorwaarden kunnen worden gesteld:\n\na. betaling aan de staat van een geldsom, te bepalen op ten minste € 3 en ten hoogste het maximum van de geldboete die voor het feit kan worden opgelegd;\n\nb. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;\n\nc. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;\n\nd. voldoening aan de staat van een geldbedrag of overdracht van inbeslaggenomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge artikel 36e voor ontneming vatbare wederrechtelijk verkregen voordeel;\n\ne. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade;\n\nf. het verrichten van onbetaalde arbeid of het volgen van een leerproject gedurende ten hoogste honderdtwintig uren.\n\n3 De officier van justitie doet in geval van misdrijf aan de rechtstreeks belanghebbende die hem bekend is, onverwijld schriftelijk mededeling van de datum waarop hij die voorwaarden heeft gesteld.\n\n4 Artikel 6:1:1 van het Wetboek van Strafvordering is van overeenkomstige toepassing op de op grond van het eerste lid gestelde voorwaarden.\n\n5 Op de in het tweede lid, onder f, bedoelde voorwaarde is het bepaalde bij of krachtens de artikelen 22b, 22c, eerste lid, en de artikelen 6:1:9, 6:3:1, tweede lid, en 6:3:6 van het Wetboek van Strafvordering met betrekking tot taakstraffen, van overeenkomstige toepassing. Bij het verrichten van de onbetaalde arbeid of het leerproject wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. De onbetaalde arbeid of het leerproject wordt binnen een termijn van negen maanden na instemming met de voorwaarde voltooid.\n\n6 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de nakoming van de voorwaarde, bedoeld in het tweede lid, onderdeel a. Deze voorschriften hebben in ieder geval betrekking op de plaats en wijze van betaling van de geldsom, de termijn waarbinnen die betaling moet zijn geschied en de verantwoording van de ontvangen geldbedragen. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven omtrent de nakoming van de overige in het tweede lid bedoelde voorwaarden.",
+      "old_text_sha256": "8d52bb6b819f9fd5a3c2622beebe98488ca1f59f6e088fd1a0e20dce8dd9f99b",
+      "current_text_sha256": "8d52bb6b819f9fd5a3c2622beebe98488ca1f59f6e088fd1a0e20dce8dd9f99b",
+      "diff": []
+    },
+    {
+      "id": "a74a",
+      "changed": false,
+      "old_text": "Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig artikel 74, tweede lid, te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in artikel 74, niet weigeren.",
+      "current_text": "Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf gesteld dan geldboete en biedt de verdachte aan, binnen een door de officier van justitie te bepalen termijn, het maximum van de geldboete te betalen en aan alle overige, overeenkomstig artikel 74, tweede lid, te stellen voorwaarden te voldoen, dan mag de officier van justitie het stellen van voorwaarden, als bedoeld in artikel 74, niet weigeren.",
+      "old_text_sha256": "6b20cb73ebd606946b99adbdaa690439fcba44661af7685eb8ce7d1ad076a7c8",
+      "current_text_sha256": "6b20cb73ebd606946b99adbdaa690439fcba44661af7685eb8ce7d1ad076a7c8",
+      "diff": []
+    },
+    {
+      "id": "a74b",
+      "changed": false,
+      "old_text": "1 Een bevel als bedoeld in artikel 12k van het Wetboek van Strafvordering doet, na voldoening aan de overeenkomstig artikel 74 gestelde voorwaarden, het recht tot strafvordering herleven als ware het niet vervallen geweest.\n\n2 Na een bevel, als bedoeld in het vorige lid, worden bedragen, betaald in toepassing van artikel 74, tweede lid, onder a, c en d, onverwijld terugbetaald aan degene die ze heeft betaald.\n\n3 Volgt na een bevel als bedoeld in het eerste lid een veroordeling, dan houdt de rechter rekening met de afstand of uitlevering door de veroordeelde van voorwerpen op grond van artikel 74, tweede lid, onder b en c, met de vergoeding van schade op grond van artikel 74, tweede lid, onder e, en met de onbetaalde arbeid die is verricht of het leerproject dat is gevolgd op grond van artikel 74, tweede lid, onder f.\n\n4 Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in artikel 74, tweede lid, onder f, zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 533, derde, vierde en zesde lid, 534, 535 en 536 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.",
+      "current_text": "1 Een bevel als bedoeld in artikel 12k van het Wetboek van Strafvordering doet, na voldoening aan de overeenkomstig artikel 74 gestelde voorwaarden, het recht tot strafvordering herleven als ware het niet vervallen geweest.\n\n2 Na een bevel, als bedoeld in het vorige lid, worden bedragen, betaald in toepassing van artikel 74, tweede lid, onder a, c en d, onverwijld terugbetaald aan degene die ze heeft betaald.\n\n3 Volgt na een bevel als bedoeld in het eerste lid een veroordeling, dan houdt de rechter rekening met de afstand of uitlevering door de veroordeelde van voorwerpen op grond van artikel 74, tweede lid, onder b en c, met de vergoeding van schade op grond van artikel 74, tweede lid, onder e, en met de onbetaalde arbeid die is verricht of het leerproject dat is gevolgd op grond van artikel 74, tweede lid, onder f.\n\n4 Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in artikel 74, tweede lid, onder f, zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 533, derde, vierde en zesde lid, 534, 535 en 536 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.",
+      "old_text_sha256": "aabbf114ad8dd6d930f70ca69bf44fea64bc7d70938252f369843ab4ac004c84",
+      "current_text_sha256": "aabbf114ad8dd6d930f70ca69bf44fea64bc7d70938252f369843ab4ac004c84",
+      "diff": []
+    },
+    {
+      "id": "a74c",
+      "changed": false,
+      "old_text": "Vervallen",
+      "current_text": "Vervallen",
+      "old_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "current_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "diff": []
+    },
+    {
+      "id": "a75",
+      "changed": false,
+      "old_text": "Vervallen",
+      "current_text": "Vervallen",
+      "old_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "current_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "diff": []
+    },
+    {
+      "id": "a76",
+      "changed": false,
+      "old_text": "Vervallen",
+      "current_text": "Vervallen",
+      "old_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "current_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "diff": []
+    },
+    {
+      "id": "a76a",
+      "changed": false,
+      "old_text": "Vervallen",
+      "current_text": "Vervallen",
+      "old_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "current_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "diff": []
+    },
+    {
+      "id": "a77",
+      "changed": false,
+      "old_text": "1 Het recht tot strafvordering vervalt door de overdracht van de strafvervolging aan een vreemde staat overeenkomstig de bepalingen van Titel 3 van het Vijfde Boek van het Wetboek van Strafvordering.\n\n2 In het geval, bedoeld in het eerste lid, herleeft het recht tot strafvordering, indien de autoriteiten van de staat die de strafvervolging hadden overgenomen op die beslissing terugkomen of mededelen dat geen strafvervolging wordt ingesteld dan wel een ingestelde vervolging is gestaakt.",
+      "current_text": "1 Het recht tot strafvordering vervalt door de overdracht van de strafvervolging aan een vreemde staat overeenkomstig de bepalingen van Titel 3 van het Vijfde Boek van het Wetboek van Strafvordering.\n\n2 In het geval, bedoeld in het eerste lid, herleeft het recht tot strafvordering, indien de autoriteiten van de staat die de strafvervolging hadden overgenomen op die beslissing terugkomen of mededelen dat geen strafvervolging wordt ingesteld dan wel een ingestelde vervolging is gestaakt.",
+      "old_text_sha256": "39308d006bb8a0a2d7036e6aa88798ba3cf2672ad5e634871687511c0343e111",
+      "current_text_sha256": "39308d006bb8a0a2d7036e6aa88798ba3cf2672ad5e634871687511c0343e111",
+      "diff": []
+    }
+  ],
+  "disposition": "Prior text retained as evidence only; not concatenated with current units."
+}

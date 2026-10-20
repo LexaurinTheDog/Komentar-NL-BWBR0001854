@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:13</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T14:03:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-01-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-01-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/01359</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:1035" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2022:1035</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2021:2541" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2021:2541</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2023-0002</rdf:li>
+          <rdf:li>NJB 2023/277</rdf:li>
+          <rdf:li>RvdW 2023/127</rdf:li>
+          <rdf:li>NJ 2023/45</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:13">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:13</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-01-09T12:47:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-01-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:13 Hoge Raad , 10-01-2023 / 21/01359</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:13:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Belaging door honderden sms-berichten te sturen naar medewerkers van ouderenzorgorganisatie, art. 285b.1 Sr. Is voldaan aan klachtvereiste a.b.i. art. 66.1 Sr? Klachtgerechtigde kan bij een delict als het onderhavige zijn bevoegdheid slechts gedurende de in de wet genoemde klachttermijn uitoefenen. Dat betekent dat wanneer voor het instellen van een vervolging een klacht is vereist en klacht niet is ingediend binnen 3 maanden nadat klachtgerechtigde heeft kennis genomen van gepleegd delict, vervolging daarop afstuit. In het geval dat klacht weliswaar niet voldoet aan alle formele wettelijke eisen of niet is ingediend bij bevoegde ambtenaar maar vaststaat dat klachtgerechtigde de vervolging heeft gewenst, zal van die wens binnen die termijn van drie maanden moeten zijn gebleken (vgl. HR:2018:2242). In het geval dat stuk wel aangifte maar geen verzoek tot vervolging inhoudt, kan bestaan van klacht a.b.i. art. 164.1 Sv worden aangenomen als o.g.v. onderzoek ttz. komt vast te staan dat klager tijdig wens had dat vervolging zou worden ingesteld (vgl. HR:1994:ZC8448). Hof heeft vastgesteld dat (i) A, B en C binnen drie maanden na dag waarop zij kennis hebben genomen van gepleegd feit aangifte hebben gedaan en (ii) ieder van hen in aangifte heeft vermeld schade te willen verhalen op verdachte en op de hoogte te willen worden gehouden van verloop en voortgang van zaak. ‘s Hofs mede daarop gebaseerde oordeel dat het niet anders kan dan dat ieder van deze aangevers t.t.v. doen van aangifte de bedoeling had dat vervolging van verdachte zou worden ingesteld, getuigt niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk. Geen rechtsregel stond er daarbij aan in de weg dat hof in dat verband daarnaast acht heeft geslagen op omstandigheden dat (iii) aangevers zich als benadeelden hebben gevoegd in strafproces, (iv) A en B een aanvullende verklaring hebben afgelegd bij politie, (v) ieder van hen in eerste aanleg en in hoger beroep op zitting aanwezig was en daar gebruik heeft gemaakt van spreekrecht en (vi) A op zitting bij politierechter heeft verklaard dat het met doen van aangifte zijn bedoeling is geweest om strafvervolging in te stellen. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:13:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>21/01359 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>10 januari 2023</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 17 maart 2021, nummer 21-004819-19, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte],</para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1963,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J. Boksem, advocaat te Leeuwarden, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over het oordeel van het hof dat (telkens) aan het klachtvereiste, als bedoeld in artikel 66 lid 1 van het Wetboek van Strafrecht (hierna: Sr), is voldaan. </para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Aan de verdachte is tenlastegelegd dat:</para>
+          <para>“1.</para>
+          <para>hij in of omstreeks de periode van 1 mei 2016 tot en met 20 maart 2017 te Drachten, althans in de gemeente Smallingerland, althans in Nederland, wederrechtelijk stelselmatig opzettelijk inbreuk heeft gemaakt op eens anders persoonlijke levenssfeer, te weten die van [aangever 1], (bestuursvoorzitter van Stichting [A]) door</para>
+          <para>- in voornoemde periode meermalen (telkens) sms-berichten aan voornoemde [aangever 1] te sturen en/of</para>
+          <para>- in voornoemde periode meermalen (telkens) sms-berichten aan bestuursleden en/of directieleden en/of directeur(en) en/of medewerkers van Stichting [A] te sturen,</para>
+          <para>met het oogmerk die [aangever 1], te dwingen iets te doen, niet te doen, te dulden en/of vrees aan te jagen;</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2.</para>
+          <para>hij in of omstreeks de periode van 1 mei 2016 tot en met 20 maart 2017 te Drachten, althans in de gemeente Smallingerland, althans in Nederland, wederrechtelijk stelselmatig opzettelijk inbreuk heeft gemaakt op eens anders persoonlijke levenssfeer, te weten die van [aangever 2] en/of [aangever 3], (bestuursleden en/of directieleden en/of directeur(en) en/of medewerker(s) bij Stichting [A]) door</para>
+          <para>- meermalen telkens sms-berichten aan voornoemde perso(o)n(en) te sturen en/of </para>
+          <para>- meermalen (telkens) sms-berichten aan bestuursleden en/of directieleden en/of directeur(en) en/of medewerkers van Stichting [A] te sturen,</para>
+          <para>met het oogmerk die [aangever 2] en/of [aangever 3], te dwingen iets te doen, niet te doen, te dulden en/of vrees aan te jagen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Het hof heeft een door de verdediging gevoerd verweer strekkende tot niet-ontvankelijkheid van het openbaar ministerie als volgt samengevat en verworpen:</para>
+          <para>“Standpunt verdediging </para>
+          <para>De raadsman van de verdachte heeft - op de gronden als vermeld in de ter terechtzitting in hoger beroep door hem overgelegde pleitnota - verzocht het openbaar ministerie in de strafvervolging van de verdachte ter zake van het onder 1 en 2 tenlastegelegde niet-ontvankelijk te verklaren. Samengevat is door de raadsman aangevoerd dat: </para>
+          <para>- [aangever 1] alleen aangifte heeft gedaan van belediging dan wel laster en niet van belaging. Een klacht ontbreekt. De omstandigheid dat hij heeft verklaard de schade te willen verhalen op de verdachte duidt niet op een uitdrukkelijke wens tot vervolging. De verklaring van [aangever 1] ter zitting van de politierechter en nadien de meervoudige kamer dat hij ten tijde van de aangifte ook strafvervolging wilde, ligt buiten de drie-maandentermijn; </para>
+          <para>- [aangever 3] alleen aangifte heeft gedaan en geen klacht. De aangifte ziet niet op haarzelf maar op de [A], waarvan zij bestuurder was. Uit de wens om door schadebemiddeling of voeging in het strafproces de schade te verhalen, blijkt niet de uitdrukkelijke wens tot vervolging; </para>
+          <para>- [aangever 2] alleen aangifte heeft gedaan en geen klacht. Uit de wens de schade te willen verhalen of het op de hoogte gehouden willen worden van het verloop van het onderzoek, blijkt niet de uitdrukkelijke wens tot vervolging; </para>
+          <para>- de uitlating van [aangever 1] ter zitting van de politierechter en nadien de meervoudige kamer dat hij ten tijde van de aangifte ook strafvervolging wilde, kan niet redengevend zijn voor de vaststelling dat [aangever 3] en [aangever 2] ten tijde van het doen van aangifte vervolging wensten. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Standpunt advocaat-generaal</para>
+          <para>De advocaat-generaal heeft gerekwireerd tot verwerping van het verweer van de raadsman en het hof verzocht het openbaar ministerie ontvankelijk te verklaren in de strafvervolging van verdachte.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Juridisch kader </para>
+          <para>Aan verdachte is onder 1 en 2 tenlastegelegd - kort gezegd - de belaging van [aangever 1], [aangever 2] en [aangever 3], gepleegd in de periode van 1 mei 2016 tot en met 20 maart 2017. Ingevolge artikel 285b, tweede lid, Wetboek van Strafrecht (verder: Sr) is het misdrijf belaging slechts op klacht vervolgbaar. De klacht bestaat ingevolge artikel 164, eerste lid, Wetboek van Strafvordering (verder: Sv) uit een aangifte met het verzoek tot vervolging. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Een klacht is aldus een voorwaarde voor de ontvankelijkheid van het openbaar ministerie in de vervolging ter zake van een klachtdelict. Het klachtvereiste strekt ertoe dat het slachtoffer kan afwegen of zijn persoonlijk belang niet te worden geconfronteerd met eventuele negatieve gevolgen van een strafvervolging, de voorrang heeft boven het algemene belang van strafvervolging. Dit persoonlijk belang van het slachtoffer is in een geval waarin een klacht is vereist, niet in het geding indien de klacht weliswaar niet voldoet aan de wettelijke eisen van artikel 164 Sv maar vaststaat dat de klachtgerechtigde de vervolging heeft gewenst (Hoge Raad 4 december 2018, ECLI:NL:HR:2018:2242). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op grond van artikel 66 Sr kan de klacht worden ingediend gedurende drie maanden na de dag waarop de tot klachtgerechtigde kennis heeft genomen van het gepleegde feit. Door het stellen van voornoemde termijn wordt - in de woorden van de memorie van toelichting bij het ontwerp-wetboek - voorkomen dat “aan een persoon tegen een ander een wettelijk zwaard in handen [wordt] gegeven, waarvan hij jaren lang, gedurende den geheelen verjaringstermijn, gebruik zoude kunnen maken. Daarenboven eischt het maatschappelijk belang eene spoedige vervolging der misdrijven, en het mag dus niet aan de willekeur van den tot klagte geregtigde worden overgelaten, het instellen der publieke actie tot de uiterste grens van den verjaringstermijn op te houden.” (H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel I, 1891, p. 498). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voor belaging geldt dat voor het bepalen van het aanvangsmoment van de termijn waarbinnen de klachtgerechtigde een klacht moet indienen, niet gekeken dient te worden naar het moment dat de belaging een aanvang neemt, maar uiterlijk naar het moment dat de belaging tot een einde is gekomen. Er kan immers pas van belaging gesproken worden, indien er sprake is van herhaaldelijk inbreuk maken op de persoonlijke levenssfeer gedurende een bepaalde periode, waarbij juist ook de duur van het gewraakte handelen bepalend is voor de belaging en aanleiding zal zijn om ter zake strafvervolging te wensen (vgl. Hof Amsterdam 20 maart 2007, ECLI:NL:GHAMS:2007:BC7962 en Hof ‘s-Hertogenbosch 11 oktober 2016, ECLI:NL:GHSHE:2016:4596). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Indien een als klacht bedoeld stuk wel een aangifte maar geen verzoek tot vervolging inhoudt, kan niettemin het bestaan van een klacht als omschreven in het eerste lid van artikel 164 Sv worden aangenomen indien op grond van het onderzoek ter terechtzitting komt vast te staan dat de klager ten tijde van het opmaken van bedoeld stuk de bedoeling had dat een vervolging zou worden ingesteld (vgl. HR 11 januari 1994, ECLI:NL:HR:1994:ZC8448, NJ 1994, 278, Hoge Raad 18 februari 2014, ECLI:NL:HR:2014:381 en Hoge Raad 30 mei 2017, ECLI:NL:HR:2017:967). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Er is geen rechtsregel die bepaalt dat bij uitsluitend óp klacht vervolgbare misdrijven de klacht een strafrechtelijke kwalificatie moet inhouden en dat - voor zover de klacht wél een kwalificatie inhoudt - klachtdelicten die buiten deze kwalificatie vallen maar wel vallen binnen de in de klacht omschreven gebeurtenissen, niet vervolgd mogen worden (HR 22 april 1986, ECLI:NL:HR: 1986:AC9316, NJ 1986/827).</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordeling </para>
+          <para>Het hof stelt aan de hand van het strafdossier de volgende feiten en omstandigheden vast.</para>
+          <para>
+            [aangever 1] heeft op 17 mei 2016 aangifte gedaan ter zake van ‘belediging dan wel laster’. [aangever 1] heeft in zijn aangifte verklaard dat zowel hij als zijn directe collega’s met enige regelmaat sms-berichten ontvangen met daarin verschillende beschuldigingen. De aangifte houdt geen uitdrukkelijk verzoek tot vervolging in. In de aangifte is voorts vermeld dat aangever de schade wil verhalen op de verdachte en dat hij op de hoogte gehouden wil worden van de voortgang van het onderzoek. Op 10 april 2017 heeft [aangever 1] nog een aanvullende verklaring bij de politie afgelegd. Ter zitting van de politierechter op 9 augustus 2019 heeft [aangever 1] verklaard dat voor alle aangevers geldt dat met het doen van aangifte het de bedoeling is geweest om strafvervolging in te stellen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            [aangever 3] heeft op 31 januari 2017 bij de politie een verklaring afgelegd als aangeefster. In deze verklaring heeft zij, namens de [A] verklaard dat medewerkers van [A] worden lastiggevallen middels honderden sms-berichten. Gelet op het feit dat zij de verklaring heeft afgelegd als aangeefster alsmede gelet op de inhoud van de verklaring van [aangever 3] merkt het hof deze verklaring aan als aangifte. De aangifte houdt geen uitdrukkelijk verzoek tot vervolging in. In de aangifte is voorts vermeld dat aangeefster de schade wil verhalen op de verdachte en dat zij geïnformeerd wenst te worden over het verloop en de afdoening van de strafzaak. Op 2 maart 2017 is [aangever 3] nog aanvullend gehoord door de politie. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            [aangever 2] heeft op 3 februari 2017 aangifte gedaan van stalking. De aangifte houdt geen uitdrukkelijk verzoek tot vervolging in. In de aangifte is vermeld dat aangeefster door schadebemiddeling of voeging in het strafproces de schade wil verhalen en dat zij op de hoogte gehouden wil worden van de voortgang van het onderzoek. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Alle drie de aangevers hebben zich in het strafproces gevoegd als benadeelde. Zij waren voorts in eerste en tweede aanleg ter zitting aanwezig en hebben toen gebruik gemaakt van hun spreekrecht. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Verdachte is op 20 maart 2017 aangehouden. Hij heeft aan de politie bekend de sms-berichten aan (onder meer) [aangever 1], [aangever 3] en [aangever 2] te hebben verzonden. Tot aan zijn aanhouding werden door verdachte nog sms-berichten verstuurd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof is van oordeel dat ten aanzien van de drie aangevers het niet anders kan zijn dan dat zij ten tijde van het opmaken van de aangifte de bedoeling hadden dat vervolging van de verdachte zou worden ingesteld. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot [aangever 1] blijkt van een uitdrukkelijke vervolgingswens uit de omstandigheid dat aangever in zijn aangifte heeft vermeld dat hij de schade wil verhalen op de verdachte, hij nog een aanvullende verklaring bij de politie heeft afgelegd, een vordering benadeelde partij heeft ingediend en deze in hoger beroep heeft gehandhaafd, tot twee keer toe zijn spreekrecht heeft uitgeoefend en ter zitting van de politierechter heeft verklaard dat met het doen van aangifte het de bedoeling is geweest om strafvervolging in te stellen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Met betrekking tot [aangever 3] blijkt van een uitdrukkelijke vervolgingswens uit de omstandigheid dat aangeefster in haar aangifte heeft vermeld dat zij de schade wil verhalen op de verdachte en dat zij geïnformeerd wenst te worden over het verloop en de afdoening van de strafzaak, zij nog een aanvullende verklaring bij de politie heeft afgelegd, een vordering benadeelde partij heeft ingediend en deze in hoger beroep heeft gehandhaafd en tot twee keer toe haar spreekrecht heeft uitgeoefend. De stelling van de raadsman dat de aangifte van [aangever 3] louter ziet op de [A] en niet (mede) op haarzelf, stuit af op de omstandigheid dat zij in de aangifte spreekt in de wij-vorm en dat uit de overige inhoud van het strafdossier, met name uit het overzicht van de ontvangen sms-berichten vanaf pagina 172 van het strafdossier (welk overzicht door [aangever 3] aan de politie is overhandigd), blijkt dat ook aangeefster sms-berichten ontving. </para>
+          <para>Met betrekking tot [aangever 2] blijkt van een uitdrukkelijke vervolgingswens uit de omstandigheid dat aangeefster in haar aangifte heeft vermeld dat zij door schadebemiddeling of voeging in het strafproces de schade wil verhalen en dat zij op de hoogte gehouden wil worden van de voortgang van het onderzoek, een vordering benadeelde partij heeft ingediend en deze in hoger beroep heeft gehandhaafd en tot twee keer toe haar spreekrecht heeft uitgeoefend. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof stelt vervolgens vast dat alle aangevers binnen de termijn van drie maanden na de dag waarop zij kennis hebben genomen van het gepleegde feit aangifte hebben gedaan. Daarmee verschilt deze zaak van de zaak die ten grondslag lag aan het arrest van de Hoge Raad van 4 december 2018, ECLI:NL:HR:2018:2242, waarnaar de raadsman in zijn pleitnota heeft verwezen. In die zaak was niet door (alle) aangevers binnen voornoemde termijn aangifte gedaan. De kennelijke stelling van de raadsman dat uit voornoemd arrest van de Hoge Raad voortvloeit dat feiten en omstandigheden die hebben plaatsgevonden na de termijn van drie maanden niet mogen meewegen bij de beoordeling of aangevers ten tijde van hun aangifte de bedoeling hadden dat vervolging van de verdachte zou worden ingesteld, deelt het hof niet en berust op een onjuiste lezing van voornoemd arrest. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Verder speelt nog een rol dat in de onderhavige zaak, waarin zoals hiervoor overwogen buiten twijfel staat dat de klachtgerechtigden een klacht hebben willen indienen, sprake is van een verzuim van de opsporingsambtenaar die de aangiftes heeft opgenomen. Immers waren de aangevers voor de verwerkelijking en juiste vormgeving van hun klacht aangewezen op de medewerking van opsporingsambtenaren. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voor zover de raadsman heeft willen stellen dat verdachte niet vervolgd had mogen worden voor de belaging van [aangever 1], omdat [aangever 1] geen aangifte heeft gedaan van stalking, stuit dit verweer af op het hiervoor overwogene dat er geen rechtsregel is die bepaalt dat bij uitsluitend op klacht vervolgbare misdrijven de klacht een strafrechtelijke kwalificatie moet inhouden en dat - voor zover de klacht wél een kwalificatie inhoudt - klachtdelicten die buiten deze kwalificatie vallen maar wel vallen binnen de in de klacht omschreven gebeurtenissen, niet vervolgd mogen worden. Bovendien was op het moment dat [aangever 1] aangifte deed het sms’en nog maar net begonnen en is het niet verbazingwekkend dat nog niet (direct) aan belaging werd gedacht.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet op het voorgaande treffen de verweren van de raadsman geen doel. Het openbaar ministerie is ontvankelijk in de vervolging.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 285b Sr luidt:</para>
+          <para>“1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, als schuldig aan belaging, gestraft met een gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.</para>
+          <para>2. Vervolging vindt niet plaats dan op klacht van hem tegen wie het misdrijf is begaan.”</para>
+          <para>	Artikel 66 lid 1 Sr luidt:</para>
+          <para>“De klacht kan worden ingediend gedurende drie maanden na de dag waarop de tot klacht gerechtigde kennis heeft genomen van het gepleegde feit.”</para>
+          <para>	Artikel 164 lid 1 van het Wetboek van Strafvordering (hierna: Sv) luidt:</para>
+          <para>“Bij strafbare feiten alleen op klachte vervolgbaar, geschiedt deze klachte mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den tot de klachte gerechtigde in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien. De klachte bestaat in eene aangifte met verzoek tot vervolging.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <para>De klachtgerechtigde kan bij een delict als het onderhavige zijn bevoegdheid slechts gedurende de in de wet genoemde klachttermijn uitoefenen. Dat betekent dat wanneer voor het instellen van een vervolging een klacht is vereist en de klacht niet is ingediend binnen drie maanden nadat de klachtgerechtigde heeft kennis genomen van het gepleegde delict, de vervolging daarop afstuit. In het geval dat de klacht weliswaar niet voldoet aan alle formele wettelijke eisen of niet is ingediend bij de bevoegde ambtenaar, maar vaststaat dat de klachtgerechtigde de vervolging heeft gewenst, zal van die wens binnen die termijn van drie maanden moeten zijn gebleken. (Vgl. HR 4 december 2018, ECLI:NL:HR:2018:2242, rechtsoverweging 4.3.2.)</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3</nr>
+        <para>In het geval dat een stuk wel een aangifte maar geen verzoek tot vervolging inhoudt, kan het bestaan van een klacht als bedoeld in artikel 164 lid 1 Sv worden aangenomen als op grond van het onderzoek ter terechtzitting komt vast te staan dat de klager tijdig de wens had dat een vervolging zou worden ingesteld. (Vgl. HR 11 januari 1994, ECLI:NL:HR:1994:ZC8448, rechtsoverweging 5.5.)</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Het hof heeft vastgesteld dat (i) [aangever 1], [aangever 3] en [aangever 2] binnen drie maanden na de dag waarop zij kennis hebben genomen van het gepleegde feit aangifte hebben gedaan, en (ii) ieder van hen in de aangifte heeft vermeld de schade te willen verhalen op de verdachte en op de hoogte te willen worden gehouden van het verloop en de voortgang van de zaak. Het mede daarop gebaseerde oordeel van het hof dat het niet anders kan dan dat ieder van deze aangevers ten tijde van het doen van de aangifte de bedoeling had dat vervolging van de verdachte zou worden ingesteld, getuigt – gelet op wat onder 2.3 is vooropgesteld – niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk.<?linebreak?>Geen rechtsregel stond er daarbij aan in de weg dat het hof in dat verband daarnaast acht heeft geslagen op de omstandigheden dat (iii) de aangevers zich als benadeelden hebben gevoegd in het strafproces, (iv) [aangever 1] en [aangever 3] een aanvullende verklaring hebben afgelegd bij de politie, (v) ieder van hen in eerste aanleg en in hoger beroep op de zitting aanwezig was en daar gebruik heeft gemaakt van het spreekrecht, en (vi) [aangever 1] op de zitting bij de politierechter heeft verklaard dat het met het doen van aangifte zijn bedoeling is geweest om strafvervolging in te stellen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren M.J. Borgers en M. Kuijer, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">10 januari 2023</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

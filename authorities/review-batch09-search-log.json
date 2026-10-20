@@ -1,0 +1,76 @@
+{
+  "verified_at": "2026-10-20T17:26:48.125234+00:00",
+  "scope": "Selective primary authorities for complaint, time limits, same-fact and interruption; exactly assigned20 manuscript units reviewed.",
+  "web_queries": [
+    "site.rechtspraak.nl \"klacht\" \"2018:2242\"",
+    "site.rechtspraak.nl \"artikel 72\" \"daad van vervolging\" Hoge Raad",
+    "site.rechtspraak.nl \"artikel 63\" \"2026\" \"overgangsrecht\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2018:2242\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2011:BM9102\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2023:13\""
+  ],
+  "official_page_opened": "https://zoek.officielebekendmakingen.nl/stb-2008-4.html",
+  "discovery_only": "PHR and third-party search results not used for holdings. Full official XML judgments and local national corpus used.",
+  "firecrawl": {
+    "actual_check": "firecrawl --status; authenticated, zero credits",
+    "fallback": "Direct official XML and official HTML only; no toolchain/service changes."
+  },
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2018:2242",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-2242.md",
+      "sha256": "bb9d679448194be7bdede1d0921f5bccae75d89cc86f770bc15febe41dc30776",
+      "official_paragraphs_over100": 48,
+      "normalized_paragraph_matches": 47,
+      "method": "Full official judgment read; exact local national corpus file opened and normalized paragraph comparison. Whitespace-only normalization; failed paragraph matches do not replace the primary source."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2023:13",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-13.md",
+      "sha256": "3f16fd5f163ae756c283885ab9465bf3314abb9e5e41ba4cd20912fec4878a4a",
+      "official_paragraphs_over100": 43,
+      "normalized_paragraph_matches": 42,
+      "method": "Full official judgment read; exact local national corpus file opened and normalized paragraph comparison. Whitespace-only normalization; failed paragraph matches do not replace the primary source."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2011:BM9102",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2011-bm9102.md",
+      "sha256": "2eafc85991c1eeb523a59d1fb4f68cdaac0c91402c12d7aa3018f817a331906b",
+      "official_paragraphs_over100": 86,
+      "normalized_paragraph_matches": 86,
+      "method": "Full official judgment read; exact local national corpus file opened and normalized paragraph comparison. Whitespace-only normalization; failed paragraph matches do not replace the primary source."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2012:BW9987",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2012-bw9987.md",
+      "sha256": "5e63f2d3dc17063aa7d404301c54cd290e6d37044da6b51665674e35d73d8a9d",
+      "official_paragraphs_over100": 28,
+      "normalized_paragraph_matches": 28,
+      "method": "Full official judgment read; exact local national corpus file opened and normalized paragraph comparison. Whitespace-only normalization; failed paragraph matches do not replace the primary source."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2018:2242",
+    "ECLI:NL:HR:2023:13",
+    "ECLI:NL:HR:2011:BM9102",
+    "ECLI:NL:HR:2012:BW9987"
+  ],
+  "selected_authorities": [
+    "ECLI:NL:HR:2018:2242",
+    "ECLI:NL:HR:2023:13",
+    "ECLI:NL:HR:2011:BM9102",
+    "ECLI:NL:HR:2012:BW9987"
+  ],
+  "supported_units": [
+    "a64",
+    "a66",
+    "a68",
+    "a72"
+  ],
+  "other_units": "No additional sufficiently relevant verified case selected for16 remaining assigned units; not a claim none exists.",
+  "primary_fetch_evidence": "sources/review-batch09-fetch-log.json",
+  "limitations": [
+    "Selective, no exhaustive coverage. Older cited decisions and international sources within judgments not independently researched as separate authorities.",
+    "No post-July2026 case-law rule for new63 selected; official amendment and explicit transition control discussion."
+  ]
+}

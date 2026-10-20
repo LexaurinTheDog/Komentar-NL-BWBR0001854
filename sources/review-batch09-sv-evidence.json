@@ -1,0 +1,1127 @@
+{
+  "official_url": "https://wetten.overheid.nl/BWBR0001903/2026-07-01",
+  "raw_path": "sources/review-batch09-sv-effective.xml",
+  "raw_sha256": "3999e80492382c653f4d4a6e79518d129aa2869c8318abfa7fc771e70bb4ae35",
+  "manifest": "sources/review-batch09-sv-manifest.xml",
+  "manifest_sha256": "f678e82027271b3fd156a947fbe4cc3d8fa946d0ecb07bc41868d103c28b3148",
+  "verified_at": "2026-10-20T17:26:47.976469+00:00",
+  "effective_version": "2026-07-01_0",
+  "decisive_date": "2026-10-19",
+  "all_manifest_intervals_checked": [
+    {
+      "label": "2002-08-08_0",
+      "effective_from": "2002-08-08",
+      "effective_to": "2002-09-03",
+      "visible_from": "2002-08-08",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-07-12_0",
+      "effective_from": "2002-07-12",
+      "effective_to": "2002-08-07",
+      "visible_from": "2002-07-12",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-03-08_0",
+      "effective_from": "2002-03-08",
+      "effective_to": "2002-04-30",
+      "visible_from": "2002-03-08",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-05-01_0",
+      "effective_from": "2002-05-01",
+      "effective_to": "2002-06-30",
+      "visible_from": "2002-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2003-09-01_0",
+      "effective_from": "2003-09-01",
+      "effective_to": "2004-01-31",
+      "visible_from": "2003-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-07-01_0",
+      "effective_from": "2002-07-01",
+      "effective_to": "2002-07-11",
+      "visible_from": "2002-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-10-01_0",
+      "effective_from": "2002-10-01",
+      "effective_to": "2002-12-31",
+      "visible_from": "2002-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2003-07-01_0",
+      "effective_from": "2003-07-01",
+      "effective_to": "2003-08-31",
+      "visible_from": "2003-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2002-09-04_0",
+      "effective_from": "2002-09-04",
+      "effective_to": "2002-09-30",
+      "visible_from": "2002-09-04",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2003-06-01_0",
+      "effective_from": "2003-06-01",
+      "effective_to": "2003-06-30",
+      "visible_from": "2003-06-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2003-01-01_0",
+      "effective_from": "2003-01-01",
+      "effective_to": "2003-05-31",
+      "visible_from": "2003-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-10-01_0",
+      "effective_from": "2004-10-01",
+      "effective_to": "2004-12-31",
+      "visible_from": "2004-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-05-01_0",
+      "effective_from": "2004-05-01",
+      "effective_to": "2004-05-18",
+      "visible_from": "2004-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-01-01_0",
+      "effective_from": "2005-01-01",
+      "effective_to": "2005-01-31",
+      "visible_from": "2005-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-05-19_0",
+      "effective_from": "2004-05-19",
+      "effective_to": "2004-05-31",
+      "visible_from": "2004-05-19",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-02-01_0",
+      "effective_from": "2004-02-01",
+      "effective_to": "2004-04-30",
+      "visible_from": "2004-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-09-01_0",
+      "effective_from": "2004-09-01",
+      "effective_to": "2004-09-30",
+      "visible_from": "2004-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-06-01_0",
+      "effective_from": "2004-06-01",
+      "effective_to": "2004-06-30",
+      "visible_from": "2004-06-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2004-07-01_0",
+      "effective_from": "2004-07-01",
+      "effective_to": "2004-08-31",
+      "visible_from": "2004-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-02-01_0",
+      "effective_from": "2005-02-01",
+      "effective_to": "2005-06-14",
+      "visible_from": "2005-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-07-01_0",
+      "effective_from": "2005-07-01",
+      "effective_to": "2005-07-31",
+      "visible_from": "2005-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-06-01_0",
+      "effective_from": "2007-06-01",
+      "effective_to": "2007-06-30",
+      "visible_from": "2007-06-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-02-01_0",
+      "effective_from": "2007-02-01",
+      "effective_to": "2007-02-28",
+      "visible_from": "2007-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-09-01_0",
+      "effective_from": "2008-09-01",
+      "effective_to": "2008-12-31",
+      "visible_from": "2008-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2006-11-01_0",
+      "effective_from": "2006-11-01",
+      "effective_to": "2006-12-31",
+      "visible_from": "2006-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-12-01_0",
+      "effective_from": "2007-12-01",
+      "effective_to": "2007-12-31",
+      "visible_from": "2007-12-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-11-01_0",
+      "effective_from": "2005-11-01",
+      "effective_to": "2005-12-31",
+      "visible_from": "2005-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-03-26_0",
+      "effective_from": "2008-03-26",
+      "effective_to": "2008-05-08",
+      "visible_from": "2008-03-26",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2006-09-01_0",
+      "effective_from": "2006-09-01",
+      "effective_to": "2006-10-31",
+      "visible_from": "2006-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-07-01_0",
+      "effective_from": "2010-07-01",
+      "effective_to": "2010-08-31",
+      "visible_from": "2010-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-04-01_0",
+      "effective_from": "2010-04-01",
+      "effective_to": "2010-06-30",
+      "visible_from": "2010-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-11-01_0",
+      "effective_from": "2010-11-01",
+      "effective_to": "2010-12-31",
+      "visible_from": "2010-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2009-04-01_0",
+      "effective_from": "2009-04-01",
+      "effective_to": "2009-05-31",
+      "visible_from": "2009-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-01-01_0",
+      "effective_from": "2011-01-01",
+      "effective_to": "2011-01-31",
+      "visible_from": "2011-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-02-01_0",
+      "effective_from": "2011-02-01",
+      "effective_to": "2011-06-30",
+      "visible_from": "2011-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-05-01_0",
+      "effective_from": "2014-05-01",
+      "effective_to": "2014-06-30",
+      "visible_from": "2014-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-09-01_0",
+      "effective_from": "2012-09-01",
+      "effective_to": "2012-09-30",
+      "visible_from": "2012-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-04-01_0",
+      "effective_from": "2014-04-01",
+      "effective_to": "2014-04-30",
+      "visible_from": "2014-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-10-01_0",
+      "effective_from": "2013-10-01",
+      "effective_to": "2013-10-31",
+      "visible_from": "2013-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-01-01_0",
+      "effective_from": "2014-01-01",
+      "effective_to": "2014-01-05",
+      "visible_from": "2014-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-01-06_0",
+      "effective_from": "2014-01-06",
+      "effective_to": "2014-03-31",
+      "visible_from": "2014-01-06",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-11-01_0",
+      "effective_from": "2013-11-01",
+      "effective_to": "2013-12-31",
+      "visible_from": "2013-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-07-26_0",
+      "effective_from": "2013-07-26",
+      "effective_to": "2013-09-30",
+      "visible_from": "2013-07-26",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-02-01_0",
+      "effective_from": "2008-02-01",
+      "effective_to": "2008-03-25",
+      "visible_from": "2008-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2016-08-11_0",
+      "effective_from": "2016-08-11",
+      "effective_to": "2016-11-30",
+      "visible_from": "2016-08-11",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-01-01_1",
+      "effective_from": "2012-01-01",
+      "effective_to": "2012-03-31",
+      "visible_from": "2012-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-07-01_0",
+      "effective_from": "2008-07-01",
+      "effective_to": "2008-08-31",
+      "visible_from": "2008-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2017-01-01_0",
+      "effective_from": "2017-01-01",
+      "effective_to": "2017-02-28",
+      "visible_from": "2017-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-10-01_0",
+      "effective_from": "2012-10-01",
+      "effective_to": "2012-10-31",
+      "visible_from": "2012-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2016-07-01_0",
+      "effective_from": "2016-07-01",
+      "effective_to": "2016-08-10",
+      "visible_from": "2016-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-08-01_1",
+      "effective_from": "2011-08-01",
+      "effective_to": "2011-12-31",
+      "visible_from": "2012-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-07-02_0",
+      "effective_from": "2011-07-02",
+      "effective_to": "2011-07-31",
+      "visible_from": "2011-07-01",
+      "visible_to": "2012-06-30"
+    },
+    {
+      "label": "2005-06-15_0",
+      "effective_from": "2005-06-15",
+      "effective_to": "2005-06-30",
+      "visible_from": "2005-06-15",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-07-02_1",
+      "effective_from": "2011-07-02",
+      "effective_to": "2011-07-31",
+      "visible_from": "2012-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-04-01_1",
+      "effective_from": "2012-04-01",
+      "effective_to": "2012-06-30",
+      "visible_from": "2012-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-01-01_0",
+      "effective_from": "2010-01-01",
+      "effective_to": "2010-03-31",
+      "visible_from": "2010-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-03-01_0",
+      "effective_from": "2007-03-01",
+      "effective_to": "2007-05-08",
+      "visible_from": "2007-03-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-07-01_0",
+      "effective_from": "2011-07-01",
+      "effective_to": "2011-07-01",
+      "visible_from": "2011-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2009-06-01_0",
+      "effective_from": "2009-06-01",
+      "effective_to": "2009-06-30",
+      "visible_from": "2009-06-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2011-08-01_0",
+      "effective_from": "2011-08-01",
+      "effective_to": "2011-12-31",
+      "visible_from": "2011-08-01",
+      "visible_to": "2012-06-30"
+    },
+    {
+      "label": "2012-04-01_0",
+      "effective_from": "2012-04-01",
+      "effective_to": "2012-06-30",
+      "visible_from": "2012-04-01",
+      "visible_to": "2012-06-30"
+    },
+    {
+      "label": "2009-03-25_0",
+      "effective_from": "2009-03-25",
+      "effective_to": "2009-03-31",
+      "visible_from": "2009-03-25",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-10-01_0",
+      "effective_from": "2005-10-01",
+      "effective_to": "2005-10-14",
+      "visible_from": "2005-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-10-01_0",
+      "effective_from": "2010-10-01",
+      "effective_to": "2010-10-09",
+      "visible_from": "2010-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2009-01-01_0",
+      "effective_from": "2009-01-01",
+      "effective_to": "2009-03-24",
+      "visible_from": "2009-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-10-10_0",
+      "effective_from": "2010-10-10",
+      "effective_to": "2010-10-31",
+      "visible_from": "2010-10-10",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-01-01_0",
+      "effective_from": "2008-01-01",
+      "effective_to": "2008-01-31",
+      "visible_from": "2008-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-07-04_0",
+      "effective_from": "2007-07-04",
+      "effective_to": "2007-11-30",
+      "visible_from": "2007-07-04",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-05-09_0",
+      "effective_from": "2007-05-09",
+      "effective_to": "2007-05-31",
+      "visible_from": "2007-05-09",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2005-08-01_0",
+      "effective_from": "2005-08-01",
+      "effective_to": "2005-09-30",
+      "visible_from": "2005-08-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2009-07-01_0",
+      "effective_from": "2009-07-01",
+      "effective_to": "2009-12-31",
+      "visible_from": "2009-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2006-04-01_0",
+      "effective_from": "2006-04-01",
+      "effective_to": "2006-08-31",
+      "visible_from": "2006-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-01-01_0",
+      "effective_from": "2012-01-01",
+      "effective_to": "2012-03-31",
+      "visible_from": "2012-01-01",
+      "visible_to": "2012-06-30"
+    },
+    {
+      "label": "2005-10-15_0",
+      "effective_from": "2005-10-15",
+      "effective_to": "2005-10-31",
+      "visible_from": "2005-10-15",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-07-01_0",
+      "effective_from": "2007-07-01",
+      "effective_to": "2007-07-03",
+      "visible_from": "2007-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2007-01-01_0",
+      "effective_from": "2007-01-01",
+      "effective_to": "2007-01-31",
+      "visible_from": "2007-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2008-05-09_0",
+      "effective_from": "2008-05-09",
+      "effective_to": "2008-06-30",
+      "visible_from": "2008-05-09",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2017-03-01_0",
+      "effective_from": "2017-03-01",
+      "effective_to": "2017-03-31",
+      "visible_from": "2017-03-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2006-01-01_0",
+      "effective_from": "2006-01-01",
+      "effective_to": "2006-01-31",
+      "visible_from": "2006-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2017-06-17_0",
+      "effective_from": "2017-06-17",
+      "effective_to": "2017-12-31",
+      "visible_from": "2017-06-17",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2006-02-01_0",
+      "effective_from": "2006-02-01",
+      "effective_to": "2006-03-31",
+      "visible_from": "2006-02-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2010-09-01_0",
+      "effective_from": "2010-09-01",
+      "effective_to": "2010-09-30",
+      "visible_from": "2010-09-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2017-04-01_0",
+      "effective_from": "2017-04-01",
+      "effective_to": "2017-06-16",
+      "visible_from": "2017-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2015-01-01_0",
+      "effective_from": "2015-01-01",
+      "effective_to": "2015-02-28",
+      "visible_from": "2015-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-07-01_0",
+      "effective_from": "2013-07-01",
+      "effective_to": "2013-07-25",
+      "visible_from": "2013-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-07-01_0",
+      "effective_from": "2012-07-01",
+      "effective_to": "2012-08-31",
+      "visible_from": "2012-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2012-11-01_0",
+      "effective_from": "2012-11-01",
+      "effective_to": "2012-12-31",
+      "visible_from": "2012-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2015-07-01_0",
+      "effective_from": "2015-07-01",
+      "effective_to": "2015-11-16",
+      "visible_from": "2015-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-07-01_0",
+      "effective_from": "2014-07-01",
+      "effective_to": "2014-10-31",
+      "visible_from": "2014-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2015-03-01_0",
+      "effective_from": "2015-03-01",
+      "effective_to": "2015-06-30",
+      "visible_from": "2015-03-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2014-11-01_0",
+      "effective_from": "2014-11-01",
+      "effective_to": "2014-12-31",
+      "visible_from": "2014-11-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2015-11-17_0",
+      "effective_from": "2015-11-17",
+      "effective_to": "2016-06-30",
+      "visible_from": "2015-11-17",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-04-01_0",
+      "effective_from": "2013-04-01",
+      "effective_to": "2013-06-30",
+      "visible_from": "2013-04-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-03-01_0",
+      "effective_from": "2019-03-01",
+      "effective_to": "2019-04-26",
+      "visible_from": "2019-03-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-03-15_0",
+      "effective_from": "2013-03-15",
+      "effective_to": "2013-03-31",
+      "visible_from": "2013-03-15",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-10-01_0",
+      "effective_from": "2018-10-01",
+      "effective_to": "2018-10-15",
+      "visible_from": "2018-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2013-01-01_0",
+      "effective_from": "2013-01-01",
+      "effective_to": "2013-03-14",
+      "visible_from": "2013-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-07-01_1",
+      "effective_from": "2018-07-01",
+      "effective_to": "2018-07-27",
+      "visible_from": "2018-07-28",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-07-28_0",
+      "effective_from": "2018-07-28",
+      "effective_to": "2018-09-18",
+      "visible_from": "2018-07-28",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-07-01_0",
+      "effective_from": "2018-07-01",
+      "effective_to": "2018-07-27",
+      "visible_from": "2018-07-01",
+      "visible_to": "2018-07-27"
+    },
+    {
+      "label": "2016-12-01_0",
+      "effective_from": "2016-12-01",
+      "effective_to": "2016-12-31",
+      "visible_from": "2016-12-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-05-25_1",
+      "effective_from": "2018-05-25",
+      "effective_to": "2018-06-30",
+      "visible_from": "2018-07-28",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-01-01_0",
+      "effective_from": "2018-01-01",
+      "effective_to": "2018-04-30",
+      "visible_from": "2018-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-05-01_0",
+      "effective_from": "2018-05-01",
+      "effective_to": "2018-05-24",
+      "visible_from": "2018-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-09-19_0",
+      "effective_from": "2018-09-19",
+      "effective_to": "2018-09-30",
+      "visible_from": "2018-09-19",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-10-16_0",
+      "effective_from": "2018-10-16",
+      "effective_to": "2018-12-31",
+      "visible_from": "2018-10-16",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-08-01_0",
+      "effective_from": "2019-08-01",
+      "effective_to": "2019-12-31",
+      "visible_from": "2019-08-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-01-01_0",
+      "effective_from": "2019-01-01",
+      "effective_to": "2019-02-28",
+      "visible_from": "2019-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2018-05-25_0",
+      "effective_from": "2018-05-25",
+      "effective_to": "2018-06-30",
+      "visible_from": "2018-05-01",
+      "visible_to": "2018-07-27"
+    },
+    {
+      "label": "2020-12-19_0",
+      "effective_from": "2020-12-19",
+      "effective_to": "2020-12-31",
+      "visible_from": "2020-12-19",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2020-07-25_0",
+      "effective_from": "2020-07-25",
+      "effective_to": "2020-12-18",
+      "visible_from": "2020-07-25",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2021-05-07_0",
+      "effective_from": "2021-05-07",
+      "effective_to": "2021-06-30",
+      "visible_from": "2021-05-07",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2020-01-01_0",
+      "effective_from": "2020-01-01",
+      "effective_to": "2020-07-24",
+      "visible_from": "2020-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-05-01_0",
+      "effective_from": "2019-05-01",
+      "effective_to": "2019-05-31",
+      "visible_from": "2019-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2022-10-01_0",
+      "effective_from": "2022-10-01",
+      "effective_to": "2022-12-31",
+      "visible_from": "2022-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2023-01-01_0",
+      "effective_from": "2023-01-01",
+      "effective_to": "2023-02-28",
+      "visible_from": "2023-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2025-01-01_0",
+      "effective_from": "2025-01-01",
+      "effective_to": "2025-02-03",
+      "visible_from": "2025-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2021-05-01_0",
+      "effective_from": "2021-05-01",
+      "effective_to": "2021-05-06",
+      "visible_from": "2021-05-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-04-27_0",
+      "effective_from": "2019-04-27",
+      "effective_to": "2019-04-30",
+      "visible_from": "2019-04-27",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2021-07-01_0",
+      "effective_from": "2021-07-01",
+      "effective_to": "2021-11-08",
+      "visible_from": "2021-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2021-01-01_0",
+      "effective_from": "2021-01-01",
+      "effective_to": "2021-04-30",
+      "visible_from": "2021-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2023-03-01_0",
+      "effective_from": "2023-03-01",
+      "effective_to": "2023-09-30",
+      "visible_from": "2023-03-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2024-07-01_0",
+      "effective_from": "2024-07-01",
+      "effective_to": "2024-09-30",
+      "visible_from": "2024-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2023-10-01_0",
+      "effective_from": "2023-10-01",
+      "effective_to": "2023-12-31",
+      "visible_from": "2023-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2022-07-01_0",
+      "effective_from": "2022-07-01",
+      "effective_to": "2022-09-30",
+      "visible_from": "2022-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2024-01-01_0",
+      "effective_from": "2024-01-01",
+      "effective_to": "2024-06-30",
+      "visible_from": "2024-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2024-10-01_0",
+      "effective_from": "2024-10-01",
+      "effective_to": "2024-12-31",
+      "visible_from": "2024-10-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2021-11-09_0",
+      "effective_from": "2021-11-09",
+      "effective_to": "2021-12-31",
+      "visible_from": "2021-11-09",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2019-06-01_0",
+      "effective_from": "2019-06-01",
+      "effective_to": "2019-07-31",
+      "visible_from": "2019-06-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2022-01-01_0",
+      "effective_from": "2022-01-01",
+      "effective_to": "2022-06-30",
+      "visible_from": "2022-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2025-02-04_0",
+      "effective_from": "2025-02-04",
+      "effective_to": "2025-05-14",
+      "visible_from": "2025-02-04",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2025-05-15_0",
+      "effective_from": "2025-05-15",
+      "effective_to": "2025-06-30",
+      "visible_from": "2025-05-15",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2025-07-01_0",
+      "effective_from": "2025-07-01",
+      "effective_to": "2025-12-31",
+      "visible_from": "2025-07-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2026-01-01_0",
+      "effective_from": "2026-01-01",
+      "effective_to": "2026-06-30",
+      "visible_from": "2026-01-01",
+      "visible_to": "9999-12-31"
+    },
+    {
+      "label": "2026-07-01_0",
+      "effective_from": "2026-07-01",
+      "effective_to": "9999-12-31",
+      "visible_from": "2026-07-01",
+      "visible_to": "9999-12-31"
+    }
+  ],
+  "applicable_at_decisive_date": [
+    {
+      "label": "2026-07-01_0",
+      "effective_from": "2026-07-01",
+      "effective_to": "9999-12-31",
+      "visible_from": "2026-07-01",
+      "visible_to": "9999-12-31"
+    }
+  ],
+  "applicable_at_review": [
+    {
+      "label": "2026-07-01_0",
+      "effective_from": "2026-07-01",
+      "effective_to": "9999-12-31",
+      "visible_from": "2026-07-01",
+      "visible_to": "9999-12-31"
+    }
+  ],
+  "manifest_sha512_verified": true,
+  "checked_article_ids": [
+    "12i",
+    "12k",
+    "27a",
+    "164",
+    "165",
+    "533",
+    "534",
+    "535",
+    "536",
+    "6:1:1",
+    "6:1:9",
+    "6:3:1",
+    "6:3:6",
+    "5.3.1",
+    "5.3.2",
+    "5.3.3",
+    "5.3.4",
+    "5.3.5"
+  ],
+  "excerpts": "sources/review-batch09-sv-extract.xml",
+  "readable_extract": "sources/review-batch09-sv-extract.txt",
+  "text_checks": [
+    {
+      "id": "12i",
+      "official_path": "/BoekEerste/TiteldeelI/AfdelingVierde/Artikel12i",
+      "effective_from": "2013-01-01",
+      "text_sha256": "a64c2a08cc334f110bf478ca9519fdc979dde396c1ca84e014d1824a2868b887"
+    },
+    {
+      "id": "12k",
+      "official_path": "/BoekEerste/TiteldeelI/AfdelingVierde/Artikel12k",
+      "effective_from": "2008-02-01",
+      "text_sha256": "16177cdd0d7c67aabcd5da86b27b1a7419fe6ac18682c66f196dccc8a0d6479e"
+    },
+    {
+      "id": "27a",
+      "official_path": "/BoekEerste/TiteldeelII/Artikel27a",
+      "effective_from": "2014-01-06",
+      "text_sha256": "bb18b46c81a666deb5602e3027d2af4627748ea782e2a502ed5a507d90222947"
+    },
+    {
+      "id": "164",
+      "official_path": "/BoekTweede/TiteldeelI/AfdelingVierde/Artikel164",
+      "effective_from": "2016-12-01",
+      "text_sha256": "5b96d105d27d76dbb4689e5bd3bdfdce2f7cd5e6f0dbc429ad365aee20cef3d1"
+    },
+    {
+      "id": "165",
+      "official_path": "/BoekTweede/TiteldeelI/AfdelingVierde/Artikel165",
+      "effective_from": "2013-01-01",
+      "text_sha256": "ba93a9e703bf5a23d17652274d36fb397b606b54d3ee635c5f653ed2106b2562"
+    },
+    {
+      "id": "533",
+      "official_path": "/BoekVierde/TiteldeelVIa/Artikel533",
+      "effective_from": "2020-01-01",
+      "text_sha256": "9da55dd10997bd1ffc784b72db2913e37695c684e1dc32b2e990b7cf09ff8a65"
+    },
+    {
+      "id": "534",
+      "official_path": "/BoekVierde/TiteldeelVIa/Artikel534",
+      "effective_from": "2020-01-01",
+      "text_sha256": "02e895eb1fae2aaff7b42bdef94520c621ea2b41b55ad7e38d2daa845ed207ca"
+    },
+    {
+      "id": "535",
+      "official_path": "/BoekVierde/TiteldeelVIa/Artikel535",
+      "effective_from": "2020-01-01",
+      "text_sha256": "a29b8130f1071ea9687475f329c1b27e65f13782d7e06263a8da2ca6487083dd"
+    },
+    {
+      "id": "536",
+      "official_path": "/BoekVierde/TiteldeelVIa/Artikel536",
+      "effective_from": "2020-01-01",
+      "text_sha256": "a0fc82859e93bb4ec3213f5750d95b20f2364cb19504085d357ed232e0ca6edf"
+    },
+    {
+      "id": "6:1:1",
+      "official_path": "/Boek6/Hoofdstuk1/TiteldeelEerste/Artikel6:1:1",
+      "effective_from": "2020-01-01",
+      "text_sha256": "73668bb24f8c7634c098bcc15f2105db4a02be86ff3a3f5efd840e34cc5e2f66"
+    },
+    {
+      "id": "6:1:9",
+      "official_path": "/Boek6/Hoofdstuk1/TiteldeelEerste/Artikel6:1:9",
+      "effective_from": "2020-01-01",
+      "text_sha256": "c6bece5e6f8d636c445974fb4e4b9653fa3a1dd253699c7216744db33c3704d5"
+    },
+    {
+      "id": "6:3:1",
+      "official_path": "/Boek6/Hoofdstuk3/TiteldeelEerste/Artikel6:3:1",
+      "effective_from": "2020-01-01",
+      "text_sha256": "e367701f76da02c7aa731863f8c835f57245597a24537870f8c7bf08606f17cb"
+    },
+    {
+      "id": "6:3:6",
+      "official_path": "/Boek6/Hoofdstuk3/TiteldeelEerste/Artikel6:3:6",
+      "effective_from": "2020-01-01",
+      "text_sha256": "5d6b4504b97d7bc0c9ff958eab3611a37ff6cdf5b7d11465b1c2a01a61c3b597"
+    },
+    {
+      "id": "5.3.1",
+      "official_path": "/BoekVijfde/Titeldeel3/AfdelingEerste/Paragraaf1/Artikel5.3.1",
+      "effective_from": "2018-07-01",
+      "text_sha256": "987ab92d614a73260abaa4943bfefebeac1b4626fb7a9bb504d075b495710273"
+    },
+    {
+      "id": "5.3.2",
+      "official_path": "/BoekVijfde/Titeldeel3/AfdelingEerste/Paragraaf1/Artikel5.3.2",
+      "effective_from": "2018-07-01",
+      "text_sha256": "ace29d1edecfb8e678435629405a9090487485cd51593bc797ad7b7461f7f973"
+    },
+    {
+      "id": "5.3.3",
+      "official_path": "/BoekVijfde/Titeldeel3/AfdelingEerste/Paragraaf1/Artikel5.3.3",
+      "effective_from": "2018-07-01",
+      "text_sha256": "c0846d423367935560d7be19a6b87b8cd1ce6f5618375acd7bda52eca2bf350f"
+    },
+    {
+      "id": "5.3.4",
+      "official_path": "/BoekVijfde/Titeldeel3/AfdelingEerste/Paragraaf1/Artikel5.3.4",
+      "effective_from": "2018-07-01",
+      "text_sha256": "d6db89df9f58266da5b81043cfbe23502f9e36eac8a21f2750940f83179436b5"
+    },
+    {
+      "id": "5.3.5",
+      "official_path": "/BoekVijfde/Titeldeel3/AfdelingEerste/Paragraaf2/Artikel5.3.5",
+      "effective_from": "2018-07-01",
+      "text_sha256": "0d44e283e57f8ebb996f56e3a4a2768aea981f82ee7e891e36b6578bb7103da9"
+    }
+  ],
+  "historical12k": {
+    "version": "2008-01-01",
+    "raw_path": "sources/review-batch09-sv-historical.xml",
+    "raw_sha256": "481a61d333ac6df668b3048d7653835ef7c883888571aa6880b794f335685719",
+    "text": "1 Bij toepassing van artikel 74 van het Wetboek van Strafrecht dan wel van het bepaalde krachtens artikel 74c van dat wetboek moet het beklag worden gedaan binnen drie maanden na de datum waarop de rechtstreeks belanghebbende met deze toepassing bekend is geworden.\n\n2 Het beklag kan ook na deze termijn worden gedaan, indien de verdachte niet aan de gestelde voorwaarden voldoet."
+  },
+  "74b_cross_reference_finding": {
+    "current_Sr_text": "74b lid1 still refers to12k Sv; source wording preserved.",
+    "current_Sv12k": "Concerns complaint period after strafbeschikking, not the former transaction wording.",
+    "current_Sv12i": "General judicial order to institute/continue prosecution. Not silently substituted for12k in statutory text.",
+    "amending_law": "Stb2006/330 ArticleI C replaces12k; ArticleII Q provides repeal of74b.",
+    "commencement": "Stb2008/4 effective1February2008 excludes ArticleII O–R, including Q. Official HTML used because XML endpoint returned empty body.",
+    "historical_body": "Official Sv2008-01-01_0 confirms earlier12k transaction wording. Both old/new bodies retained separately.",
+    "disposition": "Commentary explicitly explains stale reference and phased change; does not invent a repaired statutory text or automatic current procedural result.",
+    "limitations": "No exhaustive later case-law review on this cross-reference; actual revival order and its grounds remain case-specific."
+  },
+  "limitations": [
+    "Targeted external cross-reference verification only, not commentary on entire Sv or any concrete international treaty."
+  ]
+}

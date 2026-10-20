@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2018:2242</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T04:28:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-12-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2018-12-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/01187</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2017:1450" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging met terugwijzen">In cassatie op : ECLI:NL:GHARL:2017:1450, (Gedeeltelijke) vernietiging met terugwijzen</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2018:1197" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2018:1197, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2019/18</rdf:li>
+          <rdf:li>RvdW 2019/8</rdf:li>
+          <rdf:li>SR-Updates.nl 2018-0438 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJ 2019/297 met annotatie van N. Rozemond</rdf:li>
+          <rdf:li>NbSr 2019/13</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2242">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2242</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2018-12-04T11:22:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-12-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2018:2242 Hoge Raad , 04-12-2018 / 17/01187</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2018:2242:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Medeplegen afdreiging (meermalen gepleegd) door zich samen met haar medeverdachte meermalen schuldig te maken aan webcamsekschantage waarbij mannen zijn gedwongen grote geldbedragen over te maken (art. 318.1 Sr). 1. Klachtvereiste. Mocht politie eigener beweging vermoedelijke slachtoffers van klachtmisdrijf afdreiging benaderen zonder dat zij eerst klacht hadden ingediend? 2. Klachttermijnvereiste, art. 66.1 Sr, art. 163, 164 en 165 Sv. Staat omstandigheid dat aantal aangevers niet binnen termijn a.b.i. 66.1 Sr klacht heeft ingediend in de weg aan ontvankelijkheid OM in vervolging?</para>
+        <para>Ad 1. HR herhaalt relevante overwegingen uit ECLI:NL:HR:1977:AB7174 en ECLI:NL:HR:1998:ZD1194, inhoudende dat in regeling van op klacht vervolgbare misdrijven klacht slechts wordt aangemerkt als voorwaarde voor toelaatbaarheid van vervolging t.z.v. zodanig misdrijf, strekking van die regeling meebrengt dat ook opsporingshandelingen te dier zake bij gebreke van klacht achterwege moeten blijven en regel dat onderzoek ter voorbereiding van vervolging slechts mag worden ondernomen indien klacht is gedaan uitzondering lijdt indien klachtgerechtigde te kennen heeft gegeven zodanig onderzoek te wensen. Met strekking van klachtvereiste is evenmin in strijd dat n.a.v. opsporingswens van klachtgerechtigde door politie naspeuringen worden gedaan naar mogelijke andere slachtoffers. Dit zou anders zijn, wanneer tegen door mogelijk slachtoffer uitdrukkelijk kenbaar gemaakte wens in, (nadere) onderzoekhandelingen zouden worden geïnitieerd dan wel voortgezet, maar hieromtrent is door verdediging niets gesteld terwijl ook dossier daarvoor geen aanknopingspunt biedt. In het licht hiervan getuigt ‘s Hofs verwerping van gevoerd verweer niet van onjuiste rechtsopvatting en is zij ook niet onbegrijpelijk.</para>
+        <para>Ad 2. Feiten ter zake waarvan verdachte is vervolgd en veroordeeld zijn als misdrijf strafbaar gesteld in art. 318.1 Sr. O.g.v. art. 318.3 Sr kan dit misdrijf niet worden vervolgd dan op klacht van hem tegen wie het is gepleegd. Ex art. 164.1 Sv bestaat klacht in aangifte bij bevoegde ambtenaar met verzoek tot vervolging, terwijl art. 165.1 Sv regelt wie bevoegde ambtenaar is en art. 164.2 Sv erin voorziet dat voorschriften van art. 163 Sv omtrent wijze waarop aangifte moet worden gedaan, van overeenkomstige toepassing zijn. Blijkens wetsgeschiedenis steunt deze door klachtvereiste gecreëerde afhankelijkheid der vervolging van wil van hem tegen wie misdrijf is gepleegd op mogelijkheid dat bijzonder belang groter nadeel lijdt door instellen dan openbaar belang door niet-instellen der strafactie. Bijzonder belang is hierin gelegen dat ongewenste ruchtbaarheid die door de door delict getroffene als pijnlijk wordt ervaren, wordt vermeden. Dit belang is in geval waarin klacht is vereist, niet in het geding indien klacht weliswaar niet voldoet aan wettelijke eisen van art. 163 en/of art. 164 Sv maar vaststaat dat klachtgerechtigde vervolging heeft gewenst. In art. 66.1 Sr is bepaald dat klacht kan worden ingediend gedurende 3 maanden na dag waarop klachtgerechtigde kennis heeft genomen van feit. O.g.v. memorie van toelichting bij ontwerpwetboek moet worden aangenomen dat klachtgerechtigde zijn bevoegdheid slechts gedurende in wet genoemde klachttermijn kan uitoefenen. Dat betekent dat indien voor instellen van vervolging klacht is vereist en klacht niet is ingediend binnen 3 maanden nadat klachtgerechtigde heeft kennis genomen van delict, vervolging daarop afstuit. Ingeval klacht weliswaar niet voldoet aan alle formele wettelijke eisen of niet is ingediend bij bevoegde ambtenaar, maar vaststaat dat klachtgerechtigde vervolging heeft gewenst, zal van die wens binnen die termijn moeten zijn gebleken. HR merkt op dat volgens conceptwetgeving t.b.v. modernisering van WvSv voornemen bestaat klachttermijn van art. 66 Sr af te schaffen, terwijl huidige klachtregeling op andere afweging van argumenten berust. Het is aan wetgever dienaangaande keuze te maken. Door verdediging is aangevoerd dat klachten niet binnen termijn van art. 66.1 Sr zijn ingediend en dat dit moet leiden tot niet-ontvankelijkverklaring OM in vervolging. Hof heeft vastgesteld dat m.b.t. feit 4 klacht tijdig is gedaan. Wat betreft overige feiten heeft Hof verweer verworpen op de grond dat overschrijding van die termijn niet ertoe leidt "dat het vervolgingsrecht van het openbaar ministerie is vervallen", nu t.a.v. alle aangevers is gebleken van uitdrukkelijke vervolgingswens. Uit betekenis van termijn van art. 66.1 Sr volgt dat Hof verweer - behoudens wat betreft feit 4 - heeft verworpen op gronden die verwerping niet kunnen dragen. </para>
+        <para>Volgt partiële vernietiging en terugwijzing. Samenhang met 17/01181 P.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2018:2242:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>4 december 2018</para>
+    <para>Strafkamer</para>
+    <para>nr. S 17/01187</para>
+    <para>EC/CB</para>
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, van 20 februari 2017, nummer 21/007317-14, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1994.</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>	Het beroep is ingesteld door de verdachte. Namens deze heeft J. Boksem, advocaat te Leeuwarden, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>	De Advocaat-Generaal F.W. Bleichrodt heeft geconcludeerd tot vernietiging van het bestreden arrest ten aanzien van de beslissingen op het onder 1, 2, 3, 5 en 6 tenlastegelegde en de strafoplegging en tot terugwijzing van de zaak naar het gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Ontvankelijkheid van het Openbaar Ministerie in de vervolging</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het Hof heeft ten laste van de verdachte onder 1 tot en met 6 bewezenverklaard dat zij telkens tezamen en in vereniging met een ander met het oogmerk van wederrechtelijke bevoordeling door bedreiging met smaad, smaadschrift en/of openbaring van een geheim, de in bewezenverklaring genoemde personen heeft gedwongen tot de afgifte van een hoeveelheid geld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Bij de behandeling van de zaak in hoger beroep zijn door de verdediging verweren gevoerd strekkende tot de niet-ontvankelijkverklaring van het Openbaar Ministerie in de vervolging van de verdachte. Het Hof heeft deze verweren verworpen en daartoe het volgende overwogen:</para>
+        <para>"De verdediging heeft ten aanzien van het gros van de ten laste gelegde feiten de niet ontvankelijkheid van het openbaar ministerie in zijn recht tot vervolging bepleit.</para>
+        <para>Kort samengevat richt deze grief zich op de omstandigheid dat:</para>
+        <para>- de aangevers niet uit eigen beweging door de politie benaderd hadden mogen worden en het onderzoek niet zo uitvoerig had mogen plaatsvinden zonder dat de politie zich verzekerd wist van een wens tot vervolging, </para>
+        <para>- klachten buiten de klachttermijn en dus te laat zijn ingediend,</para>
+        <para>- de wel tijdige aangifte in het onder 2 ten laste gelegde feit niet als een klacht kan worden beschouwd,</para>
+        <para>- uit de in de overige zaken buiten de klachttermijn gedane aangiftes noch uit het onderzoek ter terechtzitting blijkt dat de aangevers binnen de termijn van drie maanden na bekendwording met het misdrijf strafvervolging wensten, </para>
+        <para>- de drie maanden-termijn een dwingende termijn is waarvan niet afgeweken mag worden (...)</para>
+        <para>Bovenstaande grieven leiden - aldus de verdediging - ertoe dat het openbaar ministerie niet ontvankelijk moet worden verklaard in zijn recht tot vervolging van verdachte ter zake van de feiten 2 tot en met 6 omdat er onrechtmatig uitvoerig en stelselmatig opsporingsonderzoek heeft plaatsgevonden. Dit onderzoek heeft tot aangiftes geleid, terwijl politie en justitie er bewust van waren dat het klachtdelicten betroffen. Daardoor hebben zij bewust de wettelijke regels voor opsporing overtreden.</para>
+        <para>Ditzelfde geldt ook voor het onder feit 7 ten laste gelegde witwassen, voor zover de bewijsmiddelen voor een eventuele bewezenverklaring voortvloeien uit voornoemd onrechtmatig opsporingsonderzoek.</para>
+        <para>Eveneens is het openbaar ministerie niet-ontvankelijk in de ten laste gelegde feiten 1A, 2, 3, 5A en 6 wegens het niet tijdig indienen van klachten door de aangevers.</para>
+        <para>Ook de in subsidiaire vorm ten laste gelegde dreiging met feitelijkheden lijdt onder het gemis van een tijdige klacht zodat ook ten aanzien van deze onderdelen van de beschuldiging het openbaar ministerie niet ontvankelijk zou moeten worden verklaard.</para>
+        <para>Het hof overweegt met betrekking tot de ter discussie gestelde ontvankelijkheidsvraag het volgende:</para>
+        <para>In de ten laste gelegde feiten 1 tot en met 6 is telkens primair ten laste gelegd de in artikel 318 lid 1 van het Wetboek van Strafrecht strafbaar gestelde afdreiging. Uit het derde lid van dit artikel blijkt dat dit misdrijf niet wordt vervolgd dan op klacht van hem tegen wie het gepleegd is. In de literatuur wordt deze strafbaarstelling aangeduid als een absoluut klachtdelict. De regeling van de formele vereisten waaraan een dergelijke klacht moet voldoen wordt aangetroffen in de artikelen 64 tot en met 67 van het Wetboek van Strafrecht en de artikelen 164 tot en met 166 van het Wetboek van Strafvordering. In de onderhavige casus is met name het gestelde in artikel 66 lid 1 van het Wetboek van Strafrecht van belang: 'De klacht kan worden ingediend gedurende drie maanden na de dag waarop de tot klacht gerechtigde kennis heeft genomen van het gepleegde feit.'</para>
+        <para>Is de stelling van de verdediging juist dat aangevers in zaken waarin een verdenking bestaat van een klachtdelict door de politie niet uit eigen beweging mogen worden benaderd zonder dat er al een klacht voorhanden is? Had het onderzoek zo uitvoerig mogen plaatsvinden zonder klacht?</para>
+        <para>In het onderhavige opsporingsonderzoek zijn inderdaad vermoedelijke slachtoffers van afdreiging door de politie benaderd. Dit was eerst nadat de aangever in het onder 1 ten laste gelegde feit zichzelf op 18 mei 2013 bij de politie had gemeld en aangifte deed van het feit dat hij naar aanleiding van een seksueel getinte chatsessie en direct daarop volgende webcamcontact op 10 januari 2013 gechanteerd werd met opnamen waarop te zien was dat hij seksuele handelingen bij zichzelf verrichtte. Op 27 maart 2014 doet aangever - nadat hij wederom is benaderd om geld - aanvullend aangifte. Hierop volgt onderzoek door de politie. Rekeningnummers worden onderzocht, telefoonnummers worden achterhaald en een IP-adres van de aan aangever verzonden e-mails wordt bekend. De onderzoeksresultaten leiden naar verdachte en haar partner. Met name door onderzoek van bankafschriften toebehorend aan beide verdachten ontstaat het vermoeden van het bestaan van mogelijke andere slachtoffers.</para>
+        <para>De verwachting dat bij een aangifte als hierboven genoemd opsporingsambtenaren hun ogen zouden dienen te sluiten voor andere verdenkingen enkel vanwege de omstandigheid dat het vermoeden een strafbaar feit betreft dat aangemerkt moet worden als een (absoluut) klachtdelict, acht het hof een overspanning van het straf- en strafprocesrecht. Net zoals het ridicuul is te veronderstellen dat wanneer dergelijke verdenkingen uit opsporingsonderzoek naar boven komen, van opsporingsambtenaren moet worden verwacht dat zij in lijdzaamheid gaan afwachten totdat een mogelijk afgedreigde zichzelf spontaan bij de politie meldt voor het doen van een aangifte. Er is geen rechtsregel die verbiedt dat in het geval van een klachtdelict de politie mogelijke slachtoffers van strafbare feiten benadert en hen wijst op mogelijkheden die het strafrecht voor hen kan bieden of zelfs uitdrukkelijk tot het doen van een aangifte uitnodigt. Dit zou eerst anders zijn wanneer tegen een door een mogelijke slachtoffer uitdrukkelijk kenbaar gemaakte wens in, (nadere) onderzoekhandelingen zouden worden geïnitieerd dan wel voortgezet. Hieromtrent is door de verdediging niets gesteld. Het strafdossier biedt voor een dergelijke stelling ook geen aanknopingspunt. Sterker, uit het dossier blijkt dat er meerdere slachtoffers zijn die er voor hebben gekozen géén aangifte te doen en dat deze keuze door de politie ook is gerespecteerd. Het hof is voorts van oordeel dat de stelling van de raadsvrouw dat er nimmer onderzoek door de politie mag of opsporingshandelingen mogen worden verricht, voordat er klacht is gedaan, geen steun vindt in het recht. Het hof vindt voor dit oordeel steun in het arrest van de Hoge Raad van 17 januari 1997, NJ 1997, 474. Het door de verdediging gevoerde verweer op dit punt wordt dan ook verworpen.</para>
+        <para>(...)</para>
+        <para>Een andere grief van de verdediging luidt dat niet is voldaan aan dwingende wettelijke vereisten die worden gesteld aan de klacht als vervolgingsvoorwaarde. Het hof stelt vast dat in het geval van feit 4 (zaak [betrokkene 24] ) binnen de gestelde termijn van drie maanden klacht is gedaan. Ten aanzien van de overige ten laste gelegde feiten geldt dat buiten de in artikel 66, eerste lid, Sr gestelde termijn aangifte c.q. klacht is gedaan.</para>
+        <para>Uit de Memorie van Toelichting bij het Wetboek van Strafrecht blijkt dat de ambtshalve vervolging als regel werd gezien. Afhankelijkheid van de vervolging van de wil van hem tegen wie het misdrijf is gepleegd, is gezien als een zeldzame uitzondering. De enige grond die de wetgever daarvoor erkent is dat het bijzonder belang (van een individu) groter nadeel lijdt door het instellen van de vervolging dan het openbaar belang door het niet instellen (H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, tweede druk, 1891, eerste deel, p. 493). Dat bijzondere belang is erin gelegen dat ongewenste ruchtbaarheid, die door de door het delict getroffene als pijnlijk wordt ervaren, wordt vermeden. In meer hedendaagse bewoordingen kan worden vooropgesteld dat de regeling van de klacht ten gunste van het slachtoffer dient te gelden. De regeling is niet in het leven geroepen als waarborg voor de belangen van de verdachte. Het voorkomen van de blootstelling van een verdachte aan opsporing of vervolging is immers in dit kader geen rechtens te respecteren belang.</para>
+        <para>De jurisprudentie van de afgelopen decennia overziend, leert dat het belang van de aan de klacht gestelde formaliteiten sterk is gerelativeerd. Zelfs het ontbreken van een klacht hoeft niet zonder meer tot de niet ontvankelijkheid te leiden van het openbaar ministerie. Naar huidig recht kan worden gesteld dat de essentie bij klachtdelicten is dat vaststaat - of vastgesteld wordt - dat vervolging van verdachte de instemming geniet van het slachtoffer/de aangever. Indien een klacht ontbreekt of wanneer sprake is van tekortkomingen bij het in acht nemen van vormvoorschriften, kan dit worden hersteld. Doorslaggevend is of op grond van het strafdossier en/of het onderzoek ter terechtzitting genoegzaam komt vast te staan dat het ook de uitdrukkelijke wens is van het slachtoffer dat het openbaar ministerie vervolging instelt tegen de verdachte.</para>
+        <para>Voornoemde relativering van de aan de strafklacht gestelde vereisten heeft naar het oordeel van het hof ook gevolgen voor de stelling van de verdediging dat de in artikel 66 van het Wetboek van Strafrecht genoemde drie maanden-termijn van indienen van zo'n klacht door de klachtgerechtigde van dwingende aard is. Termijnoverschrijding zou - als het aan de verdediging ligt - als rechtsgevolg moeten hebben dat het vervolgingsrecht van het openbaar ministerie is vervallen. Het hof verwerpt deze stelling.</para>
+        <para>De eerste reden is dat wanneer bij gemis van een formele klacht desondanks naar geldend recht vervolgbaarheid mogelijk blijft indien de wens tot vervolging op andere feiten en omstandigheden kan worden gebaseerd, de aan de formele klacht gekoppelde termijn van indiening ook aan belang inboet althans van geringere zelfstandige betekenis wordt.</para>
+        <para>De tweede reden is gelegen in de aard van het aan verdachte verweten feit: kort gezegd het afdreigen van geld onder bedreiging van bekendmaking van compromitterende afbeeldingen. Het zou ongerijmd zijn dat naarmate de 'afdreiger' door intimidatie en het zaaien van angst er beter in slaagt de afgedreigde te weerhouden van een stap naar de politie, hij - de verdachte - zijn vervolgbaarheid in voor hem positieve zin zou kunnen beïnvloeden in het geval hij daarmee een periode van drie maanden van inactiviteit van het slachtoffer weet te bewerkstelligen. Een dergelijk standpunt druist in tegen de geest van de wettelijke regeling van de klacht, die juist de belangen van de afgedreigde beoogt te beschermen.</para>
+        <para>De derde reden is van basale aard: een verdachte behoort geen profijt te hebben van een regeling die niet tot zijn bescherming, maar enkel tot bescherming van slachtoffers in het leven is geroepen.</para>
+        <para>Doorslaggevend voor de vraag of er sprake is van een rechtsgeldige klacht is als gezegd de wens van de afgedreigde dat er vervolging plaatsvindt. Het hof is van oordeel dat ten aanzien van de zes verschillende aangevers van een uitdrukkelijke vervolgingswens blijkt.</para>
+        <para>Met betrekking tot het onder 1 ten laste gelegde feitencomplex blijkt van een uitdrukkelijke vervolgingswens bij de aangever uit de omstandigheid dat aangever tot twee keer toe aangifte heeft gedaan, nog afzonderlijk stukken heeft overgelegd en een vordering benadeelde partij heeft ingediend die hij ook nog eens in hoger beroep heeft gehandhaafd. </para>
+        <para>Met betrekking tot het onder 2 ten laste gelegde feiten complex blijkt van een uitdrukkelijke vervolgingswens bij de aangever uit de omstandigheid dat aangever nadat hij zijn verklaring op 24 april 2014 heeft afgelegd een periode van elf dagen bedenktijd heeft genomen alvorens hij de aangifte ondertekent op 5 mei 2014, hij 2 juni 2014 een klacht heeft ingediend alsmede een vordering benadeelde partij, die hij ook nog eens in hoger beroep heeft gehandhaafd.</para>
+        <para>Met betrekking tot het onder 3 ten laste gelegde feitencomplex blijkt van een uitdrukkelijke vervolgingswens bij de aangever uit de omstandigheid dat aangever in zijn aangifte aangeeft geïnformeerd te willen worden over het verloop en de afdoening van de strafzaak, hij zijn schade wenst te verhalen in het strafproces en zich later ook heeft gesteld als benadeelde partij en voorts dat hij ook daadwerkelijk een klacht heeft ingediend.</para>
+        <para>Met betrekking tot het onder 4 ten laste gelegde feit is hiervoor reeds overwogen dat tijdig aangifte en klacht is gedaan.</para>
+        <para>Met betrekking tot het onder 5 ten laste gelegde feitencomplex blijkt van een uitdrukkelijke vervolgingswens bij de aangever uit de omstandigheid dat aangever in zijn aangifte aangeeft geïnformeerd te willen worden over het verloop en de afdoening van de strafzaak en voeging in het strafproces wil om zijn schade te verhalen, hij bij zijn aangifte ook direct een klacht indient, zich later ook voegt als benadeelde partij en deze vordering ook nog eens in hoger beroep heeft gehandhaafd.</para>
+        <para>Met betrekking tot het onder 6 ten laste gelegde feitencomplex blijkt van een uitdrukkelijke vervolgingswens bij de aangever uit de omstandigheid dat aangever in zijn aangifte aangeeft geïnformeerd te willen worden over het verloop en de afdoening van de strafzaak, voeging wenst in het strafproces om zijn schade te verhalen, hij tegelijkertijd bij zijn aangifte een klacht indient, zich later ook voegt als benadeelde partij en deze vordering ook nog eens in hoger beroep heeft gehandhaafd." </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt over de verwerping door het Hof van de stelling dat de politie niet eigener beweging vermoedelijke slachtoffers van het klachtmisdrijf afdreiging mocht benaderen zonder dat zij eerst een klacht hadden ingediend. Het voert daartoe aan dat dit oordeel blijk geeft van een onjuiste rechtsopvatting, althans onbegrijpelijk is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>In de regeling van de alleen op klacht vervolgbare misdrijven in het Wetboek van Strafrecht  en het Wetboek van Strafvordering  wordt de klacht slechts aangemerkt als voorwaarde voor de toelaatbaarheid van de vervolging ter zake van zodanig misdrijf. De strekking van die regeling brengt echter mee dat ook opsporingshandelingen te dier zake bij gebreke van een klacht achterwege moeten blijven. Het bijzonder belang bij een misdrijf als het onderhavige dat ongewenste ruchtbaarheid die door de door het delict getroffene als pijnlijk wordt ervaren, wordt vermeden, kan immers reeds door een opsporingsonderzoek worden benadeeld, zodat ook dit onderzoek ter voorbereiding van een vervolging slechts mag worden ondernomen indien klacht is gedaan. Die regel lijdt evenwel uitzondering indien de klachtgerechtigde te kennen heeft gegeven een zodanig onderzoek te wensen. (Vgl. HR 3 mei 1977, ECLI:NL:HR:1977:AB7174 en HR 16 juni 1998, ECLI:NL:HR:1998:ZD1194.) Met de strekking van het klachtvereiste is evenmin in strijd dat in gevallen als de onderhavige naar aanleiding van de opsporingswens van een klachtgerechtigde door de politie op de wijze en onder omstandigheden als door het Hof zijn vastgesteld naspeuringen worden gedaan naar mogelijke andere slachtoffers. Dit zou anders zijn, naar het Hof terecht heeft overwogen, wanneer tegen een door een mogelijk slachtoffer uitdrukkelijk kenbaar gemaakte wens in, (nadere) onderzoekhandelingen zouden worden geïnitieerd dan wel voortgezet, maar hieromtrent is volgens het Hof door de verdediging niets gesteld terwijl ook het dossier daarvoor geen aanknopingspunt biedt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>In het licht hiervan getuigt de verwerping door het Hof van het gevoerde verweer niet van een onjuiste rechtsopvatting en is zij ook niet onbegrijpelijk.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Het middel faalt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het middel keert zich tegen het oordeel van het Hof dat de omstandigheid dat een aantal van de aangevers niet binnen de termijn als bedoeld in art. 66, eerste lid, Sr een klacht heeft ingediend, niet in de weg staat aan de ontvankelijkheid van het Openbaar Ministerie in de vervolging. Het klaagt dat dit oordeel getuigt van een onjuiste rechtsopvatting, althans ontoereikend is gemotiveerd.</para>
+      <para />
+      <paragroup>
+        <nr>4.2.1.</nr>
+        <para>De feiten ter zake waarvan de verdachte is vervolgd en veroordeeld zijn als misdrijf strafbaar gesteld in art. 318, eerste lid, Sr. Op grond van het derde lid van art. 318 Sr kan dit misdrijf niet worden vervolgd dan op klacht van hem tegen wie het is gepleegd. Ingevolge het eerste lid van <?linebreak?>art. 164 Sv bestaat de klacht in een aangifte bij de bevoegde ambtenaar met het verzoek tot vervolging. Art. 165, eerste lid, Sv regelt wie die bevoegde ambtenaar is. Het tweede lid van art. 164 Sv voorziet erin dat enige voorschriften van art. 163 Sv omtrent de wijze waarop de aangifte moet worden gedaan, van overeenkomstige toepassing zijn. </para>
+      </paragroup>
+      <paragroup>
+        <nr>4.2.2.</nr>
+        <para>Blijkens de wetsgeschiedenis steunt deze door het klachtvereiste gecreëerde afhankelijkheid der vervolging van de wil van hem tegen wie het misdrijf is gepleegd - een zeldzame uitzondering - op de mogelijkheid dat het bijzonder belang groter nadeel lijdt door het instellen dan het openbaar belang door het niet-instellen der strafactie. Dit bijzonder belang is bij een misdrijf als het onderhavige hierin gelegen dat ongewenste ruchtbaarheid die door de door het delict getroffene als pijnlijk wordt ervaren, wordt vermeden. Dit belang is in een geval waarin een klacht is vereist, niet in het geding indien de klacht weliswaar niet voldoet aan de wettelijke eisen van art. 163 en/of art. 164 Sv maar vaststaat dat de klachtgerechtigde de vervolging heeft gewenst. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.1.</nr>
+        <parablock>
+          <para>In het eerste lid van art. 66 Sr is bepaald dat de klacht kan worden ingediend gedurende drie maanden na de dag waarop de klachtgerechtigde kennis heeft genomen van het gepleegde feit. Door het stellen van die termijn wordt - in de woorden van de memorie van toelichting bij het ontwerp-wetboek - voorkomen dat </para>
+          <para>"aan een persoon tegen een ander een wettelijk zwaard in handen [wordt] gegeven, waarvan hij jaren lang, gedurende den geheelen verjaringstermijn, gebruik zoude kunnen maken.</para>
+          <para>Daarenboven eischt het maatschappelijk belang eene spoedige vervolging der misdrijven, en het mag dus niet aan de willekeur van den tot klagte geregtigde worden overgelaten, het instellen der publieke actie tot de uiterste grens van den verjaringstermijn op te houden." (H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel I, 1891, p. 498)</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2.</nr>
+        <para>Op grond hiervan moet worden aangenomen dat de klachtgerechtigde bij een delict als het onderhavige zijn bevoegdheid slechts gedurende de in de wet genoemde klachttermijn kan uitoefenen. In zoverre is zijn macht om te bepalen of de verdachte wordt vervolgd, in de tijd begrensd. Dat betekent dat in het geval dat voor het instellen van een vervolging een klacht is vereist en de klacht niet is ingediend binnen drie maanden nadat de klachtgerechtigde heeft kennis genomen van het gepleegde delict, de vervolging daarop afstuit. Ingeval de klacht weliswaar niet voldoet aan alle formele wettelijke eisen of niet is ingediend bij de bevoegde ambtenaar, maar vaststaat dat de klachtgerechtigde de vervolging heeft gewenst, zal van die wens binnen die termijn van drie maanden moeten zijn gebleken. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3.</nr>
+        <para>Opmerking verdient dat volgens de conceptwetgeving ten behoeve van de modernisering van het Wetboek van Strafvordering die in de conclusie van de Advocaat-Generaal onder 14 is weergegeven, het voornemen bestaat de klachttermijn van art. 66 Sr om de daar vermelde redenen af te schaffen. Zoals in de conclusie van de Advocaat-Generaal onder 15 is uiteengezet, berust de huidige klachtregeling op een andere afweging van argumenten. Het is aan de wetgever dienaangaande een keuze te maken.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.1.</nr>
+        <para>Door de verdediging is aangevoerd dat de klachten niet binnen de termijn van art. 66, eerste lid, Sr zijn ingediend en dat dit moet leiden tot de niet-ontvankelijkverklaring van het Openbaar Ministerie in de vervolging. Het Hof heeft vastgesteld dat met betrekking tot feit 4 de klacht tijdig is gedaan. Wat betreft de overige onder 1 tot en met 6 tenlastegelegde feiten heeft het Hof het verweer verworpen op de grond dat (kort gezegd) de overschrijding van die termijn niet ertoe leidt "dat het vervolgingsrecht van het openbaar ministerie is vervallen" - waarmee het Hof kennelijk tot uitdrukking heeft willen brengen dat die overschrijding geen beletsel vormt voor het instellen van de vervolging - nu ten aanzien van alle aangevers is gebleken van een uitdrukkelijke vervolgingswens.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.2.</nr>
+        <para>Uit wat hiervoor is overwogen omtrent de betekenis van de termijn van art. 66, eerst lid, Sr volgt dat het Hof het gevoerde verweer - behoudens wat betreft feit 4 - heeft verworpen op gronden die de verwerping niet kunnen dragen.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Het middel is terecht voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>	Nu de Hoge Raad geen grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>	De Hoge Raad:</para>
+      <para>	vernietigt de bestreden uitspraak, maar uitsluitend wat betreft de beslissingen met betrekking tot het onder 1, 2, 3, 5 en 6 tenlastegelegde en de strafoplegging;</para>
+      <para>	wijst de zaak terug naar het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Leeuwarden, teneinde in zoverre op het bestaande hoger beroep opnieuw te worden berecht en afgedaan;</para>
+      <para>	verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren A.J.A. van Dorst en A.E.M. Röttgering, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">4 december 2018</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

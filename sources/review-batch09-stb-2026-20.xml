@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+   <metadata>
+      <meta name="DCTERMS.publisher" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DC.creator" scheme="OVERHEID.Ministerie"
+            content="Ministerie van Justitie en Veiligheid"/>
+      <meta name="DCTERMS.isReplacedBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.configuratie" scheme=""
+            content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-StbWet-Web/1.13/xml/MC-OEP-StbWet-Web.xml"/>
+      <meta name="OVERHEIDop.steltVast" scheme="" content=""/>
+      <meta name="DCTERMS.hasPart" scheme="" content=""/>
+      <meta name="DCTERMS.isRequiredBy" scheme="OVERHEIDop.StbID" content=""/>
+      <meta name="OVERHEIDop.ketenID" scheme="" content=""/>
+      <meta name="DC.type" scheme="OVERHEIDop.Staatsblad" content="Wet"/>
+      <meta name="DCTERMS.relation" scheme="" content=""/>
+      <meta name="OVERHEIDop.materieelUitgewerkt" scheme="DCTERMS.W3CDTF" content=""/>
+      <meta name="OVERHEIDop.versieInformatie" scheme="" content=""/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Staatsblad"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype"
+            content="ministerie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda"
+            content="Recht | Strafrecht"/>
+      <meta name="DC.title"
+            content="Wet van 21 januari 2026, houdende wijziging van het Wetboek van Strafrecht in verband met de herziening van de regeling inzake de meerdaadse samenloop in strafzaken (herziening regeling meerdaadse samenloop in strafzaken)"/>
+      <meta name="OVERHEIDop.jaargang" scheme="DCTERMS.W3CDTF" content="2026"/>
+      <meta name="DC.identifier" scheme="OVERHEIDop.StbID" content="stb-2026-20"/>
+      <meta name="OVERHEIDop.publicationIssue" content="20"/>
+      <meta content="" name="DCTERMS.alternative"/>
+      <meta name="OVERHEIDop.datumOndertekening" scheme="DCTERMS.W3CDTF"
+            content="2026-01-21"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2026-02-06"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2026-02-06"/>
+      <meta name="OVERHEIDop.behandeldDossier" content="34126"/>
+   </metadata>
+   <kop>
+      <titel>Staatsblad</titel>
+      <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+   </kop>
+   <staatsblad>
+      <intitule>Wet van 21 januari 2026, houdende wijziging van het Wetboek van Strafrecht in verband met de herziening van de regeling inzake de meerdaadse samenloop in strafzaken (herziening regeling meerdaadse samenloop in strafzaken)</intitule>
+      <wet-besluit>
+         <aanhef>
+            <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+            <considerans>
+               <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+               <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is de regeling inzake de meerdaadse samenloop in strafzaken te herzien;</considerans.al>
+            </considerans>
+            <afkondiging>
+               <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+            </afkondiging>
+         </aanhef>
+         <wettekst>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">I</nr>
+               </kop>
+               <wat type="wijziging">Het Wetboek van Strafrecht wordt als volgt gewijzigd:</wat>
+               <wijzig-lid>
+                  <lidnr status="officieel">A</lidnr>
+                  <wat>Artikel 57 komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">57</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>De straf die aan de verdachte wordt opgelegd, is niet hoger dan het totaal van de hoogste straffen op de feiten gesteld en mag – voor zover het gevangenisstraf of hechtenis betreft – niet meer dan de helft boven het hoogste maximum uitgaan.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">B</lidnr>
+                  <wat>In artikel 58 wordt «een derde» vervangen door: met de helft.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">C</lidnr>
+                  <wat>Artikel 60 komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">60</nr>
+                        </kop>
+                        <al>Bij samenloop als bedoeld in de artikelen 57 en 58 geldt dat:</al>
+                        <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                           <li>
+                              <li.nr>a.</li.nr>
+                              <al>de straffen van ontzetting van dezelfde rechten worden opgelost in één straf met inachtneming van het bepaalde in artikel 31;</al>
+                           </li>
+                           <li>
+                              <li.nr>b.</li.nr>
+                              <al>de straffen van ontzetting van verschillende rechten en van verbeurdverklaring van bepaalde voorwerpen voor elk misdrijf afzonderlijk en zonder vermindering worden opgelegd;</al>
+                           </li>
+                           <li>
+                              <li.nr>c.</li.nr>
+                              <al>voor de verbeurdverklaring en de maatregel, bedoeld in artikel 36f, de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet mogen overschrijden.</al>
+                           </li>
+                        </lijst>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">D</lidnr>
+                  <wat>Artikel 60a vervalt.</wat>
+               </wijzig-lid>
+               <wijzig-lid>
+                  <lidnr status="officieel">E</lidnr>
+                  <wat>Artikel 63 komt te luiden:</wat>
+                  <wijziging>
+                     <artikel status="goed">
+                        <kop>
+                           <label>Artikel</label>
+                           <nr status="officieel">63</nr>
+                        </kop>
+                        <lid>
+                           <lidnr status="officieel">1.</lidnr>
+                           <al>Indien iemand, nadat hij onherroepelijk tot straf is veroordeeld, schuldig wordt verklaard aan een misdrijf of een overtreding voor die strafoplegging gepleegd, zijn de bepalingen van deze titel voor het geval gelijktijdig straf wordt opgelegd van toepassing.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">2.</lidnr>
+                           <al>In het geval meer veroordelingen zijn uitgesproken, wordt enkel in aanmerking genomen de veroordeling waarbij de hoogste straf is opgelegd.</al>
+                        </lid>
+                        <lid>
+                           <lidnr status="officieel">3.</lidnr>
+                           <al>In het geval het strafbare feit waaraan iemand schuldig wordt verklaard een misdrijf betreft waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaar of meer is gesteld, kan de rechter gemotiveerd beslissen om een op het eerste lid aanvullende gevangenisstraf op te leggen van niet meer dan een derde van het op dat feit gestelde maximum, indien sprake is van een gegeven dat tijdens het opsporingsonderzoek of gedurende de fase van vervolging aan de officier van justitie of de rechter niet bekend was en dat op zichzelf of in verband met feiten of omstandigheden het ernstige vermoeden had doen ontstaan dat, indien het gegeven bekend zou zijn geweest, het onderzoek van de zaak zou hebben geleid tot het opleggen van vrijheidsstraf.</al>
+                        </lid>
+                     </artikel>
+                  </wijziging>
+               </wijzig-lid>
+            </wijzig-artikel>
+            <wijzig-artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">II</nr>
+               </kop>
+               <wat type="wijziging">[vervallen]</wat>
+            </wijzig-artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IIa</nr>
+               </kop>
+               <al>Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.</al>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">III</nr>
+               </kop>
+               <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Deze wet heeft geen gevolgen voor de straf die ten hoogste kan worden opgelegd voor feiten die zijn begaan voor de inwerkingtreding van deze wet.</al>
+               </lid>
+               <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien iemand na inwerkingtreding van deze wet wordt veroordeeld, wordt bij toepassing van artikel 63 (oud) van het Wetboek van Strafrecht alleen de straf in aanmerking genomen die is opgelegd voor feiten die zijn begaan voor de inwerkingtreding van deze wet. Als alleen straf is opgelegd voor feiten die na de inwerkingtreding van deze wet zijn begaan, vindt artikel 63 (nieuw) van het Wetboek van Strafrecht toepassing.</al>
+               </lid>
+            </artikel>
+            <artikel status="goed">
+               <kop>
+                  <label>ARTIKEL</label>
+                  <nr status="officieel">IV</nr>
+               </kop>
+               <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+            </artikel>
+         </wettekst>
+         <wetsluiting status="goed">
+            <slotformulering>
+               <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+            </slotformulering>
+            <histnoot type="parlementair">
+               <al>Kamerstuk <dossierref dossier="34126">34 126</dossierref>
+               </al>
+            </histnoot>
+            <gegeven>
+               <label>Gegeven te </label>
+               <dagtekening>
+                  <plaats>’s-Gravenhage,</plaats>
+                  <datum isodatum="2026-01-21">21 januari 2026</datum>
+               </dagtekening>
+               <koning>Willem-Alexander</koning>
+            </gegeven>
+            <ondertekening>
+               <functie>De Minister van Justitie en Veiligheid,</functie>
+		             <naam>
+                  <voornaam>F. van</voornaam>
+                  <achternaam>Oosten</achternaam>
+               </naam>
+		          </ondertekening>
+            <uitgifte>
+               <datum isodatum="2026-02-06">Uitgegeven de <nadruk type="cur">zesde</nadruk> februari 2026</datum>
+               <ondertekening>
+                  <functie>De Minister van Justitie en Veiligheid,</functie>
+		                <naam>
+                     <voornaam>F. van</voornaam>
+                     <achternaam>Oosten</achternaam>
+                  </naam>
+		             </ondertekening>
+            </uitgifte>
+         </wetsluiting>
+      </wet-besluit>
+   </staatsblad>
+</officiele-publicatie>
