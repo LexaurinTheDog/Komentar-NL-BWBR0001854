@@ -71,7 +71,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 271655,
+    "commentary_chars": 276244,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -85,10 +85,10 @@
     "Case-law research and external cross-reference research remain selective.",
     "Second pass comprises five disjoint 20-unit batches: 100 reviewed, 712 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T16:52:18.634271+00:00",
+  "updated_at": "2026-10-20T16:53:25.840470+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T16:39:16.978747+00:00",
+    "verified_at": "2026-10-20T16:46:48.244058+00:00",
     "report": "preflight-result.json",
     "decisive_date_preserved": "2026-10-19",
     "official_manifest_states_checked": 126,
@@ -98,9 +98,10 @@
     ],
     "new_commentary_units": 0,
     "unresolved_blockers": [],
-    "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail."
+    "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail.",
+    "bounded_recheck": "sources/review-batch05-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T16:45:25.283006+00:00",
+  "validation_checked_at": "2026-10-20T16:53:25.840470+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,

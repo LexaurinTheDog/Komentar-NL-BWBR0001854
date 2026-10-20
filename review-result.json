@@ -615,6 +615,20 @@
       "link-report.json"
     ],
     "bounded_review_complete": true,
-    "broken_local_links": 0
+    "broken_local_links": 0,
+    "strict_validation": {
+      "repo": "Komentar-NL-BWBR0001854",
+      "units": 812,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 276244,
+      "errors": [
+        "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validation_checked_at": "2026-10-20T16:53:25.840470+00:00",
+    "validation_returncode": 1,
+    "validation_failure_limited_to_preexisting_out_of_scope_deficit": true
   }
 }
