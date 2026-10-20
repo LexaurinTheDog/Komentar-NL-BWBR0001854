@@ -92,20 +92,19 @@
   ],
   "case_law_scope": "Selective primary case research; four new public full judgments read in this author batch, with jurisdiction, procedural and historical limits stated.",
   "build_result": {
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
-    "exit_code": 1,
+    "command": "build_repo.py WORK (unchanged full manuscript build)",
+    "returncode": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
-    "checked_at": "2026-10-20T18:56:32.605928+00:00",
-    "scope": "Unchanged complete 812-unit inventory; 512 unwritten commentaries outside this assigned review block the full build."
+    "stderr": "CHYBÍ komentář k 492 jednotkám, např.: ['a129', 'a130', 'a130a', 'a130b', 'a131', 'a132', 'a133', 'a134', 'a134a', 'a135']\n",
+    "scope": "Full build expected to report only492 missing out-of-scope commentaries; separate existing-prose renderer creates the explicitly incomplete checkpoint."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 423946,
+    "commentary_chars": 467619,
     "errors": [
-      "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
+      "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -127,7 +126,7 @@
     "Technical length, link and repetition checks do not prove legal quality.",
     "300 units previously underwent bounded second-pass review; the twenty new units have author checking only."
   ],
-  "updated_at": "2026-10-20T19:08:27.435380+00:00",
+  "updated_at": "2026-10-20T19:10:17.768834+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -144,7 +143,7 @@
     "bounded_recheck": "sources/review-batch14-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T18:56:32.605928+00:00",
+  "validation_checked_at": "2026-10-20T19:10:17.768834+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -840,15 +839,28 @@
     "completed_units": 20,
     "report": "author-a117-a128-result.json",
     "independent_second_pass": false,
-    "source_preflight": "sources/author-a117-a128-version-evidence.json"
+    "source_preflight": "sources/author-a117-a128-version-evidence.json",
+    "technical_validation": {
+      "all20_present_and_rendered": true,
+      "statutory_text_agreement": 1.0,
+      "official_inventory_complete": true,
+      "expected_and_parsed_units": 812,
+      "local_links_ok": true,
+      "local_links_checked": 689,
+      "exact_repeated_paragraphs": 0,
+      "full_shared_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 492,
+      "validation": "validation-author-a117-a128.json"
+    }
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 423946,
+    "commentary_chars": 467619,
     "errors": [
-      "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
+      "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
     ],
     "warnings": [],
     "ok": false
