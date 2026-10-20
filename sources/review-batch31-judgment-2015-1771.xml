@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:1771</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T21:02:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-06-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/02471</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:981" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:981, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2015/846</rdf:li>
+          <rdf:li>NJB 2015/1348</rdf:li>
+          <rdf:li>SR-Updates.nl 2015-0295</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:1771">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:1771</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-07-01T08:31:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:1771 Hoge Raad , 30-06-2015 / 14/02471</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:1771:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Slagende bewijsklacht verduistering.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:1771:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>30 juni 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/02471</para>
+    <para>IF/IF</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para> </para>
+    <para />
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Amsterdam van 25 maart 2014, nummer 23/001352-13, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1970. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep - dat kennelijk niet is gericht tegen de vrijspraak van het in de zaak met parketnummer 15-264708-11 tenlastegelegde - is ingesteld door de verdachte. Namens deze heeft mr. M.L.M. van der Voet, advocaat te Amsterdam, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal P.C. Vegter heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft het bewezenverklaarde in de zaak met parketnummer 15/152874-12 en de strafoplegging en tot terugwijzing van de zaak naar het Gerechtshof Amsterdam teneinde in zoverre op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het middel</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel bevat de klacht dat de in de zaak met parketnummer 15/152874-12 bewezenverklaarde wederrechtelijke toe-eigening niet uit de bewijsvoering kan volgen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging in de zaak met parketnummer 15/152874-12 bewezenverklaard dat:</para>
+        <para>"hij in de periode van 14 september 2011 tot en met 23 november 2011 in Nederland, opzettelijk een personenauto (merk Honda, type CRV, kleur zwart, kenteken [001]), toebehorende aan [A], welke personenauto verdachte anders dan door misdrijf, te weten door short-lease (huur), onder zich had, wederrechtelijk zich heeft toegeëigend."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+        <para>"1. Een proces-verbaal van aangifte met nummer 2011070032-1 van 13 oktober 2011, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaar [verbalisant 1].</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als tegenover verbalisant voornoemd op voormelde datum afgelegde verklaring van [betrokkene 1]:</para>
+        <para>Ik doe aangifte namens [A], gevestigd te [vestigingsplaats], terzake van verduistering.</para>
+        <para>Op maandag 9 mei 2011 heeft [A] een huurovereenkomst gesloten met een bedrijf genaamd [B], [a-straat] [plaats]. Hierbij heeft [betrokkene 1] een personenauto van het merk Honda, type CRV, kleur zwart voorzien van kenteken [001] aan genoemd bedrijf verhuurd. Deze overeenkomst liep af op maandag 14 september 2011, hetgeen betekent dat genoemde personenauto retour naar [betrokkene 1] dient te komen.</para>
+        <para>Vandaag, op 13 oktober 2011, is het voertuig (nog) niet bij [A] teruggebracht.</para>
+        <para>2. Een door de verdachte ter terechtzitting in hoger beroep op 11 maart 2014 afgelegde verklaring.</para>
+        <para>Deze verklaring houdt in, voor zover van belang en zakelijk weergegeven:</para>
+        <para>lk had de Honda gehuurd op basis van een leasecontract vanaf 2010. Ik had met de verhuurder afgesproken dat de auto op 14 september 2011 zou worden omgeruild.</para>
+        <para>3. Een proces-verbaal van bevindingen met nummer 2011301034-8 van 23 november 2011, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaren [verbalisant 2] en [verbalisant 3].</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven:</para>
+        <para>Op woensdag 23 november 2011 bevonden wij, verbalisanten, ons op de openbare weg de Spiegelgracht te Amsterdam. Wij constateerden dat de bestuurder van een zwartgekleurd voertuig tegen de richting in reed en hiermee een geslotenverklaring negeerde. Het voertuig was van het merk Honda, type CRV en voorzien van het kenteken [001].</para>
+        <para>Ik, verbalisant [verbalisant 3], besloot het voertuig te controleren. Ik hoorde via mijn portofoon dat het voertuig in het politiesysteem gesignaleerd stond terzake van diefstal. Op woensdag 23 november 2011 namen wij het voertuig in beslag. De bestuurder gaf op te zijn genaamd [betrokkene 3].</para>
+        <para>4. Een proces-verbaal van bevindingen met nummer 2011070032-12 van 21 december 2011, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaar [verbalisant 4].</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 29 augustus 2012 tegenover de verbalisant afgelegde verklaring van de verdachte:</para>
+        <para>Ik heb bij [betrokkene 1] een auto gehuurd, een Honda, type CRV kleur zwart. Ik heb de auto gehuurd namens en op naam van het bedrijf waar ik op dat moment werkzaam was genaamd [B]</para>
+        <para>
+          [betrokkene 2] werkte daar ook, de sleutel van de Honda lag bij hem in huis. [betrokkene 2] was een medeverdachte in de andere strafzaak, ook hij is op </para>
+        <para>13 september 2011 aangehouden en zat tegelijkertijd met mij in de beperkingen."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Het Hof heeft ten aanzien van de bewezenverklaring voorts het volgende overwogen:</para>
+        <para>"De raadsman van de verdachte heeft in de zaak met parketnummer 15-152874-12 ter terechtzitting in hoger beroep aangevoerd dat de verdachte geen opzet had op de wederrechtelijke toe-eigening van de huurauto en geconcludeerd dat hij van dit feit moet worden vrijgesproken.</para>
+        <para>Het hof verwerpt het verweer en overweegt daaromtrent het volgende.</para>
+        <para>Gezien de volgende omstandigheden is het hof van oordeel dat de verdachte opzet heeft gehad op de wederrechtelijke toe-eigening van de door hem gehuurde auto.</para>
+        <para>- de verdachte heeft een short-leaseovereenkomst gesloten met [A];</para>
+        <para>- hij heeft ter terechtzitting in hoger beroep verklaard dat hij wist dat de auto moest worden geretourneerd op 14 september 2011;</para>
+        <para>- de verdachte had aan zijn medewerker [betrokkene 2] toestemming gegeven deze auto te gebruiken en onder zich te houden;</para>
+        <para>- de verdachte wist dat [betrokkene 2] tegelijkertijd met hem was aangehouden, op 13 september 2011. Dat was een dag voordat de huurovereenkomst afliep, zodat hij zich niet blindelings kon verlaten op een eventuele afwikkeling van de leaseovereenkomst door [betrokkene 2];</para>
+        <para>- de verdachte, die daartoe als contractspartij verantwoordelijk was, heeft in de gehele tenlastegelegde periode geen actie ondernomen de auto tijdig te doen terugbrengen naar de eigenaar. </para>
+        <para>Het feit dat de verdachte gedetineerd was en in alle beperkingen zat doet hier niets aan af, nu dit niet in de weg stond aan contact tussen hem en zijn raadsman. Aldus had de verdachte via zijn raadsman kunnen zorgdragen voor een tijdige terugkeer van de auto bij de verhuurder."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>In de tenlastelegging en bewezenverklaring is het begrip 'zich wederrechtelijk toe-eigenen' gebezigd in de betekenis die daaraan in art. 321 Sr toekomt. Volgens vaste rechtspraak is van zodanig toe-eigenen sprake indien een persoon zonder daartoe gerechtigd te zijn als heer en meester beschikt over een goed dat aan een ander toebehoort (vgl. onder meer HR 13 januari 2015, ECLI:NL:HR:2015:57).</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Blijkens de bewijsmiddelen heeft de verdachte niet ervoor gezorgd dat de auto na afloop van de leaseovereenkomst werd teruggegeven aan [A], aan wie de auto toebehoorde. Aan die omstandigheid kan evenwel niet zonder meer de conclusie worden verbonden dat de verdachte na afloop van de leaseovereenkomst over de auto 'als heer en meester is gaan beschikken'. De gebezigde bewijsmiddelen houden geen andere feiten of omstandigheden in waaruit dat zou kunnen worden afgeleid. Het oordeel van het Hof dat de verdachte die auto zich wederrechtelijk heeft toegeëigend, is daarom niet toereikend gemotiveerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <para>Het middel is terecht voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Hetgeen hiervoor is overwogen mee brengt mee dat de bestreden uitspraak, voor zover aan het oordeel van de Hoge Raad onderworpen, niet in stand kan blijven en als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>	vernietigt de bestreden uitspraak voor zover aan het oordeel van de Hoge Raad onderworpen (de beslissingen ter zake van het onder parketnummer 15/152874-12 tenlastegelegde);</para>
+      <para>	wijst de zaak terug naar het Gerechtshof Amsterdam, opdat de zaak in zoverre op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren B.C. de Savornin Lohman en H.A.G. Splinter-van Kan, in bijzijn van de waarnemend griffier J.D.M. Hart, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">30 juni 2015</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

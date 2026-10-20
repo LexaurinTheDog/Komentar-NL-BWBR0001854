@@ -5578,6 +5578,74 @@
       "accessed_at": "2026-10-20T23:53:01.521611+00:00",
       "sha256": "ee1325b34e5da0c13570900987130dc787a3b077ca44e2460fac429bf37dbe2c",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T23:53:54.184682+00:00",
+      "path": "sources/review-batch31-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T23:53:54.481387+00:00",
+      "path": "sources/review-batch31-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T23:53:55.356554+00:00",
+      "path": "sources/review-batch31-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-20T23:54:37.082575+00:00",
+      "path": "sources/review-batch31-wetten.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+      "bytes": 4600683,
+      "disposition": "HTML entry point preserved; canonical and effective-version proof uses official repository XML, manifest and WTI.",
+      "expected_format_valid": true,
+      "format_validation": "Genuine dated statute HTML containing title, effective date and full-length statute body; not used for XML extraction."
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1771",
+      "accessed_at": "2026-10-20T23:54:37.082912+00:00",
+      "path": "sources/review-batch31-judgment-2015-1771.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "f835d66998c576f26f354264658fe10b31e4b13a0cd4afe8159ba5f02fc178e1",
+      "bytes": 14592,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2889",
+      "accessed_at": "2026-10-20T23:54:37.083059+00:00",
+      "path": "sources/review-batch31-judgment-2016-2889.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58",
+      "bytes": 39699,
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -5736,7 +5804,7 @@
     "case_check": "sources/review-batch17-authority-check.json"
   },
   "latest_bounded_author_evidence": "sources/author-a144-a156-version-evidence.json",
-  "latest_bounded_review": "sources/review-batch30-version-evidence.json",
+  "latest_bounded_review": "sources/review-batch31-version-evidence.json",
   "bounded_author_a194_a207b": {
     "verified_at": "2026-10-20T22:33:38.849007+00:00",
     "version_evidence": "sources/author-a194-a207b-version-evidence.json",

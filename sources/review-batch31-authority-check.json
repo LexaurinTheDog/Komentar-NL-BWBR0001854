@@ -1,0 +1,61 @@
+{
+  "reviewed_at": "2026-10-20T23:55:43.382487+00:00",
+  "checks": [
+    {
+      "units": [
+        "a321",
+        "a322"
+      ],
+      "path": "sources/review-batch31-judgment-2015-1771.xml",
+      "sha256": "f835d66998c576f26f354264658fe10b31e4b13a0cd4afe8159ba5f02fc178e1",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment, especially 2.4–2.7 and 4",
+      "unchanged_published_judgment": true,
+      "card": "authorities/author-a319-a328quater-HR-2015-1771.md"
+    },
+    {
+      "units": [
+        "a326",
+        "a326e"
+      ],
+      "path": "sources/review-batch31-judgment-2016-2889.xml",
+      "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment, especially 2.1–2.5,3.2–3.4,5",
+      "unchanged_published_judgment": true,
+      "card": "authorities/author-a319-a328quater-HR-2016-2889.md"
+    }
+  ],
+  "search_log": "authorities/author-a319-a328quater-search-log.json",
+  "local_corpus_evidence": "authorities/author-a319-a328quater-local-corpus.json",
+  "historical_statutes": [
+    {
+      "path": "sources/author-a319-a328quater-historical-2015-01-01_0.xml",
+      "sha256": "b20f70a87d449ac08fd58125853496e4097f79f169213d0a2b32f4eec917973f",
+      "version": "2015-01-01_0",
+      "checked_ids": [
+        "a321",
+        "a322",
+        "a323"
+      ]
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-2016-07-01_0.xml",
+      "sha256": "3dbb223660b0e64566d0cf26659bfb14f54fb1ab73a9eab905cb165f2897db67",
+      "version": "2016-07-01_0",
+      "checked_ids": [
+        "a326"
+      ]
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-2024-10-01_0.xml",
+      "sha256": "ee1325b34e5da0c13570900987130dc787a3b077ca44e2460fac429bf37dbe2c",
+      "version": "2024-10-01_0",
+      "checked_ids": [
+        "a328ter"
+      ]
+    }
+  ],
+  "rejected": "ECLI:NL:HR:2022:416 reread; Article81 dismissal supplies no reasoned interpretation of328ter.",
+  "limits": "Selective existing primary research independently reread; two judgments freshly refetched. No exhaustive later-treatment or other-court search claimed."
+}

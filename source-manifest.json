@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/review-batch30-version-evidence.json",
-  "generated_at": "2026-10-20T23:47:11.766506+00:00",
+  "latest_version_evidence": "sources/review-batch31-version-evidence.json",
+  "generated_at": "2026-10-20T23:55:43.382487+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -1370,6 +1370,81 @@
     },
     {
       "path": "sources/author-a303-a318-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
+      "path": "sources/author-a319-a328quater-case-statute-comparison.json",
+      "bytes": 8210,
+      "sha256": "0ea26862844fa41aa2342e0d872fb814cbf97fe121b20c347ff6f332a1094cad"
+    },
+    {
+      "path": "sources/author-a319-a328quater-coverage.json",
+      "bytes": 20844,
+      "sha256": "64ca4ee5cea59675bbadc9689e7ea2bc276581fa422b186b84184a62d3c88c4c"
+    },
+    {
+      "path": "sources/author-a319-a328quater-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/author-a319-a328quater-fetch-log.json",
+      "bytes": 2113,
+      "sha256": "bd7a666365f796e8544b6d9798c7fb8988b9caa7c74bf3ff1d47f37913f5951b"
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-2015-01-01_0.xml",
+      "bytes": 2730472,
+      "sha256": "b20f70a87d449ac08fd58125853496e4097f79f169213d0a2b32f4eec917973f"
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-2016-07-01_0.xml",
+      "bytes": 2707240,
+      "sha256": "3dbb223660b0e64566d0cf26659bfb14f54fb1ab73a9eab905cb165f2897db67"
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-2024-10-01_0.xml",
+      "bytes": 2518277,
+      "sha256": "ee1325b34e5da0c13570900987130dc787a3b077ca44e2460fac429bf37dbe2c"
+    },
+    {
+      "path": "sources/author-a319-a328quater-historical-change-map.json",
+      "bytes": 22513,
+      "sha256": "666f657b12eec912245ce6f80b16457e6935a122fa17826d0fe5daedf808985a"
+    },
+    {
+      "path": "sources/author-a319-a328quater-history-fetch-log.json",
+      "bytes": 1224,
+      "sha256": "4044367f80919bb6c34498ff87fbe34bf689c1c5ce5629c1445ae897e9d62ef5"
+    },
+    {
+      "path": "sources/author-a319-a328quater-html-fetch.json",
+      "bytes": 374,
+      "sha256": "94478fa331b52c940a993fbf95dc7be97ba120febf958d225194491f5662be30"
+    },
+    {
+      "path": "sources/author-a319-a328quater-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/author-a319-a328quater-previous.xml",
+      "bytes": 2544128,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1"
+    },
+    {
+      "path": "sources/author-a319-a328quater-version-evidence.json",
+      "bytes": 166323,
+      "sha256": "2f871d92c4f8f1fca986414d58352ca0985bd5c232fcfa6e6971941d8dda1a8c"
+    },
+    {
+      "path": "sources/author-a319-a328quater-wetten.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/author-a319-a328quater-wti.xml",
       "bytes": 27846974,
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
@@ -4384,6 +4459,66 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch31-authority-check.json",
+      "bytes": 2212,
+      "sha256": "70e266af12c274afdd13c682605f30769e5ada3cfad0484d8cfb90501c1c50f7"
+    },
+    {
+      "path": "sources/review-batch31-before.json",
+      "bytes": 35818,
+      "sha256": "4609afdf76e1f38f761733e7bae074a57dc9c6e10e9cc26aa8eb3fb813e45c38"
+    },
+    {
+      "path": "sources/review-batch31-coverage.json",
+      "bytes": 20828,
+      "sha256": "7110304a4780bc7be6aef0b8914c7c6f622805e0f87ab15ff0a227e176a50a79"
+    },
+    {
+      "path": "sources/review-batch31-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch31-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "8690baaae5f46095cf9868a977646cc0223e168c2d3f5835cac66b58662baf17"
+    },
+    {
+      "path": "sources/review-batch31-judgment-2015-1771.xml",
+      "bytes": 14592,
+      "sha256": "f835d66998c576f26f354264658fe10b31e4b13a0cd4afe8159ba5f02fc178e1"
+    },
+    {
+      "path": "sources/review-batch31-judgment-2016-2889.xml",
+      "bytes": 39699,
+      "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58"
+    },
+    {
+      "path": "sources/review-batch31-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch31-support-fetch-log.json",
+      "bytes": 1491,
+      "sha256": "4c4a1739c112f57b66241dfc4c93175383bc4dfef46ae7587408c4f95f5724d3"
+    },
+    {
+      "path": "sources/review-batch31-version-evidence.json",
+      "bytes": 166301,
+      "sha256": "38b96ac548d4225f24b8e778eb61eb15e3a370664873b2934b9198c0c46d0964"
+    },
+    {
+      "path": "sources/review-batch31-wetten.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/review-batch31-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -4395,8 +4530,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 275348,
-      "sha256": "30ae1131aa840c554b2e7ce841eb8aa01ab06f7ddec6cae6511b910e34e5717c"
+      "bytes": 284747,
+      "sha256": "7caa919cde655efdb8e09512efb2f41dc6c0f86446b3320186b902971adc108d"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -5447,6 +5582,71 @@
       "path": "authorities/author-a303-a318-search-log.json",
       "bytes": 882,
       "sha256": "905f59a6c916362652a17c5783576ee2a4b435ac3298e4e07c725aa17fa77377"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2015-1771.txt",
+      "bytes": 8474,
+      "sha256": "fa2e6b2ef3c795a522839705290bb84a243809dd37b54e82e90d4a78b54b84a9"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2015-1771.xml",
+      "bytes": 14592,
+      "sha256": "f835d66998c576f26f354264658fe10b31e4b13a0cd4afe8159ba5f02fc178e1"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2016-2889.txt",
+      "bytes": 26048,
+      "sha256": "254df64287e4fd35da10cb75b3167e33e260da342346e98f663a327ce4b2451a"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2016-2889.xml",
+      "bytes": 39699,
+      "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2022-416.txt",
+      "bytes": 1282,
+      "sha256": "a8f0e63e4161f06fb921dab48ce0bce795e46d9b0b3652b46b649da3c3a7309a"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-ECLI-NL-HR-2022-416.xml",
+      "bytes": 7098,
+      "sha256": "e92a61ced4be0e7c6438872fd3b9bb409bb40388bad5d7cf50e3dc5e315259da"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-HR-2015-1771.md",
+      "bytes": 1641,
+      "sha256": "ff98e7498dc58facc70cf358d9fa14d464ca310d1c2df91b8dab5f819f324641"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-HR-2016-2889.md",
+      "bytes": 1872,
+      "sha256": "3380f8c5b71c598888c087b3a23e80af96708634548b4c46b5480aa70c9097b8"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-fetch-log.json",
+      "bytes": 1296,
+      "sha256": "bd6f945b93eb7fa013a10c2a4f00a563142c88189931e2494b6808865bfc653f"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-local-HR-2015-1771.md",
+      "bytes": 8642,
+      "sha256": "fdda3c3dab43421b4f4fe669e51ece8c1259791c55ccc3fa0fa1b1a4f06ada09"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-local-HR-2016-2889.md",
+      "bytes": 28660,
+      "sha256": "75184ebbb06cfcc042f907cbbe27803bbd8060846e0d5fa2126c9f31a6cf6967"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-local-corpus.json",
+      "bytes": 79032,
+      "sha256": "26d57d6728d3709c0b092f935d5c5fa5227c8928822368f096b24c8b44fb6bab"
+    },
+    {
+      "path": "authorities/author-a319-a328quater-search-log.json",
+      "bytes": 5209,
+      "sha256": "576c3529d848c74d17dc5f6655ff74496a180760eae5cf3a39dc4b8bae0b3897"
     },
     {
       "path": "authorities/author-a92-a100-search-log.json",

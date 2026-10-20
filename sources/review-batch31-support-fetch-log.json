@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "accessed_at": "2026-10-20T23:54:37.082575+00:00",
+    "path": "sources/review-batch31-wetten.html",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+    "bytes": 4600683,
+    "disposition": "HTML entry point preserved; canonical and effective-version proof uses official repository XML, manifest and WTI.",
+    "expected_format_valid": true,
+    "format_validation": "Genuine dated statute HTML containing title, effective date and full-length statute body; not used for XML extraction."
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1771",
+    "accessed_at": "2026-10-20T23:54:37.082912+00:00",
+    "path": "sources/review-batch31-judgment-2015-1771.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "f835d66998c576f26f354264658fe10b31e4b13a0cd4afe8159ba5f02fc178e1",
+    "bytes": 14592,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2889",
+    "accessed_at": "2026-10-20T23:54:37.083059+00:00",
+    "path": "sources/review-batch31-judgment-2016-2889.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58",
+    "bytes": 39699,
+    "expected_format_valid": true
+  }
+]
