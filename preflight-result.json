@@ -41,5 +41,8 @@
     "a273e"
   ],
   "coverage": "sources/review-batch27-coverage.json",
-  "html_entry_point": "sources/review-batch27-html-fetch.json"
+  "html_entry_point": "sources/review-batch27-html-fetch.json",
+  "bounded_authoring_checks": [
+    "preflight-author-a273f-a285b-result.json"
+  ]
 }

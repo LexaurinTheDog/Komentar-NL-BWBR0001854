@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2013:BZ3626</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T09:01:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BZ3626</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2013-03-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">11/01972</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2013:BZ3626" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2013:BZ3626</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSGR:2011:BR0761" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging met terugwijzen">In cassatie op : ECLI:NL:GHSGR:2011:BR0761, (Gedeeltelijke) vernietiging met terugwijzen</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2013/449</rdf:li>
+          <rdf:li>NJB 2013/731</rdf:li>
+          <rdf:li>NJ 2013/394 met annotatie van J.M. Reijntjes</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:BZ3626">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:BZ3626</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-08T12:55:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-03-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2013:BZ3626 Hoge Raad , 12-03-2013 / 11/01972</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2013:BZ3626:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Art. 285b.1 Sr. Belaging. De bewezenverklaring is ontoereikend gemotiveerd, mede in aanmerking genomen dat de gebezigde bewijsmiddelen over de gedragingen van verdachte niet meer inhouden dan dat de aangeefster per sms “vele bedreigingen” van verdachte heeft ontvangen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2013:BZ3626:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>12 maart 2013</para>
+      <para>Strafkamer</para>
+      <para>nr. S 11/01972</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Gravenhage van 14 maart 2011, nummer 22/005094-09, in de strafzaak tegen:</para>
+      <para>[Verdachte], geboren te [geboorteplaats] op [geboortedatum] 1970.</para>
+    </parablock>
+    <para />
+    <para>1. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft mr. A.J. Sol, advocaat te Terneuzen, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De Advocaat-Generaal Hofstee heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+    <para />
+    <para>2. Beoordeling van het middel</para>
+    <para />
+    <para>2.1. Het middel klaagt over de motivering van de bewezenverklaring.</para>
+    <para />
+    <parablock>
+      <para>2.2.1. Ten laste van de verdachte is bewezenverklaard dat:</para>
+      <para>"zij in de periode van 01 oktober 2008 tot en met 15 januari 2009 in Nederland, wederrechtelijk stelselmatig opzettelijk inbreuk heeft gemaakt op de persoonlijke levenssfeer van [betrokkene 1], met het oogmerk [betrokkene 1] te dwingen iets te dulden en vrees aan te jagen, immers heeft zij, verdachte [betrokkene 1] meermalen een sms bericht gestuurd."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.2.2. Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+      <para>"1. Het proces-verbaal van aangifte van de regiopolitie Zeeland, team Axel, nr. PL196E/08-109678, d.d. 10 december 2008, opgemaakt in de wettelijke vorm door de daartoe bevoegde opsporingsambtenaar. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+      <para>als de op 10 december 2008 tegenover deze opsporingsambtenaar afgelegde verklaring van [betrokkene 1]:</para>
+      <para>In de periode van 1 oktober 2008 tot en met 10 december 2008 ben ik stelselmatig belaagd door [verdachte]. Zij heeft in die periode in Nederland wederrechtelijk en stelselmatig inbreuk gemaakt op mijn levenssfeer met het oogmerk mij te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen. Na de dood van mijn ex-man [betrokkene 2] op 1 oktober 2008 kreeg ik van haar vele bedreigingen naar mijn hoofd geslingerd middels SMS berichten op mijn telefoonnummer 06-[001]. Ik heb op geen enkele van deze SMS berichten gereageerd. In verband met de sms'jes ben ik zeer angstig geworden dat een lid van de familie [van verdachte] mij of mijn kinderen wat zal aandoen.</para>
+      <para>2. Het proces-verbaal van verhoor van aangever van de regiopolitie Zeeland, team Axel, nr. PL196E/08-109678, d.d. 15 januari 2009, opgemaakt in de wettelijke vorm door de daartoe bevoegde opsporingsambtenaar. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+      <para>als de op 15 januari 2009 tegenover deze opsporingsambtenaar afgelegde verklaring van [betrokkene 1]:</para>
+      <para>Ik word na 10 december 2008 nog steeds stelselmatig lastiggevallen door [verdachte]. Ik heb tot eergisteren nog sms-berichten op mijn GSM ontvangen.</para>
+      <para>3. De verklaring van de verdachte ter terechtzitting in hoger beroep van 28 februari 2011:</para>
+      <para>Het klopt dat ik in de periode van 1 oktober 2008 tot en met 15 januari 2009 in Nederland meerdere malen sms-berichten via mijn telefoon met het telefoonnummer 06[002] heb gestuurd naar [betrokkene 1]. Na mijn gesprek op 25 oktober 2008 met de politieambtenaar [verbalisant 1] heb ik nog sms-berichten naar haar gestuurd. Ik heb [betrokkene 1] die berichten gestuurd uit frustratie."</para>
+    </parablock>
+    <para />
+    <para>2.3. Vooropgesteld moet worden dat bij de beoordeling van de vraag of sprake is van belaging als bedoeld in art. 285b, eerste lid, Sr van belang zijn de aard, de duur, de frequentie en de intensiteit van de gedragingen van de verdachte, de omstandigheden waaronder deze hebben plaatsgevonden en de invloed daarvan op het persoonlijk leven en de persoonlijke vrijheid van het slachtoffer.</para>
+    <para />
+    <para>2.4. In het licht hiervan is de bewezenverklaring ontoereikend gemotiveerd, mede in aanmerking genomen dat de gebezigde bewijsmiddelen over de aard van de gedragingen van de verdachte niet meer inhouden dan dat de aangeefster per sms "vele bedreigingen" van de verdachte heeft ontvangen.</para>
+    <para />
+    <para>2.5. Het middel slaagt.</para>
+    <para />
+    <para>3. Slotsom</para>
+    <para />
+    <para>Hetgeen hiervoor is overwogen, brengt mee dat de bestreden uitspraak niet in stand kan blijven en als volgt moet worden beslist.</para>
+    <para />
+    <para>4. Beslissing</para>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak;</para>
+      <para>wijst de zaak terug naar het Gerechtshof Den Haag, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en J. Wortel, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken op 12 maart 2013.</para>
+  </uitspraak>
+</open-rechtspraak>

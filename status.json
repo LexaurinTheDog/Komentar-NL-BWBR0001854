@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_complete_book_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T23:11:36.701472+00:00",
+    "rechecked_at": "2026-10-20T23:21:24.532972+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a257-a273e-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a273f-a285b-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 540,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–273e including inserted/repealed places.",
-  "remaining_units": 272,
-  "next_unit": "a273f",
-  "commentary_chars": 879061,
+  "completed_units": 560,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots 92–285b including inserted/repealed places.",
+  "remaining_units": 252,
+  "next_unit": "a285c",
+  "commentary_chars": 913667,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -108,7 +108,9 @@
     "ECLI:NL:HR:2023:275",
     "ECLI:NL:HR:2026:32",
     "ECLI:NL:HR:2024:302",
-    "ECLI:NL:HR:2023:610"
+    "ECLI:NL:HR:2023:610",
+    "ECLI:NL:HR:2009:BI7099",
+    "ECLI:NL:HR:2013:BZ3626"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -120,15 +122,10 @@
     "complete_book_build": false
   },
   "validation_result": {
-    "repo": "Komentar-NL-BWBR0001854",
-    "units": 812,
+    "file": "validation-author-a273f-a285b-result.json",
+    "whole_book_ok": false,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 879614,
-    "errors": [
-      "krátký/chybějící komentář u 272 jednotek: ['a273f(0<400)', 'a273g(0<400)', 'a274(0<400)', 'a275(0<400)', 'a276(0<400)', 'a277(0<400)', 'a278(0<400)', 'a279(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
+    "remaining_outside_batch": 252
   },
   "remaining_limitations": [
     "Full shared build and strict validation cannot pass until these units are written.",
@@ -1277,6 +1274,6 @@
       "selective_only": true
     }
   ],
-  "last_author_batch": "author-a257-a273e-result.json",
-  "last_author_batch_independent_review_pending": false
+  "last_author_batch": "author-a273f-a285b-result.json",
+  "last_author_batch_independent_review_pending": true
 }

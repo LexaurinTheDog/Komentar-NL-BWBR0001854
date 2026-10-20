@@ -1,0 +1,13 @@
+{
+  "searched_at": "2026-10-20T23:24:28.880665+00:00",
+  "queries": [
+    "site.rechtspraak.nl ECLI:NL:HR belaging 2013",
+    "site.rechtspraak.nl ECLI:NL:HR:2009:BI7099"
+  ],
+  "full_judgments": [
+    "ECLI:NL:HR:2009:BI7099",
+    "ECLI:NL:HR:2013:BZ3626"
+  ],
+  "local_corpus": "authorities/author-a273f-a285b-local-corpus.json",
+  "limitations": "Selective primary research on two central units. No sufficiently relevant verified case selected for other assigned units. No exhaustive case-law or subsequent-treatment audit."
+}

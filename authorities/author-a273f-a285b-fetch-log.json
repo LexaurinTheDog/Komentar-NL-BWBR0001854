@@ -1,0 +1,22 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2009:BI7099",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI7099",
+    "accessed_at": "2026-10-20T23:21:20.467062+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "a637280174fb0bc9ac50f5923853ebefc7a2c59d8bf705386e7c877d159c69f4",
+    "path": "authorities/author-a273f-a285b-ECLI-NL-HR-2009-BI7099.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2013:BZ3626",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BZ3626",
+    "accessed_at": "2026-10-20T23:21:20.615394+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "0201c1eedf69c90487f7079e3b8f648a637647623ee7d9a235f076b8cd49413f",
+    "path": "authorities/author-a273f-a285b-ECLI-NL-HR-2013-BZ3626.xml",
+    "fulltext_valid": true
+  }
+]
