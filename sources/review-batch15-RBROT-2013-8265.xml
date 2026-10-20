@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2013:8265</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T08:44:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-10-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2013-10-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">10/960233-12</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJFS 2014/8</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2013:8265">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2013:8265</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-10-23T10:24:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-10-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2013:8265 Rechtbank Rotterdam , 23-10-2013 / 10/960233-12</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2013:8265:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Syriëganger. Enkele voorbereidingen betreffen voorbereidingshandelingen in juridische zin. Daarom geen artikel 134a Sr. Verdachte in permanente psychotische toestand tijdens verweten handelingen. Ontoerekeningsvatbaar. Ontslag van rechtsvervolging en plaatsing in psychiatrisch ziekenhuis.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2013:8265:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold caps">Rechtbank Rotterdam</emphasis>
+  </para>
+  <parablock>
+    <para>Team straf </para>
+  </parablock>
+  <parablock>
+    <para>Parketnummer: 10/960233-12</para>
+    <para>Datum uitspraak: 23 oktober 2013</para>
+    <para>Tegenspraak</para>
+  </parablock>
+  <parablock>
+    <para>Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak</para>
+    <para>tegen de verdachte:</para>
+  </parablock>
+  <section>
+    <title>
+      [verdachte],</title>
+    <parablock>
+      <para>geboren te [geboorteplaats] (Irak) op 1 januari 1989, </para>
+      <para>wonende te [adres], </para>
+      <para>ten tijde van het onderzoek op de terechtzitting preventief gedetineerd in de penitentiaire inrichting Amsterdam Over-Amstel, Penitentiair Psychiatrisch Centrum Amsterdam,</para>
+      <para>raadsman mr. S. Weening, advocaat te Maastricht.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">ONDERZOEK OP DE TERECHTZITTING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de terechtzitting heeft plaatsgevonden 31 juli 2013 en, na heropening van het onderzoek, op 2 oktober 2013. Het onderzoek is gesloten op 23 oktober 2013.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">TENLASTELEGGING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding, zoals deze op de terechtzitting van 31 juli 2013 overeenkomstig de vordering van de officier van justitie is gewijzigd. De tekst van de gewijzigde tenlastelegging is als bijlage I aan dit vonnis gehecht. Deze bijlage maakt deel uit van dit vonnis.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">EIS OFFICIER VAN JUSTITIE</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De officieren van justitie mrs. M. Ridderbeks en S.A. Minks hebben gerekwireerd tot: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>bewezenverklaring van het primair ten laste gelegde;</para>
+      </listitem>
+      <listitem>
+        <para>ontslag van alle rechtsvervolging vanwege ontoerekeningsvatbaarheid;</para>
+      </listitem>
+      <listitem>
+        <para>opname van de verdachte in een psychiatrisch ziekenhuis voor de duur van maximaal één jaar, waarbij de maximale behandelduur optimaal dient te worden benut;</para>
+      </listitem>
+      <listitem>
+        <para>verbeurdverklaring van de onder de verdachte in beslag genomen telefoon;</para>
+      </listitem>
+      <listitem>
+        <para>teruggave aan de verdachte van de onder hem in beslag genomen koffer.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">GELDIGHEID DAGVAARDING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Namens de verdachte is aangevoerd dat de dagvaarding ten aanzien van het primair en het subsidiair ten laste op verschillende onderdelen partieel nietig is. Hiertoe is, kort weergegeven, het volgende aangevoerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Ondermeer’ en ‘zoals’</emphasis>
+      </para>
+      <para>De dagvaarding is nietig voor wat betreft de primair en subsidiair ten laste gelegde termen ‘onder meer’ (eerste gedachtestreepje) en ‘zoals’ (achtste gedachtestreepje). Deze termen duiden op onvoldoende specifiek omschreven websites en op onvoldoende specifiek omschreven goederen, zodat het ten laste gelegde in zoverre niet voldoet aan de eisen van artikel 261, eerste lid, van het Wetboek van Strafvordering (hierna: Sv).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Gelegenheid, middelen of inlichtingen’</emphasis>
+      </para>
+      <para>De dagvaarding is nietig voor wat betreft het primair ten laste gelegde ‘gelegenheid, middelen of inlichtingen verschaffen en/of heeft trachten te verschaffen’, omdat niet alle gedachtestreepjes daaraan invulling geven, zodat het ten laste gelegde ook in zoverre niet voldoet aan de eisen van artikel 261, eerste lid, Sv.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd’</emphasis>
+      </para>
+      <para>De dagvaarding is nietig voor wat betreft het primaire ten laste gelegde ‘het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd, de dood ten gevolge hebbende of met voorbedachten rade gepleegd’. De nietigheid zit in de zinsnede ‘of de vrijheid’. Daarmee is iets ten laste gelegd dat geen terroristisch misdrijf is, en daarmee onbegrijpelijk dan wel innerlijk tegenstrijdig.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ontbreken van werkwoorden</emphasis>
+      </para>
+      <para>De dagvaarding is nietig voor wat betreft de subsidiair ten laste gelegde handelingen, voor zover werkwoorden in de ten laste gelegde handelingen ontbreken, waardoor niet duidelijk is welke handelingen bedoeld worden. Dit deel van het ten laste gelegde is onbegrijpelijk.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Voorbereiding doodslag</emphasis>
+      </para>
+      <para>De dagvaarding is nietig voor wat betreft subsidiair ten laste gelegde voorbereiding van doodslag. Het treffen van voorbereidingshandelingen bij dit delict zou per definitie moeten duiden op het hebben van ‘voorbedachten raad’. De dagvaarding bevat daarmee een innerlijke tegenstrijdigheid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank overweegt omtrent deze verweren als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Ondermeer’ en ‘zoals’</emphasis>
+      </para>
+      <para>In zowel het primair als subsidiair ten laste gelegde, zijn de websites (voor wat betreft de uitvoeringshandelingen betreffende het eerste gedachtestreepje) en de goederen (voor wat betreft de uitvoeringshandelingen betreffende het achtste gedachtestreepje) omschreven als “een of meerdere website(s) bezocht waarop informatie over de (gewelddadige) Jihad en/of martelaarschap en/of de gewapende strijden/of oorlogsmaterialen wordt gedeeld (te weten via chats op onder meer www.paltalk.com en/of www.militaira4you.com en/of www.dumpshop.online.nl)” en “een of meer chatsessies met elkaar en/of (een) derde(n) over reeds aangeschafte en/of nog aan te schaffen goederen (zoals een wind- en regenvrije jas en/of jungle boots en/of een of meerdere laptop(s) en/of een of meerdere kaart(en) en/of een of meerdere camera(“s)) en/of over te verkopen goederen (zoals computers en/of bankstel en/of ander huisraad) en/of het opzeggen van huur”.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van de rechtbank zijn de wijze van ten laste leggen en de inhoud van het dossier in onderlinge samenhang bezien voldoende duidelijk, zodat het voor de verdachte voldoende duidelijk was waartegen hij zich had te verweren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit onderdeel van het verweer wordt verworpen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Gelegenheid, middelen of inlichtingen’</emphasis>
+      </para>
+      <para>Reeds omdat de handelingen zoals opgenomen onder de gedachtestreepjes niet alleen een invulling kunnen geven aan gelegenheid, middelen of inlichtingen, maar ook aan kennis en/of vaardigheden, kan het verweer dat de dagvaarding onbegrijpelijk is omdat sommige gedachtestreepjes geen invulling geven aan gelegenheid, middelen of inlichtingen, niet slagen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit onderdeel van het verweer wordt verworpen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">‘Het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd’</emphasis>
+      </para>
+      <para>Primair is onder meer ten laste gelegd de zinsnede ‘het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd, de dood ten gevolge hebbende of met voorbedachten rade gepleegd’. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 83 van het Wetboek van Strafrecht (hierna: Sr) kent een limitatieve opsomming van alle terroristische misdrijven. Voor wat betreft artikel 115 Sr noemt artikel 83 Sr slechts het in het tweede lid van artikel 115 Sr genoemde plegen van een aanslag op ‘het leven’ van een hoofd van een bevriende staat als terroristisch misdrijf. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de raadsman is de rechtbank dan ook van oordeel dat met het ten laste gelegde ‘of de vrijheid’ iets ten laste is gelegd dat geen terroristisch misdrijf is als bepaald in artikel 83 Sr. De tenlastelegging is echter niet a prima facie onbegrijpelijk, een en ander zou hoogstens tot ontslag van alle rechtsvervolging kunnen leiden wegens niet-kwalificeerbaarheid van het op dat punt ten laste gelegde feit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit onderdeel van het verweer wordt verworpen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ontbreken van werkwoorden</emphasis>
+      </para>
+      <para>Naar het oordeel van de rechtbank zijn de wijze van ten laste leggen en de inhoud van het dossier in onderlinge samenhang bezien voldoende duidelijk, zodat het voor de verdachte voldoende duidelijk was waartegen hij zich had te verweren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit onderdeel van het verweer wordt verworpen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Voorbereiding doodslag</emphasis>
+      </para>
+      <para>Het subsidiair ten laste gelegde houdt onder meer in dat de verdachte zich schuldig heeft gemaakt aan voorbereidingshandelingen voor doodslag. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de raadsman is de rechtbank van oordeel dat het treffen van voorbereidingshandelingen voor doodslag moeilijk voorstelbaar is (vergelijk rechtbank 's-Gravenhage van 18 september 2006, LJN AY8446). Het treffen van voorbereidingshandelingen om iemand van het leven te beroven zou immers per definitie duiden op het hebben van 'voorbedachten rade'. De officier van justitie had dan ook moeten volstaan met het ten laste leggen van de voorbereidingshandelingen voor moord. In zoverre is de tenlastelegging dan ook innerlijk tegenstrijdig en dient deze partieel te worden nietig verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Daarnaast merkt de rechtbank ten aanzien van de door de raadsman gevoerde verweren het navolgende op. Naar het oordeel van de rechtbank is het betoog van de verdediging niet alleen feitelijk van aard maar stelt daarnaast aan de orde of de in het primair ten laste gelegde opgenomen uitvoeringshandelingen in casu kunnen worden aangemerkt als handelingen in de zin van artikel 134a Sr. De rechtbank zal hier bij de bewijsoverwegingen nader op ingaan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">BEWEZENVERKLARING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wettig en overtuigend is bewezen dat de verdachte het subsidiair ten laste gelegde heeft begaan op die wijze:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>dat hij</para>
+      <para>in of omstreeks de periode van 26 oktober 2012 tot en met 29 november 2012</para>
+      <para>
+        <emphasis role="strike-through">te Rotterdam en/of Utrecht en/of Doesburg en/of Arnhem, in elk geval</emphasis> in Nederland,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tezamen en in vereniging met een of meer anderen, <emphasis role="strike-through">althans alleen,</emphasis> opzettelijk</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ter voorbereiding van het<emphasis role="strike-through">/de</emphasis> te plegen misdrijf<emphasis role="strike-through">/misdrijven</emphasis> waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld te weten: <?linebreak?><?linebreak?></para>
+    </parablock>
+    <para>
+      <emphasis role="strike-through">- opzettelijk brand stichten en/of een ontploffing teweegbrengen, terwijl   daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar of   gevaar voor zwaar lichamelijk letsel voor een ander te duchten is, en/of</emphasis>
+    </para>
+    <para>- moord <emphasis role="strike-through">en/of</emphasis></para>
+    <para>
+      <emphasis role="strike-through">- doodslag en/of</emphasis>
+    </para>
+    <para>
+      <emphasis role="strike-through">- het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd, al dan niet de dood ten gevolge hebbende en/of al dan niet met voorbedachten rade en/of</emphasis>
+    </para>
+    <para>
+      <emphasis role="strike-through">- opzettelijk een gebouw of getimmerte vernielen en/of beschadigen, terwijl daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar voor een ander te duchten is</emphasis>,</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">A</emphasis>- <emphasis role="strike-through">een of meerdere</emphasis> website<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">)</emphasis> bezocht en/of <emphasis role="strike-through">(</emphasis>vervolgens<emphasis role="strike-through">)</emphasis> zoekvragen gesteld waarop informatie over de Jihad en/of martelaarschap en/of de gewapende strijd en/of oorlogsmaterialen wordt gedeeld (te weten via chats op onder meer www.paltalk.com en/of www.milita<emphasis role="italic">ri</emphasis>a4you.com en/of www.dumpshop.online.nl) en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">B</emphasis>- zich geuit over zijn<emphasis role="strike-through">/hun</emphasis> wens zich te begeven (via Turkije) naar Syrië en<emphasis role="strike-through">/of</emphasis> zich aan te aansluiten bij de gewapende strijd en/of gewapende Jihad als hij<emphasis role="strike-through">/zij</emphasis> is<emphasis role="strike-through">/ zijn</emphasis> aangekomen <emphasis role="italic">en</emphasis></para>
+      <para>
+        <emphasis role="italic">C</emphasis>- <emphasis role="strike-through">(</emphasis>meermalen<emphasis role="strike-through">)</emphasis> een document (een bedankbrief) gestuurd met onder meer de</para>
+      <para>inhoud:</para>
+      <para>"want ik kan maar jullie niet genoeg bedanken (...) dan heb je</para>
+      <para>&gt;iemand die geld inzamelingen doet en helpt de muhajireen hun pad te bereiken</para>
+      <para>&gt;iemand die mensen van grens tot grens helpt zodat ze op de goeie adress komen</para>
+      <para>&gt;iemand die voor de wapens zorgt zodat de mujahideen mee kunnen vechten</para>
+      <para>&gt;iemand die de bommen in elkaar zet en wapens produceert voor de mujahideen</para>
+      <para>&gt;iemand die plaatsen en posten observeert op de slagveld, zodat mujahideen een</para>
+      <para>oog hebben op hun vijanden en plaatsen</para>
+      <para>&gt;iemand die de strategieen maakt zodat de mujahideen hun vijanden overwinnen</para>
+      <para>&gt;en dan heb je de moslim die in de frontline vecht als een mujahideen</para>
+      <para>dus zoals je ziet, een simpele mujahideen is niks, als de rest van de sub</para>
+      <para>jihad categorieën niet zijn." en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">D</emphasis>- <emphasis role="strike-through">(meermalen)</emphasis> chat<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">)</emphasis> en/<emphasis role="strike-through">of </emphasis>email<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">)</emphasis> gestuurd met daarin de mededeling dat hij wilde strijden aan de zijde van de mujahideen en/of dat hij (daarbij) natuurlijk wapens zou gebruiken en/of dat allen die vechten onthoofding waard zijn en/of dat alleen maar het leger en de regime neergehaald hoeven worden en/of dat hij zal strijden tot er een islamitische staat zal zijn of tot met sharia wordt geregeerd en/of dat hij al jaren op jihad wil en/of dat zijn droom na al die jaren uitkomt en/of dat hij het conflict in Syrie al vanaf de eerste dag volgt en/of dat al het bloed dat is of zal worden vergoten het waard zal zijn en/of dat jabhat al nusra en andere (genoemde) groepen bij elkaar al meer dan 50.000 mujahideen hebben en dat jabhat al nusra en die (genoemde) groeperingen strijden tot de islamitische staat komt en dat het zal lukken en/of dat hij in Syrie zal blijven tot de vlag van rasullah zal wapperen en<emphasis role="strike-through">/of </emphasis></para>
+      <para>
+        <emphasis role="italic">E</emphasis>- een of meer ontmoetingen met elkaar en/of (een) derde(n) gehad om voornoemde reis naar Syrië en/of de mede-reizigers te bespreken en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">F</emphasis>- een of meer chatsessies met <emphasis role="strike-through">elkaar en/of</emphasis> (een) derde(n) gehad over dat er geld is verzameld door een benefit en<emphasis role="strike-through">/of</emphasis> dat geld in een envelop kan worden gestuurd naar hem en/of zijn medeverdachten en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">G</emphasis>- een of meer chatsessies met <emphasis role="strike-through">elkaar en/of</emphasis> (een) derde(n) over de datum van vertrek en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">H</emphasis>- een of meer chatsessies met <emphasis role="strike-through">elkaar en/of</emphasis> (een) derde(n) over reeds aangeschafte en/of nog aan te schaffen goederen (zoals <emphasis role="strike-through">een wind- en regenvrije jas en/of jungle boots en/of</emphasis> een <emphasis role="strike-through">of meer</emphasis> laptop<emphasis role="strike-through">(s)</emphasis> en<emphasis role="strike-through">/of</emphasis> een <emphasis role="strike-through">of meer</emphasis> camera<emphasis role="strike-through">(“s)</emphasis> en<emphasis role="strike-through">/of</emphasis> een of meer kaarten) <emphasis role="strike-through">en/of over te verkopen goederen (zoals computers en/of bankstel en/of ander huisraad) en/of het opzeggen van de huur</emphasis> en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">I</emphasis>- een <emphasis role="strike-through">of meerdere</emphasis> foto<emphasis role="strike-through">'s</emphasis> gestuurd (inhoudende verdachte [verdachte] die een (automatisch) vuurwapen (AK-47) draagt) en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">J</emphasis>- meerdere vliegticket<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">) (</emphasis>naar Turkije<emphasis role="strike-through">)</emphasis> gereserveerd <emphasis role="strike-through">en/of geboekt</emphasis> en<emphasis role="strike-through">/of </emphasis></para>
+      <para>
+        <emphasis role="italic">K</emphasis>- een <emphasis role="strike-through">of meerdere</emphasis> perso<emphasis role="strike-through">(</emphasis>o<emphasis role="strike-through">)</emphasis>n <emphasis role="strike-through">(en)</emphasis> trachten te bewegen om mee te gaan en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">L</emphasis>- <emphasis role="strike-through">een of meerdere</emphasis> documenten of gegevens/informatiedragers voorhanden gehad met daarop informatie betreffende het jihadistisch gedachtegoed en/of martelaarschap en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">M</emphasis>- een <emphasis role="strike-through">(</emphasis>bepakte<emphasis role="strike-through">)</emphasis> koffer <emphasis role="strike-through">en/of rugzak</emphasis> met reisuitrusting voorhanden gehad en<emphasis role="strike-through">/of</emphasis></para>
+      <para>
+        <emphasis role="italic">N</emphasis>- een <emphasis role="strike-through">of meer (grote)</emphasis> geldbedrag<emphasis role="strike-through">en</emphasis> (2.000,-- euro <emphasis role="strike-through">en/of 1.1.05,-- euro</emphasis>) voorhanden gehad,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>welke voorwerp<emphasis role="strike-through">(</emphasis>en<emphasis role="strike-through">)</emphasis> en<emphasis role="strike-through">/of</emphasis> informatiedrager<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">)</emphasis>, al dan niet in combinatie met elkaar, kennelijk bestemd waren tot het <emphasis role="strike-through">in vereniging, althans alleen,</emphasis> begaan van dat<emphasis role="strike-through">/die</emphasis> misdrijf<emphasis role="strike-through">/misdrijven</emphasis>.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet ook daarvan worden vrijgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">BEWIJSMOTIVERING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De overtuiging dat de verdachte het bewezen verklaarde heeft begaan is gegrond op de inhoud van de wettige bewijsmiddelen, zoals vermeld op de aangehechte bijlage II, houdende daartoe redengevende feiten en omstandigheden. Deze bijlage maakt deel uit van dit vonnis.</para>
+      <para />
+      <para>
+        <emphasis role="underline">NADERE BEWIJS- EN KWALIFICATIEOVERWEGING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank komt tot bewezenverklaring van alle feitelijke handelingen die in zowel het primaire als het subsidiaire deel van de tenlastelegging zijn opgenomen en die in de bewezenverklaring zijn gerubriceerd als A tot en met N.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Daarvan leveren de handelingen genoemd onder J, M en N (kort gezegd: het reserveren van vliegtickets en het voorhanden hebben van een bepakte reistas een geldbedragen) steeds feitelijke handelingen op welke als feitelijke voorbereiding voor een verblijf elders kunnen dienen. Daarmede is al geen sprake meer van een training als bedoeld in het primair ten laste gelegde<footnote-ref linkend="_280b3d21-4823-4631-9f04-60e2c2848a4c" />, nu een training niet anders dan aan feitelijke voorbereiding en/of uitvoering vooraf kan gaan, zodat dit niet tot bewezenverklaring en niet tot kwalificatie in de zin van art 134a Sr kan leiden. Vast staat dat de verdachte geld heeft ingezameld voor een verblijf in het buitenland, de huur van zijn kamer in Utrecht heeft opgezegd en vliegtickets naar Turkije heeft gereserveerd. Het hiervoor overwogene geldt eveneens voor de overige handelingen genoemd, nu deze wel uitlatingen over (de gewapende) strijd en vertrek naar de Jihad en bezit van informatie daarover op gegevensdragers bevatten, maar niet als training voor die Jihad kunnen worden gezien. Vergelijk daartoe onder meer de Memorie van Toelichting, pagina 5, 4e alinea, pagina 6, 2e alinea en pagina 8 (Kamerstukken Tweede Kamer, vergaderjaar 2007-2008, 31 386, nr. 3). Alle overige stellingen en verweren met betrekking tot het primair ten laste gelegde behoeven hiermede geen bespreking (meer).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wel leidt de bewezenverklaring tot kwalificatie van het subsidiair ten laste gelegde als voorbereidingshandelingen voor het in de bewezenverklaring genoemde delict moord, waarbij de hierboven genoemde handelingen onder J, M en N steeds worden ingekleurd door de handelingen genoemd onder A, B, C, D en L, welke het opzet op voornoemd delict aangeven en daarmede deze handelingen (J, M en N) van eenvoudige voorbereidingshandelingen maken tot strafbare voorbereidingshandelingen van het delict moord. In dit verband wordt door het Openbaar Ministerie niet ten onrechte de chat van 6 november 2012 tussen verdachte en moslimazuster aangehaald (…die daar vechten…, zijn allemaal onthoofding waard…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het voorgaande betekent dat vrijspraak ten aanzien het primair ten laste gelegde zal volgen, nu het feitelijk deel van het bewezen verklaarde niet tot kwalificatie leidt van het daar bedoelde maar tot kwalificatie van een ander strafbaar feit, te weten het in het subsidiair ten laste gelegde opgenomen strafbare feit (vergelijk HR 16 februari 1982, </para>
+      <para>NJ 1982, 411 en 6 maart 2001, NJ 2001, 295). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten aanzien van de feitelijke handelingen A tot en met I, K en L, zoals opgenomen onder het subsidiaire feit, vindt ontslag van rechtsvervolging plaats, nu deze niet zelfstandig tot kwalificatie van het subsidiair ten laste gelegde kunnen leiden, terwijl – gelijk reeds deels hierboven met betrekking tot de trainingshandelingen overwogen – ook een beschouwing van één of meer van die handelingen in onderling verband onvoldoende substantie biedt om deze als strafbare voorbereidingshandelingen te bestempelen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">STRAFBAARHEID FEIT</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Namens de verdachte is aangevoerd dat, kort gezegd, voor zover er sprake is van voorbereidingshandelingen zoals ten laste gelegd, deze handelingen, nu er in Syrië sprake is van een intern gewapend conflict waarbinnen het gewapend verzet onderworpen is en zich mag beroepen op het internationaal humanitair oorlogsrecht, niet strafbaar zijn. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor zover de verdediging heeft willen betogen dat de door de verdachte gepleegde voorbereidingshandelingen niet zien op een misdrijf als bedoeld in artikel 46 Sr, wordt dit verweer verworpen. Immers, ten aanzien van de thans bewezen verklaarde voorbereidingshandelingen is niet gebleken dat de verdachte deze pleegde in het kader van het internationaal humanitair oorlogsrecht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bewezen subsidiaire feit levert op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>medeplegen van voorbereiding van moord.</title>
+    <para />
+    <parablock>
+      <para>Er zijn ook overigens geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van het feit uitsluiten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het feit is dus strafbaar. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">STRAFBAARHEID VERDACHTE</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omtrent de verdachte is door zowel de psychiater dr. D.A. Blansjaar als de psycholoog </para>
+      <para>drs. J.J. van der Weele op respectievelijk 31 maart en 24 mei 2013 een rapport opgemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het rapport van de psychiater Blansjaar houdt, voor zover belang, het volgende in.</para>
+      <para>De verdachte lijdt aan een ziekelijke stoornis en/of gebrekkige ontwikkeling van zijn geestvermogens in de vorm van een psychose, waarschijnlijk veroorzaakt door en schizofrene of schizoaffectieve ontwikkeling. Ook ten tijde van het ten laste gelegde was sprake van genoemde psychotische stoornis. Deze stoornis beïnvloedde de gedragskeuzen en gedragingen van de verdachte ten tijde van het ten laste gelegde. </para>
+      <para>De verdachte is door bevelshallucinaties aangezet tot de ten laste gelegde terroristische voorbereidingshandelingen. Dit gebeurde in geheel of vrijwel gehele mate. </para>
+      <para>Geadviseerd wordt de verdachte te beschouwen als ontoerekeningsvatbaar voor het ten laste gelegde. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het rapport van de psycholoog Van der Weele houdt, voor zover van belang, het volgende in. </para>
+      <para>Bij de verdachte is sprake van een chronisch psychotische stoornis, mogelijk in het kader van een schizoaffectieve ontwikkeling. Dit kan als een ziekelijke stoornis van de geestvermogens worden benoemd. Dit was ook het geval ten tijde van het ten laste gelegde. </para>
+      <para>Deze ziekelijke stoornis beïnvloedde de gedragskeuzes en gedragingen van de verdachte ten tijde van het ten laste gelegde. </para>
+      <para>Het denken van de verdachte werd ten tijde van het ten laste gelegde bepaald door psychotisch gekleurde overtuigingen en belevingen. Hij hoorde een stem die hem aanzette tot het ondernemen van actie in het kader van de jihad. Zijn oordeels- en kritiekvermogen werd door deze bevelshallucinaties zodanig beïnvloed dat hij alleen nog deed wat de stem hem ingaf. Dit gebeurde in alles overheersende mate. </para>
+      <para>De verdachte kan als volledig ontoerekeningsvatbaar worden beschouwd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens is omtrent de verdachte door zowel de psychiater Blansjaar als de psycholoog </para>
+      <para>Van der Weele op respectievelijk 10 en 16 september 2013 een aanvullend rapport opgemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het aanvullend rapport van de psychiater Blansjaar houdt, voor zover van belang, het volgende in.</para>
+      <para>De verdachte kan voor de gehele ten laste gelegde periode worden beschouwd als (volledig) ontoerekeningsvatbaar. De verdachte heeft frequent psychotische verschijnselen in de vorm van hallucinaties gehad, vanaf zijn veertiende jaar tot aan zijn herstel onder behandeling in het penitentiair psychiatrisch centrum gedurende zijn huidige voorlopige hechtenis.</para>
+      <para>Tussen de scheiding van de verdachte en zijn echtgenote in juni 2012 en zijn tweede huwelijk in november 2012 waren de psychotische verschijnselen zodanig ernstig, dat de verdachte geen weerstand kon bieden aan de hallucinaties die hem hebben bevolen een reis naar Syrië voor te bereiden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het aanvullend rapport van de psycholoog Van der Weele houdt, voor zover van belang, het volgende in.</para>
+      <para>Het is niet voorstelbaar dat de verdachte op enig moment in de ten laste gelegde periode tot een dusdanig niveau van psychisch gezond functioneren is gekomen, dat hij in staat is geweest afstand te nemen van eerdere gedachten en gedragingen en vanuit het besef dat hij verkeerde dingen aan het doen was de keuzemogelijkheid had om anderen te waarschuwen c.q. hieromtrent in te lichten teneinde herhaling te voorkomen en/of bewust door is gegaan met het plegen van strafbare feiten. De verdachte is een chronisch psychotische man bij wie alleen met behulp van medicatie een dergelijke verbetering in zijn functioneren bewerkstelligd kan worden. </para>
+      <para>Niet ondenkbaar is dat de mate waarin het gedrag van de verdachte onder invloed stond van de psychose in de periode van het ten laste gelegde in enige mate heeft gefluctueerd en dat hij zich in zijn (iets) betere momenten liet weerhouden door de aanwezigheid van mensen om hem heen. Gezien zijn ziektebeeld is de aanname gerechtvaardigd dat hij op die momenten nog steeds wel de intentie had om door te gaan op de weg die hij was ingeslagen, maar dat hij de feitelijke gedragsmatige invulling hiervan wellicht even uitstelde. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zowel de psychiater Blansjaar als de psycholoog Van der Weele zijn ter terechtzitting van </para>
+      <para>2 oktober 2013 als deskundige gehoord. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ter zitting heeft de psychiater Blansjaar zijn bevindingen gehandhaafd en op vragen van de rechtbank nog het navolgende opgemerkt. De verdachte heeft in een groot gedeelte van de ten laste gelegde periode alleen en geïsoleerd geleefd. Hij werd niet door anderen bijgestuurd in zijn psychotische belevingen. Als hij al keuzemomenten had, dan waren dit hele korte momenten en meer onder invloed van anderen dan van zichzelf. Als die ander vervolgens wegviel, was hij weer overgeleverd aan zijn irreële impulsen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De psycholoog Van der Weele heeft ter terechtzitting aanvullend verklaard dat de voornemens van de verdachte gedurende de ten laste gelegde periode voortkwamen uit een waan. De verdachte weet niet dat het een waanwereld is. Hoewel hij door een persoon of personen in zijn omgeving zelfs met woorden van zijn voornemens is te weerhouden, is dit een tijdelijke vorm van weerhouden, omdat hij, wanneer men niet meer bij hem in de buurt is, gewoon verder gaat in zijn waanwereld. </para>
+      <para>Als de verdachte zijn medicatie niet gebruikt, is de kans op recidive zeer groot, honderd procent. De achtergrond van het advies voor plaatsing van de verdachte in een psychiatrische inrichting voor de duur van één jaar, is dat die periode nodig is om de verdachte ervan te doen overtuigen zijn medicatie te blijven gebruiken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nu de conclusies van de psychiater en psycholoog gedragen worden door hun bevindingen en door hetgeen ook overigens op de terechtzitting is gebleken, neemt de rechtbank die conclusies over en maakt die tot de hare. De verdachte wordt dus volledig ontoerekeningsvatbaar geacht. Nu het thans bewezen verklaarde feit hem niet kan worden aangerekend, is verdachte niet strafbaar en dient hij derhalve ontslagen te worden van alle rechtsvervolging.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">MOTIVERING MAATREGEL </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De verdachte heeft strafbare handelingen ter voorbereiding van moord verricht. De handelingen bestonden hieruit dat de verdachte voor hemzelf en zijn medeverdachten vliegtickets heeft gereserveerd bij Pegasus Airlines, betreffende een vlucht van Amsterdam, via Istanbul, naar Gaziantep te Turkije en het voorhanden hebben van zowel een koffer met reisuitrusting als een geldbedrag. Uit de overige bewezen verklaarde handelingen blijkt dat de drie hiervoor genoemde voorbereidingshandelingen zagen op het afreizen van de verdachte naar Syrië, om daar deel te nemen aan de gewapende jihad tegen het bewind van president Assad en voor het stichten van een Islamitische staat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met dit voornemen en de daartoe gepleegde strafbare voorbereidingshandelingen heeft de verdachte een ernstig misdrijf gepleegd. Moord is immers een misdrijf waarmee een mens diens meest fundamentele recht, het recht op leven, wordt ontnomen. Daarbij komt bovendien dat het voorgenomen misdrijf bezien moet worden in een terroristisch kader, te weten dat van deelname aan de gewapende jihad in Syrië. Zoals uit het dossier blijkt, is het de verdachte erom te doen het bewind van de huidige president van Syrië ten val te brengen, teneinde een Islamitische staat te stichten. </para>
+      <para>Terrorisme wordt als een van de ernstigste schendingen van het beginsel van de rechtstaat en het beginsel van de democratie beschouwd. Het is een gevaar voor de vrije uitoefening van de mensenrechten en de economische en sociale ontwikkeling.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Blijkens het op zijn naam gestelde uittreksel uit de Justitiële Documentatie van 9 juli 2013 is de verdachte niet eerder veroordeeld voor strafbare feiten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zoals hiervoor overwogen, is omtrent de verdachte zowel door de psychiater Blansjaar als door de psycholoog Van der Weele gerapporteerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De psychiater Blansjaar concludeert en adviseert voor wat betreft het opleggen van een straf of maatregel als volgt.</para>
+      <para>De kans op recidive is verhoogd door de psychotische stoornis van de verdachte, die zonder behandeling naar alle waarschijnlijkheid een chronisch recidiverend beloop zal hebben. Geadviseerd wordt de kans op recidive te verlagen door plaatsing van de verdachte in een psychiatrisch ziekenhuis voor de duur van ten hoogste één jaar op grond van artikel 37 van het Wetboek van Strafrecht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De psycholoog Van der Weele concludeert en adviseert voor wat betreft het opleggen van een straf of maatregel als volgt.</para>
+      <para>De kans op recidive is geheel afhankelijk van het verdere verloop van de ziekte van de verdachte en de mate van succes van de geadviseerde behandeling. Met name de medicatietrouw zal hierbij bepalend zijn.</para>
+      <para>Geadviseerd wordt een plaatsing in een psychiatrisch ziekenhuis voor de duur van maximaal één jaar in het kader van artikel 37 Sr. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet op de ernst van  het feit, de omstandigheden waaronder het feit is begaan en de persoon en de persoonlijke omstandigheden van de verdachte, waaronder de omstandigheid dat de thans bewezen verklaarde strafbare voorbereidingshandelingen aan de verdachte, wegens de vastgestelde ziekelijke stoornis van zijn geestvermogens, niet kunnen worden toegerekend, acht de rechtbank een plaatsing van de verdachte in een psychiatrisch ziekenhuis voor de duur van ten hoogste één jaar op grond van artikel 37 Sr passend en geboden, vanwege het gevaar dat de verdachte is voor anderen.</para>
+    </parablock>
+    <para>
+      <?linebreak?>
+      <?linebreak?>
+    </para>
+    <parablock>
+      <para>
+        <emphasis role="underline">IN BESLAG GENOMEN VOORWERPEN</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De officier van justitie heeft gevorderd de in beslag genomen zaktelefoon verbeurd te verklaren en de in beslag genomen koffer met inhoud terug te geven aan de verdachte. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De in beslag genomen zaktelefoon en koffer met inhoud zullen worden verbeurd verklaard. Het behoort aan de verdachte toe. Het bewezen feit is met behulp van dit voorwerp begaan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet is op de artikelen 33, 33a, 37, 46, 47, en 289 van het Wetboek van Strafrecht.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">BESLISSING</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart de dagvaarding partieel nietig voor zover het betreft de in het primair ten laste gelegde opgenomen zinsnede ‘of de vrijheid’ en de in het subsidiair ten laste gelegde term ‘doodslag’;</para>
+      <para>verklaart de dagvaarding voor het overige geldig;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart niet bewezen, dat de verdachte het primair ten laste gelegde feit heeft begaan en spreekt de verdachte daarvan vrij;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart bewezen, dat de verdachte het subsidiair ten laste gelegde feit, zoals hiervoor omschreven, heeft begaan;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte ook daarvan vrij;</para>
+      <para>stelt vast dat de feitelijke handelingen A tot en met I, K en L, zoals omschreven in het subsidiair bewezen verklaarde feit, zelfstandig noch in onderling verband een strafbaar feit opleveren en ontslaat de verdachte ten aanzien daarvan van alle rechtsvervolging;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>stelt vast dat het subsidiair overig bewezen verklaarde oplevert het hiervoor vermelde strafbare feit;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart de verdachte voor het subsidiair kwalificeerbaar bewezen verklaarde niet strafbaar en ontslaat de verdachte ten aanzien daarvan van alle rechtsvervolging;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>gelast dat de verdachte in een <emphasis role="bold">psychiatrisch ziekenhuis</emphasis> zal worden geplaatst voor de termijn van <emphasis role="bold">1 (één) jaar</emphasis>;</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>beslist ten aanzien van de voorwerpen, geplaatst op de lijst van in beslag genomen en nog niet teruggegeven voorwerpen, als volgt:</para>
+      <para>- <emphasis role="bold">verklaart verbeurd</emphasis>, als bijkomende straf bij het kwalificeerbaar subsidiair bewezen verklaarde, de onder 3 genoemde GSM zaktelefoon, HTC, kleur zwart en de onder 4 genoemde koffer met inhoud, SPACECASE.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit vonnis is gewezen door:</para>
+      <para>mr. J. van der Groen, voorzitter,</para>
+      <para>en mrs. A.A. Kalk en B.E. Dijkers, rechters,</para>
+      <para>in tegenwoordigheid van R. Meulendijk, griffier,</para>
+      <para>en uitgesproken op de openbare terechtzitting van deze rechtbank op 23 oktober 2013.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage I bij vonnis van 23 oktober 2013.</title>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">TEKST GEWIJZIGDE TENLASTELEGGING </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Aan de verdachte wordt ten laste gelegd dat </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Primair</title>
+    <para />
+    <parablock>
+      <para>dat hij</para>
+      <para>in of omstreeks de periode van 26 oktober 2012 tot en met 29  november 2012</para>
+      <para>te Rotterdam en/of Utrecht en/of Doesburg en/of Arnhem, in elk geval in Nederland,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk</para>
+    </parablock>
+    <para />
+    <para>- zich en/of (een) ander(en) gelegenheid en/of middelen en/of inlichtingen heeft verschaft en/of heeft trachten te verschaffen en/of</para>
+    <para>- kennis en/of vaardigheden heeft verworven en/of (een) ander(en) heeft bijgebracht,</para>
+    <para />
+    <parablock>
+      <para>tot het plegen van een terroristisch misdrijf en/of een misdrijf ter voorbereiding en/of vergemakkelijking van een terroristisch misdrijf, te weten</para>
+    </parablock>
+    <para>- opzettelijk brand stichten en/of een ontploffing teweegbrengen met een terroristisch oogmerk, terwijl daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is, en/of</para>
+    <para>- deelnemen aan een organisatie die tot oogmerk heeft het plegen van terroristische misdrijven en/of</para>
+    <para>- moord met een terroristisch oogmerk en/of</para>
+    <para>- het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd, de dood ten gevolge hebbende of met voorbedachten rade gepleegd en/of</para>
+    <para>- opzettelijk een gebouw of getimmerte vernielen en/of beschadigen met een terroristisch oogmerk, terwijl daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar voor een ander te duchten is,</para>
+    <para />
+    <parablock>
+      <para>immers heeft/hebben verdachte en/of zijn mededader(s) tezamen en in vereniging met elkaar, althans alleen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">A</emphasis>- een of meerdere website(s) bezocht waarop informatie over de (gewelddadige) Jihad en/of martelaarschap en/of de gewapende strijden/of oorlogsmaterialen wordt gedeeld (te weten via chats op onder meer www.paltalk.com en/of www.militaira4you.com en/of www.dumpshop.online.nl) en/of (vervolgens) zoekvragen gesteld en/of</para>
+      <para>
+        <emphasis role="italic">B</emphasis>- zich geuit over zijn/hun wens zich te begeven (via Turkije) naar Syrië en/of zich aan te  aansluiten bij de gewapende strijd en/of gewapende Jihad als hij/zij is/ zijn aangekomen en/of</para>
+      <para>
+        <emphasis role="italic">C</emphasis>- (meermalen) een document (een bedankbrief)  gestuurd met onder meer de inhoud:</para>
+      <para>"want ik kan maar jullie niet genoeg bedanken (...) dan heb je</para>
+      <para>&gt;iemand die geld inzamelingen doet en helpt de muhajideen hun pad te bereiken</para>
+      <para>&gt;iemand die mensen van grens tot grens helpt zodat ze op de goeie adress komen</para>
+      <para>&gt;iemand die voor de wapens zorgt zodat de mujahideen mee kunnen vechten</para>
+      <para>&gt;iemand die de bommen in elkaar zet en wapens produceert voor de mujahideen</para>
+      <para>&gt;iemand die plaatsen en posten observeert op de slagveld, zodat mujahideen een oog hebben op hun vijanden en plaatsen</para>
+      <para>&gt;iemand die de strategieen maakt zodat de mujahideen hun vijanden overwinnen</para>
+      <para>&gt;en dan heb je de moslim die in de frontline vecht als een mujahideen dus zoals je ziet, een simpele mujahideen is niks, als de rest van de sub jihad catagorieeen niet zijn." en/of</para>
+      <para>
+        <emphasis role="italic">D</emphasis>- (meermalen) chat(s) en/of email(s) gestuurd met daarin de mededeling dat hij wilde strijden aan de zijde van de mujahideen en/of dat hij (daarbij) natuurlijk wapens zou gebruiken en/of dat allen die vechten onthoofding waard zijn en/of dat alleen maar het leger en de regime neergehaald hoeven worden en/of dat hij zal strijden tot er een islamitische staat zal zijn of tot met sharia wordt geregeerden/of dat hij al jaren op jihad wil en/of dat zijn droom na al die jaren uitkomt en/of dat hij het conflict in Syrie al vanaf de eerste dag volgt en/of dat al het bloed dat is of zal worden vergoten het waard zal zijn en/of dat jabhat al nusra en andere (genoemde) groepen bij elkaar al meer dan 50.000 mujahideen hebben en dat jabhat al nusra en die (genoemde) groeperingen strijden tot de islamitische staat komt en dat het zal lukken en/of dat hij in Syrie zal blijven tot de vlag van rasullah zal wapperen en/of   </para>
+      <para>
+        <emphasis role="italic">E</emphasis>- een of meer ontmoetingen met elkaar en/of (een) derde(n) gehad om voornoemde reis naar Syrië en/of de mede-reizigers te bespreken en/of </para>
+      <para>
+        <emphasis role="italic">F</emphasis>- een of meer chatsessies met elkaar en/of (een) derde(n) gehad over dat er geld is verzameld door een benefit en/of dat geld in een envelop kan worden gestuurd naar hem en/of zijn mede-verdachten en/of</para>
+      <para>
+        <emphasis role="italic">G</emphasis>- een of meer chatsessies met elkaar en/of (een) derde(n) over de datum van vertrek en/of</para>
+      <para>
+        <emphasis role="italic">H</emphasis>- een of meer chatsessies met elkaar en/of (een) derde(n) over reeds aangeschafte en/of nog aan te schaffen goederen (zoals een wind- en regenvrije jas en/of jungle boots en/of een of meerdere laptop(s) en/of een of meerdere kaart(en) en/of een of meerdere camera(“s)) en/of over te verkopen goederen (zoals computers en/of bankstel en/of ander huisraad) en/of het opzeggen van huur en/of</para>
+      <para>
+        <emphasis role="italic">I</emphasis>- een of meerdere foto's gestuurd (inhoudende verdachte [verdachte] die een (automatisch) vuurwapen (AK-47) draagt) en/of</para>
+      <para>
+        <emphasis role="italic">J-</emphasis> meerdere vliegtickets (naar Turkije) gereserveerd en/of geboekt en/of </para>
+      <para>
+        <emphasis role="italic">K</emphasis>- een of meerdere perso(o)n (en) trachten te bewegen om mee te gaan en/of</para>
+      <para>
+        <emphasis role="italic">L</emphasis>- een of meerdere documenten of gegevens/informatiedragers voorhanden gehad met daarop informatie betreffende het jihadistisch gedachtegoed en/of martelaarschap en/of</para>
+      <para>
+        <emphasis role="italic">M</emphasis>- een (bepakte) koffer en/of rugzak met reisuitrusting voorhanden gehad en/of</para>
+      <para>
+        <emphasis role="italic">N-</emphasis> een of meer (grote) geldbedrag(en) (2.000,-- euro en/of 1.1.05,-- euro) voorhanden  gehad;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(art 134a Wetboek van Strafrecht)</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Subsidiair, indien het vorenstaande niet tot een veroordeling kan leiden</title>
+    <para />
+    <parablock>
+      <para>dat hij</para>
+      <para>in of omstreeks de periode van 26 oktober 2012 tot en met 29  november 2012</para>
+      <para>te Rotterdam en/of Utrecht en/of Doesburg en/of Arnhem, in elk geval in Nederland,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ter voorbereiding van het/de te plegen misdrijf/misdrijven waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld te weten: <?linebreak?><?linebreak?></para>
+    </parablock>
+    <para>- opzettelijk brand stichten en/of een ontploffing teweegbrengen, terwijl   daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar of   gevaar voor zwaar lichamelijk letsel voor een ander te duchten is, en/of</para>
+    <para>- moord en/of</para>
+    <para>- doodslag en/of</para>
+    <para>- het plegen van een aanslag op het leven of de vrijheid van een bevriend staatshoofd, al dan niet de dood ten gevolge hebbende en/of al dan niet met voorbedachten rade en/of</para>
+    <para>- opzettelijk een gebouw of getimmerte vernielen en/of beschadigen, terwijl daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar voor een ander te duchten is,</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">A</emphasis>- een of meerdere website(s) bezocht en/of (vervolgens) zoekvragen gesteld waarop informatie over de Jihad en/of martelaarschap en/of de gewapende strijd en/of oorlogsmaterialen wordt gedeeld (te weten via chats op onder meer www.paltalk.com en/of www.militaira4you.com en/of www.dumpshop.online.nl) en/of</para>
+      <para>
+        <emphasis role="italic">B</emphasis>- zich geuit over zijn/hun wens zich te begeven (via Turkije) naar Syrië en/of zich aan te aansluiten bij de gewapende strijd en/of gewapende Jihad als hij/zij is/ zijn aangekomen;</para>
+      <para>
+        <emphasis role="italic">C</emphasis>- (meermalen) een document (een bedankbrief)  gestuurd met onder meer de</para>
+      <para>inhoud:</para>
+      <para>"want ik kan maar jullie niet genoeg bedanken (...) dan heb je</para>
+      <para>&gt;iemand die geld inzamelingen doet en helpt de muhajireen hun pad te bereiken</para>
+      <para>&gt;iemand die mensen van grens tot grens helpt zodat ze op de goeie adress komen</para>
+      <para>&gt;iemand die voor de wapens zorgt zodat de mujahideen mee kunnen vechten</para>
+      <para>&gt;iemand die de bommen in elkaar zet en wapens produceert voor de mujahideen</para>
+      <para>&gt;iemand die plaatsen en posten observeert op de slagveld, zodat mujahideen een</para>
+      <para>oog hebben op hun vijanden en plaatsen</para>
+      <para>&gt;iemand die de strategieen maakt zodat de mujahideen hun vijanden overwinnen</para>
+      <para>&gt;en dan heb je de moslim die in de frontline vecht als een mujahideen</para>
+      <para>dus zoals je ziet, een simpele mujahideen is niks, als de rest van de sub</para>
+      <para>jihad catagorieeen niet zijn." en/of</para>
+      <para>
+        <emphasis role="italic">D</emphasis>- (meermalen) chat(s) en/of email(s) gestuurd met daarin de mededeling dat hij wilde strijden aan de zijde van de mujahideen en/of dat hij (daarbij) natuurlijk wapens zou gebruiken en/of dat allen die vechten onthoofding waard zijn en/of dat alleen maar het leger en de regime neergehaald hoeven worden en/of dat hij zal strijden tot er een islamitische staat zal zijn of tot met sharia wordt geregeerden/of dat hij al jaren op jihad wil en/of dat zijn droom na al die jaren uitkomt en/of dat hij het conflict in Syrie al vanaf de eerste dag volgt en/of dat al het bloed dat is of zal worden vergoten het waard zal zijn en/of dat jabhat al nusra en andere (genoemde) groepen bij elkaar al meer dan 50.000 mujahideen hebben en dat jabhat al nusra en die (genoemde) groeperingen strijden tot de islamitische staat komt en dat het zal lukken en/of dat hij in Syrie zal blijven tot de vlag van rasullah zal wapperen en/of   </para>
+      <para>
+        <emphasis role="italic">E</emphasis>- een of meer ontmoetingen met elkaar en/of (een) derde(n) gehad om voornoemde reis naar Syrië en/of de mede-reizigers te bespreken en/of</para>
+      <para>
+        <emphasis role="italic">F-</emphasis> een of meer chatsessies met elkaar en/of (een) derde(n) gehad over dat er geld is verzameld door een benefit en/of dat geld in een envelop kan worden gestuurd naar hem en/of zijn medeverdachten en/of</para>
+      <para>
+        <emphasis role="italic">G</emphasis>- een of meer chatsessies met elkaar en/of (een) derde(n) over de datum van vertrek en/of</para>
+      <para>
+        <emphasis role="italic">H</emphasis>- een of meer chatsessies met elkaar en/of (een) derde(n) over reeds aangeschafte en/of nog aan te schaffen goederen (zoals een wind- en regenvrije jas en/of jungle boots en/of een of meer laptop(s) en/of een of meer camera(“s) en/of een of meer kaarten) en/of over te verkopen goederen (zoals computers en/of bankstel en/of ander huisraad) en/of het opzeggen van de huur en/of</para>
+      <para>
+        <emphasis role="italic">I-</emphasis> een of meerdere foto's gestuurd (inhoudende verdachte [verdachte] die een (automatisch) vuurwapen (AK-47) draagt) en/of</para>
+      <para>
+        <emphasis role="italic">J</emphasis>- meerdere vliegticket(s) (naar Turkije) gereserveerd en/of geboekt en/of </para>
+      <para>
+        <emphasis role="italic">K</emphasis>- een of meerdere perso(o)n (en) trachten te bewegen om mee te gaan en/of</para>
+      <para>
+        <emphasis role="italic">L</emphasis>- een of meerdere documenten of gegevens/informatiedragers voorhanden gehad met daarop informatie betreffende het jihadistisch gedachtegoed en/of martelaarschap en/of</para>
+      <para>
+        <emphasis role="italic">M</emphasis>- een (bepakte) koffer en/of rugzak met reisuitrusting voorhanden gehad en/of</para>
+      <para>
+        <emphasis role="italic">N</emphasis>- een of meer (grote) geldbedragen (2.000,-- euro en/of 1.1.05,-- euro) voorhanden  gehad,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>welke voorwerp(en) en/of informatiedrager(s), al dan niet in combinatie met elkaar, kennelijk bestemd waren tot het in vereniging, althans alleen, begaan van dat/die misdrijf/misdrijven; </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(artikelen 46 j° 157/289/287/170  j° 47 Wetboek van Strafrecht)</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_280b3d21-4823-4631-9f04-60e2c2848a4c" label="1">
+    <para> Waarmee de rechtbank bedoelt: zich en/of (een) ander(en) gelegenheid en/of middelen en/of inlichtingen heeft verschaft en/of heeft trachten te verschaffen en/of kennis en/of vaardigheden heeft verworven en/of (een) ander(en) heeft bijgebracht.</para>
+    <para />
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

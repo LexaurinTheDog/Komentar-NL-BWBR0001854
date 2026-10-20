@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBASS:2002:AD8928",
+    "accessed_at": "2026-10-20T18:52:36.635489+00:00",
+    "path": "sources/review-batch15-RBASS-2002-AD8928.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBASS:2002:AD8928",
+    "content_type": "application/xml",
+    "sha256": "d7df660b0c7aa1288893368f1dbc5e4583ccc1089be0d4aa8ddc1baaa155c939",
+    "bytes": 14248,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "matches_existing_snapshot": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2013:8265",
+    "accessed_at": "2026-10-20T18:52:36.635931+00:00",
+    "path": "sources/review-batch15-RBROT-2013-8265.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2013:8265",
+    "content_type": "application/xml",
+    "sha256": "02cd02d44bf63efda1404f7e7fe044b5f523bc8f8227cfb03b003fc7e1234caf",
+    "bytes": 61743,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "matches_existing_snapshot": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "accessed_at": "2026-10-20T18:52:36.636052+00:00",
+    "path": "sources/review-batch15-stb-2019-187.html",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "ee46e0be5bfe035a00997e3fba3004029ae4d2da09180a0094a018e7357e3314",
+    "bytes": 32938,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "accessed_at": "2026-10-20T18:52:36.636147+00:00",
+    "path": "sources/review-batch15-stb-2019-277.html",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "1230397b3c1e47e380bd55b050ca6de6e2019e164e81c84bbdbefb4fb579de6b",
+    "bytes": 22774,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "accessed_at": "2026-10-20T18:52:36.798223+00:00",
+    "path": "sources/review-batch15-wetten.html",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2",
+    "bytes": 4600683,
+    "expected_format_valid": true
+  }
+]

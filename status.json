@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_author_complete_authoring_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T18:49:04.835195+00:00",
+    "rechecked_at": "2026-10-20T18:55:23.446801+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch14-version-evidence.json",
+    "bounded_review_recheck": "sources/review-batch15-version-evidence.json",
     "bounded_author_recheck": "sources/author-a101-a116-version-evidence.json"
   },
   "total_units": 812,
@@ -113,13 +113,13 @@
     "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
     "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json.",
     "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
-    "This is original authorship with internal author checking, not an independent second pass.",
     "The full book remains incomplete: 512 units outside this batch lack commentary.",
     "Selective case-law research; historical Assen holding not current limitation law; Rotterdam reasoning/dictum difference disclosed.",
     "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
-    "Technical checks of length, links and repeated paragraphs do not establish legal correctness."
+    "Technical checks of length, links and repeated paragraphs do not establish legal correctness.",
+    "Fifteen disjoint bounded second-pass batches cover 300 units; 512 units still lack commentary and review. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T18:50:04.651850+00:00",
+  "updated_at": "2026-10-20T18:55:23.446801+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -141,51 +141,40 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a90septies",
-      "a90octies",
-      "a90novies",
-      "a91",
-      "a92",
-      "a93",
-      "a94",
-      "a95",
-      "a95a",
-      "a96",
-      "a97",
-      "a97a",
-      "a97b",
-      "a98",
-      "a98a",
-      "a98b",
-      "a98c",
-      "a98d",
-      "a99",
-      "a100"
+      "a101",
+      "a102",
+      "a103",
+      "a103a",
+      "a104",
+      "a105",
+      "a106",
+      "a107",
+      "a107a",
+      "a108",
+      "a109",
+      "a110",
+      "a111",
+      "a112",
+      "a113",
+      "a114",
+      "a114a",
+      "a114b",
+      "a115",
+      "a116"
     ],
     "corrected_units": [
-      "a90novies",
-      "a91",
-      "a92",
-      "a97",
-      "a97a",
-      "a97b",
-      "a98b"
+      "a104",
+      "a106",
+      "a108",
+      "a113",
+      "a114b",
+      "a115"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "batch_report": "review-batch14-result.json",
-    "source_preflight": "sources/review-batch14-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:37:05.983873+00:00",
-    "technical_validation": {
-      "statutory_text_agreement": 1.0,
-      "coverage_ok": true,
-      "local_links_ok": true,
-      "all20_present": true,
-      "all20_rendered": true,
-      "full_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 532
-    }
+    "batch_report": "review-batch15-result.json",
+    "source_preflight": "sources/review-batch15-version-evidence.json",
+    "reviewed_at": "2026-10-20T18:55:23.446801+00:00"
   },
   "prior_bounded_reviews": [
     {
@@ -752,10 +741,60 @@
         "strict_validator_ok": false,
         "out_of_scope_missing_commentaries": 548
       }
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a90septies",
+        "a90octies",
+        "a90novies",
+        "a91",
+        "a92",
+        "a93",
+        "a94",
+        "a95",
+        "a95a",
+        "a96",
+        "a97",
+        "a97a",
+        "a97b",
+        "a98",
+        "a98a",
+        "a98b",
+        "a98c",
+        "a98d",
+        "a99",
+        "a100"
+      ],
+      "corrected_units": [
+        "a90novies",
+        "a91",
+        "a92",
+        "a97",
+        "a97a",
+        "a97b",
+        "a98b"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-result.json",
+      "batch_report": "review-batch14-result.json",
+      "source_preflight": "sources/review-batch14-version-evidence.json",
+      "reviewed_at": "2026-10-20T18:37:05.983873+00:00",
+      "technical_validation": {
+        "statutory_text_agreement": 1.0,
+        "coverage_ok": true,
+        "local_links_ok": true,
+        "all20_present": true,
+        "all20_rendered": true,
+        "full_build_ok": false,
+        "strict_validator_ok": false,
+        "out_of_scope_missing_commentaries": 532
+      }
     }
   ],
-  "second_pass_total_reviewed_units": 280,
-  "second_pass_remaining_units": 532,
+  "second_pass_total_reviewed_units": 300,
+  "second_pass_remaining_units": 512,
   "bounded_author": {
     "complete": true,
     "ids": [

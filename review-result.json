@@ -4,402 +4,478 @@
   "book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a90septies",
-    "a90octies",
-    "a90novies",
-    "a91",
-    "a92",
-    "a93",
-    "a94",
-    "a95",
-    "a95a",
-    "a96",
-    "a97",
-    "a97a",
-    "a97b",
-    "a98",
-    "a98a",
-    "a98b",
-    "a98c",
-    "a98d",
-    "a99",
-    "a100"
+    "a101",
+    "a102",
+    "a103",
+    "a103a",
+    "a104",
+    "a105",
+    "a106",
+    "a107",
+    "a107a",
+    "a108",
+    "a109",
+    "a110",
+    "a111",
+    "a112",
+    "a113",
+    "a114",
+    "a114a",
+    "a114b",
+    "a115",
+    "a116"
   ],
   "corrected_units": [
-    "a90novies",
-    "a91",
-    "a92",
-    "a97",
-    "a97a",
-    "a97b",
-    "a98b"
+    "a104",
+    "a106",
+    "a108",
+    "a113",
+    "a114b",
+    "a115"
   ],
   "retained_units": [
-    "a90septies",
-    "a90octies",
-    "a93",
-    "a94",
-    "a95",
-    "a95a",
-    "a96",
-    "a98",
-    "a98a",
-    "a98c",
-    "a98d",
-    "a99",
-    "a100"
+    "a101",
+    "a102",
+    "a103",
+    "a103a",
+    "a105",
+    "a107",
+    "a107a",
+    "a109",
+    "a110",
+    "a111",
+    "a112",
+    "a114",
+    "a114a",
+    "a116"
   ],
-  "unresolved_blockers": [],
-  "reviewed_at": "2026-10-20T18:37:05.983873+00:00",
-  "baseline_commit": "453f933",
+  "reviewed_at": "2026-10-20T18:55:23.446801+00:00",
+  "baseline_commit": "eb6bbb14b57f161b2b42d4f79963ce1eac291d0f",
   "findings": [
     {
-      "id": "a90septies",
-      "source_reading": "De volledige titelbevoegdheidsdefinitie gelezen; 37a lid 3 en 77s lid 2 met hun onderzoeksweigeringsexcepties vergeleken.",
-      "finding": "Behouden. De toelichting onderscheidt formele bevoegdheid van ervaring en vult geen nieuwe registratie-eis in. Het voorbeeld zegt niet dat de maatregel bij iedere ontbrekende deskundige onmogelijk is.",
+      "id": "a101",
+      "source_reading": "Volledige dienstnemingsbepaling gelezen: Nederlanderschap, vrijwilligheid, buitenlandse mogendheid, vooruitzicht en daadwerkelijk uitbreken van oorlog. Artikel 87 en overeenkomstige toepassing via 107a gecontroleerd.",
+      "finding": "Behouden. Geen civiele arbeid, buitenlandse reis of latere oorlog als voldoende bewijs aangenomen. Assen 2002 uitsluitend als historische waarschuwing gebruikt, niet als actuele verjaringsregel.",
       "disposition": "retained",
       "internal_cross_references_checked": [
-        "a37a",
-        "a77s"
+        "a87",
+        "a107a"
       ],
-      "statutory_text_sha256": "85d875e5485e4a725a0097aeea2f6f822ed88ef7f7c396583cf43a66f825d424",
-      "commentary_before_sha256": "b023762b9dbac3bbacc17b3c44b0c273bdd9cb0bf37545ab038964b1c62ccec5",
-      "commentary_after_sha256": "b023762b9dbac3bbacc17b3c44b0c273bdd9cb0bf37545ab038964b1c62ccec5",
-      "commentary_chars": 840,
-      "source_location": "/BoekEerste/TiteldeelIX/Artikel90septies",
+      "verified_case_sources": [
+        "ECLI:NL:RBASS:2002:AD8928"
+      ],
+      "statutory_text_sha256": "df5e3deafdde3f2fe802e43eb00379c75dfe5302e6e731f83e6b6c32127c2085",
+      "commentary_before_sha256": "8232cc44fa10af7e2ac4f1bd415e24181556f54f84b6f18213b74956d0388e38",
+      "commentary_after_sha256": "8232cc44fa10af7e2ac4f1bd415e24181556f54f84b6f18213b74956d0388e38",
+      "commentary_chars": 2359,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel101",
       "unresolved_blockers": []
     },
     {
-      "id": "a90octies",
-      "source_reading": "De volledige gelijkstelling en de uitzondering voor 449 gelezen; de klachtgerechtigdheid van 65 en de volledige 449-tekst vergeleken.",
-      "finding": "Behouden. Geregistreerd partnerschap wordt onderscheiden van ongehuwd samenwonen. De uitzondering verdwijnt niet door de algemene gelijkstelling.",
+      "id": "a102",
+      "source_reading": "Beide opzettelijke routes, oorlogstijd en huidig maximum gelezen; definities 87, uitzondering 103a en uitbreidingen 107/107a vergeleken. Assen geheel gelezen, vooral 4.2 en dictum.",
+      "finding": "Behouden. Hulp en benadeling alternatief; geen nationaliteits- of dienstverbandseis toegevoegd. Het historische vijftienjaarsmaximum en bijzonder verjaringsrecht worden uitdrukkelijk niet als huidig recht gepresenteerd.",
       "disposition": "retained",
       "internal_cross_references_checked": [
-        "a65",
-        "a449"
+        "a87",
+        "a103a",
+        "a107",
+        "a107a"
       ],
-      "statutory_text_sha256": "a4ef9808f909f758f7c87d48350fa979b05ad4b9f8e5fbd83fcedc171ff1f1b4",
-      "commentary_before_sha256": "32be787c67662abaec3a2d73938b40a969d2970bf5c0d77030c5fe6a20668a28",
-      "commentary_after_sha256": "32be787c67662abaec3a2d73938b40a969d2970bf5c0d77030c5fe6a20668a28",
-      "commentary_chars": 869,
-      "source_location": "/BoekEerste/TiteldeelIX/Artikel90octies",
+      "verified_case_sources": [
+        "ECLI:NL:RBASS:2002:AD8928"
+      ],
+      "statutory_text_sha256": "19126d7b56088f2c1b5b304ad6d9a58f067acda38da2e826fe25b82c6842dc43",
+      "commentary_before_sha256": "4a8e8cf0abad7eb839ad62cba61ebab90769d9a232df6d05e4c6faf404acf12d",
+      "commentary_after_sha256": "4a8e8cf0abad7eb839ad62cba61ebab90769d9a232df6d05e4c6faf404acf12d",
+      "commentary_chars": 2750,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel102",
       "unresolved_blockers": []
     },
     {
-      "id": "a90novies",
-      "source_reading": "Alle drie leden afzonderlijk gelezen, met 42 lid 2 en 3; binnenlandse wettelijke bron, buitenlandse bediening en buitenlandse functionaris onderscheiden.",
-      "finding": "Uitgebreid: de twee wetten volledig benoemd, lid 2 niet met lid 3 vereenzelvigd, en rechtmatige taakuitoefening als zelfstandige voorwaarde bij 42 behouden. Geen volledige actuele regeling van alle politiebevoegdheden gepretendeerd.",
+      "id": "a103",
+      "source_reading": "Verwijzing uitsluitend naar 102 en eigen maximum gelezen; overeenkomstdefinitie 80 en uitzondering 103a gecontroleerd.",
+      "finding": "Behouden. Concrete wederzijdse instemming vereist; geen uitvoering of formele schriftelijke afspraak toegevoegd. Een onbeantwoord voorstel en gemeenschappelijk forum niet als voldoende samenspanning behandeld.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a80",
+        "a102",
+        "a103a",
+        "a107",
+        "a107a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "78c94c97fd611b9d82e892c7097f022a630b4f39541f5166e69d07d873d4c4cc",
+      "commentary_before_sha256": "27bce8d8b6b0aa3d07ade758f18d78aa446a6b28d0c414fec80f8fd381df4fa9",
+      "commentary_after_sha256": "27bce8d8b6b0aa3d07ade758f18d78aa446a6b28d0c414fec80f8fd381df4fa9",
+      "commentary_chars": 2073,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel103",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a103a",
+      "source_reading": "Volledige bijzondere strafuitsluiting gelezen; subjectieve overtuiging, redelijkheid en beperkte verwijzing naar 102 en 103 afzonderlijk vergeleken.",
+      "finding": "Behouden. Werkelijke overtuiging ten tijde van het handelen wordt onderscheiden van achteraf werkelijk uitblijven van schade. Geen toepassing op leveringsbedrog 105 of ongefundeerd beroep op patriottisme aangenomen.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a102",
+        "a103",
+        "a105",
+        "a107a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "845ca677d7166f98707def60487d86bfb0c341dcff7453969ef4d2ebd2a250fa",
+      "commentary_before_sha256": "d9122fff6527e05e6647de3323da659f5d65f280ef5da737d98d4ceb5d6cdaf7",
+      "commentary_after_sha256": "d9122fff6527e05e6647de3323da659f5d65f280ef5da737d98d4ceb5d6cdaf7",
+      "commentary_chars": 2280,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel103a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a104",
+      "source_reading": "Aanhef en beide onderdelen gelezen: oorlogstijd, zonder oogmerk, opzettelijke hulp aan verspieder en teweegbrengen/bevorderen van desertie. Verschil tussen oogmerk en opzet onderzocht.",
+      "finding": "Gecorrigeerd. De eerdere formulering ook wanneer kon suggereren dat de afwezigheid van het vijandhulp-oogmerk een facultatieve voorwaarde was. Nu is zonder oogmerk expliciet de afbakening van deze delictsomschrijving; bij aanwezig oogmerk volgt afzonderlijke toetsing aan 102.",
       "disposition": "corrected",
       "internal_cross_references_checked": [
-        "a42"
+        "a40",
+        "a87",
+        "a102",
+        "a103a",
+        "a107",
+        "a107a"
       ],
-      "statutory_text_sha256": "d1de93df1c1e85f2c7b94ec9308f84996051f215dafc747b5684df69f05bd0b7",
-      "commentary_before_sha256": "82032d021bca980fcba7ee4acd72052edabad5ddebb874da6b76d559376075dc",
-      "commentary_after_sha256": "6c5babbc0132eba13883ffd0ba893e3d877c790ba5cabeb0ca01451e2c07f38e",
-      "commentary_chars": 1799,
-      "source_location": "/BoekEerste/TiteldeelIX/Artikel90novies",
+      "verified_case_sources": [],
+      "statutory_text_sha256": "66727e24dc9ecb4c2b7a8f0a2cf1a4a6d0fc5496b5ec3b607b5060011e9eefc0",
+      "commentary_before_sha256": "76205aebec3a4a117fdcb62d5bc916e933ff53ba6dfd66a8cf13dd315c92b695",
+      "commentary_after_sha256": "e1a969899a053668fcd8be68e746903d253d696672bbf21806137dde3b0ecdf6",
+      "commentary_chars": 2464,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel104",
       "unresolved_blockers": []
     },
     {
-      "id": "a91",
-      "source_reading": "De volledige schakelbepaling en de titelgrenzen in de officiële structuur gelezen; 1 en de definities van Titel IX vergeleken.",
-      "finding": "Gecorrigeerd door explicitering: VIII A valt binnen de opsomming, IX erbuiten. De definities werken niet via 91 automatisch door. Bijzondere wet en verordening niet als onbeperkt uitwisselbare afwijkingsbronnen behandeld.",
+      "id": "a105",
+      "source_reading": "Beide leden gelezen met oorlogstijd, leveringsverband, bedrieglijke handeling, bijzondere toezichtstaak en opzettelijk toelaten; 106 lid 3 gecontroleerd.",
+      "finding": "Behouden. Gewone wanprestatie en onzorgvuldig toezicht worden niet zonder bedrog respectievelijk opzet gelijkgesteld met het delict. Krijgsmachtbestemming en rollen per verdachte blijven vereist.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a87",
+        "a106"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "8de619997349a7d133339280a7152b12f9014c0bc8b609cb4f9c0813812eb876",
+      "commentary_before_sha256": "3483c4e577fbe5df04dfd07f62681397b68c9dff992fb126be9a0dc7b0a4d25c",
+      "commentary_after_sha256": "3483c4e577fbe5df04dfd07f62681397b68c9dff992fb126be9a0dc7b0a4d25c",
+      "commentary_chars": 2255,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel105",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a106",
+      "source_reading": "Alle drie leden en verschillende rechtenlijsten gelezen, met 28 leden 1–4, 31 en 36. Nummerbereik tot 103 en afzonderlijk beroepsverband van 105 gecontroleerd.",
+      "finding": "Aangevuld. De optionele reclasseringsopdracht bij ambts- of beroepsontzetting uit 28 lid 4 ontbrak in de praktische uitleg. Toegevoegd zonder toezicht tot automatisch gevolg te maken. Facultatieve ontzetting, kiesrechtdrempel, duur en publicatie blijven onderscheiden.",
       "disposition": "corrected",
       "internal_cross_references_checked": [
-        "a1"
+        "a28",
+        "a31",
+        "a36",
+        "a92",
+        "a93",
+        "a103",
+        "a103a",
+        "a104",
+        "a105"
       ],
-      "statutory_text_sha256": "0f7121a4e4be166d35a5929277de21de263261c75d22a3e30723854e7bab1ecb",
-      "commentary_before_sha256": "207097460a0e646d8617dc644aa0b49d4085693a7bdc902a30438e75fff001f9",
-      "commentary_after_sha256": "875f4dab2729cdb1a68438c3c518bf34e1b6c75358f9c2d79c8b2a4cc0cd0971",
-      "commentary_chars": 1769,
-      "source_location": "/BoekEerste/Titeldeel/Artikel91",
+      "verified_case_sources": [],
+      "statutory_text_sha256": "f84f3ff021511b626463629ca24c1ca1a1378fba58d430d93ecdc6c5deac15c0",
+      "commentary_before_sha256": "a352fdae2aa2f48ae9e7495c081df7526f7e3ac066e0d52d90c8b4cbf5439237",
+      "commentary_after_sha256": "580ba6da20cd12cedfa0a97cfd6fcee45fc455ca60264e69497c08ffdb211e3a",
+      "commentary_chars": 2546,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel106",
       "unresolved_blockers": []
     },
     {
-      "id": "a92",
-      "source_reading": "Drie beschermde hoedanigheden en drie oogmerken, 79/45, 96 en de andere personenkring van 108 gelezen.",
-      "finding": "Het woord blijvende verwijderd uit de illustratie van ongeschiktheid. De tekst noemt geen algemene permanentie-eis. Bijzonder aanslagbegrip, afzonderlijk oogmerk en niet-verplichte strafmaxima zijn behouden.",
+      "id": "a107",
+      "source_reading": "Hele uitbreidingsbepaling gelezen met cumulatie bondgenoot/gemeenschappelijke oorlog en verwijzingsbereik 102–105. Alle gronddelicten en 107a vergeleken.",
+      "finding": "Behouden. Bescherming bondgenoot niet tot ieder bevriend land verruimd; eigen delictsbestanddelen en maximum blijven per feit gelden. Algemene strafwettoepasselijkheid wordt niet uit dit artikel alleen afgeleid.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a102",
+        "a103",
+        "a104",
+        "a105",
+        "a107a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "24aad7adc5083dfb8e9fd716b10acd032a4621e7e4b3106e540a229e5b1d0bec",
+      "commentary_before_sha256": "ec66987e10161539a79a413e5015a795166f2394d62af22db33d49559fcfa34d",
+      "commentary_after_sha256": "ec66987e10161539a79a413e5015a795166f2394d62af22db33d49559fcfa34d",
+      "commentary_chars": 1877,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel107",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a107a",
+      "source_reading": "Beide conflictgronden, Nederlandse betrokkenheid en nauwkeurig bereik 100 onder 2 en 101–107 gelezen, tegenover 87 en 100 onder 1.",
+      "finding": "Behouden. Niet iedere buitenlandse inzet wordt gelijkgesteld met het vereiste conflict. De neutraliteitsvariant en 98a worden niet ingevoegd; eigen voorwaarden en 103a blijven bij overeenkomstige toepassing herkenbaar.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a87",
+        "a98a",
+        "a100",
+        "a101",
+        "a103a",
+        "a105",
+        "a107"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "52f1f15e45393f5fb380285830d8da1686e92ce89e35c661bf983d6c269ea7e1",
+      "commentary_before_sha256": "360b230b959ff9fd25176a5d213fbc9a4ab83b76e7782e86298ae3c0ab79d594",
+      "commentary_after_sha256": "360b230b959ff9fd25176a5d213fbc9a4ab83b76e7782e86298ae3c0ab79d594",
+      "commentary_chars": 2704,
+      "official_path": "/BoekTweede/TiteldeelI/Artikel107a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a108",
+      "source_reading": "Beide leden volledig gelezen; gesloten personenkring, aanslagdefinitie 79/45, alternatieven dood/voorbedachte raad en strafdreiging gecontroleerd, met 92 en 114a/b.",
+      "finding": "Verduidelijkt. Begin van uitvoering kan de voltooide bijzondere aanslag opleveren; artikel 79 neemt de uitvoeringsdefinitie over, niet automatisch de pogingskorting. Levens- en vrijheidsroute en de twee lid-2-gronden blijven gescheiden.",
       "disposition": "corrected",
       "internal_cross_references_checked": [
         "a45",
         "a79",
+        "a83",
+        "a83a",
+        "a92",
+        "a114",
+        "a114a",
+        "a114b"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "24c439a5ff6c35a606b2be774817df9adc396123aa9297eea618150e15fb0d3d",
+      "commentary_before_sha256": "397214a0fd955d67dffff6611ff922a65f52b560aa29d51c21fc8544715e3a9f",
+      "commentary_after_sha256": "d6cf4db9052aaf9cf5d07a94494bf997d9c7ec4b259e40f51631e0d50186be7b",
+      "commentary_chars": 2664,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel108",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a109",
+      "source_reading": "Hele feitelijke-aanrandingsbepaling gelezen, inclusief subsidiariteit en zeven jaar zes maanden; 92, 114 en 114a gecontroleerd.",
+      "finding": "Behouden. Feitelijke aantasting niet verward met louter uiting; geen afzonderlijk tekstueel letselvereiste toegevoegd. De voorbeelden onderscheiden doelgerichte duw en onbedoelde botsing; terroristisch oogmerk volgt niet uit politieke aanleiding.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a79",
+        "a83a",
+        "a92",
+        "a114",
+        "a114a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "0757ff0f4a597a049dd6034b9a56a0f80eeb5bde8fe3ef1e071771c16695b11e",
+      "commentary_before_sha256": "84eb859ba2d446700facece47d5839f194d117a947614ab666de21fcd9e389f4",
+      "commentary_after_sha256": "84eb859ba2d446700facece47d5839f194d117a947614ab666de21fcd9e389f4",
+      "commentary_chars": 1864,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel109",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a110",
+      "source_reading": "Volledige personenlijst inclusief Regent, subsidiariteit en zesjaarsmaximum gelezen; verschillende personenkringen 108 en 92 gecontroleerd.",
+      "finding": "Behouden. Regent niet ten onrechte onder 108 gebracht en Koning onder 109 gehouden. Familieband of bekendheid breidt de lijst niet uit; zwaarte en concrete aantasting blijven afzonderlijke vragen.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a92",
+        "a108",
+        "a109",
+        "a114",
+        "a114a"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "b6467bf50babd60258386e0e4cf556caf68c67d59b31e422caf6b3374114e6b0",
+      "commentary_before_sha256": "a670cf58c474fcdd80b91cf54403bc2ff0855962a103016b5b9bbf16ff9f6c26",
+      "commentary_after_sha256": "a670cf58c474fcdd80b91cf54403bc2ff0855962a103016b5b9bbf16ff9f6c26",
+      "commentary_chars": 1982,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel110",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a111",
+      "source_reading": "Huidige vervallen plaats en historische 2019-tekst gelezen; wijzigingswet I B en besluit enig artikel met 1 januari 2020 gecontroleerd; huidig 267 en 1 vergeleken.",
+      "finding": "Behouden. Bijzondere Koningsbelediging niet als nog geldend delict weergegeven. De opheffing wordt niet gelijkgesteld met volledige straffeloosheid; oudere feiten vergen gunstiger-rechtvergelijking.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a1",
+        "a267"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "7850cfbf9e7be366aa658ee5353adb47ad8529a26cadb6d56d8bc3fdf91bbed9",
+      "commentary_after_sha256": "7850cfbf9e7be366aa658ee5353adb47ad8529a26cadb6d56d8bc3fdf91bbed9",
+      "commentary_chars": 1108,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel111",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a112",
+      "source_reading": "Vervallen plaats, vroegere eigen personenkring, dezelfde wijzigings- en ingangsbronnen en huidige 267 gelezen.",
+      "finding": "Behouden. Geen actuele bijzondere strafbaarstelling gereconstrueerd. Hoedanigheden en algemene beledigingsbestanddelen onderscheiden; historische rechtspraak niet stilzwijgend naar 2026 overgebracht.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a1",
+        "a111",
+        "a267"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "928d3b29c863f4763e6af2b608c3288118f404dd729ce2c8721c82e4e8e87300",
+      "commentary_after_sha256": "928d3b29c863f4763e6af2b608c3288118f404dd729ce2c8721c82e4e8e87300",
+      "commentary_chars": 1222,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel112",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a113",
+      "source_reading": "Alle drie historische leden gelezen naast huidige vervallen plaats: verspreiding/voorraad, ten gehore brengen en voorwaardelijke beroepsontzetting; wijzigingswet en ingangsbesluit vergeleken.",
+      "finding": "Alleen taalcorrectie herinnerde naar herinnert. De historische strekking is juist en geen oud lid of beroepsontzetting als actuele grondslag behouden. Het voorbeeld is specifiek op voorraad/doorgeven van een prent gericht.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a1",
+        "a111",
+        "a112"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "e5820281d9babacbc27e119225522b8d2730b2dd5e0dfc8460112d3e2469132d",
+      "commentary_after_sha256": "babf6093de89afb45065a8f68e4853581086ec714994c62d1d67e1237cbbe5a8",
+      "commentary_chars": 1324,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel113",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a114",
+      "source_reading": "Huidige enige zin en historische twee leden gelezen; wet I C, personenbescherming 108–110 en rechten 28/31 gecontroleerd.",
+      "finding": "Behouden. Facultatieve ontzetting onder 1–4, geen algemene beroepsontzetting, kiesrechtdrempel en duur juist. Het verdwenen lid 2 is niet gebruikt voor beledigingsveroordelingen.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a28",
+        "a31",
+        "a108",
+        "a109",
+        "a110",
+        "a111",
+        "a112"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "226550356a138adb0b0279cd806b2f6b1c2a0451d7c53c90134b94d2bf1e7ede",
+      "commentary_before_sha256": "fd949bc673b4264cb96335e9697931f5faf6956cb339aa8ac7ba550280bb1092",
+      "commentary_after_sha256": "fd949bc673b4264cb96335e9697931f5faf6956cb339aa8ac7ba550280bb1092",
+      "commentary_chars": 1705,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel114",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a114a",
+      "source_reading": "Hele verhogingsformule gelezen; maxima 108 lid 1/109/110 doorgerekend; bijzondere vijftienjaarsroute, 10, 83 en 83a vergeleken.",
+      "finding": "Behouden. Zeven jaar zes maanden wordt elf jaar drie maanden; zes wordt negen. De vijftienjaarsroute wordt levenslang of maximaal dertig jaar, niet tweeëntwintig jaar zes maanden. Geen automatische stapeling bij 108 lid 2 of concrete straftoemeting gesuggereerd.",
+      "disposition": "retained",
+      "internal_cross_references_checked": [
+        "a10",
+        "a83",
+        "a83a",
+        "a108",
+        "a109",
+        "a110",
+        "a114b"
+      ],
+      "verified_case_sources": [],
+      "statutory_text_sha256": "3113450c0fe7a64f02e7d952ec8ceefe870473d113bc5f18e75c76a389b25d9e",
+      "commentary_before_sha256": "62a38b749eb428d9edd0ac294dfa4a49e9bc4b9aeca121c3e46a84cab379f13d",
+      "commentary_after_sha256": "62a38b749eb428d9edd0ac294dfa4a49e9bc4b9aeca121c3e46a84cab379f13d",
+      "commentary_chars": 2066,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel114a",
+      "unresolved_blockers": []
+    },
+    {
+      "id": "a114b",
+      "source_reading": "Beide leden gelezen met overeenkomst 80 en alle vijf routes 96 lid 2; intentiebestanddelen, planbestemming en eigen tienjaarsmaximum gecontroleerd.",
+      "finding": "Verduidelijkt. Naast het terroristische oogmerk van het beoogde misdrijf staat nu expliciet het eigen voorbereidings- of bevorderingsoogmerk van de lid-2-route. Geen overeenkomst of geslaagde werving voor elk voorbereidingsfeit geëist.",
+      "disposition": "corrected",
+      "internal_cross_references_checked": [
+        "a79",
+        "a80",
+        "a83a",
         "a96",
         "a108"
       ],
-      "statutory_text_sha256": "8a10dc4192dd1ba300442bef35778278d21a1d87efe1e1e789299bb653518465",
-      "commentary_before_sha256": "243eee1a093ab41e2ae4391ebd3bf984c80760f34ef60ee1321bfaf047ae0eb0",
-      "commentary_after_sha256": "04b237805087619babcaa853e0d91ea17a919cc84e830daa9bc650d2974df9f5",
-      "commentary_chars": 2048,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel92",
+      "verified_case_sources": [],
+      "statutory_text_sha256": "31e868a8bd2f134c637342b5c0b970e249173c96f0041bed4d91f731f3dc610a",
+      "commentary_before_sha256": "028ccc675b3712d8d2560bf2380eef4dd2b777d758d223025cb8bca05e6d96dd",
+      "commentary_after_sha256": "17ba69a94c65cbb2c4efbfdf9357620e5f57d2ec156bd788aac63d927c6f3322",
+      "commentary_chars": 3263,
+      "official_path": "/BoekTweede/TiteldeelII/Artikel114b",
       "unresolved_blockers": []
     },
     {
-      "id": "a93",
-      "source_reading": "Beide territoriale doelen volledig gelezen, met aanslagdefinitie en afbakening tegenover 94, 96 en 97.",
-      "finding": "Behouden. Afscheiding vereist niet de in de andere route genoemde vreemde heerschappij; politieke meningsuiting bewijst geen uitvoeringsbegin. Geen succesvolle gebiedsoverdracht als voltooiingseis toegevoegd.",
-      "disposition": "retained",
+      "id": "a115",
+      "source_reading": "Beide leden volledig gelezen met definitie 87a, 79/45 en terroristische verwijzingen 83/120a/120b. Hele Rotterdamse vonnis inclusief aangehechte beschuldiging en dictum herlezen.",
+      "finding": "Aangevuld. Het actuele gevolg van de 120a-vijftienjaarsroute en de koppeling via 83 onder 2 staan expliciet vermeld. Historische uitspraak blijft beperkt: geen 115-veroordeling, motivering/dictumconflict en ontbrekende bewijsbijlage niet verhuld.",
+      "disposition": "corrected",
       "internal_cross_references_checked": [
+        "a45",
         "a79",
-        "a94",
-        "a96",
-        "a97"
-      ],
-      "statutory_text_sha256": "1b09c792b8824c1f753d80576d04644740d3fea2be4e2208bd86d3ae1186b5c1",
-      "commentary_before_sha256": "814a0946273c790e6720a3a1ed4b5f41262e9639e975070a96f3fd4edc36ab52",
-      "commentary_after_sha256": "814a0946273c790e6720a3a1ed4b5f41262e9639e975070a96f3fd4edc36ab52",
-      "commentary_chars": 2069,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel93",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a94",
-      "source_reading": "Beide constitutionele objecten en vernietiging/onwettige verandering gelezen; 79, 80bis, 83, 83a en 96 vergeleken.",
-      "finding": "Behouden. Aanslag en omwenteling blijven onderscheiden; het terroristische oogmerk wordt niet uit politieke strekking alleen afgeleid. Rechtmatige constitutionele hervorming niet met het delict gelijkgesteld.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a79",
-        "a80bis",
         "a83",
         "a83a",
-        "a96"
+        "a87a",
+        "a117",
+        "a120a",
+        "a120b"
       ],
-      "statutory_text_sha256": "312f76eee0be42736a2e4598ac5458e511079e44414a54333b045a4e9f0f8a24",
-      "commentary_before_sha256": "3dcc446a0e695d1f030b12567e3b1a8c76485d7c3ed619d2022a2f40f80709e7",
-      "commentary_after_sha256": "3dcc446a0e695d1f030b12567e3b1a8c76485d7c3ed619d2022a2f40f80709e7",
-      "commentary_chars": 1994,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel94",
+      "verified_case_sources": [
+        "ECLI:NL:RBROT:2013:8265"
+      ],
+      "statutory_text_sha256": "5a3429cad572e0cb74ea4b47399f22b36295e5393e4201a6f47ff4098b846435",
+      "commentary_before_sha256": "600cc1a16d3681101c6115dca8c68fb9f738d5320d118eda228945d3215a93d5",
+      "commentary_after_sha256": "e085b9641d4a17c1148f97e08a93ff51be9e97181c3b4cacdcfc3320a6ad4b09",
+      "commentary_chars": 3216,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel115",
       "unresolved_blockers": []
     },
     {
-      "id": "a95",
-      "source_reading": "De volledige reeks uiteenjagen, besluitdwang, verwijderen en verhinderen gelezen; geweldsgelijkstelling 81 en 95a/96 vergeleken.",
-      "finding": "Behouden. Regeringsraad en ministerraad niet verwisseld; individuele lidbescherming en het ontbreken van een aanslagbestanddeel correct behandeld. Geen onbewezen huidige orgaanbezetting of institutionele praktijk toegevoegd.",
+      "id": "a116",
+      "source_reading": "Hele subsidiaire feitelijke-aanrandingsbepaling gelezen met bevriende-staatdefinitie 87a, zesjaarsmaximum en 120a.",
+      "finding": "Behouden. Staatshoofd niet met iedere minister gelijkgesteld, kritiek niet met fysieke aantasting verward. Geen zelfstandig letselvereiste verzonnen; subsidiariteit, algemeen verweer en terroristisch oogmerk blijven afzonderlijk getoetst.",
       "disposition": "retained",
       "internal_cross_references_checked": [
-        "a81",
-        "a95a",
-        "a96"
+        "a83a",
+        "a87a",
+        "a115",
+        "a120a"
       ],
-      "statutory_text_sha256": "dd1da0c2f7e1c35a78331411851a4ed9aa5134cc284932aab681b35ced375fbb",
-      "commentary_before_sha256": "97bddbbb727ceeab20e9b540269e7eb50f8f286865afce4089d6d31d6d2ae79f",
-      "commentary_after_sha256": "97bddbbb727ceeab20e9b540269e7eb50f8f286865afce4089d6d31d6d2ae79f",
-      "commentary_chars": 2113,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel95",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a95a",
-      "source_reading": "Alle collectieve en individuele gedragingen plus geweldsmiddel en opzettelijke verhindering gelezen, met 95, 96 en 83.",
-      "finding": "Behouden. Het doorgaan van de gehele vergadering sluit lidgerichte aantasting niet uit; vreedzame politieke druk wordt niet zonder geweldsvereiste strafbaar verklaard.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a83",
-        "a95",
-        "a96"
-      ],
-      "statutory_text_sha256": "898613d62a9783590e7a577251f1f8c0fd5dfa2346c8b5530a33bbd8772cafc8",
-      "commentary_before_sha256": "85e88e461a2f8abb5ca29494bf459fb368c38e19111e2598f0284b1621718b5d",
-      "commentary_after_sha256": "85e88e461a2f8abb5ca29494bf459fb368c38e19111e2598f0284b1621718b5d",
-      "commentary_chars": 2169,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel95a",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a96",
-      "source_reading": "Beide leden en alle vijf onderdelen letterlijk gelezen; samenspanning 80 en algemene voorbereiding 46 vergeleken.",
-      "finding": "Behouden. Overeenkomst niet als algemeen lid-2-vereiste toegevoegd; trachten, kennis van bestemming, mededelingsbestemming van plannen en regeringsmaatregel afzonderlijk uitgelegd.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a46",
-        "a80",
-        "a92",
-        "a93",
-        "a94",
-        "a95",
-        "a95a"
-      ],
-      "statutory_text_sha256": "2dd53c4a8b148c0cb839544addf4ff0b1bf004062024b8a9f6042eaf93356551",
-      "commentary_before_sha256": "d597c2bc57b86bc99ea10de33219be515ecb4070ae1d46b7ac73eb4a4d581247",
-      "commentary_after_sha256": "d597c2bc57b86bc99ea10de33219be515ecb4070ae1d46b7ac73eb4a4d581247",
-      "commentary_chars": 2654,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel96",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a97",
-      "source_reading": "Beide leden en alle vier oogmerkvarianten gelezen, met de andere buitenlandse wederpartij van 97a en het voorbereidingskader.",
-      "finding": "Verduidelijkt: de buitenlandse verbinding met het oogmerk hulp toe te zeggen of voorbereidingshulp te verlenen is het aanknopingspunt; feitelijke verwezenlijking van die hulp is niet als extra voltooiingsvoorwaarde gesteld.",
-      "disposition": "corrected",
-      "internal_cross_references_checked": [
-        "a46",
-        "a97a"
-      ],
-      "statutory_text_sha256": "7e72fca8d2fe72e00b4d27ee6fd4521094a1a73bbb619bb00c1257a2d17d71b6",
-      "commentary_before_sha256": "89758249aa932cb607988540470c0bd7530b9bbcc5e622aa74034110c580e829",
-      "commentary_after_sha256": "f3c2421338da362ac4789db60947ccbf2c0c0cbcad847b05b3fe5c45c9d9781b",
-      "commentary_chars": 2377,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel97",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a97a",
-      "source_reading": "De gehele zin, alle steun-/hulp-/eigen omwentelingsdoelen en de definitie van 80bis gelezen.",
-      "finding": "Het fictieve voorbeeld preciseert nu dat daadwerkelijk contact is ontstaan. Een weigering in dat contact verschilt van een nooit verzonden verzoek; oogmerk en buitenlandse vestiging blijven afzonderlijke eisen.",
-      "disposition": "corrected",
-      "internal_cross_references_checked": [
-        "a80bis",
-        "a94",
-        "a97",
-        "a97b"
-      ],
-      "statutory_text_sha256": "a60f87bbb0530fb48426ebfc30e03da844b4a5cfcd56d21fb5fab34812ab7c6f",
-      "commentary_before_sha256": "06ae791b0cac4ebd58eb2c04153605544d0ae0fb4fb9fd65fec0b3c538067538",
-      "commentary_after_sha256": "8b80ae8a48c29214b46391a9a981e3be3e02386c3848cce052f7a4a6d68b87e7",
-      "commentary_chars": 2424,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel97a",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a97b",
-      "source_reading": "Aanhef en beide onderdelen gelezen, speciaal de grammaticale richting van waarvoor het in de plaats is getreden.",
-      "finding": "Materiële correctie: het huidige voorwerp vervangt het eerdere voorwerp waarop het invoer- of buitenlandse bestemmingsverband kan berusten. De eerdere parafrase kon de keten omkeren. Geschiktheid, bestemming en kennis/ernstige reden tot vermoeden blijven cumulatief uitgewerkt.",
-      "disposition": "corrected",
-      "internal_cross_references_checked": [
-        "a80bis"
-      ],
-      "statutory_text_sha256": "5059842a38993700641eab18aff2c2772ca9a60837c7d970a232ef4f1b6a1008",
-      "commentary_before_sha256": "ded5e60dae9733551b7fa1c9a8d763874af6e7e77fb8d268be18e676f2194337",
-      "commentary_after_sha256": "626b2b11959a85761ab2ad31ff0c1cff060d0982786bcb2f05a8e2381169523b",
-      "commentary_chars": 2688,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel97b",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a98",
-      "source_reading": "Beide leden, alle informatie-/voorwerp-/gegevensroutes, opzet en kenbaarheid gelezen. Volledige HR 2016:168 met geciteerde hofmotivering en eigen r.o. 4.3–4.6.3 gelezen; wijziging en ingangsdatum gecontroleerd.",
-      "finding": "Behouden. Rubricering is geen beslissend constitutief etiket; lid 2 vergt herkomst én veiligheidsverband. Het historische zesjaarsmaximum is niet als het huidige achtjaarsmaximum gepresenteerd.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a1",
-        "a80ter",
-        "a98b"
-      ],
-      "statutory_text_sha256": "dcf50dd220333db472a568d06ac59a1a21d29ab214d653698686be3488aee1b8",
-      "commentary_before_sha256": "4cea3658dbf333b7ca9af5cdded49d3798d5feb0e9b983263d441f70d7f0a226",
-      "commentary_after_sha256": "4cea3658dbf333b7ca9af5cdded49d3798d5feb0e9b983263d441f70d7f0a226",
-      "commentary_chars": 2720,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel98",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a98a",
-      "source_reading": "Alle drie leden gelezen. Volledige HR 2015:768, in het bijzonder 2.6–2.8 en dictum 6, vergeleken met kaart en commentaar; 2016:168 voor verwijzingsobject gecontroleerd.",
-      "finding": "Behouden. Buitenlandse ontvanger, tussenpersoongevaar, oorlog/dienst/opdracht en zelfstandige voorbereiding onderscheiden. Positie geheimhoudingsplichtige bron niet met die van journalist vereenzelvigd; geen algemene toestemming voor journalistenaftap afgeleid.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a98"
-      ],
-      "statutory_text_sha256": "48b34aad063c3234955a8d3425404ba51dc13ad294a9a4f680263dea81e8d3a6",
-      "commentary_before_sha256": "a1a1e3535eb0d107abf0982fc9d5cbd1cca3dbc02985361dceb2b40c3fb113ca",
-      "commentary_after_sha256": "a1a1e3535eb0d107abf0982fc9d5cbd1cca3dbc02985361dceb2b40c3fb113ca",
-      "commentary_chars": 2891,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel98a",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a98b",
-      "source_reading": "De volledige culpoze bepaling, beide gevolgen en causaliteit gelezen, tegenover opzettelijke verstrekking van 98.",
-      "finding": "Verduidelijkt: aanmerkelijke verwijtbare onvoorzichtigheid en totaalbeoordeling nodig. Een interne instructiefout of incident alleen bewijst geen strafrechtelijke culpa; het gevolg en causaal verband blijven nodig.",
-      "disposition": "corrected",
-      "internal_cross_references_checked": [
-        "a98"
-      ],
-      "statutory_text_sha256": "8ac9d145fce0cd909253ce1760a76bb37ae98e3c1c20e00078b35fba15e7600e",
-      "commentary_before_sha256": "ff7a9a89f756365985bc62c6dab0b2f0941866853afcfee89379333035b70875",
-      "commentary_after_sha256": "8b4b5390d74fa5fb4857107c81be74d95393e457acedfadd354db42a366e644b",
-      "commentary_chars": 2475,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel98b",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a98c",
-      "source_reading": "Lid 1 onder 1–3 en lid 2 gelezen; verwijzing naar 98 en 80ter en volledige HR 2016:168, vooral 4.3–4.4.3, gecontroleerd.",
-      "finding": "Behouden. Bezit, verwervingshandeling met oogmerk en bijzondere verboden-plaatsroute onderscheiden. De negatieve oogmerkuitzondering geldt alleen onder 3; het huidige maximum van acht jaar wordt niet naar oude feiten teruggeprojecteerd.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a80ter",
-        "a98"
-      ],
-      "statutory_text_sha256": "7182b64c42d5b83fa8c4d54171df74019de3735c3badedf5d5178609471faf74",
-      "commentary_before_sha256": "73c29d8d479eddbf452013a342238cacf348ae7957a3bd3946fe4790b98bd1be",
-      "commentary_after_sha256": "73c29d8d479eddbf452013a342238cacf348ae7957a3bd3946fe4790b98bd1be",
-      "commentary_chars": 2669,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel98c",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a98d",
-      "source_reading": "Volledige cumulatieve aanhef, beide routes, bewegen en beide strafverzwaringen gelezen. Invoerings- en technische wijzigingswetten plus twee ingangsbesluiten en volledige Kamerstukken I 36280 E gelezen.",
-      "finding": "Behouden. Invoering 15 mei 2025 onderscheiden van teksttechniek 1 juli; werkelijk gevaar en bewustheid niet vervangen door enkel buitenlandse contacten. Regeringsuitleg van voorwaardelijk opzet wordt als zodanig toegeschreven, niet als rechterlijke vaststelling.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a1",
-        "a98"
-      ],
-      "statutory_text_sha256": "6b6346719c35de807cfa895611431f6b01cda68fd7acd27f1581490182423c50",
-      "commentary_before_sha256": "1afa210269d8cb967d9e5e1fcd8b120ad6a16ead85db06c463505c3fce77a4b0",
-      "commentary_after_sha256": "1afa210269d8cb967d9e5e1fcd8b120ad6a16ead85db06c463505c3fce77a4b0",
-      "commentary_chars": 3636,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel98d",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a99",
-      "source_reading": "De gehele opgedragen-onderhandelingsbepaling, bijzondere regeringsopdracht en opzettelijke benadeling gelezen tegenover 97 en 98–98c.",
-      "finding": "Behouden. Teleurstellend onderhandelingsresultaat is niet zonder meer opzettelijke benadeling; mandaat en concrete nadelige gedraging moeten worden bewezen. Geen staatsgeheim of oorlogstijd als extra algemeen bestanddeel toegevoegd.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a97",
-        "a98",
-        "a98a",
-        "a98b",
-        "a98c"
-      ],
-      "statutory_text_sha256": "9cd95fb9cf5c2822108f355d30b2194f872b776b403c586dadf6ca4d08060425",
-      "commentary_before_sha256": "322211d2da5fb671c049ee880b30c24ae1e6d76939fcd3d92c5d9f3092c68f75",
-      "commentary_after_sha256": "322211d2da5fb671c049ee880b30c24ae1e6d76939fcd3d92c5d9f3092c68f75",
-      "commentary_chars": 2070,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel99",
-      "unresolved_blockers": []
-    },
-    {
-      "id": "a100",
-      "source_reading": "Beide onderdelen en de twee afzonderlijke onderdeel-1-routes gelezen, inclusief gegeven/bekendgemaakt voorschrift en tijd-van-oorlogdefinitie 87.",
-      "finding": "Behouden. Gevaar van oorlogsbetrokkenheid wordt niet ook bij de voorschriftvariant geëist; neutraliteit en staatsveiligheidsvoorschrift onderscheiden. Controlelijst en feitdatumwaarschuwing zijn toepasselijk en specifiek.",
-      "disposition": "retained",
-      "internal_cross_references_checked": [
-        "a87"
-      ],
-      "statutory_text_sha256": "59b0a58ce23e6df1064f85844270cfb2dd4f2789d801ad9f28540761de64cb20",
-      "commentary_before_sha256": "b91af3fd9d882c4f675d36691c0aeac1b12454ddbb2d1361063884fa1a90283c",
-      "commentary_after_sha256": "b91af3fd9d882c4f675d36691c0aeac1b12454ddbb2d1361063884fa1a90283c",
-      "commentary_chars": 2820,
-      "source_location": "/BoekTweede/TiteldeelI/Artikel100",
+      "verified_case_sources": [],
+      "statutory_text_sha256": "70b304a8f7c1840a47260358b5cd0625e86177758b42565a639f09bb9992963c",
+      "commentary_before_sha256": "6901a49a4ee277345dcc534468dab56fb6ee5e6a5712c6969e6e5cbd990f60b5",
+      "commentary_after_sha256": "6901a49a4ee277345dcc534468dab56fb6ee5e6a5712c6969e6e5cbd990f60b5",
+      "commentary_chars": 2167,
+      "official_path": "/BoekTweede/TiteldeelIII/Artikel116",
       "unresolved_blockers": []
     }
   ],
+  "unresolved_blockers": [],
   "limitations": [
-    "Exactly the assigned twenty units reviewed; no whole-book completion or external professional approval.",
-    "532 other statutory units lack commentary; the full shared build and validator remain subject to that pre-existing out-of-scope failure.",
-    "Two previously cited primary judgments read in full and freshly fetched; no exhaustive new jurisprudence survey.",
-    "WBS catalog digest discrepancy remains a disclosed external-source limit; no particular place is asserted designated.",
-    "Historic inlichtingen-procedure passages are not represented as the complete current procedural regime."
+    "Exactly twenty assigned units reviewed; no whole-book completion or external professional approval.",
+    "512 units outside this assignment still lack commentary; full shared build and strict validation retain this out-of-scope failure.",
+    "Selective authority review: two previously cited full primary judgments freshly fetched and read; no exhaustive case-law survey or appellate history established.",
+    "Assen 2002 is limited historical context; BBS and former military limitation law are not presented as verified current law.",
+    "Rotterdam 2013 has a reasoning/disposition discrepancy. Public XML omits evidentiary annex II; it is not reconstructed.",
+    "Minimum length, links and repetition checks do not establish legal correctness."
   ],
-  "source_preflight": "sources/review-batch14-version-evidence.json",
-  "authority_evidence": "sources/review-batch14-authority-evidence.json",
+  "source_preflight": "sources/review-batch15-version-evidence.json",
+  "coverage_evidence": "sources/review-batch15-coverage.json",
+  "historical_change_map": "sources/review-batch15-historical-change-map.json",
+  "authority_evidence": "authorities/review-batch15-search-log.json",
   "case_cards": [
-    "authorities/HR-2016-168.md",
-    "authorities/HR-2015-768.md"
+    "authorities/RBASS-2002-AD8928.md",
+    "authorities/RBROT-2013-8265.md"
   ],
   "preservation": {
     "other_commentary_files_unchanged": true,
@@ -408,60 +484,6 @@
   "prose_audit": {
     "exact_repeated_substantive_paragraphs": [],
     "cross_unit_similarity_above_0_82": [],
-    "manual_reading": "All twenty explanations read against each individual provision for actual elements, consequences, examples, overclaim and cross-references. Length and repetition metrics are not legal quality certification."
-  },
-  "technical_checks": {
-    "checked_at": "2026-10-20T18:39:03.014130+00:00",
-    "full_shared_build": {
-      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-      "exit_code": 1,
-      "stdout": "",
-      "stderr": "CHYBÍ komentář k 532 jednotkám, např.: ['a101', 'a102', 'a103', 'a103a', 'a104', 'a105', 'a106', 'a107', 'a107a', 'a108']\n",
-      "scope": "Unchanged full 812-unit inventory. 532 missing commentaries outside these twenty reviewed units."
-    },
-    "strict_full_validator": {
-      "checked_output_commit": "a928975b299f2ec04dcfb1f4ba75cbe949addb82",
-      "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
-      "exit_code": 1,
-      "stdout": "{\"repo\": \"Komentar-NL-BWBR0001854\", \"units\": 812, \"verbatim_ratio\": 1.0, \"commentary_chars\": 380057, \"errors\": [\"krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
-      "stderr": "",
-      "result": {
-        "repo": "Komentar-NL-BWBR0001854",
-        "units": 812,
-        "verbatim_ratio": 1.0,
-        "commentary_chars": 380057,
-        "errors": [
-          "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
-        ],
-        "warnings": [],
-        "ok": false
-      },
-      "scope": "Full 812-unit inventory unchanged; sole failure is 532 unassigned missing commentaries."
-    },
-    "assigned_units": {
-      "count": 20,
-      "all_present": true,
-      "all_rendered": true,
-      "short_ids": [],
-      "commentary_chars": 45094
-    },
-    "independent_completeness": {
-      "report": "completeness-report.json",
-      "ok": true,
-      "expected_units": 812,
-      "parsed_units": 812,
-      "missing": [],
-      "duplicates": []
-    },
-    "raw_xml_agreement": true,
-    "local_links": {
-      "report": "link-report.json",
-      "checked": 603,
-      "ok": true
-    },
-    "all_bounded_review_reports_disjoint": true,
-    "total_reviewed_across_batches": 280,
-    "whole_book_pass": false,
-    "failure_outside_assignment_only": true
+    "manual_review": "All twenty explanations independently read against wording, elements, penalties, examples, cited sources, internal cross-references and time law."
   }
 }

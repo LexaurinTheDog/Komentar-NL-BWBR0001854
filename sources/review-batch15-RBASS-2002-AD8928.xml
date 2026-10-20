@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBASS:2002:AD8928</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-11-11T01:48:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AD8928</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Assen" scheme="overheid.RechterlijkeMacht">Rechtbank Assen</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2002-02-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">W.L. No. 8355</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBASS:2002:AD8928">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBASS:2002:AD8928</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T17:34:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2002-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBASS:2002:AD8928 Rechtbank Assen , 05-02-2002 / W.L. No. 8355</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBASS:2002:AD8928:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>-</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBASS:2002:AD8928:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>Parketnummer: W.L. No. 8355</para>
+      <para>Uitspraak        : 5 februari 2002</para>
+    </parablock>
+    <para />
+    <para>RECHTBANK VAN HET ARRONDISSEMENT ASSEN</para>
+    <para />
+    <para>STRAFVONNIS IN VERZET van de Bijzondere Strafkamer bij deze rechtbank in de zaak van het openbaar ministerie tegen:</para>
+    <para />
+    <parablock>
+      <para>[verdachte],</para>
+      <para>geboren te [geboorteplaats en -datum],</para>
+      <para>wonende te [adres]</para>
+      <para>zonder bekende woon- of verblijfplaats hier te lande.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De onderzoeken ter terechtzitting hebben plaats gehad op 9 oktober, 23 oktober en 27 november 2001 en op 22 januari 2002.</para>
+      <para>Gehoord zijn de officier van justitie en de uitdrukkelijk gemachtigde raadsman van de verdachte, mr. R.F. Speijdel, advocaat te Enschede.</para>
+    </parablock>
+    <para />
+    <para>De verdachte is niet ter terechtzitting verschenen.</para>
+    <para />
+    <para>1. HET VONNIS WAARVAN VERZET</para>
+    <para />
+    <para>Bij vonnis d.d. 22 juni 1950 van de Bijzondere Strafkamer van de arrondissementsrechtbank te Assen is verdachte bij verstek wegens het als Nederlander vrijwillig in krijgsdienst treden bij een buitenlandse mogendheid, wetende dat deze met Nederland in oorlog is, het opzettelijk in tijd van oorlog de vijand hulp verlenen, meermalen gepleegd, en mishandeling, waarbij de schuldige gebruik heeft gemaakt van macht, hem door de vijand geboden, meermalen gepleegd, strafbaar gesteld bij de artikelen 101, 102 en 300 van het Wetboek van Strafrecht, jo. artikel 1, 2e Besluit Buitengewoon Strafrecht, veroordeeld tot de doodstraf (later omgezet in levenslange gevangenisstraf).</para>
+    <para />
+    <para>2. AANWENDING VAN HET RECHTSMIDDEL</para>
+    <para />
+    <para>Namens de verdachte is verzet gedaan tegen voormeld vonnis op 31 mei 2001.</para>
+    <para />
+    <para>3. DE ONTVANKELIJKHEID VAN HET VERZET</para>
+    <para />
+    <para>De strafkamer heeft ter terechtzitting van 23 oktober 2001 de verdachte ontvankelijk verklaard in zijn gedaan verzet. Ingevolge artikel 403 Sv. dient het vonnis van 22 juni 1950, nu verdachte in rechten is verschenen, als niet gewezen te worden beschouwd en de zaak te worden beoordeeld op basis van de op 15 mei 1950 uitgebrachte dagvaarding van verdachte.  </para>
+    <para />
+    <para>4. TEN AANZIEN VAN DE VOORVRAGEN</para>
+    <para />
+    <parablock>
+      <para>Thans heeft de strafkamer zich derhalve te buigen over de in artikel 348 Sv. bedoelde punten.</para>
+      <para>Ingevolge dat artikel dient de rechtbank eerst te oordelen over de geldigheid van de dagvaarding en daarna pas over de de vraag of het vervolgingsrecht is verjaard.</para>
+    </parablock>
+    <para> </para>
+    <para>4.1. De geldigheid van de dagvaarding.</para>
+    <para />
+    <parablock>
+      <para>Bij dagvaarding is verdachte onder II. onder meer tenlastegelegd - zakelijk weergegeven -  dat hij gedurende de Tweede Wereldoorlog als SS-officier heeft deelgenomen aan en zijn assistentie heeft verleend bij opsporing en arrestatie van personen, waarbij hij opzettelijk verschillende aldus gearresteerde personen heeft mishandeld.    </para>
+      <para>Naar het oordeel van de rechtbank zijn onder II. twee feiten tenlastegelegd, namelijk overtreding van artikel 102 Sr en overtreding van artikel 300 Sr.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De strafkamer acht deze tenlastelegging onder II. voor zover deze ziet op overtreding van artikel 300 Sr te vaag. Een tenlastelegging immers heeft de functie verdachte te informeren vanwege welk voorval hij moet terechtstaan, zodat hij weet waartegen hij zich te verdedigen heeft en de rechter te informeren over de grondslag van het onderzoek ter terechtzitting. De bestaande tenlastelegging, die spreekt over het mishandelen van verschillende personen, zonder daarbij de namen van die personen te noemen, voldoet niet aan deze voorwaarde.  </para>
+      <para>Om die reden acht de strafkamer de dagvaarding met betrekking tot de onder II. tenlastegelegde mishandelingen nietig.</para>
+    </parablock>
+    <para />
+    <para>4.2. De ontvankelijkheid van de officier van justitie</para>
+    <para />
+    <para>Het volgende voorwerp van onderzoek betreft de ontvankelijkheid van de officier van justitie ten aanzien van het onder I. en II. tenlastegelegde voor zover de dagvaarding niet wordt nietig verklaard. Het gaat daarbij om de vraag in hoeverre het vervolgingsrecht is verjaard ten aanzien van de artikelen 101 en 102 Sr. Omdat deze feiten tijdens WO II zijn gepleegd is het Besluit Buitengewoon Strafrecht (BBS) van toepassing (artikel 1 BBS).</para>
+    <para />
+    <para>Artikel 2 BBS bepaalt dat, voor zover in het besluit niet anders wordt bepaald, het Wetboek van Militair Strafrecht (WMSr) en Wetboek van Strafrecht (Sr) van toepassing zijn. Het BBS bevat geen bepalingen omtrent de verjaring zodat daarvoor de bepalingen van het Wetboek van (Militair) Strafrecht gelden.</para>
+    <para />
+    <parablock>
+      <para>Op overtreding van artikel 101 Sr stond in de tenlastegelegde periode een gevangenisstraf van ten hoogste vijftien jaren en op overtreding van artikel 102 Sr, d.w.z.: het opzettelijk in tijd van oorlog de vijand hulp verlenen, eveneens een gevangenisstraf van ten hoogste vijftien jaren.</para>
+      <para>Ingevolge het destijds geldende artikel 11 BBS kon de doodstraf worden opgelegd voor feiten die in het Sr bedreigd werden met een gevangenisstraf van vijftien jaren of meer.</para>
+      <para>Artikel 55 WMSr bepaalde dat terzake van misdrijven, bedreigd met de doodstraf, het recht tot strafvordering verviel na 24 jaren.</para>
+      <para>De verjaringstermijn terzake van de artikelen 101 en 102 Sr bedroeg dus 24 jaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In 1950 werd verdachte bij verstek berecht en in 1951 werd de verstekmededeling door aanplakking betekend. In 1951 begon dus de verjaringstermijn (opnieuw) te lopen. Sindsdien zijn tot aan het jaar 2001 geen handelingen meer verricht die de verjaring konden stuiten.</para>
+      <para>Ingevolge het bepaalde in de artikelen 70 en 71 Sr. zou in 1975 het vervolgingsrecht ter zake van de delicten genoemd in de artikelen 101 en 102 Sr. verjaren, tenzij artikel 27a BBS op deze feiten van toepassing was.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij wet van 8 april 1971 is namelijk bepaald dat de artikelen 70 en 76 Sr, die respectievelijk de verjaring van strafvordering en die van uitvoering van de straf regelen, niet van toepassing zijn op de in artikel 27a BBS bedoelde feiten waarop de doodstraf is gesteld.</para>
+      <para>Omdat feiten als bedoeld in de artikelen 101 en 102 Sr toen nog niet verjaard waren, is derhalve voor de vaststelling of thans de strafvordering voor de tenlastegelegde feiten is verjaard, bepalend of de tenlastegelegde feiten ook onder artikel 27a BBS vallen.</para>
+      <para>Ten aanzien hiervan overweegt de rechtbank als volgt: </para>
+      <para>Uit de tekst van artikel 27a BBS volgt dat een feit hieronder valt indien:</para>
+      <para>1) het feit in oorlogstijd is gepleegd;</para>
+      <para>2) degene die het feit gepleegd heeft in krijgs-, staats- of publieke dienst van de vijand was, en</para>
+      <para>3) het feit een oorlogsmisdrijf of een feit tegen de menselijkheid betreft als bedoeld in artikel 6 onder b of c van het handvest, behorende bij de overeenkomst van Londen van 8 augustus 1945.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In dat handvest worden oorlogsmisdrijven omschreven als schendingen van de wetten of gebruiken van de oorlog. Zodanige schendingen zullen omvatten (doch niet beperkt zijn tot): </para>
+      <para>- moord, mishandeling of deportatie, met het oog op slavenarbeid of voor enig ander doel, van de burgerbevolking van of in bezet grondgebied;</para>
+      <para>- moord of mishandeling van krijgsgevangenen of van personen op zee;</para>
+      <para>- het doden van gijzelaars;</para>
+      <para>- plundering van openbare of particuliere eigendom;</para>
+      <para>- willekeurige vernietiging van steden, plaatsen of dorpen of verwoesting welke niet door militaire noodzaak gerechtvaardigd was.</para>
+    </parablock>
+    <para />
+    <para>In het handvest worden misdrijven tegen de menselijkheid omschreven als: moord, uitroeiing, het in slavernij voeren, deportatie en andere onmenselijke handelingen, die voor of gedurende de oorlog bedreven zijn tegen de burgerbevolking of vervolgingen op grond van politiek, ras of godsdienst ter uitvoering van of in verband met enig misdrijf behorende tot de rechtsmacht van de rechtbank.</para>
+    <para />
+    <parablock>
+      <para>De artikelen 101 en 102 Sr zijn misdrijven tegen de Nederlandse staat. Deze misdrijven betreffen geen schendingen van rechten en plichten die door staten (en hun burgers) in hun onderlinge relatie in een situatie van oorlog in acht moeten worden genomen en dus kunnen zij niet worden aangemerkt als oorlogsmisdrijven.</para>
+      <para>Tevens kunnen de artikelen 101 en 102 Sr niet aangemerkt worden als misdrijven tegen de menselijkheid, omdat het bij die artikelen niet gaat om strafbaarstelling van een of meer inbreuken op grondrechten, waaronder het recht op leven, vrijheid en lichamelijke integriteit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De feiten die betrekking hebben op de artikelen 101 en 102 Sr vallen dus niet onder artikel 27a BBS, zodat van de aan verdachte tenlastegelegde feiten het vervolgingsrecht reeds in 1975 is verjaard.</para>
+      <para>De officier van justitie kan daarom niet worden ontvangen in de vervolging van de verdachte.</para>
+    </parablock>
+    <para />
+    <para>DE BESLISSING VAN DE BIJZONDERE STRAFKAMER LUIDT:</para>
+    <para />
+    <para>Verklaart de dagvaarding van verdachte met betrekking tot de onder II. tenlastegelegde mishandelingen nietig.</para>
+    <para />
+    <para>Verklaart de officier van justitie voor het overige niet-ontvankelijk in de vervolging van de verdachte.</para>
+    <para />
+    <para>Dit vonnis is gewezen door mr. E. van der Herberg, voorzitter, en mr. J.J. Schoemaker en mr. J.D. den Hartog, rechters, in tegenwoordigheid van R.C. Sprong, griffier, en uitgesproken ter openbare terechtzitting van de Bijzondere Strafkamer bij deze rechtbank op dinsdag, 5 februari 2002.-</para>
+  </uitspraak>
+</open-rechtspraak>

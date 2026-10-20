@@ -1,0 +1,8 @@
+{
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
+  "checked_at": "2026-10-20T18:56:32.605928+00:00",
+  "scope": "Unchanged complete 812-unit inventory; 512 unwritten commentaries outside this assigned review block the full build."
+}
