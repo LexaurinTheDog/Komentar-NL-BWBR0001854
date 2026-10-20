@@ -636,5 +636,42 @@
     ],
     "qualitative_assessment": "Each assigned source and commentary read individually;13 specific corrections/additions and7 retained. Distinct fictional examples; practical checklists at ends of TitlesVI,VII,VIII."
   },
-  "validation_scope": "Full unchanged statutory inventory and validator; substantive review restricted to exact20IDs."
+  "validation_scope": "Full unchanged statutory inventory and validator; substantive review restricted to exact20IDs.",
+  "technical_checks": {
+    "full_shared_build": "build-result.json",
+    "full_shared_validator": {
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 300491,
+        "errors": [
+          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "exit_code": 1,
+      "full_inventory_unchanged": true,
+      "failure_outside_assignment_only": true,
+      "initial_clean_output_checkpoint": "732c203"
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_have_commentary": true,
+      "short_ids": [],
+      "commentary_chars": 33436
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "ok": true,
+      "checked": 394
+    },
+    "checked_at": "2026-10-20T17:32:33.706725+00:00"
+  }
 }
