@@ -59,5 +59,29 @@
     "Fresh independent legal second pass pending.",
     "Remaining book commentary outside this bounded assignment."
   ],
-  "authored_at": "2026-10-20T22:13:19.983299+00:00"
+  "authored_at": "2026-10-20T22:13:19.983299+00:00",
+  "technical_validation": {
+    "all20_present_and_rendered": true,
+    "statutory_text_agreement": 1.0,
+    "official_inventory_complete": true,
+    "expected_and_parsed_units": 812,
+    "local_links_ok": true,
+    "local_links_checked": 836,
+    "exact_repeated_paragraphs": 0,
+    "full_shared_build_ok": false,
+    "strict_validator_ok": false,
+    "out_of_scope_missing_commentaries": 412
+  },
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 615884,
+    "errors": [
+      "krátký/chybějící komentář u 412 jednotek: ['a170(0<400)', 'a171(0<400)', 'a172(0<400)', 'a173(0<400)', 'a173a(0<400)', 'a173b(0<400)', 'a174(0<400)', 'a175(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validated_at": "2026-10-20T22:13:56.893394+00:00"
 }
