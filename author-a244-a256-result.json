@@ -241,5 +241,15 @@
     "reason": "292 out-of-scope units still un-authored; full builder correctly retains its completion gate.",
     "reading_checkpoint": "Incomplete checkpoint: 520/812 units, 26 reading files",
     "source_text_agreement": 1.0
+  },
+  "technical_validation": {
+    "statutory_text_agreement": 1.0,
+    "assigned_units_present": 20,
+    "assigned_units_rendered": 20,
+    "independent_coverage_complete": true,
+    "whole_book_validator_ok": false,
+    "remaining_outside_scope": 292,
+    "post_commit_output_clean": true,
+    "report": "validation-author-a244-a256-result.json"
   }
 }
