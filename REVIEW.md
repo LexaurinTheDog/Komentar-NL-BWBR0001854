@@ -307,3 +307,10 @@ Deze tweede lezing betreft uitsluitend de toegewezen twintig eenheden. Alle over
 | a116 | Behouden. Staatshoofd niet met iedere minister gelijkgesteld, kritiek niet met fysieke aantasting verward. Geen zelfstandig letselvereiste verzonnen; subsidiariteit, algemeen verweer en terroristisch oogmerk blijven afzonderlijk getoetst. |
 
 De ongewijzigde volledige bouw en strikte validator zijn uitgevoerd. Beide melden uitsluitend de **512 ontbrekende toelichtingen buiten deze opdracht**. De wettelijke tekstovereenkomst is **100%**; alle twintig toegewezen commentaren en citaten zijn gecontroleerd in het leesbestand. Het onafhankelijke XML-onderzoek bevestigt 812/812 eenheden, geen exacte herhaling van lange alinea's en 647 bestaande lokale koppelingen. Alle overige wettelijke hoofdstukbestanden zijn bytegelijk gebleven. Zie het [daadwerkelijke validatieresultaat](validation-batch15.json) en [bouwresultaat](build-batch15-result.json). Het checkpoint is uitsluitend lokaal vastgelegd.
+
+
+## Auteurscontrole 117–128 — 20 oktober 2026
+
+Deze controle hoort bij oorspronkelijk auteurswerk aan precies twintig eenheden en is geen onafhankelijke tweede lezing. Iedere toegewezen tekst is naast de primaire wettelijke bron gelezen. Het [batchresultaat](author-a117-a128-result.json) verantwoordt de elementen en verwijzingen per artikel. De kernpunten zijn de persoons- en goederenbescherming via 87b, de zelfstandige gevaarseis van 117b, de gehele opheffing van 118/119, de uiteenlopende verwijzingslijsten van 120/120a/120b/120c, de formele orgaan- en commissiestatus en de verschillende verkiezingsdelicten. Het Geldermalsen-vonnis wordt niet op alle demonstranten of op 124a toegepast. Het Antilliaanse arrest blijft vergelijkend. Het arrest uit 2010 is een oordeel over strafmotivering en geen algemene regel over huidige stemapparatuur.
+
+De eerdere 300 toelichtingen en wettelijke extractie zijn inhoudelijk ongewijzigd. Er zijn nu 320 toelichtingen; 492 eenheden buiten deze batch ontbreken nog. De twintig nieuwe eenheden vereisen nog een onafhankelijke tweede lezing. De bestaande verslaglegging van eerdere tweede lezingen blijft behouden.

@@ -1,0 +1,55 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2016-04-20_0/xml/BWBR0001854_2016-04-20_0.xml",
+    "accessed_at": "2026-10-20T18:59:08.355813+00:00",
+    "path": "sources/author-a117-a128-history-2016-04-20_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "3a6d21ca5cba4b7941b9ea0b623c3c8cfaa1c233c15d6d183380a2950cce415c",
+    "bytes": 2697541,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-12-15_0/xml/BWBR0001854_2019-12-15_0.xml",
+    "accessed_at": "2026-10-20T18:59:09.767040+00:00",
+    "path": "sources/author-a117-a128-history-2019-12-15_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "1898edd974db8362c354305da618c0a2410055ba684ad6a66ae4a149d2ede197",
+    "bytes": 2782109,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-07-25_0/xml/BWBR0001854_2020-07-25_0.xml",
+    "accessed_at": "2026-10-20T18:59:11.014049+00:00",
+    "path": "sources/author-a117-a128-history-2020-07-25_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "c059147b701448a01b3a2a807a23ed75ff617083c22f2c88d7aa284f4313050a",
+    "bytes": 2469831,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+    "accessed_at": "2026-10-20T18:59:12.281208+00:00",
+    "path": "sources/author-a117-a128-stb-2019-187.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "a4f5cd0d71bc858203e8cf39255c6440932d27808f36c60dcf80e4d5c2196815",
+    "bytes": 32938,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+    "accessed_at": "2026-10-20T18:59:12.641839+00:00",
+    "path": "sources/author-a117-a128-stb-2019-277.html",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "21168546451596051ef545334bc8732cc2a2c47f0cf03ee376c9118504492cf5",
+    "bytes": 22774,
+    "expected_format_valid": true
+  }
+]

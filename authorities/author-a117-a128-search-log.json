@@ -1,0 +1,53 @@
+{
+  "searched_at": "2026-10-20T19:08:27.435380+00:00",
+  "web_queries": [
+    "site.rechtspraak.nl \"artikel 126\" \"omkoping\" kiesrecht Hoge Raad",
+    "site.rechtspraak.nl \"artikel 124\" \"gemeenteraad\" geweld",
+    "site.rechtspraak.nl \"117b\" \"beschermde\"",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:HR:2019:843\"",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:RBDHA:2021:14437\"",
+    "site.uitspraken.rechtspraak.nl \"ECLI:NL:RBGEL:2016:3180\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 127\" \"verkiezing\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 128\" \"verkiezing\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 121a\" geweld",
+    "site.uitspraken.rechtspraak.nl \"artikel 117a\" diplomaat",
+    "\"BK9221\" \"Hoge Raad\"",
+    "site.uitspraken.rechtspraak.nl \"Artikel 127\" \"volmacht\" \"2010\""
+  ],
+  "method": "web.run discovery; direct official data.rechtspraak.nl full-text XML downloads. Firecrawl availability checked: authenticated, zero credits; no scrape or installation.",
+  "local_evidence": "authorities/author-a117-a128-local-search.json",
+  "local_hit_disposition": "13 precise lexical hits: HR/PHR BK9221 led to the verified HR judgment; PHR 2019:590/592 concern the Antilliaanse comparison; other PHR hits cite secondary literature about gifts and are not relied on as independent judgments. Two other patterns yielded no hits.",
+  "accepted": [
+    {
+      "ecli": "ECLI:NL:HR:2010:BK9221",
+      "units": [
+        "a127"
+      ],
+      "full_public_primary_read": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2019:843",
+      "units": [
+        "a126"
+      ],
+      "full_public_primary_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBDHA:2021:14437",
+      "units": [
+        "a117b",
+        "a120a"
+      ],
+      "full_public_primary_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBGEL:2016:3180",
+      "units": [
+        "a124"
+      ],
+      "full_public_primary_read": true
+    }
+  ],
+  "other_assigned_units": "No sufficiently specific verified judgment added. No exhaustive case-law claim.",
+  "rejected_web_leads": "Unrelated administrative decisions for similarly numbered provisions, commercial annotations and third-party redaction not relied upon. HR and PHR documents distinguished."
+}

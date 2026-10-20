@@ -1,0 +1,432 @@
+{
+  "kind": "bounded_author_checkpoint",
+  "complete": true,
+  "book_complete": false,
+  "independent_review": false,
+  "ids": [
+    "a117",
+    "a117a",
+    "a117b",
+    "a118",
+    "a119",
+    "a120",
+    "a120a",
+    "a120b",
+    "a120c",
+    "a121",
+    "a121a",
+    "a122",
+    "a123",
+    "a123a",
+    "a124",
+    "a124a",
+    "a125",
+    "a126",
+    "a127",
+    "a128"
+  ],
+  "units_completed": 20,
+  "total_statutory_units": 812,
+  "total_commentaries": 320,
+  "remaining_commentaries": 492,
+  "commentary_chars_added": 43673,
+  "commentary_lengths": {
+    "a117": 2418,
+    "a117a": 2125,
+    "a117b": 2301,
+    "a118": 1615,
+    "a119": 1620,
+    "a120": 1840,
+    "a120a": 2242,
+    "a120b": 2221,
+    "a120c": 2429,
+    "a121": 2198,
+    "a121a": 2164,
+    "a122": 2276,
+    "a123": 2016,
+    "a123a": 1999,
+    "a124": 2293,
+    "a124a": 1987,
+    "a125": 2017,
+    "a126": 2236,
+    "a127": 2853,
+    "a128": 2823
+  },
+  "commentary_sha256": {
+    "a117": "0d6b52423be6e1b79929947cd11ff837d741db4d0988b1f75e4d4cee95a25db5",
+    "a117a": "b80bd8aa8975915f353d1a23f996a08598cd8ced25ba99c40bfdeef9ddc198d2",
+    "a117b": "51a434398d93ced5dc1dc9998f4567caea1319e1b654181bd65010d4c913f1e0",
+    "a118": "5226553439feecb3b91db97c2d14a449c26398b47dbbce180c9395858c2989b8",
+    "a119": "afd34d8e28e103b7f034e7e5e6414da5c6363694b5036564caebfabe63b66989",
+    "a120": "1c5fe79543c12c6bcc6e2ef973f419abc9e884458b6b0461f78bc4706651361f",
+    "a120a": "2a65e5fba1aa76e556c82c7b0d8cd36180deb7e76d98672d624fe6a99756fcbe",
+    "a120b": "60e04143ca7a95b877a80fb8d199744b2da44921ede82a0e605e5bb793246f8d",
+    "a120c": "9d6d43050ecd4882b4695a91a3686c22f1f4861aba2b03ff1e69091fa38c2604",
+    "a121": "09009c01f0985ea01c489677a726d0bd46bab212c05eba1254fcc45730a6d806",
+    "a121a": "cdaf78a39b54c1f45b219540742f64be10b817fc6482471de8ef41c5a1c62dcd",
+    "a122": "c5814127df8c6a8eed7122fdb16cee62705ca1162ba86d8219423cac5bd02ca8",
+    "a123": "144fabd0181a1b26aca4f54ef3041067150ac642de933ed0583e60c0edc19d5e",
+    "a123a": "02dbebfdf8687854ea4a44ab750709125b7d2ba3a1e9b48abf82770111b915fa",
+    "a124": "60952796fe06e1280aaccac0e8d7b2392bd965840d3f9c2d14b3e0b0e177059a",
+    "a124a": "f5eb191ae186223c1e4b69c5d9536aca193e99e4a8439f20f8d1541691a7c10f",
+    "a125": "d28c5da7210f2f54fc11a3a2afd73d80029b3378fa6076fd758e25a7d05d5fa3",
+    "a126": "8d1f6fae64d7c54d5d0f2319e3647f3cb9e78d55df8a0d2b01df8bc8c16687f9",
+    "a127": "7a1ef93154e24cb82877cfaf156c640b3dc7c22f20c72704e32019a87bae0e88",
+    "a128": "a533ee25e60c2d4c9c672a474a104d73426d938dd7dee0833bc80ee07707f92a"
+  },
+  "all_prior_commentary_files_unchanged": {
+    "commentary/part-01.md": "766adba9a75959c383fb7d546164e668b88acebc212026425f6d9539c241b642",
+    "commentary/part-02.md": "e22b48ec9d79e56a8733de66bc5c086b954baeecc055363c8cf06468691d3162",
+    "commentary/part-03.md": "34a286d0d59a81c7e4aba8df829bc25660af1f34db6e3df11b27d978fd1eaa17",
+    "commentary/part-04.md": "05f87e2e1b5ddb09b06c91c46b8668152f9a592adb23fbb2da334f12fecdc28f",
+    "commentary/part-05.md": "5c4cea9fd8df2b40af32f8630407c15357e9f7d10dd1b0fcf5e97ce5f000bac8",
+    "commentary/part-06.md": "70ffa5b0680a60043a9af06a0b1df8994ef4c4e9d9709295dda4a6b1bbda4ad6",
+    "commentary/part-07.md": "00488d1fc824acfb12e18fd8555fa3062d94c541f052e37960ba9ba5744c5c1f",
+    "commentary/part-08.md": "38f9bb2a4e97dae3515ae9b343d66b5d18db0f0c99fbbc3592eddaed43b2d1ce",
+    "commentary/part-09.md": "89c79ac1abc05a05c38145c972c9126e274375927591abd5ce8324977f1d5a48",
+    "commentary/part-10.md": "c9ae80a6e42e35c69f2509273509167001b26152174813b387c8ab4f28d257d4",
+    "commentary/part-11.md": "09c30d0af947efc2e0ae6b25f594cb7e0232ad572a93dc5a11d7d0e6b5e53b85",
+    "commentary/part-12.md": "cb41a01a9ab4bd77284f36e3272f624fc622c2edfddee13e917d3af83ad5ec9a",
+    "commentary/part-13.md": "cd922f63135d8c5884e757a38293b15630c3758f9b800a4472c268bcc3dcd75a",
+    "commentary/part-14-a92-a100.md": "15b4951eae0ab9419402a5f461afad082fbf9b6fcaf349d465bfe6b9250721a9",
+    "commentary/part-14.md": "9b57c469e1eccdbd442035ad381568e935dfa1aee826f52200837c1ee9ae9fde",
+    "commentary/part-15.md": "736fc6631f0124eaff9f8ef07eee97d553bdb75ec9fc3975fb6364f8f67c202f"
+  },
+  "source_preflight": "sources/author-a117-a128-version-evidence.json",
+  "source_text_agreement": 1.0,
+  "completeness": "sources/author-a117-a128-coverage.json",
+  "historical_change_map": "sources/author-a117-a128-historical-change-map.json",
+  "findings": [
+    {
+      "id": "a117",
+      "author_checked": true,
+      "source_text_sha256": "6f62ca456b499a801cdc20b15591da0b4b0ebdaaddd5eb28a44d666ba40caf1f",
+      "finding": "Beschermde positie via87b, uitvoeringsbegin79, leven/vrijheid, twee alternatieve lid2-gronden en aparte terroristische routes.",
+      "cross_references_checked": [
+        "a45",
+        "a79",
+        "a83",
+        "a87b",
+        "a117a",
+        "a117b",
+        "a120a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a117a",
+      "author_checked": true,
+      "source_text_sha256": "7279361847879682e7f9b8c24a8be9fe308791e94490e6c2bd0ab64fa90de8b5",
+      "finding": "Feitelijke persoonlijke aantasting, niet louter uiting, geen toegevoegd letselvereiste, subsidiariteit en beschermde functie apart.",
+      "cross_references_checked": [
+        "a87b",
+        "a117",
+        "a120a",
+        "a120c"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a117b",
+      "author_checked": true,
+      "source_text_sha256": "7519e5ffb1689bdbbe654fa05291ac7ed9c11c80c62cdc636a733109cbac88cd",
+      "finding": "Beschermde goederen, opzet, causaal persoonlijk gevaar en afwezigheid ambassadeur in concreet rechtbankoordeel onderscheiden.",
+      "cross_references_checked": [
+        "a87b",
+        "a120a"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBDHA:2021:14437"
+      ]
+    },
+    {
+      "id": "a118",
+      "author_checked": true,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "finding": "Gehele vervallen artikel per2020 bevestigd; oorspronkelijke drie leden afzonderlijk bewaard; geen huidige sanctiegrondslag.",
+      "cross_references_checked": [
+        "a1",
+        "a267"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a119",
+      "author_checked": true,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "finding": "Voormalige verspreidingsvormen, afwijkende voorraadroute en beroepsontzetting niet in huidige tekst heringevoegd.",
+      "cross_references_checked": [
+        "a1",
+        "a118"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a120",
+      "author_checked": true,
+      "source_text_sha256": "668ad37b49f1334c68a8ec114f8765e54e744b6a616ce797f550b0bca2f32de5",
+      "finding": "Uitsluitend115/116; facultatieve rechten1–4 tegenover beroepsverbod5; werkelijke eenjaarstraf en duur31.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a115",
+        "a116",
+        "a120c"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a120a",
+      "author_checked": true,
+      "source_text_sha256": "b33929693a060f7078f6304a3bbfb574de19f15f021d103a8556f0bd11a0426b",
+      "finding": "Exacte lijst en helftmaxima; geen vijftienjaarsgrondvariant thans; lid2 via83 apart; terroristisch oogmerk zelfstandig.",
+      "cross_references_checked": [
+        "a83",
+        "a83a",
+        "a115",
+        "a116",
+        "a117",
+        "a117a",
+        "a117b"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBDHA:2021:14437"
+      ]
+    },
+    {
+      "id": "a120b",
+      "author_checked": true,
+      "source_text_sha256": "d68728c88665817e825c60ab828728fe35e7614785e955a5dbc9dc80929e92b3",
+      "finding": "Overeenkomst80 en alle vijf routes96lid2 apart; terroristische aanslagbestemming en eigen maximum; geen117b-uitbreiding.",
+      "cross_references_checked": [
+        "a79",
+        "a80",
+        "a96",
+        "a115",
+        "a117",
+        "a120c"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a120c",
+      "author_checked": true,
+      "source_text_sha256": "5c0a939df89a708b5f149b3b71418333cd1a6800a867c430c1d8b7e986f4e5df",
+      "finding": "Twee groepen veroordelingen, alleen kiesrecht, 117niet beperkt totlid1, opgelegde strafdrempel28 en onherroepelijkheid31.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a117",
+        "a117a",
+        "a117b",
+        "a120b"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a121",
+      "author_checked": true,
+      "source_text_sha256": "86cffe4f313a261ab189971c113c67d3341bbf0c62be1e47c11bd5c081f4edce",
+      "finding": "Plenaire of verenigde vergadering en persoonlijke rollen; meerdere routes en geweldsmiddel; geen automatisch terroristisch oogmerk.",
+      "cross_references_checked": [
+        "a45",
+        "a83",
+        "a83a",
+        "a121a",
+        "a122"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a121a",
+      "author_checked": true,
+      "source_text_sha256": "59dbc54eba040b39b6cf25c9fbdaa7bfcff41187b1295f97c532b16509cb28fa",
+      "finding": "Commissieherkomst en genoemde deelnemers; persoonlijke verhindering tegenover uiteenjagen; andere strafbedreiging en geen122-uitbreiding.",
+      "cross_references_checked": [
+        "a121",
+        "a122"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a122",
+      "author_checked": true,
+      "source_text_sha256": "fbe3e644a248ee905b9f1474fd6d43f744e4bc62b4273a0a9dedc76b1e995973",
+      "finding": "Geen120b-terrorismevereiste voor grondfeit; overeenkomst en vijf voorbereidingsroutes apart; doelmisdrijf uitsluitend121.",
+      "cross_references_checked": [
+        "a80",
+        "a83",
+        "a96",
+        "a120b",
+        "a121",
+        "a121a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a123",
+      "author_checked": true,
+      "source_text_sha256": "d33e9d7f4223563e1bec628a64b16e851e2f7c1b543706cc63ef6a12aef583d8",
+      "finding": "Provinciale staten, voorzitter en gedeputeerde; geweldsdwang en effect, commissie onderscheiden; geen122-grondslag.",
+      "cross_references_checked": [
+        "a122",
+        "a123a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a123a",
+      "author_checked": true,
+      "source_text_sha256": "5f1672f10d992e1d7c2a4c75380860469f77193c035a197b4f71b54d557c7104",
+      "finding": "Instelling door provinciale staten en limitatieve rollen; eigen vierjaarsmaximum; bezoeker niet automatisch commissielid.",
+      "cross_references_checked": [
+        "a123",
+        "a122"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a124",
+      "author_checked": true,
+      "source_text_sha256": "578cfb1ac3888ef067cb782f5e992a15ffa91540291815d9b38df2cc59c13bd9",
+      "finding": "Raadsvergadering, causale beëindiging, individueel opzet en medeplegen; Geldermalsen niet toegepast op elke demonstrant.",
+      "cross_references_checked": [
+        "a124a"
+      ],
+      "case_sources": [
+        "ECLI:NL:RBGEL:2016:3180"
+      ]
+    },
+    {
+      "id": "a124a",
+      "author_checked": true,
+      "source_text_sha256": "b0ac85d751739e070a6978d3a49996ee0b58ec050eeec96fd638bd74511d0440",
+      "finding": "Door raad ingestelde commissie, persoonlijke routes ook bij voortgaande vergadering; geen raadsvergaderingsmaximum.",
+      "cross_references_checked": [
+        "a124"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a125",
+      "author_checked": true,
+      "source_text_sha256": "9f9268dfe05c884406c9d23221a314662f32ee14c5cc2b8d8adada83cc3a9458",
+      "finding": "Wettelijk uitgeschreven verkiezing, geweldsmiddel en opzettelijke verhindering; eigen en gemachtigd kiesrecht, poging apart.",
+      "cross_references_checked": [
+        "a45",
+        "a126",
+        "a127",
+        "a128"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a126",
+      "author_checked": true,
+      "source_text_sha256": "a52ce6c051f0bd915f67ac73754b37f4cec93b4e640cbd2ef5d0fbce34e8dae1",
+      "finding": "Actieve/passieve omkoping, gift/belofte, wederkerigheid, nietstemmen en volmacht; Antilliaans arrest beperkt vergelijkend.",
+      "cross_references_checked": [
+        "a125",
+        "a127"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2019:843"
+      ]
+    },
+    {
+      "id": "a127",
+      "author_checked": true,
+      "source_text_sha256": "93ffb88a194dc477d515425d1e7770699c24b038b6cb85b932fd8a864d7eca22",
+      "finding": "Bedrieglijke handeling, beide alternatieve gevolgen en causaliteit; HR2010strafmotivering onderscheiden van hofbewijs.",
+      "cross_references_checked": [
+        "a126",
+        "a128",
+        "a130"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2010:BK9221"
+      ]
+    },
+    {
+      "id": "a128",
+      "author_checked": true,
+      "source_text_sha256": "ee5231a66264401fe0979fd8dc64bf70c1eb1fb8b451fa516d2ee8654c301aa3",
+      "finding": "Bewuste andere identiteit, deelname tegenover voorbereiding, geldige volmacht onderscheiden en geen uitslagomslag vereist.",
+      "cross_references_checked": [
+        "a45",
+        "a127"
+      ],
+      "case_sources": []
+    }
+  ],
+  "similarity_inspection": {
+    "method": "Pairwise character SequenceMatcher on this batch; lexical similarity is a prompt for author inspection, not a legal-quality measure. Parallel institutional provisions discussed with their distinct bodies, roles, effects and penalties.",
+    "top_pairs": [
+      {
+        "ids": [
+          "a120b",
+          "a122"
+        ],
+        "ratio": 0.4078
+      },
+      {
+        "ids": [
+          "a121",
+          "a123"
+        ],
+        "ratio": 0.3916
+      },
+      {
+        "ids": [
+          "a121a",
+          "a124a"
+        ],
+        "ratio": 0.3455
+      },
+      {
+        "ids": [
+          "a123a",
+          "a124a"
+        ],
+        "ratio": 0.3357
+      },
+      {
+        "ids": [
+          "a117b",
+          "a124"
+        ],
+        "ratio": 0.32
+      },
+      {
+        "ids": [
+          "a124a",
+          "a125"
+        ],
+        "ratio": 0.3182
+      },
+      {
+        "ids": [
+          "a121a",
+          "a123"
+        ],
+        "ratio": 0.3167
+      },
+      {
+        "ids": [
+          "a121",
+          "a123a"
+        ],
+        "ratio": 0.3159
+      }
+    ]
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Original author checking, not an independent second pass.",
+    "492 out-of-scope statutory units still lack commentary.",
+    "Selective case-law coverage; Antilliaanse comparison and historical sentence issue explicitly bounded.",
+    "Treaty catalog digest mismatches disclosed with fresh identical official bodies and published-text corroboration.",
+    "Technical length, link and repetition checks do not prove legal quality."
+  ],
+  "updated_at": "2026-10-20T19:08:27.435380+00:00"
+}

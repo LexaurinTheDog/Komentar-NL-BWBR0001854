@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 649,
+  "local_links_checked": 688,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -20,6 +20,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AZ2169",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ0213",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BG7743",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2010:BK9221",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BM9102",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BP6878",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BW9987",
@@ -38,6 +39,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1156",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:202",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:2242",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:843",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2020:1378",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:389",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:770",
@@ -56,6 +58,8 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:904",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2005:AS5983",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBASS:2002:AD8928",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:14437",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2016:3180",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2013:8265",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
     "https://wetten.overheid.nl/BWBR0001903/2026-07-01",

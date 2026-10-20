@@ -1,0 +1,7 @@
+{
+  "command": "build_repo.py WORK (unchanged full manuscript build)",
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 492 jednotkám, např.: ['a129', 'a130', 'a130a', 'a130b', 'a131', 'a132', 'a133', 'a134', 'a134a', 'a135']\n",
+  "scope": "Full build expected to report only492 missing out-of-scope commentaries; separate existing-prose renderer creates the explicitly incomplete checkpoint."
+}

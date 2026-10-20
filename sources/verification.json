@@ -2968,6 +2968,199 @@
       "sha256": "16c54d9b25d6057ac2dcc5bcb07bd997f7177ccaa7786e636bbc2d0bc17d3e8b",
       "bytes": 22774,
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T18:57:35.583457+00:00",
+      "path": "sources/author-a117-a128-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T18:57:35.877391+00:00",
+      "path": "sources/author-a117-a128-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T18:57:36.885661+00:00",
+      "path": "sources/author-a117-a128-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2016-04-20_0/xml/BWBR0001854_2016-04-20_0.xml",
+      "accessed_at": "2026-10-20T18:59:08.355813+00:00",
+      "path": "sources/author-a117-a128-history-2016-04-20_0.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "3a6d21ca5cba4b7941b9ea0b623c3c8cfaa1c233c15d6d183380a2950cce415c",
+      "bytes": 2697541,
+      "expected_format_valid": true,
+      "manifest_sha512_verified": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2019-12-15_0/xml/BWBR0001854_2019-12-15_0.xml",
+      "accessed_at": "2026-10-20T18:59:09.767040+00:00",
+      "path": "sources/author-a117-a128-history-2019-12-15_0.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "1898edd974db8362c354305da618c0a2410055ba684ad6a66ae4a149d2ede197",
+      "bytes": 2782109,
+      "expected_format_valid": true,
+      "manifest_sha512_verified": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2020-07-25_0/xml/BWBR0001854_2020-07-25_0.xml",
+      "accessed_at": "2026-10-20T18:59:11.014049+00:00",
+      "path": "sources/author-a117-a128-history-2020-07-25_0.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "c059147b701448a01b3a2a807a23ed75ff617083c22f2c88d7aa284f4313050a",
+      "bytes": 2469831,
+      "expected_format_valid": true,
+      "manifest_sha512_verified": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
+      "accessed_at": "2026-10-20T18:59:12.281208+00:00",
+      "path": "sources/author-a117-a128-stb-2019-187.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a4f5cd0d71bc858203e8cf39255c6440932d27808f36c60dcf80e4d5c2196815",
+      "bytes": 32938,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
+      "accessed_at": "2026-10-20T18:59:12.641839+00:00",
+      "path": "sources/author-a117-a128-stb-2019-277.html",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "21168546451596051ef545334bc8732cc2a2c47f0cf03ee376c9118504492cf5",
+      "bytes": 22774,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0003903/manifest.xml",
+      "path": "sources/author-a117-a128-BWBV0003903-manifest.xml",
+      "accessed_at": "2026-10-20T18:59:42.062578+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "78b10c4d64578ac730eafd5966a029d9b8a59837eea11b7af82841786fe55785",
+      "bytes": 1364,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0003903/1989-01-05_0/xml/BWBV0003903_1989-01-05_0.xml",
+      "path": "sources/author-a117-a128-BWBV0003903-effective.xml",
+      "accessed_at": "2026-10-20T18:59:42.303789+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "e1692dcb033accfe5a7ac0e0bc9684f4fd7acfb36acacd75e8bcacc0eda806bb",
+      "bytes": 115062,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0001519/manifest.xml",
+      "path": "sources/author-a117-a128-BWBV0001519-manifest.xml",
+      "accessed_at": "2026-10-20T18:59:42.569493+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "36f847d2aee85e79612535296695738316e412f3821b3dc7743bc84188fd8053",
+      "bytes": 1364,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0001519/2002-03-09_0/xml/BWBV0001519_2002-03-09_0.xml",
+      "path": "sources/author-a117-a128-BWBV0001519-effective.xml",
+      "accessed_at": "2026-10-20T18:59:42.731072+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "a25164f2cde3a438d69299783e1366aacaeecef431b9f875ea974bd18c91f057",
+      "bytes": 167898,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0002868/manifest.xml",
+      "path": "sources/author-a117-a128-BWBV0002868-manifest.xml",
+      "accessed_at": "2026-10-20T18:59:42.995139+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "39814ae9451ebe4f6a5e18cb1447a67fc5956be7b2865ac2ea8f3552ed4f0ddf",
+      "bytes": 2056,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0002868/2010-08-19_0/xml/BWBV0002868_2010-08-19_0.xml",
+      "path": "sources/author-a117-a128-BWBV0002868-effective.xml",
+      "accessed_at": "2026-10-20T18:59:43.144062+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "8220befc9598a0a13a7b92cf1dfab121ee8f6f7f4daa7837f32e3cd5a98f25ff",
+      "bytes": 51401,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2021:14437",
+      "accessed_at": "2026-10-20T18:57:50.009238+00:00",
+      "path": "authorities/ECLI-NL-RBDHA-2021-14437.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "09ae4b80acc5ac7dfaf44414764f8c6d63d2b3089223ddc2529ae60b79f86b4f",
+      "bytes": 88853,
+      "full_judgment": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBGEL:2016:3180",
+      "accessed_at": "2026-10-20T18:57:50.009514+00:00",
+      "path": "authorities/ECLI-NL-RBGEL-2016-3180.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "528a83c544e641bf821548caef801f25a592271e758c94da22dd00a3f7cf2719",
+      "bytes": 64047,
+      "full_judgment": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2019:843",
+      "accessed_at": "2026-10-20T18:57:50.009605+00:00",
+      "path": "authorities/ECLI-NL-HR-2019-843.xml",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "30bfc4af4968c89ba77b4dd1b2b9230f403af8ea7738e32e061c2beaaa0524f7",
+      "bytes": 28589,
+      "full_judgment": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BK9221",
+      "accessed_at": "2026-10-20T19:04:33.983931+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "authorities/ECLI-NL-HR-2010-BK9221.xml",
+      "sha256": "2060d149cbe55b25c8f35833e381a5460da59e291be9aed384997e119b7fc160",
+      "bytes": 12571,
+      "full_judgment": true,
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -3089,5 +3282,14 @@
     "historical_map": "sources/review-batch15-historical-change-map.json",
     "fetch_log": "sources/review-batch15-extra-fetch-log.json",
     "case_log": "authorities/review-batch15-search-log.json"
+  },
+  "bounded_author_a117_a128": {
+    "verified_at": "2026-10-20T19:08:27.435380+00:00",
+    "version_evidence": "sources/author-a117-a128-version-evidence.json",
+    "historical_change_map": "sources/author-a117-a128-historical-change-map.json",
+    "fetches": 18,
+    "current_statutory_xml_identical_to_canonical": true,
+    "external_digest_limitations": "sources/author-a117-a128-source-limitations.json",
+    "firecrawl": "Authenticated, zero credits. Direct official sources used."
   }
 }

@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T18:51:30.028672+00:00",
+  "verified_at": "2026-10-20T19:08:27.435380+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -2053,5 +2053,34 @@
     ],
     "coverage": "sources/review-batch15-coverage.json",
     "unresolved_blockers": []
+  },
+  "bounded_author_a117_a128": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T19:08:27.435380+00:00",
+    "version_evidence": "sources/author-a117-a128-version-evidence.json",
+    "historical_versions_checked": {
+      "manifest_expressions": 126,
+      "bodies": [
+        "2016-04-20_0",
+        "2019-12-15_0",
+        "2020-07-25_0"
+      ],
+      "method": "Effective and visibility intervals evaluated; current body and three historical bodies kept separate.",
+      "change_map": "sources/author-a117-a128-historical-change-map.json"
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/author-a117-a128-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "current_source_equal": true,
+    "all812_units_text_notes_status_dates_checked": true,
+    "aanhef_and_wetsluiting_present": true,
+    "unresolved_blockers": [],
+    "limitations": "External treaty catalog digest discrepancy remains disclosed; available official bodies and preserved published primary definitions corroborate the limited definitional use."
   }
 }

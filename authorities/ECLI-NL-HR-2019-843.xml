@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2019:843</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T05:43:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-06-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2019-06-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/03094</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:590" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2019:590</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2019/1377</rdf:li>
+          <rdf:li>NJ 2019/242</rdf:li>
+          <rdf:li>RvdW 2019/695</rdf:li>
+          <rdf:li>SR-Updates.nl 2019-0115 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NbSr 2019/189</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:843">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:843</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2019-06-04T11:09:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-06-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2019:843 Hoge Raad , 04-06-2019 / 17/03094</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2019:843:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Antilliaanse zaak. Passieve omkoping bij verkiezingen in Sint Maarten door geld aan te nemen van vertegenwoordiger van politieke partij in ruil voor stem op die politieke partij, art. 132 SrNA. Kan uit bewijsvoering worden afgeleid dat verdachte zich heeft laten “omkopen”? Opvatting dat van een voltooide omkoping slechts sprake is indien de omgekochte de gift rechtstreeks heeft aangenomen van de omkoper, is onjuist. Opvatting dat voor bewezenverklaring van het zich laten “omkopen” uit de bewijsvoering dient te volgen dat (de gemachtigde van) een kiezer uitdrukkelijk heeft toegezegd of zich anderszins uitdrukkelijk heeft verplicht in ruil voor de gift het kiesrecht op een bepaalde wijze uit te oefenen, is eveneens onjuist. ’s Hofs oordeel dat indien vast komt te staan dat (de gemachtigde van) een kiezer een gift en/of een belofte aanneemt en daarbij, gelet op de concrete omstandigheden van het geval, de redelijke verwachting wekt dat hij zijn kiesrecht op een bepaalde wijze zal uitoefenen, kan worden bewezenverklaard dat hij zich heeft laten “omkopen” a.b.i. art. 132 SrNA, getuigt niet van een onjuiste rechtsopvatting. Volgt verwerping. Samenhang met 17/03392 A.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2019:843:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">HOGE RAAD DER NEDERLANDEN</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">STRAFKAMER</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	17/03094</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		4 juni 2019</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">ARREST</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een vonnis van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, van 3 mei 2017, nummer H 211/16, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] , </para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1970,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft C. Reijntjes-Wendenburg, advocaat te Maastricht, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De Advocaat-Generaal A.E. Harteveld heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het middel klaagt dat het bewezenverklaarde zich laten “omkopen” niet uit de bewijsvoering kan worden afgeleid.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging bewezenverklaard dat:</para>
+          <para>“hij, in de periode 15 september 2010 tot en met 17 september 2010, op het toenmalige Nederlands Antilliaanse gedeelte van het eiland Sint Maarten zich heeft laten omkopen door een gift, te weten geld (de Hoge Raad begrijpt: en belofte) heeft aangenomen van een vertegenwoordiger van de United People Party (te weten [medeverdachte 1] ), wetende dat deze hem gedaan werd teneinde hem te bewegen om, bij gelegenheid ener krachtens wettelijk voorschrift uitgeschreven verkiezing zijn kiesrecht op bepaalde wijze uit te oefenen, bestaande het op bepaalde wijze uitoefenen van zijn kiesrecht hierin dat hij, verdachte, tijdens de verkiezingen zou stemmen op de United People Party.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+          <para>“1. In verband met de opheffing van de Nederlandse Antillen op 10 oktober 2010 en de toetreding van Sint Maarten als zelfstandig land tot het Koninkrijk der Nederlanden is een vervroegde verkiezing uitgeroepen. Dat is gebeurd krachtens de Eilandsverordening vervroegde verkiezingen eilandsraad. In artikel 1, tweede lid, van deze eilandsverordening is bepaald dat de dag van de stemming voor deze tussentijdse verkiezing zal plaatsvinden op 17 september 2010.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Twee dagen voor de verkiezing, op 15 september 2010, ving (wijlen) [betrokkene 1] , destijds werkzaam als telefoniste bij het Korps Politie Sint Maarten, een gesprek op tussen de verdachte, medeverdachte [medeverdachte 2] en medeverdachte [verdachte] . Uit het gesprek werd haar duidelijk dat de United People Party geld zou geven in ruil voor een stem op de partij. [betrokkene 1] heeft hierover en over hetgeen zich vervolgens heeft afgespeeld, het volgende verklaard: </para>
+          <para>“You are asking me what I know about persons getting money at [betrokkene 2] ’s office in Point Blanche. I can tell you this much. I understood that the Up party (Hof: United People Party) was giving out money to people for them to vote for the Up party. This was spoken at the police station in Philipsburg. It was a conversation between the police officers [medeverdachte 3] , [verdachte] and the VKS (Hof: Vrijwilligers Korps Sint Maarten) [medeverdachte 2] . [medeverdachte 2] was saying that somebody called them to pass at [betrokkene 2] ’s office to get some money. I asked them if I could go with them. They said it was ok. We got into a police car and drove to Point Blanche. We were working at that time. [...] It was in the afternoon. [verdachte] and [medeverdachte 2] had on their uniform. [medeverdachte 3] was working but he did not have on his uniform. [...] </para>
+          <para>When we got to the office building we stopped and waited for a while. [...] After a while a bouncer/security guard came and told us that [...] we could talk to someone [...]. </para>
+          <para>He took us to the office. In the office we spoke with [medeverdachte 1] . He is [betrokkene 2] ’s uncle. He heard what we had to say. We asked for money. The [...] guys asked seven hundred dollars. I asked for six hundred and fifty dollars. I wanted the money to pay my house rent. He took down the necessary information from us and told us he would get back to us. This was on the <?linebreak?>15th of September 2010. </para>
+          <para>The following day, the 16th of September 2010, [medeverdachte 2] received a call from [medeverdachte 1] . [...] [medeverdachte 2] told me that [medeverdachte 1] asked him to pass by the office by himself. [...] </para>
+          <para>I saw [medeverdachte 1] on the 17th of September 2010, the day of the voting. He was at the voting bureau in Cay Hill [...]. I asked him about the money. [...] He said that he gave [medeverdachte 2] [...] envelopes with money. He demonstrated to me how he gave [medeverdachte 2] the money. He said that he wrapped the envelopes in a dummy ballot and passed it to [medeverdachte 2] . He said [medeverdachte 2] put it in his pocket. [...] I understood that the envelopes each contained three hundred dollars.” </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Medeverdachte [medeverdachte 2] , destijds werkzaam als soldaat bij het Vrijwilligers Korps Sint Maarten, heeft het volgende verklaard: </para>
+          <para>“You asked me if i knew anything about collecting [money] at [betrokkene 2] ’s office at Point Blance. This is wat I can tell you. On the street I heard that the UP party was giving away money to people in need. I needed some help. I got a quotation for building materials. With this quotation I went to [betrokkene 2] ’s office to see what they could have helped me with. On the 15th of September 2010, officers [verdachte] and [medeverdachte 3] , [betrokkene 1] (Hof: [betrokkene 1] ) and I went to the office of [betrokkene 2] in Point Blanche. [...] It was in the afternoon. [...] We got to speak to [medeverdachte 1] . We went into his office. He took all of our information. He told us that he would have gotten back to us in due time.</para>
+          <para>On the 16th of September 2010 [medeverdachte 1] called me. He told me to come to the office [...] and that he would have something for me. [...] I went to the office [...]. Both times I went to [betrokkene 2] ’s office, I went with a police patrol vehicle. [...] When I got into [medeverdachte 1] ’s office he told me that he had something for us. He said that the money was not all that we asked for, but that we would get the rest after the election. He gave me a dummy voting ballot with something wrapped in it with an elastic band around it. I put [it] in my [pants] pocket. I did not check until I reached the police station. When I got to the station I checked the package that [medeverdachte 1] gave me. I saw that I only got three envelopes and not four as I thought. [verdachte] was working at that moment. I am not sure if [medeverdachte 3] was working. [...] I gave [verdachte] two envelopes, one for him and one for [medeverdachte 3] . [betrokkene 1] was not at the balie at that time. I gave [verdachte] the envelopes in the police station Philipsburg by the balie (frontdesk). [...] I received three hundred dollars ($ 300) from in the envelop.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. Medeverdachte [medeverdachte 1] heeft op 7 september 2012 ten overstaan van de politie het volgende verklaard: </para>
+          <para>“I was [involved in the United People Party during the election of 2010]. [...] I was [...] accountable to [betrokkene 2] . He was the party leader. [...] </para>
+          <para>I knew [medeverdachte 2] from back in the days and he came by me with his financial needs and so did the officers that accompanied him that day. [...] They came [at the office of [betrokkene 2] in Point Blanche] for financial help. [...] I met them at the first floor in the back area. In a closed office. [...] The information [that I took] [...] is the financial aid that they were looking for. [...] I told them let me see what I can do for you, if I can help you all out or not. [...] We asked [people] where they live, address, and try to convince them to vote for the UP Party. [...] The purpose of taking the information [was] [...] to see if they were registered in the voting system and if they were eligible to vote. [...] On the 16th of September 2010, [...] I [indeed] did call [ [medeverdachte 2] ] from my cellular phone on the number that he gave me from his first visit to my office. [...] <?linebreak?>[medeverdachte 2] arrived [...] late in the morning [by the office]. Just before lunch time. [...] I gave [medeverdachte 2] three envelops each containing [...] money [...].”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>5. [betrokkene 3], die de United People Party gedurende de verkiezingstijd in 2010 onder andere hielp met het uitdelen van petjes en flyers, heeft over het kantoor in Point Blanche het volgende verklaard: </para>
+          <para>“We used it for registering people mainly. [...] They had to present their passport to see if they were registered on the island and if they were eligible to vote and how much members were in their family and if they were also able to vote. [...] The main reason is to make sure that people has the right to vote. We collected data to make a database to see if they were registered and to see how big the family is. The party will then lobby with them.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>6. De verdachte was kiesgerechtigd voor de verkiezing op 17 september 2010. De verdachte was indertijd ouder dan 18 jaar, had de Nederlandse nationaliteit en was ingeschreven in de Sint Maartense Basisadministratie. Het kiesrecht was hem niet ontzegd.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Het Hof heeft ten aanzien van de bewezenverklaring voorts het volgende overwogen:</para>
+          <para>“De raadsvrouw heeft ter terechtzitting in hoger beroep bepleit dat de verdachte opnieuw van de gehele tenlastelegging zal worden vrijgesproken. Daartoe heeft zij aangevoerd dat het bewijst tekortschiet om te kunnen vaststellen dat de verdachte bij de ontmoeting met medeverdachte [medeverdachte 1] zijn identiteitskaart of paspoort heeft afgegeven en evenmin dat die ontmoeting is benut om de kiesgerechtigheid van de verdachte vast te stellen. De verdachte heeft bovendien ontkend dat hij geld heeft ontvangen en dat hij ook heeft toegezegd om op een bepaalde manier te stemmen. De raadsvrouw wijst voorts op de door de Landsrecherche getrokken conclusie dat tijdens het onderzoek niet kon worden vastgesteld dat personen waren omgekocht om hun kiesrecht op een bepaalde wijze uit te oefenen. Volgens de raadsvrouw heeft het Gerecht in eerste aanleg terecht geoordeeld dat geen overeenkomst tot stand is gekomen en kan hetgeen de procureur-generaal daartegen heeft ingebracht, dat niet anders maken. </para>
+          <para>Het Hof overweegt als volgt. </para>
+          <para>Voor bewezenverklaring van het ten laste gelegde omkopingsdelict is vereist dat met een kiezer overeenstemming is bereikt over het niet dan wel op bepaalde wijze uitoefenen van zijn kiesrecht. Niet is vereist dat de kiezer zich aan deze overeenstemming heeft gehouden of dat een in het vooruitzicht gestelde beloning daadwerkelijk is gevolgd. </para>
+          <para>Het Gerecht in eerste aanleg heeft aan zijn beslissing tot vrijspraak ten grondslag gelegd dat niet is gebleken dat de verdachte “heeft toegezegd, of dat hij is verplicht, om op de [United People] Party (of een andere partij) te stemmen”.</para>
+          <para>Van overeenstemming als hiervoor bedoeld, zou daarom geen sprake zijn. De raadsvrouw heeft zich achter dit oordeel geschaard. Het Hof oordeelt anders. Het Hof is met de procureur-generaal van oordeel dat overeenstemming ook kan worden afgeleid uit de omstandigheden van het geval. Ingeval een kiezer een gift en/of belofte aanneemt en daarbij de redelijke verwachting wekt dat hij zijn kiesrecht op de gewenste manier zal uitoefenen, is naar het oordeel van het Hof sprake van overeenstemming. </para>
+          <para>Bij de selectie en waardering van de bewijsmiddelen is het Hof tot de conclusie gekomen dat geen aanleiding bestaat om te twijfelen aan de betrouwbaarheid van de voor de verdachte meest belastende verklaringen, namelijk die van [medeverdachte 2] , [betrokkene 1] en [medeverdachte 1].</para>
+          <para>De medeverdachten zijn niet, althans niet op noemenswaardige wijze, teruggekomen van deze elkaar over en weer bevestigende verklaringen. </para>
+          <para>Uit de bewijsmiddelen kan worden afgeleid dat de verdachte samen met zijn collega’s [medeverdachte 2] , [medeverdachte 3] en [betrokkene 1] twee dagen voor de verkiezingen naar het kantoor van de partijleider van de United People Party is gegaan, omdat deze politieke partij in ruil voor het uitbrengen van een stem geld zou geven. Zij hebben een gesprek gehad met [medeverdachte 1] , die was betrokken bij de United People Party. In dat gesprek heeft [medeverdachte 1] geprobeerd hen ervan te overtuigen om op de partij te stemmen. De verdachte, [medeverdachte 2] en [medeverdachte 3] vroegen elk een bedrag van $ 700,-; [betrokkene 1] vroeg een bedrag van $ 650,--. [medeverdachte 1] heeft verklaard dat hij zou kijken of hij hen kon helpen bij hun financiële problemen. De verdachte, [medeverdachte 2] , [medeverdachte 3] en [betrokkene 1] hebben hun persoonlijke gegevens achtergelaten en zijn vertrokken. Anders dan de raadsvrouw meent, kan uit de verklaringen van [medeverdachte 2] en [medeverdachte 1] worden opgemaakt dat aan de hand van deze gegevens werd nagegaan of zij kiesgerechtigd waren ( [medeverdachte 2] verklaarde: “He took all of our information.”; [medeverdachte 1] verklaarde: “We asked [people] where they live, address, and try to convince them to vote for the UP Party. [...] The purpose of taking the information [was] [...] to see if they were registered in the voting system and if they were eligible to vote.”). De verdachte was kiesgerechtigd. </para>
+          <para>De volgende dag, 16 september 2010, werd [medeverdachte 2] door [medeverdachte 1] gebeld en vervolgens vond tussen hen beiden een ontmoeting plaats. [medeverdachte 2] heeft toen van [medeverdachte 1] drie enveloppen gekregen. De enveloppen waren gewikkeld in een ‘dummy’ van een stembiljet; iedere envelop was gevuld met $ 300,-. [medeverdachte 1] heeft toen tegen [medeverdachte 2] gezegd dat de rest na de verkiezingen zou volgen. [medeverdachte 2] hield één envelop voor zichzelf en gaf de twee andere enveloppen aan de verdachte: één voor de verdachte zelf en één voor medeverdachte [medeverdachte 3] . </para>
+          <para>Het Hof is van oordeel dat de hiervoor omschreven feiten en omstandigheden, die voortvloeien uit de gebezigde bewijsmiddelen, redengevend kunnen worden geacht voor het bewijs dat de verdachte een gift (een geldbedrag van $ 300,-) heeft aangenomen in de wetenschap dat dit werd gegeven in ruil voor een stem op de United People Party. </para>
+          <para>De verdachte heeft ontkend dat hij enveloppen van medeverdachte [medeverdachte 2] heeft ontvangen. Aan die ontkenning hecht het Hof evenwel geen geloof. Nog daargelaten dat de verdachte een lezing van de ontmoeting heeft gegeven die niet strookt met de door [medeverdachte 2] en [betrokkene 1] gegeven lezing (de verdachte zou naar het kantoor zijn gegaan om te kijken of daar strafbare feiten zouden worden gepleegd), vermag het Hof niet in te zien waarom medeverdachte [medeverdachte 2] op dit punt niet naar waarheid zou hebben verklaard. Het is zonder onderbouwing, die ontbreekt, niet goed te verklaren waarom [medeverdachte 2] zo specifiek over de verdachte heeft verklaard. Hij heeft verklaard dat hij alleen de verdachte enveloppen heeft gegeven; hij heeft niet verklaard dat medeverdachte [medeverdachte 3] en/of [betrokkene 1] (uiteindelijk) een envelop hebben ontvangen. Het Hof gaat daarom ook wat dit betreft uit van de geloofwaardigheid van de verklaring van medeverdachte [medeverdachte 2] .</para>
+          <para>De verdachte is naar het kantoor van de United People Party gegaan met de bedoeling om financiële steun te vragen in de wetenschap dat die partij die steun verleende in ruil voor een stem. Hij heeft zijn financiële wensen op tafel gelegd bij [medeverdachte 1] die aangaf dat hij wilde dat de verdachte op zijn partij zou stemmen en dat hij nader zou bezien of hij aan de financiële wensen van de verdachte tegemoet kon komen. De volgende dag heeft [medeverdachte 1] $ 300,-- bedoeld voor de verdachte aan [medeverdachte 2] overhandigd, gewikkeld in een blanco stembiljet. Het moet onder deze omstandigheden voor de verdachte glashelder zijn geweest dat van hem werd verwacht dat hij in ruil voor de betaling zijn stem op de United People Party zou uitbrengen. Door het geld aan te nemen heeft de verdachte op zijn beurt de verwachting gewekt dat ook hij daarvan uitging. Hierbij speelt ook de hoogte van het verstrekte geldbedrag - bepaald geen bagatelbedrag - een rol. Of de verdachte zich vervolgens aan de bereikte overeenstemming heeft gehouden of dat hij toch op een andere partij heeft gestemd is voor de beantwoording van de vraag of sprake is van omkoping in de hier bedoelde zin niet van belang. </para>
+          <para>Dat de Landsrecherche indertijd tot een andere conclusie is gekomen, maakt dat niet anders. Het Hof is niet aan de conclusie van de Landsrecherche gebonden en heeft zich zelfstandig een oordeel gevormd. In dit oordeel ligt besloten dat door de Landsrecherche getrokken conclusie, niet juist is. </para>
+          <para>Hetgeen de raadsvrouw overigens tegen een bewezenverklaring heeft ingebracht, leidt niet tot een ander oordeel. </para>
+          <para>Het verweer wordt verworpen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <para>De tenlastelegging is toegesneden op art. 132 van het Wetboek van Strafrecht van de Nederlandse Antillen (hierna: SrNA). Daarom moet de in de tenlastelegging en bewezenverklaring voorkomende term laten “omkopen” geacht worden aldaar te zijn gebezigd in dezelfde betekenis als daaraan toekomt in die bepaling. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>Art. 132 SrNA luidde ten tijde van het tenlastegelegde feit als volgt: </para>
+          <para>“Hij die bij gelegenheid eener krachtens wettelijk voorschrift uitgeschreven verkiezing, door gift of belofte iemand omkoopt om zijn kiesrecht hetzij niet, hetzij op bepaalde wijze uit te oefenen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste driehonderd gulden. </para>
+          <para>Dezelfde straf wordt toegepast op de kiezer of de gemachtigde van een kiezer die zich door gift of belofte tot een of ander laat omkoopen.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Voor zover het middel berust op de opvatting dat van een voltooide omkoping slechts sprake is indien de omgekochte de gift rechtstreeks heeft aangenomen van de omkoper, faalt het omdat die opvatting onjuist is. Voor zover het middel berust op de opvatting dat voor bewezenverklaring van het zich laten “omkopen”, als bedoeld in voormeld art. 132 SrNA, uit de bewijsvoering dient te volgen dat (de gemachtigde van) een kiezer uitdrukkelijk heeft toegezegd of zich anderszins uitdrukkelijk heeft verplicht in ruil voor de gift het kiesrecht op een bepaalde wijze uit te oefenen, faalt het eveneens. Het Hof heeft, zonder blijk te geven van een onjuiste rechtsopvatting, geoordeeld dat indien vast komt te staan dat (de gemachtigde van) een kiezer een gift en/of een belofte aanneemt en daarbij, gelet op de concrete omstandigheden van het geval, de redelijke verwachting wekt dat hij zijn kiesrecht op een bepaalde wijze zal uitoefenen, kan worden bewezenverklaard dat hij zich heeft laten “omkopen”, als bedoeld in voormeld art. 132 SrNA.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Ook voor het overige kan het middel niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel in zoverre niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Ambtshalve beoordeling van de bestreden uitspraak</title>
+    <para>De Hoge Raad doet uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Gelet op de aan de verdachte geheel voorwaardelijk opgelegde gevangenisstraf van 3 maanden met een proeftijd van 2 jaren, de geldboete van NAf 300,-, subsidiair 6 dagen hechtenis, en de mate waarin de redelijke termijn is overschreden, is er geen aanleiding om aan het oordeel dat de redelijke termijn is overschreden enig rechtsgevolg te verbinden en zal de Hoge Raad met dat oordeel volstaan.</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend en M.J. Borgers, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">4 juni 2019</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

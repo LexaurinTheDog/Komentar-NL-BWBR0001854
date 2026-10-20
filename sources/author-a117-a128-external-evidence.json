@@ -1,0 +1,41 @@
+[
+  {
+    "id": "BWBV0003903",
+    "effective_version": "1989-01-05_0",
+    "effective_from": "1989-01-05",
+    "effective_to": "9999-12-31",
+    "manifest_sha512_verified": false,
+    "actual_sha512": "d884e41823cb12efce6117b48cdbb29d66c292bf85fd6266cc06cd5da0146a7e26c2f999ddea3512fa2f4f590f58e438e441cd8d4cfb4880ef9b4e502407ab61",
+    "expected_sha512": "55dbdc9e192f398b9aa89e5696c5956799e32dc99436d6fdf27b9715e24040ff186507087c7234246bc22c7357f46d37455fa1c27e21893b9db3ddbf0f37367b",
+    "note": "Single applicable official body; language versions kept distinct. Used for definitional scope only.",
+    "same_bytes_as_prior_published_text_comparison": true,
+    "prior_comparison_evidence": "sources/review-batch13-treaty-evidence.json",
+    "catalog_digest_discrepancy": "Unresolved metadata/body authentication limitation; not a missing statutory text. No successful catalog digest authentication claimed."
+  },
+  {
+    "id": "BWBV0001519",
+    "effective_version": "2002-03-09_0",
+    "effective_from": "2002-03-09",
+    "effective_to": "9999-12-31",
+    "manifest_sha512_verified": false,
+    "actual_sha512": "955a86e9f05bb7020f74b1e450636a77323d50ff51a63d0caca1cbda3f0d9fd210d62662f1e8e70321dcd0055906b1787e4cd56c54bb917e4964d9f3b5f4fc2b",
+    "expected_sha512": "ef5e4d42a9c0e511e44d2fdfc5c25a6db233b189e3310b915e1bc743abed97e57110eb69acca9be9ad00f041416e14195479ef58217f99d1ab7e800c330a7772",
+    "note": "Single applicable official body; language versions kept distinct. Used for definitional scope only.",
+    "same_bytes_as_prior_published_text_comparison": true,
+    "prior_comparison_evidence": "sources/review-batch13-treaty-evidence.json",
+    "catalog_digest_discrepancy": "Unresolved metadata/body authentication limitation; not a missing statutory text. No successful catalog digest authentication claimed."
+  },
+  {
+    "id": "BWBV0002868",
+    "effective_version": "2010-08-19_0",
+    "effective_from": "2010-08-19",
+    "effective_to": "9999-12-31",
+    "manifest_sha512_verified": false,
+    "actual_sha512": "5c4a2127945d9b88fbf76e030216758b51132bf7d289c0ad0b121fe6da2e7cca5d3eb327335a173cba4dceda7723bee049482f6bdc0518b33340e7cfd6e151d3",
+    "expected_sha512": "40b7abe4e344aa1731698b7085fa74911d35b1c73bdbe8c09b5275e3970c2f1d6da26dcb9006db14ee6c71bad09b6c494f1c3ffb7a6e7d1ec5ac8206e2ce54a2",
+    "note": "Single applicable official body; language versions kept distinct. Used for definitional scope only.",
+    "same_bytes_as_prior_published_text_comparison": true,
+    "prior_comparison_evidence": "sources/review-batch13-treaty-evidence.json",
+    "catalog_digest_discrepancy": "Unresolved metadata/body authentication limitation; not a missing statutory text. No successful catalog digest authentication claimed."
+  }
+]
