@@ -1,0 +1,21 @@
+{
+  "searched_at": "2026-10-20T23:16:07.782261+00:00",
+  "queries": [
+    "site.rechtspraak.nl 261 bepaald feit Hoge Raad",
+    "site.rechtspraak.nl 272 geheim Hoge Raad",
+    "site.rechtspraak.nl 266 context Hoge Raad 2019",
+    "site.rechtspraak.nl 269 klacht Hoge Raad 2018",
+    "site.rechtspraak.nl 273 algemeen belang Hoge Raad"
+  ],
+  "full_judgments": [
+    "ECLI:NL:HR:2016:2291",
+    "ECLI:NL:HR:2023:275",
+    "ECLI:NL:HR:2026:32",
+    "ECLI:NL:HR:2024:302",
+    "ECLI:NL:HR:2023:610"
+  ],
+  "local_corpus": "authorities/author-a257-a273e-local-corpus.json",
+  "excluded": "PHR conclusions and commercial annotations not used as holdings; search snippets only used for discovery.",
+  "other_assigned_units": "No sufficiently relevant verified case located within this selective research; statutory analysis for those units.",
+  "limitations": "Selective topical searches; no exhaustive case-law or subsequent-treatment audit. No case invented for technical provisions."
+}

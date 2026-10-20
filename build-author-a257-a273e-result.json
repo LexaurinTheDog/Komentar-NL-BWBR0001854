@@ -1,0 +1,8 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 272 jednotkám, např.: ['a273f', 'a273g', 'a274', 'a275', 'a276', 'a277', 'a278', 'a279', 'a280', 'a281']\n",
+  "remaining_outside_scope": 272,
+  "checkpoint_renderer": "_render_checkpoint.py",
+  "complete_book_build": false
+}

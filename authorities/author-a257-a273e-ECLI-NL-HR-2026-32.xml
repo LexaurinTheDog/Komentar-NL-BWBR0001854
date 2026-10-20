@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2026:32</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-09-18T10:03:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-01-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-01-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">24/02530</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2025:1181" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2025:1181</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2024:1017" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHDHA:2024:1017</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2026-0017</rdf:li>
+          <rdf:li>NJB 2026/198</rdf:li>
+          <rdf:li>RvdW 2026/219</rdf:li>
+          <rdf:li>Gst. 2026/55 met annotatie van B.P. Martens</rdf:li>
+          <rdf:li>NJ 2026/254 met annotatie van R.J.B. Schutgens</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:32">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:32</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-01-12T14:22:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-01-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2026:32 Hoge Raad , 13-01-2026 / 24/02530</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2026:32:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Schending van ambtsgeheim door als wethouder stukken die hem onder geheimhouding zijn verstrekt, opzettelijk openbaar te maken door ambtelijke e-mail door te sturen aan derde, art. 272.1 Sr. Vrijspraak in eerste aanleg. Bewijsklachten. Kon hof e-mail aanmerken als ‘enig geheim’ a.b.i. art. 272 Sr en oordelen dat verdachte ‘wist of redelijkerwijs moest vermoeden’ dat het een geheim betrof dat hij uit hoofde van ambt moest bewaren en dat hij (voorwaardelijk) opzet had op schending van die geheimhoudingsplicht? </para>
+        <para>Informatie die ‘enig geheim’ bevat, betreft informatie die is bestemd om niet bekend te worden, behalve v.zv. deze door daartoe bevoegde personen bekend wordt gemaakt (vgl. HR:2020:1197). Bij beoordeling of sprake is van geheime gegevens kan o.m. betekenis toekomen aan aard van informatie, moment waarop en hoedanigheid waarin geheimhoudingsplichtige hiervan kennis kreeg en moment waarop geheimhoudingsplichtige deze informatie aan derde verstrekte. Dat betreffende informatie ook bij andere instantie of op andere manier dan wel op later moment verkrijgbaar zou zijn geweest, staat op zichzelf niet eraan in de weg dat sprake kan zijn van ‘geheim’ a.b.i. art. 272 Sr (vgl. HR:2003:AF2343). Opvatting dat van ‘enig geheim’ a.b.i. art. 272 Sr slechts sprake kan zijn als plicht tot geheimhouding volgt uit wettelijke bepaling, is onjuist. Uit wetsgeschiedenis van art. 272 Sr en wetsgeschiedenis van art. 54 Gemeentewet volgt dat geheimhoudingsverplichting a.b.i. art. 272 Sr ook kan voortvloeien uit ambt of beroep (vgl. HR:1955:147). Hof heeft geoordeeld dat verdachte door e-mail te verstrekken, enig geheim a.b.i. art. 272 Sr heeft geschonden, waarvan verdachte uit hoofde van zijn ambt als wethouder op de hoogte was gebracht en dat hij uit hoofde van dat ambt verplicht was te bewaren. Hof heeft dit oordeel allereerst daarop gebaseerd dat deze e-mail op dezelfde kwestie zag als conceptraadsvoorstel dat bij stukken in gesloten enveloppe was rondgestuurd aan collegeleden en dat (politiek) gevoelig lag. Verder heeft hof in aanmerking genomen dat verdachte wist dat collegevergadering besloten was, dat college pas tijdens die vergadering beslissing kon nemen over geheimhouding van conceptraadsvoorstel en dat “feitelijk mogelijkheid om voorstel geheim te verklaren” al zou zijn ontnomen als inhoud van raadsvoorstel voor die tijd openbaar werd gemaakt. Dit oordeel geeft gelet op wat hiervoor is vooropgesteld niet blijk van onjuiste rechtsopvatting en is in het licht van ’s hofs vaststellingen in zijn nadere bewijsoverwegingen toereikend gemotiveerd. Daaraan doet niet af dat o.g.v. art. 19 Gemeentewet in die bepaling bedoelde stukken en voorstellen in beginsel openbaar zijn, nu die bepaling niet van toepassing is op conceptraadsvoorstellen. Ook ’s hofs oordelen dat verdachte ‘redelijkerwijs moest vermoeden’ dat hij uit hoofde van zijn ambt verplicht was geheim te bewaren en dat hij (voorwaardelijk) opzet had op het schenden van ambtsgeheim, geven niet blijk van onjuiste rechtsopvatting en zijn toereikend gemotiveerd.  </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2026:32:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>24/02530 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>13 januari 2026</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 21 juni 2024, nummer 22-001372-23, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1972,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben de advocaten J.L. L’Homme en J.E. Kötter bij schriftuur en aanvullende schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>De advocaat-generaal M.E. van Wees heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para>De raadslieden van de verdachte hebben daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Waar het in deze zaak om gaat</title>
+    <para>Het gaat in deze zaak om het volgende, zoals samengevat in de conclusie van de advocaat generaal onder 2.1 en 2.2. De verdachte was in 2017 raadslid in de gemeenteraad van [plaats] namens [politieke partij] . Hij trad op 7 juni 2018 toe tot het college van burgemeester en wethouders. Het openbaar ministerie heeft de verdachte onder meer vervolgd wegens schending van het ambtsgeheim. De rechtbank heeft hem hiervan vrijgesproken, maar het hof heeft geoordeeld dat de verdachte wel zijn ambtsgeheim heeft geschonden. Volgens het hof hield deze schending in dat de verdachte een ambtelijke e-mail van 26 juni 2018 op 1 juli 2018 had doorgestuurd aan een persoon die niet werkzaam was voor de gemeente, maar lid was van de klankbordgroep van zijn politieke partij. Dit e-mailbericht bevatte de weergave van de afspraken die de verdachte had gemaakt met een andere wethouder over de dekking van de extra kosten voor het in ontwikkeling zijnde [A] (hierna ook: [A] of [B] ). Deze afspraken vormden de grondslag voor een raadsvoorstel dat ter vaststelling werd voorgelegd aan het college van burgemeester en wethouders in zijn vergadering van 3 juli 2018.</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het cassatiemiddel komt op tegen de bewezenverklaring van de onder 4 tenlastegelegde schending van een ambtsgeheim. </para>
+      <paragroup>
+        <nr>3.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging onder 4 bewezenverklaard dat:</para>
+          <para>“hij op 1 juli 2018 te [plaats] enig geheim waarvan hij, verdachte, redelijkerwijs moest vermoeden dat hij uit hoofde van ambt, te weten het ambt van wethouder van de gemeente [plaats] , verplicht was dat geheim te bewaren, opzettelijk heeft geschonden, immers heeft hij, verdachte, interne vertrouwelijke en/of geheime informatie, te weten:</para>
+          <para>een e-mailbericht van 26 juni 2018 met als onderwerp “afspraken wethouders [betrokkene 1] en [verdachte] inzake scopeuitbreiding [wijk 1] ”, aan [betrokkene 2] verstrekt.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op onder meer de volgende bewijsmiddelen:</para>
+          <para>“7. Een geschrift, zijnde, een e-mail d.d. 1 juli 2018. Het houdt onder meer in - zakelijk weergegeven - (...):</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="bold">Fwd: afspraken wethouders [betrokkene 1] en [verdachte] inzake scopeuitbreiding [wijk 1]</emphasis>
+          </para>
+          <para>From: [verdachte] &lt;“ /o=gemeente [plaats] /ou=exchange administrative group (...) - [verdachte] ”&gt; </para>
+          <para>To: [e-mailadres 1] </para>
+          <para>Date: Sun, 01 Jul 2018 22:04:13+0200 </para>
+          <para>
+            [betrokkene 3] ,</para>
+          <para>Dit is de dekking van 20 miljoen. Dit kan en past in de begroting. </para>
+          <para>
+            [verdachte] </para>
+          <para>Verstuurd vanaf mijn iPhone </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Begin doorgestuurd bericht: </para>
+          <para>Van: [betrokkene 4] &lt; [e-mailadres 2] &gt;</para>
+          <para>Datum: 26 juni 2018 om 16:52:55 CEST </para>
+          <para>Aan: [betrokkene 1] &lt; [e-mailadres 3] &gt;. [verdachte] </para>
+          <para>&lt; [e-mailadres 4] &gt;</para>
+          <para>Kopie: [betrokkene 5] &lt; [e-mailadres 5] &gt;, [betrokkene 7] </para>
+          <para>&lt; [e-mailadres 6] &gt;, [betrokkene 6] &lt; [e-mailadres 7] &gt;, [betrokkene 8] &lt; [e-mailadres 8] &gt;</para>
+          <para>Onderwerp: <emphasis role="bold">afspraken wethouders [betrokkene 1] en [verdachte] inzake scopeuitbreiding [wijk 1] </emphasis></para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beste [betrokkene 1] en [verdachte] (cc: BA’s, projectcontroller [betrokkene 6] en projectleider [betrokkene 8] ), </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Vanmiddag hebben we gesproken over de dekkingsmogelijkheden van de scopeuitbreiding van het [wijk 1] (....). </para>
+          <para>Hierover is het volgende afgesproken: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Uitgangspunten: </para>
+          <para>- De nieuwe coalitie heeft afgesproken dat een scope-uitbreiding van het gebouw [wijk 1] ( [A] ) kan worden uitgewerkt met een maximale investeringsomvang van € 20 mln.</para>
+          <para>- Op basis van de aanname van de projectleiding veronderstellen we dat hiervan € 1 mln. is toe te rekenen aan technische installaties en € 19 mln. aan het gebouw (onderscheid relevant i.v.m. kapitaallasten).</para>
+          <para>- Als je het gebouw activeert met structurele lasten heb je hiervoor nodig: € 0,84 mln. per jaar.</para>
+          <para>- Als je activeert met incidentele dekking: € 20 mln. Je hebt na 1 afschrijvingsronde geen middelen meer omdat je geen structurele dekking hebt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dekking </para>
+          <para>Over de dekking van de € 20 mln. is het volgende door de wethouders afgesproken:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>€ 8 mln. structureel te dekken met € 0,34 mln. Structurele kapitaallasten</para>
+          <para>o In de stelpost kapitaallasten is n.a.v. coalitiebesprekingen de facto een structurele som van € 340K vrijgehouden. Dit is afdoende om een investeringsdeel van ca. € 8 mln. te dekken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>€ 12 mln. te activeren met incidentele dekking</para>
+          <para>o € 5 mln. incidentele dekking vrijval kapitaallasten 2021.</para>
+          <para>§ Omdat het project een jaar vertraagt en in 2021 wordt opgeleverd, vallen kapitaallasten van 2021 vrij (het jaar na oplevering start je met betalen kapitaallasten). Tegelijk wordt meer bouwrente aan het project toegerekend vanwege een langere doorlooptijd. Netto houd je ca. € 5 mln. over.</para>
+          <para>o € 5 mln. uit vrijval RoBa</para>
+          <para>Vanuit het project RoBA moet toegezegd worden dat deze middelen inderdaad vrij kunnen vallen. Betreft de eerste € 5 mln. binnen de vrijval die verrekend wordt met gebiedsontwikkelingen [wijk 2] &amp; [wijk 3] (coalitieakkoord, blz 73). We nemen aan dat deze vrijval voor de gemeente naar eigen inzichten is in te zetten (en niet teruggeven moet worden aan mede-subsidianten). Deze aanname is niet voor risico wethouder Financiën. </para>
+          <para>o € 2 mln. uit Reserve Grondbedrijf</para>
+          <para>§ Kan worden ingezet als besloten wordt € 2 mln. in de bandbreedte tussen het minimum- en maximum benodigd weerstandsvermogen RGB hierdoor in te zetten.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Groet, [betrokkene 4]</para>
+          <para>Adviseur Concerncontrol / Gemeente [plaats] .</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>10. Een proces-verbaal van relaas inzake schending Ambtsgeheim raadsvoorstel [A] d.d. 23 juni 2020 van de Rijksrecherche in onderzoek Tyrus (...). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - (...) </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>als relaas van de betreffende opsporingsambtenaar: </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>E-mail [verdachte] met aantekeningen </para>
+        <para>Op vrijdag 29 Juni 2018 om 21:50 uur mailde [verdachte] een bericht, gericht aan het emailadres van [betrokkene 1] ( [e-mailadres 3] ) en in de ‘Bcc’ aan het privé e-mailadres van [betrokkene 9] ( [e-mailadres 9] ). In deze e-mail schreef [verdachte] dat hij de vier stukken had gelezen en dat hij foto’s van zijn aantekeningen had gemaakt welke hij in de bijlagen meestuurde.</para>
+        <para>Op de foto van de eerste pagina in de bijlage stond “Geheim WOB GEHEIM (...)”. Tevens was te zien dat (...) ernaast stond geschreven: “+ lid 1 sub c alleen collegeleden”. (...)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>12. Een proces-verbaal van verhoor getuige d.d. 4 februari 2020 van de Rijksrecherche in onderzoek Tyrus (...). Dit proces-verbaal houdt onder meer in -zakelijk weergegeven- (...) </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>als de op 4 februari 2020 afgelegde verklaring van [betrokkene 10] : </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Wat is uw functie binnen de gemeente [plaats] ?</para>
+        <para>A: Ik ben uitvoerend secretaris van het college van burgemeester en wethouders. (...) Dus op het moment dat de stukken moeten worden verspreid zorg ik daar ook voor. </para>
+        <para>O: Op vrijdag 29 juni 2018 werd bij diverse personen een envelop afgeleverd met diverse documenten. </para>
+        <para>(...) </para>
+        <para>V: Op welke documenten zat geheimhouding? </para>
+        <para>(...) Voordat een college een besluit genomen heeft is alles op de agenda geheim. Dat zijn alle stukken die zijn meegestuurd. Alle stukken die erop staan zijn geheim. </para>
+        <para>V: Dus als wij het goed begrijpen zijn alle stukken die in de envelop van [betrokkene 1] zaten en zijn gestuurd, geheim. Klopt dat? </para>
+        <para>A: Ja dat klopt. De agenda en de stukken van de collegevergadering zijn geheim. Tijdens de vergadering besluit het college over de voorliggende stukken. (...) </para>
+        <para>(...)</para>
+        <para>De stukken die geheim zijn gebleven zijn de Nota portefeuillehouder, het collegebesluit van het college over [A] [wijk 1] . Het raadsvoorstel en de commissiebrief zijn openbaar geworden. Het kan zijn dat bij het raadsvoorstel en de commissiebrief een aantal bijlagen zaten waar wel geheimhouding is opgelegd. </para>
+        <para>Overigens is het zo dat normaliter de agenda en de daarbij behorende stukken en documenten digitaal in de vergader informatietool ‘ibabs’ worden gezet. (...) Binnen ibabs bestaat de mogelijkheid om bepaalde stukken te voorzien van een slot waardoor een beperkt aantal personen deze stukken mogen inzien. Alleen de collegeleden, bureau gemeentesecretaris en de gemeentesecretaris zelf. </para>
+        <para>(...) mogelijkheid is analoge verzending. Dan wordt een stuk dus verspreid op papier, in een dichte envelop en wordt alleen aan de collegeleden, de gemeentesecretaris en de notulist afgegeven. Dit fysiek afgeven doen we omdat het de meest betrouwbare manier is van collegestukken verspreiden omdat je op deze manier deze stukken minder makkelijk verder kan verspreiden. (...) Het gebeurt heel zelden dat stukken fysiek worden verspreid. Het is namelijk een heel gevoelig document.</para>
+        <para>(...)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>14. Een proces-verbaal van verhoor getuige, d.d. 15 juli 2020 van de Rijksrecherche in onderzoek Tyrus (...) . Dit proces-verbaal houdt onder meer in -zakelijk weergegeven- (...): </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>als de op 15 juli 2020 afgelegde verklaring van [betrokkene 1] : </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: U heeft in uw eerdere verklaring aangegeven dat u in het vorige college als wethouder verantwoordelijk was voor Stadsontwikkeling, Wonen en [plaats] . En dat u in het huidige college verantwoordelijk bent voor Financiën, Stadsontwikkeling en [plaats] , Klopt dit? </para>
+        <para>A: Dat klopt. </para>
+        <para>(...) </para>
+        <para>V: Welke adviseurs concerncontrol kent u? </para>
+        <para>A: Degene die ik meeste spreek is [betrokkene 4] . </para>
+        <para>(...) </para>
+        <para>O: Wij tonen u een e-mail wat [betrokkene 4] op 26 juni 2018 om 16:52 uur verstuurde naar u en [verdachte] . Het onderwerp van deze e-mail is ‘afspraken [betrokkene 1] en [verdachte] inzake, scopeuitbreiding [wijk 1] ’ (Bron: 2004231530.DOG). </para>
+        <para>V: Wat kunt u over deze e-mail verklaren?</para>
+        <para>A: Dit was een belangrijk onderdeel van het raadsvoorstel. Dit gaat over het uitwerken van de dekking in het raadsvoorstel. Het is van belang dat je dit met de wethouder financiën in dit geval was dat [verdachte] afstemt. Als ik het zo zie is dit ook de dekking die in het uiteindelijke raadsvoorstel is gekomen. </para>
+        <para>V: Wat is er met de inhoud van deze e-mail gebeurd? </para>
+        <para>A: Dit was de voorbereiding op het raadsvoorstel en is uiteindelijk onderdeel gaan uitmaken van het totale raadsvoorstel. </para>
+        <para>V: Met wie mochten de geadresseerden van deze e-mail, deze e-mail delen? </para>
+        <para>A: Dit is voorbereiding van besluitvorming voor het college, dit is vertrouwelijk en dit mag je alleen delen met collega wethouders en hun ondersteuning. </para>
+        <para>O: Wij tonen u dit Raadsvoorstel (Bron.: 2006031303.DOC). </para>
+        <para>V: Wat kunt u hierover verklaren?</para>
+        <para>A: Hieruit kun je opmaken dat de voorbereiding van de dekking zoals omschreven in de email is terug gekomen in het raadsvoorstel </para>
+        <para>V: Wat was uw rol bij dit raadsvoorstel? </para>
+        <para>A: Ik was verantwoordelijk wethouder voor het [A] , dat viel en valt in mijn portefeuille. (...). </para>
+        <para>V: Dit Raadsvoorstel was tot de raadsvergadering van 12 juli 2018 nog geheim. Klopt dat? </para>
+        <para>A: Nee, het was tot het collegevergadering geheim. Ik heb de datum in mijn agenda opgezocht en het de collegevergadering hierover was op 3 juli 2018. Ik wil nog meegeven dat in ons vergadersysteem IBABS, de data en de stukken van de collegevergaderingen staan. Ik laat u zien dat voor de stukken van de collegevergadering van het [A] van 3 juli 2018 een ‘slotje’ staat. Met dat slotje wordt het aantal personen die de stukken mogen inzien verkleind. Bovendien staat ernaast vermeld ‘alleen collegeleden op papier’. Dit geeft aan hoe vertrouwelijk deze stukken zijn. </para>
+        <para>(...)</para>
+        <para>O: De eerder aan u getoonde e-mail van 26 juni 2018 te 16:52 uur naar u en naar [verdachte] is op 1 juli 2018 doorgestuurd naar / verstrekt aan iemand die werkzaam is in de vastgoedsector (Bron: 2004231530.DOC) </para>
+        <para>V: Wat vindt u daarvan? </para>
+        <para>A: Dat hoort niet. </para>
+        <para>(...) </para>
+        <para>In de voorbereiding is dit vertrouwelijk want het kan tot het college nog veranderen. En daarnaast geeft het inzicht over hoe wij met elkaar puzzelen om het project financieel dekkend te krijgen. </para>
+        <para>V: Ons is gebleken dat [betrokkene 3] [betrokkene 2] , directeur van [C] BV deze informatie heeft ontvangen. (...) Had [C] BV een rol bij de bouw van het [A] project? </para>
+        <para>A: Volgens mij niet.”</para>
+      </parablock>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <parablock>
+          <para>Het hof heeft over de bewezenverklaring verder overwogen:</para>
+          <para>“4. Feit 4: schending ambtsgeheim</para>
+          <para>De verdachte wordt verweten – kort gezegd – dat hij tussen 29 juni en 4 juli 2018 (alleen of met anderen) een geheim waarvan hij wist of redelijkerwijs moest vermoeden dat hij dat uit hoofde van zijn wethouderschap verplicht was te bewaren, opzettelijk heeft geschonden, omdat </para>
+          <para>- hij delen van het (concept-)besluit van het college over [A] [wijk 1] (hierna: het [A] ) en </para>
+          <para>- een e-mail van 26 juni 2018 met afspraken van hem en [betrokkene 1] over scopeuitbreiding [A] </para>
+          <para>per e-mail aan [betrokkene 11] en/of [betrokkene 2] heeft verstrekt en/of met hen of anderen heeft besproken.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>Juridisch kader</para>
+        <para>In artikel 272 Sr is strafbaar gesteld: </para>
+        <para>“hij die enig geheim, waarvan hij weet of redelijkerwijs moet vermoeden dat hij uit hoofde van ambt, beroep of wettelijke voorschrift dan wel vroeger ambt of beroep verplicht is het te bewaren, opzettelijk schendt”. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het “schenden” van enig geheim in de zin van artikel 272 Sr moet worden uitgelegd als het verstrekken van geheime gegevens aan een ander die tot kennisneming daarvan onbevoegd is. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het “enig geheim” in artikel 272 Sr betreft al hetgeen bestemd is om niet bekend te worden (dus niet voor openbaring bestemd is) anders dan ter plaatse waar het door bevoegden wordt medegedeeld. Daarbij gaat het niet alleen om de inhoud van de informatie, maar is (ook) de bestemming daarvan van belang. Bij de beoordeling of van enig geheim sprake is, dient daarom niet alleen acht te worden geslagen op de aard van de informatie, maar ook op het moment waarop en de hoedanigheid waarin de geheimhoudingsplichtige hiervan kennis kreeg. Dat de aan een derde verschafte informatie voor die derde ook bij andere instanties of op andere wijze of op een later moment verkrijgbaar zou zijn geweest, staat op zichzelf niet eraan in de weg dat sprake kan zijn van een “geheim” in de zin van artikel 272 Sr. Ook openbare informatie kan dus onder omstandigheden een “geheim” betreffen dat op de voet van artikel 272, eerste lid, Sr dient te worden bewaard. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In de tenlastegelegde periode gold de Gedragscode Integriteit burgemeester en wethouders van de gemeente [plaats] 2016, die de raad in [plaats] had vastgesteld, bepaalde in artikel 3: </para>
+        <para>“(...). </para>
+        <para>3. Een bestuurder verstrekt geen informatie die vertrouwelijk of geheim is. </para>
+        <para>4. Een bestuurder maakt niet ten eigen bate of ten bate van zijn persoonlijke betrekkingen gebruik van in de uitoefening van het ambt verkregen informatie. </para>
+        <para>(...)” </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>Verweer </para>
+        <para>De verdediging stelt dat er geen sprake is van opzettelijke schendingen van één of meer geheimhoudingsplichten door de verdachte.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ten aanzien van delen van het (concept-)collegebesluit [A] geldt volgens de verdediging dat de [A] ( [B] ) het meest politiek gevoelig dossier betrof, waar al tijdens de coalitie onderhandelingen uitvoerig over gesproken is. Er gold slechts geheimhouding voor het concept collegebesluit en de nota portefeuillehouders. Het ‘raadsvoorstel’ is op geen enkel moment geheim geweest. Het college kon op grond van de Gemeentewet en artikel 10 WOB geheimhouding opleggen, maar daarvan was vóór 3 juli 2018 voor geen van de [A] stukken sprake, aldus betoogt de verdediging. </para>
+        <para>(...)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>Oordeel hof</para>
+        <para>Het hof dient de vraag te beantwoorden of, gelet op de omstandigheden van het geval, de verdachte uit hoofde van zijn ambt als wethouder tussen 29 juni 2018 en 9 juli 2019 verplicht was tot geheimhouding van de in de tenlastelegging genoemde informatie. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Zoals hiervoor overwogen vervulde de verdachte in de tenlastegelegde periode het ambt van wethouder. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In het destijds geldende artikel 55 (oud) Gemeentewet, was geregeld, voor zover hier van belang, dat het college op grond van een belang genoemd in artikel 10 van de Wet openbaarheid van bestuur (hierna: WOB), geheimhouding kon opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van stukken die aan het college werden overgelegd. Artikel 10 van de WOB noemde een aantal specifieke belangen in lid 2, onder a t/m g, zoals b: de economische of financiële belangen van publiekrechtelijke lichamen, f: het belang van de geadresseerde om als eerste kennis te kunnen nemen van de informatie en g: het voorkomen van onevenredige bevoordeling of benadeling van personen. Het opleggen van geheimhouding vond plaats tijdens de vergadering door het college (lid 1) of vooraf door de burgemeester of een commissie (lid 2) en duurde voort totdat de geheimhouding werd opgeheven.</para>
+        <para>Een verplichting tot geheimhouding van bepaalde informatie kan ook besloten liggen in het uitoefenen van een functie in het openbaar bestuur, zoals een functie als wethouder. Dat volgt ook uit de eed die wethouders afleggen en uit de gedragscode Integriteit B&amp;W [plaats] 2016, die op grond van artikel 41c lid 2 van de Gemeentewet was vastgesteld. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Anders dan de verdediging kennelijk veronderstelt betekent het feit dat er (nog) geen geheimhouding was opgelegd op grond van de Gemeentewet, dus op zichzelf niet dat er voor stukken of informatie geen geheimhouding als bedoeld in artikel 272 Sr kan gelden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>het (concept-) collegebesluit</para>
+        <para>Uit het verhandelde ter terechtzitting en het procesdossier leidt het hof het navolgende af.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Sinds 2017 wordt er in [plaats] gebouwd aan een nieuw [A] [wijk 1] ( [A] ). Wethouder [betrokkene 1] (hierna: [betrokkene 1] ) was toentertijd de verantwoordelijk wethouder voor dit complex.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op vrijdag 29 juni 2018 ontvingen de wethouders, dus ook de verdachte en [betrokkene 9] , (tegelijk met de andere collegeleden) van wethouder [betrokkene 1] een e-mail waarin [betrokkene 1] mededeelde dat alle stukken over het [A] voor de vergadering van het college van aanstaande dinsdag (3 juli 2018) waren voorbereid en dat de burgemeester en wethouders eind van die middag een enveloppe met de papieren set zouden ontvangen. Diezelfde dag is een dichte enveloppe bij hen afgeleverd. Daarin zaten onder meer een (concept)besluit van het college getiteld ‘Besluit College’ met daarop: ‘Geheim’ en als onderwerp: ‘ [A] - gebiedsontwikkeling [wijk 1] ’ (hierna: het [A] ), en een (concept) ‘Raadsvoorstel van het college’ inzake het [A] over scopeuitbreiding van het [A] , de stijging van de investering daardoor met € 20 miljoen en de wijze waarop voor die € 20 miljoen dekking beschikbaar is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De verdachte heeft op documenten uit de enveloppe aantekeningen gemaakt. Vervolgens heeft hij foto’s gemaakt van het (concept)besluit van het college of een deel daarvan (zijn foto van de eerste pagina met daarop ‘Geheim’ zit in het strafdossier) en van delen van het (concept)raadsvoorstel waarop zijn aantekeningen stonden. Hij heeft die foto’s op 29 juni 2018 gemaild aan [betrokkene 1] en bcc aan [betrokkene 9] .</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Naar het oordeel van het hof schond de verdachte daarmee niet zijn ambtsgeheim. Immers [betrokkene 9] en [betrokkene 1] maakten deel uit van het college. [betrokkene 9] had, met als de verdachte, het (concept)besluit en (concept)raadsvoorstel in de enveloppe van [betrokkene 1] ontvangen ter voorbereiding van de aanstaande collegevergadering. Tussen hen waren deze stukken niet geheim, zij mochten daarover van gedachten wisselen en de verdachte mocht aan hen zijn aantekeningen toesturen. Er blijkt ook niet dat de verdachte (van tevoren) op de hoogte was van het delen van dit stuk door [betrokkene 9] , of op andere wijze van een bijdrage daaraan, zodat ook van medeplegen geen sprake is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>e-mail van 26 juni 2018</para>
+        <para>Drie dagen voor het toezenden van voornoemde stukken, vond op 26 juni 2018 een bespreking plaats tussen de wethouders [verdachte] en [betrokkene 1] , in het bijzijn van onder meer [betrokkene 4] , adviseur Concerncontrol van de gemeente. Op dezelfde dag heeft deze gemeenteambtenaar een e-mail opgesteld getiteld “afspraken wethouders [betrokkene 1] en [verdachte] inzake scopeuitbreiding [wijk 1] ”. Deze e- mail betrof een scopeuitbreiding van € 20 miljoen voor het [A] en bevatte de afspraken die de wethouders [betrokkene 1] en de verdachte die middag hadden gemaakt over de dekking van die € 20 miljoen ter voorbereiding van het hiervoor genoemde (concept)raadsvoorstel. In de e-mail werd uiteengezet hoe die € 20 miljoen gedekt zou worden. [betrokkene 4] heeft deze e-mail gestuurd aan de verdachte, [betrokkene 1] en enkele bij het [A] betrokken ambtenaren. De inhoud van deze e-mail is na 26 juni 2018 gebruikt voor het opstellen van voornoemd (concept)raadsvoorstel.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          [betrokkene 9] heeft op zaterdag 30 juni 2018 het eerder hierboven genoemde e-mailbericht van de verdachte met diens foto’s van delen van het (concept)besluit van het college en het (concept) raadsvoorstel, naar [betrokkene 2] en [betrokkene 11] doorgemaild. </para>
+        <para>Diezelfde dag heeft [betrokkene 2] aan de verdachte gemaild dat hij de dekking voor € 20 miljoen ontwerpverbetering en het ‘subsidieverhaal’ nog niet begrijpt. Daarop heeft de verdachte op 1 juli 2018 de in de tenlastelegging genoemde e-mail van [betrokkene 4] van 26 juni 2018 doorgestuurd aan [betrokkene 2] .</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op de collegevergadering van 3 juli 2018 is zowel het collegebesluit als het raadsvoorstel na enkele tekstuele aanpassingen geaccordeerd. Verder is in die vergadering het collegebesluit als geheim geclassificeerd in de zin van artikel 55 Gemeentewet. Het raadsvoorstel is openbaar en gepubliceerd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof komt tot een bewezenverklaring omdat uit de feiten en omstandigheden zoals die blijken uit het procesdossier en het verhandelde ter terechtzitting blijkt dat de verdachte met het doorsturen van (de inhoud van) de e-mail van bestuursadviseur [betrokkene 4] , zijn ambtsgeheim schond. Op de vragen van [betrokkene 2] stuurde de verdachte de e-mail die voornoemde adviseur Concerncontrol van de gemeente eerder had gemaakt van een bespreking met daarin afspraken tussen hem en [betrokkene 1] . Deze e-mail zag op dezelfde kwestie als het raadsvoorstel, dat bij de [A] -stukken in de enveloppe zat en lag (politiek) gevoelig. De inhoud van deze afspraken vormde een belangrijk onderdeel van het raadsvoorstel.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De verdachte wist dat [betrokkene 1] het raadsvoorstel met de andere stukken in de gesloten envelop had rondgestuurd aan de collegeleden in hun hoedanigheid van burgemeester en wethouders ten behoeve van de collegevergadering van 3 juli 2018. Hij wist ook (of behoorde te weten) dat die vergadering besloten was (net als alle collegevergaderingen, op grond van artikel 54 Gemeentewet; en anders dan raadsvergaderingen). Hij had redelijkerwijs moeten vermoeden dat de inhoud van de stukken vertrouwelijk was en ook dat het raadsvoorstel nog geheim zou kunnen worden verklaard en aan hem en [betrokkene 9] vertrouwelijk was toegekomen om (eerst) alleen met de collegeleden op de besloten vergadering van 3 juli 2018 te bespreken. Daarbij is niet doorslaggevend voor vertrouwelijkheid dat het college op 29 juni 2018 nog niet tot al dan niet geheimhouding had besloten, want een beslissing tot geheimhouding kon het college pas nemen op het eerste moment waarop het – na het concipiëren en rondsturen van het raadsvoorstel – bijeen zou komen. Dat was de eerstvolgende vergadering op 3 juli 2018, de vergadering waartoe [betrokkene 1] het raadsvoorstel nu juist ook (uiterlijk de vrijdag ervoor) op papier en in een gesloten enveloppe aan alle collegeleden had toegestuurd. De verdachte had ook moeten begrijpen dat het voor een goede geheimhoudingsbeslissing belangrijk was dat de burgemeester en wethouders over de inhoud van het (mogelijke) raadsvoorstel als eersten (en enigen) kennis konden nemen. Zou de inhoud van het raadsvoorstel al openbaar gemaakt zijn voordat een beslissing over al dan niet geheimhouding van het raadsvoorstel zou worden genomen, dan zou feitelijk de mogelijkheid om het voorstel geheim te verklaren al zijn ontnomen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Daarnaast geldt in het algemeen dat in de fase waarin de beleidsvoorbereiding zich bevindt als het college zich erover buigt, in het college een open overleg mogelijk moet zijn over veelal onvoldragen standpunten en voorstellen. Het naar buiten brengen van – mogelijk onvoldragen – standpunten van enkele wethouders, waarover (de overige leden van) het college nog moet beraadslagen en beslissen, frustreert dat. Toen (en zodra) die afspraken onderdeel werden van het raadsvoorstel dat in de collegevergadering besproken moest worden, behoorde het tot de vertrouwelijke informatie waarover het college eerst vrij moest kunnen beraadslagen en beslissen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De verdachte mocht de e-mail die informatie bevatte die een belangrijk onderdeel van het betreffende raadsvoorstel is geworden dan ook niet doorsturen aan derden, niet-collegeleden. Hij had (tenminste) redelijkerwijs moeten vermoeden dat hij uit hoofde van zijn wethouderschap verplicht was om deze e-mail op dat moment geheim te houden totdat in het college over het raadsvoorstel zou zijn gesproken en totdat over de geheimhouding door het college negatief zou zijn beslist. [betrokkene 2] was een derde met wie (de informatie in) de e-mail niet gedeeld mocht worden. Dat [betrokkene 2] lid van de klankbordgroep was, maakt niet dat hij tot de kring behoorde met wie de verdachte de e-mail mocht delen. [betrokkene 2] was geen ambtenaar binnen de gemeente met betrokkenheid bij het [A] -project en hij was niet beëdigd of zelf tot (verdere) geheimhouding verplicht. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof is aldus van oordeel dat dit deel van de tenlastelegging bewezen kan worden verklaard. Niet gebleken is dat sprake is geweest van bewuste en nauwe samenwerking zodanig dat sprake was van medeplegen.”</para>
+      </parablock>
+      <paragroup>
+        <nr>3.3.1</nr>
+        <parablock>
+          <para>De volgende bepalingen zijn van belang:</para>
+          <para>- artikel 272 lid 1 van het Wetboek van Strafrecht (hierna: Sr), zoals dat luidde ten tijde van het bewezenverklaarde feit en dat nadien ten aanzien van het strafmaximum is gewijzigd:</para>
+          <para>“Hij die enig geheim waarvan hij weet of redelijkerwijs moet vermoeden dat hij uit hoofde van ambt, beroep of wettelijk voorschrift dan wel van vroeger ambt of beroep verplicht is het te bewaren, opzettelijk schendt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.”</para>
+          <para>- artikel 54 Gemeentewet:</para>
+          <para>“1. De vergaderingen van het college worden met gesloten deuren gehouden, voor zover het college niet anders heeft bepaald.</para>
+          <para>2. Het reglement van orde voor de vergaderingen kan regels geven omtrent de openbaarheid van de vergaderingen van het college.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <parablock>
+          <para>De geschiedenis van de totstandkoming van artikel 272 Sr houdt in:</para>
+          <para>“De verpligting tot geheimhouding spruit (...) voort uit de wet of den aard van den werkkring, waarin men geplaatst is (...)”</para>
+          <para>(vgl. H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel II, 1891, p. 425 (memorie van toelichting))</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <parablock>
+          <para>De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de Gemeentewet houdt onder meer in:</para>
+          <para>“Artikel 54 </para>
+          <para>Hoewel ook bij de beleidsvoorbereiding waar mogelijk naar openbaarheid moet worden gestreefd, is er een fase in de beleidsvoorbereiding waarin open overleg over veelal nog zeer onvoldragen standpunten en voorstellen noodzakelijk is. Deze situatie doet zich vooral met betrekking tot het college van burgemeester en wethouders veelvuldig voor. In dergelijke gevallen zou openbaarheid van het beraad remmend kunnen werken. </para>
+          <para>In dit verband zij erop gewezen dat ook de Wob ten aanzien van stukken die zijn opgesteld met het oog op de hiervoor genoemde vormen van beraad een uitzondering op de openbaarmakingsplicht inhoudt. Op grond daarvan is in artikel 54 gekozen voor het in beginsel handhaven van het huidige stelsel van beslotenheid van de vergaderingen van het college van burgemeester en wethouders, zij het dat het college in de door ons voorgestelde regeling, anders dan nu het geval is, daarvan kan afwijken en zulks ook op meer structurele wijze zal kunnen regelen in het reglement van orde van de vergaderingen van het college. In de huidige gemeentewet is niet vastgelegd dat de vergaderingen van het college besloten moeten zijn. Algemeen wordt echter aangenomen dat dit bepaald de bedoeling van de wetgever is. Wij achten het gewenst dat de wet zelf een duidelijke regeling bevat inzake de openbaarheid van vergaderingen van het college. Artikel 54 strekt daartoe.”</para>
+          <para>(Kamerstukken II 1985/86, 19403, nr. 3, p. 95)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.4</nr>
+        <para>De tenlastelegging onder 4 is toegesneden op artikel 272 Sr. Daarom moet worden aangenomen dat de in de tenlastelegging en de bewezenverklaring voorkomende woorden ‘enig geheim’ zijn gebruikt in de betekenis die deze woorden hebben in die bepaling. Informatie die ‘enig geheim’ bevat, betreft informatie die is bestemd om niet bekend te worden, behalve voor zover deze door daartoe bevoegde personen bekend wordt gemaakt (vgl. HR 7 juli 2020, ECLI:NL:HR:2020:1197, rechtsoverweging 3.2.2). Bij de beoordeling of sprake is van geheime gegevens kan onder meer betekenis toekomen aan de aard van de informatie, het moment waarop en de hoedanigheid waarin de geheimhoudingsplichtige hiervan kennis kreeg en het moment waarop de geheimhoudingsplichtige deze informatie aan een derde verstrekte. Dat de betreffende informatie ook bij een andere instantie of op andere manier dan wel op een later moment verkrijgbaar zou zijn geweest, staat op zichzelf niet eraan in de weg dat sprake kan zijn van een ‘geheim’ als bedoeld in artikel 272 Sr (vgl. HR 11 februari 2003, ECLI:NL:HR:2003:AF2343 met betrekking tot informatie die (deels) verkrijgbaar was bij een andere instantie).</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het cassatiemiddel berust onder meer op de opvatting dat van ‘enig geheim’ als bedoeld in artikel 272 Sr slechts sprake kan zijn als de plicht tot geheimhouding volgt uit een wettelijke bepaling, zoals in dit geval de Gemeentewet in samenhang met artikel 10 van de Wet openbaarheid van bestuur (oud). Deze opvatting is onjuist. Uit de onder 3.3.2 en 3.3.3 weergegeven wetsgeschiedenis komt naar voren dat een geheimhoudingsverplichting als bedoeld in die bepaling ook kan voortvloeien uit een ambt of beroep (vgl. HR 6 december 1955, ECLI:NL:HR:1955:147). Het cassatiemiddel faalt in zoverre.</para>
+      <paragroup>
+        <nr>3.5.1</nr>
+        <para>Het hof heeft het volgende vastgesteld. De verdachte vervulde in de tenlastegelegde periode het ambt van wethouder. Hij heeft daartoe een eed, die onder meer strekte tot geheimhouding van vertrouwelijke gegevens, afgelegd. De verdachte heeft op 26 juni 2018 samen met [betrokkene 1] , die ook wethouder van de gemeente [plaats] was, in bijzijn van gemeenteambtenaar [betrokkene 4] een overleg gehad over de ‘scopeuitbreiding’ van € 20 miljoen voor de bouw van het [A] [wijk 1] (ook wel aangeduid als [A] of [B] ). Tijdens dat overleg hebben de wethouders ter voorbereiding van het (concept)raadsvoorstel afspraken gemaakt over de dekking van dat bedrag. [betrokkene 4] heeft vervolgens op diezelfde dag een e-mail opgesteld met die afspraken en de e-mail toegezonden aan de verdachte, [betrokkene 1] en enkele andere bij het [A] betrokken ambtenaren. De inhoud van de e-mail is gebruikt voor het opstellen van het (concept)raadsvoorstel. <?linebreak?>Op 29 juni 2018 ontvingen alle wethouders een dichte enveloppe met stukken voor de besloten collegevergadering van 3 juli 2018 die betrekking hadden op de bouw van het [A] . In de enveloppe zat onder meer een (concept)besluit van het college met daarop “Geheim (...)” en een (concept)raadsvoorstel over het [A] en de ‘scopeuitbreiding’ daarvan, de stijging van de investering daardoor met € 20 miljoen en de wijze waarop die € 20 miljoen zou moeten worden gedekt. In de digitale vergader-informatietool iBabs zijn de stukken van de collegevergadering van het [A] van 3 juli 2018 voorzien van een ‘slotje’, met daarnaast de vermelding ‘alleen collegeleden op papier’.<?linebreak?>De verdachte heeft op 1 juli 2018 de door [betrokkene 4] opgestelde e-mail van 26 juni 2018 doorgestuurd naar [betrokkene 2] . [betrokkene 2] was lid van de klankbordgroep van [politieke partij] maar geen ambtenaar binnen de gemeente met betrokkenheid bij het [A] -project. Tijdens de besloten collegevergadering van 3 juli 2018 is het collegebesluit geaccordeerd en als geheim geclassificeerd. Ook het raadsvoorstel is geaccordeerd, maar dat werd daarna openbaar en gepubliceerd.<?linebreak?>Het hof heeft verder vastgesteld dat ten tijde van het bewezenverklaarde binnen de gemeente de agenda van de collegevergadering en de daarbij behorende stukken als geheim werden beschouwd, (in ieder geval) tot het moment dat een college een besluit had genomen over de voorliggende stukken (bewijsmiddel 12 en 14).</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2</nr>
+        <para>Het hof heeft geoordeeld dat de verdachte door op 1 juli 2018 aan [betrokkene 2] de e-mail van 26 juni 2018 te verstrekken, enig geheim als bedoeld in artikel 272 Sr heeft geschonden, waarvan de verdachte uit hoofde van zijn ambt als wethouder op de hoogte was gebracht en dat hij uit hoofde van dat ambt verplicht was te bewaren. Het hof heeft dit oordeel allereerst daarop gebaseerd dat deze e-mail op dezelfde kwestie zag als het conceptraadsvoorstel dat op 29 juni 2018 bij de [A] -stukken in de gesloten enveloppe was rondgestuurd aan de collegeleden en dat (politiek) gevoelig lag. Verder heeft het hof in aanmerking genomen dat de verdachte wist dat de collegevergadering van 3 juli 2018 besloten was, dat het college pas tijdens die vergadering een beslissing kon nemen over de geheimhouding van het conceptraadsvoorstel en dat “feitelijk de mogelijkheid om het voorstel geheim te verklaren” al zou zijn ontnomen als de inhoud van het raadsvoorstel voor die tijd openbaar werd gemaakt. Dit oordeel van het hof geeft, gelet op wat onder 3.3.4 is vooropgesteld, niet blijk van een onjuiste rechtsopvatting en is, in het licht van de onder 3.5.1 weergegeven vaststellingen van het hof, toereikend gemotiveerd. Anders dan in de toelichting op het cassatiemiddel is gesteld, doet daaraan niet af dat op grond van artikel 19 Gemeentewet de in die bepaling bedoelde stukken en voorstellen in beginsel openbaar zijn, nu die bepaling niet van toepassing is op conceptraadsvoorstellen.<?linebreak?>Ook de oordelen van het hof dat de verdachte ‘redelijkerwijs moest vermoeden’ dat hij uit hoofde van zijn ambt verplicht was het geheim te bewaren en dat hij (voorwaardelijk) opzet had op het schenden van het ambtsgeheim, geven niet blijk van een onjuiste rechtsopvatting en zijn, gelet op de onder 3.5.1 weergegeven vaststellingen, toereikend gemotiveerd.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Het cassatiemiddel faalt in al zijn onderdelen.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het tweede cassatiemiddel</title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren A.L.J. van Strien en T.B. Trotman, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">13 januari 2026</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

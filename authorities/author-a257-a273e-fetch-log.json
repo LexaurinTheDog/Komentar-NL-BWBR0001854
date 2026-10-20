@@ -1,0 +1,52 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2016:2291",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2291",
+    "accessed_at": "2026-10-20T23:11:44.401494+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "b2bc4cbf1f57b0bb6bd8968c6eb05a13c90cbe6c7cce6730d779baa662664f93",
+    "path": "authorities/author-a257-a273e-ECLI-NL-HR-2016-2291.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2023:275",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:275",
+    "accessed_at": "2026-10-20T23:11:44.541975+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "40c174aed82e984150f14c582522708563a3eed79471d0b00be0bbcd9aedf7d7",
+    "path": "authorities/author-a257-a273e-ECLI-NL-HR-2023-275.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2026:32",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:32",
+    "accessed_at": "2026-10-20T23:11:44.749144+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "48dbc4d8c0a7af59e1aab4a87f99f6a56b28161e12a41800aa7b52dc5b1adf18",
+    "path": "authorities/author-a257-a273e-ECLI-NL-HR-2026-32.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2024:302",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:302",
+    "accessed_at": "2026-10-20T23:11:44.921860+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "53cec443dc574f614ed0d8b45d5b93704f74a9348af3e4adb8ca3ab832726f17",
+    "path": "authorities/author-a257-a273e-ECLI-NL-HR-2024-302.xml",
+    "fulltext_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2023:610",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:610",
+    "accessed_at": "2026-10-20T23:11:45.130885+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "853baa8c79d8c35b07ab6589f647c9bb03db1fccd677d01bef5e1e05249e4d85",
+    "path": "authorities/author-a257-a273e-ECLI-NL-HR-2023-610.xml",
+    "fulltext_valid": true
+  }
+]

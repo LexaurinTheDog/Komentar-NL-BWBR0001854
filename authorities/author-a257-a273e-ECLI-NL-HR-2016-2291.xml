@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2016:2291</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T04:12:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-10-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-10-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/06522</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2016:708" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2016:708, Gevolgd</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=261">Wetboek van Strafrecht 261</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2016/1954</rdf:li>
+          <rdf:li>RvdW 2016/1074</rdf:li>
+          <rdf:li>NJ 2016/478 met annotatie van N. Keijzer</rdf:li>
+          <rdf:li>SR-Updates.nl 2016-0371 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NbSr 2016/229 met annotatie van mr. dr. J.S. Nan</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:2291">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:2291</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-10-11T13:39:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-10-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2016:2291 Hoge Raad , 11-10-2016 / 14/06522</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2016:2291:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Smaad; “postdief”, art. 261.1 Sr. Falende bewijsklacht. Het oordeel van het hof dat de in de bewezenverklaring voorkomende uiting "[Betrokkene] van Sandds B.V. is een postdief" de tenlastelegging van een "bepaald feit" ex art. 261, eerste lid, Sr oplevert, geeft niet blijk van een onjuiste rechtsopvatting (ECLI:NL:HR:2016:1198). Dat oordeel is ook niet onbegrijpelijk, in aanmerking genomen het kennelijke oordeel van het hof dat die uiting erop neerkomt dat de aangeefster i.h.k.v. de uitoefening van haar werkzaamheden voor het postvervoerbedrijf Sandd B.V. poststukken heeft gestolen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2016:2291:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>11 oktober 2016</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/06522</para>
+    <para>ABO/LBS</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para> </para>
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof 's-Hertogenbosch van 4 december 2014, nummer 20/003052-13, in de strafzaak tegen:</para>
+    </parablock>
+    <parablock>
+      <para>
+        <emphasis role="underline">
+          [verdachte]
+        </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1964.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft Th.J. Kelder, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.	</para>
+      <para>	De Advocaat-Generaal P.C. Vegter heeft geconcludeerd tot verwerping van het beroep. </para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel klaagt over het oordeel van het Hof dat sprake was van tenlastelegging van een "bepaald feit" in de zin van art. 261 Sr. </para>
+      <para />
+      <paragroup>
+        <nr>2.2.1.</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+          <para>"hij op 15 februari 2012 te Beek en Donk, gemeente Laarbeek opzettelijk de goede naam van [betrokkene] heeft aangerand door telastlegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, immers heeft verdachte met voormeld doel, duidelijk voor een ieder zichtbaar, geschriften met de tekst " [betrokkene] van Sandds B.V. is een postdief" voor zijn ramen gehangen."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2.</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+          <para>"1. Het proces-verbaal van aangifte van [betrokkene] , op 17 februari 2012 opgemaakt en ondertekend door agent [verbalisant 1] (ambtsbelofte) en inspecteur [verbalisant 2] (ambtseed), dossierblz. 3 - 8, voor zover dit, zakelijk weergegeven, inhoudt:</para>
+          <para>(dossierblz. 3)</para>
+          <para>Ik ben [betrokkene] en ik wil aangifte doen van smaad.</para>
+          <para>(dossierblz. 4)</para>
+          <para>Ik werk momenteel bij Sandd B.V. als postbode. Ik bezorg in de wijk waar ik woon. [verdachte] is woonachtig aan de [a-straat 1] te Beek en Donk. Ik woon op loopafstand van [verdachte] .</para>
+          <para>(dossierblz. 6)</para>
+          <para>Op 15 februari 2012 zag ik dat er een poster van ongeveer 100 centimeter bij 80 centimeter groot op de voorgevel van de [a-straat 1] te Beek en Donk was geplakt. Ik zag dat er in totaal drie posters waren geplakt. Ik zag staan " [betrokkene] [het hof begrijpt: [betrokkene] ] van Sandds B.V. is een postdief". Ik zag dat deze tekst in grote koeienletters op geel papier was geschreven. </para>
+          <para>Mijn naam is ten schande gebracht door [verdachte] . Ik ben helemaal geen postdief. Als hij zijn post wil hebben, dan krijgt hij deze gewoon, maar dat wil hij niet. De posters zijn voor iedereen die voorbij zijn woning komt zichtbaar en duidelijk te lezen.</para>
+          <para>2. Het proces-verbaal van bevindingen d.d. 6 maart 2012, op ambtseed opgemaakt en ondertekend door brigadier [verbalisant 3] , dossierblz. 9 - 10a, voor zover dit, zakelijk weergegeven, inhoudt:</para>
+          <para>(dossierblz. 10)</para>
+          <para>Op 15 februari 2012 zag [betrokkene] dat er bij [verdachte] op de voorgevel een drietal posters op de ramen waren geplakt met de tekst [betrokkene] van Sandds B.V. is een postdief. Opmerking verbalisant: de naam [betrokkene] werd hier foutief geschreven. Dit moet [betrokkene] zijn. Dit is de meisjesnaam van genoemde aangeefster [betrokkene] .</para>
+          <para>Hierbij gevoegd wordt een proces-verbaal van bevindingen opgemaakt door collega's van Gemert-Laarbeek. Zij hebben deze posters op 15 februari 2015 zien hangen op de ramen in de voorgevel van de woning van [verdachte] , zijnde perceel [a-straat 1] te Beek en Donk, gemeente Laarbeek. Door het gedrag van deze [verdachte] voelt aangeefster zich ernstig in haar eer en goede naam aangetast vanwege het aanbrengen van genoemde posters met de omschreven tekst. Deze tekst was heel duidelijk te lezen. </para>
+          <para>De [a-straat 1] maakt deel uit van een woonwijk, waarbij de woningen kort bij elkaar zijn gebouwd en waar veelvuldig de buurtbewoners doorheen wandelen dan wel rijden.</para>
+          <para>3. Het proces-verbaal van bevindingen d.d. 28 februari 2012, opgemaakt en ondertekend door de brigadiers [verbalisant 4] (ambtsbelofte) en [verbalisant 5] (ambtseed), dossierblz. 11, voor zover dit, zakelijk weergegeven, inhoudt:</para>
+          <para>Op 15 februari 2012 waren wij belast met de wijkzorg in de gebieden Lieshout - Mariahout en Beek en Donk. Wij hadden eerder die dag vernomen dat op pand [1] aan de [a-straat] te Beek en Donk door de bewoner pamfletten waren opgehangen. Ter plaatse gekomen zagen wij dat de bewoner van pand [1] aan de [a-straat] voor een raam op de bovenverdieping en het bovenste raam van de voordeur twee pamfletten had gehangen. Wij zagen dat op deze pamfletten de naam stond van de postbezorgster en de firma Sandd . De volledige tekst luidde als volgt: </para>
+          <para>
+            [betrokkene] [het hof begrijpt: [betrokkene] ] van Sandd b.v. is een postdief.</para>
+          <para>4. De verklaring van verdachte ter terechtzitting in hoger beroep d.d. 20 november 2013 tegenover de meervoudige kamer van dit hof:</para>
+          <para>Ik heb inderdaad op 15 februari 2012 platen met teksten opgehangen dat [betrokkene] een postdief is. Zij werkt bij Sandd en bezorgde mijn post. Ik weet niet meer hoeveel platen ik heb opgehangen, maar als u zegt dat het er drie zijn geweest, geloof ik dat."</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3.</nr>
+        <parablock>
+          <para>Het Hof heeft ten aanzien van de bewezenverklaring voorts het volgende overwogen:</para>
+          <para>"Uit het dossier volgt dat de verdachte voor een tweetal ramen en het raam van zijn voordeur van zijn woning platen heeft gehangen met daarop de tekst " [betrokkene] van Sandds B.V. is een postdief".</para>
+          <para>Door aldus te handelen heeft de verdachte zich feitelijk schuldig gemaakt aan smaadschrift in de zin van "het openlijk tentoonstellen" van een geschrift als bedoeld in artikel 261, tweede lid, van het Wetboek van Strafrecht. Aan verdachte is evenwel niet "het openlijk tentoonstellen" van een geschrift ten laste gelegd, maar "het verspreiden" van een geschrift. </para>
+          <para>Van dat laatste is evenwel geen sprake. Enkel en alleen door deze gemankeerde wijze van ten laste leggen kan geen bewezenverklaring volgen voor de gekwalificeerde vorm van smaad in de zin van smaadschrift als bedoeld in artikel 261, tweede lid 2, van het Wetboek van Strafrecht. In zoverre volgt het hof de verdediging.</para>
+          <para>Wel acht het hof echter bewezen dat verdachte zich heeft schuldig gemaakt aan smaad in de zin van artikel 261, eerste lid, van het Wetboek van Strafrecht. Door zijn handelen heeft verdachte namelijk de goede naam van [betrokkene] (Rita) aangerand door openlijk te melden dat zij een postdief is."</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Art. 261, eerste lid, Sr luidt:</para>
+        <para>"Hij die opzettelijk iemands eer of goede naam aanrandt, door telastlegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, wordt, als schuldig aan smaad, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Vooropgesteld moet worden dat sprake is van tenlastelegging van een "bepaald feit" als bedoeld in art. 261 Sr, indien het feit op een zodanige wijze door de verdachte is tenlastegelegd dat het een duidelijk te onderkennen concrete gedraging aanwijst. </para>
+        <para>Daarvan is bijvoorbeeld geen sprake indien het "feit" niet het gedrag van de betrokkene betreft maar een eigenschap die hem wordt toegedicht en evenmin, zo het wel gaat om diens gedrag, indien dat gedrag slechts in algemene termen wordt geduid en derhalve niet wordt toegespitst op een voldoende geconcretiseerde gedraging. Opmerking verdient nog dat dit vereiste niet geldt bij de - van een lichter strafmaximum voorziene - strafbaarstelling van belediging in art. 266, eerste lid, Sr (vgl. HR 14 juni 2016, ECLI:NL:HR:2016:1198, NJ 2016/346).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <parablock>
+        <para>Het oordeel van het Hof dat de in de bewezenverklaring voorkomende uiting " [betrokkene] van Sandds B.V. is een postdief" de tenlastelegging van een "bepaald feit" als bedoeld in art. 261, eerste lid, Sr oplevert, geeft niet blijk van een onjuiste rechtsopvatting. </para>
+        <para>Dat oordeel is ook niet onbegrijpelijk, in aanmerking genomen het kennelijke oordeel van het Hof dat die uiting erop neerkomt dat de aangeefster in het kader van de uitoefening van haar werkzaamheden voor het postvervoerbedrijf Sandd B.V. poststukken heeft gestolen.</para>
+        <para>De Hoge Raad tekent hierbij aan dat de onderhavige zaak verschilt van de zaak die aan de orde was in HR 14 juni 2016, ECLI:NL:HR:2016:1198, NJ 2016/346 in die zin dat het daar ging om een samenstel van verschillende aantijgingen dat in overwegende mate slechts een aanduiding vormde van in meer algemene termen vervatte gedragingen of eigenschappen van diverse betrokkenen en dat als geheel te weinig toegespitst was op voldoende geconcretiseerde gedragingen van bepaalde personen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Het middel faalt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Het middel is gegrond. Gelet op de aan de verdachte opgelegde voorwaardelijke geldboete van € 340 en de mate waarin de redelijke termijn is overschreden, is er geen aanleiding om aan het oordeel dat de redelijke termijn is overschreden enig rechtsgevolg te verbinden en zal de Hoge Raad met dat oordeel volstaan.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad verwerpt het beroep.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu, H.A.G. Splinter-van Kan, A.L.J. van Strien en E.F. Faase, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">11 oktober 2016</emphasis>.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>
