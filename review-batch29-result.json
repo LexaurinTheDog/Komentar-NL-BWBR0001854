@@ -223,8 +223,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 947964,
     "errors": [
-      "krátký/chybějící komentář u 232 jednotek: ['a303(0<400)', 'a304(0<400)', 'a304a(0<400)', 'a304b(0<400)', 'a304c(0<400)', 'a305(0<400)', 'a306(0<400)', 'a306a(0<120)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 232 jednotek: ['a303(0<400)', 'a304(0<400)', 'a304a(0<400)', 'a304b(0<400)', 'a304c(0<400)', 'a305(0<400)', 'a306(0<400)', 'a306a(0<120)']"
     ],
     "warnings": [],
     "ok": false
@@ -233,5 +232,6 @@
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
   "coverage_complete": true,
-  "whole_book_validation_ok": false
+  "whole_book_validation_ok": false,
+  "post_checkpoint_validation": true
 }
