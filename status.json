@@ -31,7 +31,7 @@
   "completed_scope": "Aanhef; all Eerste Boek units; all official article slots 92–156 including inserted and repealed numbers.",
   "remaining_units": 432,
   "next_unit": "a157",
-  "commentary_chars": 582934,
+  "commentary_chars": 583108,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -94,7 +94,8 @@
     "ECLI:NL:HR:2010:BM5282",
     "ECLI:NL:HR:2016:1011",
     "ECLI:NL:HR:2023:806",
-    "ECLI:NL:HR:2024:1573"
+    "ECLI:NL:HR:2024:1573",
+    "ECLI:NL:HR:2018:321"
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
@@ -138,19 +139,33 @@
   "updated_at": "2026-10-20T22:07:36.932024+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T19:20:26.653187+00:00",
-    "report": "preflight-result.json",
+    "verified_at": "2026-10-20T22:05:56.914455+00:00",
+    "report": "preflight-review-batch19-result.json",
     "decisive_date_preserved": "2026-10-19",
-    "official_manifest_states_checked": 126,
     "full_statutory_units_matched": 812,
-    "repairs": [
-      "a323 editorial paragraph separation"
-    ],
-    "new_commentary_units": 0,
     "unresolved_blockers": [],
-    "strict_validation_scope": "Full unchanged validator: 100% statutory agreement. Only492 absent commentaries outside this assigned review prevent book-wide success.",
-    "bounded_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
+    "scope": [
+      "a144",
+      "a145",
+      "a146",
+      "a147",
+      "a147a",
+      "a148",
+      "a149",
+      "a150",
+      "a151",
+      "a151a",
+      "a151b",
+      "a151c",
+      "a151d",
+      "a151e",
+      "a151f",
+      "a152",
+      "a153",
+      "a154",
+      "a155",
+      "a156"
+    ]
   },
   "validation_checked_at": "2026-10-20T21:46:04.477585+00:00",
   "bounded_review": {
@@ -845,8 +860,8 @@
       }
     }
   ],
-  "second_pass_total_reviewed_units": 320,
-  "second_pass_remaining_units": 492,
+  "second_pass_total_reviewed_units": 380,
+  "second_pass_remaining_units": 432,
   "bounded_author": {
     "ids": [
       "a144",
@@ -872,7 +887,8 @@
     ],
     "complete": true,
     "result": "author-a144-a156-result.json",
-    "independent_review_pending": true
+    "independent_review_pending": false,
+    "review_result": "review-batch19-result.json"
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -928,5 +944,6 @@
         "validation": "validation-author-a117-a128.json"
       }
     }
-  ]
+  ],
+  "latest_bounded_review_case_scope": "Full retained HR2018:321 and national-corpus snapshot reread for a151; selective authority coverage only."
 }
