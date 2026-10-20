@@ -28,5 +28,10 @@
     "prior_body_comparison": "sources/author-a227a-a243-historical-change-map.json",
     "prior_body_comparison_reviewed": true
   },
-  "method": "Two retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed."
+  "method": "Two retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed.",
+  "case_law_historical_comparison": {
+    "evidence": "sources/author-a227a-a243-case-law-version.json",
+    "independently_checked": true,
+    "method": "Raw 2024 XML SHA-256 checked; all six retained text comparisons against current official XML recomputed."
+  }
 }
