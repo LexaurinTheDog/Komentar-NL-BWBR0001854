@@ -1,5 +1,5 @@
 {
-  "stage": "authoring_incomplete",
+  "stage": "preflight_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -17,7 +17,11 @@
     "future_changes_excluded": [
       "2027-01-01",
       "undated pending amendments"
-    ]
+    ],
+    "rechecked_at": "2026-10-20T16:12:27.259778+00:00",
+    "official_wti_http": 200,
+    "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
+    "version_evidence": "sources/preflight-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -58,5 +62,18 @@
     "Case-law research and external cross-reference research remain selective.",
     "No independent second pass or external professional approval."
   ],
-  "updated_at": "2026-10-19T18:23:37.812370+00:00"
+  "updated_at": "2026-10-20T16:12:27.259778+00:00",
+  "preflight": {
+    "complete": true,
+    "verified_at": "2026-10-20T16:12:27.259778+00:00",
+    "report": "preflight-result.json",
+    "decisive_date_preserved": "2026-10-19",
+    "official_manifest_states_checked": 126,
+    "full_statutory_units_matched": 812,
+    "repairs": [
+      "a323 editorial paragraph separation"
+    ],
+    "new_commentary_units": 0,
+    "unresolved_blockers": []
+  }
 }

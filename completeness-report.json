@@ -4,10 +4,11 @@
     "local_raw_evidence_path": "sources/intake-version.xml",
     "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
   },
+  "expected_ids_method": "Independent XML DOM document-order enumeration of actual artikel, aanhef and wetsluiting elements; article numbers read directly from each kop/nr. Does not import _parse.py or derive expected IDs from units.jsonl.",
   "annex_disposition": [
     {
       "status": "verified_absence",
-      "method": "All element names in the complete official XML inspected for bijlage/annex. None present. Numbered final provision 479 is included; aanhef and wetsluiting are additional preserved units.",
+      "method": "Complete official XML element inventory contains no bijlage/annex elements. All 3 books, 56 titles and 4 divisions contain articles; no empty structural branch omitted. The numbered final article 479 and separate wetsluiting are retained.",
       "matching_elements": []
     }
   ],
@@ -145,14 +146,47 @@
     "a475",
     "a476"
   ],
+  "empty_statutory_units": [],
+  "structural_branches_without_articles": [],
   "structure_count": {
     "boek": 3,
     "titeldeel": 56,
     "afdeling": 4
   },
   "notes_count": 27,
+  "extra_editorial_notes": 6,
+  "footnote_elements": {
+    "noot": 0,
+    "voetnoot": 0,
+    "footnote": 0,
+    "noten": 0
+  },
+  "full_text_check": {
+    "method": "All statutory DOM character data per unit, excluding kop, metadata and extra editorial insertions, compared with parsed text after removing whitespace only. All words, punctuation, paragraph and list numbers remain in comparison.",
+    "checked": 812,
+    "matched": 812,
+    "details": "sources/statutory-content-audit.json"
+  },
+  "hierarchy_evidence": "sources/statutory-structure.json",
+  "nonoperative_material": [
+    {
+      "element": "intitule",
+      "text": "Wet van 3 maart 188118813503-03-188118866415-04-188601-09-1886",
+      "disposition": "Official enactment title metadata; not a separately numbered operative unit."
+    },
+    {
+      "element": "meta-data",
+      "disposition": "Legislative provenance and amendment history excluded from statutory wording; all 27 opmerkingen-inhoud notes extracted separately."
+    },
+    {
+      "element": "redactie type=extra",
+      "disposition": "All 6 article 23 indexation annotations preserved separately as editorial notes."
+    }
+  ],
+  "errors": [],
   "limitations": [
-    "This verifies statutory unit coverage and XML annex absence, not commentary completion or legal quality. Editorial annotations are kept separately from statutory wording."
+    "Source and parsing audit only; not legal review or commentary completion.",
+    "Transitional provisions of separate amending laws mentioned in editorial notes are outside this consolidated code; references are preserved but those separate laws are not represented as articles of this code."
   ],
   "ok": true
 }

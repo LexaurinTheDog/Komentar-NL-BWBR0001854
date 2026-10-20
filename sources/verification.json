@@ -190,6 +190,81 @@
       "sha256": "07d26f29293ec651d319b66da5eba890ab776fde1d19d2d3797980f31e88778c",
       "expected_format_valid": true,
       "bytes": 19281
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T16:09:09.396203+00:00",
+      "expected_format": "work",
+      "purpose": "source preflight recheck",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "path": "sources/preflight-20261020-manifest.xml",
+      "content_type": "application/xml",
+      "root": "work",
+      "root_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "../_manifest.xsd",
+        "label": "BWBR0001854",
+        "gegenereerd": "2026-10-20T04:32:22.1877551+02:00",
+        "_latestItem": "2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml"
+      },
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T16:09:09.641588+00:00",
+      "expected_format": "toestand",
+      "purpose": "source preflight recheck",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "path": "sources/preflight-20261020-current.xml",
+      "content_type": "application/xml",
+      "root": "toestand",
+      "root_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001854/2026-07-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001854",
+        "inwerkingtreding": "2026-07-01"
+      },
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/informatie",
+      "accessed_at": "2026-10-20T16:09:10.578653+00:00",
+      "expected_format": "html",
+      "purpose": "source preflight recheck",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "expected_format_valid": false
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-10-19",
+      "accessed_at": "2026-10-20T16:09:10.726726+00:00",
+      "expected_format": "html",
+      "purpose": "source preflight recheck",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "expected_format_valid": false
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T16:09:10.874483+00:00",
+      "expected_format": "wetstechnische-informatie",
+      "purpose": "source preflight recheck",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "path": "sources/preflight-20261020-wti.xml",
+      "content_type": "application/xml",
+      "root": "wetstechnische-informatie",
+      "root_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001854"
+      },
+      "expected_format_valid": true,
+      "validation": "Parsed official wetstechnische-informatie XML, bwb-id BWBR0001854; current and prospective changes separately inventoried."
     }
   ],
   "effective_version_verified": true,
@@ -198,7 +273,9 @@
   "authoring_started": "2026-10-19",
   "version_evidence": [
     "sources/bwb-manifest.xml",
-    "sources/firecrawl-information.json"
+    "sources/firecrawl-information.json",
+    "sources/preflight-20261020-manifest.xml",
+    "sources/preflight-20261020-wti.xml"
   ],
   "pending_changes": "Official information page: 2027-01-01 and undated changes; excluded from effective text.",
   "manifest_sha512_matches": true,
@@ -219,5 +296,16 @@
       "sha256": "6333ae7aed28241087485e099823a64f2bc62248f493a03e9b549fb499bf7fff",
       "origin": "_parse.py output from verified official XML"
     }
-  ]
+  ],
+  "preflight_rechecked_at": "2026-10-20T16:12:51.768520+00:00",
+  "preflight_version_evidence": "sources/preflight-version-evidence.json",
+  "tool_availability": {
+    "checked_at": "2026-10-20T16:09:09.396203+00:00",
+    "firecrawl": {
+      "installed": true,
+      "authenticated": true,
+      "available_credits": 0,
+      "action": "No scrape initiated; direct official XML used."
+    }
+  }
 }

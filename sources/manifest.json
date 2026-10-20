@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:22:03.777989+00:00",
+  "generated_at": "2026-10-20T16:12:52.483715+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -107,10 +107,45 @@
       "bytes": 433038
     },
     {
+      "path": "sources/preflight-20261020-current.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812
+    },
+    {
+      "path": "sources/preflight-20261020-fetch-log.json",
+      "sha256": "01a91f7e2d00d1c0baf82bad208f877c5a9c8b903f46809dbf44c4d1289b3708",
+      "bytes": 3684
+    },
+    {
+      "path": "sources/preflight-20261020-manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311
+    },
+    {
+      "path": "sources/preflight-20261020-wti.xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974
+    },
+    {
+      "path": "sources/preflight-version-evidence.json",
+      "sha256": "28fbfdd6301275d79ed4bb06be808ded153445b1148796deef7dc8fe5b55832b",
+      "bytes": 39222
+    },
+    {
+      "path": "sources/statutory-content-audit.json",
+      "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c",
+      "bytes": 252422
+    },
+    {
+      "path": "sources/statutory-structure.json",
+      "sha256": "16ac10205c313852e67339022d55614c1869fd9dc1cad6771f2752e6bdd54f38",
+      "bytes": 305287
+    },
+    {
       "path": "sources/verification.json",
-      "sha256": "ff019ee8e8528c5401bb0c9d30fe0b12629db500756434cdf8b0e9faeb64e875",
-      "bytes": 9964
+      "sha256": "ebd631e4858a85845b1e4fdde46650457ad2930e68f904161138def6289446f3",
+      "bytes": 14281
     }
   ],
-  "remote_evidence": "verification.json records URLs, request times, HTTP outcomes and format acceptance. Rejected HTML, empty responses and the historical fallback are retained but not canonical."
+  "remote_evidence": "verification.json records actual URLs, UTC access timestamps, HTTP outcomes and format acceptance. Rejected HTML, empty responses and historical fallbacks remain excluded from the canonical source."
 }
