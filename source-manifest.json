@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/author-a227a-a243-version-evidence.json",
-  "generated_at": "2026-10-20T22:58:41.627688+00:00",
+  "latest_version_evidence": "sources/review-batch25-version-evidence.json",
+  "generated_at": "2026-10-20T23:00:43.503850+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -3739,6 +3739,56 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch25-authority-check.json",
+      "bytes": 1989,
+      "sha256": "d72395768a4bef06c46a3ad2df5c1fc214d44d170d242d4486d1c86ce5790d4e"
+    },
+    {
+      "path": "sources/review-batch25-before.json",
+      "bytes": 40519,
+      "sha256": "2bfa8c3f04a5a8495c4df690d181c6ded342ff93a146889b6c4286eeb331710c"
+    },
+    {
+      "path": "sources/review-batch25-coverage.json",
+      "bytes": 20828,
+      "sha256": "32193692bf3f9a17217c38a5955bd4b2f66d79d442808673b4960a447c02e501"
+    },
+    {
+      "path": "sources/review-batch25-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch25-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "ce1058180ac8600ac44d222dba40b1dffe6c310bd6eec093c7a0a19aef35fea4"
+    },
+    {
+      "path": "sources/review-batch25-html-fetch.json",
+      "bytes": 511,
+      "sha256": "bd34e170d4858a920214575bce18aba8c5ed43ae8abfb7aa4ef1000ea06221d0"
+    },
+    {
+      "path": "sources/review-batch25-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch25-version-evidence.json",
+      "bytes": 166287,
+      "sha256": "f1e20783cffa52d33edc842adad9e6e63c8729e8f22ab02e552883d81bba8ae6"
+    },
+    {
+      "path": "sources/review-batch25-wetten.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/review-batch25-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -3750,8 +3800,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 235687,
-      "sha256": "1d7dfd7ff713b44e8b015eed1fd4fe08db66974f540a58147f9446c947b3e294"
+      "bytes": 238005,
+      "sha256": "8f44ad73b8614eeaa1a47b3fd0166d99decb4fcb8cbcb120f444f839bf8c6bcd"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",

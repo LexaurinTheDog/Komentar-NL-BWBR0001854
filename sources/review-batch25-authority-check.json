@@ -1,0 +1,32 @@
+{
+  "reviewed_at": "2026-10-20T23:00:43.503850+00:00",
+  "checks": [
+    {
+      "unit": "a231b",
+      "path": "authorities/author-a227a-a243-ECLI-NL-HR-2019-1698.xml",
+      "sha256": "b50de0122722e6f44313e1bdb896b4ed83af13aeb66d9012bf213ead5d20b39d",
+      "full_text_reviewed": true,
+      "paragraphs": "1–3, met name 2.4.1–2.4.3",
+      "card": "authorities/author-a227a-a243-HR-2019-1698.md",
+      "limits": "Eigen rechterlijk oordeel onderscheiden van partijstellingen en geciteerde hofmotivering. Bijlage II van rechtbankvonnis niet aanwezig in openbare XML; geen toegang tot onderliggend dossier. Geen uitputtende opvolgingscontrole."
+    },
+    {
+      "unit": "a240/a241",
+      "path": "authorities/author-a227a-a243-ECLI-NL-RBZWB-2025-6856.xml",
+      "sha256": "d3298a620173f5f080b8179caf4bb566c72b2a81a4400d37fd1c78b7332727dd",
+      "full_text_reviewed": true,
+      "paragraphs": "1–9 en gepubliceerde bijlage I; met name 4.3.2, 4.4 en 9",
+      "card": "authorities/author-a227a-a243-RBZWB-2025-6856.md",
+      "limits": "Eigen rechterlijk oordeel onderscheiden van partijstellingen en geciteerde hofmotivering. Bijlage II van rechtbankvonnis niet aanwezig in openbare XML; geen toegang tot onderliggend dossier. Geen uitputtende opvolgingscontrole."
+    }
+  ],
+  "search_log": "authorities/author-a227a-a243-search-log.json",
+  "local_corpus_evidence": "authorities/author-a227a-a243-local-corpus.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "prior_body_comparison": "sources/author-a227a-a243-historical-change-map.json",
+    "prior_body_comparison_reviewed": true
+  },
+  "method": "Two retained primary full texts and case cards independently reread in this second pass. Prior selective search and local-corpus snapshots checked; no new exhaustive citator research claimed."
+}

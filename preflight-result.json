@@ -1,5 +1,23 @@
 {
   "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:59:57.638806+00:00",
+  "version_evidence": "sources/review-batch25-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "prior_body_comparison": "sources/author-a227a-a243-historical-change-map.json",
+    "prior_body_comparison_reviewed": true
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch25-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
   "scope": [
     "a227a",
     "a227b",
@@ -22,23 +40,6 @@
     "a242",
     "a243"
   ],
-  "decisive_date": "2026-10-19",
-  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T22:53:43.912621+00:00",
-  "version_evidence": "sources/author-a227a-a243-version-evidence.json",
-  "historical_versions_checked": {
-    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
-    "expressions": 126
-  },
-  "historical_change_map": "sources/author-a227a-a243-historical-change-map.json",
-  "annexes_checked": [
-    {
-      "status": "verified_absence",
-      "evidence_path": "sources/author-a227a-a243-effective.xml",
-      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
-    }
-  ],
-  "coverage": "sources/author-a227a-a243-coverage.json",
-  "unresolved_blockers": [],
-  "case_law_historical_text": "sources/author-a227a-a243-case-law-version.json"
+  "coverage": "sources/review-batch25-coverage.json",
+  "html_entry_point": "sources/review-batch25-html-fetch.json"
 }

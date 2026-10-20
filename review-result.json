@@ -4,215 +4,215 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a208",
-    "a209",
-    "a210",
-    "a213",
-    "a214",
-    "a214bis",
-    "a215",
-    "a216",
-    "a217",
-    "a218",
-    "a219",
-    "a220",
-    "a221",
-    "a222",
-    "a222bis",
-    "a223",
-    "a224",
-    "a225",
-    "a226",
-    "a227"
+    "a227a",
+    "a227b",
+    "a227c",
+    "a228",
+    "a229",
+    "a230",
+    "a231",
+    "a231a",
+    "a231b",
+    "a232",
+    "a234",
+    "a235",
+    "a236",
+    "a237",
+    "a238",
+    "a239",
+    "a240",
+    "a241",
+    "a242",
+    "a243"
   ],
   "unresolved_blockers": [],
-  "verified_at": "2026-10-20T22:52:33.774636+00:00",
-  "source_preflight": "sources/review-batch24-version-evidence.json",
+  "verified_at": "2026-10-20T23:00:43.503850+00:00",
+  "source_preflight": "sources/review-batch25-version-evidence.json",
   "findings": [
     {
-      "id": "a208",
+      "id": "a227a",
       "reviewed": true,
-      "finding": "Namaken versus vervalsen, uitgifteoogmerk, voltooiing vóór uitgifte en verwijzingen209/214 gecontroleerd.",
+      "finding": "Opzettelijk onware gegevens, andere dan valsheid in geschrift, tussenkomst, mogelijke bevoordeling, afzonderlijke relevantieschuld en vierjaarmaximum gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "ede2621c3766e01cea54daf16ddd546a4b82a58b15b1290e9785b05d657c14e5",
-      "commentary_before_sha256": "8101043b513c54c2621195ae152ae9afbab12e4d24d23371d89ddfa8eef5e9e7",
-      "commentary_after_sha256": "8101043b513c54c2621195ae152ae9afbab12e4d24d23371d89ddfa8eef5e9e7"
+      "source_text_sha256": "ae855d556f960a4eec68ca4da2f171cc041c8620ae90a74d9fa935751945f87f",
+      "commentary_before_sha256": "56efb14d111e81490d4228cd3c658b0edea68bdb0f93c8cfa087238dee2399cf",
+      "commentary_after_sha256": "56efb14d111e81490d4228cd3c658b0edea68bdb0f93c8cfa087238dee2399cf"
     },
     {
-      "id": "a209",
+      "id": "a227b",
       "reviewed": true,
-      "finding": "Uitgifte versus zeven logistieke varianten, wetenschap bij ontvangst, oogmerk en afgrenzing213 gecontroleerd; negenjaarmaximum bevestigd.",
+      "finding": "Wettelijke informatieplicht, tijdigheid, opzettelijk nalaten, mogelijke bevoordeling en relevantie voor recht/hoogte/duur afzonderlijk gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "4dd441ba28351f3ffba406728bd098a0d7efff931f63ab5490f11947f02dd198",
-      "commentary_before_sha256": "9fabf619d29b6ead49a0425bf8278d35e39ad50e043f1a295e42e6f47766212f",
-      "commentary_after_sha256": "9fabf619d29b6ead49a0425bf8278d35e39ad50e043f1a295e42e6f47766212f"
+      "source_text_sha256": "60b1b1a4dacc2107311efad8f80ce1dc5a99332b3b4bc55ade80b8eaaf251395",
+      "commentary_before_sha256": "e84327d7c85c3099e9d51b12cd5e5e179b7dbd18926ef2a578e266333022560f",
+      "commentary_after_sha256": "e84327d7c85c3099e9d51b12cd5e5e179b7dbd18926ef2a578e266333022560f"
     },
     {
-      "id": "a210",
+      "id": "a227c",
       "reviewed": true,
-      "finding": "Toekomstig wettig betaalmiddel, opzet/wederrechtelijkheid, alle logistieke varianten en circulatiedoel gecontroleerd; vijfjaarmaximum bevestigd.",
+      "finding": "Beide EU-begrotingsvarianten, concrete omissieplicht, causaal gevolg ontvangst/achterhouding versus vermindering en vierjaarmaximum gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "fb248a151bb8753e0bb9417c4d4a5fb14e20e1c475e97fa88ca4060650267500",
-      "commentary_before_sha256": "9dbda9315bc5748e27d8e0ff0aa2fa84bf1841571d841294f0a203472e50aeb1",
-      "commentary_after_sha256": "9dbda9315bc5748e27d8e0ff0aa2fa84bf1841571d841294f0a203472e50aeb1"
+      "source_text_sha256": "8b93cea34c8eb58653821e99d390ceafe5f150bf0b6dace1c865aabc9f384bb5",
+      "commentary_before_sha256": "933d8470e2e974446bccc13b91f4a73edf0bced4c19a34bad113070336397831",
+      "commentary_after_sha256": "933d8470e2e974446bccc13b91f4a73edf0bced4c19a34bad113070336397831"
     },
     {
-      "id": "a213",
+      "id": "a228",
       "reviewed": true,
-      "finding": "Opzettelijke uitgifte, voorrang209 en vierjaarmaximum gecontroleerd. HR2019 volledig herlezen: samenhangend bewijs, geen algemene aanwezigheidsregel; HR2024 geen gemotiveerd inhoudelijk precedent.",
-      "changed": false,
-      "source_text_sha256": "5e00f3f5ae5f8d2c569426db12255651783c4163f830ed49fe809a002e62e016",
-      "commentary_before_sha256": "329ed9f66431a4b2d250c8fecd03ba9461a75239edb60cc461c9ed2bcfd2fd40",
-      "commentary_after_sha256": "329ed9f66431a4b2d250c8fecd03ba9461a75239edb60cc461c9ed2bcfd2fd40"
-    },
-    {
-      "id": "a214",
-      "reviewed": true,
-      "finding": "Alle vier handelingen, stoffen/voorwerpen/gegevens, kennis van bestemming en vierjaarmaximum gecontroleerd. Onderzoeksvoorbeeld aangescherpt: eigen onderzoeksdoel is geen algemene uitzondering bij bekende vervalsingsbestemming.",
+      "finding": "Alle drie leden en beroepshoedanigheid nagelezen. Negatieve gezondheidsverklaring expliciet toegevoegd; vierde/vijfde boetecategorie bij basis- en oogmerkvariant verduidelijkt.",
       "changed": true,
-      "source_text_sha256": "50675c79b46dc22875d7735249a18d6e0915cc1fd6a521f9950c82ff0a110a05",
-      "commentary_before_sha256": "432ee1828cc3f14fd480ffbf65e6e789fbb60315f9f2223327f831393b8545a9",
-      "commentary_after_sha256": "cef9d5d8d365069c1f62d19c5c2101b82f8e7e54de8d81d1672416b0820dbc0c"
+      "source_text_sha256": "3095e551da0b0284ab69e0d617bf42f23dd871e788a5bf43a949146dd89a0d9e",
+      "commentary_before_sha256": "24d7d38f03d0683ca36782566a0644a42cfca7a4cbabe1536f83da766a954efb",
+      "commentary_after_sha256": "e60d16916141e3ab4bbddd1fe87cde0c5f80c72be4ac34e2dd7afdd04ffeed1d"
     },
     {
-      "id": "a214bis",
+      "id": "a229",
       "reviewed": true,
-      "finding": "Verplichte verbeurdverklaring, drie categorieën, uit-hun-aard-voorwaarde, delictsband en eigendom derden gecontroleerd.",
+      "finding": "Schriftelijkheid, al/niet bestaande toestand, afwezigheid geboortevariant, misleiding openbaar gezag/verzekeraars en afzonderlijke gebruiksroute gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "993b21c77120e9a7dbf281a12e24d6211cc9db309b79f37b4ebc1d2fb121c9a8",
-      "commentary_before_sha256": "11c313b41a224499c6a2a64e4d9450adec5f9b09a66299c20a37443c4975994f",
-      "commentary_after_sha256": "11c313b41a224499c6a2a64e4d9450adec5f9b09a66299c20a37443c4975994f"
+      "source_text_sha256": "0e1b8527794103c534f1fad55692b7430e470d4bf9571e2a4fbb1e187f515ca3",
+      "commentary_before_sha256": "35536dbe344134d4a27dfd2c344b5af09371159d2e0bebb5e551390ca0da4ea0",
+      "commentary_after_sha256": "35536dbe344134d4a27dfd2c344b5af09371159d2e0bebb5e551390ca0da4ea0"
     },
     {
-      "id": "a215",
+      "id": "a230",
       "reviewed": true,
-      "finding": "Facultatieve ontzetting, limitatieve208–210 en rechten28lid1onder1/2/4, duur31 gecontroleerd.",
+      "finding": "Getuigschrift, twee vervaardigingsvormen, bijzonder gebruiksoogmerk, opzettelijk gebruik en jaarmaximum gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "008352fecb058c9b6546ffa2c9280304565d8d0f8b032819a66640c9ad47a38d",
-      "commentary_before_sha256": "7a95d06535c75b6a2b3cf02477d04e2313809947ea7a274d956f08ce5ca44a63",
-      "commentary_after_sha256": "7a95d06535c75b6a2b3cf02477d04e2313809947ea7a274d956f08ce5ca44a63"
+      "source_text_sha256": "15840a5ac8cfd96c1c320e462dd796df451619939e877a62a10cb40cbf533e08",
+      "commentary_before_sha256": "f22ab59f14b249511a6dce1995c037edf695e2ed925dccd037fc6cc19ebc0756",
+      "commentary_after_sha256": "f22ab59f14b249511a6dce1995c037edf695e2ed925dccd037fc6cc19ebc0756"
     },
     {
-      "id": "a216",
+      "id": "a231",
       "reviewed": true,
-      "finding": "Beide productievarianten, oogmerk, twee uitbreidingen en zesjaarmaximum gecontroleerd. Uitgevende verdragsorganisatie en artikel3.01lid2 expliciet gemaakt.",
+      "finding": "Drie documentgroepen, vier lid1-routes, afzonderlijke kennisvereisten lid2, vermissingsmelding en terroristische verhoging gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "b7bc5ec34277a23d76bc71935bbbcde6a3a95a9196ad6cef86edca1f8f22f230",
+      "commentary_before_sha256": "c358f1bbeeea19297a47779eb26f25acdbd262a9a03947539157c4cc487e45bc",
+      "commentary_after_sha256": "c358f1bbeeea19297a47779eb26f25acdbd262a9a03947539157c4cc487e45bc"
+    },
+    {
+      "id": "a231a",
+      "reviewed": true,
+      "finding": "Valselijk opmaken naast vervalsen en biometrische persoonsgegevens expliciet gemaakt. Twee lid2-routes en afwijkende oogmerkformulering behouden.",
       "changed": true,
-      "source_text_sha256": "ac889c33d359881911dced17e9b7da7aea642519c4506ab114a9dd040e4b2792",
-      "commentary_before_sha256": "d04b6ea6d63b98ae2d8e45258744eaeb563158cc244d40e164dcadeafdfead5b",
-      "commentary_after_sha256": "6a2a49fd61135c7bd5aed1419a5a5da031b03c2bd49f19ed5a52d870ee1bfb4b"
+      "source_text_sha256": "d05f04cdc7d3cb78581021e83245e3ca07f0f0fbd15ad7259096b798a75bfffc",
+      "commentary_before_sha256": "4edec94ec77f418dc581560e95c1bdc7c1016613bd68124c35139a119ae1212c",
+      "commentary_after_sha256": "2e2e3ebb3558dde36216af42c6a7691dd91181e563c41001e2f7f9cab0139909"
     },
     {
-      "id": "a217",
+      "id": "a231b",
       "reviewed": true,
-      "finding": "Alle drie edelmetaalvarianten, vier metaalsoorten, apparatuur, overbrenging en oogmerk gecontroleerd; vijfjaarmaximum bevestigd.",
+      "finding": "HR2019:1698 volledig herlezen; uitsluitend mogelijk nadeel voor identiteitshouder, cassatie/terugwijzing in plaats van vrijspraak en gelijkheid huidige delictstekst gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "3e79262fffa37e26ed115884236428125a2b89d90b45c28c8d63ce63a2b2c5f5",
-      "commentary_before_sha256": "35a4fbeeff2f224f1299dcd3b437643e2b81d81f0ca0687ef237ac762f81fc6e",
-      "commentary_after_sha256": "35a4fbeeff2f224f1299dcd3b437643e2b81d81f0ca0687ef237ac762f81fc6e"
+      "source_text_sha256": "b0a279925890095e3c5953305e73caf026e14ccf9abaa825cbe4b556dddffb94",
+      "commentary_before_sha256": "c8231423b449d32b0ff281da85809dfec215c6918edfd31a23a07c2f85c3ad6c",
+      "commentary_after_sha256": "c8231423b449d32b0ff281da85809dfec215c6918edfd31a23a07c2f85c3ad6c"
     },
     {
-      "id": "a218",
+      "id": "a232",
       "reviewed": true,
-      "finding": "Metrologische voorwerpstatus, beide merkvarianten, oogmerk en driejaarmaximum gecontroleerd; grens221 behouden.",
-      "changed": false,
-      "source_text_sha256": "6c4a749f14f9b2685a5789e18e5325732244ac25c9ba6aaa979708cba603c86d",
-      "commentary_before_sha256": "a3ebe5dc0e3e8bca57e958ac8b13cb698208a4ef5ed850c97b33f8011c83380e",
-      "commentary_after_sha256": "a3ebe5dc0e3e8bca57e958ac8b13cb698208a4ef5ed850c97b33f8011c83380e"
+      "finding": "Objectgroepen, bevoordelingsoogmerk, door misdrijf verkregen instrumenten, alle ketenhandelingen en zesjaarmaximum gecontroleerd. Opzettelijk handelen naast wetenschap/redelijk vermoeden bestemming expliciet gemaakt.",
+      "changed": true,
+      "source_text_sha256": "3536ae24cda3af83e4bcd09d25b26e3b60603716fc70f3cc172ccb66257db08c",
+      "commentary_before_sha256": "1d473d64171958aae70ab16cf2d7d2fb69867ab319160749ed698d6f018187fa",
+      "commentary_after_sha256": "78f758a7d127fca214adf55eb2c85f8aa32cbbaae592c9fa35af6ee1abcfb0b3"
     },
     {
-      "id": "a219",
+      "id": "a234",
       "reviewed": true,
-      "finding": "Restcategorie, wettelijke grondslag, verplicht/mogelijk, drie varianten, verpakking en tweejaarmaximum gecontroleerd.",
+      "finding": "Beperkte verwijzingen226lid1onder2–5 en231/231alid1, gehele231b, beperkte vermogensdelicten, wetenschap en terroristische verhoging gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "cecad4ca3ce57957dcacc116d757723dbf8e5f3cd13d0e7cfcd1b98ae0ec5700",
-      "commentary_before_sha256": "d66312c342126ffa385c3a383d1cbecef2613491040d21ff65106b4e7019cde7",
-      "commentary_after_sha256": "d66312c342126ffa385c3a383d1cbecef2613491040d21ff65106b4e7019cde7"
+      "source_text_sha256": "b676809fe74697bff9eb803bb85722612bb8d03c61f294daaaefcac3986375f2",
+      "commentary_before_sha256": "edeb3f1d08eeef8f67498aeafc84b9e5daf3c20ac5033e8764e06a96938ebf8e",
+      "commentary_after_sha256": "edeb3f1d08eeef8f67498aeafc84b9e5daf3c20ac5033e8764e06a96938ebf8e"
     },
     {
-      "id": "a220",
+      "id": "a235",
       "reviewed": true,
-      "finding": "Zes handelingen, verkoopvoorraad, territoriale invoer, opzet, delictsobjecten en gedifferentieerde sanctieverwijzing216–219 gecontroleerd.",
+      "finding": "Facultatieve beroepsontzetting en afzonderlijk rechtenbereik, alle ingevoegde artikelen, limitatieve rechten28lid1onder1/2/4 gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "9e35252caf2a57e424d2c6d5b798de6b7333ba062c507a1d4b874230dec5d859",
-      "commentary_before_sha256": "a6d06abb126e998581ec1589ea8cf15f7d5e83c7bb08020147249e9e92e0b033",
-      "commentary_after_sha256": "a6d06abb126e998581ec1589ea8cf15f7d5e83c7bb08020147249e9e92e0b033"
+      "source_text_sha256": "c2432a07dfccb156f2134f46b249c459a77990e0662bb84f302e727b8efaf782",
+      "commentary_before_sha256": "b312091b361517e5db9b0001e16cb6469844ef2da38f67458b71fac57ec521aa",
+      "commentary_after_sha256": "b312091b361517e5db9b0001e16cb6469844ef2da38f67458b71fac57ec521aa"
     },
     {
-      "id": "a221",
+      "id": "a236",
       "reviewed": true,
-      "finding": "Beide leden, afkeuringsmerk, verwijderingsoogmerk versus vijf gebruiks/handelsvarianten en jaarmaximum gecontroleerd.",
+      "finding": "Afstamming van ander, onzeker maken, opzet en vijfjaarmaximum gecontroleerd; civiele eindbeslissing en uitzondering stilzitten/begin van bewijs nauwkeurig onderscheiden.",
       "changed": false,
-      "source_text_sha256": "dd72f1c2f49d5e350d85a9a37d5f59b376eec773d146f5dc2c238a421fc11b4b",
-      "commentary_before_sha256": "64bc8ac98d9e2e0bdeba0b352fe23f41ef462970e7cbc2626d6f0d908af69f22",
-      "commentary_after_sha256": "64bc8ac98d9e2e0bdeba0b352fe23f41ef462970e7cbc2626d6f0d908af69f22"
+      "source_text_sha256": "a29d578e39b492a8923c51caceabb9df0c06c64bbfce1823c89748c445f4a093",
+      "commentary_before_sha256": "a8854f17cf9e8d83ca57110a38120c9d1c12d2947e3e92569c789867dce2f9a2",
+      "commentary_after_sha256": "a8854f17cf9e8d83ca57110a38120c9d1c12d2947e3e92569c789867dce2f9a2"
     },
     {
-      "id": "a222",
+      "id": "a237",
       "reviewed": true,
-      "finding": "Reeds gebruikte216-zegels, ontwaardingsmerk, hergebruiksdoel, zes distributievarianten en driejaarmaximum gecontroleerd.",
-      "changed": false,
-      "source_text_sha256": "bcb6146fde6c0b4de76cb55d7ce76edd73e182a8ba42988a4d089483b105dc10",
-      "commentary_before_sha256": "7ee2274c8d611f65858d46f6dacb6a5a4f6252d0c7e3fb01b91df5f9f35399fd",
-      "commentary_after_sha256": "7ee2274c8d611f65858d46f6dacb6a5a4f6252d0c7e3fb01b91df5f9f35399fd"
+      "finding": "Beide dadervarianten, verzwijging alleen lid2, vier/zesjaarmaxima en boetecategorie gecontroleerd; drie ontzettingsrechten precies uitgeschreven.",
+      "changed": true,
+      "source_text_sha256": "85c207b5e5088342e7db6112dab05d2991d2ece85c36fcc8132cc80e648ed84f",
+      "commentary_before_sha256": "c7732e2fd646c1fa3304c0db9b26658d267c02c62da6cbd3a70d009728577d04",
+      "commentary_after_sha256": "c06ed4891eb7327c5d1f5a8a110d08c3faac5e6a184056fa585219ec809fa505"
     },
     {
-      "id": "a222bis",
+      "id": "a238",
       "reviewed": true,
-      "finding": "Vier verwijzingsartikelen, alle vijf herkomstcategorieën en onderscheid objectuitbreiding/rechtsmacht gecontroleerd; bronnoot2010 niet tot bestanddeel verheven.",
+      "finding": "Ongehuwde dader, wettig beletsel, opzettelijke verzwijging en uitgesproken nietigheid wegens hetzelfde beletsel gecontroleerd.",
       "changed": false,
-      "source_text_sha256": "0168fcf87eb98892fd784975f0d996fcf50e9b50eae2d1fe0e3ed7f3fba45ba8",
-      "commentary_before_sha256": "0a16fde9e2a196acb9028a4ab5be162be5fc07a638061083a0948cbb0c5d7dc5",
-      "commentary_after_sha256": "0a16fde9e2a196acb9028a4ab5be162be5fc07a638061083a0948cbb0c5d7dc5"
+      "source_text_sha256": "cd703e155f2160d05dd905639996ddfe0977cd575f34c80850279e31293ed85d",
+      "commentary_before_sha256": "c679f09cbce4267f03c16e24e67d89a933bee956f0f513a0fa142f03bfe0d327",
+      "commentary_after_sha256": "c679f09cbce4267f03c16e24e67d89a933bee956f0f513a0fa142f03bfe0d327"
     },
     {
-      "id": "a223",
+      "id": "a239",
       "reviewed": true,
-      "finding": "Voorhanden hebben, stoffen/voorwerpen, kennis, beperkte216-verwijzing direct/via222bis en zesmaandenmaximum gecontroleerd.",
+      "finding": "Alle drie uitbreidingen persoon/kind/visuele weergave nagelezen. Geen zelfstandig delict of onjuist overgenomen historische strafbaarstelling.",
       "changed": false,
-      "source_text_sha256": "62c29b22687721af0a5e71523eea5a264d4444c1eb9bc4272680a1a38a3ab440",
-      "commentary_before_sha256": "66c6e0f3693658b82c997c5ea7123eca1ee4b9311deae680e5bea174150cd110",
-      "commentary_after_sha256": "66c6e0f3693658b82c997c5ea7123eca1ee4b9311deae680e5bea174150cd110"
+      "source_text_sha256": "029e60d418e739f0488250de3416e47aca293a8b19bae3f7b7f51691c87eea60",
+      "commentary_before_sha256": "6e9129bc564b2e9c81480ea87acf862546ea2270760fa0e0ac8a7cc2ae4d5b74",
+      "commentary_after_sha256": "6e9129bc564b2e9c81480ea87acf862546ea2270760fa0e0ac8a7cc2ae4d5b74"
     },
     {
-      "id": "a224",
+      "id": "a240",
       "reviewed": true,
-      "finding": "Facultatieve ontzetting, reeks216–222bis exclusief223, drie rechten28 en duur31 gecontroleerd.",
+      "finding": "Ernstige reden tot vermoeden onderscheiden van wetenschap; ontbrekende wil en verwijzingen239/244 gecontroleerd. Rechtbankvonnis is opzetveroordeling, geen schuldveroordeling.",
       "changed": false,
-      "source_text_sha256": "660a96845463b9481de35a7d896ed3ee482c0c70020c3b8cbc9badd4cf9ed3a6",
-      "commentary_before_sha256": "ee8134a6ec368ee52ef8ed7b7c4a96b0253472a2d23ef71d5c184e5f7d09b44c",
-      "commentary_after_sha256": "ee8134a6ec368ee52ef8ed7b7c4a96b0253472a2d23ef71d5c184e5f7d09b44c"
+      "source_text_sha256": "092d29fec25083e5a93d55508d2f93fe3ebe657a1dd71efafbaeb86416f3d6f9",
+      "commentary_before_sha256": "7afe3f1c2c02fe8a6ceb502f049faed1c691a608143d695926db618a9b5f5d27",
+      "commentary_after_sha256": "7afe3f1c2c02fe8a6ceb502f049faed1c691a608143d695926db618a9b5f5d27"
     },
     {
-      "id": "a225",
+      "id": "a241",
       "reviewed": true,
-      "finding": "Alle drie leden: bewijsbestemming, valsheid, gebruiksoogmerk, gebruik versus afleveren/bezit, weten/vermoeden en terroristische verhoging gecontroleerd. Geen ongelezen bewijsbestemmingsarrest toegevoegd.",
+      "finding": "Beide leden, wetenschap en verband aanvullende dwang/geweld/bedreiging gecontroleerd. Volledig gepubliceerd rechtbankvonnis en historische versie gelezen; grens van bewijsregel behouden.",
       "changed": false,
-      "source_text_sha256": "d3513f6ea24437139ba4466a3db283f2c0af1293b02464ed888917c80f53595c",
-      "commentary_before_sha256": "aa718e5edf4dd6b4d038b9ef9a4810bc69bc3dc8cd6e15fa40bb94009591e549",
-      "commentary_after_sha256": "aa718e5edf4dd6b4d038b9ef9a4810bc69bc3dc8cd6e15fa40bb94009591e549"
+      "source_text_sha256": "0b9e290fa35ba564fe78fc2d3ec416b0a77445f1afe46cbf797287e0057da594",
+      "commentary_before_sha256": "c8db4a3fcf0002856e86424ac38846b03e116dce83a988d29c150bf838bf814b",
+      "commentary_after_sha256": "c8db4a3fcf0002856e86424ac38846b03e116dce83a988d29c150bf838bf814b"
     },
     {
-      "id": "a226",
+      "id": "a242",
       "reviewed": true,
-      "finding": "Vijf documentgroepen, valsheidsbestanddelen, gebruik versus acht logistieke varianten, kennis/vermoeden en zevenjaarmaximum gecontroleerd. HR2000 slechts begrensde verwijzing voor authentieke status.",
+      "finding": "Seksueel binnendringen, mede-variant, ernstige reden vermoeden, wil en maximum gecontroleerd. Geen verkrachtingsprecedent gemaakt van aanrandingsvonnis.",
       "changed": false,
-      "source_text_sha256": "5b3881d1859a64f268dcab2a33ffed2e8446e7689936092cfe373d051220f050",
-      "commentary_before_sha256": "e440adb8feffbcbb8a97299ebc6d264c269917c9a988fd48676402c2d2f3d389",
-      "commentary_after_sha256": "e440adb8feffbcbb8a97299ebc6d264c269917c9a988fd48676402c2d2f3d389"
+      "source_text_sha256": "6b952f2c0306533ae690062b059408306896f26c67d1822568f82ef0bb23d413",
+      "commentary_before_sha256": "27d40f2371b9e94f2084c3c16fef4769a3768e278fcc70e83fd10bbb86577fa4",
+      "commentary_after_sha256": "27d40f2371b9e94f2084c3c16fef4769a3768e278fcc70e83fd10bbb86577fa4"
     },
     {
-      "id": "a227",
+      "id": "a243",
       "reviewed": true,
-      "finding": "Authentieke akte, doen opnemen, waarheidsfunctie, gebruiksoogmerk en beide lid2-varianten gecontroleerd. HR2000 en conclusie afzonderlijk gelezen; tegengestelde standpunten correct onderscheiden, zesjaarmaximum bevestigd.",
+      "finding": "Beide leden, binnendringen, wetenschap, aanvullende dwang/geweld/bedreiging, negen/twaalfjaarmaxima en vijfde categorie gecontroleerd. Artikel1-check bij oudere feiten behouden.",
       "changed": false,
-      "source_text_sha256": "5d273449b5f94b5c9ae10ed231ee354676a2d3da3a190504324709ff83bdee22",
-      "commentary_before_sha256": "b7af20735ab4129e529d87f0238939fc2a93a2341dec3aef24a3e826742ecf18",
-      "commentary_after_sha256": "b7af20735ab4129e529d87f0238939fc2a93a2341dec3aef24a3e826742ecf18"
+      "source_text_sha256": "854c140d644f7a4363ba46c4506a2408d25f217fa580b452b416666eac917a5a",
+      "commentary_before_sha256": "1f8acfc270087b555edac174542cfe98bb82eca00de988894ddeb9443120eb10",
+      "commentary_after_sha256": "1f8acfc270087b555edac174542cfe98bb82eca00de988894ddeb9443120eb10"
     }
   ],
   "limitations": [
-    "Exactly twenty assigned units reviewed; whole manuscript remains incomplete. External metrology, hallmarking, postal and treaty regimes not independently surveyed beyond the references in the Sr.",
-    "Three retained full primary judgments reread; prior selective national-corpus research checked. No exhaustive later-case search or separate full European-law survey.",
+    "Exactly twenty assigned units reviewed; whole manuscript remains incomplete. External benefits, medical, marriage and European budgetary regimes not independently surveyed beyond references in the Sr.",
+    "Two retained full primary judgments reread; prior selective national-corpus research checked. No exhaustive later-case search or separate full European-law survey.",
     "No external professional approval."
   ],
   "other_commentary_files_unchanged": true,
@@ -220,9 +220,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 759379,
+    "commentary_chars": 797216,
     "errors": [
-      "krátký/chybějící komentář u 332 jednotek: ['a227a(0<400)', 'a227b(0<400)', 'a227c(0<400)', 'a228(0<400)', 'a229(0<400)', 'a230(0<400)', 'a231(0<400)', 'a231a(0<400)']"
+      "krátký/chybějící komentář u 312 jednotek: ['a244(0<400)', 'a245(0<400)', 'a246(0<400)', 'a247(0<400)', 'a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a250a(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
