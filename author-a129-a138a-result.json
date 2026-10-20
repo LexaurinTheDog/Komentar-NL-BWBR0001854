@@ -431,5 +431,37 @@
     "Article137c Handvest reference preserved as a statutory citation; constituent treaty crimes are not independently expounded.",
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed."
   ],
-  "updated_at": "2026-10-20T19:34:03.959061+00:00"
+  "updated_at": "2026-10-20T19:34:03.959061+00:00",
+  "technical_validation": {
+    "all20_present_and_rendered": true,
+    "statutory_text_agreement": 1.0,
+    "official_inventory_complete": true,
+    "expected_and_parsed_units": 812,
+    "local_links_ok": true,
+    "local_links_checked": 755,
+    "exact_repeated_paragraphs": 0,
+    "full_shared_build_ok": false,
+    "strict_validator_ok": false,
+    "out_of_scope_missing_commentaries": 472,
+    "validation": "validation-author-a129-a138a.json"
+  },
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 517355,
+    "errors": [
+      "krátký/chybějící komentář u 472 jednotek: ['a138aa(0<400)', 'a138ab(0<400)', 'a138b(0<400)', 'a138c(0<400)', 'a139(0<400)', 'a139a(0<400)', 'a139b(0<400)', 'a139c(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "build_result": {
+    "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 472 jednotkám, např.: ['a138aa', 'a138ab', 'a138b', 'a138c', 'a139', 'a139a', 'a139b', 'a139c', 'a139d', 'a139e']\n",
+    "scope": "Full812-unitmanuscript; no narrowing or validator modification."
+  },
+  "validated_at": "2026-10-20T19:35:49.246581+00:00"
 }

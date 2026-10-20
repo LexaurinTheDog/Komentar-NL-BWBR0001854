@@ -98,25 +98,19 @@
   ],
   "case_law_scope": "Selective primary research; current author batch uses six fresh full decisions and one re-read prior decision, with procedural and historical limits stated. No exhaustive coverage.",
   "build_result": {
-    "command": [
-      "python3",
-      "-B",
-      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
-      "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
-    ],
-    "returncode": 1,
+    "command": "python3 -B /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+    "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 492 jednotkám, např.: ['a129', 'a130', 'a130a', 'a130b', 'a131', 'a132', 'a133', 'a134', 'a134a', 'a135']\n",
-    "ran_at": "2026-10-20T19:18:19.521354+00:00",
-    "scope": "Unchanged whole-manuscript builder; expected refusal because 492 out-of-scope articles have no commentary. No narrowed build or placeholders used. Explicit incomplete checkpoint separately rendered by existing local helper."
+    "stderr": "CHYBÍ komentář k 472 jednotkám, např.: ['a138aa', 'a138ab', 'a138b', 'a138c', 'a139', 'a139a', 'a139b', 'a139c', 'a139d', 'a139e']\n",
+    "scope": "Full812-unitmanuscript; no narrowing or validator modification."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 468952,
+    "commentary_chars": 517355,
     "errors": [
-      "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
+      "krátký/chybějící komentář u 472 jednotek: ['a138aa(0<400)', 'a138ab(0<400)', 'a138b(0<400)', 'a138c(0<400)', 'a139(0<400)', 'a139a(0<400)', 'a139b(0<400)', 'a139c(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -143,7 +137,7 @@
     "Article137c Handvest reference preserved as a statutory citation; constituent treaty crimes are not independently expounded.",
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed."
   ],
-  "updated_at": "2026-10-20T19:34:03.959061+00:00",
+  "updated_at": "2026-10-20T19:35:49.246581+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T19:20:26.653187+00:00",
@@ -160,7 +154,7 @@
     "bounded_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T19:20:26.653187+00:00",
+  "validation_checked_at": "2026-10-20T19:35:49.246581+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -914,15 +908,28 @@
     "completed_units": 20,
     "report": "author-a129-a138a-result.json",
     "independent_second_pass": false,
-    "source_preflight": "sources/author-a129-a138a-version-evidence.json"
+    "source_preflight": "sources/author-a129-a138a-version-evidence.json",
+    "technical_validation": {
+      "all20_present_and_rendered": true,
+      "statutory_text_agreement": 1.0,
+      "official_inventory_complete": true,
+      "expected_and_parsed_units": 812,
+      "local_links_ok": true,
+      "local_links_checked": 755,
+      "exact_repeated_paragraphs": 0,
+      "full_shared_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 472,
+      "validation": "validation-author-a129-a138a.json"
+    }
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 468952,
+    "commentary_chars": 517355,
     "errors": [
-      "krátký/chybějící komentář u 492 jednotek: ['a129(0<400)', 'a130(0<400)', 'a130a(0<400)', 'a130b(0<400)', 'a131(0<400)', 'a132(0<400)', 'a133(0<400)', 'a134(0<400)']"
+      "krátký/chybějící komentář u 472 jednotek: ['a138aa(0<400)', 'a138ab(0<400)', 'a138b(0<400)', 'a138c(0<400)', 'a139(0<400)', 'a139a(0<400)', 'a139b(0<400)', 'a139c(0<400)']"
     ],
     "warnings": [],
     "ok": false
