@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2024:1573</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-25T10:06:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-11-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-11-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/04850</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2024:834" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2024:834</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2022:2595" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHDHA:2022:2595</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2024-0264</rdf:li>
+          <rdf:li>NJB 2024/2392</rdf:li>
+          <rdf:li>RvdW 2024/1077</rdf:li>
+          <rdf:li>NJ 2025/23 met annotatie van N. Rozemond</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2024:1573">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2024:1573</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-11-07T12:16:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-11-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2024:1573 Hoge Raad , 05-11-2024 / 22/04850</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2024:1573:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Opruiing, meermalen gepleegd, door online plaatsen van Twitterberichten met o.a. tekst “Moge Allah swt de zionisten vernietigen” door gemeenteraadslid (art. 131.1 Sr). 1. Heeft verdachte opgeruid tot het plegen van enig strafbaar feit? 2. Heeft verdachte gehandeld met het voor opruiing vereiste opzet? </para>
+        <para>Ad 1. HR herhaalt relevante overwegingen uit HR:2020:2020 en HR:2020:447 m.b.t. beoordeling of uitingen aansporen tot enig strafbaar feit. Bewijsoverwegingen van hof houden over opruiend karakter van tweets in dat verdachte tweets heeft opgesteld in vorm van smeekbede. Die smeekbede heeft betrekking op groep personen met bepaalde politieke overtuiging, te weten: zionisten, en houdt als wens in dat deze groep wordt vernietigd door Allah. Met term ‘vernietigen’ in smeekbede wordt daarbij bedoeld: het op gewelddadige wijze doden. Tweets kunnen groot publiek bereiken. Met plaatsen van deze berichten op Twitter is dan ook tegenover dit publiek algemene wens uitgesproken dat zionisten worden gedood en daarmee ook algemene wens dat strafbare feiten t.a.v. hen plaatsvinden. Hof heeft vervolgens geoordeeld dat, ook al hebben tweets vorm van een aan Allah gerichte smeekbede, sprake is van opruiing a.b.i. art. 131.1 Sr. Daaraan heeft hof ten grondslag gelegd dat uitspreken van wens anderen tot actie kan bewegen en kan bijdragen aan vervulling van die wens, en dat in omstandigheden van dit geval (gelet op context van de in 2018 en 2019 bestaande terroristische dreiging, antisemitische teneur in twitterberichten van verdachte, gebruik van term ‘vernietigen’ en toevoeging van emoticons van vuur en een vuist) in twitterberichten aan publiek wens is uitgesproken die als ophitsend moet worden beschouwd. Dit oordeel is (gelet op wat hof heeft overwogen over inhoud en strekking van tweets en context waarin deze aan publiek zijn gedaan) toereikend gemotiveerd. Dat in tweets opgenomen wens niet rechtstreeks aanspoort tot enig strafbaar feit, doet daaraan niet af. </para>
+        <para>Ad 2. In begrip ‘opruiing’ a.b.i. art. 131.1 Sr ligt opzet besloten. Voor bewezenverklaring van opruiing is daarom ten minste vereist dat verdachte bewust de aanmerkelijke kans heeft aanvaard dat zijn uitingen derden aansporen tot strafbaar gedrag of tot gewelddadig optreden tegen openbaar gezag.</para>
+        <para>Bij oordeel over het voor opruiing vereiste opzet heeft hof in aanmerking genomen dat met gebruik van woord ‘vernietigen’, gelet op wijze waarop dat woord door verdachte is gebruikt in reactie op (nieuws)berichten over gewelddadig conflict tussen Israël en Palestijnen, kans aanmerkelijk is dat lezers van die berichten de uitlatingen van verdachte zouden opvatten als aanmoediging tot plegen van strafbaar feit. Daarbij wordt met gebruiken van openbaar sociaal medium met groot bereik, zoals Twitter, kans vergroot dat iemand daadwerkelijk overgaat tot doen van hetgeen waartoe wordt aangemoedigd. Voor verdachte waren deze omstandigheden kenbaar, maar hij heeft niettemin zijn uitlatingen gedaan via zijn openbare Twitter-account, wetende dat hij ruim 31.000 volgers heeft en zijn tweets konden worden geretweet. Hof heeft verder in zijn oordeel betrokken dat uit dossier volgt dat uitlatingen van verdachte door derden ook daadwerkelijk zijn opgevat als aanmoediging tot plegen van strafbare feiten, waarbij hof kennelijk doelt op waarschuwende reactie die is gevolgd op tweet en die inhoudt dat met die tweet mensen worden aangezet tot plegen van terreurdaden, waarna verdachte zijn uitlatingen niet heeft genuanceerd, maar exact dezelfde uiting heeft herhaald. ‘s Hofs hierop gebaseerde oordeel dat verdachte met doen van zijn uitlatingen de aanmerkelijke kans heeft aanvaard dat zijn uitingen derden aansporen tot strafbaar gedrag, is toereikend gemotiveerd. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2024:1573:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>22/04850 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>5 november 2024</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 22 december 2022, nummer 22-002930-21, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1966,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt en M.J. van Berlo, beiden advocaat in Rotterdam, bij schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>De plaatsvervangend advocaat-generaal M.E. van Wees heeft geconcludeerd tot verwerping van het beroep. </para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van de cassatiemiddelen</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>De cassatiemiddelen komen op tegen de bewezenverklaring van het onder 1 en 2 tenlastegelegde. Het eerste cassatiemiddel richt zich onder meer tegen het oordeel van het hof dat de verdachte door het op Twitter plaatsen van de tenlastegelegde berichten, heeft opgeruid in de zin van artikel 131 lid 1 van het Wetboek van Strafrecht (hierna: Sr) tot het plegen van enig strafbaar feit. Het tweede cassatiemiddel klaagt over het oordeel van het hof dat de verdachte heeft gehandeld met het voor opruiing vereiste opzet. De cassatiemiddelen lenen zich voor gezamenlijke bespreking.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>“1. hij op 14 mei 2018 in Nederland in het openbaar, bij geschrift tot enig strafbaar feit heeft opgeruid, door het plaatsen van een bericht en/of reactie op social media te weten op het [twitteraccount 1] met de tekst: </para>
+          <para>“Vandaag in Palestina weer tientallen jonge mensen door kogels van de zionistische bezettingsmacht vermoord. Het wordt druk in het paradijs” <?linebreak?>“Moge Allah swt de zionisten vernietigen” </para>
+          <para>en daarbij emoji’s van een vuist en van vuur te plaatsen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. hij op 22 en 23 mei 2018 te ‘s-Gravenhage, althans in Nederland in het openbaar, bij geschrift tot enig strafbaar feit heeft opgeruid, door het plaatsen van een bericht en/of reactie op social media te weten op het [twitteraccount 1] met de tekst: </para>
+          <para>“May Allah swt destroy the zionists.”.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Het hof heeft over de bewezenverklaring onder meer overwogen:</para>
+          <para>“In deze zaak gaat het om (...) door de verdachte op zijn openbaar [twitteraccount 1] geplaatste tweets, namelijk de volgende:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Feit 1 ‑ tweet 14 mei 2018</para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="bcdf3ea7-e8f3-47b7-8cc4-ba59e0897289" depth="281" width="411" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <parablock>
+          <para>Feit 2 - tweets 22 en 23 mei 2018</para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="e8351a92-82d5-4458-b60e-46854ed8fbcc" depth="242" width="477" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="8a466ead-3e9a-4944-8629-8d7a08232c6e" depth="231" width="555" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <parablock>
+          <para>(...)</para>
+          <para>De (...) tweets zijn als (...) afzonderlijke feiten ten laste gelegd.</para>
+          <para>Dit twitteraccount van de verdachte had in de periode dat deze tweets zijn geplaatst tenminste ruim 31.000 volgers. De verdachte was in deze tijd raadslid in de gemeente Den Haag.</para>
+          <para>Aan de tweets is te zien dat de verdachte reageert op berichten over confrontaties tussen Israëli en Palestijnen.</para>
+          <para>Op het twitteraccount van de verdachte zijn voorts, onder andere, door de verdachte de volgende tweets geplaatst:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 12 april 2018:</para>
+          <para>Een afbeelding van een auto van het merk Landrover met de tekst:</para>
+          <para>“De Joodse vriend van mijn buurman heeft een nieuwe auto gekocht. Maar hij snapte niet dat ik daarom moest lachten...”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 3 juni 2018:</para>
+          <para>Zeg @fedratiefjoods lukt het een beetje met jullie aangifte? Ik kan niet wachten (emoticons)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tussen juni en september 2018:</para>
+          <para>Zojuist interessant artikel gelezen. “Hebben de ‘goeden’ WO2 gewonnen of niet?” Of waren de nazi’s beschermers van de Europese beschaving tegen het (o.a. Amerikaans) zionisme en het communisme van Stalin? Is er sprake van geschiedvervalsing? Iets om over na te denken... (emoticon)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 6 juli 2019:</para>
+        </parablock>
+        <mediaobject>
+          <imageobject>
+            <imagedata align="center" scale="100" fileref="e5bca279-5883-4b56-93f9-51513f5de3cf" depth="895" width="618" format="image/png" />
+          </imageobject>
+        </mediaobject>
+        <para />
+        <parablock>
+          <para>De verdachte heeft verklaard dat de afbeelding in deze laatste een retweet is geweest.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordeling</para>
+          <para>De verweren</para>
+          <para>De verdediging heeft gemotiveerd gesteld dat er geen sprake is van opruiing. Met zijn tweets heeft de verdachte uitsluitend en alleen Allah aangeroepen en Hem gevraagd de zionisten respectievelijk de vijanden van de Islam, in overeenstemming met passages uit de Koran, te vernietigen op de dag des oordeels. Dit is geen rechtstreeks oproepen tot een bepaald strafbaar feit. (...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bespreking van de tenlastegelegde feiten</para>
+          <para>Het hof zal de uitingen bespreken en daarbij aandacht besteden aan de context van die uitingen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Feit 1: Moge Allah swt de zionisten vernietigen, gevolgd door emoticons van een vuist en van vuur</para>
+          <para>De tweet is opgesteld in de vorm van een smeekbede aan Allah. Met ‘zionisten’ wordt een groep personen met een bepaalde politieke overtuiging aangeduid. Het begrip zionisme is verbonden met de staat Israël, maar antizionisme moet worden onderscheiden van antisemitisme en is daar niet aan gelijk te stellen. In grammaticale zin zijn ‘de zionisten’ in deze zin lijdend voorwerp zodat de smeekbede de wens uit dat de zionisten vernietigd worden door Allah.</para>
+          <para>Het woord vernietigen in relatie tot personen heeft de betekenis van ‘doden’. De verdediging heeft gesteld dat het woord ook vernietigen in financiële zin kan betekenen of, in deze smeekbede, ook kan betekenen dat de macht van de zionisten wordt vernietigd. Het hof volgt die redenering niet. Om tot een door de verdediging naar voren gebrachte alternatieve betekenis te concluderen moet er context - in de zin van toegevoegde of andere gebruikte woorden - zijn die deze conclusie rechtvaardigt. Van een dergelijke context is geen sprake. Naar het oordeel van het hof is de tweet dan ook een uiting van de wens dat de zionisten gedood worden en wel op een gewelddadige wijze. Vernietigd worden verwijst immers niet naar een vreedzame dood, maar naar een dood door geweld, strijd of een aanslag. In de maatschappelijke context van de jaren 2018 en 2019 is de link naar een aanslag door terroristen snel gelegd. Dat het Arabisch woord voor vernietigen anders moet worden geïnterpreteerd, zoals de verdediging heeft gesteld, doet niet ter zake omdat de tweet in het Nederlands is gesteld.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Een volgende vraag is welke betekenis toekomt aan de vorm waarin de tweet is geplaatst, namelijk een smeekbede. De verdachte heeft gesteld dat het gebed tot Allah gelovigen er bij bepaalt dat Allah degene is die uiteindelijk oordeelt en straft en dat eigenrichting niet mag. De emoticon van het vuur wijst op het eindoordeel, aldus de verdachte. </para>
+          <para>Het hof acht op dit punt de context mede van belang. De tweet is geplaatst op een openbaar twitteraccount en de verdachte heeft ruim 31.000 volgers. De tweet kon worden geretweet en is ook op die manier verder verspreid, zij het in geringe mate. De verdachte kent uiteraard niet al zijn volgers noch heeft hij enig zicht op de personen bij wie de tweet uiteindelijk terecht komt. Dit betekent dat de verdachte zich met zijn smeekbede heeft gericht tot een publiek, waarvan hij niet weet of ze al dan niet gelovig zijn. De tweet kan daarom niet worden vergeleken met een gebed dat in een moskee wordt uitgesproken door een imam of andere voorganger of in het kader van religieuze activiteiten of tussen gelovigen onderling. Door de smeekbede in een tweet te uiten heeft de uiting meer het karakter van een in het openbaar uitgesproken wens dan het karakter van een openbaar gebed. Daarom is het hof van oordeel dat de vorm waarin de uiting is gedaan, namelijk een smeekbede, niet af doet aan het feit dat de algemene wens wordt uitgesproken dat de zionisten worden gedood. Met dit oordeel sluit het hof aan bij vaste jurisprudentie dat de vraag of een uiting opruiend is niet afhangt van gestelde eventualiteiten of voorwaarden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof dient zich voorts af te vragen of de uiting rechtstreeks tot een strafbaar feit oproept. De tweet is immers geplaatst als een reactie op een bericht over een gebeurtenis in Palestina en staat daarmee in het kader van iets dat zich buiten de Nederlandse landsgrenzen afspeelt. Het is de vraag of de uiting iemand bereikt die in de Palestijnse gebieden is of dat iemand in Nederland zich aangemoedigd zal voelen om naar de Palestijnse gebieden af te reizen om een aanslag te plegen.</para>
+          <para>Uitgangspunt is dat de vraag of de opruiing navolging heeft gevonden niet van belang is bij de vraag of de uiting als opruiing kan worden gekwalificeerd. Geoordeeld moet worden of de daad waartoe wordt opgeroepen een strafbaar feit behelst.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof is van oordeel dat het vernietigen van zionisten een strafbaar feit is. In aanmerking genomen wat het hof hiervoor heeft overwogen over de geweldscomponent die besloten ligt in het woord ‘vernietigen’ in relatie tot personen, is het hof van oordeel dat met deze uiting de wens wordt uitgesproken dat strafbare feiten plaatsvinden. Er zijn twee componenten in deze zaak die maken dat het hof van oordeel is dat de uiting oproept tot rechtstreeks strafbare feiten. De eerste component is dat de Nederlander die in het buitenland een moord pleegt onder de Nederlandse jurisdictie valt en een strafbaar feit pleegt naar Nederlands recht. De tweede component is dat de verdachte zich in zijn tweets regelmatig, in al dan niet ‘grappig’ bedoelde zin, antisemitisch uitlaat. Daarmee laat de verdachte zelf de grens tussen antizionisme en antisemitisme vervagen en infecteert zijn wens tot vernietiging van de zionisten wel degelijk ook de Nederlandse samenleving.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Vervolgens vraagt het hof zich af of het uitspreken van de wens dat de zionisten vernietigd worden als opruiing moet worden gekwalificeerd.</para>
+          <para>Het uitspreken van een wens heeft als gevolg dat het gewenste een positieve lading krijgt. Daardoor kan het uitspreken van een wens anderen tot actie bewegen, anderen kunnen zich geroepen voelen om de een of andere reden bij te dragen aan de vervulling van die wens. De context van terroristische dreiging, zoals dat in 2018 en 2019 het geval was, de antisemitische teneur in de twitterberichten van de verdachte, het gebruik van het woord vernietigen en de toevoeging van de emoticons van vuur en een vuist, brengen het hof tot het oordeel dat de via zijn twitteraccount door de verdachte uitgesproken wens ophitsend is.</para>
+          <para>Hoe ernstig de gedragingen waar verdachte op reageerde ook zijn, de tweet is niet gerechtvaardigd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Feit 2: May Allah swt destroy the zionists</para>
+          <para>Deze tweet is gesteld in het Engels. De inhoud en strekking komt exact overeen met de inhoud en strekking van de tweet die onder feit 1 ten laste is gelegd. Hetgeen het hof omtrent feit 1 heeft overwogen, geldt mutatis mutandis ook voor feit 2.</para>
+          <para>De tweets zoals die op 22 en 23 mei 2018 zijn geplaatst worden mede bezien in het licht van de op 14 mei 2018 geplaatste tweet, welke is tenlastegelegd als feit 1, en de reacties op die tweet.</para>
+          <para>Op 16 mei 2018 heeft iemand met het [twitteraccount 2] de volgende reactie op de tweet van de verdachte van 14 mei geplaatst: ‘Dus je roept openlijk op tot moord. Allah moet volgens jou de zionisten vernietigen. Je doet aan sfeermakerij. Je weet dat mensen bereid zijn te sterven voor Allah. Je zet deze mensen aan tot het plegen van terreurdaden. Dat is strafbaar’</para>
+          <para>De verdachte heeft daarop gereageerd op 20 mei 2018 met: ‘Ik zou zeggen: doe aangifte. #succes’</para>
+          <para>Hieruit blijkt dat de verdachte werd gewaarschuwd dat zijn tweet mogelijk strafbaar zou kunnen zijn. De verdachte heeft die waarschuwing niet ter harte genomen en zijn uitlatingen niet genuanceerd. Evenmin heeft hij aangegeven dat hij iets anders bedoelde dan kennelijk werd begrepen. Integendeel, op 22 en 23 mei 2018 plaatste de verdachte de onder feit 2 tenlastegelegde tweets waarin hij, in het Engels, exact dezelfde uiting doet. Het hof concludeert dat ook feit 2 opruiend is.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Opzet van verdachte voor de feiten 1 en 2</para>
+          <para>Tot slot moet de vraag worden beantwoord of sprake is van opzet. Verdachte heeft verklaard dat het niet zijn bedoeling was om aan te zetten tot een strafbaar feit. Met de rechtbank is het hof van oordeel dat er onvoldoende aanknopingspunten zijn voor het oordeel dat de verdachte ‘vol opzet’ heeft gehad op opruiing, zodat de vraag resteert of de verdachte in voorwaardelijke zin opzettelijk heeft gehandeld. Die vraag beantwoordt het hof bevestigend. Door het gebruik van het woord vernietigen op de wijze als hiervoor vermeld in reactie op (nieuws)berichten die zien op het gewelddadige conflict tussen Israël en de Palestijnen, is de kans dat lezers van die berichten verdachtes uitlatingen zouden opvatten als een aanmoediging tot het plegen van een strafbaar feit aanmerkelijk. Daarbij neemt het hof in aanmerking ‑ zoals hiervoor reeds overwogen ‑ dat het gebruiken van een openbaar social medium met een groot bereik zoals Twitter, de kans vergroot dat iemand daadwerkelijk overgaat tot het doen van hetgeen waartoe wordt aangemoedigd. Die omstandigheden waren voor de verdachte kenbaar. Door de uitlatingen via zijn openbare Twitter te doen, wetende dat hij ruim 31.000 volgers op Twitter had, heeft de verdachte de kans dat iemand zijn uitlatingen zou opvatten als een aanmoediging tot het plegen van een strafbaar feit bewust aanvaard. Dat de uitlatingen ook daadwerkelijk zo door anderen zijn opgevat, vindt bevestiging in </para>
+          <para>het dossier.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Conclusie</para>
+          <para>Het hof oordeelt dat de onder 1 en 2 tenlastegelegde feiten wettig en overtuigend bewezen zijn en dat dit strafbare feiten zijn.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 131 lid 1 Sr luidt:</para>
+          <para>“Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <para>De tenlastelegging is toegesneden op artikel 131 Sr. Daarom moet worden aangenomen dat het in de tenlastelegging en de bewezenverklaring voorkomende begrip ‘opruiing’ is gebruikt in de betekenis die dat begrip heeft in die bepaling.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>Bij de beoordeling of de door een verdachte gedane uitingen aansporen tot enig strafbaar feit en dus ‘opruiend’ zijn in de zin van artikel 131 Sr, komt betekenis toe aan de inhoud en de strekking van de gedane uitingen in hun onderlinge samenhang bezien, alsmede de context waarin deze uitingen aan het publiek zijn geopenbaard (vgl. HR 15 december 2020, ECLI:NL:HR:2020:2020). Niet is uitgesloten dat ook een indirecte aansporing tot enig strafbaar feit kan worden aangemerkt als opruiing (vgl. HR 24 maart 2020, ECLI:NL:HR:2020:447).</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>In het begrip ‘opruiing’ als bedoeld in artikel 131 lid 1 Sr ligt opzet besloten. Voor een bewezenverklaring van opruiing is daarom ten minste vereist dat de verdachte bewust de aanmerkelijke kans heeft aanvaard dat zijn uitingen derden aansporen tot strafbaar gedrag of tot gewelddadig optreden tegen het openbaar gezag. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.1</nr>
+        <para>De bewijsoverwegingen van het hof houden over het opruiende karakter van de tweets in de kern het volgende in. De verdachte heeft de in de bewezenverklaring weergegeven tweets opgesteld in de vorm van een smeekbede. Die smeekbede heeft betrekking op een groep personen met een bepaalde politieke overtuiging, te weten: zionisten, en houdt als wens in dat deze groep wordt vernietigd door Allah. Met de term ‘vernietigen’ in de smeekbede wordt daarbij bedoeld: het op een gewelddadige wijze doden. Tweets kunnen een groot publiek bereiken. Met het plaatsen van deze berichten op Twitter is dan ook tegenover dit publiek de algemene wens uitgesproken dat zionisten worden gedood en daarmee ook de algemene wens dat strafbare feiten ten aanzien van hen plaatsvinden.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.2</nr>
+        <para>Het hof heeft vervolgens geoordeeld dat, ook al hebben de tweets de vorm van een aan Allah gerichte smeekbede, sprake is van opruiing als bedoeld in artikel 131 lid 1 Sr. Daaraan heeft het hof ten grondslag gelegd dat het uitspreken van een wens anderen tot actie kan bewegen en kan bijdragen aan de vervulling van die wens, en dat in de omstandigheden van dit geval ‑ gelet op de context van de in 2018 en 2019 bestaande terroristische dreiging, de antisemitische teneur in de twitterberichten van de verdachte, het gebruik van de term ‘vernietigen’ en de toevoeging van de emoticons van vuur en een vuist ‑ in de twitterberichten aan het publiek een wens is uitgesproken die als ophitsend moet worden beschouwd. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.3</nr>
+        <para>Dit oordeel van het hof is ‑ gelet op wat het hof heeft overwogen over de inhoud en de strekking van de tweets en de context waarin deze aan het publiek zijn gedaan ‑ toereikend gemotiveerd. Dat de in de tweets opgenomen wens niet rechtstreeks aanspoort tot enig strafbaar feit, doet daaraan niet af.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het eerste cassatiemiddel faalt in zoverre.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>Bij zijn oordeel over het voor opruiing vereiste opzet heeft het hof het volgende in aanmerking genomen. Met het gebruik van het woord ‘vernietigen’ is, gelet op de wijze waarop dat woord door de verdachte is gebruikt in reactie op (nieuws)berichten over het gewelddadige conflict tussen Israël en de Palestijnen, de kans aanmerkelijk dat lezers van die berichten de uitlatingen van de verdachte zouden opvatten als aanmoediging tot het plegen van een strafbaar feit. Daarbij wordt met het gebruiken van een openbaar sociaal medium met een groot bereik, zoals Twitter, de kans vergroot dat iemand daadwerkelijk overgaat tot het doen van hetgeen waartoe wordt aangemoedigd. Voor de verdachte waren deze omstandigheden kenbaar, maar hij heeft niettemin zijn uitlatingen gedaan via zijn openbare Twitter-account, wetende dat hij ruim 31.000 volgers heeft en zijn tweets konden worden geretweet. Het hof heeft verder in zijn oordeel betrokken dat uit het dossier volgt dat de uitlatingen van de verdachte door derden ook daadwerkelijk zijn opgevat als een aanmoediging tot het plegen van strafbare feiten, waarbij het hof kennelijk doelt op een waarschuwende reactie die is gevolgd op de tweet van 14 mei 2018 en die inhoudt dat met die tweet mensen worden aangezet tot het plegen van terreurdaden, waarna de verdachte zijn uitlatingen niet heeft genuanceerd, maar exact dezelfde uiting heeft herhaald. <?linebreak?>Het hierop gebaseerde oordeel van het hof dat de verdachte met het doen van zijn uitlatingen de aanmerkelijke kans heeft aanvaard dat zijn uitingen derden aansporen tot strafbaar gedrag, is toereikend gemotiveerd. Voor zover het tweede cassatiemiddel hierover klaagt, faalt het.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.8</nr>
+      <para>De Hoge Raad heeft ook de overige klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren M. Kuijer en C. Caminada, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">5 november 2024</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,67 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2021:1036",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1036",
+    "accessed_at": "2026-10-20T19:22:29.324245+00:00",
+    "path": "sources/author-a129-a138a-HR-2021-1036.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "8ea41467f9fb1ef9ababd93f995abe076183eda5fd795383ba6393604068fb79",
+    "bytes": 100114,
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "expected_format_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:GHAMS:2021:2860",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2021:2860",
+    "accessed_at": "2026-10-20T19:22:29.668098+00:00",
+    "path": "sources/author-a129-a138a-GHAMS-2021-2860.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "40fc5c5d4e10fc914ef663d1fdf6e16a82919b9836e2fe06c2c0b3c00aa413f1",
+    "bytes": 38576,
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "expected_format_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:GHAMS:2021:2862",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2021:2862",
+    "accessed_at": "2026-10-20T19:22:30.218742+00:00",
+    "path": "sources/author-a129-a138a-GHAMS-2021-2862.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "96e82f705bf83e276a06753510dd57051eb013f2a0d980ccece26314351e9f2c",
+    "bytes": 38421,
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "expected_format_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2010:BM5282",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BM5282",
+    "accessed_at": "2026-10-20T19:22:30.665275+00:00",
+    "path": "sources/author-a129-a138a-HR-2010-BM5282.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "974a8d0c0a60a956c1f9c3fd66132b203f14952ef54a3d4cddf97b0b11f8ca7b",
+    "bytes": 14155,
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": true,
+    "expected_format_valid": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2013:1385",
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:1385",
+    "accessed_at": "2026-10-20T19:22:30.935588+00:00",
+    "path": "sources/author-a129-a138a-HR-2013-1385.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "740a766e80332cfb5c61c91f5ab8e981d2a0cd7a80fff6bd6da59ac62ad58b01",
+    "bytes": 2348,
+    "root": "open-rechtspraak",
+    "full_judgment_nonempty": false,
+    "expected_format_valid": false
+  }
+]

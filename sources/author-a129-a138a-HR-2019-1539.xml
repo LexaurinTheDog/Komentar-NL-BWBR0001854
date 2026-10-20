@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2019:1539</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T07:04:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-10-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2019-10-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/00270</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:818" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2019:818</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2019/1099</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:1539">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:1539</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2019-10-08T14:44:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-10-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2019:1539 Hoge Raad , 08-10-2019 / 18/00270</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2019:1539:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Medeplegen diefstal d.m.v. braak in woning (art. 311.1 Sr) en medeplegen diefstal met bedreiging met geweld in woning (art. 312.2.2 Sr) in Enschede. Bewijsklacht gewelddadige woningoverval. Verweer dat door aangever opgegeven signalement weliswaar summier is maar t.a.v. aantal specifieke kenmerken verdachte uitsluit. HR: art. 81.1 RO. Samenhang met 18/00085 en 18/00269.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2019:1539:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	18/00270</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		8 oktober 2019</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, van 22 december 2017, nummer 21/002776-17, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1983,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt en P. van Dongen, beiden advocaat te Rotterdam, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De Advocaat-Generaal T.N.B.M. Spronken heeft geconcludeerd tot vernietiging van het bestreden arrest voor wat betreft de hoogte van de opgelegde straf en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <para>	Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Het middel is gegrond. Voorts doet de Hoge Raad in deze zaak waarin de verdachte zich in voorlopige hechtenis bevindt, uitspraak nadat meer dan zestien maanden zijn verstreken na het instellen van het cassatieberoep. Een en ander brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot vermindering van de aan de verdachte opgelegde gevangenisstraf van 30 maanden.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de bestreden uitspraak, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>- vermindert deze in die zin dat deze 28 maanden beloopt;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren V. van den Brink en M.J. Borgers, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">8 oktober 2019</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

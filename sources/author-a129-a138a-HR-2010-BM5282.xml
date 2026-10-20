@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2010:BM5282</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T16:56:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BM5282</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2010-07-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">09/00596</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2010:BM5282" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2010:BM5282</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2010/929</rdf:li>
+          <rdf:li>NJ 2010/426</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2010:BM5282">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2010:BM5282</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T06:26:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2010-07-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2010:BM5282 Hoge Raad , 06-07-2010 / 09/00596</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2010:BM5282:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>OM-cassatie. Grondslagverlating. ‘Wederrechtelijk binnendringen’ a.b.i. art. 138 Sr. De HR herhaalt relevante overwegingen uit HR NJ 1971, 96. De door het Hof genoemde omstandigheid dat "nu bij eerdergenoemde vordering de toegang voor de periode van een jaar wordt ontzegd, niet met de gewenste nauwkeurigheid getoetst kan worden of de rechthebbende ook op het in de tll. genoemde tijdstip redelijkerwijs kon en mocht bepalen dat deze persoon wederrechtelijk in de flat is binnengedrongen", getuigt van een onjuiste opvatting omtrent de in de tenlastelegging voorkomende uitdrukking "wederrechtelijk is binnengedrongen", nu dir niet kan gelden als een bijzondere omstandigheid.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2010:BM5282:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>6 juli 2010</para>
+      <para>Strafkamer</para>
+      <para>nr. 09/00596</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een bij verstek gewezen arrest van het Gerechtshof te Amsterdam van 18 juni 2007, nummer 23/006067-06, in de strafzaak tegen:</para>
+      <para>[Verdachte], geboren op [geboorteplaats] op [geboortedatum] 1962, ten tijde van de betekening van de aanzegging zonder bekende woon- of verblijfplaats hier te lande. </para>
+    </parablock>
+    <para />
+    <para>1. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De Advocaat-Generaal Vellinga heeft geconcludeerd tot vernietiging van het bestreden arrest, doch uitsluitend wat betreft de in zaak B gegeven vrijspraak, tot terugwijzing van de zaak dan wel verwijzing naar een aangrenzend hof teneinde in zoverre op het bestaande hoger beroep te worden berecht en afgedaan, en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para>2. Beoordeling van het middel</para>
+    <para />
+    <para>2.1. Het middel behelst de klacht dat het Hof bij zijn vrijspraak ten aanzien van het in zaak B tenlastegelegde de grondslag van de tenlastelegging heeft verlaten.</para>
+    <para />
+    <parablock>
+      <para>2.2. Aan de verdachte is in zaak B tenlastegelegd dat:</para>
+      <para>"hij op of omstreeks 06 november 2006 te Amsterdam wederrechtelijk is binnengedrongen in een besloten lokaal, te weten de flat [A] en in gebruik bij woningstichting [B], althans bij een ander of anderen dan bij verdachte."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.3. Het Hof heeft de verdachte van het hem in zaak B tenlastegelegde vrijgesproken. Het Hof heeft daartoe het volgende overwogen:</para>
+      <para>"Tenlastegelegd is dat de verdachte op 6 november 2006 in Amsterdam wederrechtelijk is binnengedrongen in een besloten lokaal, te weten de flat [A] en in gebruik bij de woningstichting [B], althans bij een ander of anderen dan bij verdachte.</para>
+      <para>In verschillende flats in Amsterdam Zuidoost ondervindt men veel overlast van personen die in die flats doelloos rondhangen en daar ook overnachten. In reactie op dit probleem heeft de eigenaar van een aantal van deze flats, woningstichting [C], met de politie afspraken gemaakt die, kort gezegd, inhouden dat de politie, wanneer zij iemand in deze flats aantreft die zich daar hinderlijk ophoudt en daar niet woonachtig is, aan deze persoon een brief uitreikt. In de brief wordt de betrokken persoon voor een jaar de toegang tot de flat ontzegd met de volgende zinsnede:</para>
+      <para>"Op het tijdstip van aanvang vordering is u voor 1 jaar de toegang ontzegd tot het aangegeven wooncomplex, tot het tijdstip van einde vordering tot het aangegeven wooncomplex. U heeft geen recht aanwezig te zijn in het wooncomplex en Woonstichting [C] vordert u gedurende 1 jaar weg te blijven uit het wooncomplex. Indien u zich niet aan deze vordering houdt maakt u zich schuldig aan het plegen van een misdrijf".</para>
+      <para>De verdachte heeft op 5 november 2006 een brief met deze passage ontvangen en hem is daarmee de toegang tot de flat [A] ontzegd tot 5 november 2007.</para>
+      <para>Het hof verklaart niet wettig en overtuigend bewezen dat de verdachte het in zaak B tenlastegelegde heeft begaan en spreekt daarvan vrij.</para>
+      <para>De flat [A] is niet in gebruik bij woningstichting [B] maar bij woningstichting </para>
+      <para>[C]. Daarom kan niet wettig bewezen worden dat de verdachte wederrechtelijk vertoefde in [A]. </para>
+      <para>[A] is echter wel in gebruik bij anderen dan bij verdachte.</para>
+      <para>Het binnendringen door verdachte in het noodtrappenhuis verkrijgt pas dan een wederrechtelijk karakter indien de verdachte dat doet tegen de voor hem onmiskenbare wil van de rechthebbende. Naar het oordeel van het hof is daartoe onvoldoende grond te vinden in de enkele omstandigheid dat aan de verdachte door de politie een vordering is uitgereikt met de strekking dat de verdachte gedurende de periode van een jaar de toegang is ontzegd tot de flat. Daarbij wordt in aanmerking genomen dat, nu bij eerdergenoemde vordering de toegang voor de periode van een jaar wordt ontzegd, niet met de gewenste nauwkeurigheid getoetst kan worden of de rechthebbende ook op het in de tenlastelegging genoemde tijdstip redelijkerwijs kon en mocht bepalen dat deze persoon wederrechtelijk in de flat is binnengedrongen.</para>
+      <para>Verdachte zal dan ook van het tenlastegelegde feit worden vrijgesproken."</para>
+    </parablock>
+    <para />
+    <para>2.4. De tenlastelegging is toegesneden op art. 138, eerste lid, Sr. Daarom moet de in de tenlastelegging voorkomende uitdrukking "wederrechtelijk is binnengedrongen" geacht worden aldaar te zijn gebezigd in dezelfde betekenis als toekomt aan dezelfde - in de vervoeging "wederrechtelijk binnendringt" - in dat artikel voorkomende uitdrukking.</para>
+    <para />
+    <parablock>
+      <para>2.5. Art. 138, eerste lid, Sr luidt:</para>
+      <para>"Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie."</para>
+    </parablock>
+    <para />
+    <para>2.6. Het Hof heeft vastgesteld dat het in de tenlastelegging genoemde flatgebouw in gebruik was bij de woningstichting [C] en dat die woningstichting via de politie de verdachte de toegang tot dat gebouw heeft ontzegd. Voorts ligt in de overwegingen van het Hof besloten dat het voor de beantwoording van de vraag of de verdachte aldaar wederrechtelijk vertoefde - hetgeen overigens niet is tenlastegelegd - niet van belang is dat het flatgebouw in gebruik was bij de in de tenlastelegging genoemde woningstichting [B], nu ook is tenlastegelegd dat het in gebruik was bij een ander of anderen dan de verdachte. Dat oordeel is juist.</para>
+    <para />
+    <para>2.7. De strekking van art. 138, eerste lid, Sr brengt mee dat als "binnendringen" in de zin van deze bepaling moet worden beschouwd het betreden van een woning, besloten lokaal of erf, bij een ander in gebruik, indien degene die zich daarin of daarop begeeft, zulks doet tegen de voor hem - hetzij door een verklaring van de rechthebbende, hetzij op grond van enige andere omstandigheid - onmiskenbare wil van de rechthebbende. Door toevoeging van het woord "wederrechtelijk" is buiten twijfel gesteld dat het binnentreden - ook al geschiedt dit tegen de wil van de rechthebbende - niet strafbaar is indien dit uit anderen hoofde gerechtvaardigd zou zijn (vgl. HR 16 december 1969, NJ 1971, 96).</para>
+    <para />
+    <para>2.8. Het betreden van een flatgebouw nadat aan de betrokkene een schrijven is uitgereikt met de strekking dat hem de toegang daartoe is ontzegd, levert in beginsel wederrechtelijk binnendringen in de zin van art. 138 Sr op. Bijzondere omstandigheden kunnen tot een ander oordeel nopen. Daaromtrent is door het Hof evenwel niets vastgesteld. De door het Hof genoemde omstandigheid dat "nu bij eerdergenoemde vordering de toegang voor de periode van een jaar wordt ontzegd, niet met de gewenste nauwkeurigheid getoetst kan worden of de rechthebbende ook op het in de tenlastelegging genoemde tijdstip redelijkerwijs kon en mocht bepalen dat deze persoon wederrechtelijk in de flat is binnengedrongen", kan niet gelden als zo een bijzondere omstandigheid. Daarbij wordt in aanmerking genomen dat de opvatting dat een betredingsverbod dat voor onbepaalde tijd geldt, onrechtmatig is, geen steun vindt in het recht (vgl. HR 17 mei 1994, DD 94.363).</para>
+    <para />
+    <para>2.9. Uit het voorgaande volgt dat het Hof, door te overwegen als hiervoor onder 2.3 is weergegeven, is uitgegaan van een onjuiste opvatting omtrent de in de tenlastelegging voorkomende uitdrukking "wederrechtelijk is binnengedrongen". Het Hof heeft derhalve bij zijn beslissing tot vrijspraak in zaak B de grondslag van de tenlastelegging verlaten zodat het de verdachte heeft vrijgesproken van iets anders dan hem is tenlastegelegd.</para>
+    <para />
+    <para>2.10. Het middel klaagt daarover terecht.</para>
+    <para />
+    <para>3. Slotsom</para>
+    <para />
+    <para>Hetgeen hiervoor is overwogen brengt mee dat als volgt moet worden beslist.</para>
+    <para />
+    <para>4. Beslissing</para>
+    <para />
+    <para>De Hoge Raad:</para>
+    <para />
+    <parablock>
+      <para>vernietigt de bestreden uitspraak maar uitsluitend wat betreft de beslissingen ter zake van het in zaak B tenlastegelegde en de strafoplegging;</para>
+      <para>wijst de zaak terug naar het Gerechtshof te Amsterdam, opdat de zaak in zoverre op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en C.H.W.M. Sterk, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken op 6 juli 2010.</para>
+  </uitspraak>
+</open-rechtspraak>

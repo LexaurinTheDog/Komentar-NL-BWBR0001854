@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015252/manifest.xml",
+    "path": "sources/author-a129-a138a-WIM-manifest.xml",
+    "accessed_at": "2026-10-20T19:29:48.117093+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "b97b8db7d8c7ef404c9db8f19f49b14cd9a0db32fa5dd4eaa61d31763ff3be9f",
+    "bytes": 8955,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015252/2020-01-01_0/xml/BWBR0015252_2020-01-01_0.xml",
+    "path": "sources/author-a129-a138a-WIM-effective.xml",
+    "accessed_at": "2026-10-20T19:29:48.328470+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "40a288b42efa694b6c5d66b37652687edc4b442af10a90931cdc15fba554dda9",
+    "bytes": 189520,
+    "expected_format_valid": true
+  }
+]

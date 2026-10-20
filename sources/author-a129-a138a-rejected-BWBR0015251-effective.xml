@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0015251/2003-09-01/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0015251" inwerkingtreding="2003-09-01"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties><redactionele-correctie label-id="4897414" oud-revisie-id="12603871" nieuw-revisie-id="41478871"/></redactionele-correcties><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="4919423" versie-id="7924352" id="C12603911" label-id="4897454" inwerkingtredingsdatum="2003-09-01">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="4919453" versie-id="7924252" id="C12603811" label-id="4897354" inwerking="2003-09-01" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">Wet van 19 juni 2003 tot wijziging van de Vreemdelingenwet 2000, alsmede van enkele andere wetten teneinde enkele technische verbeteringen aan te brengen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="redactioneel" stam-id="4919463" versie-id="7924262" id="C12603821" label-id="4897364" inwerking="2003-09-01" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28">Wijzigingswet Vreemdelingenwet 2000<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="4919473" versie-id="7924272" id="C12603831" label-id="4897374" inwerking="2003-09-01" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <wij>Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede naar aanleiding van de jurisprudentie, de <extref doc="jci1.3:c:BWBR0011823" verwijzing-id="1776801" bwb-id="BWBR0011823" label-id="1385854">Vreemdelingenwet 2000 (Stb. 2000, 495)</extref> op enkele onderdelen te wijzigen alsmede de <extref doc="jci1.3:c:BWBR0006685" verwijzing-id="1776802" bwb-id="BWBR0006685" label-id="167884">Wet Centraal Orgaan opvang asielzoekers</extref> en de <extref doc="jci1.3:c:BWBR0005674" verwijzing-id="1776803" bwb-id="BWBR0005674" label-id="1343874">Huisvestingswet</extref> te wijzigen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/ArtikelI" stam-id="4919483" versie-id="7924282" id="C31198851" label-id="4897384" inwerking="2003-09-01" label="Artikel I" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">I</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Vreemdelingenwet 2000.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=I&amp;g=2003-09-01" onderdeel="artikel=I" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=I"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=I&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=I" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=I"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelII" stam-id="4919493" versie-id="7924292" id="C12603851" label-id="4897394" inwerking="2003-09-01" label="Artikel II" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>II</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid1" label-id="4897394L1">
+    <lidnr>1</lidnr>
+    <al>
+      <intref verwijzing-id="1776807" doc="jci1.3:c:BWBR0015251&amp;artikel=I&amp;z=2003-09-01&amp;g=2003-09-01" bwb-id="BWBR0015251" label-id="4897384" bwb-ng-variabel-deel="/ArtikelI">Artikel I, onderdeel L, sub-onderdeel 2</intref>, is slechts van toepassing op een beschikking op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in <extref doc="jci1.3:c:BWBR0011823&amp;artikel=28" verwijzing-id="1776804" bwb-id="BWBR0011823" label-id="1384504">artikel 28</extref>, die wordt bekendgemaakt op of na de dag waarop deze wet in werking treedt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=II&amp;lid=1&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/ArtikelII/Lid2" label-id="4897394L2">
+    <lidnr>2</lidnr>
+    <al>
+      <extref doc="jci1.3:c:BWBR0011823&amp;artikel=82" verwijzing-id="1776805" bwb-id="BWBR0011823" label-id="1385294">Artikel 82, tweede lid, onder c</extref>, blijft buiten toepassing indien de aanvraag, die op grond van <extref doc="jci1.3:c:BWBR0011823&amp;artikel=30" verwijzing-id="1776806" bwb-id="BWBR0011823" label-id="1384524">artikel 30, eerste lid, onder a, van de Vreemdelingenwet 2000</extref> is afgewezen, voor 1 september 2003 is ingediend.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=II&amp;lid=2&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=II&amp;g=2003-09-01" onderdeel="artikel=II" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=II"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=II&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=II" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=II"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIIA" stam-id="4919503" versie-id="7924302" id="C31198861" label-id="4897404" inwerking="2003-09-01" label="Artikel IIA" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IIA</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Huisvestingswet.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=IIA&amp;g=2003-09-01" onderdeel="artikel=IIA" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=IIA"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=IIA&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=IIA" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=IIA"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIII" stam-id="4919513" versie-id="7924312" id="C41478871" label-id="4897414" inwerking="2003-09-01" label="Artikel III" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">III</nr>
+  </kop>
+  <al>De tekst van de <extref doc="jci1.3:c:BWBR0011823" label-id="1385854" verwijzing-id="1776808" bwb-id="BWBR0011823">Vreemdelingenwet 2000</extref> wordt in het Staatsblad geplaatst.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=III&amp;g=2003-09-01" onderdeel="artikel=III" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=III"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=III&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=III" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=III"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelIV" stam-id="4919523" versie-id="7924322" id="C31198871" label-id="4897424" inwerking="2003-09-01" label="Artikel IV" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">IV</nr>
+  </kop>
+  <al>
+    <redactie type="vervanging">Wijzigt de Wet Centraal Orgaan opvang asielzoekers.</redactie>
+  </al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=IV&amp;g=2003-09-01" onderdeel="artikel=IV" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=IV"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=IV&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=IV" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=IV"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/ArtikelV" code="b1-v" stam-id="4919533" versie-id="7924332" id="C12603891" label-id="4897434" inwerking="2003-09-01" label="Artikel V" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>V</nr>
+  </kop>
+  <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;artikel=V&amp;g=2003-09-01" onderdeel="artikel=V" korte-verwijzing="1.0:c:BWBR0015251&amp;artikel=V"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;artikel=V&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="artikel=V" korte-verwijzing="jci1.3:c:BWBR0015251&amp;artikel=V"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="4919543" versie-id="7924342" id="C12603901" label-id="4897444" inwerking="2003-09-01" bron="Stb.2003-269" effect="nieuwe-regeling" ondertekening_bron="2003-06-19" publicatie_bron="2003-07-03" publicatie_iwt="2003-08-28" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te 's-Gravenhage</plaats>
+      <datum isodatum="">19 juni 2003</datum>
+    </dagtekening>
+    <koning>Beatrix</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister voor Vreemdelingenzaken en Integratie,</functie>
+    <naam>
+      <achternaam>M. C. F. Verdonk </achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de derde juli 2003</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie,</functie>
+      <naam>
+        <achternaam>J. P. H. Donner</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-269"><publicatiejaar>2003</publicatiejaar><publicatienr>269</publicatienr><uitgiftedatum isodatum="2003-07-03">03-07-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-06-19">19-06-2003</ondertekeningsdatum><dossierref dossier="28630">28630</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier="stb-2003-335"><publicatiejaar>2003</publicatiejaar><publicatienr>335</publicatienr><uitgiftedatum isodatum="2003-08-28">28-08-2003</uitgiftedatum><ondertekeningsdatum isodatum="2003-08-25">25-08-2003</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2003-09-01">01-09-2003</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0015251&amp;g=2003-09-01" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0015251"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0015251&amp;z=2003-09-01&amp;g=2003-09-01" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0015251"/></jcis></meta-data></wetgeving></toestand>

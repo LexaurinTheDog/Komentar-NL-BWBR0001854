@@ -1,0 +1,435 @@
+{
+  "kind": "bounded_author_checkpoint",
+  "complete": true,
+  "book_complete": false,
+  "independent_review": false,
+  "ids": [
+    "a129",
+    "a130",
+    "a130a",
+    "a130b",
+    "a131",
+    "a132",
+    "a133",
+    "a134",
+    "a134a",
+    "a135",
+    "a136",
+    "a137",
+    "a137c",
+    "a137d",
+    "a137e",
+    "a137f",
+    "a137g",
+    "a137h",
+    "a138",
+    "a138a"
+  ],
+  "units_completed": 20,
+  "total_statutory_units": 812,
+  "total_commentaries": 340,
+  "remaining_commentaries": 472,
+  "commentary_chars_added": 48403,
+  "commentary_lengths": {
+    "a129": 2121,
+    "a130": 2124,
+    "a130a": 1978,
+    "a130b": 2237,
+    "a131": 2410,
+    "a132": 2472,
+    "a133": 2009,
+    "a134": 2062,
+    "a134a": 2460,
+    "a135": 2027,
+    "a136": 2057,
+    "a137": 2560,
+    "a137c": 3360,
+    "a137d": 2738,
+    "a137e": 3179,
+    "a137f": 2173,
+    "a137g": 2262,
+    "a137h": 2608,
+    "a138": 2755,
+    "a138a": 2811
+  },
+  "commentary_sha256": {
+    "a129": "7cf7b8bc8e8a0fa885596e3ecb8009fe90f60f6f6d74253544e0271eeeec9c94",
+    "a130": "101244fd5a17b06b3f38b295cd4c150b04f7f4b9aca31d1aa077a515dece8ba3",
+    "a130a": "5c061bcc682c8b2f18e54986e8d0ac0301de19de12bd83502128a782a4bfc8fd",
+    "a130b": "53c4d2a5db7d72151434e646e283cfbe4479f32b35ce2a17ace6666deb0de3e6",
+    "a131": "859f7de5baed5aa0e7361670d9cf220ff28910d959a02b1298ba864ebbacb418",
+    "a132": "1f0f7299a56814d55baac2ba6b40c2eb29bef63935aac966435c3c6768b47710",
+    "a133": "77c0d8f3ce107ae14d768c3f021148f180131e07b3c9c7158323594981ac8cac",
+    "a134": "efab8f3383513966de503582d20ab62ebf2d3944ba5a40d0e2a929b54e7ffa0e",
+    "a134a": "b1678d299b4f894eb1a2a7c4623db219f0bfea401de6b0752628d7ce7c9c1dca",
+    "a135": "8356e633ff4f634863a5aee7b6fec18c0fccd15172998981e9a7a7e24d78a252",
+    "a136": "c39c3a5630e446c6c701119dc2bb65450a9a49687952021ed2eaaf99f7b8f5f5",
+    "a137": "7de245add50ae9b966219e14e8f8c4565119f0100c48eedebad00bc7a5f17d01",
+    "a137c": "12cc135d931ee78adedf7073bfe8412ddcff739d99f5fe62a15aa0ffed70d096",
+    "a137d": "f9b631102c5c2e68ba201d20d0310f19b8c606fd28cc4e2e8c74dec24e71c07a",
+    "a137e": "1a29f82a7712c9cf387336d0c0752361bc27850716aef405b938bbcb8e7b7ca8",
+    "a137f": "9367b0e0bf2fcdea335eb89ab66ab624a456ae9814b39bd3dc6912e93e75231f",
+    "a137g": "d16655f6f38be7c723ad4940c8a995a6d0dfcaf1ea6e754e1eb44d95590c8396",
+    "a137h": "2b27d209e1e60d7501afe3360717dfb7076142e2b2f748157a3e7b76b650611b",
+    "a138": "1c2b68e897c35731b34423895e37ffcb87a3834278c4c01f4023157ec1a7d4b7",
+    "a138a": "00139bffa7160eed9848b182724458589637ee9083c5f385d8ca856aec3b7c80"
+  },
+  "all_prior_commentary_files_unchanged": {
+    "commentary/part-01.md": "766adba9a75959c383fb7d546164e668b88acebc212026425f6d9539c241b642",
+    "commentary/part-02.md": "e22b48ec9d79e56a8733de66bc5c086b954baeecc055363c8cf06468691d3162",
+    "commentary/part-03.md": "34a286d0d59a81c7e4aba8df829bc25660af1f34db6e3df11b27d978fd1eaa17",
+    "commentary/part-04.md": "05f87e2e1b5ddb09b06c91c46b8668152f9a592adb23fbb2da334f12fecdc28f",
+    "commentary/part-05.md": "5c4cea9fd8df2b40af32f8630407c15357e9f7d10dd1b0fcf5e97ce5f000bac8",
+    "commentary/part-06.md": "70ffa5b0680a60043a9af06a0b1df8994ef4c4e9d9709295dda4a6b1bbda4ad6",
+    "commentary/part-07.md": "00488d1fc824acfb12e18fd8555fa3062d94c541f052e37960ba9ba5744c5c1f",
+    "commentary/part-08.md": "38f9bb2a4e97dae3515ae9b343d66b5d18db0f0c99fbbc3592eddaed43b2d1ce",
+    "commentary/part-09.md": "89c79ac1abc05a05c38145c972c9126e274375927591abd5ce8324977f1d5a48",
+    "commentary/part-10.md": "c9ae80a6e42e35c69f2509273509167001b26152174813b387c8ab4f28d257d4",
+    "commentary/part-11.md": "09c30d0af947efc2e0ae6b25f594cb7e0232ad572a93dc5a11d7d0e6b5e53b85",
+    "commentary/part-12.md": "cb41a01a9ab4bd77284f36e3272f624fc622c2edfddee13e917d3af83ad5ec9a",
+    "commentary/part-13.md": "cd922f63135d8c5884e757a38293b15630c3758f9b800a4472c268bcc3dcd75a",
+    "commentary/part-14-a92-a100.md": "15b4951eae0ab9419402a5f461afad082fbf9b6fcaf349d465bfe6b9250721a9",
+    "commentary/part-14.md": "9b57c469e1eccdbd442035ad381568e935dfa1aee826f52200837c1ee9ae9fde",
+    "commentary/part-15.md": "736fc6631f0124eaff9f8ef07eee97d553bdb75ec9fc3975fb6364f8f67c202f",
+    "commentary/part-16.md": "27fe189dc3d02b96a0f3901065a7cc1b17188463f21929681afe579dab44980b"
+  },
+  "source_preflight": "sources/author-a129-a138a-version-evidence.json",
+  "source_text_agreement": 1.0,
+  "completeness": "sources/author-a129-a138a-coverage.json",
+  "historical_change_map": "sources/author-a129-a138a-historical-change-map.json",
+  "findings": [
+    {
+      "id": "a129",
+      "author_checked": true,
+      "source_text_sha256": "68216302068866d10db6220d5697d21bb21241f26ffc73a5cb53dc33c6b353e3",
+      "finding": "Voltooide stemming en uitslagfraude onderscheiden; causaliteit, hypothetische wettige uitslag, poging en bijzondere kiesrechtsanctie.",
+      "cross_references_checked": [
+        "a45",
+        "a127",
+        "a130",
+        "a28"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a130",
+      "author_checked": true,
+      "source_text_sha256": "7fedcea91bb98495081ddb7d5e0e6407ffa5273eea4df8a70145bc6fb884ad2e",
+      "finding": "Leden met eigen verwijzingslijsten en rechten; werkelijk opgelegde eenjaarstraf, duur en aanvang; geen commissie- of127-uitbreiding.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a121",
+        "a123",
+        "a122",
+        "a124",
+        "a129",
+        "a127"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2010:BK9221"
+      ]
+    },
+    {
+      "id": "a130a",
+      "author_checked": true,
+      "source_text_sha256": "67f88e34752221bbd92a634d83ee262df7522dbbfdd15a3351b1784748e14213",
+      "finding": "Alleen123/124, negenjaarmaximum met helft, geen boeteverhoging; terroristisch oogmerk afzonderlijk en geen commissieanalogie.",
+      "cross_references_checked": [
+        "a123",
+        "a124",
+        "a83a",
+        "a123a",
+        "a124a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a130b",
+      "author_checked": true,
+      "source_text_sha256": "58d49a98614303b818d6370d42a64cb1cbe58d07b361d4b800107e167247a92b",
+      "finding": "Facultatief alleen kiesrecht; terroristische kwalificatie, drempel en duur apart van130a en gewone130.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a83a",
+        "a123",
+        "a124",
+        "a130",
+        "a130a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a131",
+      "author_checked": true,
+      "source_text_sha256": "bc700c73ff7d9ad93cfcd2629822f9bed37b6e2a25e486bd66bcea3524f0da02",
+      "finding": "Openbaarheid, aansporing, impliciet opzet en context; indirecte aansporing in primair arrest; geen navolgingsvereiste; lid2feitencatalogus.",
+      "cross_references_checked": [
+        "a132"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2024:1573"
+      ]
+    },
+    {
+      "id": "a132",
+      "author_checked": true,
+      "source_text_sha256": "e5e38be441e96023cc9d3fb5936e273e2ba470ab383cd70086a58aacec8d3f21",
+      "finding": "Verschillende verspreidingsroutes en voorraadbestemming, ernstige reden tot vermoeden, geschriftinhoud bij tengehorebrengen, gewijzigdeboetecategorie en preciezelid3verwijzing.",
+      "cross_references_checked": [
+        "a131",
+        "a137e"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a133",
+      "author_checked": true,
+      "source_text_sha256": "431624547e5c681e549f0b86dd64f8d21b4d614eb98fff60c313f05dfeaea899",
+      "finding": "Openbaar aanbod als eigen voltooiingshandeling; driehulpvormen; geen levering of medeplichtigheid verondersteld; legaleadvertentiegrens.",
+      "cross_references_checked": [
+        "a48",
+        "a134",
+        "a134a"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a134",
+      "author_checked": true,
+      "source_text_sha256": "23f5204574f5374243ac8532ba71056a11824d9f74cda10e40d4bf7d2c5ac575",
+      "finding": "Materiaal met aanbod en wetenschap/ernstigereden onderscheiden vanopruiing; voorraadbestemming en tengehorebrengen apart.",
+      "cross_references_checked": [
+        "a133",
+        "a132",
+        "a137h"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a134a",
+      "author_checked": true,
+      "source_text_sha256": "3c8bd865f097b7a18e6d2f9c4c0f1ae093815a361eddd382fbad7e09d4e22326",
+      "finding": "Trainingverband volgensHR2.4.1; zelfstudie en overigeopzetfeiten apart; trachtteverschaffen en voorbereiding46 niet verwisseld.",
+      "cross_references_checked": [
+        "a46",
+        "a83",
+        "a83a",
+        "a83b"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2016:1011"
+      ]
+    },
+    {
+      "id": "a135",
+      "author_checked": true,
+      "source_text_sha256": "6c4140f0604580074420724d867f19a9aea6b5288a1c991501495f95e72d16ee",
+      "finding": "Kennis van werkelijk strafbare samenspanning; preventievenster, tijdigevoldoende melding, gevolgdmisdrijf en137uitzondering.",
+      "cross_references_checked": [
+        "a80",
+        "a122",
+        "a137"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a136",
+      "author_checked": true,
+      "source_text_sha256": "5ad92af1d46cd38b53b57858e14dd6eab28c54492f2b41f4fd4724c6f1f1e369",
+      "finding": "Catalogusvoornemen en huidig243; lid1gevolgdmisdrijf tegenoverlid2reedsgepleegdfeit metlevensgevaar enafwendbaregevolgen.",
+      "cross_references_checked": [
+        "a135",
+        "a243",
+        "a137"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a137",
+      "author_checked": true,
+      "source_text_sha256": "f35709788c7c874e73feef9ca80bb554e96346883f16c4d0b1b93e81e9355cc2",
+      "finding": "Vervolgingsgevaar door melding; preciezefamiliegraden, partnerdefinitie enprofessioneleverschoning; geenrechtvaardigingactievehulp.",
+      "cross_references_checked": [
+        "a135",
+        "a136",
+        "a90octies"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a137c",
+      "author_checked": true,
+      "source_text_sha256": "49b3b83a244dfbf687d6625eec7d6b196690c74008198840e266a4e788265a1a",
+      "finding": "Grondenverschil, groeptegenovergodsdienst; huidigeleden2a/2b met verschillendrechterlijkvaststellingvereiste; lid3enoudezaakgrenzen.",
+      "cross_references_checked": [
+        "a137d",
+        "a137e"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2009:BF0655"
+      ]
+    },
+    {
+      "id": "a137d",
+      "author_checked": true,
+      "source_text_sha256": "98391e619fe9f202f38c38a423546d2638d6c9b6877fee086d0edae6d7ac0e92",
+      "finding": "Haat/discriminatie/geweldtegenpersoonofgoed onderscheiden; eigen grondenlijst; definitie90quater; flyerzaak uitsluitendvia137e enmaxima.",
+      "cross_references_checked": [
+        "a90quater",
+        "a137c",
+        "a137e"
+      ],
+      "case_sources": [
+        "ECLI:NL:GHAMS:2021:2860"
+      ]
+    },
+    {
+      "id": "a137e",
+      "author_checked": true,
+      "source_text_sha256": "d9761a0ec7db35c1eafbd4901ed99b5cd65d85d30134b5abfcc4430b6b9b3f2e",
+      "finding": "Openbaarmaken, ongevraagdtoezenden, verspreiden envoorraad; redelijkevermoedensmaatstaf; zakelijkenieuwsuitzondering enprocedureleHR806grens.",
+      "cross_references_checked": [
+        "a137c",
+        "a137d"
+      ],
+      "case_sources": [
+        "ECLI:NL:GHAMS:2021:2860",
+        "ECLI:NL:HR:2023:806"
+      ]
+    },
+    {
+      "id": "a137f",
+      "author_checked": true,
+      "source_text_sha256": "20eade6540d746b5c7f07ce84f6277ee589c0746f47782747b6a5ea9bc56fc9d",
+      "finding": "Concrete discriminatoireactiviteiten enmateriëlebijdrage, niet louter sympathie; gronden en verschil metd/g; geeneigengewoonteverhoging.",
+      "cross_references_checked": [
+        "a90quater",
+        "a137d",
+        "a137g",
+        "a137h"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a137g",
+      "author_checked": true,
+      "source_text_sha256": "20d570ce971ef1990c20462ee9164918819f41560ad862777e3b77438fee67c8",
+      "finding": "Functionelecontext, opzet enuitsluitendras; lid2gewoonte/verenigden, geenaparteberoepverhoging; vergelijking429quater.",
+      "cross_references_checked": [
+        "a90quater",
+        "a137h",
+        "a429quater"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a137h",
+      "author_checked": true,
+      "source_text_sha256": "dab361151e1fd8d1b58e8b7aab3cb1772c1641ce91d6af8a038988ed57b38682",
+      "finding": "Exactedelictslijstzonder134a; inberoep niet hetzelfdealsmisdrijfalsberoep; ontzetting28/31engeenkiesrechtsdrempel.",
+      "cross_references_checked": [
+        "a28",
+        "a31",
+        "a134a",
+        "a135",
+        "a136"
+      ],
+      "case_sources": []
+    },
+    {
+      "id": "a138",
+      "author_checked": true,
+      "source_text_sha256": "19784a59e15c3323e3c486614ff27ad0010350f4099cfb7a7f4cb06a33a65d6c",
+      "finding": "Gebruiknietgelijkaaneigendom; tweeroutes enplaatsvordering; lid2toegangswijzen/nachtvoorwaarden; cassatieterugwijzing geenveroordeling; oude strafapart.",
+      "cross_references_checked": [
+        "a138a"
+      ],
+      "case_sources": [
+        "ECLI:NL:HR:2010:BM5282"
+      ]
+    },
+    {
+      "id": "a138a",
+      "author_checked": true,
+      "source_text_sha256": "759f21a9d1c7108bd3461c90300f1286492c2bf596787da80369f80d7eaaa7c9",
+      "finding": "Beëindiggebruik/wederrechtelijkheid, geenmaandendrempelofvorderingingevoegd; zelfstandigverblijf, bedreiging, verenigdenenontruimingsprocedureapart.",
+      "cross_references_checked": [
+        "a138"
+      ],
+      "case_sources": []
+    }
+  ],
+  "similarity_inspection": {
+    "method": "Exact long paragraphs checked across the manuscript by _audit.py; pairwise character similarity prompts author inspection only. Each of the20 explanations written individually; similar statutory institutions distinguished. Length and similarity do not prove legal correctness.",
+    "top_pairs": [
+      {
+        "ids": [
+          "a137d",
+          "a137e"
+        ],
+        "ratio": 0.3255
+      },
+      {
+        "ids": [
+          "a135",
+          "a136"
+        ],
+        "ratio": 0.3154
+      },
+      {
+        "ids": [
+          "a129",
+          "a137g"
+        ],
+        "ratio": 0.3121
+      },
+      {
+        "ids": [
+          "a131",
+          "a137d"
+        ],
+        "ratio": 0.3108
+      },
+      {
+        "ids": [
+          "a131",
+          "a134a"
+        ],
+        "ratio": 0.3088
+      },
+      {
+        "ids": [
+          "a137d",
+          "a137f"
+        ],
+        "ratio": 0.3034
+      },
+      {
+        "ids": [
+          "a134a",
+          "a137d"
+        ],
+        "ratio": 0.2955
+      },
+      {
+        "ids": [
+          "a134a",
+          "a138"
+        ],
+        "ratio": 0.2938
+      }
+    ]
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Author checking only; the20 new units await an independent second pass.",
+    "472 out-of-scope units still lack commentary; no whole-book completion claimed.",
+    "Selective primary case research; seven decisions used including one previously preserved case re-read. Six fresh case cards, with HR806 limited to procedural outcome.",
+    "No reasoned substantive kraken authority added; a summary-only or Article81RO disposition is not presented as such.",
+    "Article137c Handvest reference preserved as a statutory citation; constituent treaty crimes are not independently expounded.",
+    "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed."
+  ],
+  "updated_at": "2026-10-20T19:34:03.959061+00:00"
+}

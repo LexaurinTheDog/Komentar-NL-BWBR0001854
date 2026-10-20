@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2021:1078</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T22:27:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-07-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-07-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/05520</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:674" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2021:674</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2019:10114" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2019:10114</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2021-0225 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>RvdW 2021/799</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1078">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1078</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-07-02T15:28:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-07-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2021:1078 Hoge Raad , 06-07-2021 / 19/05520</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2021:1078:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Medewerking weigeren aan bevel ademonderzoek, art. 163.2 WVW 1994. Verbeurdverklaring van fiets, art. 33a.1.b Sr. Is bewezenverklaard feit begaan ‘met betrekking tot’ verbeurdverklaarde fiets a.b.i. art. 33a.1.b? Inbeslaggenomen fiets is voertuig dat verdachte bestuurde toen bij verbalisanten verdenking rees dat hij dat voertuig onder invloed van alcohol bestuurde, hetgeen uiteindelijk heeft geleid tot bewezenverklaring van weigering mee te werken aan ademanalyse. ’s Hofs oordeel dat deze fiets vatbaar is voor verbeurdverklaring o.g.v. art. 33a.1.b Sr, getuigt niet van onjuiste rechtsopvatting en is niet onbegrijpelijk. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2021:1078:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	19/05520 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		6 juli 2021</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Arnhem-Leeuwarden van 25 november 2019, nummer 21-005458-18, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1981,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft B.P.M. Canoy, advocaat te Leeuwarden, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para>De raadsman van de verdachte heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel komt op tegen de verbeurdverklaring van een fiets en klaagt in het bijzonder over het oordeel van het hof dat het bewezenverklaarde is begaan ‘met betrekking tot’ de fiets.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+          <para>“hij op 10 mei 2018 te Roden, gemeente Noordenveld, als degene tegen wie verdenking was gerezen als bestuurder van een voertuig te hebben gehandeld in met artikel 8 van de Wegenverkeerswet 1994 en aan wie door een opsporingsambtenaar was bevolen medewerking te verlenen aan een ademonderzoek, als bedoeld in artikel 8, tweede lid, aanhef en onder a van genoemde wet, niet heeft voldaan aan de verplichting ademlucht te blazen in een voor het onderzoek bestemd apparaat en/of aan de verplichting gevolg te geven aan alle door een opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <para>Het arrest van het hof houdt onder meer in:</para>
+        <para />
+        <parablock>
+          <para>“Oplegging van straf en/of maatregel</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beslag</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het (...) ten laste gelegde en bewezenverklaarde is begaan met betrekking tot het hierna te noemen inbeslaggenomen en nog niet teruggeven voorwerp. Het behoort de verdachte toe. Het zal daarom worden verbeurd verklaard. Het hof heeft hierbij rekening gehouden met de draagkracht van verdachte.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beslissing</para>
+          <para>(...)</para>
+          <para>Verklaart verbeurd het in beslag genomen, nog niet teruggegeven voorwerp, te weten Fiets Atb.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Artikel 33a lid 1 van het Wetboek van Strafrecht (hierna: Sr) luidt:</para>
+        <para>“Vatbaar voor verbeurdverklaring zijn:</para>
+        <para>a. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;</para>
+        <para>b. voorwerpen met betrekking tot welke het feit is begaan;</para>
+        <para>c. voorwerpen met behulp van welke het feit is begaan of voorbereid;</para>
+        <para>d. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;</para>
+        <para>e. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;</para>
+        <para>f. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>De inbeslaggenomen fiets is het voertuig dat de verdachte bestuurde toen bij de verbalisanten de verdenking rees dat hij dat voertuig onder invloed van alcohol bestuurde, hetgeen uiteindelijk heeft geleid tot de bewezenverklaring van de weigering mee te werken aan een ademanalyse. Het oordeel van het hof dat deze fiets vatbaar is voor verbeurdverklaring op de grond van artikel 33a lid 1, aanhef en onder b, Sr, getuigt niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend, M.J. Borgers, A.E.M. Röttgering en C. Caminada, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">6 juli 2021</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

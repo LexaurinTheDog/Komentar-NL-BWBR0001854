@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2021:1036</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:25:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-07-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/03005</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2020:1606" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHDHA:2020:1606</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:487" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2021:487</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:613" psi:type="http://psi.rechtspraak.nl/nadereConclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Nadere conclusie: ECLI:NL:PHR:2021:613</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2021-0233 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2021/2078</rdf:li>
+          <rdf:li>RvdW 2021/783</rdf:li>
+          <rdf:li>NJ 2021/355 met annotatie van N. Keijzer</rdf:li>
+          <rdf:li>NTS 2021/68</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1036">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1036</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-07-05T10:42:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-07-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2021:1036 Hoge Raad , 06-07-2021 / 20/03005</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2021:1036:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Groepsbelediging, art. 137c.1 Sr. Veroordeling politicus vanwege ‘Minder Marokkanen’ uitlating zonder oplegging van straf of maatregel. Heeft verdachte zich beledigend uitgelaten over groep mensen wegens hun ras en staat art. 10 EVRM in de weg aan veroordeling? </para>
+        <para>HR herhaalt relevante overwegingen uit HR:2009:BF0655 m.b.t. beledigend karakter van uitlating en belediging van groep mensen wegens i.c. hun ras, HR:2016:510 m.b.t. ras in de zin van art. 137c Sr en HR:2014:3583 m.b.t. beoordelingskader t.a.v. recht op vrijheid van meningsuiting, de vraag of een uitlating strafbaar is wegens groepsbelediging ex art. 137c Sr en situatie waarin het gaat om uitlating door politicus i.h.k.v. het publieke debat.</para>
+        <para>’s Hofs oordeel dat verdachte met bewezenverklaarde uitlatingen de eigenwaarde van een groep mensen, te weten alle inwoners van Nederland met Marokkaanse achtergrond, wegens de nationale afstamming van die personen en dus wegens hun ras heeft aangetast en geen respect heeft getoond voor de eer en goede naam van die groep, zodat die uitlatingen beledigend karakter hebben, geeft niet blijk van onjuiste rechtsopvatting en is, in aanmerking genomen wat hof heeft vastgesteld over strekking van uitlatingen en het kenmerkende van de groep waarop die uitlatingen betrekking hebben, toereikend gemotiveerd.</para>
+        <para>’s Hofs oordelen die erop neerkomen dat bewezenverklaarde voor een groep personen krenkende uitlatingen van verdachte onnodig grievend zijn en dat schuldigverklaring van verdachte aan groepsbelediging in de zin van art. 137c Sr zonder oplegging van straf of maatregel niet onverenigbaar is met het mede door art. 10 EVRM gewaarborgde recht van verdachte op vrijheid van meningsuiting, geven geen blijk van onjuiste rechtsopvatting en zijn toereikend gemotiveerd. HR neemt hierbij in aanmerking dat hof daarbij heeft betrokken dat verdachte als politicus daadwerkelijk in staat moet zijn zaken van algemeen belang aan de orde te stellen ook als zijn uitlatingen kunnen kwetsen, choqueren of verontrusten maar ook dat hij in publiek debat tevens verantwoordelijkheid draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met wet en met grondbeginselen van democratische rechtsstaat, waaronder ook uitlatingen die (mede gelet op wijze waarop en context waarin die uitlatingen zijn gedaan) direct of indirect aanzetten tot onverdraagzaamheid.</para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2021:1036:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	20/03005 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		6 juli 2021</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 4 september 2020, nummer 22-000007-17, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Geert WILDERS, </para>
+      <para>geboren te Venlo op 6 september 1963,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben G.G.J.A. Knoops en P. van der Vegt, beiden advocaat te Amsterdam, bij schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>Namens de benadeelde partij [benadeelde 1] heeft E.D. van Elst, advocaat te Veenendaal, bij schriftuur een cassatiemiddel voorgesteld. </para>
+      <para>De schrifturen zijn aan dit arrest gehecht en maken daarvan deel uit.</para>
+      <para>De procureur-generaal J. Silvis heeft bij conclusie en aanvullende conclusie geconcludeerd tot verwerping van het beroep.</para>
+      <para>De raadslieden van de verdachte hebben daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>De uitspraak van het hof </title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging bewezenverklaard dat:</para>
+        <para>“hij op 19 maart 2014 te Den Haag, zich tezamen en in vereniging met anderen, in het openbaar, mondeling, opzettelijk beledigend heeft uitgelaten over een groep mensen, te weten Marokkanen, wegens hun ras,</para>
+        <para>immers, tijdens een (partij)bijeenkomst in een horecagelegenheid in het kader van de gemeenteraadsverkiezingen, heeft hij, verdachte, aan het in die horecagelegenheid aanwezige publiek gevraagd:</para>
+        <para>"ik vraag aan jullie, willen jullie in deze stad en in Nederland meer of minder Marokkanen?"</para>
+        <para>waarop dat aanwezige publiek, meermalen antwoordde:</para>
+        <para>"minder!"</para>
+        <para>waarna hij, verdachte, zei: "Nah, dan gaan we dat regelen"</para>
+        <para>hetgeen op de Nederlandse televisie werd uitgezonden.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op onder meer de volgende bewijsmiddelen:</para>
+        <para>“1. Een proces-verbaal Toespraak 19 maart 2014 (NOS) d.d. 23 april 2014 van de politie Eenheid Den Haag (p. 30 en 31). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaar:</para>
+        <para>Onderstaande is veiliggesteld vanaf internet en op dvd gebrand onder de naam: Toespraak 19 maart 2074 (NOS).mp4.</para>
+        <para>Naar aanleiding van de gemeenteraadsverkiezingen op 19 maart 2014 houdt de Partij Voor de Vrijheid (PVV) ʼs avonds een verkiezingsbijeenkomst in 'Grand Café De Tijd' in Den Haag. Tijdens deze bijeenkomst spreekt PVV-leider Geert Wilders.</para>
+        <para>Dit proces-verbaal is opgemaakt aan de hand van de uitzending van de Nederlandse Omroep Stichting (NOS) in de avond van 19 maart 2014. Hieronder volgt de letterlijke uitwerking van de toespraak van PVV-leider Geert Wilders.</para>
+        <para>"Maar voordat ik ga zou ik van iedereen hier een antwoord willen hebben op de volgende 3 vragen. 3 vragen, alsjeblieft geef een helder antwoord die onze partij de PVV definiëren.</para>
+        <para>En de eerste vraag is: willen jullie meer of minder Europese Unie? (hierop roept het publiek herhaaldelijk "minder!" en er wordt geklapt)</para>
+        <para>En de tweede, de tweede vraag is, misschien nog belangrijker, willen jullie meer of minder Partij van de Arbeid? (hierop roept het publiek herhaaldelijk "minder!" en er wordt geklapt)</para>
+        <para>En de derde vraag is, en ik mag het eigenlijk niet zeggen, want er wordt aangifte tegen je gedaan, en misschien zijn er zelfs D66 officieren die het in proces aandoen, maar de vrijheid van meningsuiting is een groot goed en we hebben niets gezegd wat niet mag, we hebben niets gezegd wat niet klopt, dus ik vraag aan jullie, willen jullie in deze stad en in Nederland meer of minder Marokkanen? (hierop roept het publiek herhaaldelijk "minder!" en er wordt geklapt)</para>
+        <para>Nah, dan gaan we dat regelen."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2. Een proces-verbaal van relaas (1e aanvulling) d.d. 16 maart 2015 van de politie Eenheid Den Haag met nummer 2014059080 (p. 417 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaar:</para>
+        <para>Op 20 maart 2014 werd in het programma RTL Late Night een overzichtsshot uitgezonden van het café waar de PVV op 19 maart 2014 de verkiezingsbijeenkomst hield. Op een still van dit overzichtsshot is te zien dat er meerdere microfoons op het spreekgestoelte van Wilders staan en dat er verspreid door de zaal zes videocamera’s staan opgesteld.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. Een proces-verbaal van verhoor getuige d.d. 21 januari 2015 van de Rijksrecherche met nummer 20140029 (p. 308 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+        <para>als de op 12 januari 2015 afgelegde verklaring van [betrokkene 2]:</para>
+        <para>Opmerking verbalisanten: Bij aanvang van het verhoor deelde ik aan de getuige mede dat wij hem wensten te horen in het onderzoek zoals dat wordt uitgevoerd door de Rijksrecherche betreffende de uitspraken van dhr. Wilders over 'minder, minder, minder Marokkanen'.</para>
+        <para>VRAAG: Hebt u voorafgaand aan dit verhoor vragen en/of opmerkingen? </para>
+        <para>ANTWOORD:</para>
+        <para>Ik heb binnen de PVV in de Tweede Kamer een rol als financieel deskundige gehad. Ik heb een aantal e-mails meegenomen die rond die periode verstuurd zijn. Ook heb ik een draaiboek voor die dag meegenomen. Verder heb ik van een andere medewerker van Geert Wilders, genaamd [betrokkene 3], een overzicht gekregen waarin een aantal speech voorstellen staan opgenomen. Ik stel u deze mails ter beschikking. Dhr. Wilders was mijn werkgever.</para>
+        <para>VRAAG: Wat kunt u verklaren over het tot stand komen van die toespraak van 19 maart 2014 (in café De Tijd met de vraag over meer of minder Marokkanen) ?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik heb van [betrokkene 3] een paar korte speech voorstellen voor de 19e in mijn mailbox ontvangen. Ik heb deze mail meegenomen en daaruit blijkt dat er speeches waren voorbereid als de PVV acht zetels zou gehaald hebben, als de PVV negen zetels gehaald zouden hebben, als de PVV de grootste zouden zijn geworden, kortom allemaal speeches voor de verschillende scenario's. De verschillende speeches zijn niet uitgewerkt maar geven even kort aan van wat Geert moet zeggen als er dat is gebeurd, wat moet ik zeggen als dat is gebeurd. Er staat in dat er minder Marokkanen moeten komen.</para>
+        <para>(...)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5. Een proces-verbaal van verhoor getuige d.d. 23 januari 2015 van de Rijksrecherche met nummer 20140029 (p. 419 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+        <para>als de op 23 januari 2015 afgelegde verklaring van [betrokkene 4]:</para>
+        <para>VRAAG: Wat is uw beroep?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik ben beleidsmedewerker van de stichting PVV, werkzaam in de Tweede Kamer.</para>
+        <para>VRAAG: Naar aanleiding van de gemeenteraadsverkiezingen op woensdag 19 maart 2014 hield de Partij Voor de Vrijheid (PVV) ʼs avonds een verkiezingsbijeenkomst in 'Grand Café De Tijd' in Den Haag. Was u daar op die avond bij aanwezig?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik was daar inderdaad aanwezig. Ik had een coördinerende rol voor die dag. Ik moest het overzicht houden en iedereen een beetje aansturen.</para>
+        <para>VRAAG: Was het vooraf bekend wie die avond kwamen bezoeken?</para>
+        <para>ANTWOORD:</para>
+        <para>Ja want er was een gastenlijst.</para>
+        <para>VRAAG: Dit suggereert dat de gasten voor de avond waren uitgenodigd?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik heb die avond inderdaad een aantal vrienden uitgenodigd. (...) Wel stond de toegang in principe open voor iedereen.</para>
+        <para>VRAAG: Wat kunt u verklaren over het tot stand komen van die toespraak van 19 maart 2014 (in café De Tijd met de vraag over meer of minder Marokkanen) ?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik zag dat ik was gebeld door [betrokkene 1]. [betrokkene 1] is ook een PVV beleidsmedewerker. Ik heb hem, [betrokkene 1], teruggebeld en hij vertelde mij het volgende: Over ongeveer een uur zou Geert Wilders in het café verschijnen. Hij zou dan het publiek de vraag stellen of zij meer of minder Marokkanen wilden. Het publiek moest dan antwoorden met 'minder minder minder'. Ook werd mij door [betrokkene 1] gevraagd het publiek vooraf over deze vraag en het antwoord te instrueren. Ik ben toen gaan rondlopen en heb groepjes mensen geïnstrueerd zoals door [betrokkene 1] gevraagd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. Een proces-verbaal van verhoor getuige d.d. 6 februari 2015 van de Rijksrecherche met nummer 20140029 (p. 426 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+        <para>als de op 6 februari 2015 afgelegde verklaring van [betrokkene 1]:</para>
+        <para>Ik ben beleidsmedewerker van de stichting PVV, werkzaam in de Tweede Kamer.</para>
+        <para>VRAAG: Naar aanleiding van de gemeenteraadsverkiezingen op woensdag 19 maart 2014 hield de Partij Voor de Vrijheid (PVV) ʼs avonds een verkiezingsbijeenkomst in 'Grand Café De Tijd' in Den Haag. Was u op die avond daar bij aanwezig?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik was daar inderdaad aanwezig. Ik ben samen met Geert Wilders en zijn beveiligers vanuit de Tweede Kamer naar het café gegaan. Ik schat dat ik die avond rond 22.00 uur aankwam. Ik zat al die tijd in mijn werkkamer in de Tweede Kamer en naar mijn inschatting vanaf ongeveer 20.00 uur, op de werkkamer van Geert Wilders.</para>
+        <para>VRAAG: Wie waren uitgenodigd in het café?</para>
+        <para>ANTWOORD:</para>
+        <para>Dit waren voornamelijk mensen van de PVV. Alle genodigden waren daar op basis van sympathie voor de PVV, en iedereen was uitgenodigd om er aanwezig te zijn. Het was een echte partijavond. Ook was er natuurlijk pers aanwezig.</para>
+        <para>VRAAG: Wat kunt u verklaren over het tot stand komen van die toespraak van 19 maart 2014 (in café De Tijd met de vraag over meer of minder Marokkanen)?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik was die avond aan het werk in de Tweede Kamer. Naar mijn inschatting omstreeks 20.00 uur werd ik gevraagd aan te sluiten in de werkkamer van Geert Wilders. In deze kamer was onder andere Geert Wilders aanwezig. Mij werd gevraagd mee te denken over de speech die Geert Wilders zou gaan houden in het café De Tijd. Er waren al concepten voor deze speech beschikbaar. De speech was nog niet klaar. Er werd verder met elkaar nagedacht wat er in die speech gezegd zou gaan worden. Eén van de overwegingen was een zo sterk mogelijke speech te bedenken waarin de zaken zo scherp mogelijk zouden worden benoemd. Immers je wilt bij de speech aansluiten bij je achterban en daarbij nieuwswaarden genereren zodat het door de pers wordt overgenomen en wordt uitgezonden. Over eventuele juridische consequenties van die speech werd naar mijn weten toen niet expliciet nagedacht.</para>
+        <para>VRAAG: [betrokkene 4] heeft verklaard dat hij tijdens het eerste telefoontje van [betrokkene 1] de opdracht kreeg het publiek vooraf te instrueren dat er tijdens de speech van Geert Wilders een vraag zou worden gesteld of het publiek meer of minder Marokkanen wilde. Het aanwezige publiek moest dan antwoorden met 'minder, minder, minder'. Wat kunt u hierover verklaren?</para>
+        <para>ANTWOORD:</para>
+        <para>Dit klopt inderdaad in die zin dat ik hem gebeld heb. Ik heb hem toen gebeld omdat tijdens het samenstellen van de speech er enige zorg was of het publiek wel zou reageren op deze vraag. Om te zorgen dat het publiek goed zou reageren en er een juiste interactie met het publiek zou ontstaan heb ik [betrokkene 4] gebeld en hem gevraagd of hij en eventueel met hulp van andere aanwezigen hiervoor kon zorgen.</para>
+        <para>(...)</para>
+        <para>Ik kan mij herinneren dat er gesproken is om vanuit de regels van de retoriek in plaats van één vraag drie vragen aan het publiek te gaan stellen. Bij het stellen van drie vragen ontstaat een opbouw naar de kracht van de uitspraak.</para>
+        <para>(...)</para>
+        <para>Er werd met elkaar gesproken of we in de speech zouden spreken over alleen Marokkanen of over criminele Marokkanen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7. Een proces-verbaal van verhoor getuige d.d. 24 februari 2015 van de Rijksrecherche met nummer 20140029 (p. 434 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+        <para>als de op 24 februari 2015 afgelegde verklaring van [betrokkene 3]:</para>
+        <para>Dhr. Wilders is mijn werkgever. Ik ben zijn beleidsmedewerker.</para>
+        <para>VRAAG: Naar aanleiding van de gemeenteraadsverkiezingen op woensdag 19 maart 2014 hield de Partij Voor de Vrijheid (PVV) ʼs avonds een verkiezingsbijeenkomst in 'Grand Café De Tijd' in Den Haag. Was u op die avond daar bij aanwezig?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik was er ook en ben met Geert Wilders daar naar toe gegaan.</para>
+        <para>(...)</para>
+        <para>Vlak voordat Geert Wilders naar het café De Tijd ging, werden wij binnengeroepen en ik zag dat de kamer van Wilders vol zat met zo'n 8 mensen. Toen ik binnenkwam hoorde ik van Geert dat hij 3 vragen aan het publiek zou gaan stellen. Ik hoorde dat hij die opbouw in vraag-en- antwoord zou gaan doen. Ik begreep dat de politieke lijn van een week eerder weer aangezet zou worden.</para>
+        <para>VRAAG: Wie waren uitgenodigd in het café?</para>
+        <para>ANTWOORD: </para>
+        <para>Omwille van de beveiliging alleen PVV mensen en media.</para>
+        <para>VRAAG: Hoe heeft u zelf gereageerd op de drie vragen die door dhr. Wilders werden gesteld?</para>
+        <para>ANTWOORD:</para>
+        <para>Ik denk wel dat ik met het publiek mee gereageerd heb. Ik heb beelden gezien en ik was ook zichtbaar op tv.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>8. Een proces-verbaal van bevindingen bezoek Loosduinse markt d.d. 23 april 2014 van de politie Eenheid Den Haag met nummer 15 BRR 14130 (p. 14 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaren:</para>
+        <para>Op 12 maart 2014 bezoekt Wilders samen met een aantal Haagse PVV partijleden de markt in het stadsdeel Loosduinen in Den Haag. Een deel van dit bezoek is uitgezonden in het NOS journaal van woensdag 12 maart 2014. Tijdens dit bezoek deed Wilders in een interview onder andere de volgende uitspraak:</para>
+        <para>"Belangrijkste is toch voor de mensen hier op de markt de Hagenaars, Hagenezen en Scheveningers zoals [betrokkene 5] dat altijd netjes en terecht noemt. Voor die mensen doen we het nu. Die stemmen nu op een veiliger en socialer en in ieder geval een stad met minder lasten en als het even kan ook wat minder Marokkanen."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>9. Een proces-verbaal interview 13 maart 2014 (RTL) d.d. 23 april 2014 van de politie Eenheid Den Haag, zonder nummer (p. 16 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaren:</para>
+        <para>In de aanloop naar de verkiezingen van 19 maart 2014 heeft Geert Wilders op 13 maart 2014 een interview met Frits Wester. Dit interview wordt uitgezonden in het RTL Nieuws van die avond.</para>
+        <para>Onderstaande is veiliggesteld vanaf internet en op dvd gebrand onder de naam: Interview 13 maart 2014 (RTL4) .mp4</para>
+        <para>Hieronder volgt een letterlijke uitwerking van dit interview:</para>
+        <para>Frits Wester: Veel ophef over uitspraken die u gedaan heeft. U zegt dat u hoopt op minder Marokkanen.</para>
+        <para>Er volgt een tekst in beeld met daarnaast de foto van Geert Wilders. De tekst luidt: "Voor die mensen doen we het nu. Die stemmen nu op een veiliger en socialer.. en een stad met minder lasten en als het even kan, met minder Marokkanen."</para>
+        <para>Geert Wilders: Ja, (...) . Maar weet u, wat zou het mooi zijn als wij in Nederland inderdaad niet alleen in Den Haag en Almere, maar als we inderdaad minder Marokkanen zouden krijgen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>10. Een proces-verbaal van bevindingen interview 14 maart 2014 (NOS) d.d. 23 april 2014 van de politie Eenheid Den Haag, zonder nummer (p. 19 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaren:</para>
+        <para>Onderstaande is veiliggesteld vanaf internet en op dvd gebrand onder de naam: Interview 14 maart 2014 (NOS) .mp4</para>
+        <para>In de aanloop naar de verkiezingen van woensdag 19 maart 2014 heeft Geert Wilders op vrijdag 14 maart 2014 een interview met een verslaggever van de NOS. </para>
+        <para>Hieronder volgt een letterlijke uitwerking van dit interview:</para>
+        <para>Geert Wilders: Hoe minder Marokkanen in Nederland, hoe beter....</para>
+        <para>Verslaggever: Maar dat is weer wat algemener.</para>
+        <para>Geert Wilders: Ja, ik ga toch echt over mijn eigen antwoorden, hoe vaak u de microfoon ook van mijn mond wegtrekt, ik blijf bij mijn eigen opmerking.</para>
+        <para>(...) </para>
+        <para>Verslaggever: Kunt u zich voorstellen dat mensen schrikken van uw uitspraak?</para>
+        <para>Geert Wilders: Nou, dat, misschien van eindelijk iemand die zegt, die de waarheid zegt, eindelijk iemand die durft te benoemen waar het om gaat. (...) En als mensen schrikken van de waarheid, ja dan is dat heel jammer.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>11. Een proces-verbaal interview 14 maart 2014 (TV West) d.d. 23 april 2014 van de politie Eenheid Den Haag, zonder nummer (p. 22 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven - :</para>
+        <para>als relaas van de betreffende opsporingsambtenaren:</para>
+        <para>Onderstaande is veiliggesteld vanaf internet en op dvd gebrand onder de naam: Interview 14 maart 2014 (TV West) .mp4.</para>
+        <para>In de aanloop naar de verkiezingen van woensdag 19 maart 2014 heeft Geert Wilders samen met de PVV lijsttrekker van Den Haag [betrokkene 5] op vrijdag 14 maart 2014 een interview met een verslaggever van TV West in de nieuwsuitzending van die avond.</para>
+        <para>Hieronder de letterlijke weergave van dit interview:</para>
+        <para>Interviewer: Zullen we beginnen met misschien een actuele kwestie meneer Wilders, u heeft eergister op de Haagse markt nogal veel beroering veroorzaakt door te zeggen, wat minder Marokkanen in Den Haag. Staat u 2 dagen daarna nog achter die uitspraak?</para>
+        <para>Geert Wilders: Ja, alleen nog maar meer.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Het hof heeft ten aanzien van de bewezenverklaring verder onder meer het volgende overwogen:</para>
+        <para>“8. Beoordeling van de tenlastelegging</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <parablock>
+        <para>Feiten en omstandigheden</para>
+        <para>Voor de beoordeling van de uitlatingen die door de verdachte zijn gedaan op 12 en 19 maart 2014 stelt het hof op grond van het procesdossier en het verhandelde ter terechtzitting het navolgende vast.</para>
+      </parablock>
+      <paragroup>
+        <nr>8.1.1</nr>
+        <parablock>
+          <para>Uitlating op 12 maart 2014 (feit 3)</para>
+          <para>In de aanloop naar de gemeenteraadsverkiezingen van 19 maart 2014 voerde de verdachte als partijleider van de PVV campagne op verschillende locaties in Den Haag. Op woensdag 12 maart 2014 bezocht hij samen met een aantal Haagse PVV-medewerkers de markt in het stadsdeel Loosduinen in Den Haag. De verdachte ging daar tijdens het flyeren in gesprek met diverse mensen op de markt. Ondertussen gaf de fractievoorzitter van de Haagse PVV een kort interview aan een aldaar aanwezige reporter van de NOS. Daarna volgde een kort interview met de verdachte en de lijsttrekker van de Haagse PVV samen. Tijdens dit interview deed de verdachte onder andere de volgende uitspraak:</para>
+          <para>"Belangrijkste is toch voor de mensen hier op de markt de Hagenaars, Hagenezen en Scheveningers zoals [betrokkene 5] dat altijd netjes en terecht noemt. Voor die mensen doen we het nu. Die stemmen nu op een veiliger en socialer en in ieder geval een stad met minder lasten en als het even kan ook wat minder Marokkanen."</para>
+          <para>Deze uitspraak is uitgezonden in het NOS-journaal van 12 maart 2014.</para>
+          <para>
+            [betrokkene 6], voormalig woordvoerder Integratie en Islam van de PVV, heeft verklaard dat hij er die dag bij was en dat de verdachte en zijn partijgenoten de hele dag door mensen uit de buurt werden aangesproken over criminele Marokkanen. [betrokkene 6] denkt dat de verdachte daarom tot zijn uitspraak kwam en dat hij dat niet vooraf heeft bedacht. Na het interview vroeg de verdachte aan hem iets in de trant van: "kon ik dat zo zeggen?", aldus [betrokkene 6].</para>
+          <para>
+            [betrokkene 7], voormalig beleidsmedewerker van de verdachte, heeft verklaard dat hij nogal verbaasd was toen deze uitspraak werd gedaan. Hij dacht dat de verdachte zich versprak en niet doelbewust die uitspraak deed.</para>
+          <para>Voor [betrokkene 4], (destijds) beleidsmedewerker van de Stichting PVV, kwam het feit dat op 12 maart 2014 opeens de algemene term 'minder Marokkanen' werd gebruikt "uit de lucht vallen". Het algemene standpunt van de PVV is immers: minder criminelen, minder immigratie en vrijwillige remigratie, aldus [betrokkene 4].</para>
+          <para>De verdachte werd na 12 maart 2014 door verschillende media aangesproken op zijn 'minder Marokkanen'-uitspraak van die datum. Tijdens interviews op 13 en 14 maart 2014 is de verdachte gewezen op de door zijn uitspraak ontstane ophef en beroering en is hem in dat verband gevraagd om over de uitlating nadere uitleg te geven.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>8.1.2</nr>
+        <parablock>
+          <para>Uitlating op 19 maart 2014 (feiten 1 en 2)</para>
+          <para>In de avond van woensdag 19 maart 2014 hield de PVV in Grand Café 'De Tijd' in Den Haag een (partij)bijeenkomst naar aanleiding van de binnenkomende uitslagen van de gemeenteraadsverkiezingen. De verdachte was daar als partijleider en sprak het aanwezige publiek toe vlak voor zijn vertrek naar de "PVV collega's van Almere". Deze toespraak is die avond uitgezonden op de Nederlandse televisie. De verdachte zei in zijn toespraak onder meer het volgende:</para>
+          <para>"Maar voordat ik ga, zou ik van iedereen hier een antwoord willen hebben op de volgende drie vragen. Drie vragen, alsjeblieft geef een helder antwoord die onze partij, de PVV, definiëren. En de eerste vraag is: willen jullie meer of minder Europese Unie?"</para>
+          <para>Hierop riep het publiek herhaaldelijk "minder" en er werd geklapt.</para>
+          <para>"En de tweede, de tweede vraag, is, misschien nog belangrijker: Willen jullie meer of minder Partij van de Arbeid?"</para>
+          <para>Hierop riep het publiek herhaaldelijk "minder" en er werd geklapt.</para>
+          <para>"En de derde vraag is, en ik mag het eigenlijk niet zeggen, want er wordt aangifte tegen je gedaan, en misschien zijn er zelfs D66 officieren die het in proces aandoen, maar de vrijheid van meningsuiting is een groot goed en we hebben niets gezegd wat niet mag, we hebben niets gezegd wat niet klopt, dus ik vraag aan jullie: Willen jullie in deze stad en in Nederland meer of minder Marokkanen?"</para>
+          <para>Hierop riep het publiek meermalen "minder" en er werd geklapt.</para>
+          <para>Hierna eindigde de verdachte zijn toespraak met de woorden:</para>
+          <para>"Nah, dan gaan we dat regelen."</para>
+          <para>
+            [betrokkene 2], voormalig medewerker van de PVV, heeft verklaard dat hij van [betrokkene 3], de vaste medewerker van de verdachte, per e-mail enkele speechvoorstellen voor de avond van 19 maart 2014 had ontvangen. [betrokkene 2] verwees daarbij naar de door hem geprinte en meegebrachte e-mail berichten, die als bijlage bij het proces-verbaal van zijn verklaring zijn gevoegd. In die voorstellen, die tekstueel van elkaar verschilden naar het aantal zetels dat de PVV in Den Haag zou blijken te hebben behaald, stond telkens: "minder Marokkanen". De verdachte heeft in de middag van 19 maart 2014 op deze tekstvoorstellen gereageerd met: "Ok thx zet maar in grote letters op kartonnen papiertjes......".</para>
+          <para>De PVV-beleidsmedewerker [betrokkene 4] heeft verklaard dat hij op de verkiezingsdag van 19 maart 2014 een coördinerende rol had. Hij werd die avond door [betrokkene 1], (destijds) beleidsmedewerker van de Stichting PVV, gebeld. [betrokkene 1] gaf toen aan dat de verdachte over ongeveer een uur in het café zou verschijnen. Hij zou dan het publiek de vraag stellen of zij meer of minder Marokkanen wilden. Het publiek moest dan antwoorden met 'minder, minder, minder'. Ook vroeg [betrokkene 1] aan [betrokkene 4] om het publiek vooraf over deze vraag en het antwoord te instrueren. [betrokkene 4] is toen gaan rondlopen en heeft groepjes mensen geïnstrueerd.</para>
+          <para>De PVV-beleidsmedewerker [betrokkene 1], heeft verklaard dat hij op 19 maart 2014 omstreeks 20.00 uur werd gevraagd aan te sluiten in de werkkamer van de verdachte. Daar was onder anderen ook de verdachte aanwezig. Toen is met elkaar nagedacht over wat er in de speech die de verdachte in café De Tijd zou gaan houden gezegd zou worden. Concepten voor die speech waren al beschikbaar.</para>
+          <para>In het café waren voornamelijk mensen van de PVV aanwezig. Ook was er natuurlijk pers aanwezig, aldus [betrokkene 1]. Eén van de overwegingen was een zo sterk mogelijke speech te bedenken waarin de zaken zo scherp mogelijk zouden worden benoemd. Men wilde met de speech aansluiten bij de achterban en daarbij nieuwswaarden genereren zodat het door de pers zou worden overgenomen en uitgezonden. Over eventuele juridische consequenties van de speech werd naar zijn weten niet expliciet nagedacht. Er werd ook gesproken over het, om redenen van retoriek, stellen van drie vragen aan het publiek in plaats van één. Bij het stellen van drie vragen ontstaat een opbouw naar de kracht van de uitspraak. Er werd gesproken over de vraag of in de speech gesproken zou worden over alleen Marokkanen of over criminele Marokkanen. Omdat tijdens het samenstellen van de speech enige zorg bestond over de vraag of het publiek wel zou reageren op de vraag heeft [betrokkene 1] [betrokkene 4] gebeld. Om ervoor te zorgen dat het publiek goed zou reageren en er een juiste interactie met het publiek zou ontstaan heeft hij [betrokkene 4] gevraagd of hij, eventueel met hulp van anderen, hiervoor kon zorgen, aldus [betrokkene 1].</para>
+          <para>De eerdergenoemde medewerker van de verdachte, [betrokkene 3], heeft verklaard dat hij op 19 maart 2014, voorafgaand aan de speech van de verdachte, van de verdachte hoorde dat hij drie vragen aan het publiek zou stellen. Hij begreep dat de politieke lijn van een week eerder weer zou worden aangezet.</para>
+          <para>Naar aanleiding van de uitlatingen van de verdachte op 12 en 19 maart 2014 zijn er vanuit het hele land aangiften tegen hem gedaan.</para>
+          <para>(...)</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <parablock>
+        <para>Het begrip 'ras' in de zin van de artikelen 137c en 137d Sr</para>
+        <para>Het hof stelt ten aanzien van het begrip 'ras' in de zin van de artikelen 137c en 137d Sr het volgende voorop.</para>
+        <para>De huidige artikelen 137c en 137d Sr zijn ingevoerd bij Wet van 18 februari 1971 (Stb. 1971, 96) ter uitvoering van het Internationaal Verdrag van New York van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie (hierna: IVUR). In het ontwerp van die wet wordt 'ras' niet nader omschreven, maar uit de Memorie van Toelichting blijkt dat dit begrip moet worden uitgelegd naar de kennelijke strekking van artikel 1, eerste lid, van het IVUR (52). In dat artikel worden naast 'ras' ook genoemd huidskleur, afkomst of nationale of etnische afstamming (53). De in het Nederlands strafrecht geïmplementeerde bepalingen beogen geen wetenschappelijke definitie te geven van 'ras', maar laten het aan de rechter over om dat begrip op voornoemde grondslag nader in te vullen (54).</para>
+        <para>De jurisprudentie die na de invoering van de artikelen 137c en 137d Sr is ontwikkeld maakt duidelijk dat bij de uitleg van deze artikelen het wetenschappelijke begrip 'ras' in biologisch-genetische zin geen rol van betekenis speelt (55). De ruime uitleg van het begrip 'ras', zoals die naar voren komt uit de Memorie van Toelichting, onder verwijzing naar artikel 1 van het IVUR, wordt in de jurisprudentie gevolgd. Daarmee valt naast ras derhalve ook huidskleur, afkomst of nationale of etnische afstamming onder het begrip 'ras' als bedoeld in de artikelen 137c en 137d Sr (56). Dat kan dus ruimer zijn dan wat in het normale spraakgebruik onder 'ras' wordt verstaan.</para>
+        <para>Uitgaande van voormelde opvatting over het in de artikelen 137c en 137d Sr voorkomende woord 'ras' is het hof van oordeel dat de door verdachte gebruikte term 'Marokkanen' verwijst naar de in het IVUR opgenomen kenmerken 'afkomst', 'nationale afstamming' of 'etnische afstamming' en derhalve - anders dan de verdediging heeft betoogd - valt onder het begrip 'ras' als bedoeld in die artikelen. Het hof volgt daarmee niet het standpunt van de verdachte dat hij alleen maar heeft gesproken over personen met de Marokkaanse nationaliteit, als aanduiding van het staatsburgerschap van Marokko.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <parablock>
+        <para>Beoordeling uitlating op 19 maart 2014 (feit 1)</para>
+        <para>Het hof dient te beoordelen of ten aanzien van de uitlating van de verdachte op 19 maart 2014 sprake is van groepsbelediging zoals onder feit 1 ten laste is gelegd.</para>
+      </parablock>
+      <paragroup>
+        <nr>8.4.1</nr>
+        <parablock>
+          <para>Beoordelingskader groepsbelediging (artikel 137c Sr)</para>
+          <para>Bij de beoordeling van een uitlating in verband met de strafbaarheid daarvan wegens groepsbelediging in de zin van artikel 137c Sr dient volgens de jurisprudentie van de Hoge Raad acht te worden geslagen op de bewoordingen van die uitlating, alsmede op de context waarin zij is gedaan. Daarbij dient onder ogen te worden gezien of de gewraakte uitlating een bijdrage kan leveren aan het publiek debat of een uiting is van artistieke expressie. Tevens dient onder ogen te worden gezien of de uitlating in dat verband niet onnodig grievend is (57).</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>8.4.2</nr>
+        <parablock>
+          <para>Bewoordingen uitlating</para>
+          <para>Het hof dient in dit kader als eerste te beoordelen of de betreffende uitlating beledigend is. Een uitlating kan als beledigend worden beschouwd wanneer zij de strekking heeft een ander bij het publiek in een ongunstig daglicht te stellen en hem aan te randen in zijn eer en goede naam (58).</para>
+          <para>Voor groepsbelediging moet het gaan om het aantasten van de eigenwaarde of het in diskrediet brengen van een groep, in dit geval om de enkele reden dat die van een bepaald ras is. Het oordeel dat sprake is van een uitlating die de strekking heeft een ander aan te randen in zijn eer en goede naam, zal bij woorden waarvan het gebruik op zichzelf in het algemeen niet beledigend is, afhangen van de context waarin de uitlating is gedaan (59). Zo kan de context maken dat een uitlating die objectief - in het algemene of gangbare spraakgebruik - niet zonder meer als beledigend geldt, toch als zodanig wordt aangemerkt.</para>
+          <para>Zoals hiervoor is overwogen heeft de verdachte op 19 maart 2014 aan het aanwezige publiek op de (partij)bijeenkomst in het kader van de</para>
+          <para>gemeenteraadsverkiezingen gevraagd of zij "in deze stad en in Nederland meer of minder Marokkanen" willen. Nadat het publiek meermalen "minder" had geroepen, reageerde de verdachte met de woorden "Nah, dan gaan we dat regelen".</para>
+          <para>Het hof is van oordeel dat de bewoordingen "minder Marokkanen" op zichzelf beschouwd niet zonder meer als beledigend kunnen worden aangemerkt. Het gaat echter niet enkel om deze twee woorden, maar om de bewoordingen in hun context en de uitlating als geheel. Beziet men deze aldus, dan hebben zij de strekking om alle inwoners van Nederland met een Marokkaanse achtergrond in diskrediet te brengen op de enkele grond dat zij tot deze bevolkingsgroep behoren. De uitlating treft immers de gehele Marokkaanse bevolkingsgroep in Nederland, dus zonder dat daarin onderscheid wordt gemaakt naar de gedragskenmerken van bepaalde deelgroepen. Daarmee heeft de verdachte deze groep collectief getroffen in hetgeen voor die groep kenmerkend is, namelijk haar Marokkaanse afkomst of afstamming. De verdachte heeft derhalve, anders dan de verdediging heeft aangevoerd, de eigenwaarde aangetast van een groep mensen wegens hun ras (zie paragraaf 8.3) en geen respect getoond voor de eer en goede naam van die groep.</para>
+          <para>Daarmee staat voor het hof naar objectieve maatstaven het beledigende karakter van die uitlating vast.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>8.4.3</nr>
+        <parablock>
+          <para>Context: publiek debat - onnodig grievend</para>
+          <para>Nu de uitlating op 19 maart 2014 naar het oordeel van het hof een beledigend karakter heeft dient het vervolgens te beoordelen of de uitlating is gedaan in een bepaalde context die dat beledigende karakter kan wegnemen.</para>
+          <para>Uit de jurisprudentie van de Hoge Raad volgt dat de context waarin een uitlating is gedaan het beledigende karakter van de uitlating weg kan nemen, bijvoorbeeld indien de uitlating een bijdrage kan leveren aan het publiek debat (60).</para>
+          <para>Tot het publiek debat behoren in elk geval kritiek op de overheid en andere uitlatingen die deel uit maken van het politieke debat. Meer in het algemeen gaat het om uitlatingen die in een democratie van publiek belang zijn, bijvoorbeeld omdat daarmee een misstand aan de kaak wordt gesteld of een minderheidsstandpunt voor het voetlicht wordt gebracht. </para>
+          <para>De verdachte heeft voorafgaand aan de (partij)bijeenkomst op 19 maart 2014 diverse keren, zowel in interviews naar aanleiding van zijn uitlating op de markt op 12 maart 2014, als tijdens een verkiezingsdebat op 18 maart 2014, het grote aantal bij strafbare feiten betrokken Marokkanen in Nederland en hun oververtegenwoordiging in de criminaliteit aan de kaak gesteld. Hij heeft die uitlatingen toen telkens voorzien van aantallen of percentages, en gesteld dat zijn partij eraan zou bijdragen het gevoel van veiligheid in Nederland te vergroten. Daarbij verwees de verdachte herhaaldelijk naar de drie speerpunten van het immigratiebeleid in het verkiezingsprogramma van de PVV, te weten het tegengaan van (verdere) immigratie, het bevorderen van vrijwillige remigratie van mensen met een dubbele nationaliteit en het uitzetten van criminelen met een niet-Nederlandse nationaliteit, waaronder dus ook in Nederland wonende criminele Marokkanen. In dit licht is met betrekking tot de uitlating op 19 maart 2014, waarbij de verdachte als partijleider van de PVV het aanwezige publiek toesprak naar aanleiding van de binnenkomende uitslagen van de gemeenteraadsverkiezingen, naar het oordeel van het hof in beginsel sprake van een (partij)politieke context, waarbinnen de uitlating een bijdrage kan leveren aan het publiek debat, en aldus het beledigende karakter van de uitlating zou kunnen wegnemen.</para>
+          <para>Ook in het kader van het publiek debat is het recht op vrijheid van meningsuiting echter niet onbeperkt. Met name dient bezien te worden of de uitlating in dat verband niet onnodig grievend is. Bij die beoordeling dient, indien het gaat om een uitlating door een politicus in het kader van het publiek debat - het politieke debat daaronder begrepen -, onder ogen te worden gezien enerzijds het belang dat de betreffende politicus daadwerkelijk in staat moet zijn om zaken van algemeen belang aan de orde te stellen, ook als zijn uitlatingen kunnen 'kwetsen, choqueren of verontrusten', maar anderzijds ook de verantwoordelijkheid die de politicus in het politieke/maatschappelijke debat draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met de wet en met de grondbeginselen van de democratische rechtsstaat (61). Uitlatingen mogen provocerend zijn, echter mogen zij bepaalde grenzen niet overschrijden, vooral waar het gaat om het respect voor de eer en goede naam en de rechten van anderen (62). De ruime uitingsvrijheid ontbreekt in het bijzonder bij het belasteren van minderheidsgroepen, omdat daarmee de pluriforme democratische samenleving wordt ondergraven. Verdraagzaamheid en respect voor de gelijkwaardigheid van alle mensen vormen immers het fundament van een democratische en pluriforme samenleving (63).</para>
+          <para>Het beroep dat de verdediging in dit verband heeft gedaan op de uitspraak van het Europees Hof in de zaak Makraduli (64) wordt door het hof niet gevolgd, reeds omdat de uitlating in die zaak, anders dan hier, ziet op een van corruptie beschuldigde regeringsfunctionaris.</para>
+          <para>In het licht van het voorgaande dient het hof te beoordelen of de verdachte zich op 19 maart 2014 onnodig grievend heeft uitgelaten. Daarvoor acht het hof de navolgende feiten en omstandigheden van belang.</para>
+          <para>Voorafgaand aan de (partij)bijeenkomst op 19 maart 2014 in Grand Café De Tijd is de verdachte enkele keren geïnterviewd naar aanleiding van zijn uitlating op de markt op 12 maart 2014 over minder Marokkanen en is hem gevraagd wat hij daarmee nu precies bedoelde. In het interview van 13 maart 2014 is de verdachte door een reporter van RTL4 voorgehouden dat over die uitspraak veel ophef was ontstaan. De dag erna is de verdachte tijdens een interview op TV West erop gewezen dat hij op de Haagse markt nogal veel beroering had veroorzaakt door te spreken over minder Marokkanen. Uit de onder paragraaf 8.1.2 van dit arrest genoemde verklaringen blijkt vervolgens dat de verdachte voorafgaand aan zijn toespraak op 19 maart 2014 in voornoemd café met een aantal (beleids)medewerkers in zijn werkkamer heeft besproken over wat er gezegd zou worden en hoe dat vorm gegeven zou worden. Er werd gesproken over de vraag of er in de speech alleen 'Marokkanen' of 'criminele Marokkanen' gezegd zou worden. Eén van de overwegingen was om een zo sterk mogelijke speech te bedenken waarin de zaken zo scherp mogelijk zouden worden benoemd. Men wilde met de speech aansluiten bij de achterban en daarbij nieuwswaarde genereren, zodat het door de media zou worden overgenomen en uitgezonden. Er werd gesproken over het, om redenen van retoriek, stellen van drie vragen aan het publiek, in plaats van één. Bij het stellen van drie vragen ontstaat een opbouw naar de kracht van de uitspraak. Concepten voor de speech waren tijdens dat overleg al beschikbaar. Aan de eerder in de middag van 19 maart 2014 aan de verdachte, voorgelegde speechvoorstellen, waarin werd gesproken over minder 'Marokkanen' in plaats van over bijvoorbeeld minder 'criminele Marokkanen', had de verdachte zijn goedkeuring gegeven. Om ervoor te zorgen dat er een juiste interactie tussen de verdachte en het publiek zou ontstaan is een medewerker van de PVV na dit overleg de zaal in gegaan om het publiek te instrueren. De verdachte heeft vervolgens - ten overstaan van het publiek en de aldaar aanwezige media - de speech gehouden op de wijze zoals dat was afgesproken, waarbij hij het aanwezige publiek drie vragen heeft gesteld, waarvan de laatste was of zij "in deze stad en in Nederland meer of minder Marokkanen" wilden. Nadat het publiek -conform de tevoren gegeven instructie- meermalen "minder" had geroepen, reageerde de verdachte daarop met de woorden "Nah, dan gaan we dat regelen".</para>
+          <para>Gelet enerzijds op het belang van de verdachte om als politicus in het publiek debat zaken aan de orde te stellen, ook als zijn uitlatingen kunnen kwetsen, en anderzijds op de verantwoordelijkheid die de verdachte als politicus in het politieke/maatschappelijke debat draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met de wet en met de grondbeginselen van de democratische rechtsstaat is het hof - alles afwegende - van oordeel dat deze uitlating onnodig grievend is geweest. In het bijzonder neemt het hof hierbij in aanmerking dat de verdachte de uitlating heeft gedaan ten aanzien van een minderheidsgroep in Nederland, zonder nadere uitleg, motivering of nuancering, waarbij hij zich op een weldoordachte wijze, met gebruikmaking van retoriek, tegenover een voorbereid publiek, voor het oog van de camera over deze gehele groep in negatieve zin heeft uitgelaten, terwijl hij wist dat de in die uitlating gebruikte bewoordingen eerder al tot ophef en beroering hadden geleid. Daarmee is de verdachte te ver gegaan.</para>
+          <para>Hierbij dient bovendien nog te worden bedacht dat de hiervoor beschreven (partij)politieke context zonder nadere toelichting op dat moment niet voor derden kenbaar was (65). Dat de verdachte, zoals hij heeft gesteld, nadien in interviews alsnog nadere uitleg zou hebben gegeven - wat daar verder van zij - kan aan dit alles niet afdoen.</para>
+          <para>(...)</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>8.4.5</nr>
+        <parablock>
+          <para>Opzet</para>
+          <para>De verdediging heeft betoogd -kort en zakelijk weergegeven- dat geen sprake is van (voorwaardelijk) opzet op de belediging en evenmin op de openbaarheid van de belediging, zodat de verdachte reeds daarom van het onder feit 1 tenlastegelegde dient te worden vrijgesproken.</para>
+          <para>8.4.5.1 Opzet op de belediging</para>
+          <para>Het hof is van oordeel dat de verdachte met de tenlastegelegde uitlating op 19 maart 2014 in de gegeven omstandigheden minst genomen welbewust de aanmerkelijke kans heeft aanvaard dat hij zich schuldig maakte aan belediging van een groep mensen, te weten 'Marokkanen'.</para>
+          <para>Het hof overweegt in dit verband dat de verdachte op 19 maart 2014 bekend was met het feit dat er ophef c.q. beroering was ontstaan over zijn 'minder-Marokkanen'-uitspraak op de markt op 12 maart 2014. Dit blijkt uit de interviews met de verdachte op 13 en 14 maart 2014 en uit hetgeen hij zelf zegt tijdens de speech, waarin de tenlastegelegde uitlating van 19 maart 2014 is gedaan:</para>
+          <para>"en ik mag het eigenlijk niet zeggen, want er wordt aangifte tegen je gedaan, en misschien zijn er zelfs D66 officieren die het in proces aandoen (...) ". Hieruit leidt het hof af dat de verdachte, toen hij de tenlastegelegde uitlating op 19 maart 2014 deed, welke uitlating overeenkomsten vertoonde met de uitlating van 12 maart 2014, en waarvan hij zelf aangaf dat hij het eigenlijk niet mag zeggen, er al rekening mee hield dat hij voor die uitlating strafrechtelijk vervolgd zou (kunnen) gaan worden. De stelling van de verdediging dat de verdachte met zijn uitlating slechts een onderdeel van de partijstandpunten van de PVV heeft uitgedragen en niet de bedoeling had om te beledigen kan aan het voorgaande niet af doen (67). Het verweer wordt verworpen.</para>
+          <para>8.4.5.2 Opzet op de openbaarheid</para>
+          <para>Onder zich in het openbaar uitlaten als bedoeld in artikel 137c Sr dient te worden verstaan 'het ter kennis van het publiek brengen'. Bij de beantwoording van de vraag of daarvan sprake is komt het aan op de bijzondere omstandigheden van het geval (68). De verdachte heeft de uitlating op 19 maart 2014 gedaan in een speech tijdens een (partij)bijeenkomst op een verkiezingsavond, ten overstaan van een publiek (bestaande uit genodigden) en in aanwezigheid van journalisten. De toespraak is opgenomen door de aanwezige media en in de avond uitgezonden op de Nederlandse televisie.</para>
+          <para>Mede gelet op de verklaring van beleidsmedewerker [betrokkene 1] over het ook met de verdachte gehouden overleg voorafgaand aan de bijeenkomst op 19 maart 2014, acht het hof voldoende gebleken dat het de bedoeling van de verdachte (juist) was dat zijn uitlating ter kennis van het (grote) publiek zou komen. [betrokkene 1] heeft verklaard dat er "natuurlijk pers aanwezig was" en dat er met elkaar nagedacht werd over wat er in de speech gezegd zou gaan worden. Eén van de overwegingen was een zo sterk mogelijke speech te bedenken waarin de zaken zo scherp mogelijk zouden worden benoemd en waarbij nieuwswaarden werden genereerd zodat het door de pers zou worden overgenomen en uitgezonden. Uit de beelden die zich in het dossier bevinden van de (partij)bijeenkomst van 19 maart 2014 (en die ter terechtzitting in hoger beroep getoond zijn) blijkt dat landelijke media aanwezig waren. Er stonden meerdere microfoons op het spreekgestoelte van de verdachte en er waren door de zaal verspreid meerdere (video)camera's opgesteld. De aanwezigheid van de media kan de verdachte dan ook niet ontgaan zijn, zodat hij zich de openbaarmaking van zijn uitlating bewust moet zijn geweest.</para>
+          <para>Het hof acht derhalve bewezen, gelet op het vorenstaande in onderling verband en samenhang bezien, dat de verdachte zijn uitlating deed 'in het openbaar' (zoals in artikel 137c Sr bedoeld) en dat hij dat wist, zodat het hof bewezen acht dat zijn opzet ook op de openbaarheid was gericht. Het verweer wordt verworpen.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>8.4.6</nr>
+        <parablock>
+          <para>Conclusie</para>
+          <para>Het hof acht bewezen dat de verdachte zich samen met anderen met de uitlating op 19 maart 2014 schuldig heeft gemaakt aan groepsbelediging, zoals dat onder feit 1 (primair) is tenlastegelegd. Alle daarop ziende verweren worden verworpen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voetnoten:</para>
+          <para>(52) Kamerstukken II 1967-1968, 9724, nr. 3, p. 4.</para>
+          <para>(53) Artikel 1, lid 1 IVUR: In this Convention, the term "racial discrimination" shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.</para>
+          <para>(54) Kamerstukken II 1969-1970, 9724, Handelingen p. 4349 (Stb. 1971, 96).</para>
+          <para>(55) Hoge Raad 15 juni 1976, ECLI:NL:HR:1976:AB5842, NJ 1976, 551, Hoge Raad14 maart 1989, ECLI:NL:HR:1989:AC3487, NJ 1990, 29, Hoge Raad 29 maart 2016, ECLI:NL:HR:2016:510.</para>
+          <para>(56) Hoge Raad 14 maart 1989, ECLI:NL:HR:1989:AC3487, NJ 1990, 29, Hoge Raad 1 mei 1990, ECLI:NL:HR:1990:AB7604, NJ 1991, 75, Hoge Raad 29 maart 2016, ECLI:NL:HR: 2016:510, Hoge Raad 13 juni 2000, ECLI:NL:HR:2000:AA6191 en Hoge Raad 14 april 2020, ECLI:NL:HR:2020:638.</para>
+          <para>(57) Hoge Raad 16 december 2014, ECLI:NL:HR:2014:3583 en Hoge Raad 26 juni 2018, ECLI :NL:HR:2018:1003.</para>
+          <para>(58) Hoge Raad 29 maart 2016, ECLI:NL:HR:2016:510.</para>
+          <para>(59) Hoge Raad 22 december 2009, ECLI:NL:HR:2009:BJ9796.</para>
+          <para>(60) Vgl. Hoge Raad 2 juli 2019, ECLI:NL:HR:2019:1059.</para>
+          <para>(61) Hoge Raad 16 december 2014, ECLI:NL:HR:2014:3583.</para>
+          <para>(62) EHRM 28 februari 2017, nr. 45416/16 (Le Pen vs. Frankrijk).</para>
+          <para>(63) EHRM 6 juli 2006, nr. 59405/00 (Erbakan vs. Turkije).</para>
+          <para>(64) EHRM 19 juli 2018, nr. 64659/11 en 24133/13 (Makraduli vs. The former Yugoslav Republic of Macedonia).</para>
+          <para>(65) Vgl. Hoge Raad 27 maart 2012, ECLI:NL:HR:2012:BV5623.</para>
+          <para>(...)</para>
+          <para>(67) Vgl. Hoge Raad 15 september 2009, ECLI:NL:HR:2009:BI4739.</para>
+          <para>(68) Vgl. Hoge Raad 22 april 2014, ECLI:NL:HR:2014:952.” </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <parablock>
+        <para>Het hof heeft ten aanzien van de strafbaarheid van het bewezenverklaarde het volgende overwogen:</para>
+        <para>“De vraag die het hof vervolgens dient te beantwoorden is of een veroordeling van de verdachte ter zake van (in artikel 137c Sr strafbaar gestelde) groepsbelediging in strijd is met zijn recht op vrije meningsuiting dat onder andere wordt beschermd door artikel 10 EVRM. Zou dat het geval zijn, dan dient deze wetsbepaling ingevolge het bepaalde in artikel 94 van de Grondwet immers buiten toepassing te worden gelaten op de grond dat toepassing ervan niet met artikel 10 EVRM verenigbaar is.</para>
+        <para>Het in artikel 10 EVRM gegarandeerde recht op vrijheid van meningsuiting is echter niet onbegrensd. Niet alleen kunnen uitlatingen gericht tegen de aan het EVRM ten grondslag liggende waarden in bepaalde (extreme) gevallen de bescherming van artikel 10 EVRM ontberen op grond van artikel 17 EVRM, ook vindt het recht op vrije meningsuiting in het bijzonder zijn begrenzing in het tweede lid van artikel 10 EVRM.</para>
+        <para>Naar het oordeel van het hof is artikel 17 EVRM (verbod van misbruik van recht) hier niet aan de orde. Niet kan worden gezegd dat de uitlating van de verdachte, zoals die is bewezenverklaard, zozeer indruist tegen de onderliggende waarden van het EVRM dat de verdachte reeds om die reden de bescherming van (artikel 10 van) het EVRM moet ontberen. De bewezenverklaarde uitlating valt naar het oordeel van het hof onder de reikwijdte van het eerste lid van artikel 10 EVRM. Een veroordeling van de verdachte zou derhalve in beginsel een inbreuk opleveren op het daarin neergelegde recht op vrije meningsuiting. Om te beoordelen of die inbreuk gerechtvaardigd is, dient ingevolge het tweede lid van artikel 10 EVRM te worden bezien (1) of de inbreuk bij wet is voorzien, (2) of het desbetreffende verbod een legitiem doel dient en ten slotte (3) of de inbreuk (een veroordeling) in dit geval noodzakelijk is in een democratische samenleving.</para>
+        <para>De vraag of de inbreuk bij wet is voorzien en de vraag of het desbetreffende verbod een legitiem doel dient worden door het hof bevestigend beantwoord. Artikel 137c Sr is ingevoerd, en naar zijn huidige wettekst gewijzigd, bij (telkens) een wet in formele zin en de verdachte mag met de daarin neergelegde verbodsbepaling dan ook bekend worden verondersteld. Tevens is sprake van een legitiem doel voor deze inbreuk, te weten het voorkomen dat strafbare feiten worden gepleegd, respectievelijk het bewerkstelligen dat de reputatie en rechten van anderen worden beschermd (72).</para>
+        <para>Bij de beoordeling van de derde vraag (of een veroordeling van de verdachte ter zake van het bewezenverklaarde feit 'in een democratische samenleving noodzakelijk' is), dient voorop te staan dat juist in het belang van die democratische rechtsstaat zeer terughoudend moet worden omgegaan met het verbieden van meningsuitingen. Dat geldt ook voor meningsuitingen die 'offend, shock or disturb the State or any sector of the population' (73) en temeer als de uitlatingen afkomstig zijn van een tot de oppositie behorende politicus (74). Voorkomen moet immers worden dat de vervolging van meningsuitingen bijdraagt aan een sfeer van maatschappelijke onverdraagzaamheid en aldus juist het tegenovergestelde bewerkstelligt van wat met het grondrecht van vrije meningsuiting wordt beoogd. Een beperking van het recht op vrije meningsuiting dient dan ook in elk geval te- beantwoorden aan een dwingende maatschappelijke behoefte ('pressing social need') en zij dient evenredig te zijn aan het met die beperking beoogde doel (proportionaliteitseis) (75). Blijkens de jurisprudentie van het Europees Hof zijn daarbij de bijzondere omstandigheden van het geval van belang. Enerzijds dient een juist evenwicht te worden gevonden tussen alle in geding zijnde, door het EVRM beschermde rechten en vrijheden, en anderzijds dient gewicht te worden toegekend aan de wisselwerking tussen de aard van de uitlating en het mogelijke effect dat die uitlating sorteert, alsmede aan de context waarbinnen een dergelijke uitlating is gedaan (76).</para>
+        <para>Voor de vraag of een strafrechtelijke veroordeling van verdachte, en daarmee een inbreuk op zijn recht op vrije meningsuiting, beantwoordt aan een dwingende maatschappelijke behoefte acht het hof, mede in verband met de onderlinge weging van rechten, de volgende omstandigheden rond de aard, de context en het effect van de uitlating van belang.</para>
+        <para>De verdachte heeft zijn uitlating gedaan in een door hemzelf en partijmedewerkers voorbereide speech (77). Het sluitstuk ervan werd gevormd door een drietal retorisch gestelde vragen, waarmee de verdachte zijn publiek actief bij de uitlating betrok (78). Voorts werd de bewezenverklaarde uitlating gedaan in de context van de laatste vraag, zodat daarop de nadruk kwam te liggen. De bedoeling van de speech was om de zaken zo scherp mogelijk te benoemen en daarbij nieuwswaarden te genereren, opdat het door de pers zou worden overgenomen en uitgezonden (79). De verdachte wist dat de eerdere uitlating van hem op 12 maart 2014, die weliswaar in een andere context, maar in dezelfde bewoordingen was gedaan, tot de nodige ophef en beroering had geleid. Toch heeft hij er bij zijn uitlating op 19 maart 2014 van afgezien om in de generaliserende aanduiding 'Marokkanen' enige nuance of enig gedragskenmerkend onderscheid aan te brengen. Aldus werd de Marokkaanse gemeenschap in Nederland in haar geheel in diskrediet gebracht en in haar eigenwaarde aangetast (80). Weliswaar deed de verdachte zijn uitlating op een (partij)bijeenkomst naar aanleiding van de binnenkomende uitslagen van de gemeenteraadsverkiezingen, en was in zoverre sprake van een politieke context, maar dat ontslaat de verdachte niet van zijn bijzondere verantwoordelijkheid als politicus om uitlatingen te vermijden die voeding kunnen geven aan intolerantie en die het respect voor de gelijkwaardigheid van anderen als het fundament van een democratische en pluralistische samenleving ondergraven (81).</para>
+        <para>Dat geldt naar het oordeel van het hof temeer als de uitlating, zoals hier, voeding geeft aan de negatieve beeldvorming ten aanzien van een bevolkingsgroep die binnen de Nederlandse samenleving een minderheid vormt.</para>
+        <para>Gelet op hetgeen hierna omtrent de strafoplegging zal worden bepaald, bezien in relatie tot de omstandigheid dat ter zake van het misdrijf van artikel 137c, eerste lid Sr een gevangenisstraf kan worden opgelegd tot een maximum van één jaar, acht het hof een veroordeling van de verdachte voor de uitlating in dit geval ook niet onevenredig aan het daarmee beoogde doel (82). Het hof is in het licht daarvan en op grond van al het vorenoverwogene van oordeel dat een veroordeling van de verdachte in een democratische samenleving noodzakelijk is als bedoeld in artikel 10, tweede lid EVRM.</para>
+        <para>Op voormelde gronden kan een veroordeling van de verdachte ter zake van het bewezenverklaarde feit naar het oordeel van het hof niet leiden tot een schending van artikel 10 EVRM, zodat, nu ook overigens geen omstandigheid aannemelijk is geworden die de strafbaarheid van het bewezenverklaarde uitsluit, het bewezenverklaarde strafbaar is. De hierop betrekking hebbende verweren worden verworpen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Voetnoten:</para>
+        <para>(72) Zie onder meer EHRM 7 november 2007, nr. 12697/03 (Mamère vs. Frankrijk).</para>
+        <para>(73) Zie onder meer EHRM 7 december 1976, nr. 5493/72 (Handyside vs. Verenigd Koninkrijk).</para>
+        <para>(74) Zie onder meer EHRM 23 april 1992, nr. 11798/85 (Castells vs. Spanje).</para>
+        <para>(75) Zie onder meer EHRM 23 juni 2016, nr. 20261/12 (Baka vs. Hongarije).</para>
+        <para>(76) Zie onder meer EHRM 15 oktober 2015, nr. 27510/08 (Perinçek vs. Zwitserland).</para>
+        <para>(77) Vgl. EHRM 3 oktober 2019, nr. 55225/14 (Pastörs vs. Duitsland).</para>
+        <para>(78) Vgl. EHRM 20 oktober 2015, nr. 25239/13 (M'Bala M'Bala vs. Frankrijk).</para>
+        <para>(79) Vgl. EHRM 23 september 1994, nr. 15890/89 (Jersild vs. Denemarken).</para>
+        <para>(80) Vgl. EHRM 15 maart 2012, nrs. 4149/04 en 41029/04 (Aksu vs. Turkije), EHRM 28 februari 2017, nr. 45416/16 (Le Pen vs. Frankrijk), EHRM 25 oktober 2018, nr. 38450/12 (E.S. vs. Oostenrijk) en EHRM 3 oktober 2019, nr. 55225/14 (Pastörs vs. Duitsland).</para>
+        <para>(81) Zie onder meer EHRM 16 juli 2009, nr. 15615/07 (Féret vs. België).</para>
+        <para>(82) Vgl. EHRM 10 juli 2008, nr. 15948/03 (Soulas et autres vs. Frankrijk).”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het hof heeft het bewezenverklaarde gekwalificeerd als “zich in het openbaar mondeling opzettelijk beledigend uitlaten over een groep mensen wegens hun ras, terwijl het feit wordt gepleegd door twee of meer verenigde personen”. </para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <parablock>
+        <para>Het hof heeft – met toepassing van artikel 9a van het Wetboek van Strafrecht (hierna: Sr) – bepaald dat aan de verdachte geen straf of maatregel wordt opgelegd. Het hof heeft hierover het volgende overwogen:</para>
+        <para>“Het hof heeft met betrekking tot een op te leggen straf of maatregel in aanmerking genomen de ernst van het feit, de omstandigheden waaronder dit is begaan en de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting. Het hof overweegt daarbij in het bijzonder nog het volgende.</para>
+        <para>De verdachte heeft zich schuldig gemaakt aan - kort gezegd - belediging van een groep mensen (Marokkanen in Nederland) wegens hun ras. Door aldus te handelen heeft de verdachte de eer en waardigheid van deze groep mensen aangetast. Uitspraken als bewezenverklaard kunnen een bijdrage leveren aan (een verdere) polarisatie binnen de Nederlandse samenleving, terwijl juist in onze democratische, pluriforme maatschappij het respecteren van de ander, met name van minderheidsgroepen, van groot belang is. Krenkende uitlatingen worden weliswaar tot op zekere hoogte beschermd door het recht op vrijheid van meningsuiting, maar de verdachte is in dit geval te ver gegaan en heeft zich aldus schuldig gemaakt aan een strafbaar feit. Dit betekent dat in beginsel oplegging van een straf of maatregel dient te volgen.</para>
+        <para>Bij het bepalen van die straf of maatregel dient het hof ook de bijzondere, persoonlijke omstandigheden van de verdachte in aanmerking te nemen. De verdachte is een democratisch gekozen volksvertegenwoordiger, fractievoorzitter en leider van de PVV. Hij heeft de bewezenverklaarde uitlating in die hoedanigheid gedaan. Het hof laat hierbij zwaar meewegen dat de verdachte, zoals hij ook nog eens ter terechtzitting heeft benadrukt, reeds lange tijd wegens het uiten van zijn (partij)politieke standpunt wordt bedreigd en om die reden onder zware beveiliging moet leven. De verdachte betaalt zo zelf al jaren een hoge prijs voor het uitdragen van zijn mening.</para>
+        <para>Het hof heeft verder acht geslagen op een de verdachte betreffend uittreksel Justitiële Documentatie d.d. 18 juni 2019, waaruit blijkt dat de verdachte niet eerder onherroepelijk is veroordeeld voor het plegen van strafbare feiten.</para>
+        <para>Het hof stelt tot slot vast dat de redelijke termijn, als bedoeld in artikel 6, eerste lid, EVRM is overschreden, nu de berechting in hoger beroep niet heeft plaatsgevonden binnen de twee jaar die daarvoor in het algemeen als redelijk heeft te gelden, gelet op het feit dat de verdediging op 21 december 2016 hoger beroep heeft ingesteld en het eindarrest heden is gewezen. Daarnaast heeft de totale procedure inmiddels ruim zes jaar geduurd, sinds het bewezenverklaarde feit op 19 maart 2014. Het hof zal, gelet op de hierna te nemen beslissing, evenwel met de enkele constatering van deze schending volstaan en hier verder geen consequenties aan verbinden.</para>
+        <para>Resteert de vraag, gelet op voornoemde feiten en omstandigheden, of met de oplegging van een straf of maatregel aan de verdachte, bijvoorbeeld met de oplegging van een geldboete, zoals door het Openbaar Ministerie is gevorderd, nog een met de strafrechtstoepassing na te streven doel wordt gediend. Het hof is - alles afwegende - van oordeel dat dit niet het geval is.</para>
+        <para>Het hof acht het dan ook raadzaam te bepalen dat met toepassing van artikel 9a Sr, aan de verdachte geen straf of maatregel wordt opgelegd.”</para>
+        <para>
+          <emphasis role="bold">3.	Beoordeling van het derde, het vierde, het vijfde, het zesde en het zevende cassatiemiddel dat namens de verdachte is voorgesteld</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De cassatiemiddelen komen op tegen de bewezenverklaring door het hof van het zich beledigend uitlaten over een groep mensen wegens hun ras en tegen het oordeel van het hof dat artikel 10 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM) niet in de weg staat aan een veroordeling voor dit feit.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>De tenlastelegging is toegesneden op artikel 137c Sr (groepsbelediging). Daarom moet worden aangenomen dat de in de tenlastelegging en de bewezenverklaring voorkomende termen ‘beledigend’ en ‘ras’ zijn gebruikt in de betekenis die deze termen hebben in die bepaling. </para>
+        <para>
+          <emphasis role="italic">Juridisch kader</emphasis>
+        </para>
+      </parablock>
+      <paragroup>
+        <nr>3.3.1</nr>
+        <parablock>
+          <para>Artikel 137c lid 1 Sr luidt:</para>
+          <para>“Hij die zich in het openbaar, mondeling of bij geschrift of afbeelding, opzettelijk beledigend uitlaat over een groep mensen wegens hun ras, hun godsdienst of levensovertuiging, hun hetero- of homoseksuele gerichtheid of hun lichamelijke, psychische of verstandelijke handicap, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.”</para>
+          <para>Artikel 1 lid 1 van het Internationaal Verdrag van New York van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie (hierna: IVUR) luidt in de Nederlandse vertaling:</para>
+          <para>“In dit Verdrag wordt onder "rassendiscriminatie" verstaan elke vorm van onderscheid, uitsluiting, beperking of voorkeur op grond van ras, huidskleur, afkomst of nationale of etnische afstamming die ten doel heeft de erkenning, het genot of de uitoefening, op voet van gelijkheid, van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel gebied, of op andere terreinen van het openbare leven, teniet te doen of aan te tasten, dan wel de tenietdoening of aantasting daarvan ten gevolge heeft.”</para>
+          <para>Artikel 10 EVRM luidt in de Nederlandse vertaling:</para>
+          <para>“1. Een ieder heeft recht op vrijheid van meningsuiting. Dit recht omvat de vrijheid een mening te koesteren en de vrijheid om inlichtingen of denkbeelden te ontvangen of te verstrekken, zonder inmenging van enig openbaar gezag en ongeacht grenzen. Dit artikel belet Staten niet radio-omroep-, bioscoop- of televisieondernemingen te onderwerpen aan een systeem van vergunningen.</para>
+          <para>2. Daar de uitoefening van deze vrijheden plichten en verantwoordelijkheden met zich brengt, kan zij worden onderworpen aan bepaalde formaliteiten, voorwaarden, beperkingen of sancties, die bij de wet zijn voorzien en die in een democratische samenleving noodzakelijk zijn in het belang van de nationale veiligheid, territoriale integriteit of openbare veiligheid, het voorkomen van wanordelijkheden en strafbare feiten, de bescherming van de gezondheid of de goede zeden, de bescherming van de goede naam of de rechten van anderen, om de verspreiding van vertrouwelijke mededelingen te voorkomen of om het gezag en de onpartijdigheid van de rechterlijke macht te waarborgen.” </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <parablock>
+          <para>De memorie van antwoord bij het wetsvoorstel dat heeft geleid tot de Wet van 18 februari 1971, Stb. 1971, 96 waarbij artikel 137c Sr is ingevoerd, houdt onder meer in:</para>
+          <para>“Strafbaar is enkel het aantasten van de eigenwaarde of het in diskrediet brengen van de groep, omdat die van een bepaald ras is, een bepaalde godsdienst belijdt of een bepaalde levensovertuiging is toegedaan. Kritiek op opvattingen en gedragingen – in welke vorm ook – valt buiten het bereik van de ontworpen strafbepaling.”</para>
+          <para>(Kamerstukken II 1969/70, 9724, nr. 6, p. 4)</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Een uitlating kan als beledigend worden beschouwd wanneer zij de strekking heeft een ander bij het publiek in een ongunstig daglicht te stellen en hem aan te randen in zijn eer en goede naam. Dat betekent dat onder het zich beledigend uitlaten over een groep mensen wegens hun ras, als bedoeld in artikel 137c lid 1 Sr, moet worden verstaan het zich nodeloos krenkend uitlaten over een groep mensen omdat die groep van een bepaald ras is. Het gaat er daarbij om dat men de mensen, die tot de groep behoren, collectief treft in wat voor die groep kenmerkend is, namelijk in hun ras, en men hen beledigt juist omdat zij tot dat ras behoren. (Vgl., met betrekking tot belediging van een groep mensen wegens hun godsdienst of levensovertuiging, HR 10 maart 2009, ECLI:NL:HR:2009:BF0655.) </para>
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>De in artikel 137c lid 1 Sr voorkomende term ‘ras’ moet worden uitgelegd overeenkomstig de strekking van de in artikel 1 lid 1 IVUR gegeven opsomming, waarin naast ras ook wordt genoemd: huidskleur, afkomst of nationale of etnische afstamming (vgl. HR 29 maart 2016, ECLI:NL:HR:2016:510).</para>
+      <paragroup>
+        <nr>3.6.1</nr>
+        <para>Het, onder meer in artikel 10 EVRM gegarandeerde, recht op vrijheid van meningsuiting staat aan een strafrechtelijke veroordeling voor groepsbelediging in de zin van artikel 137c Sr niet in de weg als zo’n veroordeling een op grond van artikel 10 lid 2 EVRM toegelaten – te weten: een bij de wet voorziene, een gerechtvaardigd doel dienende en daartoe een in een democratische samenleving noodzakelijke – beperking van de vrijheid van meningsuiting vormt.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2</nr>
+        <parablock>
+          <para>Het Europees hof voor de rechten van de mens (hierna: EHRM) heeft in zijn uitspraak van 15 oktober 2015, nr. 27510/08 (Perinçek tegen Zwitserland) met betrekking tot ‘een in een democratische samenleving noodzakelijke beperking’ als bedoeld in artikel 10 lid 2 EVRM onder meer het volgende overwogen:</para>
+          <para>“196. The general principles for assessing whether an interference with the exercise of the right to freedom of expression is “necessary in a democratic society” within the meaning of Article 10 § 2 of the Convention are well-settled in the Court’s case-law. As noted by the Chamber, they were recently restated in Mouvement raëlien suisse v. Switzerland ([GC], no. 16354/06, § 48, ECHR 2012) and Animal Defenders International v. the United Kingdom ([GC], no. 48876/08, § 100, ECHR 2013), and can be summarised as follows.</para>
+          <para>(i) Freedom of expression is one of the essential foundations of a democratic society and one of the basic conditions for its progress and for each individual’s self-fulfilment. Subject to Article 10 § 2, it applies not only to “information” or “ideas” that are favourably received or regarded as inoffensive or as a matter of indifference, but also to those that offend, shock or disturb. Such are the demands of pluralism, tolerance and broadmindedness without which there is no “democratic society”. As set forth in Article 10, this freedom is subject to exceptions, but these must be construed strictly, and the need for any restrictions must be established convincingly.</para>
+          <para>(ii) The adjective “necessary” in Article 10 § 2 implies the existence of a pressing social need. The High Contracting Parties have a margin of appreciation in assessing whether such a need exists, but it goes hand in hand with European supervision, embracing both the law and the decisions that apply it, even those given by independent courts. The Court is therefore empowered to give the final ruling on whether a “restriction” can be reconciled with freedom of expression.</para>
+          <para>(iii) The Court’s task is not to take the place of the competent national authorities but to review the decisions that they made under Article 10. This does not mean that the Court’s supervision is limited to ascertaining whether these authorities exercised their discretion reasonably, carefully and in good faith. The Court must rather examine the interference in the light of the case as a whole and determine whether it was proportionate to the legitimate aim pursued and whether the reasons adduced by the national authorities to justify it were relevant and sufficient. In doing so, the Court has to satisfy itself that these authorities applied standards which were in conformity with the principles embodied in Article 10 and relied on an acceptable assessment of the relevant facts.</para>
+          <para>197. Another principle that has been consistently emphasised in the Court’s case-law is that there is little scope under Article 10 § 2 of the Convention for restrictions on political expression or on debate on questions of public interest (see, among many other authorities, Wingrove v. the United Kingdom, 25 November 1996, § 58, Reports 1996-V; Ceylan v. Turkey [GC], no. 23556/94, § 34, ECHR 1999-IV; and Animal Defenders International, cited above, § 102).</para>
+          <para>(...)</para>
+          <para>204. The Court has been called upon to consider the application of Article 10 of the Convention in a number of cases concerning statements, verbal or non-verbal, alleged to stir up or justify violence, hatred or intolerance. In assessing whether the interference with the exercise of the right to freedom of expression of the authors, or sometimes publishers, of such statements was “necessary in a democratic society” in the light of the general principles formulated in its case-law (see paragraphs 196-97 above), the Court has had regard to several factors.</para>
+          <para>205. One of them has been whether the statements were made against a tense political or social background; the presence of such a background has generally led the Court to accept that some form of interference with such statements was justified. Examples include the tense climate surrounding the armed clashes between the PKK (...) and the Turkish security forces in south-east Turkey in the 1980s and 1990s (...); the atmosphere engendered by deadly prison riots in Turkey in December 2000 (...); problems relating to the integration of non-European and especially Muslim immigrants in France (see Soulas and Others, cited above, §§ 38-39, and Le Pen v. France (dec.), no. 18788/09, 20 April 2010); and the relations with national minorities in Lithuania shortly after the re-establishment of its independence in 1990 (...).</para>
+          <para>206. Another factor has been whether the statements, fairly construed and seen in their immediate or wider context, could be seen as a direct or indirect call for violence or as a justification of violence, hatred or intolerance (see, among other authorities, Incal v. Turkey, 9 June 1998, § 50, Reports 1998-IV; Sürek (no. 1), cited above, § 62; Özgür Gündem v. Turkey, no. 23144/93, § 64, ECHR 2000-III; Gündüz v. Turkey, no. 35071/97, §§ 48 and 51, ECHR 2003-XI; Soulas and Others, cited above, §§ 39-41 and 43; Balsytė-Lideikienė, cited above, §§ 79-80; Féret, cited above, §§ 69-73 and 78; Hizb ut-Tahrir and Others, cited above, § 73; Kasymakhunov and Saybatalov, cited above, §§ 107-12; Fáber v. Hungary, no. 40721/08, §§ 52 and 56-58, 24 July 2012; and Vona, cited above, §§ 64-67). In assessing that point, the Court has been particularly sensitive towards sweeping statements attacking or casting in a negative light entire ethnic, religious or other groups (see Seurot v. France (dec.), no. 57383/00, 18 May 2004, Soulas and Others, cited above, §§ 40 and 43, and Le Pen, cited above, all of which concerned generalised negative statements about non-European and in particular Muslim immigrants in France; Norwood v. the United Kingdom (dec.), no. 23131/03, ECHR 2004-XI, which concerned statements linking all Muslims in the United Kingdom with the terrorist acts in the United States of America on 11 September 2001; W.P. and Others v. Poland (dec.), no. 42264/98, ECHR 2004-VII, and Pavel Ivanov v. Russia (dec.), no. 35222/04, 20 February 2007, both of which concerned vehement anti-Semitic statements; Féret, cited above, § 71, which concerned statements portraying non-European immigrant communities in Belgium as criminally minded; Hizb ut-Tahrir and Others, § 73, and Kasymakhunov and Saybatalov, § 107, both cited above, which concerned direct calls for violence against Jews, the State of Israel, and the West in general; and Vejdeland and Others v. Sweden, no. 1813/07, § 54, 9 February 2012, which concerned allegations that homosexuals were attempting to play down paedophilia and were responsible for the spread of HIV and Aids).</para>
+          <para>207. The Court has also paid attention to the manner in which the statements were made, and their capacity – direct or indirect – to lead to harmful consequences. Examples include Karataş v. Turkey ([GC], no. 23168/94, §§ 51-52, ECHR 1999-IV), where the fact that the statements had been made through poetry rather than in the mass media led to the conclusion that the interference could not be justified by the special security context otherwise existing in the case; Féret (cited above, § 76), where the statements had been made on electoral leaflets, which had enhanced the effect of the discriminatory and hateful message that they were conveying; Gündüz (cited above, §§ 43-44), where the statements had been made in the course of a deliberately pluralistic televised debate, which had reduced their negative effect; Fáber (cited above, §§ 44-45), where the statement had consisted in the mere peaceful holding of a flag next to a rally, which had had a very limited, if any, effect on the course of that rally; Vona (cited above, §§ 64-69), where the statement had consisted in military-style marches in villages with large Roma populations, which, given the historical context in Hungary, had carried sinister connotations; and Vejdeland and Others (cited above, § 56), where the statements had been made on leaflets left in the lockers of secondary-school students.</para>
+          <para>208. In all of the above cases, it was the interplay between the various factors rather than any one of them taken in isolation that determined the outcome of the case. The Court’s approach to that type of case can thus be described as highly context-specific.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.3</nr>
+        <parablock>
+          <para>Mede gelet op artikel 10 EVRM en de rechtspraak van het EHRM moet bij de beoordeling of een uitlating strafbaar is op grond van artikel 137c Sr, acht worden geslagen op de bewoordingen van die uitlating en op de context – waaronder, in lijn met de hiervoor vermelde uitspraak van het EHRM, is te verstaan “the immediate or wider context” – waarin de uitlating is gedaan. Daarbij dient onder ogen te worden gezien of de betreffende uitlating een bijdrage kan leveren aan het publiek debat of een uiting is van artistieke expressie. Ook moet onder ogen worden gezien of de uitlating in dat verband niet onnodig grievend is. <?linebreak?>Bij de beoordeling van de vraag of een uitlating onnodig grievend is, moet, als het gaat om een uitlating door een politicus in het kader van het publiek debat – het politieke debat daaronder begrepen – onder ogen worden gezien enerzijds het belang dat de betreffende politicus daadwerkelijk in staat moet zijn zaken van algemeen belang aan de orde te stellen ook als zijn uitlatingen kunnen kwetsen, choqueren of verontrusten, maar anderzijds ook de verantwoordelijkheid die de politicus in het publiek debat draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met de wet en met de grondbeginselen van de democratische rechtsstaat. Daarbij gaat het niet uitsluitend om uitlatingen die aanzetten tot haat of geweld of discriminatie maar ook om uitlatingen die aanzetten tot onverdraagzaamheid.(Vgl. HR 16 december 2014, ECLI:NL:HR:2014:3583.)</para>
+          <para>
+            <emphasis role="italic">Beoordeling van de klachten</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>In het bestreden arrest heeft het hof zijn beslissingen gebaseerd op het hier weergegeven juridische kader. </para>
+      <paragroup>
+        <nr>3.8.1</nr>
+        <para>Het hof heeft geoordeeld dat de bewezenverklaarde uitlatingen van de verdachte – het tijdens een partijbijeenkomst aan het publiek vragen of zij “in deze stad en in Nederland meer of minder Marokkanen” willen en, na het door het publiek meermalen “minder” roepen, het reageren met de woorden “Nah, dan gaan we dat regelen” – de strekking hebben om alle inwoners van Nederland met een Marokkaanse achtergrond in diskrediet te brengen op de enkele grond dat zij tot deze bevolkingsgroep behoren, zonder dat daarbij onderscheid is gemaakt naar de gedragskenmerken van bepaalde deelgroepen. Verder heeft het hof geoordeeld dat de verdachte deze bevolkingsgroep met zijn uitlatingen collectief heeft getroffen in wat voor die groep kenmerkend is, namelijk haar Marokkaanse afkomst of afstamming. Het hof heeft bij die oordelen betrokken dat de bewoordingen “minder Marokkanen” op zichzelf beschouwd niet zonder meer als beledigend kunnen worden aangemerkt, maar dat het gaat om de uitlatingen van de verdachte als geheel, waarbij de uitlatingen moeten worden bezien in de context waarin deze zijn gedaan. <?linebreak?>Wat betreft deze context heeft het hof, kort gezegd, de volgende vaststellingen in aanmerking genomen. Voorafgaand aan de partijbijeenkomst op 19 maart 2014 zijn aan de verdachte in interviews vragen gesteld over zijn uitlating over minder Marokkanen op een markt op 12 maart 2014. Daarbij is hem voorgehouden dat die uitlating – “Belangrijkste is toch voor de mensen hier op de markt de Hagenaars, Hagenezen en Scheveningers zoals [betrokkene 5] dat altijd netjes en terecht noemt. Voor die mensen doen we het nu. Die stemmen nu op een veiliger en socialer en in ieder geval een stad met minder lasten en als het even kan ook wat minder Marokkanen.” – tot veel ophef en beroering had geleid. In aanloop naar de partijbijeenkomst op 19 maart 2014 heeft de verdachte de speech die hij zou houden, voorbesproken met zijn partijmedewerkers, waarbij de vraag aan de orde is gekomen of alleen ‘Marokkanen’ of ‘criminele Marokkanen’ zou worden gezegd. Daarbij is gekozen voor het stellen van drie vragen om zo de speech in kracht op te bouwen naar de bewezenverklaarde uitlatingen. De verdachte heeft daarbij goedkeuring gegeven aan het voorstel om slechts te spreken van ‘Marokkanen’ in het algemeen. Zoals ook werd voorbesproken is een partijmedewerker voorafgaand aan de speech de zaal ingegaan om het publiek te instrueren over de te stellen vraag (“Willen jullie in deze stad en in Nederland meer of minder Marokkanen?”) en het daarop te geven antwoord; dat antwoord zou bestaan uit het herhaald roepen van “minder”.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.8.2</nr>
+        <para>Het oordeel van het hof dat de verdachte met de bewezenverklaarde uitlatingen de eigenwaarde van een groep mensen, te weten alle inwoners van Nederland met een Marokkaanse achtergrond, wegens de nationale afstamming van die personen en dus wegens hun ras heeft aangetast en geen respect heeft getoond voor de eer en goede naam van die groep, zodat die uitlatingen een beledigend karakter hebben, geeft – gelet op wat onder 3.4 en 3.5 is vooropgesteld – niet blijk van een onjuiste rechtsopvatting en is, in aanmerking genomen wat het hof heeft vastgesteld over de strekking van de uitlatingen en het kenmerkende van de groep waarop die uitlatingen betrekking hebben, toereikend gemotiveerd. <?linebreak?>Voor zover het vierde cassatiemiddel berust op de opvatting dat het hof het beledigende karakter van de uitlatingen uitsluitend “naar objectieve maatstaven” – en dus zonder acht te slaan op de context waarin de uitlatingen zijn gedaan – had mogen beoordelen en, pas als het op basis van die maatstaven tot het oordeel was gekomen dat sprake is van een beledigend karakter, in ogenschouw had mogen nemen of de context waarin de uitlatingen zijn gedaan, dat beledigende karakter had kunnen wegnemen, vindt het geen steun in het recht. Voor het oordeel of een uitlating als beledigend moet worden beschouwd, zijn niet alleen de bewoordingen van die uitlating van belang, maar tevens de context waarin de uitlating is gedaan. In gevallen waarin het gebruik van bepaalde woorden op zichzelf in het algemeen niet beledigend is, zal het afhangen van de context waarin de uitlating is gedaan of deze de strekking heeft een ander aan te randen in zijn eer en goede naam. (Vgl. HR 22 december 2009, ECLI:NL:HR:2009:BJ9796.) Het hof heeft dat niet miskend.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.9.1</nr>
+        <para>Het hof heeft verder beoordeeld of de uitlatingen van de verdachte onnodig grievend zijn en of een beperking van het recht van de verdachte op vrijheid van meningsuiting toelaatbaar is. Het hof heeft bij die beoordeling tot uitgangspunt genomen dat de verdachte de uitlatingen heeft gedaan als partijleider van een politieke partij terwijl hij het aanwezige publiek toesprak naar aanleiding van de binnenkomende uitslagen van de gemeenteraadsverkiezingen, zodat – mede gelet op het verkiezingsprogramma van deze partij – in beginsel sprake is van een (partij)politieke context waarbinnen de uitlatingen een bijdrage kunnen leveren aan het publiek debat. Het hof is echter, mede gelet op de context waarin de verdachte de bewezenverklaarde uitlatingen heeft gedaan, tot de slotsom gekomen dat die uitlatingen onnodig grievend zijn geweest en dat in het onderhavige geval de uit de veroordeling voortvloeiende beperking van de vrijheid van meningsuiting in een democratische samenleving noodzakelijk is. <?linebreak?>Aan deze oordelen heeft het hof de onder 3.8.1 weergegeven vaststellingen ten grondslag gelegd over de totstandkoming van de speech die de verdachte op 19 maart 2014 heeft gehouden. Verder heeft het hof bij die oordelen betrokken dat (i) de bewezenverklaarde uitlatingen zijn gedaan ten aanzien van een minderheidsgroep in Nederland zonder dat daarbij op dat moment nadere uitleg, motivering of nuancering heeft plaatsgevonden, (ii) de verdachte deze uitlatingen heeft gedaan op weldoordachte en doelbewuste wijze, met gebruikmaking van retoriek, tegenover een voorbereid publiek en voor het oog van de camera, waarbij het de bedoeling was om de zaken zo scherp mogelijk te formuleren en daarmee nieuwswaarde te genereren doordat de uitlatingen door de pers zouden worden overgenomen en uitgezonden, en (iii) de verdachte wist dat de gebruikte bewoordingen eerder al tot ophef en beroering hadden geleid, maar dit hem geen aanleiding heeft gegeven enige nuance of enig gedragskenmerkend onderscheid aan te brengen. </para>
+      </paragroup>
+      <paragroup>
+        <nr>3.9.2</nr>
+        <para>Deze oordelen van het hof, die erop neerkomen dat de bewezenverklaarde voor een groep personen krenkende uitlatingen van de verdachte onnodig grievend zijn en dat de schuldigverklaring van de verdachte aan groepsbelediging in de zin van artikel 137c Sr zonder oplegging van straf of maatregel niet onverenigbaar is met het mede door artikel 10 EVRM gewaarborgde recht van de verdachte op vrijheid van meningsuiting, geven gelet op wat onder 3.6 is vooropgesteld en tevens in het licht van de in de conclusie van de procureur-generaal onder 53-58 besproken rechtspraak van het EHRM, niet blijk van een onjuiste rechtsopvatting en zijn toereikend gemotiveerd. De Hoge Raad neemt hierbij in aanmerking dat het hof bij dit oordeel heeft betrokken dat de verdachte als politicus daadwerkelijk in staat moet zijn zaken van algemeen belang aan de orde te stellen ook als zijn uitlatingen kunnen kwetsen, choqueren of verontrusten, maar ook dat hij in het publiek debat tevens de verantwoordelijkheid draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met de wet en met de grondbeginselen van de democratische rechtsstaat, waaronder ook uitlatingen die – mede gelet op de wijze waarop en de context waarin die uitlatingen zijn gedaan – direct of indirect aanzetten tot onverdraagzaamheid.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.10</nr>
+      <para>Ook alle overige klachten die de cassatiemiddelen richten tegen de toepassing van het te hanteren juridische kader en de daarop gebaseerde oordelen van het hof, kunnen niet tot cassatie leiden. </para>
+    </paragroup>
+    <paragroup>
+      <nr>3.11</nr>
+      <parablock>
+        <para>Samengevat houdt het oordeel van de Hoge Raad het volgende in.<?linebreak?>De strafbaarstelling van groepsbelediging in artikel 137c Sr heeft onder meer betrekking op de belediging van een groep mensen vanwege hun ras. Daaronder valt ook een groep mensen met eenzelfde nationale afstamming, zoals in dit geval alle inwoners van Nederland met een Marokkaanse achtergrond. <?linebreak?>Bij het oordeel of die groep door een uitlating is beledigd, gaat het niet alleen om de woorden die zijn gebruikt, maar ook om de context waarin zo’n uitlating is gedaan. Die context bestond er in dit geval uit dat de verdachte, nadat een eerdere uitlating van hem over minder Marokkanen op een markt op 12 maart 2014 tot veel ophef en beroering had geleid, met zijn partijmedewerkers de speech die hij zou houden op de partijbijeenkomst van 19 maart 2014 heeft voorbesproken. Daarbij is de vraag aan de orde gekomen of alleen ‘Marokkanen’ of ‘criminele Marokkanen’ zou worden gezegd, waarbij de verdachte goedkeuring heeft gegeven aan het voorstel om slechts te spreken van ‘Marokkanen’ in het algemeen. Ook is gekozen voor het stellen van drie vragen om zo de speech in kracht op te bouwen. Vervolgens heeft de verdachte in die openbare speech doelbewust en in interactie met een daartoe vooraf geïnstrueerd publiek gezegd zich te willen inzetten voor “minder Marokkanen”, waarbij hij welbewust sprak over deze groep als geheel. Op die manier heeft hij deze groep beledigd. Dat is verboden op grond van artikel 137c Sr. Dat de verdachte sprak als politicus maakt dit niet anders. Weliswaar moet een politicus zaken van algemeen belang aan de orde kunnen stellen, ook als hij daarmee anderen kwetst of verontrust, maar dat neemt niet weg dat hij in het publiek debat de verantwoordelijkheid draagt om te voorkomen dat hij uitlatingen verspreidt die strijdig zijn met de wet en met de grondbeginselen van de democratische rechtsstaat, waaronder uitlatingen die direct of indirect aanzetten tot onverdraagzaamheid. De vorm waarin de verdachte in dit geval zijn uitlatingen heeft gedaan, is onnodig grievend en overschrijdt die ook door een politicus in acht te nemen grenzen van de wet en grondbeginselen van de democratische rechtsstaat.Dat betekent dat het recht op vrijheid van meningsuiting niet in de weg staat aan een veroordeling voor groepsbelediging. </para>
+        <para>
+          <emphasis role="bold">4.	Beoordeling van de overige namens de verdachte voorgestelde cassatiemiddelen en van het namens de benadeelde partij voorgestelde cassatiemiddel</emphasis>
+        </para>
+        <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren M.J. Borgers, J.C.A.M. Claassens, A.E.M. Röttgering en C. Caminada, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">6 juli 2021</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

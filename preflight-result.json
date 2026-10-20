@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T19:17:09.650475+00:00",
+  "verified_at": "2026-10-20T19:34:03.959061+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -2119,5 +2119,34 @@
       "Treaty catalog SHA-512 discrepancies remain as disclosed in sources/author-a117-a128-source-limitations.json. Available official definitions and preserved published primary extracts reviewed; no catalog authentication of those treaty bodies claimed.",
       "Fresh official current code body itself passes official catalog SHA-512, independent full DOM inventory and content agreement. Technical length, link and repetition tests are not proof of legal quality."
     ]
+  },
+  "bounded_author_a129_a138a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T19:34:03.959061+00:00",
+    "version_evidence": "sources/author-a129-a138a-version-evidence.json",
+    "historical_versions_checked": {
+      "manifest_expressions": 126,
+      "bodies": [
+        "2008-09-01_0",
+        "2016-04-20_0",
+        "2025-01-01_0",
+        "2026-01-01_0"
+      ],
+      "method": "All manifest effective/visibility intervals evaluated; four historic XML bodies separately preserved and compared.",
+      "change_map": "sources/author-a129-a138a-historical-change-map.json"
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/author-a129-a138a-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "current_source_equal": true,
+    "all812_units_text_notes_status_dates_checked": true,
+    "aanhef_and_wetsluiting_present": true,
+    "unresolved_blockers": []
   }
 }

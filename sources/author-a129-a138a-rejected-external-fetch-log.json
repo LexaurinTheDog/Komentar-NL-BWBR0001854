@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015251/manifest.xml",
+    "path": "sources/author-a129-a138a-rejected-BWBR0015251-manifest.xml",
+    "accessed_at": "2026-10-20T19:29:25.181463+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "b5e0b27fe1c80e26a71f727f6646099042edc8be56799fbaacdd2a4b5059b3e3",
+    "bytes": 1376,
+    "expected_format_valid": true,
+    "disposition": "Rejected as authority: actual official title is a Vreemdelingenwet amending act, not Wet internationale misdrijven. No commentary assertion based on this source."
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0015251/2003-09-01_0/xml/BWBR0015251_2003-09-01_0.xml",
+    "path": "sources/author-a129-a138a-rejected-BWBR0015251-effective.xml",
+    "accessed_at": "2026-10-20T19:29:25.434138+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "7fcc71fc95c67ab53c1a6f93cedc27d50d5619312acaf8b5d17d10b6e3c6f6e8",
+    "bytes": 20320,
+    "expected_format_valid": true,
+    "disposition": "Rejected as authority: actual official title is a Vreemdelingenwet amending act, not Wet internationale misdrijven. No commentary assertion based on this source."
+  }
+]

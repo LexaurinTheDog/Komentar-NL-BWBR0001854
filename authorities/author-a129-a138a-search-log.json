@@ -1,0 +1,112 @@
+{
+  "searched_at": "2026-10-20T19:34:03.959061+00:00",
+  "method": "Firecrawl status checked: authenticated, zero credits. Web discovery, local HR/PHR corpus lexical scan, direct official full XML downloads. No agents or AI subprocesses.",
+  "web_queries": [
+    "site.rechtspraak.nl Hoge Raad opruiing artikel 131 2020 2023",
+    "site.rechtspraak.nl \"134a\" \"training\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"137c\" \"2021\" \"1078\"",
+    "site.rechtspraak.nl \"138a\" \"2015\" \"434\"",
+    "site.uitspraken.rechtspraak.nl \"opruiing\" \"Hoge Raad\" \"2020:447\"",
+    "site.uitspraken.rechtspraak.nl \"artikel 138\" \"2019:1539\"",
+    "site.uitspraken.rechtspraak.nl \"2015:434\" kraken",
+    "site.uitspraken.rechtspraak.nl \"137d\" \"Hoge Raad\" \"2021\"",
+    "site.wetten.overheid.nl \"Wet internationale misdrijven\" \"BWBR\""
+  ],
+  "local_evidence": "authorities/author-a129-a138a-local-search.json",
+  "accepted": [
+    {
+      "ecli": "ECLI:NL:GHAMS:2021:2860",
+      "units": [
+        "a137d",
+        "a137e"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2009:BF0655",
+      "units": [
+        "a137c"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2010:BK9221",
+      "units": [
+        "a130"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Previously preserved full primary text re-read"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2010:BM5282",
+      "units": [
+        "a138"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2016:1011",
+      "units": [
+        "a134a"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2023:806",
+      "units": [
+        "a137e"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2024:1573",
+      "units": [
+        "a131"
+      ],
+      "full_public_primary_read": true,
+      "evidence": "Fresh public XML and full readable judgment"
+    }
+  ],
+  "rejected_or_unused_leads": [
+    {
+      "ecli": "ECLI:NL:HR:2021:1078",
+      "reason": "Full text concerns bicycle forfeiture, not group insult. Incorrect secondary search association rejected."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2019:1539",
+      "reason": "Full public judgment offers no reasoned Article138 analysis; unused."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2013:1385",
+      "reason": "HTTP200 XML contains metadata but no full public judgment; rejected as full-text authority."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2015:1848",
+      "reason": "Full text is a civil child-protection admissibility decision, not kraken; rejected."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2024:1649",
+      "reason": "Full text uses Article81RO; does not provide a reasoned holding on the kraken defense. Not cited as substantive authority."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2020:447",
+      "reason": "Full XML downloaded; not relied on in this batch. Only partially examined as a research lead."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2021:1036",
+      "reason": "Full XML downloaded; not relied on in this batch. No full-reading claim."
+    },
+    {
+      "ecli": "ECLI:NL:GHAMS:2021:2862",
+      "reason": "Companion flyer judgment read but not added as duplicative authority; the distinct case2860 and its own cassation806 are used."
+    }
+  ],
+  "other_assigned_units": "No sufficiently specific verified judgment added. No assertion of exhaustive case-law coverage.",
+  "external_statutory_reference": "The correct WIM identifier was obtained from Article137c official extref metadata. An initial mismatched BWB candidate was rejected by title and article-inventory validation and retained as rejected evidence.",
+  "limits": "Case texts are public decisions; inaccessible cassation briefs and underlying evidence annexes are not reconstructed. Gazette history is represented by independently selected official historical XML bodies, not inferred from citation numbers."
+}
