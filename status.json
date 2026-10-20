@@ -87,13 +87,14 @@
     "exit_code": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
-    "scope": "Full812unit inventory retained; known548missing commentaries outside review assignment."
+    "scope": "Full812unitinventoryretained; known548missingcommentariesoutsideassignedreview.",
+    "checked_at": "2026-10-20T18:17:37.080915+00:00"
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 328246,
+    "commentary_chars": 339029,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -110,7 +111,7 @@
     "Second pass comprises thirteen disjoint20unit batches:260reviewed,552notreviewed. No whole-book completion or external professional approval.",
     "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded."
   ],
-  "updated_at": "2026-10-20T18:19:04.938204+00:00",
+  "updated_at": "2026-10-20T18:19:33.420661+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:07:46.788534+00:00",
@@ -126,7 +127,7 @@
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
     "bounded_recheck": "sources/review-batch13-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T18:06:05.928173+00:00",
+  "validation_checked_at": "2026-10-20T18:19:33.420661+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -167,7 +168,16 @@
     "unresolved_blockers": [],
     "report": "review-result.json",
     "source_preflight": "sources/review-batch13-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:19:04.938204+00:00"
+    "reviewed_at": "2026-10-20T18:19:04.938204+00:00",
+    "technical_validation": {
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_ok": true,
+      "all20_present": true,
+      "full_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 548
+    }
   },
   "prior_bounded_reviews": [
     {

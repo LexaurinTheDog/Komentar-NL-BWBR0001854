@@ -595,5 +595,50 @@
     ],
     "individual_reading": "All20readseparatelyagainstofficialsources; originalspecificexamplesretainedorimproved. No commonparagraph substituted. Metricnotlegalapproval."
   },
-  "validation_scope": "Full812unitinventoryretained. Sharedbuildandstrictvalidationrunwithoutnarrowingorweakening; existing548omissionsoutsidereviewscope."
+  "validation_scope": "Full812unitinventoryretained. Sharedbuildandstrictvalidationrunwithoutnarrowingorweakening; existing548omissionsoutsidereviewscope.",
+  "technical_checks": {
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
+      "scope": "Full812unitinventoryretained; known548missingcommentariesoutsideassignedreview.",
+      "checked_at": "2026-10-20T18:17:37.080915+00:00"
+    },
+    "full_shared_validator": {
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 339029,
+        "errors": [
+          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "exit_code": 1,
+      "clean_output_commit": "7b1784a8bf145b593ff170fa68edf4d08c7d583c",
+      "run_evidence": "validation-batch13-run.json",
+      "full_inventory_unchanged": true,
+      "failure_outside_assignment_only": true
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_have_commentary": true,
+      "short_ids": [],
+      "commentary_chars": 28467
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "ok": true,
+      "checked": 564
+    },
+    "checked_at": "2026-10-20T18:19:33.420661+00:00"
+  }
 }
