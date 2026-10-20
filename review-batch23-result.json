@@ -222,8 +222,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 724848,
     "errors": [
-      "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 352 jednotek: ['a208(0<400)', 'a209(0<400)', 'a210(0<400)', 'a213(0<400)', 'a214(0<400)', 'a214bis(0<400)', 'a215(0<400)', 'a216(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -232,5 +231,6 @@
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
   "coverage_complete": true,
-  "whole_book_validation_ok": false
+  "whole_book_validation_ok": false,
+  "validation_timing": "After durable manuscript commits; only remaining errors are missing commentary outside this batch."
 }
