@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_author_complete_authoring_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -135,7 +135,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:04:22.777147+00:00",
+  "updated_at": "2026-10-20T22:07:36.932024+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T19:20:26.653187+00:00",
@@ -156,28 +156,28 @@
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
-      "a138aa",
-      "a138ab",
-      "a138b",
-      "a138c",
-      "a139",
-      "a139a",
-      "a139b",
-      "a139c",
-      "a139d",
-      "a139e",
-      "a139f",
-      "a139g",
-      "a139h",
-      "a140",
-      "a140a",
-      "a141",
-      "a141a",
-      "a142",
-      "a142a",
-      "a143"
+      "a144",
+      "a145",
+      "a146",
+      "a147",
+      "a147a",
+      "a148",
+      "a149",
+      "a150",
+      "a151",
+      "a151a",
+      "a151b",
+      "a151c",
+      "a151d",
+      "a151e",
+      "a151f",
+      "a152",
+      "a153",
+      "a154",
+      "a155",
+      "a156"
     ],
-    "result": "review-batch18-result.json"
+    "result": "review-batch19-result.json"
   },
   "prior_bounded_reviews": [
     {

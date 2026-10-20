@@ -1,0 +1,224 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a144",
+    "a145",
+    "a146",
+    "a147",
+    "a147a",
+    "a148",
+    "a149",
+    "a150",
+    "a151",
+    "a151a",
+    "a151b",
+    "a151c",
+    "a151d",
+    "a151e",
+    "a151f",
+    "a152",
+    "a153",
+    "a154",
+    "a155",
+    "a156"
+  ],
+  "unresolved_blockers": [],
+  "verified_at": "2026-10-20T22:06:56.446649+00:00",
+  "source_preflight": "sources/review-batch19-version-evidence.json",
+  "findings": [
+    {
+      "id": "a144",
+      "reviewed": true,
+      "finding": "Wanorde/gedruis bij vergadering onderscheiden van uitsluitend wanorde bij betoging; geoorloofdheid, opzet, daadwerkelijk storen en maximum gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "e67c23b13cb785b96bef09436f8cd5fd6dce21b4549b307169c99950c8474a55",
+      "commentary_before_sha256": "4de7756d4a1915727fa82b669a3749965009086c331a42d2a9b138eabf6f9bd6",
+      "commentary_after_sha256": "4de7756d4a1915727fa82b669a3749965009086c331a42d2a9b138eabf6f9bd6"
+    },
+    {
+      "id": "a145",
+      "reviewed": true,
+      "finding": "Openbare samenkomst onderscheiden van plechtigheid zonder zelfstandig openbaarheidsvereiste; geweld/bedreiging, verhindering en strafmaximum gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a0a6a367750aff0170125862756256b677d10b526f150aa814881bcd1978b17e",
+      "commentary_before_sha256": "d832bb9bd6a78da4b029f76d72de28c3ba0336e7a712db2b6b2680064ba4d712",
+      "commentary_after_sha256": "d832bb9bd6a78da4b029f76d72de28c3ba0336e7a712db2b6b2680064ba4d712"
+    },
+    {
+      "id": "a146",
+      "reviewed": true,
+      "finding": "Wanorde/gedruis, opzettelijk storen tegenover verhinderen, drie beschermde activiteiten en maximum gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "2dc2aca622e456a0d1900cec0e2e351db0201f66e3cf3b6dadbb21aefd28d53f",
+      "commentary_before_sha256": "1be2e0e6ed94926a484c1befec8a5f585bb9fe783d6b22f4fb02b869602c983e",
+      "commentary_after_sha256": "1be2e0e6ed94926a484c1befec8a5f585bb9fe783d6b22f4fb02b869602c983e"
+    },
+    {
+      "id": "a147",
+      "reviewed": true,
+      "finding": "Vervallen status en datum 1 maart 2014 aan officiële XML-attributen getoetst; historische inhoud niet als huidig recht behandeld. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "1afe6c85194a1d5da255efb8c1c7f52529ca5ee2ee6e26c7e01240a8e7c9b0cf",
+      "commentary_after_sha256": "1afe6c85194a1d5da255efb8c1c7f52529ca5ee2ee6e26c7e01240a8e7c9b0cf"
+    },
+    {
+      "id": "a147a",
+      "reviewed": true,
+      "finding": "Zelfstandig artikel-ID, vervallen status en datum 1 maart 2014 gecontroleerd; geen vermenging met lid van 147. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "bf8dc63e0b27fb1960812a5ccee2f5caca9ecdf633e8bff42abcc7aef28a01f7",
+      "commentary_after_sha256": "bf8dc63e0b27fb1960812a5ccee2f5caca9ecdf633e8bff42abcc7aef28a01f7"
+    },
+    {
+      "id": "a148",
+      "reviewed": true,
+      "finding": "Toegang en vervoer naar begraafplaats/crematorium, geoorloofdheid, opzet, verhinderen/belemmeren en maximum gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "b0ed2166154759f8add66b875e77c6d60c5adfc69ad27aedc162d3c06684d875",
+      "commentary_before_sha256": "6f4a92986bd885f88fe8a9aed1e73abba60dca9a637ecc28d5be6ef645b5e5ff",
+      "commentary_after_sha256": "6f4a92986bd885f88fe8a9aed1e73abba60dca9a637ecc28d5be6ef645b5e5ff"
+    },
+    {
+      "id": "a149",
+      "reviewed": true,
+      "finding": "Grafschending en wederrechtelijke monumentbeschadiging op begraafplaats onderscheiden; plaatsvereiste en verwijzing 150 gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "fda43c3cbcd172a9fbfa7b82f94395b87323aecbd7d972e5699ea5a502aea54b",
+      "commentary_before_sha256": "2d300e6e2f8721dc750a7c5ed539acfcc79ce5d876b286d2947b9d2c65dd3ae7",
+      "commentary_after_sha256": "2d300e6e2f8721dc750a7c5ed539acfcc79ce5d876b286d2947b9d2c65dd3ae7"
+    },
+    {
+      "id": "a150",
+      "reviewed": true,
+      "finding": "Opgraven/wegnemen onderscheiden van later verplaatsen/vervoeren, opzet en wederrechtelijkheid; geen verhullingsdoel uit 151 toegevoegd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "903bb1d1ebd49ec18af2a8e936987c44c83342051cba6f82ce7dcbb190f46f53",
+      "commentary_before_sha256": "97c9796d1d83d54a3eb67edcdaafbcfa7a6826a0a3f28c57b76fbe6d543d3877",
+      "commentary_after_sha256": "97c9796d1d83d54a3eb67edcdaafbcfa7a6826a0a3f28c57b76fbe6d543d3877"
+    },
+    {
+      "id": "a151",
+      "reviewed": true,
+      "finding": "Alle zes handelingen en drie verhullingsdoelen gecontroleerd; volledig HR2018:321 en nationale corpusversie gelezen. Eigen HR-oordeel2.4 van hofoordeel2.2.3 onderscheiden. Behouden.",
+      "changed": false,
+      "source_text_sha256": "8f5fd5acfb2c52a02c0e7e32d3257d9043cf1e9e85989f3844e3cf24a86549fd",
+      "commentary_before_sha256": "db55de2eb28055978bfaaa60a78c568349083dc53c3efe51b0ad92c2ad582500",
+      "commentary_after_sha256": "db55de2eb28055978bfaaa60a78c568349083dc53c3efe51b0ad92c2ad582500"
+    },
+    {
+      "id": "a151a",
+      "reviewed": true,
+      "finding": "Leeftijd, negatieve voogdijvoorwaarde, voorafgaande schriftelijke raadstoestemming, winstbejag en opzettelijk bevorderen gecontroleerd. Leeftijdsgrens verduidelijkt: vanaf exact zes maanden buiten deze leeftijdsomschrijving; voogdij als negatief bestanddeel geformuleerd.",
+      "changed": true,
+      "source_text_sha256": "8defb50afd846c50992fd64395f58fd2a9f9851f57418eab361de193064874ce",
+      "commentary_before_sha256": "90dd8e209c73ae5c2e3eb7794835eaaf0917cba52f7535feb2588b8d30fef0f6",
+      "commentary_after_sha256": "1e77c0d009464c8c2bdcd9089dfad8410187fda249689482ae3fed58dacb2d84"
+    },
+    {
+      "id": "a151b",
+      "reviewed": true,
+      "finding": "Beroep/bedrijf en opzet in lid1, zelfstandige openbare varianten lid2a/b en volledig voornemen lid3 gecontroleerd. Geen winstbejageis uit151a overgenomen. Behouden.",
+      "changed": false,
+      "source_text_sha256": "82b98220262c36efb998a4aa104d7d9583c7e681479c91de92dac196f9848355",
+      "commentary_before_sha256": "48c9d982013cffaea2d93c499eb5aef515dcf1feb05a2fa7d51e6659f411236d",
+      "commentary_after_sha256": "48c9d982013cffaea2d93c499eb5aef515dcf1feb05a2fa7d51e6659f411236d"
+    },
+    {
+      "id": "a151c",
+      "reviewed": true,
+      "finding": "Duurzame verzorging/opvoeding, rechtstreekse/middellijke bemiddeling, bevoegde organisaties/verwijzing en behoud151b lid1 gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "04658f3669b51265ed350f96eb85991d46e1e31d795dc4f556f11b80b694c545",
+      "commentary_before_sha256": "a84954c718e02f31e3e597b0d5579a89147ba90ee340bb4ed12d33304758efec",
+      "commentary_after_sha256": "a84954c718e02f31e3e597b0d5579a89147ba90ee340bb4ed12d33304758efec"
+    },
+    {
+      "id": "a151d",
+      "reviewed": true,
+      "finding": "Twee alternatieve handelingen, openbare plaats versus ongevraagde toezending, kennis/ernstige reden en expliciete incorporatie239lid3 gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "cf5143b89a6a2f5eb7af373e4480b463a5587023871c35ef7e876c8e2c99455c",
+      "commentary_before_sha256": "c9d5ffa1a730fe9c30bdfc53c1c562130d1d499bcb67dfe07728b6dd9c28d86e",
+      "commentary_after_sha256": "c9d5ffa1a730fe9c30bdfc53c1c562130d1d499bcb67dfe07728b6dd9c28d86e"
+    },
+    {
+      "id": "a151e",
+      "reviewed": true,
+      "finding": "Drie alternatieven, werkelijke leeftijd onder16, schadelijkheid en incorporatie239lid3 gecontroleerd; historisch tekstverschil jaar/jaren en ontbreken van dit nummer in2014 onderscheiden. Behouden.",
+      "changed": false,
+      "source_text_sha256": "0559c8e828990c0264416a4102c78b0d421b798086c5a59788ac9f9867832d63",
+      "commentary_before_sha256": "df152d559c75cd2b1bc60e39254111b463666f36e1bd2568a8cb1265b2cb040a",
+      "commentary_after_sha256": "df152d559c75cd2b1bc60e39254111b463666f36e1bd2568a8cb1265b2cb040a"
+    },
+    {
+      "id": "a151f",
+      "reviewed": true,
+      "finding": "Alle drie basisvarianten, leeftijd18 alleen onder2, gevolgmaxima6/9jaar en facultatieve beroepsontzetting gecontroleerd; nieuwe nummering onderscheiden van historie. Behouden.",
+      "changed": false,
+      "source_text_sha256": "413418a737bda2b0b42b875228c26af07ddd4d780cd8516266a6f784f567661f",
+      "commentary_before_sha256": "67056b4682fb79b248de6a16f2c0d4ae70f6a731241f816d0e95c90b89838b3f",
+      "commentary_after_sha256": "67056b4682fb79b248de6a16f2c0d4ae70f6a731241f816d0e95c90b89838b3f"
+    },
+    {
+      "id": "a152",
+      "reviewed": true,
+      "finding": "Twee sanctieroutes, verwijzing138b lid5 tegenover140/140a en rechten28lid1onder1–4 gecontroleerd. Voorwaarde28lid3 verduidelijkt als daadwerkelijk opgelegde gevangenisstraf, geen wettelijk maximum. Duur31 gecontroleerd.",
+      "changed": true,
+      "source_text_sha256": "cd1e7ff459b40637fd6ac367be9b71e8652b78f266b5a006bde83c2c86262440",
+      "commentary_before_sha256": "40cebd0eaadf93dc0f613ac6773a31e67683a7db716c21689b2881592d0d5eed",
+      "commentary_after_sha256": "73b0ef97359edca941b87ffbb3ac39bb68b09a2a4da8dd99250d161f0a4cefe1"
+    },
+    {
+      "id": "a153",
+      "reviewed": true,
+      "finding": "Vervallen status, datum1februari2006 en behoud structurele titel gecontroleerd. Geen actuele of gereconstrueerde historische norm toegevoegd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "e0107834f936f809328b0904aaa5f490f91bfbf8e1a19fc59332d1de29976304",
+      "commentary_after_sha256": "e0107834f936f809328b0904aaa5f490f91bfbf8e1a19fc59332d1de29976304"
+    },
+    {
+      "id": "a154",
+      "reviewed": true,
+      "finding": "Vervallen status en datum1februari2006, eigen nummer en historische verwijzingsfunctie gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "2df91c8baec072ccf89699b36da3ded388a696af9ea692127da79409edf9e618",
+      "commentary_after_sha256": "2df91c8baec072ccf89699b36da3ded388a696af9ea692127da79409edf9e618"
+    },
+    {
+      "id": "a155",
+      "reviewed": true,
+      "finding": "Vervallen status en datum1februari2006, ontbreken actuele uitzondering/sanctie en temporele toets gecontroleerd. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "c00758499137ea1e88668881683043f8388899f5ecaebe9993a0fe007b5aba60",
+      "commentary_after_sha256": "c00758499137ea1e88668881683043f8388899f5ecaebe9993a0fe007b5aba60"
+    },
+    {
+      "id": "a156",
+      "reviewed": true,
+      "finding": "Vervallen status en datum1februari2006, einde TitelVI en historische controlelijst gecontroleerd. Geen overgangsnorm afgeleid. Behouden.",
+      "changed": false,
+      "source_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "760a1cbd19aad4c95de45a068deea8c69632194aa5aeadec51b62250db27ab22",
+      "commentary_after_sha256": "760a1cbd19aad4c95de45a068deea8c69632194aa5aeadec51b62250db27ab22"
+    }
+  ],
+  "limitations": [
+    "Exactly twenty assigned units reviewed; whole manuscript remains incomplete.",
+    "Selective case law only; one retained full primary judgment and national corpus snapshot reread, no exhaustive subsequent-case search.",
+    "No external professional approval."
+  ],
+  "other_commentary_files_unchanged": true,
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
