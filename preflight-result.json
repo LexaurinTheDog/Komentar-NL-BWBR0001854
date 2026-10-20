@@ -2,44 +2,44 @@
   "complete": true,
   "decisive_date": "2026-10-19",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T23:09:02.325334+00:00",
-  "version_evidence": "sources/review-batch26-version-evidence.json",
+  "verified_at": "2026-10-20T23:18:44.707307+00:00",
+  "version_evidence": "sources/review-batch27-version-evidence.json",
   "historical_versions_checked": {
     "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
     "expressions": 126,
-    "prior_body_comparison": "sources/author-a244-a256-historical-change-map.json",
-    "prior_body_comparison_reviewed": true
+    "case_law_comparison": "sources/author-a257-a273e-case-law-version.json",
+    "historical_bodies_checked": true
   },
   "annexes_checked": [
     {
       "status": "verified_absence",
-      "evidence_path": "sources/review-batch26-effective.xml",
+      "evidence_path": "sources/review-batch27-effective.xml",
       "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
     }
   ],
   "unresolved_blockers": [],
   "scope": [
-    "a244",
-    "a245",
-    "a246",
-    "a247",
-    "a248",
-    "a249",
-    "a250",
-    "a250a",
-    "a251",
-    "a252",
-    "a253",
-    "a253a",
-    "a254",
-    "a254a",
-    "a254b",
-    "a254ba",
-    "a254c",
-    "a254d",
-    "a255",
-    "a256"
+    "a257",
+    "a258",
+    "a259",
+    "a260",
+    "a261",
+    "a262",
+    "a265",
+    "a266",
+    "a267",
+    "a268",
+    "a269",
+    "a270",
+    "a271",
+    "a272",
+    "a273",
+    "a273a",
+    "a273b",
+    "a273c",
+    "a273d",
+    "a273e"
   ],
-  "coverage": "sources/review-batch26-coverage.json",
-  "html_entry_point": "sources/review-batch26-html-fetch.json"
+  "coverage": "sources/review-batch27-coverage.json",
+  "html_entry_point": "sources/review-batch27-html-fetch.json"
 }

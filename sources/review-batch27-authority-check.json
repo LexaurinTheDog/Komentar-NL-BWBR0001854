@@ -1,0 +1,70 @@
+{
+  "reviewed_at": "2026-10-20T23:20:33.100405+00:00",
+  "checks": [
+    {
+      "units": [
+        "a261",
+        "a266"
+      ],
+      "path": "authorities/author-a257-a273e-ECLI-NL-HR-2016-2291.xml",
+      "sha256": "b2bc4cbf1f57b0bb6bd8968c6eb05a13c90cbe6c7cce6730d779baa662664f93",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment, particularly 2.2.3–2.6",
+      "card": "authorities/author-a257-a273e-HR-2016-2291.md",
+      "limits": "Published full judgment only; underlying files and attached submissions not independently obtained. Party submissions, quoted court reasoning and own Hoge Raad holdings distinguished; selective authority, no exhaustive later-case audit."
+    },
+    {
+      "units": [
+        "a261"
+      ],
+      "path": "authorities/author-a257-a273e-ECLI-NL-HR-2023-275.xml",
+      "sha256": "40c174aed82e984150f14c582522708563a3eed79471d0b00be0bbcd9aedf7d7",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire judgment; both paragraphs numbered 3.3.2, particularly second",
+      "card": "authorities/author-a257-a273e-HR-2023-275.md",
+      "limits": "Published full judgment only; underlying files and attached submissions not independently obtained. Party submissions, quoted court reasoning and own Hoge Raad holdings distinguished; selective authority, no exhaustive later-case audit."
+    },
+    {
+      "units": [
+        "a273"
+      ],
+      "path": "authorities/author-a257-a273e-ECLI-NL-HR-2023-610.xml",
+      "sha256": "853baa8c79d8c35b07ab6589f647c9bb03db1fccd677d01bef5e1e05249e4d85",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire judgment, particularly 4.4.1–4.4.3; distinction from overmacht and sentencing disposition",
+      "card": "authorities/author-a257-a273e-HR-2023-610.md",
+      "limits": "Published full judgment only; underlying files and attached submissions not independently obtained. Party submissions, quoted court reasoning and own Hoge Raad holdings distinguished; selective authority, no exhaustive later-case audit."
+    },
+    {
+      "units": [
+        "a272"
+      ],
+      "path": "authorities/author-a257-a273e-ECLI-NL-HR-2024-302.xml",
+      "sha256": "53cec443dc574f614ed0d8b45d5b93704f74a9348af3e4adb8ca3ab832726f17",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire judgment, particularly 2.4; public interest and complaint rule",
+      "card": "authorities/author-a257-a273e-HR-2024-302.md",
+      "limits": "Published full judgment only; underlying files and attached submissions not independently obtained. Party submissions, quoted court reasoning and own Hoge Raad holdings distinguished; selective authority, no exhaustive later-case audit."
+    },
+    {
+      "units": [
+        "a272"
+      ],
+      "path": "authorities/author-a257-a273e-ECLI-NL-HR-2026-32.xml",
+      "sha256": "48dbc4d8c0a7af59e1aab4a87f99f6a56b28161e12a41800aa7b52dc5b1adf18",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire judgment, particularly 3.3.4–3.5.2; e-mail distinguished from college document",
+      "card": "authorities/author-a257-a273e-HR-2026-32.md",
+      "limits": "Published full judgment only; underlying files and attached submissions not independently obtained. Party submissions, quoted court reasoning and own Hoge Raad holdings distinguished; selective authority, no exhaustive later-case audit."
+    }
+  ],
+  "search_log": "authorities/author-a257-a273e-search-log.json",
+  "local_corpus_evidence": "authorities/author-a257-a273e-local-corpus.json",
+  "historical_comparison": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "case_law_comparison": "sources/author-a257-a273e-case-law-version.json",
+    "historical_bodies_checked": true
+  },
+  "method": "Five existing primary full texts and cards independently reread. Prior selective search evidence inspected; no claim of new exhaustive research."
+}

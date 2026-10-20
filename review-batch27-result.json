@@ -1,0 +1,237 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a257",
+    "a258",
+    "a259",
+    "a260",
+    "a261",
+    "a262",
+    "a265",
+    "a266",
+    "a267",
+    "a268",
+    "a269",
+    "a270",
+    "a271",
+    "a272",
+    "a273",
+    "a273a",
+    "a273b",
+    "a273c",
+    "a273d",
+    "a273e"
+  ],
+  "unresolved_blockers": [],
+  "verified_at": "2026-10-20T23:20:33.100405+00:00",
+  "source_preflight": "sources/review-batch27-version-evidence.json",
+  "findings": [
+    {
+      "id": "a257",
+      "reviewed": true,
+      "finding": "Beide gevolgvarianten gelezen: grondfeiten255/256 blijven nodig, zwaar letsel en dood onderscheiden, zevenjaarzesmaanden/negenjaar en vijfde categorie juist. Causaliteit,82 en fictieve casus gecontroleerd; geen opzet op gevolg toegevoegd.",
+      "changed": false,
+      "source_text_sha256": "ec6bf604dc9682ea626c207031ed5abb51baa25d6fef6b41c163682250545d5a",
+      "commentary_before_sha256": "b4e6fbe4f99debf7c40044485733856ad764e6a1f4d3a10704ceae935a582d26",
+      "commentary_after_sha256": "b4e6fbe4f99debf7c40044485733856ad764e6a1f4d3a10704ceae935a582d26"
+    },
+    {
+      "id": "a258",
+      "reviewed": true,
+      "finding": "Alleen ouders als daders van256, facultatieve verhoging met derde van gevangenisstraffen256/257, geen boeteverhoging. Persoonlijk karakter50 en bijzondere moederregel259 gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "15cac30b70fbff685ffd3346eeeea1776f29986dedc1532b1a402a3b052566cf",
+      "commentary_before_sha256": "1b83d5c94b8fc74e0f1f0958efb57ab9b03957fd8092008363f58bfae5c87d6b",
+      "commentary_after_sha256": "1b83d5c94b8fc74e0f1f0958efb57ab9b03957fd8092008363f58bfae5c87d6b"
+    },
+    {
+      "id": "a259",
+      "reviewed": true,
+      "finding": "Bevallingsvrees, kort na geboorte en twee gedragingen gecontroleerd; halvering256/257 en uitsluitend boete257 naar vierde categorie juist. Geen toepassing op vader of algemene noodsituatie gesuggereerd.",
+      "changed": false,
+      "source_text_sha256": "968fb329abdfc00992191a9921a9140a3af00ccd6a8cf96c16378fb34081f746",
+      "commentary_before_sha256": "402820eee386cf25b9e7497e21266fb43482863c62eddb5d7096752586c5b8f8",
+      "commentary_after_sha256": "402820eee386cf25b9e7497e21266fb43482863c62eddb5d7096752586c5b8f8"
+    },
+    {
+      "id": "a260",
+      "reviewed": true,
+      "finding": "Beide leden en actuele inhoud28lid1onder4 gelezen: raadsman/gerechtelijk bewindvoerder. Beroepsontzetting alleen bij255 met beroepsverband, facultatief en31 gecontroleerd; checklist passend.",
+      "changed": false,
+      "source_text_sha256": "9112efd6a0705f6c7d61c065c8f4f29ba104b3eb841106d1b232cfdf3a2fcc63",
+      "commentary_before_sha256": "ba904f7e26150d6941f4398adf58682d97f21a4d729ce388c62b017686b11d02",
+      "commentary_after_sha256": "ba904f7e26150d6941f4398adf58682d97f21a4d729ce388c62b017686b11d02"
+    },
+    {
+      "id": "a261",
+      "reviewed": true,
+      "finding": "Alle drie leden gelezen. Ruchtbaarheid verduidelijkt als doel van bekendmaking bij bredere kring, geen automatische gelijkstelling met vertrouwelijke mededeling. Schriftvormen, goede trouw en cumulatie waarheid/algemeen belang gecontroleerd; beide primaire arresten volledig gelezen.",
+      "changed": true,
+      "source_text_sha256": "3f99403d635fa65cac84ee40860b195f28a5c90b3b0540c0613dc3d4fd00b106",
+      "commentary_before_sha256": "653e7e75b626109af54a7978aab368f6610116dc37a30dd22766029d93b91672",
+      "commentary_after_sha256": "75dae599f69c4e0cfae58c41a16af0a0b28563f089898542a8f35bcdab131091"
+    },
+    {
+      "id": "a262",
+      "reviewed": true,
+      "finding": "Smaad/smaadschrift als grondslag, wetenschap van onwaarheid afzonderlijk, tweejaar/vierdecategorie en beperkte rechtenontzetting gecontroleerd. Geen vrijspraak gelijkgesteld met eigen wetenschap.",
+      "changed": false,
+      "source_text_sha256": "c77e4edb47cd424dd18840a36af710a86ce22ce0a6e800c3b8fea7b3185a5b92",
+      "commentary_before_sha256": "5bd4d938ba9b88b4d7e4207fb318f628242f1c7e0298458309ac8b1b99ced0f1",
+      "commentary_after_sha256": "5bd4d938ba9b88b4d7e4207fb318f628242f1c7e0298458309ac8b1b99ced0f1"
+    },
+    {
+      "id": "a265",
+      "reviewed": true,
+      "finding": "Drie leden gelezen: onherroepelijke schuldvaststelling sluit laster uit, vrijspraak bewijst onwaarheid maar niet wetenschap, verplichte schorsing bij strafvervolging voor hetzelfde feit. Geen sepot of OVAR gelijkgesteld aan vrijspraak.",
+      "changed": false,
+      "source_text_sha256": "d6dc0839d3f606f8f739bc915efa437c2f4c56f3ed514d08e26061c2cc98678e",
+      "commentary_before_sha256": "1441ab8e6bfd9a955408aee11bb46dd8f4da9539bf30b5f4692043ee8ba59efb",
+      "commentary_after_sha256": "1441ab8e6bfd9a955408aee11bb46dd8f4da9539bf30b5f4692043ee8ba59efb"
+    },
+    {
+      "id": "a266",
+      "reviewed": true,
+      "finding": "Alle uitvoeringsvormen en ontbreken bepaald-feitvereiste gecontroleerd. Openbaarheid niet voor alle alternatieven vereist; lid2 begrenzing openbare-belangenkritiek, driemaanden/tweedecategorie en fictieve casus passend.",
+      "changed": false,
+      "source_text_sha256": "2a31eca922fd85b4e04701647c9918a3fc036ce8480bab0c853df2acd667496c",
+      "commentary_before_sha256": "984c243f8d53b8d70e52892213c4ca02acee5762ef8537f420a7189515a2b777",
+      "commentary_after_sha256": "984c243f8d53b8d70e52892213c4ca02acee5762ef8537f420a7189515a2b777"
+    },
+    {
+      "id": "a267",
+      "reviewed": true,
+      "finding": "Drie limitatieve categorieën, volksvertegenwoordigersuitzondering, rechtmatige bediening, buitenlandse functionaris in Nederland en facultatieve derdeverhoging alleen gevangenisstraf nagelezen. Klachtvrijstelling niet verward met strafverzwaring.",
+      "changed": false,
+      "source_text_sha256": "c68f279fcd87d2f4034c15a50516a54fb6abcba1b0b1e485f46f7780dde17b96",
+      "commentary_before_sha256": "f4d3d19cc4b2bb622ef24e002a583b09ae42bb8ff426d39bc52d36849cf771ac",
+      "commentary_after_sha256": "f4d3d19cc4b2bb622ef24e002a583b09ae42bb8ff426d39bc52d36849cf771ac"
+    },
+    {
+      "id": "a268",
+      "reviewed": true,
+      "finding": "Schriftelijk indienen of in schrift doen brengen, bepaald persoon, opzettelijke valsheid en reputatieaantasting gelezen. Geen ruchtbaarheidseis ingevoegd;188,269,28lid1onder1/2 en sanctie gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "b737158ad6c0b63deb4f5fe230c1ed00c430c06eae733cbe8bf8ec3957189c2f",
+      "commentary_before_sha256": "7f1321de8d4e095d86b8067ce05275a9c8853e4e0649271514f92f1747dbd483",
+      "commentary_after_sha256": "7f1321de8d4e095d86b8067ce05275a9c8853e4e0649271514f92f1747dbd483"
+    },
+    {
+      "id": "a269",
+      "reviewed": true,
+      "finding": "Alle drie leden gelezen; klacht versus aangifte,64–67,267-uitzondering en zelfstandige uitzondering volksvertegenwoordigers gecontroleerd. Afzonderlijke klachtregelingen270/271 onderscheiden.",
+      "changed": false,
+      "source_text_sha256": "1970d3c9279a2431d2ab718c4ddd469121af135e76017d97a4102d19d75842c8",
+      "commentary_before_sha256": "db87b622d02bb3c66c3bb50e676cc3770f2e0000ffe2bee5b2ff54d5a621e12e",
+      "commentary_after_sha256": "db87b622d02bb3c66c3bb50e676cc3770f2e0000ffe2bee5b2ff54d5a621e12e"
+    },
+    {
+      "id": "a270",
+      "reviewed": true,
+      "finding": "Contrafeitelijke toepassing261 en uitsluiting louter eenvoudige belediging nagelezen. Onvoldoende onderbouwde stelling dat graadgrens alleen zijlijn betreft verwijderd; concrete verwantschapstoets behouden en geregistreerde partner via90octies toegevoegd. Eigen klachtregeling en sanctie juist.",
+      "changed": true,
+      "source_text_sha256": "a8e559a94b879340e3b9085f6ff3f9dc4b9637348b9b0f967d14355485beb41f",
+      "commentary_before_sha256": "d51ba8437219b783af36932db0cc6f4328554fb14130f871305947d1ae9c489b",
+      "commentary_after_sha256": "d00bae6721f0a7abe3b4c9a41f47897392bf6c24cd7372f28193cbfd50ed8e98"
+    },
+    {
+      "id": "a271",
+      "reviewed": true,
+      "finding": "Vier leden en alle verspreidingsvormen, kennis/ernstig vermoeden, bezitbestemming, voordracht, recidivetermijn en beroepsverband gelezen. Eigen klachtregel verduidelijkt: verwijzing naar personen269 is geen automatische overname zelfstandige uitzondering269lid3;267 blijft uitdrukkelijke uitzondering. Checklist beoordeeld.",
+      "changed": true,
+      "source_text_sha256": "5fe3b300af4cba6f613528984b02bfda7119ceb6345b8869511754cefd283529",
+      "commentary_before_sha256": "36dc4c6c1764aacd1efc902dd1303e20dc9f740d721a2e250e25c8911cbccb2a",
+      "commentary_after_sha256": "40e6ec942dc7450dc9bb7ef941dd176e5ba84cf3e6e3114ff99c6dfac75b1245"
+    },
+    {
+      "id": "a272",
+      "reviewed": true,
+      "finding": "Geheim, grondslag plicht, redelijkerwijs vermoeden versus opzettelijke schending en voortbestaan plicht nagelezen. Twee volledige arresten ondersteunen beperkte stellingen; huidige vijfde categorie en buitenlandse-mogendheidverzwaring onderscheiden van historisch kader.",
+      "changed": false,
+      "source_text_sha256": "7e8571f808c28fced852f321701d9c9f25ad505c123e6379353669cecba2a082",
+      "commentary_before_sha256": "af934549eb0eb698ba124dd0dc50ea533cbef038a43a778d2fcf133c94e4719c",
+      "commentary_after_sha256": "af934549eb0eb698ba124dd0dc50ea533cbef038a43a778d2fcf133c94e4719c"
+    },
+    {
+      "id": "a273",
+      "reviewed": true,
+      "finding": "Beide alternatieven, werkrelatie alleen onder1, opgelegde plicht, misdadige gegevensherkomst onder2, winstbejag bij gebruik, onbekendheid en nadeelrisico gelezen. Opzet uit aanhef nu expliciet voor beide routes vermeld.273lid2 versus40, klacht bestuur en lid4 gecontroleerd; volledig arrest2023:610 gelezen.",
+      "changed": true,
+      "source_text_sha256": "aac395a1da30da2ae28bc66f4b09cc2071a6aa6e8dfe82a5a90725b9ec7de37f",
+      "commentary_before_sha256": "d056f6a5be6d8dc0bb9a03efde803e93d98ce04b5f06d314915db4a2e28a3253",
+      "commentary_after_sha256": "8bbe75ef0fd5c07c1773deeac074baf3f1497d5186e7e90519dc11d2af5b851b"
+    },
+    {
+      "id": "a273a",
+      "reviewed": true,
+      "finding": "Werkrelatie openbare vervoersinstelling, toevertrouwde objecten, drie alternatieven opzettelijk/wederrechtelijk en achttienmaanden/vierdecategorie gecontroleerd. Geen klachtvereiste272 overgenomen.",
+      "changed": false,
+      "source_text_sha256": "12e2c07ce51fd0be3831180b47de1895b2f90462400fdeaceec6126b583d662d",
+      "commentary_before_sha256": "07d466b6c94c2696edf0be33cd1a2bb491abc338aa5d30a3314a7e86c814e03d",
+      "commentary_after_sha256": "07d466b6c94c2696edf0be33cd1a2bb491abc338aa5d30a3314a7e86c814e03d"
+    },
+    {
+      "id": "a273b",
+      "reviewed": true,
+      "finding": "Beide leden gelezen: alle afgifte-, vernietigings-, wegmaak-, toe-eigenings- en wijzigingsvormen; briefkaart expliciet. Geldswaarde verzwaart alleen toe-eigening tot zesjaar, niet alle gedragingen; basisvierjaar/vierdecategorie juist.",
+      "changed": false,
+      "source_text_sha256": "a16e8e9cb60a49c475f88bc1e9b5a2b67bf28bbb009b9e4edfa3422a8f65c515",
+      "commentary_before_sha256": "104da8afed466071c703d081290bc64063957d9e4d894b4cee479be5b30a0888",
+      "commentary_after_sha256": "104da8afed466071c703d081290bc64063957d9e4d894b4cee479be5b30a0888"
+    },
+    {
+      "id": "a273c",
+      "reviewed": true,
+      "finding": "Bijzondere telegraaffunctie en objecten gelezen; a met wederrechtelijkheid en achttienmaanden tegenover b met vierjaar, beide vierde categorie. Geen analogische modernisering of geldswaardeverhoging ingevoegd.",
+      "changed": false,
+      "source_text_sha256": "9410ad60abbc82cf723d2526d8f9ed61e654ad1ad5d57f3ee6497c741d055226",
+      "commentary_before_sha256": "d22bea987abcf26f80caa7654ab93e604a49e5d9c80aef06c1a6de139332c98b",
+      "commentary_after_sha256": "d22bea987abcf26f80caa7654ab93e604a49e5d9c80aef06c1a6de139332c98b"
+    },
+    {
+      "id": "a273d",
+      "reviewed": true,
+      "finding": "Alle vier alternatieven met eigen schuldvormen nagelezen, niet-bestemde gegevens, wederrechtelijkheid, drager versus inhoud en toepasselijkheid niet-openbare aanbieders via lid2 juist. Werkrelatie en fictief voorbeeld gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "550ee3b7bf0d9282342e8fee88cab8ea7481985d6bb5d93f1144e44e855d77e1",
+      "commentary_before_sha256": "b985fe26a764e1c50306ed553f8179c0ec8737633e748221c8bb3eec82a41284",
+      "commentary_after_sha256": "b985fe26a764e1c50306ed553f8179c0ec8737633e748221c8bb3eec82a41284"
+    },
+    {
+      "id": "a273e",
+      "reviewed": true,
+      "finding": "Opzettelijk toelaten en medeplichtige bijstand als afzonderlijke routes, bijzondere hoedanigheid en straffen naar onderscheid273a–d gelezen.49 niet automatisch als maximum toegepast. Geen nalatigheid met opzet gelijkgesteld; afsluitende checklist passend.",
+      "changed": false,
+      "source_text_sha256": "2d9af7499f7c8d9004ca6696e9708612f7da320557bc7b5b5ba035e090fa0174",
+      "commentary_before_sha256": "dc67a5a239b3ab41dea265a489f01ad4847a75d6532b84ebef0a6cb62b234719",
+      "commentary_after_sha256": "dc67a5a239b3ab41dea265a489f01ad4847a75d6532b84ebef0a6cb62b234719"
+    }
+  ],
+  "limitations": [
+    "Exactly twenty assigned units reviewed. Whole book remains incomplete; other units not substantively reviewed in this task.",
+    "Five published full primary judgments reread; underlying files not obtained. Existing national corpus and selective search evidence checked; no exhaustive later-case or finality survey.",
+    "Kinship application in article270 requires facts of actual relationship; no general uncited rule limiting degree condition to collateral relatives retained.",
+    "No external professional approval."
+  ],
+  "other_commentary_files_unchanged": true,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 879614,
+    "errors": [
+      "krátký/chybějící komentář u 272 jednotek: ['a273f(0<400)', 'a273g(0<400)', 'a274(0<400)', 'a275(0<400)', 'a276(0<400)', 'a277(0<400)', 'a278(0<400)', 'a279(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
