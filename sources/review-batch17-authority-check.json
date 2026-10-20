@@ -1,0 +1,94 @@
+{
+  "reviewed_at": "2026-10-20T21:44:59.733750+00:00",
+  "checks": [
+    {
+      "unit": "a130",
+      "path": "authorities/review-batch16-ECLI-NL-HR-2010-BK9221.xml",
+      "sha256": "2060d149cbe55b25c8f35833e381a5460da59e291be9aed384997e119b7fc160",
+      "judgment_id": "ECLI:NL:HR:2010:BK9221:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a131",
+      "path": "sources/author-a129-a138a-HR-2024-1573.xml",
+      "sha256": "5dad710af1c54a8574b30cdf94244f0019748c740c30bdd2f62b5097a75f01ae",
+      "judgment_id": "ECLI:NL:HR:2024:1573:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a134a",
+      "path": "sources/author-a129-a138a-HR-2016-1011.xml",
+      "sha256": "371b71936b4a5b8bc25f7954289e7542ed868ce085f93baf5d1cde96e373f0a4",
+      "judgment_id": "ECLI:NL:HR:2016:1011:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a137c",
+      "path": "sources/author-a129-a138a-HR-2009-BF0655.xml",
+      "sha256": "192f140323e54e96b61499e3532a652f66181db59eced629cc1c6b7ced419bb1",
+      "judgment_id": "ECLI:NL:HR:2009:BF0655:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a137d",
+      "path": "sources/author-a129-a138a-GHAMS-2021-2860.xml",
+      "sha256": "40fc5c5d4e10fc914ef663d1fdf6e16a82919b9836e2fe06c2c0b3c00aa413f1",
+      "judgment_id": "ECLI:NL:GHAMS:2021:2860:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a137e",
+      "path": "sources/author-a129-a138a-GHAMS-2021-2860.xml",
+      "sha256": "40fc5c5d4e10fc914ef663d1fdf6e16a82919b9836e2fe06c2c0b3c00aa413f1",
+      "judgment_id": "ECLI:NL:GHAMS:2021:2860:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a137e",
+      "path": "sources/author-a129-a138a-HR-2023-806.xml",
+      "sha256": "ccf18b22c34c76ae8993fd0ba21b6a946dc808f6dd83ff10994aeca196569564",
+      "judgment_id": "ECLI:NL:HR:2023:806:DOC",
+      "full_text_reviewed": true
+    },
+    {
+      "unit": "a138",
+      "path": "sources/author-a129-a138a-HR-2010-BM5282.xml",
+      "sha256": "974a8d0c0a60a956c1f9c3fd66132b203f14952ef54a3d4cddf97b0b11f8ca7b",
+      "judgment_id": "ECLI:NL:HR:2010:BM5282:DOC",
+      "full_text_reviewed": true
+    }
+  ],
+  "method": "Independent rereading of preserved complete primary decisions; court holdings distinguished from quoted lower-court findings and parties submissions. Existing local corpus and official search records inspected; no exhaustive or fresh search claim.",
+  "search_log": "authorities/author-a129-a138a-search-log.json",
+  "historical_bodies": [
+    {
+      "version": "2008-09-01_0",
+      "path": "sources/author-a129-a138a-history-2008-09-01_0.xml",
+      "sha256": "f8efe2532d545edd846c50c9970dca771aa8928f38d1650861309205d2e839dc",
+      "historical_138a": "1 Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt, als schuldig aan computervredebreuk, gestraft hij die opzettelijk en wederrechtelijk binnendringt in een geautomatiseerd werk of ",
+      "disposition": "Historical evidence only; not added to current inventory."
+    },
+    {
+      "version": "2016-04-20_0",
+      "path": "sources/author-a129-a138a-history-2016-04-20_0.xml",
+      "sha256": "3a6d21ca5cba4b7941b9ea0b623c3c8cfaa1c233c15d6d183380a2950cce415c",
+      "historical_138a": "1 Hij die in een woning of gebouw, waarvan het gebruik door de rechthebbende is beëindigd, wederrechtelijk binnendringt of wederrechtelijk aldaar vertoeft, wordt, als schuldig aan kraken, gestraft met gevangenisstraf van",
+      "disposition": "Historical evidence only; not added to current inventory."
+    },
+    {
+      "version": "2025-01-01_0",
+      "path": "sources/author-a129-a138a-history-2025-01-01_0.xml",
+      "sha256": "728096aac7b857b65166d71b0563bf8260a57f215d1c77f453ef477dac6ca5e5",
+      "historical_138a": "1 Hij die in een woning of gebouw, waarvan het gebruik door de rechthebbende is beëindigd, wederrechtelijk binnendringt of wederrechtelijk aldaar vertoeft, wordt, als schuldig aan kraken, gestraft met gevangenisstraf van",
+      "disposition": "Historical evidence only; not added to current inventory."
+    },
+    {
+      "version": "2026-01-01_0",
+      "path": "sources/author-a129-a138a-history-2026-01-01_0.xml",
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "historical_138a": "1 Hij die in een woning of gebouw, waarvan het gebruik door de rechthebbende is beëindigd, wederrechtelijk binnendringt of wederrechtelijk aldaar vertoeft, wordt, als schuldig aan kraken, gestraft met gevangenisstraf van",
+      "disposition": "Historical evidence only; not added to current inventory."
+    }
+  ],
+  "limits": "No new case law added; the shortened cassation of the flyer case supports only its precise disposition."
+}

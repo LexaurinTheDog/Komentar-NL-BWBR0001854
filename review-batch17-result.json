@@ -1,0 +1,221 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a129",
+    "a130",
+    "a130a",
+    "a130b",
+    "a131",
+    "a132",
+    "a133",
+    "a134",
+    "a134a",
+    "a135",
+    "a136",
+    "a137",
+    "a137c",
+    "a137d",
+    "a137e",
+    "a137f",
+    "a137g",
+    "a137h",
+    "a138",
+    "a138a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a129",
+      "reviewed": true,
+      "finding": "Stemming verijdelen en bedrieglijke uitslag onderscheiden; causaliteit, poging en sanctieverwijzing gecontroleerd. Geen wijziging nodig.",
+      "changed": false,
+      "source_text_sha256": "68216302068866d10db6220d5697d21bb21241f26ffc73a5cb53dc33c6b353e3",
+      "commentary_before_sha256": "7cf7b8bc8e8a0fa885596e3ecb8009fe90f60f6f6d74253544e0271eeeec9c94",
+      "commentary_after_sha256": "7cf7b8bc8e8a0fa885596e3ecb8009fe90f60f6f6d74253544e0271eeeec9c94"
+    },
+    {
+      "id": "a130",
+      "reviewed": true,
+      "finding": "Beide limitatieve lijsten, rechten 28 en concrete eenjaarsdrempel/aanvang 31 gecontroleerd. BK9221 betreft motivering van straf, geen uitbreiding van bevoegdheid.",
+      "changed": false,
+      "source_text_sha256": "7fedcea91bb98495081ddb7d5e0e6407ffa5273eea4df8a70145bc6fb884ad2e",
+      "commentary_before_sha256": "101244fd5a17b06b3f38b295cd4c150b04f7f4b9aca31d1aa077a515dece8ba3",
+      "commentary_after_sha256": "101244fd5a17b06b3f38b295cd4c150b04f7f4b9aca31d1aa077a515dece8ba3"
+    },
+    {
+      "id": "a130a",
+      "reviewed": true,
+      "finding": "Grondfeiten 123/124 en negenjaarsmaxima gecontroleerd; helftverhoging en zelfstandig oogmerk 83a correct, commissievarianten niet ingevoegd.",
+      "changed": false,
+      "source_text_sha256": "67f88e34752221bbd92a634d83ee262df7522dbbfdd15a3351b1784748e14213",
+      "commentary_before_sha256": "5c061bcc682c8b2f18e54986e8d0ac0301de19de12bd83502128a782a4bfc8fd",
+      "commentary_after_sha256": "5c061bcc682c8b2f18e54986e8d0ac0301de19de12bd83502128a782a4bfc8fd"
+    },
+    {
+      "id": "a130b",
+      "reviewed": true,
+      "finding": "Alleen kiesrecht; facultatieve bevoegdheid en eenjaarsdrempel juist onderscheiden van maximumverhoging.",
+      "changed": false,
+      "source_text_sha256": "58d49a98614303b818d6370d42a64cb1cbe58d07b361d4b800107e167247a92b",
+      "commentary_before_sha256": "53c4d2a5db7d72151434e646e283cfbe4479f32b35ce2a17ace6666deb0de3e6",
+      "commentary_after_sha256": "53c4d2a5db7d72151434e646e283cfbe4479f32b35ce2a17ace6666deb0de3e6"
+    },
+    {
+      "id": "a131",
+      "reviewed": true,
+      "finding": "Alle bestanddelen en beide leden gelezen; HR1573 eigen maatstaven en context onderscheiden van geciteerd hof. Geen eis van navolging ingevoegd.",
+      "changed": false,
+      "source_text_sha256": "bc700c73ff7d9ad93cfcd2629822f9bed37b6e2a25e486bd66bcea3524f0da02",
+      "commentary_before_sha256": "859f7de5baed5aa0e7361670d9cf220ff28910d959a02b1298ba864ebbacb418",
+      "commentary_after_sha256": "859f7de5baed5aa0e7361670d9cf220ff28910d959a02b1298ba864ebbacb418"
+    },
+    {
+      "id": "a132",
+      "reviewed": true,
+      "finding": "Routes, voorraadbestemming en ernstige reden tot vermoeden gecontroleerd. Lid3 verwijst naar lid1; driejaarsmaximum niet als nieuwe verhoging beschreven. Boetecategorie en artikel-ingangsdatum aan XML getoetst.",
+      "changed": false,
+      "source_text_sha256": "e5e38be441e96023cc9d3fb5936e273e2ba470ab383cd70086a58aacec8d3f21",
+      "commentary_before_sha256": "1f0f7299a56814d55baac2ba6b40c2eb29bef63935aac966435c3c6768b47710",
+      "commentary_after_sha256": "1f0f7299a56814d55baac2ba6b40c2eb29bef63935aac966435c3c6768b47710"
+    },
+    {
+      "id": "a133",
+      "reviewed": true,
+      "finding": "Openbaar aanbod, drie hulpvormen en voltooiing zonder levering juist onderscheiden van medeplichtigheid.",
+      "changed": false,
+      "source_text_sha256": "431624547e5c681e549f0b86dd64f8d21b4d614eb98fff60c313f05dfeaea899",
+      "commentary_before_sha256": "77c0d8f3ce107ae14d768c3f021148f180131e07b3c9c7158323594981ac8cac",
+      "commentary_after_sha256": "77c0d8f3ce107ae14d768c3f021148f180131e07b3c9c7158323594981ac8cac"
+    },
+    {
+      "id": "a134",
+      "reviewed": true,
+      "finding": "Aanbiedingsmateriaal, verspreidingsalternatieven, voorraad en ten gehore brengen afzonderlijk behandeld; sancties correct.",
+      "changed": false,
+      "source_text_sha256": "23f5204574f5374243ac8532ba71056a11824d9f74cda10e40d4bf7d2c5ac575",
+      "commentary_before_sha256": "efab8f3383513966de503582d20ab62ebf2d3944ba5a40d0e2a929b54e7ffa0e",
+      "commentary_after_sha256": "efab8f3383513966de503582d20ab62ebf2d3944ba5a40d0e2a929b54e7ffa0e"
+    },
+    {
+      "id": "a134a",
+      "reviewed": true,
+      "finding": "Alle routes getoetst; HR1011 eist voldoende trainingsverband ook bij verschaffingshandelingen. Zelfstudie, opzetcontext en mogelijke voorbereiding46 correct begrensd.",
+      "changed": false,
+      "source_text_sha256": "3c8bd865f097b7a18e6d2f9c4c0f1ae093815a361eddd382fbad7e09d4e22326",
+      "commentary_before_sha256": "b1678d299b4f894eb1a2a7c4623db219f0bfea401de6b0752628d7ce7c9c1dca",
+      "commentary_after_sha256": "b1678d299b4f894eb1a2a7c4623db219f0bfea401de6b0752628d7ce7c9c1dca"
+    },
+    {
+      "id": "a135",
+      "reviewed": true,
+      "finding": "Daadwerkelijke kennis van strafbare samenspanning, preventievenster, opzettelijk nalaten en gevolgd misdrijf gecontroleerd. Verwijzingen80/122/137 juist.",
+      "changed": false,
+      "source_text_sha256": "6c4140f0604580074420724d867f19a9aea6b5288a1c991501495f95e72d16ee",
+      "commentary_before_sha256": "8356e633ff4f634863a5aee7b6fec18c0fccd15172998981e9a7a7e24d78a252",
+      "commentary_after_sha256": "8356e633ff4f634863a5aee7b6fec18c0fccd15172998981e9a7a7e24d78a252"
+    },
+    {
+      "id": "a136",
+      "reviewed": true,
+      "finding": "Huidige catalogus en243leden1/2 gecontroleerd; lid1 vereist gevolgd feit, lid2 reeds gepleegd feit met levensgevaar en afwendbare gevolgen. Oude beperking niet ingevoegd.",
+      "changed": false,
+      "source_text_sha256": "5ad92af1d46cd38b53b57858e14dd6eab28c54492f2b41f4fd4724c6f1f1e369",
+      "commentary_before_sha256": "c39c3a5630e446c6c701119dc2bb65450a9a49687952021ed2eaaf99f7b8f5f5",
+      "commentary_after_sha256": "c39c3a5630e446c6c701119dc2bb65450a9a49687952021ed2eaaf99f7b8f5f5"
+    },
+    {
+      "id": "a137",
+      "reviewed": true,
+      "finding": "Concrete vervolgingsgevaren, graden van verwantschap,90octies en professionele verschoning gecontroleerd. Uitzondering niet tot actieve hulp uitgebreid.",
+      "changed": false,
+      "source_text_sha256": "f35709788c7c874e73feef9ca80bb554e96346883f16c4d0b1b93e81e9355cc2",
+      "commentary_before_sha256": "7de245add50ae9b966219e14e8f8c4565119f0100c48eedebad00bc7a5f17d01",
+      "commentary_after_sha256": "7de245add50ae9b966219e14e8f8c4565119f0100c48eedebad00bc7a5f17d01"
+    },
+    {
+      "id": "a137c",
+      "reviewed": true,
+      "finding": "Grondenlijst, opzet, leden2a/2b en beperkte rechterlijkevaststellingseis gelezen; BF0655 niet gebruikt voor nieuw lid2 en vervallen147 niet als huidig recht behandeld.",
+      "changed": false,
+      "source_text_sha256": "49b3b83a244dfbf687d6625eec7d6b196690c74008198840e266a4e788265a1a",
+      "commentary_before_sha256": "12cc135d931ee78adedf7073bfe8412ddcff739d99f5fe62a15aa0ffed70d096",
+      "commentary_after_sha256": "12cc135d931ee78adedf7073bfe8412ddcff739d99f5fe62a15aa0ffed70d096"
+    },
+    {
+      "id": "a137d",
+      "reviewed": true,
+      "finding": "Drie aanzettingsroutes en ruimere grondenlijst gecontroleerd; eigen flyerbeoordeling hof niet tot directe137d-veroordeling of zelfstandige HR-regel gemaakt.",
+      "changed": false,
+      "source_text_sha256": "98391e619fe9f202f38c38a423546d2638d6c9b6877fee086d0edae6d7ac0e92",
+      "commentary_before_sha256": "f9b631102c5c2e68ba201d20d0310f19b8c606fd28cc4e2e8c74dec24e71c07a",
+      "commentary_after_sha256": "f9b631102c5c2e68ba201d20d0310f19b8c606fd28cc4e2e8c74dec24e71c07a"
+    },
+    {
+      "id": "a137e",
+      "reviewed": true,
+      "finding": "Alle gedragingen, zakelijke berichtgeving, schuldmaatstaf en maxima gecontroleerd. Cassatiepassage aangevuld: derde klacht slaagde wegens inzendtermijn, zonder ander rechtsgevolg; inhoudelijke klachten verkort verworpen.",
+      "changed": true,
+      "source_text_sha256": "d9761a0ec7db35c1eafbd4901ed99b5cd65d85d30134b5abfcc4430b6b9b3f2e",
+      "commentary_before_sha256": "1a29f82a7712c9cf387336d0c0752361bc27850716aef405b938bbcb8e7b7ca8",
+      "commentary_after_sha256": "c8630532857c0273b00bfd2095fc6f429597286ecb47040fee4e8c9b480e71e3"
+    },
+    {
+      "id": "a137f",
+      "reviewed": true,
+      "finding": "Activiteiten en deelnemen/geldelijke/stoffelijke steun onderscheiden van sympathie; gronden en ontbreken bijzondere verhoging gecontroleerd.",
+      "changed": false,
+      "source_text_sha256": "20eade6540d746b5c7f07ce84f6277ee589c0746f47782747b6a5ea9bc56fc9d",
+      "commentary_before_sha256": "9367b0e0bf2fcdea335eb89ab66ab624a456ae9814b39bd3dc6912e93e75231f",
+      "commentary_after_sha256": "9367b0e0bf2fcdea335eb89ab66ab624a456ae9814b39bd3dc6912e93e75231f"
+    },
+    {
+      "id": "a137g",
+      "reviewed": true,
+      "finding": "Functionele context, alleen ras, opzet, gewoonte/verenigde personen en429quater gecontroleerd. Omslachtige ontkenning in voorbeeld verduidelijkt: onvoldoende inkomen bewijst op zichzelf geen raciale selectie; oorspronkelijke zin bevatte al een ontkenning.",
+      "changed": true,
+      "source_text_sha256": "20d570ce971ef1990c20462ee9164918819f41560ad862777e3b77438fee67c8",
+      "commentary_before_sha256": "d16655f6f38be7c723ad4940c8a995a6d0dfcaf1ea6e754e1eb44d95590c8396",
+      "commentary_after_sha256": "c515e1c273bcd26d1f5baf65683463d0d1acb09f9995c45d9e859fc957cfe356"
+    },
+    {
+      "id": "a137h",
+      "reviewed": true,
+      "finding": "Exacte reikwijdte131–134/137c–137g en beroep gecontroleerd. Geen134a,135 of136 door analogie; kiesrechtdrempel niet op beroepsontzetting toegepast.",
+      "changed": false,
+      "source_text_sha256": "dab361151e1fd8d1b58e8b7aab3cb1772c1641ce91d6af8a038988ed57b38682",
+      "commentary_before_sha256": "2b27d209e1e60d7501afe3360717dfb7076142e2b2f748157a3e7b76b650611b",
+      "commentary_after_sha256": "2b27d209e1e60d7501afe3360717dfb7076142e2b2f748157a3e7b76b650611b"
+    },
+    {
+      "id": "a138",
+      "reviewed": true,
+      "finding": "Alle vier leden en twee basisroutes gelezen; nachtroute en vordering juist geplaatst. BM5282 betreft vernietiging/terugwijzing en oud strafmaximum, niet eigen schuldigverklaring.",
+      "changed": false,
+      "source_text_sha256": "19784a59e15c3323e3c486614ff27ad0010350f4099cfb7a7f4cb06a33a65d6c",
+      "commentary_before_sha256": "1c2b68e897c35731b34423895e37ffcb87a3834278c4c01f4023157ec1a7d4b7",
+      "commentary_after_sha256": "1c2b68e897c35731b34423895e37ffcb87a3834278c4c01f4023157ec1a7d4b7"
+    },
+    {
+      "id": "a138a",
+      "reviewed": true,
+      "finding": "Beëindigd gebruik, binnendringen/vertoeven, sanctieverhogingen en ontbreken vordering gecontroleerd. Historisch computerdelict op dezelfde artikelplaats expliciet gescheiden.",
+      "changed": false,
+      "source_text_sha256": "759f21a9d1c7108bd3461c90300f1286492c2bf596787da80369f80d7eaaa7c9",
+      "commentary_before_sha256": "00139bffa7160eed9848b182724458589637ee9083c5f385d8ca856aec3b7c80",
+      "commentary_after_sha256": "00139bffa7160eed9848b182724458589637ee9083c5f385d8ca856aec3b7c80"
+    }
+  ],
+  "limitations": [
+    "Review limited to exactly the twenty assigned units; no whole-book completion or external professional approval.",
+    "472 out-of-scope units lack commentary.",
+    "Case-law coverage selective; preserved full primary decisions re-read, no exhaustive subsequent-case search.",
+    "External WIM reference checked using preserved official evidence; constituent treaty crimes not separately expounded."
+  ],
+  "verified_at": "2026-10-20T21:44:59.733750+00:00",
+  "source_preflight": "sources/review-batch17-version-evidence.json",
+  "completeness": "sources/review-batch17-coverage.json",
+  "authorities": "sources/review-batch17-authority-check.json"
+}
