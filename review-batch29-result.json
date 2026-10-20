@@ -113,11 +113,11 @@
     {
       "id": "a290",
       "reviewed": true,
-      "finding": "Moeder, opzet, vrees ontdekking bevalling en tijdsverband geboorte gecontroleerd. Vierde boetecategorie aangevuld; geen vaste kort-na-termijn verzonnen.",
+      "finding": "Alle bestanddelen en sanctie gecontroleerd; te strikte eis van reeds voltooide levende geboorte verwijderd:82a omvat ook het doden van een naar redelijke verwachting levensvatbare vrucht. Geen vaste kort-na-termijn.",
       "changed": true,
       "source_text_sha256": "701c4d5d46d33227fda17fa82aaec5c68d1caaff24acf568b2f66a6f7d147d5f",
       "commentary_before_sha256": "bd0cc958417e81e31f2bacd7d69c729ef0489272fd9300a6a3ce7d37fa64cc4d",
-      "commentary_after_sha256": "f0cfb0200b9ede19222d4d32fd0301c6272b33bab087607cf3f052a369045999"
+      "commentary_after_sha256": "821a201f6ca7c1ecd77c8a285aadca28704cb2b85384898cebec27c84aad4655"
     },
     {
       "id": "a291",
@@ -233,5 +233,6 @@
   "local_links_ok": true,
   "coverage_complete": true,
   "whole_book_validation_ok": false,
-  "post_checkpoint_validation": true
+  "post_checkpoint_validation": true,
+  "support_check": "sources/review-batch29-support-check.json"
 }
