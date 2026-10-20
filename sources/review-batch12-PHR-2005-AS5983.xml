@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:PHR:2005:AS5983</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T05:43:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AS5983</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Parket_bij_de_Hoge_Raad" scheme="overheid.RechterlijkeMacht">Parket bij de Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Datum genomen">2005-04-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">01792/04</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/conclusie">Conclusie</dcterms:type>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSGR:2003:AO4274" psi:type="http://psi.rechtspraak.nl/conclusieVoorCassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Arrest gerechtshof: ECLI:NL:GHSGR:2003:AO4274</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:HR:2005:AS5983" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/latereAanleg">Arrest Hoge Raad: ECLI:NL:HR:2005:AS5983</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOL 2005, 201</rdf:li>
+          <rdf:li>NJ 2005, 316</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:PHR:2005:AS5983">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:PHR:2005:AS5983</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T21:57:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2005-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:PHR:2005:AS5983 Parket bij de Hoge Raad , 05-04-2005 / 01792/04</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:PHR:2005:AS5983:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Geweld ex art. 312 jo. art. 81 Sr door drogeren met kalmerings/slaapmiddelen. In de schriftuur wordt, met een beroep op de wetsgeschiedenis waarin onderscheid wordt gemaakt tussen bedwelming en het brengen in een toestand van onmacht, geklaagd dat het bewezenverklaarde drogeren door het toedienen van een hoeveelheid kalmerings- en/of slaapmiddelen geen geweld oplevert ex art. 312 jo. art. 81 Sr. HR verwerpt onder verwijzing naar conclusie AG, die inhoudt dat het hof de term drogeren kennelijk en niet onbegrijpelijk aldus heeft opgevat dat deze inhoudt het toedienen van zoveel verdovende of stimulerende middelen dat degene aan wie deze worden toegediend, raakt in een toestand van onmacht of bewusteloosheid.</para>
+    </inhoudsindicatie>
+  <conclusie id="ECLI:NL:PHR:2005:AS5983:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>Nr. 01792/04</para>
+      <para>Mr. Vellinga</para>
+      <para>Zitting: 8 februari 2005</para>
+    </parablock>
+    <para />
+    <para>Conclusie inzake:</para>
+    <para />
+    <para>[verdachte]</para>
+    <para />
+    <para>1. Verdachte is door het Gerechtshof te 's-Gravenhage vrijgesproken van het haar onder 4., 8. en 9. tenlastegelegde (diefstal met geweld c.q. afpersing). Voorts is zij door het Hof wegens 1. (tweede alternatief) doodslag, 2. medeplegen van een lijk wegvoeren en wegmaken, met het oogmerk om het feit of de oorzaak van het overlijden te verhelen, 3. en 7. diefstal, voorafgegaan van geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden, meermalen gepleegd, en 5. diefstal, voorafgegaan en vergezeld van geweld en bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden en gemakkelijk te maken, terwijl het feit wordt gepleegd door twee of meer verenigde personen, veroordeeld tot een gevangenisstraf voor de duur van achttien jaren. Daarnaast heeft het Hof de benadeelde partijen [slachtoffer 1], [slachtoffer 2] en [slachtoffer 3] in hun vorderingen niet-ontvankelijk verklaard alsmede de vordering van de benadeelde partij [slachtoffer 4] toegewezen en ten aanzien daarvan een schadevergoedingsmaatregel opgelegd. Ook heeft het Hof de tenuitvoerlegging gelast van een voorwaardelijk opgelegde straf.</para>
+    <para />
+    <para>2. Namens verdachte zijn door mr. R.J. Baumgardt, advocaat te Spijkenisse, vier middelen van cassatie voorgesteld.</para>
+    <para />
+    <para>3. Het eerste middel bevat de klacht dat de bewezenverklaring terzake van feit 3 innerlijk tegenstrijdig is en/of dat de kwalificatiebeslissing voor dit feit onvoldoende is gemotiveerd, omdat het bewezenverklaarde drogeren van het slachtoffer door het toedienen van een hoeveelheid kalmeringsmiddelen en/of slaapmiddelen geen "geweld" oplevert in de zin van art. 312 Sr jo. art. 81 Sr. Met een beroep op de wetsgeschiedenis wordt door de steller van het middel betoogd dat van "geweld" in de zin van die bepalingen alleen sprake is indien ook is bewezenverklaard dat het slachtoffer verkeerde in een staat van bewusteloosheid of onmacht. Het louter bedwelmen van het slachtoffer, zoals het bewezenverklaarde drogeren volgens de steller van het middel moet worden verstaan, zonder dat vaststaat dat het slachtoffer daardoor in een dergelijke staat is komen te verkeren, zou geen "geweld" opleveren.</para>
+    <para />
+    <para>4. Als tweede middel wordt gesteld dat de bewezenverklaring en/of de kwalificatiebeslissing terzake van feit 7 ontoereikend zijn gemotiveerd, omdat het bewezenverklaarde drogeren door het toedienen van slaapmiddelen (te weten benzodiapezines) op dezelfde gronden als opgevoerd ter toelichting van het eerste middel geen "geweld" oplevert. Het derde middel betoogt dat de bewezenverklaring terzake van feit 3 niet uit de bewijsmiddelen kan worden afgeleid, omdat daaruit niet (zonder meer) volgt dat het slachtoffer in een staat van bewusteloosheid en/of onmacht is gebracht door het toedienen van de bedoelde middelen. </para>
+    <para />
+    <para>5. De middelen lenen zich voor gezamenlijke bespreking.</para>
+    <para />
+    <para>6. Ten laste van de verdachte is door het Hof als feit 3 bewezenverklaard: </para>
+    <para />
+    <para>"dat zij in de periode van 01 oktober 2001 tot en met 02 oktober 2001 te Bergen op Zoom en/of te Rotterdam met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen een aantal beeldjes en een fototoestel en een pennenset en een jas en geld toebehorende aan [slachtoffer 5], welke diefstal werd voorafgegaan van geweld tegen die [slachtoffer 5], gepleegd met het oogmerk om die diefstal voor te bereiden welk geweld bestond uit het die [slachtoffer 5] drogeren door het toedienen van een hoeveelheid kalmeringsmiddelen en/of slaapmiddelen (verwerkt in een schaaltje met gele vla);"</para>
+    <para />
+    <para>7. Als feit 7 is door het Hof ten laste van de verdachte bewezenverklaard dat:</para>
+    <para />
+    <para>"zij op 29 juni 2001 te Rotterdam in een woning, gelegen aan de [a-straat] met het oogmerk van wederrechtelijke toeëigening heeft weggenomen waardepapieren en geluid- en beeldapparatuur en geld en een portemonnaie en een portefeuille, toebehorende aan [slachtoffer 6], welke diefstal werd voorafgegaan van geweld tegen die [slachtoffer 6], gepleegd met het oogmerk om die diefstal voor te bereiden welk geweld bestond uit het: die [slachtoffer 6] drogeren door het toedienen van slaapmiddelen (te weten benzodiapezines)"</para>
+    <para />
+    <para>8. Het Hof heeft feit 3 en feit 7 tezamen gekwalificeerd als diefstal, voorafgegaan van geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden, meermalen gepleegd. </para>
+    <para />
+    <para>9. Art. 81 Sr luidt: </para>
+    <para />
+    <para>"Met het plegen van geweld wordt gelijkgesteld het brengen in een staat van bewusteloosheid of onmacht."</para>
+    <para />
+    <para>10. In de toelichting op het middel wordt verwezen naar een discussie in de Tweede Kamer over de invoering van art. 81 Sr waarbij Minister van Justitie Modderman aangeeft tegen het voorstel van kamerlid Goeman Borgesius tot uitbreiding van de bepaling met "bedwelming" te zijn om de volgende reden:(1)</para>
+    <para />
+    <para>"Men gelieve te bedenken, dat art. 81 reeds eene belangrijke uitbreiding geeft aan het bestaande regt. Volgens het bestaande regt maakt men zich niet schuldig aan verkrachting, wanneer men eene vrouw bewusteloos maakt en haar in dien toestand misbruikt. Dit ontwerp, dat volgens sommigen lijdt aan eene ziekelijke philantropie, verscherpt de wetgeving ook op dit punt en stelt met het plegen van geweld gelijk het brengen in een staat van bewusteloosheid of onmacht. Verder te gaan en ook te spreken van bedwelming is niet noodig. Wanneer door geweld iemand bedwelmd wordt, of ook wanneer iemand door bedwelming onmagtig wordt gemaakt, dan is er geweld of onmagt; voor die gevallen dus behoeft niet afzonderlijk van "bedwelming" gewaagd te worden. Daarentegen, wanneer er noch geweld is aangewend, noch hetzij bewusteloosheid, hetzij onmagt bestaat, dan kan de vrouw zich zelve nog verdedigen."</para>
+    <para />
+    <para>Na repliek van het kamerlid dat art. 81 Sr ertoe zal leiden dat het brengen van een vrouw in een toestand van bedwelming met het doel om ontuchtige handelingen met haar te plegen niet strafbaar is, tenzij "hij haar voor zijn doel gebragt heeft in den toestand van geheel cadaver", merkt de Minister nog op:</para>
+    <para />
+    <para>"De zachtzinnige interpretatie van den geachten afgevaardigde acht ik niet onbetwistbaar. Het bedwelmen zou wel eens een begin van uitvoering van het bewusteloos maken kunnen wezen en als poging strafbaar, wanneer aan alle overige vereischten van strafbare poging voldaan was." </para>
+    <para />
+    <para>11. Uit deze discussie kan worden afgeleid dat het enkele bedwelmen zonder dat dit gepaard gaat met geweld of zonder dat dit leidt tot een staat van bewusteloosheid of onmacht niet valt onder het begrip "geweld" dan wel onder de in art. 81 Sr geregelde gelijkstelling(2) met "geweld". </para>
+    <para />
+    <para>12. In aanmerking genomen dat de tenlastelegging voor wat betreft de feiten 3 en 7 is gericht op overtreding van het bepaalde in art. 312 Sr, volgt uit het voorgaande dat het Hof de term "drogeren" kennelijk en niet onbegrijpelijk aldus heeft opgevat dat deze inhoudt het toedienen van zoveel verdovende of stimulerende middelen dat degene aan wie deze worden toegediend, raakt in een toestand van onmacht of bewusteloosheid. </para>
+    <para />
+    <para>13. Van innerlijke tegenstrijdigheid van de bewezenverklaring van genoemde feiten of van een onjuiste kwalificatie van die feiten is dus geen sprake.(3) </para>
+    <para />
+    <para>14. Zulks strookt ook met de inhoud van de gebezigde bewijsmiddelen. Zo verklaart het slachtoffer terzake van feit 3 in bewijsmiddel 18 dat hij ongeveer 15 à 30 minuten na het nuttigen van door verdachte kennelijk geprepareerde vla met "een hele rare, wat bittere smaak" voelde, dat hij "geen eigen wil meer had" en draaierig/duizelig werd. Daarin ligt de onmachtigheid van de gedrogeerde besloten. Het slachtoffer verkeerde kennelijk immers in een staat van fysieke weerloosheid door de hem toegediende middelen. (4) En uit het voor de bewezenverklaring van feit 7 gebruikte bewijsmiddel 23 kan worden afgeleid dat het slachtoffer na het drinken van door verdachte aan hem aangereikte, van benzodiazepines voorziene rode wijn zelfs bewusteloos raakte.</para>
+    <para />
+    <para>15. Terzake van feit 3 volgt hieruit tevens dat de bewezenverklaring uit de gebezigde bewijsmiddelen kan volgen. </para>
+    <para />
+    <para>16. De middelen zijn vruchteloos voorgesteld.</para>
+    <para />
+    <para>17. Het vierde middel klaagt over de strafmotivering.</para>
+    <para />
+    <para>18. Het Hof heeft de straf, voor zover hier van belang, als volgt gemotiveerd:</para>
+    <para />
+    <para>"De advocaat-generaal mr. Geradts heeft gevorderd dat het vonnis waarvan beroep zal worden vernietigd en dat de verdachte terzake van het onder 1, tweede alternatief (als "gekwalificeerde" doodslag), 2, 3, 4, 5, 7, 8 en 9 tenlastegelegde zal worden veroordeeld tot een gevangenisstraf voor de duur van vijftien jaren, met aftrek van voorarrest. (...).</para>
+    <para />
+    <para>Het hof heeft de op te leggen straf bepaald op grond van de ernst van de feiten en de omstandigheden waaronder deze zijn begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.</para>
+    <para />
+    <parablock>
+      <para>Daarbij is in het bijzonder het volgende in aanmerking genomen. De verdachte heeft zich schuldig gemaakt aan de wurging van een man. Samen met een ander heeft zij vervolgens het stoffelijk overschot van het slachtoffer dat bij haar in huis lag weggevoerd en weggemaakt, zoals nader in de bewezenverklaring omschreven. </para>
+      <para>Voorts heeft de verdachte zich schuldig gemaakt aan diverse berovingen in woningen. </para>
+    </parablock>
+    <para />
+    <para>Met name gelet op de ernst van het onder 1 bewezenverklaarde feit, de omstandigheid dat verdachte op geen enkele wijze er van blijk heeft gegeven het strafwaardige van haar handelen in te zien en dat zij blijkens een haar betreffend uittreksel uit het Justitieel Documentatieregister d.d. 10 december 2003, al eens is veroordeeld voor het plegen van een gewelddadige diefstal, hetgeen haar er kennelijk niet van heeft weerhouden de onderhavige feiten te plegen, acht het hof oplegging van een zeer langdurige gevangenisstraf onontkoombaar. Verdachte dient voor geruime tijd uit de samenleving te worden verwijderd.</para>
+    <para />
+    <para>Naar het oordeel van het hof komen de ernst van het bewezenverklaarde en de door het hof in aanmerking genomen omstandigheden onvoldoende tot uitdrukking in zowel de door de eerste rechter opgelegde straf, als in de door de advocaat-generaal in hoger beroep gevorderde straf.</para>
+    <para />
+    <para>Het is op deze grond dat het hof de hierna te vermelden zwaardere straf zal opleggen dan door de eerste rechter is opgelegd en thans door de advocaat-generaal in hoger beroep is gevorderd."</para>
+    <para />
+    <para>19. In de toelichting op het middel wordt er allereerst over geklaagd dat het Hof nader had moeten motiveren waarom het een veel zwaardere straf heeft opgelegd dan de Rechtbank nu de Rechtbank slechts twaalf jaar gevangenisstraf heeft opgelegd voor meer feiten en de Rechtbank de straf uitvoerig heeft gemotiveerd terwijl het Hof slechts een aantal van de door de Rechtbank genoemde omstandigheden in de strafmotivering heeft betrokken. Volgens de steller van het middel had het Hof niet mogen volstaan met de overweging dat een zwaardere straf op zijn plaats is, maar had het (nader) moeten motiveren waarom dat het geval was en niet volstaan zou kunnen worden met de door de Rechtbank opgelegde straf.</para>
+    <para />
+    <para>20. Vooropgesteld moet worden, zoals in de toelichting op het middel ook terecht naar voren wordt gebracht, dat de feitenrechter vrij is in de bepaling van de straf en de waardering van de factoren die hij daartoe van belang acht. Deze afweging is aan hem voorbehouden. In cassatie kan dus niet worden onderzocht of de juiste straf is opgelegd en evenmin of de straf beantwoordt aan alle daarvoor in aanmerking komende factoren, zoals de ernst van het feit of de persoon van de verdachte.(5)</para>
+    <para />
+    <para>21. Het Hof heeft met de zojuist weergegeven motivering tot uitdrukking gebracht waarom het een onvoorwaardelijke gevangenisstraf heeft opgelegd. Daarmee heeft het Hof voldaan aan de eisen die art. 359, leden 5 en 6, Sv stelt. Anders dan het middel wellicht wil, is het Hof bij strafverzwaring niet gehouden om in te gaan op de in eerste aanleg gegeven strafmotivering.(6) Bovendien mag de appèlrechter, behoudens bijzondere omstandigheden, zonder nadere motivering een zwaardere straf opleggen dan de eerste rechter.(7) Van bijzondere omstandigheden kan bijvoorbeeld sprake zijn wanneer verdachte terzake van medeplegen van moord in eerste aanleg tot 6 jaar gevangenisstraf is veroordeeld, terwijl in hoger beroep voor poging tot moord, waarvoor een lager strafmaximum geldt, dezelfde straf wordt opgelegd (HR 8 juni 1982, NJ 1983, 237). In de onderhavige zaak gold echter voor de Rechtbank en het Hof gezien de bewezenverklaarde feiten alsmede, gelet op het bepaalde in art. 57 Sr, hetzelfde strafmaximum.</para>
+    <para />
+    <para>22. In de toelichting op het middel wordt voorts aangevoerd dat het Hof art. 359 lid 7 (oud) Sv heeft geschonden door niet aan te geven waarom het een hogere straf dan in hoger beroep was gevorderd zou opleggen. Tot een nadere motivering zou het Hof op grond van genoemde bepaling gehouden zijn, omdat aan de vordering meer en ernstiger feiten ten grondslag hebben gelegen dan aan de strafoplegging door het Hof.</para>
+    <para />
+    <para>23. Het Hof heeft met de weergegeven motivering tot uitdrukking gebracht waarom het een zwaardere straf heeft opgelegd dan door de Advocaat-Generaal was geëist. Immers, de reden daarvoor heeft het Hof gezien in de ernst van het bewezenverklaarde en de omstandigheden waaronder het bewezenverklaarde is verricht. Daarmee is aan art. 359 lid 7 (oud) Sv voldaan. Tot een nadere motivering was het Hof niet gehouden.(8)</para>
+    <para />
+    <para>24. Het middel faalt. </para>
+    <para />
+    <para>25. De middelen kunnen worden afgedaan met de in art. 81 RO bedoelde motivering.</para>
+    <para />
+    <para>26. Gronden waarop de Hoge Raad gebruik zou moeten maken van zijn bevoegdheid de bestreden uitspraak ambtshalve te vernietigen heb ik niet aangetroffen. Deze conclusie strekt tot verwerping van het beroep. </para>
+    <para />
+    <parablock>
+      <para>De Procureur-Generaal</para>
+      <para>bij de Hoge Raad der Nederlanden</para>
+    </parablock>
+    <para />
+    <para>AG</para>
+    <para />
+    <parablock>
+      <para>1 H.J. Smidt en J.W. Smidt, De geschiedenis van het Wetboek van Strafrecht, deel II, p. 495-496. </para>
+      <para>2 Vgl. NLR, aant. 1 op art. 81 Sr (suppl. 111): art. 81 Sr breidt het begrip geweldpleging niet uit maar stelt twee zaken gelijk.</para>
+      <para>3 NLR, aant. 4 op art. 81 Sr (Suppl. 111), die als diefstal met geweld aanmerkt het door toedienen van slaapverwekkende stoffen een bewaker in slaap helpen om aldus de gelegenheid voor diefstal te scheppen.</para>
+      <para>4 Vgl. HR 28 november 1989, DD 90.134. Zie voorts HR 4 december 1990, NJ 1991, 346 ten aanzien van "onmacht" in de zin van art. 243 (oud) Sr, waaronder wordt begrepen een toestand waarin de vrouw zich nog wel enigermate bewust is van haar omgeving en nog wel enigermate in staat is tot lichaamsbeweging, doch niet bij machte is zich fysiek tegen de vleselijke gemeenschap te verzetten. Van een toestand van verminderd bewustzijn als bedoeld in art. 243 en 247 Sr, een toestand tussen waakzaamheid en bewusteloosheid (NLR aant. 1 ad art. 243 Sr (suppl. 120), is hier geen sprake omdat het slachtoffer voelde dat hij geen eigen wil meer had. De wetsgeschiedenis van de wet waarbij het element van het verminderd bewustzijn is toegevoegd aan art. 243 en 247 Sr (Stb. 2002, 388) bevat overigens geen verwijzing naar art. 81 Sr. Voor de interpretatie van art. 81 Sr is die wet dan ook van weinig waarde.</para>
+      <para>5 Van Dorst a.w., p. 221. Zie o.m. ook HR 21 oktober 2003, nr. 00084/03, LJN AL3537, rov. 4.3.</para>
+      <para>6 HR 24 maart 1987, NJ 1988, 82.</para>
+      <para>7 Van Dorst a.w., p. 221-222.</para>
+      <para>8 Van Dorst a.w., p. 222. In HR 25 januari 2005, LJN AR7168 oordeelt de Hoge Raad dat het opnemen van de inhoud van de vordering van de Advocaat-Generaal in de strafmotivering meebrengt dat aan het bepaalde in art. 359 lid 7 Sv is voldaan. Deze uitspraak kan mijns inziens niet los worden gezien van hetgeen overigens ter motivering van de opgelegde straf is overwogen en waaruit kan worden opgemaakt waarom de rechter tot een hogere straf is gekomen dan gevorderd, te weten op grond van een andere weging van de strafbepalende feiten en omstandigheden dan aan de vordering ten grondslag lag. De enkele vermelding van de hoogte van de vordering en een zuiver abstracte, algemene motivering van de opgelegde straf - gelet op de ernst van het feiten, de omstandigheden waaronder dit is begaan en de persoon van de verdachte - zou ik niet voldoende achten. Voorts kunnen de eisen die aan de motivering van de straf in het kader van art. 359 lid 7 Sv  worden gesteld, vermoedelijk niet geheel los worden gezien van hetgeen van de zijde van de verdachte naar voren is gebracht, zij het dat hij zich tegen een hogere straf dan gevorderd alleen gemotiveerd zal verzetten wanneer hij heeft te vrezen dat de rechter daartoe zal overgaan. Zou het motiveringsvoorschrift van het nieuwe art. 359 Sv de in genoemd arrest vervatte regel niet spoedig achterhaald doen zijn?</para>
+    </parablock>
+  </conclusie>
+</open-rechtspraak>

@@ -1,0 +1,66 @@
+{
+  "corrected_ids": [
+    "a78a",
+    "a78c",
+    "a80ter",
+    "a80quater",
+    "a80sexies",
+    "a80septies",
+    "a81",
+    "a82",
+    "a82a",
+    "a83"
+  ],
+  "changes": [
+    {
+      "id": "a78a",
+      "before_sha256": "686af337881587c9671818987fc1d482b38fdb354f535a61d017e8ea3d6aa796",
+      "after_sha256": "3984e5c037d705aaa01bd59c64d700159a558b2c0ba7cad12b0a7308a662f004"
+    },
+    {
+      "id": "a78c",
+      "before_sha256": "295c1acc0d8fe1971644121f0c846d64e413256c9fb2a8ef3eedb597de22886b",
+      "after_sha256": "c34599dd314771813ea0b5c792a668d23a20904d23f68f23f8139693a254bd5a"
+    },
+    {
+      "id": "a80ter",
+      "before_sha256": "9db44ff349720154bab26a1e487a8ec251a1c5644f86d1a02349792ecf09aac6",
+      "after_sha256": "6aa905189d587b470267f46016ad8d270224c4eeb1664c45187840ff531b85d1"
+    },
+    {
+      "id": "a80quater",
+      "before_sha256": "909e998284201ce792cfe8cb9fd004f9faacc1f75b4115970168da6063904105",
+      "after_sha256": "c32b3dcfc9c6c6170a6cdf0879458006632d71fa5182e21e691323ea36db12e6"
+    },
+    {
+      "id": "a80sexies",
+      "before_sha256": "9813e2fc428416f5308bd8ad13c90d6169e3e6b571a2f3fab8d0aef1a19d6d65",
+      "after_sha256": "0cb232147175459b797e22e5fa957f8cf77ec72059dd5e168dcab87d01cdb6f1"
+    },
+    {
+      "id": "a80septies",
+      "before_sha256": "ef1a433f01cf42f1e7ba92f3f9cb06101a69a0d4b62c2676830aa3fea9d9c7e3",
+      "after_sha256": "5f41ed6ba19216216cc143f72e2fd5845cdbd92558adefbe4c03304848004cf7"
+    },
+    {
+      "id": "a81",
+      "before_sha256": "548542d841cb87fcf963d8e0d219f2fb8f35eb7ee2f43f42b9dfd10cb4f0b15b",
+      "after_sha256": "44c9e73e34781b95840b3fe5bb19b81614ddd2cd7d819fc0e9de0e2c1ad130e6"
+    },
+    {
+      "id": "a82",
+      "before_sha256": "2fa1c3c3322642ec969abecf5f4d7a666b892485e20fa8c51367b359f298e864",
+      "after_sha256": "1ad04f6f59d5f3818e8a57b613fdd4c2f23018940ecd0de3519d5d2d5b17c36b"
+    },
+    {
+      "id": "a82a",
+      "before_sha256": "a3e1a47ec0d85f993087e569c06816b9f1d1e47592bf196f2d094dd2309d1a28",
+      "after_sha256": "5dd70a8f289cd0c58e1e560616631c82960f3956bf7096e8e028cc0df29c4f98"
+    },
+    {
+      "id": "a83",
+      "before_sha256": "698d0078ba78b3004c54874fb671ca8455e49416c37d4989c49094a2b5e119f1",
+      "after_sha256": "87ba282482f7f982a3a8e54646f9c0f2c986d22fbca030eec7110d17f779ebd7"
+    }
+  ]
+}

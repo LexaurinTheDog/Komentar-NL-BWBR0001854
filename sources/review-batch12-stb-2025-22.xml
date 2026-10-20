@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2025-22/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 28 januari 2025 tot vaststelling van het tijdstip van inwerkingtreding van de Uitvoeringswet verordening cryptoactiva, de Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie en het Uitvoeringsbesluit MiCA en TFR</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van Onze Minister van Financiën van 23 januari 2025, 2024-0000587004, directie Financiële Markten;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel III van de Uitvoeringswet verordening cryptoactiva, artikel V van de Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie en artikel IV van het Uitvoeringsbesluit MiCA en TFR;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>Met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, treden in werking:</al>
+          <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+            <li>
+              <li.nr>a.</li.nr>
+              <al>de Uitvoeringswet verordening cryptoactiva;</al>
+            </li>
+            <li>
+              <li.nr>b.</li.nr>
+              <al>de Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie;</al>
+            </li>
+            <li>
+              <li.nr>c.</li.nr>
+              <al>de artikelen II en III van het Uitvoeringsbesluit MiCA en TFR.</al>
+            </li>
+          </lijst>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Financiën is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2025-01-28">28 januari 2025</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Financiën,</functie>
+          <naam>
+            <voornaam>E.</voornaam>
+            <achternaam>Heinen</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2025-02-03">Uitgegeven de <nadruk type="cur">derde</nadruk> februari 2025</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Dit besluit regelt de inwerkingtreding van de Uitvoeringswet verordening cryptoactiva, de Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie en de artikelen II en III van het Uitvoeringsbesluit MiCA en TFR. Deze wetten en de desbetreffende artikelen uit het besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatblad waarin dit inwerkingtredingsbesluit geplaatst wordt. Een gedeelte van het Uitvoeringsbesluit MiCA en TFR (artikel I) is reeds in werking getreden. Een spoedige inwerkingtreding van dit onderdeel van het besluit was noodzakelijk gelet op het gedeelte van MiCA (titels III en IV) dat al van toepassing is geworden op 30 juni 2024. Ook zijn met dit onderdeel van het besluit de Nederlandsche Bank (DNB) en de Autoriteit Financiële Markten (AFM) tijdig als toezichthouders voor MiCA aangewezen.</al>
+        <al>Er wordt afgeweken van de vaste verandermomenten omdat Verordening (EU) 2023/1114 betreffende cryptoactivamarkten en Verordening (EU) 2023/1113 betreffende bij geldovermakingen en overdrachten van bepaalde cryptoactiva te voegen informatie en tot wijziging van Richtlijn (EU) 2015/849 op 30 december 2024 van toepassing zijn geworden. De bijhorende uitvoeringswetten en het uitvoeringsbesluit dienen daarom zo snel mogelijk in werking te treden.</al>
+        <ondertekening>
+          <functie>De Minister van Financiën,</functie>
+          <naam>
+            <voornaam>E.</voornaam>
+            <achternaam>Heinen</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

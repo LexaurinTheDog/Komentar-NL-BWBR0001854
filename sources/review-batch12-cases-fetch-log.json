@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:904",
+    "accessed_at": "2026-10-20T17:55:50.007076+00:00",
+    "path": "sources/review-batch12-HR-2026-904.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:904",
+    "content_type": "application/xml",
+    "sha256": "e26cdb96ce40c32d629903ad1f31b6085cf70d847a7ca6e93c73b81c8f7e1c9c",
+    "bytes": 26905,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2005:AS5983",
+    "accessed_at": "2026-10-20T17:55:50.204074+00:00",
+    "path": "sources/review-batch12-HR-2005-AS5983.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2005:AS5983",
+    "content_type": "application/xml",
+    "sha256": "2d04ee27b269774677204b1cbba494d4bf753b025a992a8cf4cf10de926c44d3",
+    "bytes": 9325,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:PHR:2005:AS5983",
+    "accessed_at": "2026-10-20T17:55:50.327817+00:00",
+    "path": "sources/review-batch12-PHR-2005-AS5983.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:PHR:2005:AS5983",
+    "content_type": "application/xml",
+    "sha256": "dfb0201b4c295f5da173816c5211ada5720fdede26a118277de0409eca5783a4",
+    "bytes": 23103,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  }
+]

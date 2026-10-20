@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wetstechnische-informatie xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:overheid="http://standaarden.overheid.nl/owms/terms/" xmlns:owms="http://standaarden.overheid.nl/bwb/owms/" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd" bwb-id="BWBR0002074">
+  <algemene-informatie gegenereerd="2026-08-13T04:28:27">
+    <eerstverantwoordelijke>Algemene Zaken</eerstverantwoordelijke>
+    <citeertitel status="officieel">Wet bescherming staatsgeheimen</citeertitel>
+    <citeertitels>
+      <citeertitel status="officieel" geldig-tot="9999-12-31" geldig-van="1951-04-30" zichtbaar-tot="9999-12-31" zichtbaar-van="1951-04-30">Wet bescherming staatsgeheimen</citeertitel>
+    </citeertitels>
+    <soort-regeling>wet</soort-regeling>
+    <identificatienummer>BWBR0002074</identificatienummer>
+    <rechtsgebieden>
+      <rechtsgebied>
+        <hoofdgebied>Openbare orde en veiligheidsrecht</hoofdgebied>
+      </rechtsgebied>
+    </rechtsgebieden>
+    <overheidsdomeinen>
+      <overheidsdomein>Openbare orde en veiligheid</overheidsdomein>
+    </overheidsdomeinen>
+  </algemene-informatie>
+  <gerelateerde-regelgeving gegenereerd="2026-08-13T04:28:27">
+    <regeling>
+      <wetsfamilie>
+        <gerelateerde-regeling bwb-id="BWBR0002074" geldig-tot="9999-12-31" geldig-van="1951-04-30" zichtbaar-tot="9999-12-31" zichtbaar-van="1951-04-30">
+          <extref doc="jci1.3:c:BWBR0002074" bwb-id="BWBR0002074">Wet bescherming staatsgeheimen</extref>
+        </gerelateerde-regeling>
+      </wetsfamilie>
+      <grondslag-voor>
+        <gerelateerde-regeling bwb-id="BWBR0003931" geldig-tot="2022-07-28" geldig-van="1986-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1986-05-01">
+          <extref doc="jci1.3:c:BWBR0003931" bwb-id="BWBR0003931">Besluit aanwijzing enige gebouwen te 's-Gravenhage en Wassenaar als verboden plaatsen</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2014-01-06" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-01-01" geldig-van="2014-01-06" zichtbaar-tot="9999-12-31" zichtbaar-van="2014-01-06">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-12-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2016-12-01" geldig-van="2015-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-12-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2019-01-01" geldig-van="2018-03-15" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-03-15">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2017-01-01" geldig-van="2016-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-12-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2018-03-15" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2020-01-01" geldig-van="2019-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2022-03-01" geldig-van="2020-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2024-01-01" geldig-van="2022-03-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-03-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+          <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+          <extref doc="jci1.3:c:BWBR0038683" bwb-id="BWBR0038683">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+          <extref doc="jci1.3:c:BWBR0048719" bwb-id="BWBR0048719">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+          <extref doc="jci1.3:c:BWBR0050329" bwb-id="BWBR0050329">Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0046977" geldig-tot="9999-12-31" geldig-van="2022-07-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-28">
+          <extref doc="jci1.3:c:BWBR0046977" bwb-id="BWBR0046977">Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+          <extref doc="jci1.3:c:BWBR0042543" bwb-id="BWBR0042543">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+          <extref doc="jci1.3:c:BWBR0045234" bwb-id="BWBR0045234">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+          <extref doc="jci1.3:c:BWBR0050335" bwb-id="BWBR0050335">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+          <extref doc="jci1.3:c:BWBR0050937" bwb-id="BWBR0050937">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+          <extref doc="jci1.3:c:BWBR0051133" bwb-id="BWBR0051133">Besluit aanwijzing tot 'verboden plaatsen'</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+          <extref doc="jci1.3:c:BWBR0018602" bwb-id="BWBR0018602">Besluit aanwijzing verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+          <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+          <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+          <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+          <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+          <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+          <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+          <extref doc="jci1.3:c:BWBR0052479" bwb-id="BWBR0052479">Besluit aanwijzing verboden plaats gemeente Den Haag 2026</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+          <extref doc="jci1.3:c:BWBR0028314" bwb-id="BWBR0028314">Besluit aanwijzing verboden plaats Korps landelijke politiediensten</extref>
+        </gerelateerde-regeling>
+        <gerelateerde-regeling bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+          <extref doc="jci1.3:c:BWBR0031692" bwb-id="BWBR0031692">Besluit aanwijzing verboden plaatsen (mei 2012)</extref>
+        </gerelateerde-regeling>
+      </grondslag-voor>
+      <verwijzing-door>
+        <gerelateerd-regelingelement bwb-id="BWBR0001854" geldig-tot="9999-12-31" geldig-van="1951-04-30" zichtbaar-tot="9999-12-31" zichtbaar-van="1951-04-30">
+          <extref label="Wetboek van Strafrecht" groep="artikel" doc="jci1.3:c:BWBR0001854&amp;artikel=80ter" bwb-id="BWBR0001854" label-id="2964644">80ter</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0003931" geldig-tot="2022-07-28" geldig-van="1986-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1986-05-01">
+          <extref label="Besluit aanwijzing enige gebouwen te 's-Gravenhage en Wassenaar als verboden plaatsen" groep="artikel" doc="jci1.3:c:BWBR0003931&amp;artikel=1" bwb-id="BWBR0003931" label-id="38424">1</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0003931" geldig-tot="2022-07-28" geldig-van="1998-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1998-01-01">
+          <extref label="Besluit aanwijzing enige gebouwen te 's-Gravenhage en Wassenaar als verboden plaatsen" groep="artikel" doc="jci1.3:c:BWBR0003931&amp;artikel=2" bwb-id="BWBR0003931" label-id="38444">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0004489" geldig-tot="2004-03-01" geldig-van="1998-12-17" zichtbaar-tot="9999-12-31" zichtbaar-van="1998-12-17">
+          <extref label="Vaststelling aanwijzingen voor beveiliging staatsgeheimen en vitale onderdelen van de rijksdienst" groep="bijlage" doc="jci1.3:c:BWBR0004489" bwb-id="BWBR0004489" label-id="4645454">Inleiding</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0006299" geldig-tot="2006-11-22" geldig-van="2001-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2001-04-01">
+          <extref label="Politiewet 1993" groep="artikel" doc="jci1.3:c:BWBR0006299&amp;artikel=6" bwb-id="BWBR0006299" label-id="2939374">6</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0006299" geldig-tot="2007-07-04" geldig-van="2006-11-22" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-11-22">
+          <extref label="Politiewet 1993" groep="artikel" doc="jci1.3:c:BWBR0006299&amp;artikel=6" bwb-id="BWBR0006299" label-id="2939374">6</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0006299" geldig-tot="2013-01-01" geldig-van="2007-07-04" zichtbaar-tot="9999-12-31" zichtbaar-van="2007-07-04">
+          <extref label="Politiewet 1993" groep="artikel" doc="jci1.3:c:BWBR0006299&amp;artikel=6" bwb-id="BWBR0006299" label-id="2939374">6</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2002-09-01" geldig-van="2001-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2001-04-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="106744">A,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-01-01" geldig-van="2002-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2002-09-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="106744">A,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-03-16" geldig-van="2005-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="106744">A,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2010-10-01" geldig-van="2009-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-07-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-07-01" geldig-van="2009-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-04-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2015-01-01" geldig-van="2010-10-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2018-01-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2024-01-01" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2002-09-01" geldig-van="2001-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2001-04-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="106774">B,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-01-01" geldig-van="2002-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2002-09-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="106774">B,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-03-16" geldig-van="2005-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="106774">B,</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2010-10-01" geldig-van="2009-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-07-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-04-01" geldig-van="2009-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-07-01" geldig-van="2009-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-04-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2015-01-01" geldig-van="2010-10-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2018-01-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2024-01-01" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+          <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0016435" geldig-tot="2008-03-01" geldig-van="2004-03-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2004-03-01">
+          <extref label="Besluit voorschrift informatiebeveiliging rijksdienst – bijzondere informatie" groep="bijlage" doc="jci1.3:c:BWBR0016435&amp;bijlage=3" bwb-id="BWBR0016435" label-id="5745774">3</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0016435" geldig-tot="2013-06-01" geldig-van="2008-03-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2008-03-01">
+          <extref label="Besluit voorschrift informatiebeveiliging rijksdienst – bijzondere informatie" groep="bijlage" doc="jci1.3:c:BWBR0016435&amp;bijlage=3" bwb-id="BWBR0016435" label-id="5745774">3</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0017000" geldig-tot="2005-05-01" geldig-van="2004-07-16" zichtbaar-tot="9999-12-31" zichtbaar-van="2004-07-16">
+          <extref label="Instructie beveiligingsambtenaar BZ" groep="artikel" doc="jci1.3:c:BWBR0017000&amp;artikel=7" bwb-id="BWBR0017000" label-id="5950144">7</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0017000" geldig-tot="2004-07-16" geldig-van="2004-07-05" zichtbaar-tot="9999-12-31" zichtbaar-van="2004-07-16">
+          <extref label="Instructie beveiligingsambtenaar BZ" groep="artikel" doc="jci1.3:c:BWBR0017000&amp;artikel=7" bwb-id="BWBR0017000" label-id="5950144">7</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0017000" geldig-tot="2005-12-01" geldig-van="2005-05-01" zichtbaar-tot="2005-12-01" zichtbaar-van="2004-07-16">
+          <extref label="Instructie beveiligingsambtenaar BZ" groep="artikel" doc="jci1.3:c:BWBR0017000&amp;artikel=7" bwb-id="BWBR0017000" label-id="5950144">7</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+          <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018602&amp;artikel=2" bwb-id="BWBR0018602" label-id="7210744">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+          <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018688&amp;artikel=2" bwb-id="BWBR0018688" label-id="7321984">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+          <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018688&amp;artikel=2" bwb-id="BWBR0018688" label-id="7321984">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0020442" geldig-tot="2014-03-07" geldig-van="2006-11-23" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-11-23">
+          <extref label="Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie vanaf 1994 (Ministerie van Defensie)" groep="bijlage" doc="jci1.3:c:BWBR0020442" bwb-id="BWBR0020442" label-id="8696974">Basisselectiedocument beleidsterrein ‘politie’, 1994–</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+          <extref label="Besluit aanwijzing verboden plaats (2006)" groep="artikel" doc="jci1.3:c:BWBR0020635&amp;artikel=2" bwb-id="BWBR0020635" label-id="8744634">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+          <extref label="Besluit aanwijzing verboden plaats (2006)" groep="artikel" doc="jci1.3:c:BWBR0020635&amp;artikel=2" bwb-id="BWBR0020635" label-id="8744634">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0022767" geldig-tot="2012-04-05" geldig-van="2007-11-08" zichtbaar-tot="9999-12-31" zichtbaar-van="2007-11-08">
+          <extref label="Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Volksgezondheid, Welzijn en Sport)" groep="bijlage" doc="jci1.3:c:BWBR0022767" bwb-id="BWBR0022767" label-id="9245264">Basisselectiedocument voor het beleidsterrein ‘politie’, 1945–1993</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0022767" geldig-tot="9999-12-31" geldig-van="2012-04-05" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-04-05">
+          <extref label="Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Volksgezondheid, Welzijn en Sport)" groep="bijlage" doc="jci1.3:c:BWBR0022767" bwb-id="BWBR0022767" label-id="9245264">Basisselectiedocument voor het beleidsterrein ‘politie’, 1945–1993</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0027277" geldig-tot="9999-12-31" geldig-van="2010-02-23" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-02-23">
+          <extref label="Instellingsbesluit Stuurgroep Nationale Veiligheid" groep="artikel" doc="jci1.3:c:BWBR0027277&amp;artikel=8" bwb-id="BWBR0027277" label-id="10408754">8</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+          <extref label="Besluit aanwijzing verboden plaats Korps landelijke politiediensten" groep="artikel" doc="jci1.3:c:BWBR0028314&amp;artikel=2" bwb-id="BWBR0028314" label-id="10724954">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028570" geldig-tot="9999-12-31" geldig-van="2010-10-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-10">
+          <extref label="Wetboek van Strafrecht BES" groep="artikel" doc="jci1.3:c:BWBR0028570&amp;artikel=82b" bwb-id="BWBR0028570" label-id="10846214">82b</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028586" geldig-tot="2010-10-11" geldig-van="2010-10-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-10">
+          <extref label="Veiligheidswet BES" groep="artikel" doc="jci1.3:c:BWBR0028586&amp;artikel=5" bwb-id="BWBR0028586" label-id="10859424">5</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028586" geldig-tot="2011-01-01" geldig-van="2010-10-11" zichtbaar-tot="2011-01-01" zichtbaar-van="2010-10-10">
+          <extref label="Veiligheidswet BES" groep="artikel" doc="jci1.3:c:BWBR0028586&amp;artikel=5" bwb-id="BWBR0028586" label-id="10859424">5</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028586" geldig-tot="9999-12-31" geldig-van="2011-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2011-01-01">
+          <extref label="Veiligheidswet BES" groep="artikel" doc="jci1.3:c:BWBR0028586&amp;artikel=5" bwb-id="BWBR0028586" label-id="10859424">5</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0028586" geldig-tot="2011-01-01" geldig-van="2010-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2011-01-01">
+          <extref label="Veiligheidswet BES" groep="artikel" doc="jci1.3:c:BWBR0028586&amp;artikel=5" bwb-id="BWBR0028586" label-id="10859424">5</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0030733" geldig-tot="9999-12-31" geldig-van="2012-10-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-10-01">
+          <extref label="Wet College voor de rechten van de mens" groep="artikel" doc="jci1.3:c:BWBR0030733&amp;artikel=7" bwb-id="BWBR0030733" label-id="11488704">7</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031514" geldig-tot="2018-01-01" geldig-van="2012-04-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-04-28">
+          <extref label="Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat" groep="artikel" doc="jci1.3:c:BWBR0031514&amp;artikel=28" bwb-id="BWBR0031514" label-id="11696854">28</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031514" geldig-tot="2018-02-09" geldig-van="2018-01-01" zichtbaar-tot="2018-02-09" zichtbaar-van="2012-04-28">
+          <extref label="Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat" groep="artikel" doc="jci1.3:c:BWBR0031514&amp;artikel=28" bwb-id="BWBR0031514" label-id="11696854">28</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031514" geldig-tot="9999-12-31" geldig-van="2018-02-09" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-02-09">
+          <extref label="Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat" groep="artikel" doc="jci1.3:c:BWBR0031514&amp;artikel=28" bwb-id="BWBR0031514" label-id="11696854">28</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031514" geldig-tot="2018-02-09" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-02-09">
+          <extref label="Beheersregeling documentaire informatieverzorging Infrastructuur en Waterstaat" groep="artikel" doc="jci1.3:c:BWBR0031514&amp;artikel=28" bwb-id="BWBR0031514" label-id="11696854">28</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031788" geldig-tot="2022-07-08" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+          <extref label="Politiewet 2012" groep="artikel" doc="jci1.3:c:BWBR0031788&amp;artikel=4" bwb-id="BWBR0031788" label-id="11762984">4</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031788" geldig-tot="2025-07-01" geldig-van="2022-07-08" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-08">
+          <extref label="Politiewet 2012" groep="artikel" doc="jci1.3:c:BWBR0031788&amp;artikel=4" bwb-id="BWBR0031788" label-id="11762984">4</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0031788" geldig-tot="9999-12-31" geldig-van="2025-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-07-01">
+          <extref label="Politiewet 2012" groep="artikel" doc="jci1.3:c:BWBR0031788&amp;artikel=4" bwb-id="BWBR0031788" label-id="11762984">4</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+          <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002" groep="artikel" doc="jci1.3:c:BWBR0038683&amp;artikel=2" bwb-id="BWBR0038683" label-id="13750984">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+          <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0042543&amp;artikel=2" bwb-id="BWBR0042543" label-id="15110674">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0043110" geldig-tot="9999-12-31" geldig-van="2020-01-31" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-01-31">
+          <extref label="Beheersregeling documentaire informatieverzorging NWO" groep="artikel" doc="jci1.3:c:BWBR0043110&amp;artikel=27" bwb-id="BWBR0043110" label-id="15272504">27</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+          <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0043673&amp;artikel=2" bwb-id="BWBR0043673" label-id="15442334">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+          <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0043673&amp;artikel=2" bwb-id="BWBR0043673" label-id="15442334">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+          <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0045234&amp;artikel=2" bwb-id="BWBR0045234" label-id="15916424">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0046977" geldig-tot="9999-12-31" geldig-van="2022-07-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-28">
+          <extref label="Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0046977&amp;artikel=1" bwb-id="BWBR0046977" label-id="16361994">1</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0046977" geldig-tot="9999-12-31" geldig-van="2022-07-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-28">
+          <extref label="Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0046977&amp;artikel=2" bwb-id="BWBR0046977" label-id="16362004">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0048378" geldig-tot="2026-01-01" geldig-van="2023-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-07-01">
+          <extref label="Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023" groep="tekst" doc="jci1.3:c:BWBR0048378" bwb-id="BWBR0048378" label-id="16712104">tekst</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0048378" geldig-tot="2026-02-24" geldig-van="2026-01-01" zichtbaar-tot="2026-02-24" zichtbaar-van="2023-07-01">
+          <extref label="Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023" groep="tekst" doc="jci1.3:c:BWBR0048378" bwb-id="BWBR0048378" label-id="16712104">tekst</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+          <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017" groep="artikel" doc="jci1.3:c:BWBR0048719&amp;artikel=2" bwb-id="BWBR0048719" label-id="16788454">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+          <extref label="Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD" groep="artikel" doc="jci1.3:c:BWBR0050329&amp;artikel=2" bwb-id="BWBR0050329" label-id="17154174">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+          <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0050335&amp;artikel=2" bwb-id="BWBR0050335" label-id="17155524">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+          <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0050937&amp;artikel=2" bwb-id="BWBR0050937" label-id="17306614">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+          <extref label="Besluit aanwijzing tot 'verboden plaatsen'" groep="artikel" doc="jci1.3:c:BWBR0051133&amp;artikel=2" bwb-id="BWBR0051133" label-id="17354184">2</extref>
+        </gerelateerd-regelingelement>
+        <gerelateerd-regelingelement bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+          <extref label="Besluit aanwijzing verboden plaats gemeente Den Haag 2026" groep="artikel" doc="jci1.3:c:BWBR0052479&amp;artikel=2" bwb-id="BWBR0052479" label-id="17720954">2</extref>
+        </gerelateerd-regelingelement>
+      </verwijzing-door>
+    </regeling>
+    <regelingelementen>
+      <regelingelement label-id="19514" groep="artikel" label="Artikel II">
+        <grondslag-voor>
+          <gerelateerde-regeling bwb-id="BWBR0003931" geldig-tot="2022-07-28" geldig-van="1986-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1986-05-01">
+            <extref doc="jci1.3:c:BWBR0003931" bwb-id="BWBR0003931">Besluit aanwijzing enige gebouwen te 's-Gravenhage en Wassenaar als verboden plaatsen</extref>
+          </gerelateerde-regeling>
+        </grondslag-voor>
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0003931" geldig-tot="2022-07-28" geldig-van="1986-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1986-05-01">
+            <extref label="Besluit aanwijzing enige gebouwen te 's-Gravenhage en Wassenaar als verboden plaatsen" groep="aanhef" doc="jci1.3:c:BWBR0003931" bwb-id="BWBR0003931" label-id="38414">aanhef</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+      <regelingelement label-id="19494" groep="artikel" label="Artikel I">
+        <grondslag-voor>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2014-01-06" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-01-01" geldig-van="2014-01-06" zichtbaar-tot="9999-12-31" zichtbaar-van="2014-01-06">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-12-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2016-12-01" geldig-van="2015-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-12-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2019-01-01" geldig-van="2018-03-15" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-03-15">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2017-01-01" geldig-van="2016-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-12-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2018-03-15" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2020-01-01" geldig-van="2019-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2022-03-01" geldig-van="2020-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2024-01-01" geldig-van="2022-03-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-03-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+            <extref doc="jci1.3:c:BWBR0038683" bwb-id="BWBR0038683">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+            <extref doc="jci1.3:c:BWBR0048719" bwb-id="BWBR0048719">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+            <extref doc="jci1.3:c:BWBR0050329" bwb-id="BWBR0050329">Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0046977" geldig-tot="9999-12-31" geldig-van="2022-07-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-28">
+            <extref doc="jci1.3:c:BWBR0046977" bwb-id="BWBR0046977">Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+            <extref doc="jci1.3:c:BWBR0042543" bwb-id="BWBR0042543">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+            <extref doc="jci1.3:c:BWBR0045234" bwb-id="BWBR0045234">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+            <extref doc="jci1.3:c:BWBR0050335" bwb-id="BWBR0050335">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+            <extref doc="jci1.3:c:BWBR0050937" bwb-id="BWBR0050937">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+            <extref doc="jci1.3:c:BWBR0051133" bwb-id="BWBR0051133">Besluit aanwijzing tot 'verboden plaatsen'</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+            <extref doc="jci1.3:c:BWBR0018602" bwb-id="BWBR0018602">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+            <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+            <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+            <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+            <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+            <extref doc="jci1.3:c:BWBR0052479" bwb-id="BWBR0052479">Besluit aanwijzing verboden plaats gemeente Den Haag 2026</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+            <extref doc="jci1.3:c:BWBR0028314" bwb-id="BWBR0028314">Besluit aanwijzing verboden plaats Korps landelijke politiediensten</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+            <extref doc="jci1.3:c:BWBR0031692" bwb-id="BWBR0031692">Besluit aanwijzing verboden plaatsen (mei 2012)</extref>
+          </gerelateerde-regeling>
+        </grondslag-voor>
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0002074" geldig-tot="9999-12-31" geldig-van="1997-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1997-05-01">
+            <extref label="Wet bescherming staatsgeheimen" groep="artikel" doc="jci1.3:c:BWBR0002074&amp;artikel=II" bwb-id="BWBR0002074" label-id="19514">II</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018602" bwb-id="BWBR0018602" label-id="7210724">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018602&amp;artikel=1" bwb-id="BWBR0018602" label-id="7210734">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688" label-id="7321964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688" label-id="7321964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018688&amp;artikel=1" bwb-id="BWBR0018688" label-id="7321974">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0018688&amp;artikel=1" bwb-id="BWBR0018688" label-id="7321974">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="aanhef" doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635" label-id="8744614">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="aanhef" doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635" label-id="8744614">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="artikel" doc="jci1.3:c:BWBR0020635&amp;artikel=1" bwb-id="BWBR0020635" label-id="8744624">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="artikel" doc="jci1.3:c:BWBR0020635&amp;artikel=1" bwb-id="BWBR0020635" label-id="8744624">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+            <extref label="Besluit aanwijzing verboden plaats Korps landelijke politiediensten" groep="aanhef" doc="jci1.3:c:BWBR0028314" bwb-id="BWBR0028314" label-id="10724934">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+            <extref label="Besluit aanwijzing verboden plaats Korps landelijke politiediensten" groep="artikel" doc="jci1.3:c:BWBR0028314&amp;artikel=1" bwb-id="BWBR0028314" label-id="10724944">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+            <extref label="Besluit aanwijzing verboden plaatsen (mei 2012)" groep="aanhef" doc="jci1.3:c:BWBR0031692" bwb-id="BWBR0031692" label-id="11738774">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+            <extref label="Besluit aanwijzing verboden plaatsen (mei 2012)" groep="artikel" doc="jci1.3:c:BWBR0031692&amp;artikel=1" bwb-id="BWBR0031692" label-id="11738784">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0032380" geldig-tot="9999-12-31" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+            <extref label="Aanpassingsbesluit Politiewet 2012" groep="aanhef" doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380" label-id="11907234">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002" groep="aanhef" doc="jci1.3:c:BWBR0038683" bwb-id="BWBR0038683" label-id="13750964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002" groep="artikel" doc="jci1.3:c:BWBR0038683&amp;artikel=1" bwb-id="BWBR0038683" label-id="13750974">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0042543" bwb-id="BWBR0042543" label-id="15110654">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0042543&amp;artikel=1" bwb-id="BWBR0042543" label-id="15110664">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673" label-id="15442314">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673" label-id="15442314">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0043673&amp;artikel=1" bwb-id="BWBR0043673" label-id="15442324">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="artikel" doc="jci1.3:c:BWBR0043673&amp;artikel=1" bwb-id="BWBR0043673" label-id="15442324">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0045234" bwb-id="BWBR0045234" label-id="15916404">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0045234&amp;artikel=1" bwb-id="BWBR0045234" label-id="15916414">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0046977" geldig-tot="9999-12-31" geldig-van="2022-07-28" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-07-28">
+            <extref label="Besluit aanwijzing plaatsen in gebruik bij TNO als verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0046977" bwb-id="BWBR0046977" label-id="16361984">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017" groep="aanhef" doc="jci1.3:c:BWBR0048719" bwb-id="BWBR0048719" label-id="16788434">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017" groep="artikel" doc="jci1.3:c:BWBR0048719&amp;artikel=1" bwb-id="BWBR0048719" label-id="16788444">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD" groep="aanhef" doc="jci1.3:c:BWBR0050329" bwb-id="BWBR0050329" label-id="17154154">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD" groep="artikel" doc="jci1.3:c:BWBR0050329&amp;artikel=1" bwb-id="BWBR0050329" label-id="17154164">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0050335" bwb-id="BWBR0050335" label-id="17155504">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0050335&amp;artikel=1" bwb-id="BWBR0050335" label-id="17155514">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0050937" bwb-id="BWBR0050937" label-id="17306594">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="artikel" doc="jci1.3:c:BWBR0050937&amp;artikel=1" bwb-id="BWBR0050937" label-id="17306604">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+            <extref label="Besluit aanwijzing tot 'verboden plaatsen'" groep="aanhef" doc="jci1.3:c:BWBR0051133" bwb-id="BWBR0051133" label-id="17354164">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+            <extref label="Besluit aanwijzing tot 'verboden plaatsen'" groep="artikel" doc="jci1.3:c:BWBR0051133&amp;artikel=1" bwb-id="BWBR0051133" label-id="17354174">1</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+            <extref label="Besluit aanwijzing verboden plaats gemeente Den Haag 2026" groep="aanhef" doc="jci1.3:c:BWBR0052479" bwb-id="BWBR0052479" label-id="17720934">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+            <extref label="Besluit aanwijzing verboden plaats gemeente Den Haag 2026" groep="artikel" doc="jci1.3:c:BWBR0052479&amp;artikel=1" bwb-id="BWBR0052479" label-id="17720944">1</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+      <regelingelement label-id="19594" groep="artikel" label="Artikel IV">
+        <grondslag-voor>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2014-01-06" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-01-01" geldig-van="2014-01-06" zichtbaar-tot="9999-12-31" zichtbaar-van="2014-01-06">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2015-12-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2016-12-01" geldig-van="2015-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-12-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2019-01-01" geldig-van="2018-03-15" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-03-15">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2017-01-01" geldig-van="2016-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-12-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2018-03-15" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2020-01-01" geldig-van="2019-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2022-03-01" geldig-van="2020-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="2024-01-01" geldig-van="2022-03-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2022-03-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0032380" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+            <extref doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380">Aanpassingsbesluit Politiewet 2012</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+            <extref doc="jci1.3:c:BWBR0038683" bwb-id="BWBR0038683">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+            <extref doc="jci1.3:c:BWBR0048719" bwb-id="BWBR0048719">Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+            <extref doc="jci1.3:c:BWBR0050329" bwb-id="BWBR0050329">Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+            <extref doc="jci1.3:c:BWBR0042543" bwb-id="BWBR0042543">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+            <extref doc="jci1.3:c:BWBR0045234" bwb-id="BWBR0045234">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+            <extref doc="jci1.3:c:BWBR0050335" bwb-id="BWBR0050335">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+            <extref doc="jci1.3:c:BWBR0050937" bwb-id="BWBR0050937">Besluit aanwijzing tot ‘verboden plaatsen’</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+            <extref doc="jci1.3:c:BWBR0051133" bwb-id="BWBR0051133">Besluit aanwijzing tot 'verboden plaatsen'</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+            <extref doc="jci1.3:c:BWBR0018602" bwb-id="BWBR0018602">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+            <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+            <extref doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673">Besluit aanwijzing verboden plaats</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+            <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+            <extref doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635">Besluit aanwijzing verboden plaats (2006)</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+            <extref doc="jci1.3:c:BWBR0052479" bwb-id="BWBR0052479">Besluit aanwijzing verboden plaats gemeente Den Haag 2026</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+            <extref doc="jci1.3:c:BWBR0028314" bwb-id="BWBR0028314">Besluit aanwijzing verboden plaats Korps landelijke politiediensten</extref>
+          </gerelateerde-regeling>
+          <gerelateerde-regeling bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+            <extref doc="jci1.3:c:BWBR0031692" bwb-id="BWBR0031692">Besluit aanwijzing verboden plaatsen (mei 2012)</extref>
+          </gerelateerde-regeling>
+        </grondslag-voor>
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0018602" geldig-tot="2005-09-01" geldig-van="2005-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-08-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018602" bwb-id="BWBR0018602" label-id="7210724">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-04-01" geldig-van="2005-09-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688" label-id="7321964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0018688" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2005-09-01">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0018688" bwb-id="BWBR0018688" label-id="7321964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-04-01" geldig-van="2006-12-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="aanhef" doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635" label-id="8744614">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0020635" geldig-tot="2013-08-15" geldig-van="2013-04-01" zichtbaar-tot="2013-08-15" zichtbaar-van="2006-12-10">
+            <extref label="Besluit aanwijzing verboden plaats (2006)" groep="aanhef" doc="jci1.3:c:BWBR0020635" bwb-id="BWBR0020635" label-id="8744614">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0028314" geldig-tot="2013-01-01" geldig-van="2010-09-24" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-09-24">
+            <extref label="Besluit aanwijzing verboden plaats Korps landelijke politiediensten" groep="aanhef" doc="jci1.3:c:BWBR0028314" bwb-id="BWBR0028314" label-id="10724934">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0031692" geldig-tot="9999-12-31" geldig-van="2012-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2012-08-01">
+            <extref label="Besluit aanwijzing verboden plaatsen (mei 2012)" groep="aanhef" doc="jci1.3:c:BWBR0031692" bwb-id="BWBR0031692" label-id="11738774">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0032380" geldig-tot="9999-12-31" geldig-van="2013-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2013-01-01">
+            <extref label="Aanpassingsbesluit Politiewet 2012" groep="aanhef" doc="jci1.3:c:BWBR0032380" bwb-id="BWBR0032380" label-id="11907234">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0038683" geldig-tot="2023-10-11" geldig-van="2016-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2016-11-01">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 60 Wet op de inlichtingen- en veiligheidsdiensten 2002" groep="aanhef" doc="jci1.3:c:BWBR0038683" bwb-id="BWBR0038683" label-id="13750964">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0042543" geldig-tot="2021-08-01" geldig-van="2019-11-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2019-11-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0042543" bwb-id="BWBR0042543" label-id="15110654">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="9999-12-31" geldig-van="2020-06-20" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673" label-id="15442314">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0043673" geldig-tot="2020-06-20" geldig-van="2020-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2020-06-20">
+            <extref label="Besluit aanwijzing verboden plaats" groep="aanhef" doc="jci1.3:c:BWBR0043673" bwb-id="BWBR0043673" label-id="15442314">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0045234" geldig-tot="2024-12-01" geldig-van="2021-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2021-08-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0045234" bwb-id="BWBR0045234" label-id="15916404">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0048719" geldig-tot="9999-12-31" geldig-van="2023-10-11" zichtbaar-tot="9999-12-31" zichtbaar-van="2023-10-11">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimten in gebruik bij diensten ex artikel 91 Wet op de inlichtingen- en veiligheidsdiensten 2017" groep="aanhef" doc="jci1.3:c:BWBR0048719" bwb-id="BWBR0048719" label-id="16788434">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050329" geldig-tot="9999-12-31" geldig-van="2024-10-26" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-10-26">
+            <extref label="Besluit aanwijzing als verboden plaats van ruimtes in gebruik bij de AIVD" groep="aanhef" doc="jci1.3:c:BWBR0050329" bwb-id="BWBR0050329" label-id="17154154">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050335" geldig-tot="2025-06-01" geldig-van="2024-12-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-12-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0050335" bwb-id="BWBR0050335" label-id="17155504">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0050937" geldig-tot="2025-08-01" geldig-van="2025-06-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-06-01">
+            <extref label="Besluit aanwijzing tot ‘verboden plaatsen’" groep="aanhef" doc="jci1.3:c:BWBR0050937" bwb-id="BWBR0050937" label-id="17306594">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0051133" geldig-tot="9999-12-31" geldig-van="2025-08-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2025-08-01">
+            <extref label="Besluit aanwijzing tot 'verboden plaatsen'" groep="aanhef" doc="jci1.3:c:BWBR0051133" bwb-id="BWBR0051133" label-id="17354164">aanhef</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0052479" geldig-tot="9999-12-31" geldig-van="2026-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2026-04-01">
+            <extref label="Besluit aanwijzing verboden plaats gemeente Den Haag 2026" groep="aanhef" doc="jci1.3:c:BWBR0052479" bwb-id="BWBR0052479" label-id="17720934">aanhef</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+      <regelingelement label-id="20004" groep="artikel" label="Artikel III A">
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-03-16" geldig-van="2005-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="106744">A,</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2005-03-16" geldig-van="2005-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2005-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="106774">B,</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2010-10-01" geldig-van="2009-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-07-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-07-01" geldig-van="2009-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-04-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2015-01-01" geldig-van="2010-10-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2018-01-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2024-01-01" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=A" bwb-id="BWBR0007981" label-id="7723754">A</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2010-10-01" geldig-van="2009-07-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-07-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-04-01" geldig-van="2009-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2009-07-01" geldig-van="2009-04-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2009-04-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2015-01-01" geldig-van="2010-10-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2018-01-01" geldig-van="2015-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2015-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="2024-01-01" geldig-van="2018-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2018-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+          <gerelateerd-regelingelement bwb-id="BWBR0007981" geldig-tot="9999-12-31" geldig-van="2024-01-01" zichtbaar-tot="9999-12-31" zichtbaar-van="2024-01-01">
+            <extref label="Coördinatiewet uitzonderingstoestanden" groep="bijlage" doc="jci1.3:c:BWBR0007981&amp;bijlage=B" bwb-id="BWBR0007981" label-id="7723764">B</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+      <regelingelement label-id="19564" groep="artikel" label="Artikel III">
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0002074" geldig-tot="9999-12-31" geldig-van="1997-05-01" zichtbaar-tot="9999-12-31" zichtbaar-van="1997-05-01">
+            <extref label="Wet bescherming staatsgeheimen" groep="artikel" doc="jci1.3:c:BWBR0002074&amp;artikel=II" bwb-id="BWBR0002074" label-id="19514">II</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+      <regelingelement label-id="19614" groep="artikel" label="Artikel V">
+        <verwijzing-door>
+          <gerelateerd-regelingelement bwb-id="BWBR0002074" geldig-tot="9999-12-31" geldig-van="2010-10-10" zichtbaar-tot="9999-12-31" zichtbaar-van="2010-10-10">
+            <extref label="Wet bescherming staatsgeheimen" groep="artikel" doc="jci1.3:c:BWBR0002074&amp;artikel=Va" bwb-id="BWBR0002074" label-id="10633294">Va</extref>
+          </gerelateerd-regelingelement>
+        </verwijzing-door>
+      </regelingelement>
+    </regelingelementen>
+  </gerelateerde-regelgeving>
+  <wijzigingen gegenereerd="2026-08-13T04:28:28">
+    <regeling>
+      <datum>
+        <details>
+          <betreft>Aanhangig</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>36994</dossiernummer>
+            </bron>
+          </ontstaansbron>
+        </details>
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>23791</dossiernummer>
+              <ondertekening>1996-04-03</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                <publicatiedatum>1996-07-09</publicatiedatum>
+                <publicatiejaar>1996</publicatiejaar>
+                <publicatienummer>366</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+        </details>
+      </datum>
+      <datum waarde="2013-01-01">
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>32891</dossiernummer>
+              <ondertekening>2012-07-12</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-2012-313">
+                <publicatiedatum>2012-07-13</publicatiedatum>
+                <publicatiejaar>2012</publicatiejaar>
+                <publicatienummer>313</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <ondertekening>2012-07-12</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-2012-314">
+                <publicatiedatum>2012-07-13</publicatiedatum>
+                <publicatiejaar>2012</publicatiejaar>
+                <publicatienummer>314</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+      <datum waarde="2010-10-10">
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>31959</dossiernummer>
+              <ondertekening>2010-05-17</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-2010-350">
+                <publicatiedatum>2010-09-01</publicatiedatum>
+                <publicatiejaar>2010</publicatiejaar>
+                <publicatienummer>350</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <ondertekening>2010-09-30</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-2010-389">
+                <publicatiedatum>2010-10-07</publicatiedatum>
+                <publicatiejaar>2010</publicatiejaar>
+                <publicatienummer>389</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+      <datum waarde="1999-06-01">
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>25392</dossiernummer>
+              <ondertekening>1999-04-19</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-1999-194">
+                <publicatiedatum>1999-05-27</publicatiedatum>
+                <publicatiejaar>1999</publicatiejaar>
+                <publicatienummer>194</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <ondertekening>1999-05-19</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-1999-198">
+                <publicatiedatum>1999-05-27</publicatiedatum>
+                <publicatiejaar>1999</publicatiejaar>
+                <publicatienummer>198</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+      <datum waarde="1997-05-01">
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>23791</dossiernummer>
+              <ondertekening>1996-04-03</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                <publicatiedatum>1996-07-09</publicatiedatum>
+                <publicatiejaar>1996</publicatiejaar>
+                <publicatienummer>366</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <ondertekening>1997-04-23</ondertekening>
+              <bekendmaking soort="Stb" urlidentifier="stb-1997-172">
+                <publicatiedatum>1997-04-29</publicatiedatum>
+                <publicatiejaar>1997</publicatiejaar>
+                <publicatienummer>172</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+      <datum waarde="1967-08-09">
+        <details>
+          <betreft>wijziging</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>8538</dossiernummer>
+              <ondertekening>1967-06-30</ondertekening>
+              <bekendmaking soort="Stb">
+                <publicatiejaar>1967</publicatiejaar>
+                <publicatienummer>377</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <dossiernummer>8538</dossiernummer>
+              <ondertekening>1967-06-30</ondertekening>
+              <bekendmaking soort="Stb">
+                <publicatiejaar>1967</publicatiejaar>
+                <publicatienummer>377</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+      <datum waarde="1951-04-30">
+        <details>
+          <betreft>nieuwe-regeling</betreft>
+          <ontstaansbron>
+            <bron type="oorspronkelijk">
+              <dossiernummer>1554</dossiernummer>
+              <ondertekening>1951-04-05</ondertekening>
+              <bekendmaking soort="Stb">
+                <publicatiejaar>1951</publicatiejaar>
+                <publicatienummer>92</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </ontstaansbron>
+          <inwerkingtreding>
+            <bron xsi:type="bron_groot" type="oorspronkelijk">
+              <dossiernummer>1554</dossiernummer>
+              <ondertekening>1951-04-05</ondertekening>
+              <bekendmaking soort="Stb">
+                <publicatiejaar>1951</publicatiejaar>
+                <publicatienummer>92</publicatienummer>
+              </bekendmaking>
+            </bron>
+          </inwerkingtreding>
+        </details>
+      </datum>
+    </regeling>
+    <regelingelementen>
+      <regelingelement label-id="19364">
+        <datum waarde="1951-04-30" versie-id="22292">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19394">
+        <datum waarde="1951-04-30" versie-id="22322">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19424">
+        <datum waarde="1951-04-30" versie-id="22352">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19464">
+        <datum waarde="1951-04-30" versie-id="22392">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19494">
+        <datum waarde="1951-04-30" label="Artikel I" versie-id="22422">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19514">
+        <datum waarde="1997-05-01" label="Artikel II" versie-id="22942">
+          <details isvoorafgaand="false">
+            <betreft>wijziging</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>23791</dossiernummer>
+                <ondertekening>1996-04-03</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                  <publicatiedatum>1996-07-09</publicatiedatum>
+                  <publicatiejaar>1996</publicatiejaar>
+                  <publicatienummer>366</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>1997-04-23</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1997-172">
+                  <publicatiedatum>1997-04-29</publicatiedatum>
+                  <publicatiejaar>1997</publicatiejaar>
+                  <publicatienummer>172</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+            <opmerkingen>
+              <opmerking type="Inwtr">
+                <al>Artikel IIIa kan volgens artikel 7, eerste lid en artikel 8,
+        eerste lid van de Coördinatiewet uitzonderingstoestanden in
+        beperkte en in algemene noodtoestand in werking worden gesteld.</al>
+              </opmerking>
+            </opmerkingen>
+          </details>
+        </datum>
+        <datum waarde="1951-04-30" label="Artikel II" versie-id="22442">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19544">
+        <datum waarde="1997-05-01" label="Artikel IIA" versie-id="22982">
+          <details isvoorafgaand="false">
+            <betreft>wijziging</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>23791</dossiernummer>
+                <ondertekening>1996-04-03</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                  <publicatiedatum>1996-07-09</publicatiedatum>
+                  <publicatiejaar>1996</publicatiejaar>
+                  <publicatienummer>366</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>1997-04-23</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1997-172">
+                  <publicatiedatum>1997-04-29</publicatiedatum>
+                  <publicatiejaar>1997</publicatiejaar>
+                  <publicatienummer>172</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+            <opmerkingen>
+              <opmerking type="Inwtr">
+                <al>Artikel IIIa kan volgens artikel 7, eerste lid en artikel 8,
+        eerste lid van de Coördinatiewet uitzonderingstoestanden in
+        beperkte en in algemene noodtoestand in werking worden gesteld.</al>
+              </opmerking>
+            </opmerkingen>
+          </details>
+        </datum>
+        <datum waarde="1967-08-09" label="Artikel IIA" versie-id="22472">
+          <details isvoorafgaand="false">
+            <betreft>nieuw</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>8538</dossiernummer>
+                <ondertekening>1967-06-30</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1967</publicatiejaar>
+                  <publicatienummer>377</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>8538</dossiernummer>
+                <ondertekening>1967-06-30</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1967</publicatiejaar>
+                  <publicatienummer>377</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19564">
+        <datum label="Artikel III">
+          <details>
+            <betreft>Aanhangig</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>36994</dossiernummer>
+              </bron>
+            </ontstaansbron>
+          </details>
+        </datum>
+        <datum waarde="1997-05-01" label="Artikel III" versie-id="23022">
+          <details isvoorafgaand="false">
+            <betreft>wijziging</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>23791</dossiernummer>
+                <ondertekening>1996-04-03</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                  <publicatiedatum>1996-07-09</publicatiedatum>
+                  <publicatiejaar>1996</publicatiejaar>
+                  <publicatienummer>366</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>1997-04-23</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1997-172">
+                  <publicatiedatum>1997-04-29</publicatiedatum>
+                  <publicatiejaar>1997</publicatiejaar>
+                  <publicatienummer>172</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+            <opmerkingen>
+              <opmerking type="Inwtr">
+                <al>Artikel IIIa kan volgens artikel 7, eerste lid en artikel 8,
+        eerste lid van de Coördinatiewet uitzonderingstoestanden in
+        beperkte en in algemene noodtoestand in werking worden gesteld.</al>
+              </opmerking>
+            </opmerkingen>
+          </details>
+        </datum>
+        <datum waarde="1951-04-30" label="Artikel III" versie-id="22492">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19594">
+        <datum waarde="1951-04-30" label="Artikel IV" versie-id="22522">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19614">
+        <datum waarde="2013-01-01" label="Artikel V" versie-id="19506442">
+          <details isvoorafgaand="false">
+            <betreft>wijziging</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>32891</dossiernummer>
+                <ondertekening>2012-07-12</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-2012-313">
+                  <publicatiedatum>2012-07-13</publicatiedatum>
+                  <publicatiejaar>2012</publicatiejaar>
+                  <publicatienummer>313</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>2012-07-12</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-2012-314">
+                  <publicatiedatum>2012-07-13</publicatiedatum>
+                  <publicatiejaar>2012</publicatiejaar>
+                  <publicatienummer>314</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+        <datum waarde="1999-06-01" label="Artikel V" versie-id="23582">
+          <details isvoorafgaand="false">
+            <betreft>wijziging</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>25392</dossiernummer>
+                <ondertekening>1999-04-19</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1999-194">
+                  <publicatiedatum>1999-05-27</publicatiedatum>
+                  <publicatiejaar>1999</publicatiejaar>
+                  <publicatienummer>194</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>1999-05-19</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1999-198">
+                  <publicatiedatum>1999-05-27</publicatiedatum>
+                  <publicatiejaar>1999</publicatiejaar>
+                  <publicatienummer>198</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+        <datum waarde="1951-04-30" label="Artikel V" versie-id="22542">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19634">
+        <datum waarde="1951-04-30" label="Artikel VI" versie-id="22562">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19674">
+        <datum waarde="1951-04-30" label="Artikel VII" versie-id="22602">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19694">
+        <datum waarde="1951-04-30" label="Artikel VIII" versie-id="22632">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19734">
+        <datum waarde="1951-04-30" label="Artikel IX" versie-id="22672">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19754">
+        <datum waarde="1951-04-30" versie-id="22692">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="19774">
+        <datum waarde="1951-04-30" versie-id="22712">
+          <details isvoorafgaand="false">
+            <betreft>nieuwe-regeling</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <dossiernummer>1554</dossiernummer>
+                <ondertekening>1951-04-05</ondertekening>
+                <bekendmaking soort="Stb">
+                  <publicatiejaar>1951</publicatiejaar>
+                  <publicatienummer>92</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="20004">
+        <datum label="Artikel III A" versie-id="23082">
+          <details isvoorafgaand="false">
+            <betreft>nieuw</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>23791</dossiernummer>
+                <ondertekening>1996-04-03</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-1996-366">
+                  <publicatiedatum>1996-07-09</publicatiedatum>
+                  <publicatiejaar>1996</publicatiejaar>
+                  <publicatienummer>366</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+          </details>
+        </datum>
+      </regelingelement>
+      <regelingelement label-id="10633294">
+        <datum waarde="2010-10-10" label="Artikel Va" versie-id="17607272">
+          <details isvoorafgaand="false">
+            <betreft>nieuw</betreft>
+            <ontstaansbron>
+              <bron type="oorspronkelijk">
+                <dossiernummer>31959</dossiernummer>
+                <ondertekening>2010-05-17</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-2010-350">
+                  <publicatiedatum>2010-09-01</publicatiedatum>
+                  <publicatiejaar>2010</publicatiejaar>
+                  <publicatienummer>350</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </ontstaansbron>
+            <inwerkingtreding>
+              <bron xsi:type="bron_groot" type="oorspronkelijk">
+                <ondertekening>2010-09-30</ondertekening>
+                <bekendmaking soort="Stb" urlidentifier="stb-2010-389">
+                  <publicatiedatum>2010-10-07</publicatiedatum>
+                  <publicatiejaar>2010</publicatiejaar>
+                  <publicatienummer>389</publicatienummer>
+                </bekendmaking>
+              </bron>
+            </inwerkingtreding>
+            <opmerkingen>
+              <opmerking type="Inwtr">
+                <al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al>
+              </opmerking>
+            </opmerkingen>
+          </details>
+        </datum>
+      </regelingelement>
+    </regelingelementen>
+  </wijzigingen>
+  <owms:meta owms-version="4.0">
+    <owms:kern>
+      <dcterms:identifier>BWBR0002074</dcterms:identifier>
+      <dcterms:title xml:lang="nl">Wet bescherming staatsgeheimen</dcterms:title>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:type>wet</dcterms:type>
+      <dcterms:modified>2026-08-13</dcterms:modified>
+      <overheid:authority>Algemene Zaken</overheid:authority>
+    </owms:kern>
+  </owms:meta>
+</wetstechnische-informatie>

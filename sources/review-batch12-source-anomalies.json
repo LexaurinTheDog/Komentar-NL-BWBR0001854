@@ -1,0 +1,79 @@
+{
+  "verified_at": "2026-10-20T18:02:08.316013+00:00",
+  "Wwft_reference": {
+    "supported_unit": "a80septies",
+    "current": "sources/review-batch12-BWBR0024282-effective.xml",
+    "historical": "sources/review-batch12-Wwft-historical.xml",
+    "historical_manifest_sha512_verified": true,
+    "historical_article1_text_sha256": "198632af2f6b4083ce5dfcfcfde4e57761469330464489a33f33cc566e68b5e0",
+    "current_article1_text_sha256": "0cf1eb7427d766bb12cda06b04b62e0a0ab2477d3d0fb41c0ce74e2f47a0c187",
+    "historic_definition_present": true,
+    "current_definition_absent": true,
+    "change_law": "sources/review-batch12-stb-2024-414.xml",
+    "change_location": "Article I/A/2",
+    "commencement": "sources/review-batch12-stb-2025-22.xml",
+    "published": "2025-02-03",
+    "effective": "2025-02-04",
+    "source_Sr_reference_preserved": true,
+    "interpretation": "Current Sr retains old reference; commentary expressly describes the mismatch and does not silently replace the definition or assume categorical impunity/extension. No definitive case-specific token classification claimed."
+  },
+  "WBS_catalog_hash_discrepancy": {
+    "supported_unit": "a80ter",
+    "manifest_sha512_verified": false,
+    "manifest_expected_sha512": "c8d6896288afd726c35f6c1c77f7a594756c574740d52df6a4a45bbb3e44e4d8ac330e212f70d43a9b692ec58088663e95fe875200eba5a1ea8521984f30cc9f",
+    "actual_sha512": "36bcf2a8286c2b74fb01aec7f2bf658164144d935325563c18773a40c35002ad3cc215089a2247497fad3b42ba389eeffa8c715f19d26f113840d7e87b56f87e",
+    "manifest_bytes": "5005",
+    "actual_bytes": 34580,
+    "official_current_body": "sources/review-batch12-BWBR0002074-effective.xml",
+    "official_current_sha256": "aee510bf3a66a81f2526e695328be411c9d93837e965fffb70bb3449c7e9b6e2",
+    "same_current_version_confirmed_by": "sources/review-batch12-WBS-wti.xml",
+    "latest_dated_effective_change_in_wti": "2013-01-01",
+    "local_original_raw": "/Volumes/LaCie/law-intake/eu/nl/bwb/_raw/bwb-bwbr0002074.xml.gz",
+    "local_gzip_sha256": "a9d304cb626a05c255ad4acb4dda5214b7e6a11b6a87a5b144471c32f5f31505",
+    "decompressed_matches_current_official": true,
+    "official_historical_body": "sources/review-batch12-WBS-historical.xml",
+    "compared_operative_articles": [
+      {
+        "article": "I",
+        "current_sha256": "2a17d881fcbdf2e27baa4d7097d880099142cfda8dba5c07d3ef0a0729e90750",
+        "historical_sha256": "2a17d881fcbdf2e27baa4d7097d880099142cfda8dba5c07d3ef0a0729e90750",
+        "equal": true
+      },
+      {
+        "article": "II",
+        "current_sha256": "9eb80bbbee4081a385302362ff0735883ec09a2a9e0d443a51be9aa20fe82005",
+        "historical_sha256": "9eb80bbbee4081a385302362ff0735883ec09a2a9e0d443a51be9aa20fe82005",
+        "equal": true
+      },
+      {
+        "article": "IV",
+        "current_sha256": "5131b337015d6f3108a6bb6f4cf1ce087fc9bccf2de851de346c3f93451dcdc3",
+        "historical_sha256": "5131b337015d6f3108a6bb6f4cf1ce087fc9bccf2de851de346c3f93451dcdc3",
+        "equal": true
+      }
+    ],
+    "disposition": "Official body is valid identified XML, byte-equal to preserved national intake, and selected operative articles equal separately fetched historical text; manifest and WTI both select2013version. Statutory explanation rests on those available primary texts. Catalog/body digest discrepancy remains unexplained; no assertion of successful manifest digest authentication for this external law."
+  },
+  "computer_definition": {
+    "supported_unit": "a80sexies",
+    "historical_court_text": "sources/review-batch12-judgment-2013-BY9718.xml",
+    "old_definition_location": "2.3.3",
+    "current_effective": "2019-03-01",
+    "change_law": "sources/review-batch12-stb-2018-322.xml",
+    "commencement": "sources/review-batch12-stb-2019-67.xml",
+    "disposition": "Historical storage-processing-transfer test is not imposed as current text."
+  },
+  "irrelevant_retrievals": [
+    {
+      "path": "sources/review-batch12-stb-2025-29.xml",
+      "disposition": "Valid official XML but unrelated Besluit bescherming slachtoffergegevens in processtukken; not used as source for Wwft commencement. Replaced for that issue by verified stb-2025-22.",
+      "sha256": "ce6fa381898dfbfd95f024f94283af62fe38b074d0f5947e0cd7a2dac75b8970"
+    }
+  ],
+  "annexes": "No annex in Sr, as independently inventoried in review-batch12-coverage.json. External Wwft annexes remain in its complete XML but are not Sr units; no law-wide commentary on those external statutes claimed.",
+  "unresolved_material_statutory_source_blockers": [],
+  "limitations": [
+    "WBS catalog digest discrepancy remains unexplained; exact checks and corroboration stated above.",
+    "The legal effect of the dangling Wwft definition is identified as an interpretive issue, not settled by an unverified rule or invented case."
+  ]
+}

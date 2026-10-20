@@ -4,578 +4,556 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a77t",
-    "a77tb",
-    "a77tc",
-    "a77u",
-    "a77v",
-    "a77w",
-    "a77wa",
-    "a77wb",
-    "a77wd",
-    "a77we",
-    "a77wf",
-    "a77x",
-    "a77y",
-    "a77z",
-    "a77za",
-    "a77aa",
-    "a77bb",
-    "a77cc",
-    "a77cca",
-    "a77dd"
+    "a77ee",
+    "a77ff",
+    "a77gg",
+    "a77hh",
+    "a78",
+    "a78a",
+    "a78b",
+    "a78c",
+    "a79",
+    "a80",
+    "a80bis",
+    "a80ter",
+    "a80quater",
+    "a80quinquies",
+    "a80sexies",
+    "a80septies",
+    "a81",
+    "a82",
+    "a82a",
+    "a83"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a77t",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs, conditions a/b, dates and exact Sv references; read complete selected Sv6:2:22/6:6:31/6:6:32.",
-      "finding_and_resolution": "Added actual two-year conditional-ending maximum, nonrunning period for prolonged evasion, special ending ground and distinction from conditional imposition. No source wording silently repaired.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77t",
-        "source_xml_id": "C44094791",
-        "effective_from": "2025-07-01",
-        "status": "goed",
-        "statutory_text_sha256": "17291a414f8c58262567d3d5b25b6c708541073c4c20f80c499ed58150029932",
-        "raw_article_sha256": "9676d2eebee0af5e647d4cf7eedd293c139979c4297cc12faf81893d0ed66120",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77s",
-        "a77x"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "c3759e1057b1195fa12d599d61816de083ca2982fe3c1023da15b5b8cd55ca6c",
-      "commentary_after_sha256": "dcfb14ca8c3b165ba93515abc745183769cb3e7e50a660e763d11e449ef3b13d"
-    },
-    {
-      "id": "a77tb",
+      "id": "a77ee",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read complete repealed element and metadata.",
-      "finding_and_resolution": "Retained: separate inserted article, repealed1January2020, no current power; historical query example appropriate.",
+      "review": "Read full repealed XML element, position, effective date and existing prose.",
+      "finding_and_resolution": "Retained: no operative members since1January2020; historical procedural references not imported as current law. Documentary example does not fabricate old powers.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77tb",
-        "source_xml_id": "C37503901",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77ee",
+        "source_xml_id": "C37504381",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "4dc20393a7690573b4c43fc0e5f971f8f443cde2ca29b1e73ec0dea89d7c7872",
+        "raw_article_sha256": "9a7488fdc4f3c9a8d0072b1a2fa9bbe97a33484d9e653b7faa34e102b9239378",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [],
       "verified_authorities": [],
-      "commentary_before_sha256": "b798581a59c1fd94280db79d7b3ef1fe8cf6404de5075a5e498b4185f706cd50",
-      "commentary_after_sha256": "b798581a59c1fd94280db79d7b3ef1fe8cf6404de5075a5e498b4185f706cd50"
+      "commentary_before_sha256": "1e0ba5e860b4f6c108cc021d56989548ffb973185a6b428dfb118cc0b2d9c45e",
+      "commentary_after_sha256": "1e0ba5e860b4f6c108cc021d56989548ffb973185a6b428dfb118cc0b2d9c45e"
     },
     {
-      "id": "a77tc",
+      "id": "a77ff",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read complete repealed element and metadata.",
-      "finding_and_resolution": "Retained: no active content supplementing77t; historical execution reference not current.",
+      "review": "Read full repealed element, date and both77ggparagraphs.",
+      "finding_and_resolution": "Retained: separately identified repealed slot; active attempt/participation and concurrence rule remains under77gg. No numbering shift.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77tc",
-        "source_xml_id": "C37504071",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77ff",
+        "source_xml_id": "C37503811",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "e7a05071a14ac40df1349594a0f51dfc28e96e8f6d85d05e3dc5beb1b52ad65d",
+        "raw_article_sha256": "fd2396af469edcd3136a9db618a53a15f08b0351302978c937102837221182d3",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a77t"
+        "a77gg"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "d25715cb94897ce50387603f01936b09b262efcb96ea981d9b58aea90727ddf9",
-      "commentary_after_sha256": "d25715cb94897ce50387603f01936b09b262efcb96ea981d9b58aea90727ddf9"
+      "commentary_before_sha256": "c4b594ed2a93d4a6268ee65f033dad0084f399e558a8a96909b5d90832db51ef",
+      "commentary_after_sha256": "c4b594ed2a93d4a6268ee65f033dad0084f399e558a8a96909b5d90832db51ef"
     },
     {
-      "id": "a77u",
+      "id": "a77gg",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read complete repealed element, date and preceding/following IDs.",
-      "finding_and_resolution": "Retained: source slot real, old expert-report example does not invent historical content or current power.",
+      "review": "Read both complete paragraphs and77a,77c,77h,77i,77s,45,46,48,63.",
+      "finding_and_resolution": "Retained: equal juvenile sanction framework for listed inchoate/participation forms, no automatic adult maximum reduction; separate facts treated as one for sanctioning and63applies to punishments. Does not erase proof/qualification of each fact or prescribe equal actual severity.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77u",
-        "source_xml_id": "C37503221",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "1801c40f7325e7a17acdb3e7a66c35284b57bbae20bb19a0edd91b52b7403306",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77s"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "6074e91347064fa63b095328dfb6e45a176d972f5ac8871be6a9d42c083e5afd",
-      "commentary_after_sha256": "6074e91347064fa63b095328dfb6e45a176d972f5ac8871be6a9d42c083e5afd"
-    },
-    {
-      "id": "a77v",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read complete repealed element/date; read38v in fresh source.",
-      "finding_and_resolution": "Retained: distinguishes repealed77v from active38v and appropriate sanction regime.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77v",
-        "source_xml_id": "C37504021",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "cb40ed82f68e998f5728842209bb9b936cc7dc558bdc5e86b649304c78529632",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a38v"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "f2b5da40a8c51c7c6554326afc2a8e06e5972ebac865d555ff02977e3d9ce2c0",
-      "commentary_after_sha256": "f2b5da40a8c51c7c6554326afc2a8e06e5972ebac865d555ff02977e3d9ce2c0"
-    },
-    {
-      "id": "a77w",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all9paragraphs and each alternative; checked77c and77za.",
-      "finding_and_resolution": "Clarified best possible developmental interest, at least1expert, year counted from opening trial, OR risk criterion and difference from bodily-integrity test of77za. One-year limit explicitly imposition, not entire execution history.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77w",
-        "source_xml_id": "C38709531",
-        "effective_from": "2020-07-25",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77gg",
+        "source_xml_id": "C34033791",
+        "effective_from": "2001-02-01",
         "status": "goed",
-        "statutory_text_sha256": "a05746cf268801d8146b185ac85fa1f84412916f264bd2804ea7d84b6652aec4",
-        "raw_article_sha256": "c502a9aaf95f52c93d063aeb9433924e69a51d6a8847d8225163b531b989859b",
+        "statutory_text_sha256": "eebf44ae625ae27bd9461f9f2b476fae0b4ee8e346dcfb21ca0da7de8ea5bab8",
+        "raw_article_sha256": "e185121cbc4bf018e3e2ce7849863ab5b9b752ac4852e51d8d61de790868b6b0",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
+        "a77a",
         "a77c",
-        "a77wa",
-        "a77wb",
-        "a77za"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "f7f7d325a0011237ef443e3b2d7067efceec81d7cf32b742ae05c239f151bfd6",
-      "commentary_after_sha256": "5c38dd9b8b363afe2b34d270eeec763913799866fb5673f7a350b66e0c9a9783"
-    },
-    {
-      "id": "a77wa",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs and complete current Jeugdwet1.1 definitions.",
-      "finding_and_resolution": "Added scope of help, criminal-youth exception to18year limit and certified-institution definition; voluntary help not automatically judicial measure.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77wa",
-        "source_xml_id": "C34033671",
-        "effective_from": "2015-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "c966fabc2ef14d413c7dd70bdc43c940a74e4b27c8004f3f86020b86f708c107",
-        "raw_article_sha256": "9ff5a2aa5785200c0c9a7c79053e8a000b932f31376e5228a591fe05cf0b6300",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77w",
-        "a77aa"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "42acd695cbb446dfd2bee118477aee21dbea04405def86661e94ab06e125d99c",
-      "commentary_after_sha256": "daffd13c3d7a4382bb0f668ac552cb0517ccd2b0d4ca3134e541683482e8b333"
-    },
-    {
-      "id": "a77wb",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs, month ratio, full editorial note and effective metadata.",
-      "finding_and_resolution": "Retained exact9month example, whole time units and mandatory advance order; explained former77wc numbering rather than invent extra missing unit.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77wb",
-        "source_xml_id": "C40912601",
-        "effective_from": "2023-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "60416e259d6b27d5fe8b822f3a1a466110d5caaa147c43b14add84e1c68d2256",
-        "raw_article_sha256": "b4d607c166e34e0bde68cb1c101b33d9bfb1ca71065008de9e7d317fb0279389",
-        "editorial_notes": [
-          "Voorheen art. 77wc."
-        ]
-      },
-      "internal_cross_reference_source_checks": [
-        "a77w",
-        "a77n"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "883e997b60c03ac4022d6b5872db627a37dc8763e969a84eb144bf3d06ae60cd",
-      "commentary_after_sha256": "c4ae233a6913b4dfaf20a502a7298c49c6e2750e43d9bf1a7e82e327711c7d91"
-    },
-    {
-      "id": "a77wd",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read complete repealed element/date and its actual position.",
-      "finding_and_resolution": "Retained: no hidden gap or extra active execution power between77wb/77we.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77wd",
-        "source_xml_id": "C37504151",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "2ee11d489fcd6e91ab99d27d0dcc8673d1963677cc082730a3ef705dd7ff8069",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77wb",
-        "a77we"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "fe62079a2fe700dbfbabc260a2783125c49410dad4cbfd0794535d43577273e7",
-      "commentary_after_sha256": "fe62079a2fe700dbfbabc260a2783125c49410dad4cbfd0794535d43577273e7"
-    },
-    {
-      "id": "a77we",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs, complete38v/38w and Sv6:3:10.",
-      "finding_and_resolution": "Added five-year measure limit,3day minimum per violation,6month aggregate cap and18at-execution substitution only if judgment determines. Distinguished77wb monthly ratio.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77we",
-        "source_xml_id": "C37503671",
-        "effective_from": "2020-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "f599157532ca53cd7a2c6c08da1a9db3642723656741132fa22b59c413812b4e",
-        "raw_article_sha256": "3e573b3552b6c915d0b066bb81e40182283c81c1047c773538d481e59f706fe1",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a38v",
-        "a38w",
-        "a77wb"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "84b70baed597045c5fc71c75a6af30b3383b1a0528e9db8d038aaf8116facc47",
-      "commentary_after_sha256": "f5d8bedb493443d6810b0583660791ed380de76c19dbbe96302dcc61ed73c5ae"
-    },
-    {
-      "id": "a77wf",
-      "reviewed": true,
-      "disposition": "retained_after_review",
-      "review": "Read complete repealed element/date and77we reference.",
-      "finding_and_resolution": "Retained: no current added freedom-restricting execution norm.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77wf",
-        "source_xml_id": "C37504361",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "fbdaa6854dc3c9376cc11e08e0b653f5357484174a970e96a371a53c4c679de2",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77we"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "dc3956b349b91ce807269bc8c1a6ba54d97927ef07cf648ee4b0f059bea849e0",
-      "commentary_after_sha256": "dc3956b349b91ce807269bc8c1a6ba54d97927ef07cf648ee4b0f059bea849e0"
-    },
-    {
-      "id": "a77x",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs, exhaustive sanction list, partial/whole distinction,77s and Sv6:6:10a; full HR2026:1003.",
-      "finding_and_resolution": "Added current distinction between immediately operative PIJ conditions and forbidden pre-finality PIJ execution/temporary powers; described temporary admission separately.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77x",
-        "source_xml_id": "C38111441",
-        "effective_from": "2020-07-25",
-        "status": "goed",
-        "statutory_text_sha256": "778e24679d38d4541b03e520cdcbd63b72680d9ed8a0409ed0efbe0adb0d1011",
-        "raw_article_sha256": "d239282adeb69cc01ce5b345a84d13ff64f62d1b05defe940b985e39b2925728",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
+        "a77h",
+        "a77i",
         "a77s",
-        "a77y",
-        "a77z",
-        "a77za"
-      ],
-      "verified_authorities": [
-        "ECLI:NL:HR:2026:1003"
-      ],
-      "commentary_before_sha256": "8bd151adf81d5795965208e9dc4da7873500dc0f06a91f20f8c60ef3853bb598",
-      "commentary_after_sha256": "a479f016668f3becdd3ca836772881ae896e530885b37730b347399fa82e8517"
-    },
-    {
-      "id": "a77y",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read both paragraphs and all3start routes,366aSv; full2017:3186 and2026:1003.",
-      "finding_and_resolution": "Preserved accurate current routes; added PIJ holding and explained superseded absence of2c/old3, without importing historical text.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77y",
-        "source_xml_id": "C37504281",
-        "effective_from": "2020-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "eeccf24faa22c15336cf026285e4e7b8a8ab9f0e17814be60395cb968aaaaad2",
-        "raw_article_sha256": "5552c0228f7d80346b918e9ed538ecc0c9dda98e09b96c28712aba1a0b497482",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77x",
-        "a77za",
-        "a77bb"
-      ],
-      "verified_authorities": [
-        "ECLI:NL:HR:2017:3186",
-        "ECLI:NL:HR:2026:1003"
-      ],
-      "commentary_before_sha256": "b263696a38912f8eb2700adf95c71c10f5b807795299d698c70457632224d21a",
-      "commentary_after_sha256": "e4373041570a7adbc749348129cc9028a1e705de9fc74469947aeb62cd7d6f0f"
-    },
-    {
-      "id": "a77z",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all5paragraphs, all15conditions,3a/b and exact5reference list.",
-      "finding_and_resolution": "Made both financial maxima explicit and preserved distinction between reparation/payment/guarantee;5covers10/11/15/13, not12/14. Electronic monitoring attached to existing condition.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77z",
-        "source_xml_id": "C38111461",
-        "effective_from": "2020-07-25",
-        "status": "goed",
-        "statutory_text_sha256": "36e99bf3b8239c8e52cd83c546e98f994385fe9fa2d6b5c41bbc290588581798",
-        "raw_article_sha256": "9c501e13a8e4d93655a11ff91e03025202210ff82107de751e0bd0b8fe688e63",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77x",
-        "a77y",
-        "a77za",
-        "a77aa"
+        "a45",
+        "a46",
+        "a48",
+        "a63"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "ace03728a16f30f1bff5810fcd8e706b7ab3bc3369bc02e1ab22c46b2f416164",
-      "commentary_after_sha256": "ce1b2604c0dd320e819c7eb8ea7a369a9eef00744331c144a1a80eef57c36c63"
+      "commentary_before_sha256": "77eadb1f0742245470bcf38143487b8a6c23d667fcf6061783ae7a0d6e86fcec",
+      "commentary_after_sha256": "77eadb1f0742245470bcf38143487b8a6c23d667fcf6061783ae7a0d6e86fcec"
     },
     {
-      "id": "a77za",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read single complete operative sentence and source history; full2HRjudgments and Sv6:6:6.",
-      "finding_and_resolution": "Added PIJ availability and current no-execution-before-finality limit; explained special-condition prerequisite and old case context. Current lifting/suspension located inSv, not imaginary current77za2.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77za",
-        "source_xml_id": "C37504231",
-        "effective_from": "2020-01-01",
-        "status": "goed",
-        "statutory_text_sha256": "e8075ec4e69e6132c049dd4e94f98cd8c984a407d1c20c14f31de94e7845ae01",
-        "raw_article_sha256": "3417c0058f7305b47c2c4d38e21bf8813c584a51d132d457c2fa9c6e7316035c",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77x",
-        "a77y",
-        "a77z",
-        "a77aa"
-      ],
-      "verified_authorities": [
-        "ECLI:NL:HR:2017:3186",
-        "ECLI:NL:HR:2026:1003"
-      ],
-      "commentary_before_sha256": "954f21bebba3272b668b7a88cbe76b2f9bd7a953a1308c2074620ff1e210b190",
-      "commentary_after_sha256": "a2fd2c5096a1726b4af0b97624105c72eb1fa48918a94ab6a4b1d8e41aa32d19"
-    },
-    {
-      "id": "a77aa",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read all4paragraphs,16age wording,14c6 and Jeugdwet certified-institution definition.",
-      "finding_and_resolution": "Clarified4only refers to1/2, certification versus provider, retained civil/criminal distinction and age-at-decision wording. No full review of BW1:255 or implementing decree claimed.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77aa",
-        "source_xml_id": "C40912571",
-        "effective_from": "2022-10-01",
-        "status": "goed",
-        "statutory_text_sha256": "23cde937166ef461b8147ad1fe009bab1ff68c8a97dd4ae4daff3af7d53d1295",
-        "raw_article_sha256": "e4e85d1307b1402eab886a63c458c545beed57a91740869b6eeee9d00f9a85be",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a14c",
-        "a77z"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "58d483e993a0eee8edd2eeef32078fb6bd871b6b5b62f13d0ad2eeece1963c9f",
-      "commentary_after_sha256": "5016489619cb366c7d8a96419c040bc64fb2834637e8894fd1579cee0c8c4795"
-    },
-    {
-      "id": "a77bb",
-      "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read complete incorporation sentence; actual whole Sv366a and77y.",
-      "finding_and_resolution": "Replaced deferred external check with verified3notification routes and content, retaining corresponding youth application.",
-      "unresolved_material_issue": false,
-      "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77bb",
-        "source_xml_id": "C34033761",
-        "effective_from": "1998-02-02",
-        "status": "goed",
-        "statutory_text_sha256": "ce28e6ddd7233310fa5361e6de09a767b35bc2d18552e83b627f2a4e766b83ed",
-        "raw_article_sha256": "007d37912a6893b13d4c17784d07fcd378c1a7770750453ba2c8b89174783e6c",
-        "editorial_notes": []
-      },
-      "internal_cross_reference_source_checks": [
-        "a77x",
-        "a77y",
-        "a77z"
-      ],
-      "verified_authorities": [],
-      "commentary_before_sha256": "76fca6b711de9b1a2bfb121b5eb5778916d5b5e84975f0d4367c9ec8486b2be5",
-      "commentary_after_sha256": "cfd525a4bec6630dc808e37b6406fec892d146a6280848f4b35c86ec81ee54a8"
-    },
-    {
-      "id": "a77cc",
+      "id": "a77hh",
       "reviewed": true,
       "disposition": "retained_after_review",
-      "review": "Read complete repealed element/date and current neighboring provisions.",
-      "finding_and_resolution": "Retained: old amendment/execution reference alone cannot establish current jurisdiction; no historical text reconstructed.",
+      "review": "Read complete repealed element, date and actual77creference; read existing thematic checklist.",
+      "finding_and_resolution": "Retained:77cending reference does not revive repealed77hh; checklist concerns juvenile framework already covered and makes no new missing article.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77cc",
-        "source_xml_id": "C37504421",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77hh",
+        "source_xml_id": "C37503531",
         "effective_from": "2020-01-01",
         "status": "vervallen",
         "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "ddf30161c5a99be14c5c0ff5cfef3303bd4fa38ffb598d48164b2d769b5ffb70",
+        "raw_article_sha256": "a465faa70413a2e1b4bc308db0a3d10e806e5703a66e98b3ffdc53acc91532b9",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a77x",
-        "a77z"
+        "a77c"
       ],
       "verified_authorities": [],
-      "commentary_before_sha256": "2956d6dc5d563fc03522a640c7ff8f324a49ebcbeee9d43c9e7a36e04cc06b06",
-      "commentary_after_sha256": "2956d6dc5d563fc03522a640c7ff8f324a49ebcbeee9d43c9e7a36e04cc06b06"
+      "commentary_before_sha256": "f279ff63f76623e493f2ba10e1236b60f2b1d4c0f02d4d832e8fbe243c107465",
+      "commentary_after_sha256": "f279ff63f76623e493f2ba10e1236b60f2b1d4c0f02d4d832e8fbe243c107465"
     },
     {
-      "id": "a77cca",
+      "id": "a78",
       "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read complete repealed element/date and full2017:3186.",
-      "finding_and_resolution": "Added precise historical5.7.2 context of preliminary execution, expressly not a current power.",
+      "disposition": "retained_after_review",
+      "review": "Read full interpretive sentence, exception clause and45,46,48.",
+      "finding_and_resolution": "Retained: includes complicity, attempt, preparation where legally punishable; not a free-standing extension to unpunishable preparations or infractions. Specific contrary provision remains decisive.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77cca",
-        "source_xml_id": "C37503271",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "519616107a7bd92a24845887545d0c7a85370adee2f1c2a6ac378dc8c49a6cd5",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel78",
+        "source_xml_id": "C34033821",
+        "effective_from": "1994-04-01",
+        "status": "goed",
+        "statutory_text_sha256": "4f7d419b64ca8f21a01bce0ab90142f523ae5c04c75f4a9f70fa27f99711bcbd",
+        "raw_article_sha256": "bfc040e01ab532dac9cc1650c0f165145de550533f04444661ca25bbf0c4f667",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a45",
+        "a46",
+        "a48"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "970a3ad61e65e7db150e1e5ba4870cc20f2bca275c6ee05958ceebfe723b47d3",
+      "commentary_after_sha256": "970a3ad61e65e7db150e1e5ba4870cc20f2bca275c6ee05958ceebfe723b47d3"
+    },
+    {
+      "id": "a78a",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read all4paragraphs and each letter of4; selected effective Besluit videoconferentie2,3,4,6read completely.",
+      "finding_and_resolution": "Expanded actual consent exceptions and special-security override, impairment exception, objections/24hour notification and technical safeguards. Maintained distinction from creating a new hearing power.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel78a",
+        "source_xml_id": "C34033891",
+        "effective_from": "2007-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "e79cb2d0bd9446037e796085937e523361c6b95c4202897dbf7158a109ddcb93",
+        "raw_article_sha256": "2216bd2dea851ca99aa9448270dbf11854539eeb65ac4bcdabff6d50f67caa04",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [],
-      "verified_authorities": [
-        "ECLI:NL:HR:2017:3186"
-      ],
-      "commentary_before_sha256": "36c123dd93374cd95669a4b437bb89a943261719653c003ec5ac63a2d5e0e032",
-      "commentary_after_sha256": "f8414a1ad6f98f285aea533d1d78773a3aca06bfc35d4b45971c3dacea03888c"
+      "verified_authorities": [],
+      "commentary_before_sha256": "686af337881587c9671818987fc1d482b38fdb354f535a61d017e8ea3d6aa796",
+      "commentary_after_sha256": "3984e5c037d705aaa01bd59c64d700159a558b2c0ba7cad12b0a7308a662f004"
     },
     {
-      "id": "a77dd",
+      "id": "a78b",
       "reviewed": true,
-      "disposition": "corrected",
-      "review": "Read complete repealed element/date; both complete HRjudgments and referenced operative source.",
-      "finding_and_resolution": "Added historical detention/PIJ distinction and practical check sequence for this thematic group, without pretending title ends here.",
+      "disposition": "retained_after_review",
+      "review": "Read complete sentence, exception and full existing illustration.",
+      "finding_and_resolution": "Retained: interpretive inclusion of strafbeschikking does not equate all sanction types/procedures or waive finality requirements of a specific norm.",
       "unresolved_material_issue": false,
       "source_evidence": {
-        "path": "sources/review-batch11-effective.xml",
-        "official_path": "/BoekEerste/TiteldeelVIIIA/Artikel77dd",
-        "source_xml_id": "C37504431",
-        "effective_from": "2020-01-01",
-        "status": "vervallen",
-        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-        "raw_article_sha256": "86dfa34f6a53dad40632dd80297ef3f6e941bd458fa1e8606903917710cc3c0c",
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel78b",
+        "source_xml_id": "C33380271",
+        "effective_from": "2008-02-01",
+        "status": "goed",
+        "statutory_text_sha256": "16ca314302d3abf9d34669f027c0aff9b5337a9f744929872aa8bae33b8a4674",
+        "raw_article_sha256": "f5632be9b0edb5061404263c445d762a634ac0f28ccaafd5fd2487f3901cddab",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "8cb66b0d3c3f0b5186da143a2068cd3ad29f6fdc5b34569ab504edf6004d0921",
+      "commentary_after_sha256": "8cb66b0d3c3f0b5186da143a2068cd3ad29f6fdc5b34569ab504edf6004d0921"
+    },
+    {
+      "id": "a78c",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read full sentence,43a/43b/68and full primary HR2026:904; local primary merits compared.",
+      "finding_and_resolution": "Added territorial recidive limit for Caribbean convictions, distinction from permissible sentencing weight within maximum; true reason for separate sentence reduction preserved.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel78c",
+        "source_xml_id": "C34033841",
+        "effective_from": "2010-07-01",
+        "status": "goed",
+        "statutory_text_sha256": "2f7398051386e2eb3f62cdf59576342d1de8b950c5a7386a73109627338a93d0",
+        "raw_article_sha256": "324f36f313ac039cafbcf1cec41ed11bccfa84805d625c798016a0486352e953",
         "editorial_notes": []
       },
       "internal_cross_reference_source_checks": [
-        "a77w",
-        "a77we",
-        "a77x",
-        "a77t"
+        "a43a",
+        "a43b",
+        "a68"
       ],
       "verified_authorities": [
-        "ECLI:NL:HR:2017:3186",
-        "ECLI:NL:HR:2026:1003"
+        "ECLI:NL:HR:2026:904"
       ],
-      "commentary_before_sha256": "eb67becbf5d589b1c7ee403edfcaa3705e3793894cdff47dc675d4631f81d146",
-      "commentary_after_sha256": "bbfc714ff2b498bf8222aa2e4630ea57c47c228fa025e3127639fcc81d6887bf"
+      "commentary_before_sha256": "295c1acc0d8fe1971644121f0c846d64e413256c9fb2a8ef3eedb597de22886b",
+      "commentary_after_sha256": "c34599dd314771813ea0b5c792a668d23a20904d23f68f23f8139693a254bd5a"
+    },
+    {
+      "id": "a79",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read full definition and45; tested existing example against statutory initiation threshold.",
+      "finding_and_resolution": "Retained: aanslag arises at manifestation of intent through beginning of execution; completed protected consequence not necessary; mere wishes/preparation not equated with execution.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel79",
+        "source_xml_id": "C14205471",
+        "effective_from": "1920-08-06",
+        "status": "goed",
+        "statutory_text_sha256": "3e2ddd7967511e1420cf19b3c0dee4ac404d98bc9861e5220ae9feb53135938c",
+        "raw_article_sha256": "c9ca2548b38d42a1972c1775860c9c5a1d91092f9d5f3563a23589c4128268d4",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a45"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "e11632d389f37af1378cd7098f7cb0f226a5d6479f0c249094182e4d8aeadc7a",
+      "commentary_after_sha256": "e11632d389f37af1378cd7098f7cb0f226a5d6479f0c249094182e4d8aeadc7a"
+    },
+    {
+      "id": "a80",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete agreement definition and96/289a; evaluated existing example and discovered2017:416candidate.",
+      "finding_and_resolution": "Retained: agreement of at least2persons and separate statutory criminalization required.2017case concerns preparation/promotion, not added as a general80holding.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80",
+        "source_xml_id": "C15940521",
+        "effective_from": "1886-09-01",
+        "status": "goed",
+        "statutory_text_sha256": "8820ceb6fad7e40144ee4758ff001e1d25470c2663ac7431f739cd42e08bd6b6",
+        "raw_article_sha256": "70c0dbc7b46ed5301a610e5487900dfec336288863a99c71dd413ccb6fe36bbf",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a96",
+        "a289a"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "e063b9bbbe5520140a2bc420101d1ec0d56c180b8b6ca72042f3de3f4b3a67b3",
+      "commentary_after_sha256": "e063b9bbbe5520140a2bc420101d1ec0d56c180b8b6ca72042f3de3f4b3a67b3"
+    },
+    {
+      "id": "a80bis",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read complete two-object definition and lawfulness wording.",
+      "finding_and_resolution": "Retained: destruction/unlawful change of constitutional government form or succession; lawful advocacy distinguished from independent criminal elements. No political view treated as offense.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80bis",
+        "source_xml_id": "C14205491",
+        "effective_from": "1920-08-06",
+        "status": "goed",
+        "statutory_text_sha256": "55ced6b8fe7a00d581e381dff6a19fec1962e7e573df232e09e18f47acaf8f4c",
+        "raw_article_sha256": "c1770db4ded7757df70269b99e4a67bbbf31c86700d8119a015a1ef6e4ddfdd2",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "55a3aa587d788c4ef3dcf63b2bcf7d08dadb948c07ce3463983ad974d3a508cd",
+      "commentary_after_sha256": "55a3aa587d788c4ef3dcf63b2bcf7d08dadb948c07ce3463983ad974d3a508cd"
+    },
+    {
+      "id": "a80ter",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read complete definition,98(2), effective WBSI,II,IVand separately fetched historical equivalents.",
+      "finding_and_resolution": "Added state/state-enterprise and contractual-site distinction, temporal scope, agreement safeguards and visibility of designation. Actual hypothetical designation not invented. WBSmanifest digest mismatch openly recorded with corroborating bodies.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80ter",
+        "source_xml_id": "C14205501",
+        "effective_from": "1951-04-30",
+        "status": "goed",
+        "statutory_text_sha256": "34f418495f0951ad66508fccb1e27d879364458953d1411eae019531bc18efcf",
+        "raw_article_sha256": "8143bfdd185ad1fea3ea162488facf5b8c922917beafddc86506f263c97b9ae1",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a98"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "9db44ff349720154bab26a1e487a8ec251a1c5644f86d1a02349792ecf09aac6",
+      "commentary_after_sha256": "6aa905189d587b470267f46016ad8d270224c4eeb1664c45187840ff531b85d1"
+    },
+    {
+      "id": "a80quater",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read full extension and current Kernenergiewet68, implementing Geheimhoudingsbesluit1–3and98.",
+      "finding_and_resolution": "Added actual delegation/secret-acquisition-or-designation predicates and derived-information reach. Clarified scope without converting all nuclear information into secrets or overlooking offense-specific mental elements.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80quater",
+        "source_xml_id": "C14205521",
+        "effective_from": "1970-01-01",
+        "status": "goed",
+        "statutory_text_sha256": "a0e113f21c07acf63f969d3b10f9b0a1001f66a6f876d230459a66dfab965c84",
+        "raw_article_sha256": "f20f7ffde258edd4a0e78c097e2cb44507ce57b487d090053e2a467bba0f6d94",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a98"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "909e998284201ce792cfe8cb9fd004f9faacc1f75b4115970168da6063904105",
+      "commentary_after_sha256": "c32b3dcfc9c6c6170a6cdf0879458006632d71fa5182e21e691323ea36db12e6"
+    },
+    {
+      "id": "a80quinquies",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Read entire definition, all alternatives and existing encoded-instructions example.",
+      "finding_and_resolution": "Retained: agreed representation suitable for human or automated transfer/interpretation/processing; object definition does not prove illegality or computer-offense elements.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80quinquies",
+        "source_xml_id": "C17978311",
+        "effective_from": "2006-09-01",
+        "status": "goed",
+        "statutory_text_sha256": "85b2f490f8d5f50208c6de0c2a584d8ef42b29a595b21c34e4e7978cc37bbebb",
+        "raw_article_sha256": "1534a6ac75cce6b0b340fb60d8d9721b56a8b69f3d3b8b22cf6e7342530f82bb",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "verified_authorities": [],
+      "commentary_before_sha256": "5f07b64d43a3f57a76b2161a2164b627898996a1d114dccbf3a90d3a3a7348cc",
+      "commentary_after_sha256": "5f07b64d43a3f57a76b2161a2164b627898996a1d114dccbf3a90d3a3a7348cc"
+    },
+    {
+      "id": "a80sexies",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read current complete definition,138ab, full HR2013:BY9718and both change/commencement instruments.",
+      "finding_and_resolution": "Added historically bounded network holding and actual1March2019definition change; old triple-function test expressly not imposed as present text.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80sexies",
+        "source_xml_id": "C36875501",
+        "effective_from": "2019-03-01",
+        "status": "goed",
+        "statutory_text_sha256": "8dcdc65e8332ae69bc6c262155d566827202ccf808dde8308cdc1364e53875f6",
+        "raw_article_sha256": "69b0625c39b72455de968b60d238c5120178cb1d24d61572189e5418dc129429",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a138ab"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2013:BY9718"
+      ],
+      "commentary_before_sha256": "9813e2fc428416f5308bd8ad13c90d6169e3e6b571a2f3fab8d0aef1a19d6d65",
+      "commentary_after_sha256": "0cb232147175459b797e22e5fa957f8cf77ec72059dd5e168dcab87d01cdb6f1"
+    },
+    {
+      "id": "a80septies",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read2paragraphs,1a/band shared payment-function qualifier; current/historical Wwft1, changeI/A/2and full commencement instrument.",
+      "finding_and_resolution": "Corrected deferred external verification: virtual-currency definition absent since4February2025while Srretains reference. No silent substitution withcryptoactivum, categorical impunity or unbounded token coverage. Legal ambiguity expressly explained.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel80septies",
+        "source_xml_id": "C39166011",
+        "effective_from": "2021-05-01",
+        "status": "goed",
+        "statutory_text_sha256": "574a5c494c6f25e17438a150fdeb4475ea84041bffd0db88981f54731d15fcee",
+        "raw_article_sha256": "e288d38496285f5fa67d0285e107c6b41afb9c4024a6c7c4b16ff4f7a50def63",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a1"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "ef1a433f01cf42f1e7ba92f3f9cb06101a69a0d4b62c2676830aa3fea9d9c7e3",
+      "commentary_after_sha256": "5f41ed6ba19216216cc143f72e2fd5845cdbd92558adefbe4c03304848004cf7"
+    },
+    {
+      "id": "a81",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read complete equality sentence,312and full HR/AG2005:AS5983; verified express adoption ofAG6–15.",
+      "finding_and_resolution": "Added precise proof-related sedation holding; mere intoxication not equated automatically with physical helplessness or unconsciousness. Distinguished81Srfrom81ROand superseded sexual offenses.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel81",
+        "source_xml_id": "C34051351",
+        "effective_from": "1886-09-01",
+        "status": "goed",
+        "statutory_text_sha256": "1222775d3ccada553f6095657cfe1946c17eacf8f3e6f2f928b44f8fe7a64b45",
+        "raw_article_sha256": "ecfac5b543c43c67db78af57618516ffc35de24ad61a7b42a848c5270c1ce396",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a312"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2005:AS5983"
+      ],
+      "commentary_before_sha256": "548542d841cb87fcf963d8e0d219f2fb8f35eb7ee2f43f42b9dfd10cb4f0b15b",
+      "commentary_after_sha256": "44c9e73e34781b95840b3fe5bb19b81614ddd2cd7d819fc0e9de0e2c1ad130e6"
+    },
+    {
+      "id": "a82",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read both full paragraphs,302and complete HR2018:1051including fact application and disposition.",
+      "finding_and_resolution": "Corrected incomplete catalog explanation: nonexhaustive statutory list, injury/treatment/recovery factors, psychiatric limit, nonuniversal4week threshold and actual jaw/tooth reversal rationale; actual harm not proof of mensrea.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel82",
+        "source_xml_id": "C14205571",
+        "effective_from": "1886-09-01",
+        "status": "goed",
+        "statutory_text_sha256": "38f415adad2642bf19e48d5c841842bf664cd884c2e435e38ea64c326dd66195",
+        "raw_article_sha256": "135339ccc0cf17ca0be18e70870556bc48b614b7543ea398f28761c62675c4b6",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a302"
+      ],
+      "verified_authorities": [
+        "ECLI:NL:HR:2018:1051"
+      ],
+      "commentary_before_sha256": "2fa1c3c3322642ec969abecf5f4d7a666b892485e20fa8c51367b359f298e864",
+      "commentary_after_sha256": "1ad04f6f59d5f3818e8a57b613fdd4c2f23018940ecd0de3519d5d2d5b17c36b"
+    },
+    {
+      "id": "a82a",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read full life-viability equivalence plus82and all296including current5a/b.",
+      "finding_and_resolution": "Clarified fetus need not already be born, difference from maternal injury under82and separate treatment framework. No fixed clinical week threshold or general medical exemption invented.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel82a",
+        "source_xml_id": "C34051361",
+        "effective_from": "1984-11-01",
+        "status": "goed",
+        "statutory_text_sha256": "97e7242a75aba28053c0b151ac45afb469a79cd00534883dc295a8f4a4c87440",
+        "raw_article_sha256": "ed50687bd5cf978a87a25c30d6cbb69eb4f86820d81aef3408b4c1f213334137",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a82",
+        "a296"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "a3e1a47ec0d85f993087e569c06816b9f1d1e47592bf196f2d094dd2309d1a28",
+      "commentary_after_sha256": "4d1337a5da00c9cbe6380deaa9324638bcb7c18646b7d49aa4c3548114d1f3e7"
+    },
+    {
+      "id": "a83",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Read entire3branch list with exact article/paragraph references;83a,96,138b,140a,157,289,289aand all selected external clauses read.",
+      "finding_and_resolution": "Expanded branch-specific examples,157(3)restriction and138b(5)facilitation intent versus83aintent. All4external statutes selected from current manifests; no common intent requirement falsely imposed across all listed variants. Practical definition checklist added.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch12-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelIX/Artikel83",
+        "source_xml_id": "C36875631",
+        "effective_from": "2018-10-16",
+        "status": "goed",
+        "statutory_text_sha256": "54c02cc3fc3374965b67c98bab3c7157d34296aaaa189c7cf6f134a831add0c4",
+        "raw_article_sha256": "fb75a9170be1cf1d20bd63b4cfccc1bab270c2b93c3ca9f75c66337146685754",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a83a",
+        "a96",
+        "a138b",
+        "a140a",
+        "a157",
+        "a289",
+        "a289a"
+      ],
+      "verified_authorities": [],
+      "commentary_before_sha256": "698d0078ba78b3004c54874fb671ca8455e49416c37d4989c49094a2b5e119f1",
+      "commentary_after_sha256": "87ba282482f7f982a3a8e54646f9c0f2c986d22fbca030eec7110d17f779ebd7"
     }
   ],
   "limitations": [
-    "Exactly20 assigned units individually reviewed; no whole-book completion or external professional approval.",
-    "548 existing missing commentaries outside this batch still prevent successful full shared build and strict validation.",
-    "Two selected HR decisions read in full; national corpus machine-compared; selective discovery is not exhaustive. No new sufficiently relevant case selected for15 other units.",
-    "2017 execution rules and article numbering are historical, not imported into current source;2026PIJ holding expressly distinguished.",
-    "Selected Sv and Jeugdwet cross-references verified, not a full audit of all youth execution, BJJ, civil guardianship or implementing decrees.",
-    "Primary2026case metadata publication date predates its judgment date; own arrest heading/signature used, inconsistency retained in case card.",
-    "Technical length, repetition and exact text agreement do not establish legal quality."
+    "Only20assigned units independently read; no whole-book completion or external professional approval.",
+    "548existing missing commentaries outside assignment still prevent successful full shared build/strict validation.",
+    "Four full primary HRdecisions and one explicitly adopted AGopinion verified; discovery selective, no exhaustive negative finding for16other units.",
+    "WBS official body/catalog hash mismatch remains unexplained; primary body available, local preserved raw byte-identical and operativeI/II/IVcorroborated against separately fetched official historical body; digest authentication expressly not claimed.",
+    "Wwft dangling virtual-currency reference expressly identified; interpretation limits stated instead of unverified categorical criminal-liability outcome.",
+    "External statutes and decree checked only for specified cross-references, not their entire law or case-specific administrative designation.",
+    "Old computer-definition test is historical; no application as current80sexies.",
+    "Technical length/text/similarity checks do not establish legal quality."
   ],
-  "verified_at": "2026-10-20T17:52:42.234566+00:00",
+  "verified_at": "2026-10-20T18:03:42.194502+00:00",
   "decisive_date": "2026-10-19",
   "effective_version": "2026-07-01_0",
   "official_source": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
   "source_xml_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
-  "source_preflight": "sources/review-batch11-version-evidence.json",
-  "baseline_work_commit": "2767e99",
+  "source_preflight": "sources/review-batch12-version-evidence.json",
+  "baseline_work_commit": "2a872d4",
   "corrected_units": [
-    "a77t",
-    "a77w",
-    "a77wa",
-    "a77wb",
-    "a77we",
-    "a77x",
-    "a77y",
-    "a77z",
-    "a77za",
-    "a77aa",
-    "a77bb",
-    "a77cca",
-    "a77dd"
+    "a78a",
+    "a78c",
+    "a80ter",
+    "a80quater",
+    "a80sexies",
+    "a80septies",
+    "a81",
+    "a82",
+    "a82a",
+    "a83"
   ],
   "other_commentary_preserved": true,
   "statutory_units_unchanged": true,
@@ -584,87 +562,41 @@
     "highest_similarity_pairs": [
       {
         "ids": [
-          "a77tb",
-          "a77tc"
+          "a77ee",
+          "a77ff"
         ],
-        "ratio": 0.1953
+        "ratio": 0.1703
       },
       {
         "ids": [
-          "a77tc",
-          "a77wf"
+          "a80ter",
+          "a80quater"
         ],
-        "ratio": 0.1713
+        "ratio": 0.1062
       },
       {
         "ids": [
-          "a77tb",
-          "a77wd"
+          "a77ee",
+          "a77hh"
         ],
-        "ratio": 0.158
+        "ratio": 0.0912
       },
       {
         "ids": [
-          "a77tc",
-          "a77cc"
+          "a80ter",
+          "a80septies"
         ],
-        "ratio": 0.1534
+        "ratio": 0.0909
       },
       {
         "ids": [
-          "a77cca",
-          "a77dd"
+          "a78a",
+          "a80ter"
         ],
-        "ratio": 0.1441
+        "ratio": 0.0894
       }
     ],
-    "human_review": "All20read individually. Nine repealed slots serve documentary purposes; seven kept and two supplemented with precise historical holdings. Active units have distinct elements and examples. No common paragraph substituted. Length/similarity not legal quality proxies."
+    "individual_reading": "All20read separately. Three repealed slots have specific documentary notes. Active units address distinct predicates/examples; no repeated common paragraph substituted. Length/similarity not legal quality proxies."
   },
-  "validation_scope": "Full812-unit inventory retained; full shared build and strict validator executed separately; outside548omissions retained.",
-  "technical_checks": {
-    "full_shared_build": {
-      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-      "checked_at": "2026-10-20T17:52:25.313230+00:00",
-      "exit_code": 1,
-      "stdout": "",
-      "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
-      "full_inventory_units": 812,
-      "bounded_review_ids": "review-batch11-result.json"
-    },
-    "full_shared_validator": {
-      "result": {
-        "repo": "Komentar-NL-BWBR0001854",
-        "units": 812,
-        "verbatim_ratio": 1.0,
-        "commentary_chars": 317478,
-        "errors": [
-          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
-        ],
-        "warnings": [],
-        "ok": false
-      },
-      "exit_code": 1,
-      "clean_output_commit": "afe4105b995edc8d3542059c8d468fdc20a9c582",
-      "run_evidence": "validation-batch11-run.json",
-      "full_inventory_unchanged": true,
-      "failure_outside_assignment_only": true
-    },
-    "assigned_units": {
-      "count": 20,
-      "all_have_commentary": true,
-      "short_ids": [],
-      "commentary_chars": 27205
-    },
-    "independent_completeness": {
-      "report": "completeness-report.json",
-      "ok": true
-    },
-    "raw_xml_agreement": true,
-    "local_links": {
-      "report": "link-report.json",
-      "ok": true,
-      "checked": 472
-    },
-    "checked_at": "2026-10-20T17:52:58.409592+00:00"
-  }
+  "validation_scope": "Full812unit inventory retained; full shared build and strict validator run separately; outside548omissions preserved."
 }

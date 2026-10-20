@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0024282/2024-09-06_0/xml/BWBR0024282_2024-09-06_0.xml",
+    "accessed_at": "2026-10-20T17:56:39.674139+00:00",
+    "path": "sources/review-batch12-Wwft-historical.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0024282/2024-09-06_0/xml/BWBR0024282_2024-09-06_0.xml",
+    "content_type": "application/xml",
+    "sha256": "a0b1b1541b2d543e1c8e3d707f0794d72cdefe4dcff904050653d6ef34c93d97",
+    "bytes": 685870,
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002074/BWBR0002074.WTI",
+    "accessed_at": "2026-10-20T17:56:40.242885+00:00",
+    "path": "sources/review-batch12-WBS-wti.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002074/BWBR0002074.WTI",
+    "content_type": "application/xml",
+    "sha256": "e01823fa6b27d404547f940c5cb7ce9475f33fca1b7cccbf1cee263d791d27f0",
+    "bytes": 125516,
+    "root": "wetstechnische-informatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2024-414.xml",
+    "accessed_at": "2026-10-20T17:56:40.507312+00:00",
+    "path": "sources/review-batch12-stb-2024-414.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2024-414.xml",
+    "content_type": "text/xml",
+    "sha256": "d2a9e6561cda7958c19baaa0b05c25f8e9813da2f839dffedca9c53c853376ea",
+    "bytes": 26283,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-29.xml",
+    "accessed_at": "2026-10-20T17:56:40.717565+00:00",
+    "path": "sources/review-batch12-stb-2025-29.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-29.xml",
+    "content_type": "text/xml",
+    "sha256": "ce6fa381898dfbfd95f024f94283af62fe38b074d0f5947e0cd7a2dac75b8970",
+    "bytes": 66898,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2018-322.xml",
+    "accessed_at": "2026-10-20T17:56:41.111679+00:00",
+    "path": "sources/review-batch12-stb-2018-322.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2018-322.xml",
+    "content_type": "text/xml",
+    "sha256": "1b1e56c5fca65ecb710ed76ae841284f0b724899bd666945f256801fffa8e944",
+    "bytes": 60793,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2019-67.xml",
+    "accessed_at": "2026-10-20T17:56:41.372033+00:00",
+    "path": "sources/review-batch12-stb-2019-67.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2019-67.xml",
+    "content_type": "text/xml",
+    "sha256": "65034490eae8fac5a31bcd6e897e4fb638a8b2f55ad91c6a270a1fc670fe0874",
+    "bytes": 3504,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  }
+]

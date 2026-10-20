@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2005:AS5983</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T18:03:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AS5983</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2005-04-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">01792/04</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2005:AS5983" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2005:AS5983</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSGR:2003:AO4274" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHSGR:2003:AO4274</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOL 2005, 201</rdf:li>
+          <rdf:li>NJ 2005, 316</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2005:AS5983">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2005:AS5983</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T21:57:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2005-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2005:AS5983 Hoge Raad , 05-04-2005 / 01792/04</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2005:AS5983:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Geweld ex art. 312 jo. art. 81 Sr door drogeren met kalmerings/slaapmiddelen. In de schriftuur wordt, met een beroep op de wetsgeschiedenis waarin onderscheid wordt gemaakt tussen bedwelming en het brengen in een toestand van onmacht, geklaagd dat het bewezenverklaarde drogeren door het toedienen van een hoeveelheid kalmerings- en/of slaapmiddelen geen geweld oplevert ex art. 312 jo. art. 81 Sr. HR verwerpt onder verwijzing naar conclusie AG, die inhoudt dat het hof de term drogeren kennelijk en niet onbegrijpelijk aldus heeft opgevat dat deze inhoudt het toedienen van zoveel verdovende of stimulerende middelen dat degene aan wie deze worden toegediend, raakt in een toestand van onmacht of bewusteloosheid.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2005:AS5983:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>5 april 2005</para>
+      <para>Strafkamer</para>
+      <para>nr. 01792/04 </para>
+      <para>LR/SM</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Gravenhage van 22 december 2003, nummer 22/001749-03, in de strafzaak tegen:</para>
+      <para>[verdachte], geboren te [geboorteplaats] (Suriname) op [geboortedatum] 1966, wonende te [woonplaats], ten tijde van de betekening van de aanzegging gedetineerd in de Penitentiaire Inrichting "Noord Holland Noord (Amerswiel)" te Heerhugowaard.</para>
+    </parablock>
+    <para />
+    <para>1. De bestreden uitspraak</para>
+    <para />
+    <para>Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Rechtbank te Rotterdam van 19 februari 2003, voorzover aan 's Hofs oordeel onderworpen, - de verdachte vrijgesproken van het haar bij inleidende dagvaarding onder 4, 8 en 9 tenlastegelegde en haar voorts ter zake van 1. (tweede alternatief) "doodslag", 2. "medeplegen van een lijk wegvoeren en wegmaken, met het oogmerk om het feit of de oorzaak van het overlijden te verhelen", 3. en 7. "diefstal, voorafgegaan van geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden, meermalen gepleegd" en 5. "diefstal, voorafgegaan en vergezeld van geweld en bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden en gemakkelijk te maken, terwijl het feit wordt gepleegd door twee of meer verenigde personen" veroordeeld tot achttien jaren gevangenisstraf. Voorts heeft het Hof de vordering van de benadeelde partij [slachtoffer 4] toegewezen en aan de verdachte een betalingsverplichting opgelegd een en ander zoals in het arrest vermeld. Tevens heeft het Hof de benadeelde partijen [slachtoffer 1], [slachtoffer 2] en [slachtoffer 3] niet-ontvankelijk verklaard in hun vorderingen. Voorts is de tenuitvoerlegging gelast van een voorwaardelijk opgelegde straf.</para>
+    <para />
+    <para>2. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft mr. R.J. Baumgardt, advocaat te Spijkenisse, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De Advocaat-Generaal Vellinga heeft geconcludeerd dat de Hoge Raad het beroep zal verwerpen. De conclusie van de Advocaat-Generaal is aan dit arrest gehecht.</para>
+    </parablock>
+    <para />
+    <para>3. Beoordeling van het eerste, het tweede en het derde middel</para>
+    <para />
+    <para>3.1. Het eerste middel en het tweede middel houden in dat het onder 3 onderscheidenlijk 7 bewezen verklaarde drogeren van het slachtoffer door het toedienen van een hoeveelheid kalmerings- en/of slaapmiddelen (feit 3) en slaapmiddelen (feit 7) geen "geweld" oplevert in de zin van art. 312 Sr in verbinding met art. 81 Sr. Het derde middel klaagt dat uit de bewijsmiddelen ter zake van feit 3 niet kan worden afgeleid dat de verdachte het slachtoffer door het toedienen van een hoeveelheid kalmerings- en/of slaapmiddelen in een staat van bewusteloosheid en/of onmacht heeft gebracht. </para>
+    <para />
+    <para>3.2. De middelen falen op de gronden als vermeld in de conclusie van de Advocaat-Generaal onder 6 tot en met 15.</para>
+    <para />
+    <para>4. Beoordeling van het vierde middel </para>
+    <para />
+    <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81 RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    <para />
+    <para>5. Slotsom</para>
+    <para />
+    <para>Nu de middelen niet tot cassatie kunnen leiden, terwijl de Hoge Raad ook geen grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, moet het beroep worden verworpen.</para>
+    <para />
+    <para>6. Beslissing</para>
+    <para />
+    <para>De Hoge Raad verwerpt het beroep. </para>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president C.J.G. Bleichrodt als voorzitter, en de raadsheren J. de Hullu en H.A.G. Splinter-van Kan, in bijzijn van de waarnemend griffier J.D.M. Hart, en uitgesproken op 5 april 2005.</para>
+  </uitspraak>
+</open-rechtspraak>

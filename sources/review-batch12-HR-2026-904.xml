@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2026:904</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-07-30T10:06:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-06-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">24/01096</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2026:287" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2026:287</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2026-0183</rdf:li>
+          <rdf:li>NJB 2026/1203</rdf:li>
+          <rdf:li>NJ 2026/203</rdf:li>
+          <rdf:li>RvdW 2026/721</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:904">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:904</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-09T11:04:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-06-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2026:904 Hoge Raad , 09-06-2026 / 24/01096</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2026:904:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Medeplegen afpersing (art. 317.3 jo. 312.2.2 Sr) onder strafverzwarende omstandigheid van art. 43a Sr (recidive binnen 5 jaren). Strafmotivering (gevangenisstraf van 12 maanden) en uitleg van ‘vroegere veroordeling’ a.b.i. art. 43a Sr. Kon hof de veroordeling door gerecht in eerste aanleg van Curaçao aanmerken als ‘vroegere veroordeling’ a.b.i. art. 43a Sr en ten nadele van verdachte bij straftoemeting betrekken? </para>
+        <para>Art. 43a Sr voorziet, in samenhang met art. 43b en (nu) art. 78c Sr, in grond voor strafverzwaring bij recidive. O.g.v. deze bepalingen kan op misdrijf gestelde tijdelijke gevangenisstraf of hechtenis met een derde worden verhoogd als tijdens plegen van misdrijf nog geen 5 jaren zijn verlopen sinds vroegere veroordeling tot gevangenisstraf voor soortgelijk misdrijf onherroepelijk is geworden, ook als het daarbij gaat om vroegere veroordeling door strafrechter in andere EU-lidstaat. Deze bepalingen bevatten, anders dan art. 68 Sr, geen regeling m.b.t. vroegere veroordelingen door strafrechter in Aruba, Curaçao, Sint Maarten of openbare lichamen Bonaire, Sint Eustatius en Saba, zodat het er (in lijn met memorie van toelichting bij wetsvoorstel dat heeft geleid tot invoering van art. 78c Sr) voor moet worden gehouden dat werkingssfeer van deze bepalingen is beperkt tot vroegere veroordelingen uitgesproken door strafrechter in Europees deel van Koninkrijk of door strafrechter in andere EU-lidstaat. </para>
+        <para>Hof heeft ten onrechte veroordeling door gerecht in eerste aanleg van Curaçao aangemerkt als ‘vroegere veroordeling’ a.b.i. art. 43a Sr. Dit leidt niet tot cassatie. Gevangenisstraf van 12 maanden is mede opgelegd voor poging tot afpersing, met strafverzwaringsgrond van art. 43a Sr en voorhanden hebben van vuurwapen en munitie. Duur van straf ligt ver onder strafmaximum van 16 jaren dat bij meerdaadse samenloop geldt als t.a.v. medeplegen afpersing niet toepassing wordt gegeven aan art. 43a Sr. Daarbij mocht hof ook, binnen dat strafmaximum, bij strafoplegging gewicht toekennen aan veroordeling door gerecht in eerste aanleg van Curaçao. Verdachte heeft daarom onvoldoende belang bij cassatie. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2026:904:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>24/01096 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>9 juni 2026</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 15 maart 2024, nummer 22-003714-22, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1972,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft de advocaat A.A. Franken bij schriftuur een cassatiemiddel voorgesteld. </para>
+      <para>De advocaat-generaal D.J.M.W. Paridaens heeft geconcludeerd tot verwerping van het beroep en, afhankelijk van de mate van overschrijding van de redelijke termijn, tot constatering daarvan dan wel vernietiging van de bestreden uitspraak, maar in dat geval alleen wat betreft de duur van de opgelegde gevangenisstraf en tot vermindering daarvan naar de gebruikelijke maatstaf.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt dat het hof een veroordeling door het gerecht in eerste aanleg van Curaçao ten onrechte heeft aangemerkt als een ‘vroegere veroordeling’ als bedoeld in artikel 43a van het Wetboek van Strafrecht (hierna: Sr) en ten nadele van de verdachte bij de straftoemeting heeft betrokken.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is onder 1 ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>“hij in de periode van 24 september 2019 tot en met 30 april 2020 te Rotterdam, tezamen en in vereniging met anderen, met het oogmerk om zich en/of anderen wederrechtelijk te bevoordelen, door bedreiging met geweld [benadeelde] heeft gedwongen tot:</para>
+          <para>- de afgifte van een geldbedrag van (in totaal) 20.000 euro, toebehorende aan die [benadeelde] , door:</para>
+          <para>- naar het theehuis “ [A] ” van die [benadeelde] te gaan en</para>
+          <para>- voor de bar in het theehuis op een rij te gaan staan en op de bar te slaan en</para>
+          <para>- met harde stem tegen die [benadeelde] te zeggen: ‘met ons systeem is niets mis gegaan’ en ‘ik ben van [B] en jij moet 80.000 euro betalen’ en ‘jij moet betalen’ en ‘als je naar de politie gaat is het probleem nog niet opgelost’ en dichtbij die [benadeelde] te staan en te zeggen: ‘je gaat betalen anders heb je een groot probleem’, en</para>
+          <para>- aldus een bedreigende en intimiderende overtalsituatie te doen ontstaan, en</para>
+          <para>- vervolgens meerdere keren naar het theehuis “ [A] ” te gaan om geld op te eisen en op te halen,</para>
+          <para>terwijl tijdens het plegen van dit misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van verdachte tot een gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op onder meer het volgende bewijsmiddel:</para>
+          <para>“9. Het geschrift, te weten een uittreksel Justitiële Documentatie op grond van de Landsverordening/Wet op de Justitiële documentatie van 6 december 2022 ten name van de verdachte, voor zover inhoudende: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Parket Eerste Aanleg Curaçao. </para>
+          <para>Diefstal, door twee of meer verenigde personen gepleegd, voorafgegaan en vergezeld van geweld en bedreiging met geweld, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijker te maken. </para>
+          <para>Onherroepelijk 02 februari 2012. </para>
+          <para>Gevangenisstraf 6 jaar, met aftrek van het voorarrest. </para>
+          <para>Bij ministeriële beschikking d.d. 29-01-15 m.i.v. 31-1-2015 voorwaardelijk in vrijheid gesteld.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <para>Het hof heeft – door bevestiging van het vonnis van de rechtbank met aanvulling van gronden – het onder 1 bewezenverklaarde gekwalificeerd als “afpersing, terwijl het feit wordt gepleegd door twee of meer verenigde personen, terwijl tijdens het plegen van dit misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van verdachte tot een gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan”, met aanhaling van artikel 43a Sr bij de toepasselijke wetsartikelen.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.4</nr>
+        <parablock>
+          <para>Het hof heeft de verdachte voor onder meer het onder 1 bewezenverklaarde feit veroordeeld tot een gevangenisstraf van twaalf maanden. De strafmotivering in het bevestigde vonnis houdt onder meer in:</para>
+          <para>“Ernst van de feiten </para>
+          <para>De verdachte heeft zich, samen met anderen, schuldig gemaakt aan afpersing. Deze georganiseerde afpersing door een soort incassoploeg vond plaats in de illegale gokwereld. De verdachte en zijn mededaders hebben er misbruik van gemaakt dat het slachtoffer zichzelf in een kwetsbare situatie had gebracht door zich in de illegale gokwereld te mengen. Zij hebben hem door dreiging met geweld een groot geldbedrag afhandig gemaakt.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tevens heeft de verdachte zich schuldig gemaakt aan een poging tot afpersing. De verdachte heeft een vriend van hem door bedreiging met grof geweld geprobeerd geld afhandig te maken, waarbij hij steeds dreigender taal uitsloeg.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Ook heeft de verdachte zich schuldig gemaakt aan het voorhanden hebben van een vuurwapen met bijpassende munitie. Vuurwapens vormen een groot gevaar voor de samenleving en het bezit daarvan moet daarom streng worden bestraft.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Strafblad </para>
+          <para>De rechtbank heeft rekening gehouden met een de verdachte betreffend uittreksel uit de Justitiële Documentatie op grond van de Landsverordening/Wet op de Justitiële documentatie, gedateerd 6 december 2022. Daaruit volgt dat de verdachte voorafgaand aan het begaan van het onder 1 primair bewezen verklaarde eerder op Curaçao op 2 februari 2012 is veroordeeld tot een gevangenisstraf wegens een daaraan soortgelijk misdrijf. Deze veroordeling is onherroepelijk. De verdachte heeft zich binnen vijf jaar na het onherroepelijk worden van voormelde veroordeling wederom schuldig gemaakt aan soortgelijke misdrijven. De termijn van vijf jaar kan worden verlengd met de tijd waarin de veroordeelde rechtens van zijn vrijheid is beroofd. Bij ministeriële beschikking van 29 januari 2015 is de verdachte met ingang van 31 januari 2015 voorwaardelijk in vrijheid gesteld. De rechtbank weegt deze omstandigheid met inachtneming van art. 43a Sr ten nadele van de verdachte mee bij de straftoemeting.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De rechtbank heeft tevens rekening gehouden met een de verdachte betreffend uittreksel uit de Justitiële Documentatie op grond van de Wet Justitiële en Strafvorderlijke Gegevens, gedateerd 6 december 2022. Daaruit volgt dat de verdachte voorafgaand aan het begaan van het onder 2 bewezen verklaarde eerder door het gerechtshof in Amsterdam op 14 oktober 2019 is veroordeeld tot een gevangenisstraf wegens een daaraan soortgelijk misdrijf. Deze veroordeling is onherroepelijk. De verdachte heeft zich binnen vijf jaar na het onherroepelijk worden van voormelde veroordeling wederom schuldig gemaakt aan soortgelijke misdrijven. De rechtbank weegt deze omstandigheid met inachtneming van art. 43a Sr ten nadele van de verdachte mee bij de straftoemeting.</para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Strafmodaliteit en strafmaat</para>
+          <para>In strafverzwarende zin weegt de rechtbank de eerdere veroordelingen van verdachte voor vergelijkbare strafbare feiten mee. In strafmatigende zin wordt meegewogen dat de afpersing van [benadeelde] ongeveer drie jaar geleden heeft plaatsgevonden. Ook het gegeven dat feit 1 een relatief minder ernstige vorm van afpersing betreft, nu daadwerkelijk geweld en/of concrete verbale bedreigingen zijn uitgebleven, werkt strafmatigend en leidt tot een afwijking van de eis.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De tenlastelegging onder 1 is mede toegesneden op artikel 43a Sr. Daarom moet worden aangenomen dat het in de tenlastelegging en de bewezenverklaring voorkomende begrip ‘vroegere veroordeling’ is gebruikt in de betekenis die dat begrip heeft in die bepaling.</para>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <parablock>
+          <para>De volgende bepalingen zijn van belang.</para>
+          <para>- Artikel 43a Sr:</para>
+          <para>“De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, onverminderd artikel 10, met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van de schuldige tot gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan. De termijn van vijf jaren wordt verlengd met de tijd waarin de veroordeelde rechtens zijn vrijheid is ontnomen.”</para>
+          <para>- Artikel 43b Sr:</para>
+          <para>“Als misdrijven welke soortgelijk zijn aan elkaar worden in elk geval aangemerkt:</para>
+          <para>1°. de misdrijven omschreven in de artikelen 105, 174, 208 tot en met 210, 213, 214, 216 tot en met 222bis, 225 tot en met 232, 310, 311, 312, 315, 317, 318, 321 tot en met 323a, 326 tot en met 332, 341, 343, 344, 359, 361, 366, 373, laatste lid, 402, 416, 417, 420bis, 420bis.1 en 420ter;</para>
+          <para>2°. de misdrijven omschreven in de artikelen 92, 108, 109, 110, 115, 116, 117 tot en met 117b, 141, 181, 182, 287 tot en met 291, 293, eerste lid, 296, 300 tot en met 303, 381, 382, 395 en 396;</para>
+          <para>3°. de misdrijven omschreven in de artikelen 261 tot en met 271, 418 en 419;</para>
+          <para>4°. de misdrijven omschreven in de Opiumwet;</para>
+          <para>5°. de misdrijven omschreven in de Wet wapens en munitie;</para>
+          <para>6°. de misdrijven omschreven in de Wegenverkeerswet 1994.”</para>
+          <para>- Artikel 43c Sr, zoals dit luidde totdat het is vervallen op 1 juli 2010:</para>
+          <para>“Bij de misdrijven omschreven in de artikelen 208 tot en met 210, 213 en 214 wordt een onherroepelijke veroordeling tot gevangenisstraf door een rechter in een andere lidstaat van de Europese Unie uitgesproken ter zake van enig misdrijf ten opzichte van muntspeciën of munt- of bankbiljetten als een veroordeling wegens een soortgelijk misdrijf in aanmerking genomen.”</para>
+          <para>- Artikel 78c Sr, zoals dit luidt sinds de inwerkingtreding op 1 juli 2010:</para>
+          <para>“Waar van een voorafgegane of vroegere veroordeling wegens een strafbaar feit wordt gesproken, wordt daaronder mede verstaan een voorafgegane of vroegere onherroepelijke veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <parablock>
+          <para>De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de wet van 20 mei 2010, Stb. 2010, 200 (Wet tot implementatie van het kaderbesluit nr. 2008/675/JBZ van de Raad van 24 juli 2008 betreffende de wijze waarop bij een nieuwe strafrechtelijke procedure rekening wordt gehouden met veroordelingen in andere lidstaten van de Europese Unie (PbEU L 220)), waarbij artikel 43c Sr is vervallen en artikel 78c Sr is ingevoerd, houdt onder meer in:</para>
+          <para>“3. Rekening houden met vroegere buitenlandse veroordelingen naar huidig recht </para>
+          <para>Het rekening houden met vroegere buitenlandse veroordelingen is geen onbekend fenomeen in de Nederlandse strafrechtspraktijk. De rechter houdt immers rekening met alle relevante omstandigheden van het geval. Een vroegere buitenlandse veroordeling kan worden meegewogen als zo een relevante omstandigheid. Zo kan een vroegere buitenlandse veroordeling voor de rechter aanleiding vormen een hogere straf op te leggen dan het geval zou zijn geweest bij een zogenoemde first offender. Hij is daarbij wel gebonden aan het wettelijke strafmaximum dat is gesteld op het feit waarvoor de verdachte wordt berecht. Dat is anders waar het gaat om vervolging wegens valsemunterij. Artikel 43c Sr in samenhang met artikel 43a Sr verhoogt het strafmaximum voor valsemunterij met een derde indien de betrokkene eerder voor dit misdrijf is veroordeeld, ook indien die veroordeling plaatsvond in een andere lidstaat van de Europese Unie.</para>
+          <para>(...)</para>
+          <para>De wet kent (...) bepalingen die expliciet verwijzen naar vroegere veroordelingen en daaraan specifieke gevolgen verbinden. Een belangrijk voorbeeld hiervan is artikel 43a Sr dat een algemene recidiveregeling bevat. Voor zover in de bestaande wettelijke bepalingen niet expliciet wordt verwezen naar veroordelingen door een buitenlandse rechter – zoals het geval is in artikel 43c Sr –, moet het ervoor worden gehouden dat de werkingssfeer van deze artikelen zich beperkt tot vroegere veroordelingen uitgesproken door een Nederlandse strafrechter (zie ook Cleiren &amp; Nijboer 2006, (T&amp;C Sr), artikel 43a Sr, aant. 4b en Hazewinkel-Suringa/Remmelink, Inleiding tot de studie van het Nederlandse strafrecht, 1996, par. 4.8.7.4.4.). Met de implementatie van het kaderbesluit, waartoe dit wetsvoorstel strekt, zal deze werkingssfeer worden uitgebreid ten aanzien van strafrechtelijke veroordelingen afkomstig uit andere lidstaten van de Europese Unie. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. Implementatie van het kaderbesluit in Nederlandse wetgeving </para>
+          <para>Het Wetboek van Strafrecht, het Wetboek van Strafvordering (Sv) en enkele bijzondere wetten bevatten bepalingen waarin expliciet wordt verwezen naar vroegere veroordelingen. Zoals gezegd is de toepassing van deze bepalingen evenwel beperkt tot vroegere veroordelingen uitgesproken door de Nederlandse strafrechter. Het kaderbesluit vereist dat de gevolgen die de Nederlandse strafwet verbindt aan vroegere strafrechtelijke veroordelingen, ook kunnen worden verbonden aan vroegere strafrechtelijke veroordelingen uitgesproken door een rechter in een andere lidstaat. Dit betekent dat het toepassingsbereik van de bedoelde bepalingen moet worden uitgebreid tot vroegere veroordelingen uitgesproken door een strafrechter in een andere lidstaat van de Europese Unie.</para>
+          <para>(...)</para>
+          <para>Ter implementatie van het kaderbesluit wordt voorgesteld in de betekenistitel van het Wetboek van Strafrecht (Eerste Boek, Titel IX) een definitiebepaling op te nemen (nieuw artikel 78c Sr) waarin wordt bepaald dat waar gesproken wordt van een voorafgegane of vroegere veroordeling wegens een strafbaar feit daaronder mede wordt verstaan een voorafgegane of vroegere onherroepelijke veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.”</para>
+          <para>(Kamerstukken II 2009/10, 32257, nr. 3, p. 5-6.)</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Artikel 43a Sr voorziet, in samenhang met artikel 43b en (nu) artikel 78c Sr, in een grond voor strafverzwaring bij recidive. Op grond van deze bepalingen kan de op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis met een derde worden verhoogd als tijdens het plegen van het misdrijf nog geen vijf jaren zijn verlopen sinds een vroegere veroordeling tot een gevangenisstraf voor een soortgelijk misdrijf onherroepelijk is geworden, ook als het daarbij gaat om een vroegere veroordeling door een strafrechter in een andere lidstaat van de Europese Unie.<?linebreak?>Deze bepalingen bevatten, anders dan artikel 68 Sr, geen regeling met betrekking tot vroegere veroordelingen door de strafrechter in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, zodat het er – in lijn met wat is overwogen in de memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de invoering van artikel 78c Sr – voor moet worden gehouden dat de werkingssfeer van deze bepalingen is beperkt tot vroegere veroordelingen uitgesproken door de strafrechter in het Europese deel van het Koninkrijk of door een strafrechter in een andere lidstaat van de Europese Unie.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het hof heeft daarom ten onrechte een veroordeling door het gerecht in eerste aanleg van Curaçao aangemerkt als een ‘vroegere veroordeling’ als bedoeld in artikel 43a Sr. Het cassatiemiddel klaagt hierover terecht.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>Dit leidt echter niet tot cassatie. De gevangenisstraf van twaalf maanden is mede opgelegd voor de onder 2 en 3 bewezenverklaarde feiten, te weten: “poging tot afpersing, terwijl tijdens het plegen van dit misdrijf nog geen vijf jaren zijn verlopen sedert een vroegere veroordeling van verdachte tot een gevangenisstraf wegens een daaraan soortgelijk misdrijf in kracht van gewijsde is gegaan” en “handelen in strijd met art. 26 lid 1 van de WWM en het feit begaan met betrekking tot een vuurwapen van categorie III en handelen in strijd met art. 26 lid 1 van de WWM”. De duur van deze straf ligt ver onder het strafmaximum van zestien jaren dat bij meerdaadse samenloop geldt als ten aanzien van het onder 1 bewezenverklaarde feit niet toepassing wordt gegeven aan artikel 43a Sr. Daarbij mocht het hof ook, binnen dat strafmaximum, bij de strafoplegging gewicht toekennen aan de in het cassatiemiddel bedoelde veroordeling. De verdachte heeft daarom onvoldoende belang bij cassatie.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Ambtshalve beoordeling van de uitspraak van het hof</title>
+    <para>De Hoge Raad doet uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in artikel 6 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden is overschreden. Dit moet leiden tot vermindering van de opgelegde gevangenisstraf van twaalf maanden.</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>- vermindert deze in die zin dat deze elf maanden en twee weken beloopt;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren T.B. Trotman en R. Kuiper, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">9 juni 2026</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

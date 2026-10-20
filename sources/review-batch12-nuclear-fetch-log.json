@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002768/manifest.xml",
+    "path": "sources/review-batch12-BWBR0002768-manifest.xml",
+    "accessed_at": "2026-10-20T17:57:19.314873+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002768/manifest.xml",
+    "content_type": "application/xml",
+    "sha256": "9ac335941f089a3a4cc6be3a679d4672de2514a630a96f4f069fae3eb0aff42f",
+    "bytes": 5466,
+    "root": "work",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002768/2018-02-06_0/xml/BWBR0002768_2018-02-06_0.xml",
+    "path": "sources/review-batch12-BWBR0002768-effective.xml",
+    "accessed_at": "2026-10-20T17:57:19.575056+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002768/2018-02-06_0/xml/BWBR0002768_2018-02-06_0.xml",
+    "content_type": "application/xml",
+    "sha256": "6a396a9940c894b793dc4a16b54f601c6f9ef67924664f8df59128edabc86e2e",
+    "bytes": 29835,
+    "root": "toestand",
+    "expected_format_valid": true
+  }
+]

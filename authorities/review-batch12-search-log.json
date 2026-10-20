@@ -1,0 +1,1539 @@
+{
+  "verified_at": "2026-10-20T18:01:03.347307+00:00",
+  "method": "Selective web discovery and local national corpus searches; four full primary HR decisions read, plus the full AG opinion expressly adopted in HR2005. No commercial annotations used.",
+  "queries": [
+    "site.rechtspraak.nl 2018:1051 zwaar lichamelijk letsel",
+    "site.rechtspraak.nl 80sexies 2013 Hoge Raad",
+    "site:uitspraken.rechtspraak.nl 78c 63 Hoge Raad",
+    "site:uitspraken.rechtspraak.nl samenspanning concreet Hoge Raad",
+    "site:uitspraken.rechtspraak.nl 81 onmacht Hoge Raad",
+    "local rg 78c Sr in rechtspraak/hr",
+    "local rg samenspanning and overeen in rechtspraak/hr"
+  ],
+  "selected_authorities": [
+    "ECLI:NL:HR:2018:1051",
+    "ECLI:NL:HR:2013:BY9718",
+    "ECLI:NL:HR:2026:904",
+    "ECLI:NL:HR:2005:AS5983"
+  ],
+  "supporting_opinion": "ECLI:NL:PHR:2005:AS5983, specifically HR-adopted6–15; not separately represented as a court decision",
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2018:1051",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1051.md",
+      "sha256": "26c3e9b4fae8b31f8a7f8885e66eaf3a3b27d16924316be0db1c7e09a6c5ae3d",
+      "method": "Full local file read and all official primary judgment paragraphs compared after whitespace removal; no contents summary substituted for judicial text.",
+      "paragraph_checks": [
+        {
+          "sha256": "5b8ce22e236e2bbc80015410c2d69b60f2b502dda21e92cd5dbaaf0a946c4bbe",
+          "chars": 11,
+          "found_in_local": true
+        },
+        {
+          "sha256": "085bf13f329a83edb9260cea499c5f0d1136bfa702216f8c1e11d6fad7bc21f1",
+          "chars": 10,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e0eb1df3edc20ebbc99bd8bff25ef135b991e3878c913393ce111e79c12e4a02",
+          "chars": 14,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "369a553c96b76d914e04382406d45a0e576da9ef6e3ac18fab35cf66a83f8fbe",
+          "chars": 25,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8078ae82243f403f8734d9109b8d538ba76cf2ce224f95381f2e8817169c5c31",
+          "chars": 6,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b7afcc263731c9c0bf135899521f089b33a7536a1b4d4e51fff8e3a5abcfbaba",
+          "chars": 137,
+          "found_in_local": false
+        },
+        {
+          "sha256": "2ca359e290748b81bc4b90e3317839cf6aa847fd4e772fbe98fd11ee7693b791",
+          "chars": 72,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3993298898b1098265b28282672ddc673df1fb4d223034f0d661c33095925820",
+          "chars": 218,
+          "found_in_local": true
+        },
+        {
+          "sha256": "289215ea40fb3dafc59c05a7b8bb2b81205978c30358e181ab4c1385dba61c65",
+          "chars": 540,
+          "found_in_local": true
+        },
+        {
+          "sha256": "50dc022e4e7f70c5e19954da356253eaad303d6848c4f5b9184589dd5749fc56",
+          "chars": 49,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a3176bcc07f0faa147fb4405a853a423946acd00fbf1e6c423c8d6e09eef56f3",
+          "chars": 758,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "167a9345be86051a6c4543cb2bf108b08640b3f08c376c0cf5b97739e95501a8",
+          "chars": 825,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "26a7e81e469875da07bc189db417977e14a37ded68a3d33b3851209f979e9b04",
+          "chars": 503,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "08b65baaaef313f2aac35aa95f33377364eca469910eb00d7c8f44bc4e48db4b",
+          "chars": 594,
+          "found_in_local": true
+        },
+        {
+          "sha256": "541036238245b4339752dfc216dd5dbf0b0620132b350c75c5f160d75548a789",
+          "chars": 295,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "598e5b76525131c15988d258c9a634b1997449ebe98e6f672b0a0cf0b5ae7db7",
+          "chars": 764,
+          "found_in_local": true
+        },
+        {
+          "sha256": "5e6d2934e47a20e67771f13b1cfbd2873aef1bdfad386deb64df02fcb03852d0",
+          "chars": 339,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f2ebcb25828266d89cc0b76db1aca00f38273c3913e3108d0139b3a6805e4b0c",
+          "chars": 813,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a6af7526d1389230728d2ba5537b992ae1939605b349dcefdc6ee0bedcb1d94d",
+          "chars": 798,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3a34f71c34ff02012f539ca3b508c468114041f599cee65438664f9255c49c73",
+          "chars": 393,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "65f73eecc806a05b665deaa5a46462172dc3d581648ba09fc155a83c9325c176",
+          "chars": 531,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "c5be35839f6cd65a6aadaecba9fa4d39775070b06c7f2ef745f7997b5a7c28cc",
+          "chars": 237,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "04ae16a6bc5ec125d3b5e5460d6eda400c9891d45bae094236fe82247a77b31e",
+          "chars": 98,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7595879eb9ef073d5f3a12f58e95ce46ac319c52447b17f2166e50e9b8b24856",
+          "chars": 276,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b35a52c9c562c38bb24eae22cd13ee580bbad49c2c39ecd34c1a8140c9da605a",
+          "chars": 122,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1fc269c958a792d80b696144a044d593f0e90b8471503b245f56014b2e343427",
+          "chars": 9,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0ce6abd8c631a4c5c6205daedb11fb313e1ea89156b84039ce24dce44ba9a2e5",
+          "chars": 1965,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e0aa2641b215fa4463eff9014acaa87612a691043ed26a3602ea7147774c9269",
+          "chars": 31,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8a865a56e942eb78385df9dadc9eda8b9cac16518187189502100a341f154983",
+          "chars": 259,
+          "found_in_local": true
+        },
+        {
+          "sha256": "dc20d247d3f18c5cea59a044edd5d18b2c06dd4eff8212dd0945d1bd5c29fbcc",
+          "chars": 112,
+          "found_in_local": true
+        },
+        {
+          "sha256": "c9e24cc30baac91db1d0e500acacd7b21d7da634e3bc0fda5c3dfcca37e8d151",
+          "chars": 28,
+          "found_in_local": true
+        },
+        {
+          "sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "253724d7337ff340b22cb42bd9063548bc48403c1319d0a6f74a0df19c6372be",
+          "chars": 173,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "951b252205c8c29a9490d2c7336419f426114cbefeca93bee8181e737b41528c",
+          "chars": 655,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "834848e6e8a351f14417d4d7f308577c29ddaebbc0f7547be88ffc66e8cbed0b",
+          "chars": 18,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "53a443664607f9bdb44d75da1a07e8178e015bb76f4b6b29dfc30ec99d7ee646",
+          "chars": 234,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "cd3d0b223dea36312cdd83004cdb4279f19fdb692ae66b0b995863d09c050cd8",
+          "chars": 195,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "d644cb20f169a40ee483c948f3c32ce865e2cad67668fdbff118b6eae50721ee",
+          "chars": 13,
+          "found_in_local": true
+        },
+        {
+          "sha256": "9f65ffd490adc7f0373e1921c113ded932895924c5686bb6764676cf2736ea67",
+          "chars": 142,
+          "found_in_local": true
+        },
+        {
+          "sha256": "167e18a29f827f25846f1162c810de00e8d78ca52750282ef0f8782d39298705",
+          "chars": 140,
+          "found_in_local": true
+        },
+        {
+          "sha256": "555c0dc6a83e6f8f6765df8b6be357a6901fe3a29b9e0f3f1a3001b45ab7fe4f",
+          "chars": 37,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "74c2e696df11d74b0a246c0933bc012d5d66c411167b57079d2863bbe5d1fa7d",
+          "chars": 277,
+          "found_in_local": true
+        }
+      ],
+      "matched": 59,
+      "total": 65
+    },
+    {
+      "ecli": "ECLI:NL:HR:2013:BY9718",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-by9718.md",
+      "sha256": "82c91af5e14fc38ae22c7097a9e23209953f30bffdba51ca5e6c2aedd9cb78de",
+      "method": "Full local file read and all official primary judgment paragraphs compared after whitespace removal; no contents summary substituted for judicial text.",
+      "paragraph_checks": [
+        {
+          "sha256": "210cacb1a81d0b6a51d367d2b15d499e04c011aa294d7382646c90532dc93870",
+          "chars": 13,
+          "found_in_local": true
+        },
+        {
+          "sha256": "085bf13f329a83edb9260cea499c5f0d1136bfa702216f8c1e11d6fad7bc21f1",
+          "chars": 10,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e0922da107da1cb8a2df45357877c27793d4efc7d696300982be140165fa71f0",
+          "chars": 14,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3a0371e37e24f5e0f0b8de8d681d19204ca406f3479bd33775a2f17c069845f6",
+          "chars": 6,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "369a553c96b76d914e04382406d45a0e576da9ef6e3ac18fab35cf66a83f8fbe",
+          "chars": 25,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8078ae82243f403f8734d9109b8d538ba76cf2ce224f95381f2e8817169c5c31",
+          "chars": 6,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "2e1037c145bae4e87555c227daea59a08a0a2792e0204c1b86be1b4386539ad4",
+          "chars": 141,
+          "found_in_local": true
+        },
+        {
+          "sha256": "dd1d53363d7a719ee3610565356969478e091981c9df2b5eefb2f61451822929",
+          "chars": 65,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "efc2c24981863766a188d337ffc103e90e05c3e58ac0bb51f0c3ecfa714911e0",
+          "chars": 21,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "163a58849b21794f5ba9e5cfddd32688d802797527e5dc41a754da2f30b02f88",
+          "chars": 81,
+          "found_in_local": true
+        },
+        {
+          "sha256": "166d74f5c5401fb404acaed6ef32e68216f3b3eff9bebce5dc5ea2f3411f7b7d",
+          "chars": 188,
+          "found_in_local": true
+        },
+        {
+          "sha256": "35afa5d6d7a609ada4dc7ac0c78ba03458774894ca08b124e1cb2cfec69d865d",
+          "chars": 157,
+          "found_in_local": true
+        },
+        {
+          "sha256": "dcc514288151b0f24a85649c2faeb3d7de689e784f1cb0f8c9ba22fe4edc3846",
+          "chars": 138,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1b63b136538d128de30231c8b46108e88ca218272f99d15afedcd0655b8ab914",
+          "chars": 81,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ecef47305c553adef4ce4c12107ae026b9ea6705aed26860a969f4d7deed6cc2",
+          "chars": 55,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "5b86a355f63cd623af79b5e87dad260f3bbb843fe09809baf051eb22975e6381",
+          "chars": 80,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1dda6b00b132d137ffc845ad4deadb66ad59655d69df78abb5bda38b090384ee",
+          "chars": 201,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0125dbf9274ef87f848848284cb5676373e98b260166e9144224cce968afef1f",
+          "chars": 54,
+          "found_in_local": true
+        },
+        {
+          "sha256": "be1911417e4cfa3bbe028266e5a4c92f57b98e34f125156cdd7d82b5fc8842ab",
+          "chars": 666,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8e660d4685cecb9f8aa01be9107032a83853684ef056f9c498839b9055dd0e00",
+          "chars": 127,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b34866e86ed77cdbbb38a358bf5cffd918a8eb590315dbe4d4f9d43b83ddfb0b",
+          "chars": 174,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1c327300f32ca89829940d4ee0165cfaa65861b46de77772e4fa56dcc1335e48",
+          "chars": 594,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e021dc6b26416c9632e8ce3e2957d93cdfb1fedd8bd0148559061bfef085a52e",
+          "chars": 131,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7932e23660ec86e817741739ec6c41ae2955e6c100ef5a34ffe5cc9b07ab33c6",
+          "chars": 291,
+          "found_in_local": true
+        },
+        {
+          "sha256": "be9012e9a30c2c4fd61e82f5582dd35fff1df40c41a5d090d1df14d221918945",
+          "chars": 123,
+          "found_in_local": true
+        },
+        {
+          "sha256": "010a3e26e5058e101a76d52e3c2a4d3053e456fbd8921afac9a8aa26941c4585",
+          "chars": 57,
+          "found_in_local": true
+        },
+        {
+          "sha256": "61b13477c2df420f7d4f59b25088e2fc0ad3888164d4fe14ecb480755e12e378",
+          "chars": 351,
+          "found_in_local": true
+        },
+        {
+          "sha256": "9a749eeca55f1eb53bcdaaed34994f802f33241056b90728b9fac0482fb3a8bc",
+          "chars": 340,
+          "found_in_local": true
+        },
+        {
+          "sha256": "67d063ecf90150ebb1c3eb152fda2cf0e4590320ff5d0149fd9b026ef4fd1f5d",
+          "chars": 773,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f4f7fedf90689214bf1b054ad8b898cd55096e6d13e8a32c52a914c07c0266a8",
+          "chars": 205,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "2868f473abbf34144465240a9f68548bb91fb6e8688fc41df6accbbca32e6d46",
+          "chars": 760,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3aa493dc9a859f4943c206eb36925a58539d0343fef792757c80d821a2f9e4d4",
+          "chars": 245,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e1933f41b91d17a795abdde0fcc71093d77908cf234b65ab6cc262d9bb13468c",
+          "chars": 91,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0b24eca545f17f79519a1c15f21628f40dc02fb0e1277940d11be8001dba0777",
+          "chars": 330,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7f96786ccf1d0192e0d8878871e4953a7e246eb95f8e86a729c56608e66e1a81",
+          "chars": 43,
+          "found_in_local": true
+        },
+        {
+          "sha256": "441db07e7dee4021b3825bd8187b31cd267aa5203cf0af92d0d2d1b9d1cd1507",
+          "chars": 31,
+          "found_in_local": true
+        },
+        {
+          "sha256": "00ff160c2504df7e65d5db6c04710e60045901650661e5b66be3a3933f19a8bb",
+          "chars": 57,
+          "found_in_local": true
+        },
+        {
+          "sha256": "9a835375d75eace68b9c7c2d67593f5ade6a2cffbd548807e40fee1dacd1918e",
+          "chars": 49,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3e444c6df734b991b220a309183b9a9ac1d7b310a15753e27165a2b7797c682a",
+          "chars": 87,
+          "found_in_local": true
+        },
+        {
+          "sha256": "6a04cc1550c9ea4778b52dc48edcd9dddfde9484a89a8d6ea516c26c733bf898",
+          "chars": 154,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "31c1981773ec41da9d9dc01588939f01ded1068a0528db1792bc9cbe13cc6468",
+          "chars": 333,
+          "found_in_local": true
+        },
+        {
+          "sha256": "00e6b65d2f894cb41d9261430f5f3cbb7f4758572dd7f80615921e6a488c0050",
+          "chars": 67,
+          "found_in_local": true
+        },
+        {
+          "sha256": "eb341ee186678ba93b4f727e55635885116d0c1b65d3e7db14cb50d2b473f446",
+          "chars": 920,
+          "found_in_local": true
+        },
+        {
+          "sha256": "674dbebf3380657791bddd6932b299915bd08b37f3b00988f2cbb4613ff52a38",
+          "chars": 147,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a786c1893eb48f52157454a8c465fe04f697be8c00a4ce42edd92352a1d8cebd",
+          "chars": 146,
+          "found_in_local": true
+        },
+        {
+          "sha256": "c7646a6166eef851f4b9b5a9837b832b0483cdc32f246055a3e8ed4e83c779c0",
+          "chars": 90,
+          "found_in_local": true
+        },
+        {
+          "sha256": "2b2f987db31b4d0e7e4bf9dc9f5582db873723d11d68107f6a8d625b488b8d4c",
+          "chars": 44,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "bd2c5ef91dd3ab336be1b6a7c5a270bdd6190155b3f26d2c75ca0e61f8758563",
+          "chars": 378,
+          "found_in_local": true
+        },
+        {
+          "sha256": "09951f9a99b5f529ecace5513a3a6104c64c0ce1231d4e0167184509ca6a61fe",
+          "chars": 78,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f58799957d1e1d5b769ce9497b397a242bce1c5954cd349810c890de410e49c0",
+          "chars": 371,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0db368f4d4753ce0514236c5a95d035adc7297c48923db1d845d357132b56bda",
+          "chars": 53,
+          "found_in_local": true
+        },
+        {
+          "sha256": "46f53e23fd9ebc65d462a4ae682c623a19ff19c5ed4d824f4610ea8cc4d22eaf",
+          "chars": 635,
+          "found_in_local": true
+        },
+        {
+          "sha256": "81b111be84a124ed38bdb0c890516d3eac9926c8f0b82a42d3dff285732c930d",
+          "chars": 52,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e324afe3c02841e2badce2a2a1f66ae12c92d51165b5b61f8e41167b96ed5704",
+          "chars": 599,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8d39695e7782a3dd622c70e0891bbd14b2fa28c0d6836621765f70e147ca7f8c",
+          "chars": 53,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7f08a00f63612dc3b45fe21d04d036486547f48bfd5fd3fb9f8f444f96b98da4",
+          "chars": 689,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "2340cf876cb6dd8ea3e108c0c4e2491c6ef729ce87650b071b803142eb086ce0",
+          "chars": 709,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "41495446bf875ee867fe94b541471663bffae3c5cbad77d08fa8a2f50544ca3b",
+          "chars": 40,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "08daf0f249362aaa2d9177ae9a2b2ca6650c2afc415c137e273594bbe202c928",
+          "chars": 63,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "53a443664607f9bdb44d75da1a07e8178e015bb76f4b6b29dfc30ec99d7ee646",
+          "chars": 234,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3775e3be1dfde4b5af0c513e31e4789a79d25160d636f8bb9c1bd99d51d110a5",
+          "chars": 10,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "cd3d0b223dea36312cdd83004cdb4279f19fdb692ae66b0b995863d09c050cd8",
+          "chars": 195,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1cdcc100ad087fb6419776295547a5ca1cd65bdd9a70c3019ea64283d012e904",
+          "chars": 14,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "d644cb20f169a40ee483c948f3c32ce865e2cad67668fdbff118b6eae50721ee",
+          "chars": 13,
+          "found_in_local": true
+        },
+        {
+          "sha256": "be8dcca48eaf88d8e754566673710344bd8032b0604d3c3c3e3bc16ce23f9c58",
+          "chars": 142,
+          "found_in_local": true
+        },
+        {
+          "sha256": "167e18a29f827f25846f1162c810de00e8d78ca52750282ef0f8782d39298705",
+          "chars": 140,
+          "found_in_local": true
+        },
+        {
+          "sha256": "58956b995e70b60d2485d6823f13a696a98613d7dd89aad0abd8e3fd383d53f9",
+          "chars": 38,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "24e1e49f5918f5b573f38ca1db599c52bd4034b20d6da6a1752a5b19b45ee948",
+          "chars": 230,
+          "found_in_local": true
+        }
+      ],
+      "matched": 91,
+      "total": 91
+    },
+    {
+      "ecli": "ECLI:NL:HR:2026:904",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-904.md",
+      "sha256": "7ed6542d2ff1b2551daa653f44ff520a4332357fe5853712dd2b81093d8cec7a",
+      "method": "Full local file read and all official primary judgment paragraphs compared after whitespace removal; no contents summary substituted for judicial text.",
+      "paragraph_checks": [
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "aed24d30bbb87d072ac0d681d57fe6bed1fc6d78cbba0e8775d268e412e0abec",
+          "chars": 25,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "23bfe83f3fd2fe63eeadb1d8bec1509353c79df1b7b7b3bfcd631684724e5260",
+          "chars": 10,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a5282f33dc6a846b27a5e92ab613401c2e62a7283d4345558bbcc2305e7603fd",
+          "chars": 15,
+          "found_in_local": false
+        },
+        {
+          "sha256": "989a00bb038ca47ebf0da9cc73963edc6f63c62edda65bb539d805baf5f57c13",
+          "chars": 17,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e938cc0b76cf901241f79a9e65f9c9067f9160e5254d034f8aab9ce161fda245",
+          "chars": 6,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "54a45bd683c4af2b223a17ce9a858d166d6fa3d24d9a8cb7a3689f1c912663ef",
+          "chars": 127,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "03642e8f71e73db66457a5325b40b311d12770e5d6fbcc1728cc1695dd63b624",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "09b53e1db1e37317b3e193d4b808388445050d98d322fb77a188acb355b04216",
+          "chars": 13,
+          "found_in_local": false
+        },
+        {
+          "sha256": "94c8935e462b4e62f446e65c2b8436e20cbe279b4bbbe43d3a7b9603138fe728",
+          "chars": 52,
+          "found_in_local": false
+        },
+        {
+          "sha256": "613769e075a86f21061b0f297207c7caa6223a5311d9ecf227ab8d8742691b96",
+          "chars": 21,
+          "found_in_local": false
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f9e1b8873edc732697d28ff8a20557c29a943cd393fadf8ef74e9fa2b66bde9f",
+          "chars": 132,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a7d3273652aa1c89800ef35dee0812a6c497226dc98a54f385f4f8ea847ed26a",
+          "chars": 374,
+          "found_in_local": true
+        },
+        {
+          "sha256": "301c33739af47c5794953b277edb88966301b06993ab8ea3188247f8fa4d2a58",
+          "chars": 303,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f6df14a56c40fb3c11c8cbf6e27777e8c61715d36eff1453719002daee880658",
+          "chars": 93,
+          "found_in_local": true
+        },
+        {
+          "sha256": "96bbab58b7dc6f679928d2565f6b1a48127b1cdb941262e972a95b90b424bbf2",
+          "chars": 248,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e29d3e81ec6613cbc1516b675e3d0c6e89abb0a0a83b2de607544f02b06cf0b0",
+          "chars": 102,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ca0775660854d6a55235c69857b658b80c6988c13c23b56ae20bbb83cf1e998c",
+          "chars": 59,
+          "found_in_local": true
+        },
+        {
+          "sha256": "09bea1bcc2fbfbac1a84ea27542b6e8720833461fc86aa899cba2eaa8de19e4f",
+          "chars": 79,
+          "found_in_local": true
+        },
+        {
+          "sha256": "9a422db45e3c437872cef49776c636b592ccc4f826f50a298b172fd250f8675f",
+          "chars": 336,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ca0e504e009e45b2e4d75fb94d258ecd403476131f732ecf209cdecfb4cd6371",
+          "chars": 77,
+          "found_in_local": true
+        },
+        {
+          "sha256": "2beee3da8c11dc2126364f2f881f3a4485ec1b4041b2c342392e0a8b9fbf141c",
+          "chars": 97,
+          "found_in_local": true
+        },
+        {
+          "sha256": "10464a06e4363496b3252136c53ba54bd0549eab232ca0c336df74f7596d0077",
+          "chars": 223,
+          "found_in_local": true
+        },
+        {
+          "sha256": "aa59bc478d1a1fa01fe8afd63e5e0fb9db61af7722f3950d384a5dc392ce59c0",
+          "chars": 70,
+          "found_in_local": true
+        },
+        {
+          "sha256": "207ed390e01bbb9217b26430004766ca84e107fb4a88ac9e9dc74f54bb4a8d8e",
+          "chars": 203,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "32b15e7ff43d2752240071858c93c2ca650c54b494c76fbca180b6cf8c1a2051",
+          "chars": 29,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b68277d753318c6c6e990c8aa329ed3cf3c459a53f19862ddbf08e14ab4b4d85",
+          "chars": 204,
+          "found_in_local": true
+        },
+        {
+          "sha256": "fcbf3a18e64c0f08766b3a8c58b44f97e4f40cd6a6c1f55bb28d6cb3e2895184",
+          "chars": 32,
+          "found_in_local": true
+        },
+        {
+          "sha256": "96187361b36d572303f49d4bf3d9bffe922e5b6831eb90cacd085e1052b387ca",
+          "chars": 54,
+          "found_in_local": true
+        },
+        {
+          "sha256": "95b8ae273519db5126bd1a03ec90d3202705b748bfdde998aa742d34c80de74c",
+          "chars": 96,
+          "found_in_local": true
+        },
+        {
+          "sha256": "19fd32b7e63646b92b0882cbc4d14e4819c6a5f9776401e0985b00484b7a1221",
+          "chars": 517,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7fee0cff0f52a64e684f1fb47606c0a1f53724d5ab198931bdbe2cec26112405",
+          "chars": 198,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e947b339336ca5e5295b2066b59c14472ca3748da81f476afb8bb7dbba236d39",
+          "chars": 20,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ce5fa26726efa566745d861d6ee3f0313b5d221472e419182ab9176838434982",
+          "chars": 427,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0b360f31048c8b5c95d7abe600049f25906a75a9999dda7f8bcf0cd6e88b2b44",
+          "chars": 227,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "fe64dc42f2f7c323583b8b9332898723b613dcc7f75ad7a230bc4b90c3c08047",
+          "chars": 225,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7cd745a26ffcc1a94747a034fe7aa74d456a6791bf7eb76638742b7143289385",
+          "chars": 9,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0032f6cd987ee52b8cf07675f6d692c94fd5508bbe055e4e0d508a6acd3b0714",
+          "chars": 988,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8b62b016cad39ef8cf68f72311cbff9adac3f29245dd86b803ed502991009f67",
+          "chars": 752,
+          "found_in_local": true
+        },
+        {
+          "sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "80f95832bf1ac14f0d57dba2b1a61967cd5e44bc9d56a711cac8bb605ddc4817",
+          "chars": 28,
+          "found_in_local": true
+        },
+        {
+          "sha256": "42d214502c0831fd2b768255959bf185a378cb723171776152a18568c06153f5",
+          "chars": 467,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7bf48a213c16387b3493ec6eb178e451a91e94589580f79b64163534432ba6a3",
+          "chars": 258,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f59a0fb9e8c36ac5c2107a32349956008c385b9ff376cb869d092bdb6f1ad5c9",
+          "chars": 39,
+          "found_in_local": true
+        },
+        {
+          "sha256": "811c17a5018afceaac1798b6e2fed606816897874617b47402867ae7fb8027e5",
+          "chars": 17,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1f4176f3311272b860b6e78484c2f6452e786119c3cc952587a2319bc37cd982",
+          "chars": 462,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f51f0fe48ea488985dde92e5c29047cc7d0cd0d767b6c447e7f52ec1fc9a0742",
+          "chars": 17,
+          "found_in_local": true
+        },
+        {
+          "sha256": "624a7593997ba302387c50a7c93be30e8e76ea8858b75bd22746fa714d3b08ba",
+          "chars": 81,
+          "found_in_local": true
+        },
+        {
+          "sha256": "6c5ba5e619cbab3759bcc1a6eed18e3431ee2434f5d1fd1c0012db7ed092738b",
+          "chars": 289,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e7908372586f3d2b9513514b25a1e28fa28117776fee449753501a6f7d8e7201",
+          "chars": 193,
+          "found_in_local": true
+        },
+        {
+          "sha256": "c57b2de6965bbb647b6ecf796b103f5aa04c9558e22eadd20ccaaa133661a11b",
+          "chars": 76,
+          "found_in_local": true
+        },
+        {
+          "sha256": "aafc25d20e369d2fe1ea264965fbb7177c7311a0d4dc2e2d7c987c460d358cac",
+          "chars": 44,
+          "found_in_local": true
+        },
+        {
+          "sha256": "7bfff4d827eb4cfeb582aeffff346e3f187a392514c3279c23c2be81f4d2b1c7",
+          "chars": 57,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3fe646d0c7f199c48a3b55980496181659fdfce2dc8dab8e8d272495ac43d6c7",
+          "chars": 58,
+          "found_in_local": true
+        },
+        {
+          "sha256": "494d5f82fca63cb063dbbbeeea896c727ee14548ccf194bf5975ad5bc115601d",
+          "chars": 74,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e4084fb17e5c1f066d3104342a8a0dfb19a333e01766dd56617b45602d91621a",
+          "chars": 368,
+          "found_in_local": true
+        },
+        {
+          "sha256": "cd8ff42662533adaced19c5aa5976d8a307a774fdf795b356ee1ee3122665120",
+          "chars": 75,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e2c4f080338d96d4ed17a6bfa831508185072fb4cf3ba52ca45e65d6bdb5a628",
+          "chars": 277,
+          "found_in_local": true
+        },
+        {
+          "sha256": "c70373658f2c78e785da235f8e0bcfd27244cb4308596eb8af36dc4b11db0e29",
+          "chars": 455,
+          "found_in_local": true
+        },
+        {
+          "sha256": "74f2e44f70e95f273a2012dd71a20459cf7686b0635274a81c25322980aabe13",
+          "chars": 78,
+          "found_in_local": true
+        },
+        {
+          "sha256": "92ff09207aba3ff7946790658418a5a3cc272babfe231e23aeec463816f40664",
+          "chars": 920,
+          "found_in_local": true
+        },
+        {
+          "sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1cc92fa39180ec54ce21329694494e4e44c47c983324a9ded55186d149224793",
+          "chars": 945,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "6a3cf182a37d6e910cb7564a17a9c89e5d6692fb77d75d4f6c4d5b0492eee35b",
+          "chars": 62,
+          "found_in_local": true
+        },
+        {
+          "sha256": "d64451a96bbedc83aaba59306e5aaaf3870e232fd8dcae16f00aeb0d0a15f753",
+          "chars": 762,
+          "found_in_local": true
+        },
+        {
+          "sha256": "10c209fa0890fe02c85a8c663ca8e7a37cc766bc5b1b29a0cc61b266f64121d3",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b3a21ecf09c992ec22c93c318ab610d1d53274185c4760545ead4d64a9681e2d",
+          "chars": 490,
+          "found_in_local": true
+        },
+        {
+          "sha256": "06401414995d3bd8a555f612debdadf5bd9163735cf3016377fdb6cc7285836a",
+          "chars": 48,
+          "found_in_local": true
+        },
+        {
+          "sha256": "504aaa598dacaffd223c4d97c8b1adae108dc2e80221dce804a72f729d635e0a",
+          "chars": 1183,
+          "found_in_local": true
+        },
+        {
+          "sha256": "32fb45b1c6e524a8ebeef8c4d7310e11a58155dd465c9a3edf64771fae892ca8",
+          "chars": 214,
+          "found_in_local": true
+        },
+        {
+          "sha256": "5957eb5be5c998e8368a6f3eac92bc9c161a376dd4eaf9d5705f2c107067efc4",
+          "chars": 984,
+          "found_in_local": true
+        },
+        {
+          "sha256": "5b38d7bc21129588da03e5d3059f381c48872e08f4b22560965fe6cb8b40c2a8",
+          "chars": 381,
+          "found_in_local": true
+        },
+        {
+          "sha256": "d644cb20f169a40ee483c948f3c32ce865e2cad67668fdbff118b6eae50721ee",
+          "chars": 13,
+          "found_in_local": true
+        },
+        {
+          "sha256": "deb92f5ca3444b4bf90cb6696e6cd7c26f8bdea5f6be007e82c008404361d57f",
+          "chars": 109,
+          "found_in_local": true
+        },
+        {
+          "sha256": "1f044181165211d9369fb5b09e324bd8b70162fe0c10d8feb731c6b64bfa3bdd",
+          "chars": 72,
+          "found_in_local": true
+        },
+        {
+          "sha256": "da35d354e1d1553264f95b2a9c4bd0647ed131c38cd22465d0061dd157fbc25d",
+          "chars": 39,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a38e147d2122337273e334f9817e439d26db8feecfa69cf1ce1dcc274b493073",
+          "chars": 228,
+          "found_in_local": true
+        }
+      ],
+      "matched": 84,
+      "total": 93
+    },
+    {
+      "ecli": "ECLI:NL:HR:2005:AS5983",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2005-as5983.md",
+      "sha256": "2efef42823660e66aca85d9cd55331a3c1537b85e3bb1abc815b72a1b110c8da",
+      "method": "Full local file read and all official primary judgment paragraphs compared after whitespace removal; no contents summary substituted for judicial text.",
+      "paragraph_checks": [
+        {
+          "sha256": "978e9a8de375b1c7348179c3d644622254cc1292fbb90fecfdc2000a54535923",
+          "chars": 12,
+          "found_in_local": true
+        },
+        {
+          "sha256": "085bf13f329a83edb9260cea499c5f0d1136bfa702216f8c1e11d6fad7bc21f1",
+          "chars": 10,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f24f1bd33cbf9cf69ba590c9952da898bf9651e72f46d35f27f5a8c4910e90b0",
+          "chars": 12,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ee1656c792161471bb26d44850e39de1f6bf7b3756f4477f7cc61e917c8520f0",
+          "chars": 5,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "369a553c96b76d914e04382406d45a0e576da9ef6e3ac18fab35cf66a83f8fbe",
+          "chars": 25,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8078ae82243f403f8734d9109b8d538ba76cf2ce224f95381f2e8817169c5c31",
+          "chars": 6,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "91dda17c009cb59fc23b18e69bf6b38ac08eb874c751046e59ca6cd42ac919b5",
+          "chars": 145,
+          "found_in_local": true
+        },
+        {
+          "sha256": "b261f419478706bd1037ad78d32a6928c733a9914cee0e6683253be37522fb5e",
+          "chars": 242,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "cbbc8b8e58b802d6b7b0f5c75acd7c8e5b85cd05b216c31e92e8b7edaf3807c9",
+          "chars": 25,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "a30baefb6658a9cc9a21c46c19a5b6385bbdbe5cd1f0e432c8cab18c753a9810",
+          "chars": 1289,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "facdf0373a7600c792b8170514eeac6e22153021adbf10e8c03c2de7a6f0271b",
+          "chars": 21,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "3b35f1da7ed9a003acf522c75733e04048bca3d4bac5d1e5e10ae80810c249ea",
+          "chars": 222,
+          "found_in_local": true
+        },
+        {
+          "sha256": "62a7611aac4fc0036d3c5fee7bae17fd546869a20984d25a984f634af12b0b9e",
+          "chars": 157,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "ff5f839af4e7550a7565faa726c87f6b37d51f52532932413854d804b29c67f3",
+          "chars": 61,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "28badcc05931e0994518a871563983e34110ec9a65a00ebea96dc3751b4c4d99",
+          "chars": 584,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "8d663eb881a70aba2d1fb7e7ebb16709eda110182395a10b3b8b96815736fd9a",
+          "chars": 112,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e0174056bd91c1f76fe048099bd5ebc0ae1d665a423e04f40a1a05f4e662137b",
+          "chars": 36,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "0f363f3182688a1ce82fee5e2dafb590061bdc0ce89b4abe494d55c9ef37c543",
+          "chars": 216,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "00c2f646e7d4a5cc4539fc4f4340c44b2b5a9590292da93aad39b3ad25886f7d",
+          "chars": 10,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "371f0544de07677e0c1561e4ca4cf9be1b61d80d3fc53066814ff257005fd3d5",
+          "chars": 210,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "f4ff0375647724acf232d883d7cc2b4f66a4d4dbf3b0d2c93fb2bd70d5320b74",
+          "chars": 13,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "74f1751a3c6861a46e20afabb34fb2be866ef7afc85537db98ce88b3aed7fb04",
+          "chars": 33,
+          "found_in_local": true
+        },
+        {
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars": 0,
+          "found_in_local": true
+        },
+        {
+          "sha256": "12853e130d75be4c34fe9b1ee483649dbabd3a514240b156e64ea9e2bd504c02",
+          "chars": 219,
+          "found_in_local": true
+        }
+      ],
+      "matched": 40,
+      "total": 40
+    }
+  ],
+  "rejected_discovery_results": [
+    "PHR:2013:BY9718 is not the HR judgment; fetched primary HR instead.",
+    "HR2017:416 concerns preparation/promotion under96(2), not an uncomplicated general holding on80; not added as support for samenspanning.",
+    "HR2026:1136 is an81RO case about damages and an old sexual offense; no substantive current81Sr holding inferred.",
+    "Third-party search result mirroring2018:1051 used only for discovery; official full XML is primary."
+  ],
+  "no_new_case_selected_for": [
+    "a77ee",
+    "a77ff",
+    "a77gg",
+    "a77hh",
+    "a78",
+    "a78a",
+    "a78b",
+    "a79",
+    "a80",
+    "a80bis",
+    "a80ter",
+    "a80quater",
+    "a80quinquies",
+    "a80septies",
+    "a82a",
+    "a83"
+  ],
+  "limitations": "Selective research, not exhaustive absence finding for other units. Other previously reviewed units not reopened.",
+  "firecrawl": {
+    "installed": true,
+    "authenticated": true,
+    "available_credits": 0,
+    "action": "Status checked; direct official XML used; no settings changed."
+  },
+  "local_differences_assessed": "Unmatched primary paragraphs in2018:1051 and2026:904 are arrest headings and anonymized party introduction before section1, absent as body paragraphs from intake Markdown. All merits and disposition paragraphs match; official complete XML retained."
+}

@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2018-322/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 27 juni 2018 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering in verband met de verbetering en versterking van de opsporing en vervolging van computercriminaliteit (computercriminaliteit III)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om geautomatiseerde werken op afstand heimelijk binnen te kunnen dringen met het oog op de opsporing van ernstige misdrijven, gegevens op doeltreffende wijze ontoegankelijk te kunnen doen maken ter beëindiging van een strafbaar feit of ter voorkoming van nieuwe strafbare feiten, de strafbaarheid van grooming en van verleiding van een minderjarige tot ontucht te verruimen alsmede het wederrechtelijk voorhanden hebben of bekend maken van door misdrijf verkregen gegevens en de online handelsfraude strafbaar te stellen;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Strafrecht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 54a komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">54a</nr>
+                </kop>
+                <al>Een tussenpersoon die een communicatiedienst verleent bestaande in de doorgifte of opslag van gegevens die van een ander afkomstig zijn, wordt bij een strafbaar feit dat met gebruikmaking van die dienst wordt begaan als zodanig niet vervolgd indien hij voldoet aan een bevel als bedoeld in artikel 125p van het Wetboek van Strafvordering.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 80sexies komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">80sexies</nr>
+                </kop>
+                <al>Onder geautomatiseerd werk wordt verstaan een apparaat of groep van onderling verbonden of samenhangende apparaten, waarvan er één of meer op basis van een programma automatisch computergegevens verwerken.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Na artikel 138b wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">138c</nr>
+                </kop>
+                <al>Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk en wederrechtelijk niet-openbare gegevens die zijn opgeslagen door middel van een geautomatiseerd werk, voor zichzelf of voor een ander overneemt.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 139f komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">139f</nr>
+                </kop>
+                <al>Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die, gebruik makende van een technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, opzettelijk en wederrechtelijk van een persoon, aanwezig in een woning of op een andere niet voor het publiek toegankelijke plaats, een afbeelding vervaardigt.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 139g komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">139g</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die niet-openbare gegevens:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>verwerft of voorhanden heeft, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van deze gegevens wist of redelijkerwijs had moeten vermoeden dat deze door misdrijf zijn verkregen;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>ter beschikking van een ander stelt, aan een ander bekend maakt of uit winstbejag voorhanden heeft of gebruikt, terwijl hij weet of redelijkerwijs moet vermoeden dat het door misdrijf verkregen gegevens betreft.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Niet strafbaar is degene die te goeder trouw heeft kunnen aannemen dat het algemeen belang het verwerven, voorhanden hebben, ter beschikkingstellen, bekendmaken of gebruik van de gegevens, bedoeld in het eerste lid, vereiste.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 248a komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">248a</nr>
+                </kop>
+                <al>Hij die door giften of beloften van geld of goed, misbruik van uit feitelijke verhoudingen voortvloeiend overwicht of misleiding een persoon die de leeftijd van achttien jaren nog niet heeft bereikt of iemand die zich, al dan niet met een technisch hulpmiddel, waaronder een virtuele creatie van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, voordoet als een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, opzettelijk beweegt ontuchtige handelingen te plegen of zodanige handelingen van hem te dulden, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Artikel 248e komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">248e</nr>
+                </kop>
+                <al>Hij die door middel van een geautomatiseerd werk of met gebruikmaking van een communicatiedienst aan een persoon die de leeftijd van zestien jaren nog niet heeft bereikt of iemand die zich, al dan niet met een technisch hulpmiddel, waaronder een virtuele creatie van een persoon die de leeftijd van zestien jaren nog niet heeft bereikt, voordoet als een persoon die de leeftijd van zestien jaren nog niet heeft bereikt een ontmoeting voorstelt met het oogmerk ontuchtige handelingen met een persoon die de leeftijd van zestien jaren nog niet heeft bereikt te plegen of een afbeelding van een seksuele gedraging waarbij een persoon die de leeftijd van zestien jaren nog niet heeft bereikt is betrokken te vervaardigen, wordt, indien hij enige handeling onderneemt tot het verwezenlijken van die ontmoeting, gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Artikel 273d wordt gewijzigd als volgt:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst» vervangen door: openbaar communicatienetwerk of een openbare communicatiedienst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het tweede lid wordt «niet-openbaar telecommunicatienetwerk of een niet-openbare telecommunicatiedienst» vervangen door: niet-openbaar communicatienetwerk of een niet-openbare communicatiedienst.</wat>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Na artikel 326c wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">326d</nr>
+                </kop>
+                <al>Hij die een beroep of een gewoonte maakt van het door middel van een geautomatiseerd werk verkopen van goederen of verlenen van diensten tegen betaling met het oogmerk om zonder volledige levering zich of een ander van de betaling van die goederen of diensten te verzekeren, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Strafvordering wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 67, eerste lid, onderdeel b, wordt na «139d, eerste en tweede lid,» ingevoegd: 139g,.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 67a, tweede lid, onder 3°, wordt na «326a» ingevoegd: 326d.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Aan artikel 125m wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Degene tot wie een bevel, als bedoeld in artikel 125k, eerste lid, is gericht neemt in het belang van het onderzoek geheimhouding in acht omtrent al hetgeen hem terzake van de vordering bekend is.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Na artikel 125o wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">125p</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid, kan de officier van justitie aan een aanbieder van een communicatiedienst als bedoeld in artikel 138e het bevel richten om terstond alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd om bepaalde gegevens die worden opgeslagen of doorgegeven, ontoegankelijk te maken, voor zover dit noodzakelijk is ter beëindiging van een strafbaar feit of ter voorkoming van nieuwe strafbare feiten.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het bevel, bedoeld in het eerste lid, is schriftelijk en vermeldt:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>het strafbare feit;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de feiten en omstandigheden waaruit blijkt dat ontoegankelijkmaking van de gegevens noodzakelijk is om het strafbare feit te beëindigen of nieuwe strafbare feiten te voorkomen;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>welke gegevens ontoegankelijk moeten worden gemaakt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Artikel 125o, tweede en derde lid, zijn van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na voorafgaande schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. De rechter-commissaris stelt de aanbieder tot wie het bevel is gericht in de gelegenheid te worden gehoord. De aanbieder is bevoegd zich bij het horen door een raadsman te doen bijstaan.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 126g, derde lid, tweede volzin, komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming dan wel in het geval, bedoeld in artikel 126nba, eerste lid, onder c.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 126la vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>In Titel IVA van het Eerste Boek wordt, onder vernummering van de Achtste tot de Negende afdeling, een afdeling ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="rom">
+                  <label>ACHTSTE AFDELING</label>
+                  <titel>ONDERZOEK IN EEN GEAUTOMATISEERD WERK</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">126nba</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>In geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid, dat gezien zijn aard of de samenhang met andere door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert, kan de officier van justitie, indien het onderzoek dit dringend vordert, bevelen dat een daartoe aangewezen opsporingsambtenaar binnendringt in een geautomatiseerd werk dat bij de verdachte in gebruik is en, al dan niet met een technisch hulpmiddel, onderzoek doet met het oog op:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de vaststelling van bepaalde kenmerken van het geautomatiseerde werk of de gebruiker, zoals de identiteit of locatie, en de vastlegging daarvan;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de uitvoering van een bevel als bedoeld in de artikelen 126l of 126m;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de uitvoering van een bevel als bedoeld in artikel 126g, waarbij de officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel op een persoon wordt bevestigd;</al>
+                      </li>
+                    </lijst>
+                    <al>en, ingeval van een misdrijf, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, dan wel een misdrijf dat bij algemene maatregel van bestuur is aangewezen;</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>de vastlegging van gegevens die in het geautomatiseerde werk zijn opgeslagen, of die eerst na het tijdstip van afgifte van het bevel worden opgeslagen, voor zover redelijkerwijs nodig om de waarheid aan de dag te brengen;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>de ontoegankelijkmaking van gegevens, bedoeld in artikel 126cc, vijfde lid. Artikel 11.7a van de Telecommunicatiewet is niet van toepassing op handelingen ter uitvoering van een bevel als bedoeld in de eerste volzin.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het bevel, bedoeld in het eerste lid, is schriftelijk en vermeldt:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>het misdrijf en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de verdachte;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>zo mogelijk een nummer of een andere aanduiding waarmee het geautomatiseerde werk kan worden geïdentificeerd en, indien bekend, dat de gegevens niet in Nederland zijn opgeslagen;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>een aanduiding van de aard en functionaliteit van het technische hulpmiddel, bedoeld in het eerste lid, dat wordt gebruikt voor de uitvoering van het bevel;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>het onderdeel of de onderdelen, genoemd in het eerste lid, met het oog waarop het bevel wordt gegeven en, als dit het onderdeel a, d of e betreft, een duidelijke omschrijving van de te verrichten handelingen;</al>
+                      </li>
+                      <li>
+                        <li.nr>f.</li.nr>
+                        <al>ten aanzien van welk deel van het geautomatiseerde werk en welke categorie van gegevens aan het bevel uitvoering wordt gegeven;</al>
+                      </li>
+                      <li>
+                        <li.nr>g.</li.nr>
+                        <al>het tijdstip waarop, of de periode waarbinnen aan het bevel uitvoering wordt gegeven;</al>
+                      </li>
+                      <li>
+                        <li.nr>h.</li.nr>
+                        <al>in het geval het een bevel, bedoeld in het eerste lid, onderdeel c, betreft, een melding van het voornemen om een technisch hulpmiddel op een persoon te bevestigen.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het bevel, bedoeld in het eerste lid, wordt gegeven voor een periode van ten hoogste vier weken. Het kan telkens voor een periode van ten hoogste vier weken worden verlengd.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na schriftelijke machtiging op vordering van de officier van justitie te verlenen door de rechter-commissaris. De machtiging vermeldt de onderdelen van het bevel en de periode waarvoor de machtiging van kracht is.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">5.</lidnr>
+                    <al>Het bevel, bedoeld in het eerste lid, kan schriftelijk en met redenen omkleed worden gewijzigd, aangevuld, verlengd of beëindigd, met dien verstande dat de officier van justitie voor wijziging, aanvulling of verlenging een machtiging van de rechter-commissaris behoeft. Bij dringende noodzaak kunnen de beslissing van de officier van justitie en de machtiging van de rechter-commissaris mondeling worden gegeven. De officier van justitie en de rechter-commissaris stellen deze in dat geval binnen drie dagen op schrift.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">6.</lidnr>
+                    <al>Nadat het onderzoek is beëindigd wordt het technische hulpmiddel verwijderd. Indien het technische hulpmiddel niet of niet volledig kan worden verwijderd en dit risico’s oplevert voor het functioneren van het geautomatiseerde werk stelt de officier van justitie de beheerder van het geautomatiseerde werk daarvan in kennis en stelt de nodige informatie ter beschikking ten behoeve van de volledige verwijdering. Het bepaalde in artikel 126cc, eerste lid, is van overeenkomstige toepassing.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">7.</lidnr>
+                    <al>Het toezicht op de uitvoering van het bevel, bedoeld in het eerste lid, door de ambtenaren, bedoeld in artikel 141, onderdeel d, en de personen, bedoeld in artikel 142, eerste lid, onderdeel b, wordt uitgeoefend door de inspectie, bedoeld in artikel 65 van de Politiewet 2012, overeenkomstig het bepaalde in hoofdstuk 6 van de Politiewet 2012.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">8.</lidnr>
+                    <al>Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de autorisatie en deskundigheid van de opsporingsambtenaren die kunnen worden belast met het binnendringen en het onderzoek, bedoeld in het eerste lid, en de samenwerking met andere opsporingsambtenaren;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>de geautomatiseerde vastlegging van gegevens over de uitvoering van het bevel, bedoeld in het eerste lid.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">9.</lidnr>
+                    <al>Bij algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de bevoegdheid, bedoeld in het eerste lid, in de gevallen waarin niet bekend is waar de gegevens zijn opgeslagen.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>In artikel 126ng, eerste lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>In artikel 126ni, tweede lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 126o, derde lid, tweede volzin, komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming dan wel in het geval, bedoeld in artikel 126uba, eerste lid, onder c.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 126t, eerste lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Na artikel 126ub wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">126uba</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>In een geval als bedoeld in artikel 126o, eerste lid, kan de officier van justitie, indien het belang van het onderzoek dit dringend vordert, bevelen dat een daartoe aangewezen opsporingsambtenaar binnendringt in een geautomatiseerd werk dat in gebruik is bij een persoon ten aanzien van wie uit feiten of omstandigheden een redelijk vermoeden voortvloeit dat hij betrokken is bij het in georganiseerd verband beramen of plegen van misdrijven en, al dan niet met een technisch hulpmiddel, onderzoek doet met het oog op:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de vaststelling van bepaalde kenmerken van het geautomatiseerde werk of de gebruiker, zoals de identiteit of locatie, en de vastlegging daarvan;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de uitvoering van een bevel als bedoeld in de artikelen 126s en 126t;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de uitvoering van een bevel als bedoeld in artikel 126o waarbij de officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel op een persoon wordt bevestigd;</al>
+                    </li>
+                  </lijst>
+                  <al>en, ingeval van een misdrijf, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, dan wel een misdrijf dat bij algemene maatregel van bestuur is aangewezen;</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de vastlegging van gegevens die in het geautomatiseerde werk zijn opgeslagen, of eerst na het tijdstip van afgifte van het bevel worden opgeslagen, voor zover redelijkerwijs nodig om de waarheid aan de dag te brengen;</al>
+                    </li>
+                    <li>
+                      <li.nr>e.</li.nr>
+                      <al>de ontoegankelijkmaking van gegevens, bedoeld in artikel 126cc, vijfde lid. Artikel 11.7a van de Telecommunicatiewet is niet van toepassing op handelingen ter uitvoering van een bevel als bedoeld in de eerste volzin.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Het bevel, bedoeld in het eerste lid, is schriftelijk en vermeldt:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een omschrijving van het georganiseerd verband en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de persoon ten aanzien van wie uit feiten en omstandigheden een redelijk vermoeden voortvloeit dat deze betrokken is bij het in georganiseerd verband beramen of plegen van misdrijven;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>zo mogelijk een nummer of een andere aanduiding waarmee het geautomatiseerde werk kan worden geïdentificeerd en, indien bekend, dat de gegevens niet in Nederland zijn opgeslagen;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>een aanduiding van de aard en functionaliteit van het technische hulpmiddel, bedoeld in het eerste lid, dat wordt gebruikt voor de uitvoering van het bevel;</al>
+                    </li>
+                    <li>
+                      <li.nr>e.</li.nr>
+                      <al>het onderdeel of de onderdelen, genoemd in het eerste lid, met het oog waarop het bevel wordt gegeven en, als dit het onderdeel a, d of e betreft, een duidelijke omschrijving van de te verrichten handelingen;</al>
+                    </li>
+                    <li>
+                      <li.nr>f.</li.nr>
+                      <al>ten aanzien van welk deel van het geautomatiseerde werk en welke categorie van gegevens aan het bevel uitvoering wordt gegeven;</al>
+                    </li>
+                    <li>
+                      <li.nr>g.</li.nr>
+                      <al>het tijdstip waarop, of de periode waarbinnen aan het bevel uitvoering wordt gegeven;</al>
+                    </li>
+                    <li>
+                      <li.nr>h.</li.nr>
+                      <al>in het geval het een bevel, bedoeld in het eerste lid, onderdeel c, betreft, een melding van het voornemen om een technisch hulpmiddel op een persoon te bevestigen.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Artikel 126nba, derde tot en met negende lid, is van overeenkomstige toepassing.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>Artikel 126zd, vierde lid, tweede volzin, komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>Een technisch hulpmiddel wordt niet op een persoon bevestigd, tenzij met diens toestemming dan wel in het geval, bedoeld in artikel 126zpa, eerste lid, onder c.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>In artikel 126zg, eerste lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>In artikel 126zi, eerste lid, wordt «artikel 126la» vervangen door: artikel 138f.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">P</lidnr>
+            <wat>In artikel 126zo, eerste lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Q</lidnr>
+            <wat>Na de Derde afdeling A wordt een Derde afdeling B ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="rom">
+                  <label>DERDE AFDELING</label>
+                  <nr status="officieel">B</nr>
+                  <titel>ONDERZOEK IN EEN GEAUTOMATISEERD WERK</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">126zpa</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het belang van het onderzoek dit dringend vordert, bevelen dat een daartoe aangewezen opsporingsambtenaar binnendringt in een geautomatiseerd werk dat in gebruik is bij een persoon en, al dan niet met een technisch hulpmiddel, onderzoek doet met het oog op:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de vaststelling van bepaalde kenmerken van het geautomatiseerde werk of de gebruiker, zoals de identiteit of locatie, en de vastlegging daarvan;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>een bevel als bedoeld in de artikel 126zg;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>een bevel als bedoeld in artikel 126zd, eerste lid, onder a, waarbij de officier van justitie kan bepalen dat ter uitvoering van het bevel een technisch hulpmiddel op een persoon wordt bevestigd;</al>
+                      </li>
+                    </lijst>
+                    <al>en, ingeval van een misdrijf, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, dan wel een misdrijf dat bij algemene maatregel van bestuur is aangewezen;</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>de vastlegging van gegevens die in het geautomatiseerde werk zijn opgeslagen, of die eerst na het tijdstip van afgifte van het bevel worden opgeslagen, voor zover redelijkerwijs nodig om de waarheid aan de dag te brengen;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>de ontoegankelijkmaking van gegevens, bedoeld in artikel 126cc, vijfde lid. Artikel 11.7a van de Telecommunicatiewet is niet van toepassing op handelingen ter uitvoering van een bevel als bedoeld in de eerste volzin.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Het bevel vermeldt, behalve de gegevens, bedoeld in artikel 126za, tevens:</al>
+                    <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>zo mogelijk een nummer of een andere aanduiding waarmee het geautomatiseerde werk kan worden geïdentificeerd en, indien bekend, dat de gegevens niet in Nederland zijn opgeslagen;</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>een aanduiding van de aard en functionaliteit van het technische hulpmiddel, bedoeld in het eerste lid, dat wordt gebruikt voor de uitvoering van het bevel;</al>
+                      </li>
+                      <li>
+                        <li.nr>c.</li.nr>
+                        <al>het onderdeel of de onderdelen, genoemd in het eerste lid, met het oog waarop het bevel wordt gegeven en, als dit het onderdeel a, d of e betreft, een duidelijke omschrijving van de te verrichten handelingen;</al>
+                      </li>
+                      <li>
+                        <li.nr>d.</li.nr>
+                        <al>ten aanzien van welk deel van het geautomatiseerde werk en welke categorie van gegevens aan het bevel uitvoering wordt gegeven;</al>
+                      </li>
+                      <li>
+                        <li.nr>e.</li.nr>
+                        <al>het tijdstip waarop, of de periode waarbinnen aan het bevel uitvoering wordt gegeven;</al>
+                      </li>
+                      <li>
+                        <li.nr>f.</li.nr>
+                        <al>in het geval het een bevel, bedoeld in het eerste lid, onderdeel c, betreft, een melding van het voornemen om een technisch hulpmiddel op een persoon te bevestigen.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Artikel 126nba, derde tot en met negende lid, is van overeenkomstige toepassing.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">R</lidnr>
+            <wat>In artikel 126bb, tweede lid, onderdeel b, wordt «bedoeld in artikel 126m, derde lid, onderdeel c, artikel 126t, derde lid, onderdeel c, en artikel 126zg, tweede lid, onderdeel a» vervangen door: bedoeld in artikel 126m, tweede lid, onderdeel c, artikel 126t, tweede lid, onderdeel c, en artikel 126zg, tweede lid, onderdeel a.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">S</lidnr>
+            <wat>In Titel VD komt het opschrift van de Derde afdeling te luiden:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="rom">
+                  <label>DERDE AFDELING</label>
+                  <titel>DE BEWARING EN DE VERNIETIGING VAN PROCESSEN-VERBAAL EN ANDERE VOORWERPEN, HET GEBRUIK VAN GEGEVENS VOOR EEN ANDER DOEL EN DE ONTOEGANKELIJKMAKING EN VERNIETIGING VAN GEGEVENS.</titel>
+                </kop>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">T</lidnr>
+            <wat>Aan artikel 126cc worden twee leden toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Indien bij een onderzoek in een geautomatiseerd werk gegevens worden aangetroffen met betrekking tot welke of met behulp waarvan het strafbare feit is gepleegd, kan de officier van justitie bepalen dat die gegevens ontoegankelijk worden gemaakt voor zover dit noodzakelijk is ter beëindiging van het strafbare feit of ter voorkoming van nieuwe strafbare feiten. Het bepaalde in artikel 125o, tweede en derde lid, is van overeenkomstige toepassing.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">6.</lidnr>
+                  <al>Zodra blijkt dat gegevens die zijn vastgelegd tijdens een onderzoek in een geautomatiseerd werk van geen betekenis zijn voor het onderzoek, worden zij vernietigd. Artikel 125n, tweede lid, is van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">U</lidnr>
+            <wat>Artikel 126ee, aanhef en onderdelen a en b, komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>Bij algemene maatregel van bestuur worden regels gesteld omtrent:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>De opslag, verstrekking, plaatsing en verwijdering van de technische hulpmiddelen, bedoeld in de artikelen 126g, derde lid, 126l, eerste lid, 126nba, eerste lid, 126o, derde lid, 126s, eerste lid, 126uba, eerste lid, 126zd, eerste lid, 126zf, eerste lid, en 126zpa, eerste lid, alsmede van de technische hulpmiddelen bedoeld in de artikelen 126m, eerste lid, 126t, eerste lid, en 126zg, eerste lid, voor zover het bevel, bedoeld in artikel 126m, derde of vierde lid, onderscheidenlijk de artikelen 126t, derde of vierde lid en 126zg, derde of vierde lid, ten uitvoer wordt gelegd zonder medewerking van de betrokken aanbieder;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>de technische eisen waaraan de hulpmiddelen voldoen, onder meer met het oog op de onschendbaarheid van de vastgelegde waarnemingen of, in geval van toepassing van artikel 126nba, 126uba of 126zpa, de vastgelegde gegevens, en met het oog op het voorkomen van misbruik door derden;.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ua</lidnr>
+            <wat>In titel VD wordt na de vijfde afdeling een afdeling ingevoegd, luidende:</wat>
+            <wijziging>
+              <wijzig-divisie soort="afdeling" opmaak="default">
+                <kop kopopmaak="rom">
+                  <label>ZESDE AFDELING</label>
+                  <titel>UITSTEL MELDING ONBEKENDE KWETSBAARHEDEN</titel>
+                </kop>
+                <artikel status="goed">
+                  <kop>
+                    <label>Artikel</label>
+                    <nr status="officieel">126ffa</nr>
+                  </kop>
+                  <lid>
+                    <lidnr status="officieel">1.</lidnr>
+                    <al>De officier van justitie kan op grond van een zwaarwegend opsporingsbelang bevelen dat het bekend maken aan de producent van een onbekende kwetsbaarheid voor het binnendringen in een geautomatiseerd werk, bedoeld in de artikelen 126nba, 126uba en 126zpa, wordt uitgesteld.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">2.</lidnr>
+                    <al>Een bevel als bedoeld in het eerste lid is schriftelijk en vermeldt:</al>
+                    <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                      <li>
+                        <li.nr>a.</li.nr>
+                        <al>de kwetsbaarheid en</al>
+                      </li>
+                      <li>
+                        <li.nr>b.</li.nr>
+                        <al>het zwaarwegend opsporingsbelang.</al>
+                      </li>
+                    </lijst>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">3.</lidnr>
+                    <al>Het bevel, bedoeld in het eerste lid, kan slechts worden gegeven na voorafgaande schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris.</al>
+                  </lid>
+                  <lid>
+                    <lidnr status="officieel">4.</lidnr>
+                    <al>Onder onbekende kwetsbaarheid als bedoeld in het eerste lid wordt verstaan een kwetsbaarheid in een geautomatiseerd werk waarvan aannemelijk is dat die niet bekend is of kan worden verondersteld niet bekend te zijn bij de producent van het apparaat of van het programma op basis waarvan automatisch computergegevens worden verwerkt, en die kan worden gebruikt om dat geautomatiseerde werk binnen te dringen.</al>
+                  </lid>
+                </artikel>
+              </wijzig-divisie>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">V</lidnr>
+            <wat>Na artikel 138d worden twee artikelen ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">138e</nr>
+                </kop>
+                <al>Onder aanbieder van een communicatiedienst wordt verstaan de natuurlijke persoon of rechtspersoon die in de uitoefening van een beroep of bedrijf aan de gebruikers van zijn dienst de mogelijkheid biedt te communiceren met behulp van een geautomatiseerd werk, of gegevens verwerkt of opslaat ten behoeve van een zodanige dienst of de gebruikers van die dienst.</al>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">138f</nr>
+                </kop>
+                <al>Onder gebruiker van een communicatiedienst wordt verstaan de natuurlijke persoon of rechtspersoon die met de aanbieder van een communicatiedienst een overeenkomst is aangegaan met betrekking tot het gebruik van die dienst of die feitelijk gebruik maakt van een zodanige dienst.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">W</lidnr>
+            <wat>Artikel 354 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In het eerste lid wordt «artikel 125o» vervangen door: de artikelen 125o of 126cc, vijfde lid,.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>In de gevallen, bedoeld in artikel 353, eerste lid, neemt de rechtbank tevens een beslissing over het bevel, bedoeld in artikel 125p, indien een dergelijk bevel nog niet is opgeheven.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">X</lidnr>
+            <wat>Artikel 552a wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid wordt als volgt gewijzigd:</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">a.</nr>
+              <wat>De zinsnede «over de vordering medewerking te verlenen aan het ontsleutelen van gegevens,» wordt vervangen door: over het bevel toegang te verschaffen tot een geautomatiseerd werk of delen daarvan, tot een gegevensdrager of tot versleutelde gegevens dan wel kennis omtrent de beveiliging daarvan ter beschikking te stellen,.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">b.</nr>
+              <wat>«Artikel 125o» wordt vervangen door: de artikelen 125o en 126cc, vijfde lid.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">c.</nr>
+              <wat>Er worden twee volzinnen toegevoegd, luidende: De belanghebbenden kunnen zich voorts schriftelijk beklagen over een bevel tot het ontoegankelijk maken van gegevens, bedoeld in artikel 125p. Over het beklag, bedoeld in de vorige volzin, beslist het gerecht zo spoedig mogelijk.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In het derde lid wordt na de zinsnede «ontoegankelijkmaking van de gegevens» ingevoegd: of het bevel, bedoeld in de artikelen 125k en 125p,.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In het vierde lid, eerste volzin, wordt na de zinsnede «is geschied» ingevoegd: of het bevel, bedoeld in de artikelen 125k en 125p, is gegeven.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">9.</lidnr>
+                  <al>Acht het gerecht het beklag, bedoeld in het eerste lid, tweede volzin, gegrond, dan kan het het bevel geheel of gedeeltelijk opheffen.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Y</lidnr>
+            <wat>In artikel 552fa, eerste lid, wordt «artikel 125o» vervangen door: de artikelen 125o of 126cc, vijfde lid,.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Z</lidnr>
+            <wat>In artikel 552ww, derde lid, wordt «artikel 126la» vervangen door: artikel 138f.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">AA</lidnr>
+            <wat>In artikel 552ddd, derde lid, wordt «artikel 126la» vervangen door: artikel 138f.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">BB</lidnr>
+            <wat>In artikel 577bb, eerste lid, onder c, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">CC</lidnr>
+            <wat>In artikel 577be, eerste lid, wordt «artikel 126la» vervangen door: artikel 138f.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">DD</lidnr>
+            <wat>In artikel 577bf, eerste lid, wordt «artikel 126la» vervangen door: artikel 138e.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">EE</lidnr>
+            <wat>Artikel 592, tweede lid, eerste volzin, komt te luiden: De kosten van het nakomen van een vordering tot het verstrekken van gegevens of tot het medewerking verlenen aan het ontsleutelen van gegevens krachtens de artikelen 125k, 126m, 126n, 126na, 126nc tot en met 126ni, 126t, 126u, 126ua, 126uc tot en met 126ui, 126zg, 126zh, 126zi en 126zja tot en met 126zp kunnen de betrokkene uit ’s Rijks kas worden vergoed.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IIa</nr>
+          </kop>
+          <wat type="wijziging">Aan artikel 7 van de Wet op de bijzondere opsporingsdiensten wordt een nieuw lid toegevoegd, luidende:</wat>
+          <wijziging>
+            <artikeltekst>
+              <lid>
+                <lidnr status="officieel">4.</lidnr>
+                <al>Het bepaalde in het eerste lid laat het bepaalde in artikel 126nba, achtste lid, van het Wetboek van Strafvordering onverlet.</al>
+              </lid>
+            </artikeltekst>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <al>Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.</al>
+        </artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <wijziging>
+            <nr status="officieel">1.</nr>
+            <wat type="wijziging">Indien het voorstel van wet van de leden Gesthuizen en Van Oosten tot wijziging van Boek 6 van het Burgerlijk Wetboek in verband met het tegengaan van acquisitiefraude door het doen van misleidende mededelingen jegens diegenen die handelen in de uitoefening van hun beroep, bedrijf of organisatie en wijziging van het Wetboek van Strafrecht in verband met de strafbaarstelling van acquisitiefraude (<dossierref dossier="33712">33 712</dossierref>), tot wet is of wordt verheven, en artikel II van die wet eerder in werking is getreden of treedt dan de artikelen I, onderdeel I, en II, onderdeel B, van deze wet, worden deze wet als volgt gewijzigd:</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">a.</nr>
+            <wat>In artikel I, onderdeel I, wordt «artikel 326c» gewijzigd in: artikel 326d;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">b.</nr>
+            <wat>In artikel I, onderdeel I, wordt «Artikel 326d» gewijzigd in: Artikel 326e;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">c.</nr>
+            <wat>In artikel II, onderdeel B, wordt «326d» gewijzigd in: 326e.</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">2.</nr>
+            <wat type="wijziging">Indien het bij koninklijke boodschap van 24 november 2014 ingediende voorstel van wet tot wijziging van het Wetboek van Strafvordering en de Wet op de economische delicten in verband met het gebruik van elektronische processtukken (digitale processtukken Strafvordering) (<dossierref dossier="34090">34 090</dossierref>), tot wet is of wordt verheven, en artikel I, onderdelen F en P, van die wet eerder in werking is getreden of treedt dan artikel II, onderdelen H, I, K, N, O, P, V, Z, AA, BB, CC en DD, wordt artikel II van deze wet als volgt gewijzigd:</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">a.</nr>
+            <wat>In de onderdelen H, I, K, N, P, V, BB, en DD wordt «artikel 138e» vervangen door: artikel 138g;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">b.</nr>
+            <wat>In de onderdelen O, V, Z, AA en CC wordt «artikel 138f» vervangen door: artikel 138h;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">c.</nr>
+            <wat>In onderdeel V wordt «artikel 138d» vervangen door: artikel 138f;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">d.</nr>
+            <wat>In onderdeel X, subonderdeel 4, wordt de aanduiding «9» vervangen door: 10.</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">3.</nr>
+            <wat type="wijziging">Indien het bij koninklijke boodschap van 21 november 2014 ingediende voorstel van wet tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met een herziening van de wettelijke regeling van de tenuitvoerlegging van strafrechtelijke beslissingen (Wet herziening tenuitvoerlegging strafrechtelijke beslissingen) (<dossierref dossier="34086">34 086</dossierref>), tot wet is of wordt verheven, en artikel I, onderdelen NN en QQ, van die wet eerder in werking is getreden of treedt dan artikel II, onderdelen BB, CC, DD en EE van deze wet wordt:</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">a.</nr>
+            <wat>in artikel II, onderdeel BB «artikel 577bb, eerste lid, onder c» vervangen door: artikel 6:4:12, eerste lid, onder c;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">b.</nr>
+            <wat>in artikel II, onderdeel CC «Artikel 577be» vervangen door: artikel 6:4:15;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">c.</nr>
+            <wat>in artikel II, onderdeel DD «artikel 577bf» vervangen door: artikel 6:4:16;</wat>
+          </wijziging>
+          <?xpp qa?>
+          <?xpp lead;-1?>
+          <wijziging>
+            <nr status="officieel">d.</nr>
+            <wat>in artikel II, onderdeel EE «Artikel 592, tweede lid, eerste volzin» vervangen door: Artikel 531, tweede lid, eerste volzin.</wat>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="34372">34 372</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>Wassenaar,</plaats>
+            <datum isodatum="2018-06-27">27 juni 2018</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Justitie en Veiligheid,</functie>
+          <naam>
+            <voornaam>F.B.J.</voornaam>
+            <achternaam>Grapperhaus</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2018-09-21">Uitgegeven de <nadruk type="cur">eenentwintigste</nadruk> september 2018</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>F.B.J.</voornaam>
+              <achternaam>Grapperhaus</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

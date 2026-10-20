@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-22.xml",
+    "accessed_at": "2026-10-20T17:57:19.904656+00:00",
+    "path": "sources/review-batch12-stb-2025-22.xml",
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-22.xml",
+    "content_type": "text/xml",
+    "sha256": "36da6988c43553fb9cb37d858082ab37a2489f9e8068cb2026b53b5d702fab37",
+    "bytes": 5639,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002074/2010-10-10_0/xml/BWBR0002074_2010-10-10_0.xml",
+    "accessed_at": "2026-10-20T17:57:20.105659+00:00",
+    "path": "sources/review-batch12-WBS-historical.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002074/2010-10-10_0/xml/BWBR0002074_2010-10-10_0.xml",
+    "content_type": "application/xml",
+    "sha256": "5d476820d4af2e1425f362094533f730928a4ef439b9a5432b00f905712eb58d",
+    "bytes": 30734,
+    "root": "toestand",
+    "expected_format_valid": true
+  }
+]
