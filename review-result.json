@@ -522,5 +522,22 @@
     ],
     "qualitative_assessment": "Read every assigned block; examples test different statutory conditions. a11/a13 retain their common documentary purpose but a13 now addresses its specific amendment warning. No generic shared normative paragraph retained."
   },
-  "validation_scope": "Full inventory checks remain separate; no validator weakened and no missing unit removed."
+  "validation_scope": "Full inventory checks remain separate; no validator weakened and no missing unit removed.",
+  "technical_validation": {
+    "checked_at": "2026-10-20T16:22:11.732596+00:00",
+    "strict_full_validator": "validation.json",
+    "strict_full_validator_ok": false,
+    "strict_full_validator_errors": [
+      "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+    ],
+    "statutory_text_agreement": 1.0,
+    "complete_official_inventory": 812,
+    "expected_ids_independently_derived": true,
+    "missing_or_duplicate_official_ids": [],
+    "reviewed_commentary_units": 20,
+    "other_commentary_and_units_preserved": true,
+    "local_links_ok": true,
+    "independent_coverage_ok": true,
+    "whole_book_completion_not_claimed": true
+  }
 }
