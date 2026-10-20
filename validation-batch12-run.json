@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-20T18:06:05.928173+00:00",
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+  "clean_output_commit": "be31b5a09efa8accfae136020223796b1b77cb7b",
+  "exit_code": 1,
+  "stdout": "{\"repo\": \"Komentar-NL-BWBR0001854\", \"units\": 812, \"verbatim_ratio\": 1.0, \"commentary_chars\": 328246, \"errors\": [\"krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": "",
+  "result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 328246,
+    "errors": [
+      "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}

@@ -3,7 +3,7 @@
   "verification": "sources/verification.json",
   "latest_version_evidence": "sources/review-batch12-version-evidence.json",
   "latest_source_anomalies": "sources/review-batch12-source-anomalies.json",
-  "generated_at": "2026-10-20T18:05:01.992365+00:00",
+  "generated_at": "2026-10-20T18:06:05.928173+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -1338,7 +1338,7 @@
     {
       "path": "sources/review-batch12-commentary-change-map.json",
       "bytes": 2327,
-      "sha256": "c085b53263fca3257807057900fedc0d32e52916278fedca1dcbbcb965b690d8"
+      "sha256": "a751c468a90995dd09d6c31a504d2f7241cb147ba278f901713ed8735de9f42d"
     },
     {
       "path": "sources/review-batch12-coverage.json",
