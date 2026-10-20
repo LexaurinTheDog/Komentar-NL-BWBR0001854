@@ -1,0 +1,72 @@
+{
+  "reviewed_at": "2026-10-20T23:35:18.156425+00:00",
+  "checks": [
+    {
+      "units": [
+        "a289",
+        "a301"
+      ],
+      "path": "authorities/author-a285c-a302-ECLI-NL-HR-2013-963.xml",
+      "sha256": "c0f445aca55a4440ac910a85101665b5aefb79103e33354dabf77da5b8a1dc21",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 3.3–3.5",
+      "card": "authorities/author-a285c-a302-HR-2013-963.md",
+      "limits": "Published full judgments only; submissions and underlying files not obtained. Statutory historical comparisons inspected for the respective judgments. No exhaustive subsequent-treatment audit."
+    },
+    {
+      "units": [
+        "a300",
+        "a302"
+      ],
+      "path": "authorities/author-a285c-a302-ECLI-NL-HR-2018-1051.xml",
+      "sha256": "143d26994f6868ba961aabafde8fb7dc114b1c1ed0ea31cfdf7e85a03807b29b",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 2.2–2.8,3.3,6",
+      "card": "authorities/author-a285c-a302-HR-2018-1051.md",
+      "limits": "Published full judgments only; submissions and underlying files not obtained. Statutory historical comparisons inspected for the respective judgments. No exhaustive subsequent-treatment audit."
+    },
+    {
+      "units": [
+        "a293"
+      ],
+      "path": "authorities/author-a285c-a302-ECLI-NL-HR-2020-712.xml",
+      "sha256": "76c451ae7b9e823fa4d80e49a3d34c49da8a5f36176d3da0f00cebccec4fa4f8",
+      "full_text_reviewed": true,
+      "paragraphs": "Entire published judgment; 4.2–4.11,5.3–5.8,7",
+      "card": "authorities/author-a285c-a302-HR-2020-712.md",
+      "limits": "Published full judgments only; submissions and underlying files not obtained. Statutory historical comparisons inspected for the respective judgments. No exhaustive subsequent-treatment audit."
+    }
+  ],
+  "search_log": "authorities/author-a285c-a302-search-log.json",
+  "local_corpus_evidence": "authorities/author-a285c-a302-local-corpus.json",
+  "historical_comparison": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "change_map": "sources/author-a285c-a302-historical-change-map.json",
+    "historical_bodies_checked": true,
+    "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "reviewed_change_map_ids": [
+      "a285c",
+      "a285d",
+      "a286",
+      "a286a",
+      "a287",
+      "a288",
+      "a288a",
+      "a289",
+      "a289a",
+      "a290",
+      "a291",
+      "a292",
+      "a293",
+      "a294",
+      "a295",
+      "a295a",
+      "a296",
+      "a300",
+      "a301",
+      "a302"
+    ]
+  },
+  "method": "Three existing primary full texts and cards independently reread. Prior selective search evidence inspected; no claim of new exhaustive research."
+}

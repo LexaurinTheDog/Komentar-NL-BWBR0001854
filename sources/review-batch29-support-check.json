@@ -1,0 +1,37 @@
+{
+  "external_statutes": [
+    {
+      "bwb": "BWBR0012410",
+      "version": "2021-10-01_0",
+      "articles": [
+        "2"
+      ],
+      "text_equal": true,
+      "applicable_at_review": true,
+      "raw_sha256": "420cbb35cac0835f27e357af46ab7e0d39447d67025f0ffb8410a4dd565e4c9e"
+    },
+    {
+      "bwb": "BWBR0003396",
+      "version": "2025-07-05_0",
+      "articles": [
+        "2",
+        "6a"
+      ],
+      "text_equal": true,
+      "applicable_at_review": true,
+      "raw_sha256": "5f9bcb66840240152dc2da37ebf718a4323fef4bbb841d6f90d8c1eec9d60926"
+    },
+    {
+      "bwb": "BWBR0005009",
+      "version": "2026-07-01_0",
+      "articles": [
+        "7"
+      ],
+      "text_equal": true,
+      "applicable_at_review": true,
+      "raw_sha256": "9e9fb479d55fc205980c2aaf8876f2571d25ad8f9f58b6f67ed739332f6e200c"
+    }
+  ],
+  "historical_case_statutes_match": true,
+  "scope": "Existing primary snapshots mechanically compared after substantive reading; no new medical guidance or exhaustive case search."
+}
