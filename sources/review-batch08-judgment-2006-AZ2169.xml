@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2006:AZ2169</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T07:15:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AZ2169</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2006-12-19</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">03372/05</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2006:AZ2169" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2006:AZ2169</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHLEE:2005:AT4108" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">In cassatie op : ECLI:NL:GHLEE:2005:AT4108, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=46b">Wetboek van Strafrecht 46b</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=289">Wetboek van Strafrecht 289</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOL 2006, 822</rdf:li>
+          <rdf:li>NJ 2007, 29</rdf:li>
+          <rdf:li>RvdW 2007, 51</rdf:li>
+          <rdf:li>NJB 2007, 224</rdf:li>
+          <rdf:li>NbSr 2007/2</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2006:AZ2169">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2006:AZ2169</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T00:43:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2006-12-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2006:AZ2169 Hoge Raad , 19-12-2006 / 03372/05</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2006:AZ2169:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>OM-cassatie. Art. 46b Sr. 1. Voltooide poging sluit vrijwillige terugtred niet uit. 2. Van buiten komende factoren die ertoe hebben bijgedragen dat het misdrijf niet is voltooid, behoeven aan vrijwillige terugtred niet in de weg te staan. Ad 1. De opvatting dat voor vrijwillige terugtred ex art. 46b Sr geen plaats kan zijn indien sprake is van een zogenoemde voltooide poging, is onjuist. Bij vrijwillige terugtred gaat het om het misdrijf waarop de gedragingen van verdachte waren gericht (HR LJN AA8824). Het gaat niet erom of verdachte vrijwillig is teruggetreden voordat sprake is van een strafbare poging, maar of hij is teruggetreden voordat sprake is van een voltooid misdrijf. In geval van een voltooide poging is derhalve vrijwillige terugtred ex art. 46b Sr niet reeds in zijn algemeenheid uitgesloten. Of gedragingen van verdachte toereikend zijn om de gevolgtrekking te wettigen dat het misdrijf niet is voltooid t.g.v. omstandigheden die van zijn wil onafhankelijk zijn, hangt – mede gelet op de aard van het misdrijf – af van de concrete omstandigheden van het geval. Daarbij verdient opmerking dat voor het aannemen van vrijwillige terugtred in geval van een voltooide poging veelal een zodanig optreden van verdachte is vereist dat deze naar aard en tijdstip geschikt is het intreden van het gevolg te beletten. Ad 2. Vooropgesteld wordt dat van buiten komende factoren die mede ertoe hebben geleid dat het misdrijf niet is voltooid, niet aan vrijwillige terugtred in de weg behoeven te staan. ‘s Hofs oordeel dat de oorzaak van het niet voltooien van het misdrijf is gelegen in van de wil van verdachte afhankelijke omstandigheden, te weten dat hij met het kind uit het kanaal is geklommen, dat hij het kind naar het ziekenhuis wilde brengen en dat hij daartoe met de in een deken gewikkelde baby in de auto naar Groningen is gereden, is niet onbegrijpelijk. De enkele omstandigheid dat de geringe diepte en de koude kunnen worden aangemerkt als van buiten komende factoren die van invloed kunnen zijn geweest op het niet voltooien van het delict, noopte het hof, dat heeft vastgesteld dat geen andere informatie beschikbaar is dan verdachtes verklaring, niet ertoe tot een ander oordeel te komen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2006:AZ2169:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>19 december 2006</para>
+      <para>Strafkamer</para>
+      <para>nr. 03372/05</para>
+      <para>km/CAW</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te Leeuwarden van 18 april 2005, nummer 24/001858-04, in de strafzaak tegen:</para>
+      <para>[verdachte], geboren te [geboorteplaats] op [geboortedatum] 1967, ten tijde van de betekening van de aanzegging gedetineerd in de Penitentiare Inrichting "De Grittenborgh" te Hoogeveen.</para>
+    </parablock>
+    <para />
+    <para>1. De bestreden uitspraak</para>
+    <para />
+    <para>Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Rechtbank te Groningen van 21 oktober 2004 - de verdachte ontslagen van alle rechtsvervolging ter zake van het hem bij inleidende dagvaarding onder 3 tenlastegelegde en hem voorts ter zake van 1 primair "moord, meermalen gepleegd" en 2 primair "poging tot moord" veroordeeld tot 15 jaren gevangenisstraf en daarbij bevolen dat de verdachte ter beschikking zal worden gesteld met bevel tot verpleging van overheidswege. Voorts heeft het Hof de vordering van de benadeelde partij toegewezen en aan de verdachte een betalingsverplichting opgelegd een en ander zoals in het arrest vermeld.</para>
+    <para />
+    <para>2. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De Advocaat-Generaal Knigge heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft de hoogte van de straf en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para>3. Beoordeling van het eerste middel</para>
+    <para />
+    <para>3.1. Het middel richt zich tegen het door het Hof uitgesproken ontslag van alle rechtsvervolging ten aanzien van het onder 3 primair tenlastegelegde feit.</para>
+    <para />
+    <parablock>
+      <para>3.2. Ten laste van de verdachte is onder 3 primair bewezenverklaard dat:</para>
+      <para>"hij op 3 april 2004, in de gemeente Ten Boer, ter uitvoering van het door verdachte voorgenomen misdrijf om opzettelijk en met voorbedachten rade [het slachtoffer] (geboren [geboortedatum] 2003) van het leven te beroven, met dat opzet en na kalm beraad en rustig overleg, samen met genoemde [slachtoffer] in het Eemskanaal is gesprongen, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid."</para>
+    </parablock>
+    <para />
+    <para>3.3. Het bestreden arrest houdt, voor zover hier van belang, het volgende in:</para>
+    <para />
+    <parablock>
+      <para>"Ontslag van alle rechtsvervolging</para>
+      <para>Het hof heeft ambtshalve onderzocht of verdachte ter zake van het onder 3 bewezen verklaarde feit dient te worden ontslagen van alle rechtsvervolging omdat hij vrijwillig is teruggetreden, als bedoeld in artikel 46b van het Wetboek van Strafrecht. Vrijwillige terugtred bestaat als de niet voltooiing van het delict een gevolg is van omstandigheden die van de wil van de dader afhankelijk zijn, en derhalve niet van externe factoren. Uit jurisprudentie blijkt dat niet van vrijwillige terugtred gesproken kan worden als weliswaar het gewenste effect niet is ingetreden, maar de verdachte daartoe wel alles wat in zijn vermogen ligt heeft gedaan. Het hof heeft onderzocht of genoemde uitsluitingsgrond zich in de onderhavige zaak heeft voorgedaan en overweegt daaromtrent het volgende.</para>
+      <para>Bewezen verklaard is dat verdachte geprobeerd heeft zijn vijf maanden oude zoontje [het slachtoffer] van het leven te beroven door met hem in het Eemskanaal te springen. Het delict is niet voltooid omdat verdachte met zijn zoontje weer uit het kanaal is geklommen. Verdachte heeft over dit feit het volgende verklaard - zakelijk weergegeven -:</para>
+      <para>"Ik ben met [het slachtoffer] in het Eemskanaal gesprongen. We gingen wel kopje onder, maar het was ondiep en ik kon gewoon staan. Door de kou kwam ik weer goed bij en wist ik dat ik niet goed bezig was. Ik wilde hem naar het ziekenhuis brengen omdat hij nat en koud was en ben daarom richting Groningen gereden."</para>
+      <para>Uit het dossier blijkt voorts dat verdachte kort daarop werd aangehouden door agenten van politie die in zijn auto de natte en koude baby in een deken gewikkeld hebben aantroffen. </para>
+      <para>Het hof stelt vast dat in de onderhavige zaak niet méér informatie beschikbaar is dan deze verklaring van verdachte. Er waren geen getuigen van het delict. De geneeskundige verklaring die van [het slachtoffer] in het dossier zit, maakt slechts melding van een al eerder opgelopen steekwond en vermeldt niets over eventuele medische gevolgen van het te water raken. Er is bijvoorbeeld geen informatie waaruit blijkt of [het slachtoffer] water heeft binnen gekregen of onderkoeld is geraakt. Er bestaat onzekerheid over zowel de gevolgen van het feit als over hoe het feit zelf heeft plaats gevonden. </para>
+      <para>Het hof overweegt dat er - gelet op de verklaring van verdachte - te weinig informatie beschikbaar is om uit te kunnen sluiten dat het delict niet is voltooid doordat verdachte vrijwillig is teruggetreden. Niet zeker is derhalve of het onder 3 bewezen verklaarde feit gekwalificeerd kan worden als een strafbaar feit, wat er toe dient te leiden dat verdachte ter zake van dit feit wordt ontslagen van alle rechtsvervolging."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.4. Art. 46b Sr luidt:</para>
+      <para>"Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk."</para>
+    </parablock>
+    <para />
+    <para>3.5.1. Het middel behelst in de eerste plaats de klacht dat het Hof ten onrechte heeft geoordeeld dat de verdachte vrijwillig is teruggetreden in de zin van art. 46b Sr, nu sprake is van een voltooide poging tot moord op zijn zoontje.</para>
+    <para />
+    <parablock>
+      <para>3.5.2. Aan de klacht ligt de opvatting ten grondslag dat geen plaats kan zijn voor vrijwillige terugtred als bedoeld in art. 46b Sr, indien sprake is van een zogenoemde voltooide poging. Die opvatting is onjuist. Bij vrijwillige terugtred gaat het om het misdrijf waarop de gedragingen van de verdachte waren gericht (vgl. HR 5 december 2000, LJN AA8824). Het gaat niet erom of de verdachte vrijwillig is teruggetreden voordat sprake is van een strafbare poging, maar of hij is teruggetreden voordat sprake is van een voltooid misdrijf. In geval van een voltooide poging is derhalve vrijwillige terugtred in de zin van art. 46b Sr niet reeds in zijn algemeenheid uitgesloten.</para>
+      <para>Of gedragingen van de verdachte toereikend zijn om de gevolgtrekking te wettigen dat het misdrijf niet is voltooid tengevolge van omstandigheden die van zijn wil onafhankelijk zijn, hangt - mede gelet op de aard van het misdrijf - af van de concrete omstandigheden van het geval. Daarbij verdient opmerking dat voor het aannemen van vrijwillige terugtred in geval van een voltooide poging veelal een zodanig optreden van de verdachte is vereist dat dit naar aard en tijdstip geschikt is het intreden van het gevolg te beletten.</para>
+      <para>Gelet op het voorgaande geeft het in de overwegingen van het Hof besloten liggende oordeel dat in het onderhavige geval vrijwillige terugtred door de verdachte nog mogelijk was, ook al zouden de reeds door de verdachte verrichte gedragingen naar hun uiterlijke verschijningsvorm moeten worden aangemerkt als een voltooide poging tot moord, niet blijk van een onjuiste rechtsopvatting.</para>
+    </parablock>
+    <para />
+    <para>3.5.3. De klacht faalt.</para>
+    <para />
+    <para>3.6.1. Voorts behelst het middel de klacht dat het oordeel van het Hof dat het misdrijf niet is voltooid als gevolg van omstandigheden die van de wil van de verdachte afhankelijk waren, onbegrijpelijk is. Daartoe wordt aangevoerd dat het mislukken van de poging het gevolg is van de, uit de verklaring van de verdachte waarop het Hof zich baseert blijkende, omstandigheden dat het kanaal ondiep was en dat het koud was, hetgeen externe, van de wil van de verdachte onafhankelijke, omstandigheden zijn.</para>
+    <para />
+    <parablock>
+      <para>3.6.2. Vooropgesteld wordt dat van buiten komende factoren die mede ertoe hebben geleid dat het misdrijf niet is voltooid, niet aan vrijwillige terugtred in de weg behoeven te staan. </para>
+      <para>Het oordeel van het Hof, dat de oorzaak van het niet voltooien van het misdrijf is gelegen in van de wil van de verdachte afhankelijke omstandigheden, te weten dat hij met het kind uit het kanaal is geklommen, dat hij het kind naar het ziekenhuis wilde brengen en dat hij daartoe met de in een deken gewikkelde baby in de auto naar Groningen is gereden, is niet onbegrijpelijk. De enkele omstandigheid dat de geringe diepte en de koude kunnen worden aangemerkt als van buiten komende factoren die van invloed kunnen zijn geweest op het niet voltooien van het delict, noopte het Hof, dat heeft vastgesteld dat geen andere informatie beschikbaar is dan de verklaring van de verdachte, niet ertoe tot een ander oordeel te komen.</para>
+    </parablock>
+    <para />
+    <para>3.6.3. De klacht faalt.</para>
+    <para />
+    <para>3.7. Ook de overige klachten van het middel kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81 RO, geen nadere motivering nu die klachten in zoverre niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of rechtsontwikkeling. </para>
+    <para />
+    <para>3.8. Het middel is dus vergeefs voorgesteld.</para>
+    <para />
+    <para>4. Beoordeling van het tweede middel</para>
+    <para />
+    <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81 RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of rechtsontwikkeling.</para>
+    <para />
+    <para>5. Ambtshalve beoordeling van de bestreden uitspraak</para>
+    <para />
+    <para>De Advocaat-Generaal heeft op 29 april 2005 beroep in cassatie ingesteld. De verdachte bevindt zich in voorlopige hechtenis. De Hoge Raad doet uitspraak nadat meer dan zestien maanden zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot strafvermindering.</para>
+    <para />
+    <para>6. Slotsom</para>
+    <para />
+    <para>Nu de middelen niet tot cassatie kunnen leiden brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    <para />
+    <para>7. Beslissing</para>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>Vernietigt de bestreden uitspraak, maar uitsluitend wat betreft de duur van de opgelegde gevangenisstraf;</para>
+      <para>Vermindert deze in die zin dat deze veertien jaren en acht maanden beloopt;</para>
+      <para>Verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president G.J.M. Corstens als voorzitter, en de raadsheren W.A.M. van Schendel en W.M.E. Thomassen, in bijzijn van de waarnemend griffier D.N.I. Gjaltema, en uitgesproken op 19 december 2006.</para>
+  </uitspraak>
+</open-rechtspraak>

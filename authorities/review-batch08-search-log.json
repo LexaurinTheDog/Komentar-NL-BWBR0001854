@@ -1,0 +1,93 @@
+{
+  "verified_at": "2026-10-20T17:17:42.846277+00:00",
+  "scope": "Selective research for46,46b,47,48,51,55,56 and2026 legislative transition; not exhaustive case-law review.",
+  "web_queries": [
+    "site.rechtspraak.nl \"ECLI:NL:HR:2007:AZ0213\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2017:1111\"",
+    "site.rechtspraak.nl \"46b\" \"vrijwillige terugtred\" \"Hoge Raad\" \"voltooide poging\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2014:3474\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2003:AF7938\"",
+    "site.rechtspraak.nl \"ECLI:NL:HR:2016:733\"",
+    "site.officielebekendmakingen.nl \"stb-2026-20\" \"ARTIKEL III\"",
+    "site.officielebekendmakingen.nl \"stb-2026-81\"",
+    "site.rechtspraak.nl \"60\" \"gijzeling\" \"2026\" \"Hoge Raad\""
+  ],
+  "discovery_method": "Web discovery plus exact local corpus lookup; only actual primary full XML judgments support holdings. PHR and third-party results are discovery only. No later result about60 selected as sufficient authority for new post-July text.",
+  "firecrawl": {
+    "actual_availability_check": "firecrawl --status: authenticated;0 credits; no scrape attempted and no service changes.",
+    "fallback": "Direct official repository XML, manifest, WTI and Rechtspraak full XML."
+  },
+  "local_corpus": [
+    {
+      "ecli": "ECLI:NL:HR:2007:AZ0213",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2007-az0213.md",
+      "sha256": "8bd9a3f3c15d3be46cd28334fc69a30610d87a201743e9105bf0092e07e3b55c",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2006:AZ2169",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2006-az2169.md",
+      "sha256": "77ac21277ea63df861290ce37b524007f683e457f056f4672d923f0c91e35a47",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2014:3474",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2014-3474.md",
+      "sha256": "9beea08d00ab116e9dee66ae28e467e476765c92a48af4a49704a08aef43d252",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2003:AF7938",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2003-af7938.md",
+      "sha256": "917de2953501663d1f5a0a0779d11589b803f2abcc2be44eba1054b59311c074",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2016:733",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2016-733.md",
+      "sha256": "d2a7364d69991fa6cf1512a50d799af53d54ba14bc412b461325f4ce867b8225",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2017:1111",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-1111.md",
+      "sha256": "e312dade43695e65e2ede781924df0eba95d93f67f906603c7577dd52f62e3a1",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:203",
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-203.md",
+      "sha256": "618540f5081410f43dacaed33b9571bbab4214ddd1c6da2f0e1a9f3014b7d230",
+      "method": "Exact local national-corpus lookup and normalized paragraph comparison; full freshly fetched official decision read. See case card for text-comparison counts."
+    }
+  ],
+  "decisions_read_full": [
+    "ECLI:NL:HR:2007:AZ0213",
+    "ECLI:NL:HR:2006:AZ2169",
+    "ECLI:NL:HR:2014:3474",
+    "ECLI:NL:HR:2003:AF7938",
+    "ECLI:NL:HR:2016:733",
+    "ECLI:NL:HR:2017:1111",
+    "ECLI:NL:HR:2025:203"
+  ],
+  "selected_authorities": [
+    "ECLI:NL:HR:2007:AZ0213",
+    "ECLI:NL:HR:2006:AZ2169",
+    "ECLI:NL:HR:2014:3474",
+    "ECLI:NL:HR:2003:AF7938",
+    "ECLI:NL:HR:2016:733",
+    "ECLI:NL:HR:2017:1111",
+    "ECLI:NL:HR:2025:203"
+  ],
+  "supported_units": [
+    "a46",
+    "a46b",
+    "a47",
+    "a48",
+    "a51",
+    "a55",
+    "a56"
+  ],
+  "other_units": "No additional sufficiently relevant verified case selected for13 other assigned units. Not a claim none exists.",
+  "primary_fetch_evidence": "sources/review-batch08-fetch-log.json"
+}

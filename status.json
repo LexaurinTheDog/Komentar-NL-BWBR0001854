@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T17:02:36.366929+00:00",
+    "rechecked_at": "2026-10-20T17:10:53.538096+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch07-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch08-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -30,7 +30,7 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 284336,
+  "commentary_chars": 291500,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -56,9 +56,16 @@
     "ECLI:NL:HR:2021:770",
     "ECLI:NL:HR:2023:1295",
     "ECLI:NL:HR:2012:BX6734",
-    "ECLI:NL:HR:2021:389"
+    "ECLI:NL:HR:2021:389",
+    "ECLI:NL:HR:2007:AZ0213",
+    "ECLI:NL:HR:2006:AZ2169",
+    "ECLI:NL:HR:2014:3474",
+    "ECLI:NL:HR:2003:AF7938",
+    "ECLI:NL:HR:2016:733",
+    "ECLI:NL:HR:2017:1111",
+    "ECLI:NL:HR:2025:203"
   ],
-  "case_law_scope": "Selective: twenty-three primary HR decisions; this batch adds38z,39,40,45 and re-reads41. No exhaustive coverage.",
+  "case_law_scope": "Selective: thirty primary HR decisions; seven added in this bounded batch on preparation, withdrawal, participation, entities and concurrence. No exhaustive coverage.",
   "build_result": {
     "command": [
       "python3",
@@ -66,13 +73,13 @@
       "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
       "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
     ],
-    "recorded_at": "2026-10-20T17:07:54.706724+00:00",
+    "recorded_at": "2026-10-20T17:18:57.762053+00:00",
     "returncode": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
     "ok": false,
     "full_inventory_unchanged": true,
-    "task_scope": "Independent review of exactly20 assigned units38z–45;548 pre-existing missing commentaries outside scope.",
+    "task_scope": "Independent review exactly20 assigned units46–61;548 pre-existing missing commentaries outside scope.",
     "checkpoint_renderer": "_render_checkpoint.py renders264 existing commentaries as an explicitly incomplete checkpoint; no full-build success claimed."
   },
   "validation_result": {
@@ -91,12 +98,12 @@
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
-    "Second pass comprises seven disjoint20-unit batches:140 reviewed,672 not reviewed. No whole-book completion or external professional approval."
+    "Second pass comprises eight disjoint20-unit batches:160 reviewed,652 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T17:09:25.566357+00:00",
+  "updated_at": "2026-10-20T17:17:42.846277+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T17:02:36.366929+00:00",
+    "verified_at": "2026-10-20T17:10:53.538096+00:00",
     "report": "preflight-result.json",
     "decisive_date_preserved": "2026-10-19",
     "official_manifest_states_checked": 126,
@@ -107,56 +114,52 @@
     "new_commentary_units": 0,
     "unresolved_blockers": [],
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
-    "bounded_recheck": "sources/review-batch07-version-evidence.json"
+    "bounded_recheck": "sources/review-batch08-version-evidence.json"
   },
   "validation_checked_at": "2026-10-20T17:09:25.566357+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a38z",
-      "a38aa",
-      "a38ab",
-      "a38ac",
-      "a38ad",
-      "a38ae",
-      "a38af",
-      "a38ag",
-      "a39",
-      "a40",
-      "a41",
-      "a42",
-      "a43",
-      "a43a",
-      "a43b",
-      "a43c",
-      "a44",
-      "a44bis",
-      "a44a",
-      "a45"
+      "a46",
+      "a46a",
+      "a46b",
+      "a47",
+      "a48",
+      "a49",
+      "a50",
+      "a51",
+      "a52",
+      "a53",
+      "a54",
+      "a54a",
+      "a55",
+      "a56",
+      "a57",
+      "a58",
+      "a59",
+      "a60",
+      "a60a",
+      "a61"
     ],
     "corrected_units": [
-      "a38z",
-      "a39",
-      "a40",
-      "a41",
-      "a44bis",
-      "a44a",
-      "a45"
+      "a46",
+      "a46b",
+      "a47",
+      "a48",
+      "a51",
+      "a54a",
+      "a55",
+      "a56",
+      "a57",
+      "a58",
+      "a60",
+      "a60a"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "source_preflight": "sources/review-batch07-version-evidence.json",
-    "reviewed_at": "2026-10-20T17:06:59.890171+00:00",
-    "technical_validation": {
-      "statutory_text_agreement": 1.0,
-      "coverage_ok": true,
-      "local_links_ok": true,
-      "all20_present": true,
-      "full_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 548
-    }
+    "source_preflight": "sources/review-batch08-version-evidence.json",
+    "reviewed_at": "2026-10-20T17:17:42.846277+00:00"
   },
   "prior_bounded_reviews": [
     {
@@ -368,8 +371,56 @@
       "report": "review-batch06-result.json",
       "source_preflight": "sources/review-batch06-version-evidence.json",
       "reviewed_at": "2026-10-20T16:58:32.575258+00:00"
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a38z",
+        "a38aa",
+        "a38ab",
+        "a38ac",
+        "a38ad",
+        "a38ae",
+        "a38af",
+        "a38ag",
+        "a39",
+        "a40",
+        "a41",
+        "a42",
+        "a43",
+        "a43a",
+        "a43b",
+        "a43c",
+        "a44",
+        "a44bis",
+        "a44a",
+        "a45"
+      ],
+      "corrected_units": [
+        "a38z",
+        "a39",
+        "a40",
+        "a41",
+        "a44bis",
+        "a44a",
+        "a45"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-batch07-result.json",
+      "source_preflight": "sources/review-batch07-version-evidence.json",
+      "reviewed_at": "2026-10-20T17:06:59.890171+00:00",
+      "technical_validation": {
+        "statutory_text_agreement": 1.0,
+        "coverage_ok": true,
+        "local_links_ok": true,
+        "all20_present": true,
+        "full_build_ok": false,
+        "strict_validator_ok": false,
+        "out_of_scope_missing_commentaries": 548
+      }
     }
   ],
-  "second_pass_total_reviewed_units": 140,
-  "second_pass_remaining_units": 672
+  "second_pass_total_reviewed_units": 160,
+  "second_pass_remaining_units": 652
 }

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2016:733</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-08-04T09:06:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-04-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-04-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">15/00447</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:2638" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:2638, Gevolgd</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=52">Wetboek van Strafrecht 52</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2016/955</rdf:li>
+          <rdf:li>RvdW 2016/598</rdf:li>
+          <rdf:li>NJ 2016/375 met annotatie van H.D. Wolswijk</rdf:li>
+          <rdf:li>JOW 2016/13</rdf:li>
+          <rdf:li>JONDR 2016/764</rdf:li>
+          <rdf:li>JIN 2016/115 met annotatie van C.J.A. de Bruijn</rdf:li>
+          <rdf:li>JOR 2016/195 met annotatie van mr. M. Altena, mr. R.P.A. Kraaijeveld</rdf:li>
+          <rdf:li>SR-Updates.nl 2016-0199 met annotatie van B.J.V. Keupink</rdf:li>
+          <rdf:li>NbSr 2016/146 met annotatie van mr. A.A. Feenstra</rdf:li>
+          <rdf:li>FutD 2016-1103</rdf:li>
+          <rdf:li>Viditax (FutD) 2016042602</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:733">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:733</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-04-25T13:31:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-04-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2016:733 Hoge Raad , 26-04-2016 / 15/00447</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2016:733:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>HR geeft op hoofdlijnen een verduidelijking van het beslissingskader m.b.t. de strafrechtelijke aansprakelijkheid voor het “feitelijk leidinggeven” aan een door een rechtspersoon verrichte verboden gedraging a.b.i. art. 51.2 aanhef en onder 2⁰, Sr. Falende bewijsklachten feitelijk leidinggeven en het daartoe vereiste van opzet van verdachte en falende klacht m.b.t. het ten bezware van verdachte bij de strafoplegging meewegen dat de Belastingdienst voor een aanzienlijk bedrag is benadeeld.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2016:733:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>26 april 2016</para>
+    <para>Strafkamer</para>
+    <para>nr. S 15/00447</para>
+    <para>IV/IF</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para> </para>
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, van 6 mei 2014, nummer 21/004839-11, in de strafzaak tegen:</para>
+    </parablock>
+    <parablock>
+      <para>
+        <emphasis role="underline">
+          [verdachte]
+        </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1941. </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft M.J.N. Vermeij, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal T.N.B.M. Spronken heeft geconcludeerd tot vermindering van de opgelegde straf en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Bewezenverklaring en bewijsvoering</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Het Hof heeft ten laste van de verdachte bewezenverklaard dat:</para>
+        <para>"Gemeenschappelijke Regeling Werkvoorzieningsschap Oost-Twente in de periode april 2000 tot en met oktober 2003, in Nederland, als inhoudingsplichtige in de zin van de Wet op de loonbelasting 1964 telkens opzettelijk een bij de Belastingwet voorziene aangifte, als bedoeld in de Algemene wet inzake rijksbelastingen, te weten de aangiften voor de loonbelasting en premie volksverzekering over de kwartalen gelegen in de periode januari 2000 tot en met september 2003, onjuist heeft gedaan bij de Belastingdienst te Almelo en/of Enschede, waarbij telkens een aangiftebiljet was gebezigd met de tenaamstelling: WERKVOORZIENINGSCHAP OOST TWENTE (W.O.T) WERKVERBAND " […] ", terwijl die feiten er telkens toe strekten dat te weinig belasting wordt geheven, hebbende die onjuistheid telkens hierin bestaan, dat in de aangiftebiljetten betreffende die kwartalen telkens een te laag bedrag "te betalen loonbelasting/premie volksverzekering" en "totaal loonbelasting/premie volksverzekering" werd vermeld, zulks terwijl hij, verdachte, feitelijke leiding heeft gegeven aan bovenomschreven verboden gedragingen."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+        <para>"In de hierna te melden bewijsmiddelen wordt telkens verwezen naar de bijlagen van het in de wettelijke vorm opgemaakte overzichtsproces-verbaal van de Belastingdienst/FIOD-ECD, genummerd 34005, opgemaakt door [verbalisant 1] en [verbalisant 2] , ambtenaren van de Belastingdienst en buitengewoon opsporingsambtenaar, gesloten op 15 februari 2007.</para>
+        <para>De in het overzichtsproces-verbaal gerelateerde feiten zijn door het hof gecontroleerd en juist bevonden aan de hand van de onderliggende stukken en de bereikte conclusies zijn getoetst aan datzelfde materiaal.</para>
+        <para>1. Het bovengenoemde in de wettelijke vorm opgemaakte overzichtsproces-verbaal (pagina 6 e.v.), voor zover inhoudende als relaas van verbalisanten, zakelijk weergegeven:</para>
+        <para>
+          [betrokkene 1] is over een periode van 20 juli 1998 tot 26 september 2003 algemeen directeur geweest van Gemeenschappelijke Regeling Werkvoorzieningschap Oost-Twente (hierna GR WOT)/ [A] B.V., dan wel andere daaraan gelieerde vennootschappen, gevestigd te Oldenzaal. [betrokkene 1] is door het dagelijks bestuur van GR WOT benoemd en dient aan het dagelijks bestuur verantwoording af te leggen. [A] B.V. is opgericht op 30 mei 2002 en per 30 mei 2002 is [betrokkene 1] benoemd als statutair directeur van [A] B.V. [betrokkene 1] heeft ter zake van zijn werkzaamheden voor GR WOT/ [A] B.V. of andere daaraan gelieerde vennootschappen een beloning ontvangen. Over de uitbetaalde beloning is door GR WOT/ [A] B.V. nimmer loonbelasting/premie volksverzekeringen ingehouden en afgedragen. [betrokkene 1] heeft zijn beloning ontvangen in zijn persoonlijke vennootschap, [B] B.V. Via [B] heeft [betrokkene 1] slechts een beperkt gedeelte van zijn beloning als loon opgegeven. Om te doen voorkomen dat [B] bedrijfsmatig werkzaamheden heeft verricht, heeft [betrokkene 1] ter onderbouwing voor verschillende opdrachtgevers contracten opgemaakt.</para>
+        <para>De eerste contracten van [betrokkene 1] zijn op of omstreeks 14 december 2001, door [betrokkene 2] , werkzaam als specialist loonbelasting, bij Deloitte op hun fiscale merites beoordeeld. [betrokkene 2] heeft bij de beoordeling van deze contracten vastgesteld dat GR WOT loonbelasting/premie volksverzekeringen is verschuldigd (zie D-034-1). Vervolgens heeft [betrokkene 1] deze contracten vermoedelijk opnieuw opgemaakt tussen 14 december 2001 en 1 februari 2002. De aangepaste contracten (D-046-3 en D-046-4) zijn voorzien van de oorspronkelijke datum 2 april 2001. Hetzelfde geldt vermoedelijk voor de contracten met de datum 15 maart 2002 (D-046-5 tot en met D-046-7).</para>
+        <para>Wanneer alles feitelijk juist was gegaan dan waren de verdiensten van [betrokkene 1] bij GR WOT/ [A] B.V. gewoon in de aangiften loonbelasting van GR WOT verantwoord. Doordat GR WOT/ [A] over de uitbetaalde bedragen in de periode tot en met 2003 geen loonheffing heeft ingehouden, is er in de kwartaalaangiften loonbelasting/premies volksverzekeringen te weinig ingehouden.</para>
+        <para>2. Het in de wettelijke vorm opgemaakt proces-verbaal van verhoor (V4-01 tot en met V4-03), voor zover inhoudende als verklaring van verdachte, zakelijk weergegeven:</para>
+        <para>Het Werkvoorzieningsschap Oost-Twente (hierna WOT) is een gemeenschappelijke regeling tussen Ootmarsum, Denekamp, Losser en Oldenzaal. Ik ben enkele weken na mijn aantreden in Ootmarsum in mei 1998, door de wethouder van Oldenzaal, [betrokkene 3] , gevraagd om de gemeente Ootmarsum te vertegenwoordigen in het WOT. Vervolgens heeft de gemeenteraad van Ootmarsum mij aangewezen. Ik werd gevraagd als voorzitter. Het dagelijks bestuur kiest uit haar midden een voorzitter. Dat ben ik geworden op voordracht van de andere bestuursleden. Ik ben tot mijn vertrek uit Ootmarsum actief geweest als voorzitter van het WOT. Ik was voorzitter van het algemeen bestuur en van het dagelijks bestuur.</para>
+        <para>Na mijn vertrek uit Ootmarsum ultimo 2000 was ik geen formeel bestuurder meer. Vanaf 2001 zat ik de vergadering van het WOT voor. De stukken werden getekend door de voorzitter en de secretaris. Het dagelijks bestuur van het WOT was eindverantwoordelijk voor genomen beslissingen. Ik was voorzitter.</para>
+        <para>Het dagelijks bestuur van het WOT heeft een soort uitzendorganisatie gecreëerd waarin de bedrijfsmiddelen ondergebracht zouden worden. Wij hadden een interim-bureau benaderd voor het aantrekken van een interim-directeur. [betrokkene 1] was de meest geschikte kandidaat. In juli 1998 is hij begonnen. Er is een interim-management-contract opgesteld. Hij zou maximaal anderhalf jaar als interim blijven. Het WOT heeft [C] opgericht en daarna [A] . Het zijn 100% zustervennootschappen binnen dezelfde organisatie. [D] is een dochtervennootschap van Deloitte. Voor het aantrekken van [betrokkene 1] is met [D] een interim-managementcontract opgemaakt.</para>
+        <para>Na anderhalf jaar kon het contract met [betrokkene 1] niet verlengd worden in verband met het probleem van het dienstverband. Wij hebben hem wel gevraagd zijn werk voor te zetten. Er moest gezocht worden naar een fiscale vorm. Ik heb persoonlijk gebeld met burgemeester Cammaert van Oldenzaal. Ik had van [betrokkene 1] begrepen dat hij 'het' geregeld had met de fiscus.</para>
+        <para>
+          [betrokkene 1] heeft geen werkzaamheden verricht voor de gemeente Oldenzaal.</para>
+        <para>U houdt mij de contracten voor van 2 april 2001. Ik heb D-34-2 getekend. Het kan kloppen dat ik, blijkens besluiten van de bestuursvergaderingen, er van op de hoogte was dat de contracten met [betrokkene 1] werden verlengd.</para>
+        <para>3. Het in de wettelijke vorm opgemaakt proces-verbaal van verhoor (G-02-01), voor zover inhoudende als verklaring van [betrokkene 4] , zakelijk weergegeven:</para>
+        <para>Ik heb Nederlands recht gestudeerd en ik heb meer dan 15 jaar ervaring in de sociale werkvoorziening op bedrijfsjuridisch vlak. Ik ben in 1991 bij [A] /GR WOT begonnen als juridisch medewerker. Bij [A] heb ik alle zaken die een juridisch tintje hebben, verzorgd. Waaronder ook arbeidsrecht, ambtenarenrecht, alles op het gebied van overheidsrecht, AWB, advisering richting bestuur en directie. Daarnaast ook P&amp;O-zaken.</para>
+        <para>Onder GR WOT hangt [A] B.V., voorheen GR WOT BV geheten. Onder [A] B.V. vallen [E] B.V. en [C] B.V. De aandelen [E] B.V. en [C] B.V. vielen in mijn tijd onder [A] B.V. De aandelen [A] B.V. vallen onder GR WOT. De bedrijven die ik hier heb genoemd zijn allemaal met elkaar verweven. De directeur van [A] B.V. was ook bestuurder van </para>
+        <para>
+          [E] BV en [C] B.V. [betrokkene 1] , algemeen directeur vanaf 20 juli 1998 tot eind september 2003 heeft deze structuur bedacht. De leiding van deze structuur werd vanuit [A] B.V. centraal aangestuurd, ook voor [E] en [C] . Dus de staf, de administratie, de directie en ook de uitvoering werd centraal aangestuurd. Het werd als een geheel beschouwd.</para>
+        <para>Er moest een nieuwe algemeen directeur komen. Ik heb van onder meer [betrokkene 3] vernomen dat [betrokkene 1] via [verdachte] is binnengekomen. Ik weet dat er een discussie is geweest over de wijze waarop [betrokkene 1] zou moeten worden ingehuurd. Uiteindelijk is gekozen voor [D] . Ik weet dat zijn contracten niet altijd erg lang duurden. [betrokkene 1] regelde dat allemaal zelf via zijn eigen B.V. genaamd [B] B.V. Daarna is [betrokkene 1] geswitched van gemeente naar gemeente en van B.V. naar B.V. Hoewel [betrokkene 1] over verschillende contracten beschikte, heeft hij feitelijk steeds dezelfde functie uitgeoefend, namelijk die van algemeen directeur. Het politieke bestuur was de baas van [betrokkene 1] en het politieke bestuur heeft de contracten van [betrokkene 1] ondertekend. Dit waren onder meer [verdachte] en [betrokkene 3] .</para>
+        <para>
+          [betrokkene 1] verklaarde dat hij voor zijn B.V. steeds meerdere opdrachtgevers moest hebben binnen een jaar en ook steeds een andere handtekening. [betrokkene 1] is elke keer opnieuw door het bestuur gevraagd om te blijven. Ik bedoel hiermee met name [betrokkene 3] en [verdachte] .</para>
+        <para>4. Het in de wettelijke vorm opgemaakt proces-verbaal van verhoor (G-12-01), voor zover inhoudende als verklaring van P.A.G. Cammaert, zakelijk weergegeven:</para>
+        <para>Van 1997 tot 2003 was ik burgemeester van Oldenzaal.</para>
+        <para>
+          [betrokkene 1] was interim-manager bij GR WOT. Als u mij zegt dat hij sinds juli 1998 daar werkzaamheden heeft verricht dan kan dat wel kloppen. [verdachte] kende [betrokkene 1] uit zijn "Brabantse tijd". Ik weet mij te herinneren dat er een periode voor [betrokkene 1] overbrugd moest worden. Dat heb ik van mijn wethouder [betrokkene 3] in een B&amp;W-vergadering gehoord. Op de één of andere manier kon [betrokkene 1] niet meer bij het WOT een dienstverband krijgen. In mijn beleving had dit niet zo zeer te maken met dat hij niet meer bij het WOT op de loonlijst kon, maar dat het fiscaal beter voor [betrokkene 1] uit kwam. Van belang was dus de vormgeving van de arbeidsrelatie. Er moest een dienstverband met de gemeente Oldenzaal en [betrokkene 1] gecreëerd worden omdat het WOT [betrokkene 1] op dat moment niet meer in dienst kon nemen dan wel houden. [betrokkene 1] kon op papier niet meer bij het WOT blijven. Waarschijnlijk liep begin 2000 het contract af terwijl de werkzaamheden voor het WOT nog niet afgerond waren. Er moest dus een overbrugging in de tijd plaatsvinden. Tijdens de overbrugging zou [betrokkene 1] nog een aantal klusjes voor het WOT verrichten. Er werd voor gekozen om de gemeente Oldenzaal er tussen te schuiven. Gezien de managementovereenkomst die u mij toont, zijn wij als gemeente Oldenzaal inderdaad tussen [betrokkene 1] en het WOT geschoven. Er is dus eigenlijk sprake van een soort U-bocht oplossing. Het is een dienstverleningsconstructie die aan [betrokkene 1] aangeboden is. Het zou volgens [verdachte] voor [betrokkene 1] financieel gunstig zijn. Een andere constructie zou voor [betrokkene 1] ongunstiger, ik bedoel duurder, uitvallen. Ik denk dan aan het betalen van zo min mogelijk belasting. Als ik nu op deze overeenkomst terugkijk, vraag ik mij af of ik hier wel aan had moeten meewerken. Het was evident dat [betrokkene 1] enkele maanden voor het WOT zou blijven werken. Voor zover ik weet heeft [betrokkene 1] inhoudelijk geen directe werkzaamheden verricht voor de gemeente Oldenzaal. Wel indirect omdat het WOT mede van de gemeente Oldenzaal is. Ik weet mij te herinneren dat deze kwestie intern besproken is bij de gemeente Oldenzaal. Ik heb onder andere gesproken met de gemeentesecretaris [betrokkene 5] en wethouder [betrokkene 3] . Wij kwamen gezamenlijk tot de conclusie dat [betrokkene 1] werkzaamheden voor het WOT had verricht en dat onveranderd zou blijven verrichten.</para>
+        <para>Deze oplossing werd mij aangedragen door [verdachte] en [betrokkene 3] .</para>
+        <para>
+          [betrokkene 1] is feitelijk sinds 1998 de grote baas van het WOT. Ik vind het nu opmerkelijk dat de werkzaamheden van [betrokkene 1] ook na 2000 gewoon zijn doorgelopen.</para>
+        <para>5. Een geschrift als bedoeld in artikel 344 van het Wetboek van Strafvordering (bijlage D-070-2, te weten een brief van verdachte aan de gemeente Oldenzaal t.a.v. de burgemeester P.A.G. Cammaert, van 1 oktober 1999, voor zover inhoudende:</para>
+        <para>Conform onze eerdere mondelinge afspraak, doe ik u hierbij een schriftelijk verzoek toekomen om gedurende een periode van ongeveer een jaar te voorzien in een adviseurschap voor [betrokkene 1] bij de gemeente Oldenzaal, thans algemeen directeur ad interim bij het Werkvoorzieningschap Oost Twente. De gevraagde periode dient bij inwilliging van dit verzoek in te gaan op 21 april 2000 en te eindigen op 31 december 2000.</para>
+        <para>Reden van dit verzoek is de volgende.</para>
+        <para>
+          [betrokkene 1] is sedert 20 juli 1998 door middel van een interim-managementcontract aangesteld als algemeen directeur ad interim bij het WOT. Dit contract eindigt op 20 januari 2000. Er is dan sprake geweest van een periode van 18 maanden aaneengesloten interim- management, hetgeen het maximum is dat als zelfstandig ondernemer als zodanig mag worden ingevuld bij een en dezelfde opdrachtgever. Daarna wordt er sprake van een dienstverband. Gelet op het feit dat dit voor [betrokkene 1] geen optie is, zal hij formeel een andere opdracht dienen te zoeken. In het kader van de continuïteit inzake de aanwending van zijn deskundigheid in relatie tot een of meerdere vormen van gesubsidieerde arbeid, zou het goed zijn om hem enige tijd als adviseur aan de gemeente Oldenzaal te verbinden.</para>
+        <para>6. Geschriften als bedoeld in artikel 344 van het Wetboek van Strafvordering (bijlagen D-050-3 tot en met D-050-15), te weten aangiften loonbelasting en premie volksverzekeringen ten name van het Werkvoorzieningschap Oost Twente (W.O.T.) werkverband " […] " (aan deze aanvulling gehecht).</para>
+        <para>(...)"</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Aan de beoordeling van de middelen voorafgaande beschouwing</title>
+    <para />
+    <paragroup>
+      <nr>3.1.1.</nr>
+      <para>In deze zaak staat in enkele middelen het feitelijke leidinggeven aan een door een rechtspersoon begaan strafbaar feit centraal. Dat gecompliceerde thema is in recente rechtspraak weinig aan bod gekomen. De Hoge Raad zal daarom hierna, mede aan de hand van zijn eerdere rechtspraak, enkele opmerkingen maken over de strafrechtelijke aansprakelijkheid voor het "feitelijke leidinggeven" aan een door een rechtspersoon verrichte verboden gedraging als bedoeld in art. 51, tweede lid aanhef en onder 2°, Sr. Deze opmerkingen vormen geen compleet overzicht, maar beogen op hoofdlijnen een verduidelijking van het beslissingskader te bieden. Bij de toepassing van dat kader zal overigens veel afhangen van de precieze feiten en omstandigheden van het geval.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.2.</nr>
+      <parablock>
+        <para>Art. 51 Sr luidt:</para>
+        <para>"1. Strafbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.</para>
+        <para>2. Indien een strafbaar feit wordt begaan door een rechtspersoon, kan de strafvervolging worden ingesteld en kunnen de in de wet voorziene straffen en maatregelen, indien zij daarvoor in aanmerking komen, worden uitgesproken: </para>
+        <para>1° tegen die rechtspersoon, dan wel </para>
+        <para>2° tegen hen die tot het feit opdracht hebben gegeven, alsmede tegen hen die feitelijke leiding hebben gegeven aan de verboden gedraging, dan wel </para>
+        <para>3° tegen de onder 1° en 2° genoemden te zamen.</para>
+        <para>3. Voor de toepassing van de vorige leden wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Strafvervolging ingesteld tegen een persoon die feitelijke leiding heeft gegeven aan de verboden gedraging, behoeft - indien de rechtspersoon eveneens wordt vervolgd - niet tegelijk plaats te vinden met die vervolging van de rechtspersoon. Zij stuit ook niet af op de enkele omstandigheid dat een strafvervolging van die rechtspersoon niet (meer) mogelijk is of niet plaatsvindt.<footnote-ref linkend="_1b55c73a-4f2d-4082-9b3e-747ced06704e" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Bij de beantwoording van de vraag of een verdachte strafrechtelijk aansprakelijk kan worden gesteld ter zake van het feitelijke leidinggeven aan een door een rechtspersoon verrichte verboden gedraging, dient eerst te worden vastgesteld of die rechtspersoon een strafbaar feit heeft begaan (dat wil zeggen: een strafbaar feit heeft gepleegd of daaraan heeft deelgenomen<footnote-ref linkend="_4f58fb0c-506e-4529-a1a7-2e61f6f7454b" />). Ingeval die vraag bevestigend wordt beantwoord, komt de vraag aan de orde of kan worden bewezen dat de verdachte aan die gedraging feitelijke leiding heeft gegeven.</para>
+      <para />
+      <paragroup>
+        <nr>3.4.1.</nr>
+        <parablock>
+          <para>In zijn arrest van 21 oktober 2003<footnote-ref linkend="_c67a560d-88e4-43a3-8e2e-c9c8345142ec" /> heeft de Hoge Raad geoordeeld dat een rechtspersoon kan worden aangemerkt als dader van een strafbaar feit indien de desbetreffende gedraging redelijkerwijs aan die rechtspersoon kan worden toegerekend. Die toerekening is afhankelijk van de concrete omstandigheden van het geval, waartoe mede behoort de aard van de (verboden) gedraging. Een belangrijk oriëntatiepunt bij de toerekening is of de gedraging heeft plaatsgevonden dan wel is verricht in de sfeer van de rechtspersoon. Een dergelijke gedraging kan in beginsel worden toegerekend aan de rechtspersoon.</para>
+          <para>Van een gedraging in de sfeer van de rechtspersoon kan sprake zijn indien zich een of meer van de navolgende omstandigheden voordoen: </para>
+        </parablock>
+        <para>a) het gaat om een handelen of nalaten van iemand die hetzij uit hoofde van een dienstbetrekking hetzij uit anderen hoofde werkzaam is ten behoeve van de rechtspersoon, </para>
+        <para>b) de gedraging past in de normale bedrijfsvoering of taakuitoefening van de rechtspersoon, </para>
+        <para>c) de gedraging is de rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf of in diens taakuitoefening, </para>
+        <para>d) de rechtspersoon vermocht erover te beschikken of de gedraging al dan niet zou plaatsvinden en zodanig of vergelijkbaar gedrag werd blijkens de feitelijke gang van zaken door de rechtspersoon aanvaard of placht te worden aanvaard, waarbij onder bedoeld aanvaarden mede begrepen is het niet betrachten van de zorg die in redelijkheid van de rechtspersoon kon worden gevergd met het oog op de voorkoming van de gedraging.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2.</nr>
+        <para>Ingeval de delictsomschrijving van het strafbare feit waarvan de rechtspersoon wordt verdacht, opzet vereist, kan dat opzet op verschillende manieren worden vastgesteld. Onder omstandigheden kan het opzet van een natuurlijk persoon aan een rechtspersoon worden toegerekend.<footnote-ref linkend="_397c18dc-8826-4c16-9d7f-a740cce01f5e" /> Maar voor opzet van een rechtspersoon is niet vereist dat komt vast te staan dat de namens of ten behoeve van die rechtspersoon optredende natuurlijke personen met dat opzet hebben gehandeld.<footnote-ref linkend="_8671fe97-0817-4f6e-bcce-99585b661e7e" /> Het opzet van een rechtspersoon kan onder omstandigheden bijvoorbeeld ook worden afgeleid uit het beleid van de rechtspersoon of de feitelijke gang van zaken binnen de rechtspersoon.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.1.</nr>
+        <parablock>
+          <para>Pas nadat is vastgesteld dat een rechtspersoon een bepaald strafbaar feit heeft begaan, komt aan de orde of iemand als feitelijke leidinggever daarvoor strafrechtelijk aansprakelijk is. Bij de beoordeling daarvan moet worden vooropgesteld dat uit de taalkundige betekenis van het begrip feitelijke leidinggeven enerzijds voortvloeit dat de enkele omstandigheid dat de verdachte bijvoorbeeld bestuurder van een rechtspersoon is, niet voldoende is om hem aan te merken als feitelijke leidinggever aan een door die rechtspersoon begaan strafbaar feit.<footnote-ref linkend="_17ad8840-f6f7-4c61-88b5-c9e99ce2ee90" /> Maar anderzijds is een dergelijke juridische positie geen vereiste,<footnote-ref linkend="_5a110a85-ace2-4f4b-8b52-fee3118980a7" /> terwijl ook iemand die geen dienstverband heeft met de rechtspersoon feitelijke leidinggever kan zijn aan een door de rechtspersoon begaan strafbaar feit.</para>
+          <para>Aan hetzelfde strafbare feit kan door meer personen – al dan niet gezamenlijk - feitelijke leiding worden gegeven. Ook een rechtspersoon kan een feitelijke leidinggever zijn.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2.</nr>
+        <parablock>
+          <para>Feitelijke leidinggeven zal vaak bestaan uit actief en effectief gedrag dat onmiskenbaar binnen de gewone betekenis van het begrip valt. Van feitelijke leidinggeven kan voorts sprake zijn indien de verboden gedraging het onvermijdelijke gevolg is van het algemene, door de verdachte (bijvoorbeeld als bestuurder) gevoerde beleid.<footnote-ref linkend="_6fd2b330-7ce2-4632-9b3f-52dd21f1a121" /> Ook kan worden gedacht aan het leveren van een zodanige bijdrage aan een complex van gedragingen dat heeft geleid tot de verboden gedraging en het daarbij nemen van een zodanig initiatief dat de verdachte geacht moet worden aan die verboden gedraging feitelijke leiding te hebben gegeven.<footnote-ref linkend="_f7995441-ddd0-404c-8e6e-19c3cf713c27" /> Niet is vereist dat een ander de fysieke uitvoeringshandelingen heeft verricht.<footnote-ref linkend="_063ea628-9403-4afb-b3bf-e7e898fff815" /></para>
+          <para>Onder omstandigheden kan ook een meer passieve rol tot het oordeel leiden dat een verboden gedraging daardoor zodanig is bevorderd dat van feitelijke leidinggeven kan worden gesproken. Dat kan in het bijzonder het geval zijn bij de verdachte die bevoegd en redelijkerwijs gehouden is maatregelen te treffen ter voorkoming of beëindiging van verboden gedragingen en die zulke maatregelen achterwege laat.<footnote-ref linkend="_606805d8-3173-452f-981a-ededeca4c1d5" /></para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.3.</nr>
+        <para>In feitelijke leidinggeven ligt een zelfstandig opzetvereiste op de verboden gedraging besloten.<footnote-ref linkend="_86544fa4-33bd-4b42-8ca5-4720734da8e2" /> Voor dit opzet van de leidinggever geldt als ondergrens dat hij bewust de aanmerkelijke kans aanvaardt dat de verboden gedraging zich zal voordoen. Van het bewijs van dergelijke aanvaarding kan – in het bijzonder bij meer structureel begane strafbare feiten – ook sprake zijn indien hetgeen de leidinggever bekend was omtrent het begaan van strafbare feiten door de rechtspersoon rechtstreeks verband hield met de in de tenlastelegging omschreven verboden gedraging.<footnote-ref linkend="_4200d12d-a988-4902-bc1f-f0ac0d34078f" /> Een ander voorbeeld van een geval waarin onder omstandigheden voldaan kan zijn aan het voor de feitelijke leidinggever geldende opzetvereiste biedt een leidinggever die de werkzaamheden van een onderneming zo organiseert dat hij ermee rekening houdt dat de aan de betrokken werknemers gegeven opdrachten niet kunnen worden uitgevoerd zonder dat dit gepaard gaat met het begaan van strafbare feiten.<footnote-ref linkend="_42cbe12a-f5ce-4fd2-8f36-fe56bb20dd5b" /></para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het vierde en het vijfde middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De middelen klagen in het bijzonder over de bewezenverklaring van het feitelijke leidinggeven en het daartoe vereiste opzet van de verdachte.</para>
+      <para />
+      <paragroup>
+        <nr>4.2.1.</nr>
+        <parablock>
+          <para>Op grond van de gebezigde bewijsmiddelen heeft het Hof kennelijk aangenomen dat de Gemeenschappelijke Regeling Werkvoorzieningschap Oost-Twente (hierna: het Werkvoorzieningschap) opzettelijk onjuiste aangiften LB/Pvv heeft gedaan door daarin ten onrechte opzettelijk de aan [betrokkene 1] , althans diens persoonlijke vennootschap [B] BV (hierna: [B] ), betaalde beloningen niet als 'loon' te verantwoorden. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.2.2.</nr>
+        <para>Voorts heeft het Hof blijkens de gebezigde bewijsmiddelen vastgesteld dat: </para>
+        <para>(i) de verdachte gedurende de in de tenlastelegging vermelde periode werkzaamheden verrichtte voor het Werkvoorzieningschap, aanvankelijk (in zijn hoedanigheid van burgemeester van een van de samenwerkende gemeenten) als voorzitter van het dagelijks bestuur van het Werkvoorzieningschap en vanaf 2001 (in zijn hoedanigheid van waarnemend burgemeester van een andere gemeente) als voorzitter van de vergaderingen van het Werkvoorzieningschap;</para>
+        <parablock>
+          <para>(ii) de verdachte in die respectieve functies nauw betrokken was bij, en een zwaarwegende invloed had op het creëren van een constructie waarbij [betrokkene 1] zijn werkzaamheden als algemeen directeur van het Werkvoorzieningschap en haar (klein)dochtervennootschappen na 20 januari 2000 zou kunnen voortzetten zonder voor fiscale doeleinden als werknemer van het Werkvoorzieningschap te worden aangemerkt; </para>
+          <para>(iii) de verdachte ervan op de hoogte was dat het voorkomen van een dienstverband met het Werkvoorzieningschap voor [betrokkene 1] fiscaal gunstig was en dat het daarvoor nodig was dat [betrokkene 1] , althans [B] , diverse opdrachtgevers had;</para>
+          <para>(iv) de verdachte heeft geëntameerd dan wel ervan op de hoogte was dat [betrokkene 1] althans [B] te dien einde dienstverleningsovereenkomsten heeft gesloten met de gemeente Oldenzaal en met twee (klein)dochtervennootschappen van het Werkvoorzieningschap, terwijl [betrokkene 1] feitelijk en uitsluitend werkzaam was als algemeen directeur van het Werkvoorzieningschap; en</para>
+        </parablock>
+        <para>(v) de verdachte ervan op de hoogte was dat het Werkvoorzieningschap als gevolg van een en ander onjuiste aangiften LB/Pvv zou doen.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Op grond van deze vaststellingen heeft het Hof in overeenstemming met het hiervoor onder 3 overwogene en zonder van een onjuiste rechtsopvatting blijk te geven niet onbegrijpelijk kunnen oordelen (a) dat het Werkvoorzieningschap opzettelijk onjuiste aangiften LB/Pvv heeft gedaan en (b) dat de verdachte daaraan feitelijke leiding heeft gegeven. Gelet op hetgeen hiervoor onder 3.5.1 is vooropgesteld, leidt de door de verdediging naar voren gebrachte enkele omstandigheid dat de verdachte na 2000 "geen bestuurlijk mandaat meer" had en niet langer bevoegd was namens het Werkvoorzieningschap op te treden, niet tot een ander oordeel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De middelen falen derhalve.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>Beoordeling van het zevende middel</title>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Het middel klaagt onder meer dat het Hof bij de strafoplegging ten onrechte ten bezware van de verdachte heeft meegewogen dat hij de Belastingdienst "voor een aanzienlijk bedrag" heeft benadeeld althans dat van die benadeling niet is gebleken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Het Hof heeft de verdachte veroordeeld tot een gevangenisstraf van drie maanden, voorwaardelijk met een proeftijd van twee jaren, een taakstraf van honderd uren, subsidiair vijftig dagen hechtenis, en een geldboete van € 30.000,-, subsidiair 185 dagen hechtenis. Met betrekking tot de strafoplegging heeft het Hof onder meer het volgende overwogen:</para>
+        <para>"De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de draagkracht en de persoon van verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.</para>
+        <para>Verdachte had een leidinggevende positie bij het Werkvoorzieningsschap Oost-Twente (WOT), een samenwerkingsverband van verschillende gemeenten in Oost-Twente, in welk samenwerkingsverband door die gemeenten - zakelijk en kort weergegeven - werd getracht al dan niet minder valide mensen aan werk te helpen. Verdachte was bij het WOT betrokken, eerst als burgemeester van een van de samenwerkende gemeenten en daarna als waarnemend burgemeester van een andere gemeente. Verdachte heeft samen met de medeverdachte (door onder meer overeenkomsten mede te vervalsen) de heffing van de loonbelasting en premies volksverzekeringen gefrustreerd. De belastingdienst is door verdachtes handelen voor een aanzienlijk bedrag benadeeld. Het hof rekent dit verdachte zeer aan, zeker gelet op zijn functie als burgemeester, waarin hij een voorbeeld behoort te zijn voor de gemeenschap.</para>
+        <para>Het hof is van oordeel dat gelet op de hoogte van het nadeelbedrag en - in het bijzonder - verdachtes (hoge) leidinggevende positie bij het WOT (waardoor hij een voorbeeldfunctie had) een onvoorwaardelijke gevangenisstraf in beginsel gerechtvaardigd is.</para>
+        <para>Het hof houdt er (in het voordeel van verdachte) echter ook rekening mee dat - hoewel de redelijke termijn niet is geschonden - het oude feiten betreft, verdachte al op leeftijd is en verdachte niet eerder door de strafrechter is veroordeeld."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <parablock>
+        <para>Het proces-verbaal van de terechtzitting in eerste aanleg van 14 november 2011 houdt in dat de raadsman van de verdachte aldaar het woord heeft gevoerd overeenkomstig de aan het proces-verbaal gehechte pleitnota. Deze pleitnota houdt onder meer het volgende in:</para>
+        <para>"Inmiddels is de belastingdienst overgegaan tot het berekenen van het nadeel dat daadwerkelijk is geleden (...).</para>
+        <para>Men komt dan tot (...) € 35.627,00."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Mede gelet hierop is het oordeel van het Hof dat de Belastingdienst voor een aanzienlijk bedrag is benadeeld, niet onbegrijpelijk.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>De klacht faalt derhalve.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>6</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Het middel is gegrond. Dit moet leiden tot vermindering van de aan de verdachte opgelegde taakstraf van honderd uren, subsidiair vijftig dagen hechtenis.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>7</nr>Beoordeling van de middelen voor het overige </title>
+    <para />
+    <parablock>
+      <para>De middelen kunnen voor het overige niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu de middelen niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>8</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Nu de Hoge Raad geen grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>9</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>	vernietigt de bestreden uitspraak maar uitsluitend wat betreft het aantal uren te verrichten taakstraf en de duur van de vervangende hechtenis;</para>
+      <para>vermindert het aantal uren taakstraf en de duur van de vervangende hechtenis in die zin dat deze 95 uren, subsidiair 47 dagen hechtenis, bedraagt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu, E.S.G.N.A.I. van de Griend, A.L.J. van Strien en E.F. Faase, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">26 april 2016</emphasis>.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_1b55c73a-4f2d-4082-9b3e-747ced06704e" label="1">
+    <para> Vgl. HR 6 december 1988, ECLI:NL:HR:1988:AB9608, NJ 1989/497.</para>
+  </footnote>
+  <footnote id="_4f58fb0c-506e-4529-a1a7-2e61f6f7454b" label="2">
+    <para> Vgl. HR 22 mei 2001, ECLI:NL:HR:2001:AB1761, NJ 2001/698. </para>
+  </footnote>
+  <footnote id="_c67a560d-88e4-43a3-8e2e-c9c8345142ec" label="3">
+    <para> Vgl. HR 21 oktober 2003, ECLI:NL:HR:2003:AF7938, NJ 2006/328.</para>
+  </footnote>
+  <footnote id="_397c18dc-8826-4c16-9d7f-a740cce01f5e" label="4">
+    <para> Vgl. HR 15 oktober 1996, ECLI:NL:HR:1996:ZD0145, NJ 1997/109 ten aanzien van een werknemer.</para>
+  </footnote>
+  <footnote id="_8671fe97-0817-4f6e-bcce-99585b661e7e" label="5">
+    <para> Vgl. HR 29 april 2008, ECLI:NL:HR:2008:BB8977, NJ 2009/130.</para>
+  </footnote>
+  <footnote id="_17ad8840-f6f7-4c61-88b5-c9e99ce2ee90" label="6">
+    <para> Vgl. HR 24 augustus 2004, ECLI:NL:HR:2004:AP1508.</para>
+  </footnote>
+  <footnote id="_5a110a85-ace2-4f4b-8b52-fee3118980a7" label="7">
+    <para> Vgl. HR 21 januari 1992, ECLI:NL:HR:1992:ZC8948, NJ 1992/414 ten aanzien van iemand die juridisch ondergeschikt was aan het bestuur en HR 16 juni 1981, ECLI:NL:HR:1981:AC7243, NJ 1981/586 ten aanzien van iemand buiten de rechtspersoon.</para>
+  </footnote>
+  <footnote id="_6fd2b330-7ce2-4632-9b3f-52dd21f1a121" label="8">
+    <para> Vgl. HR 22 maart 1983, ECLI:NL:HR:1983:AC7905, NJ 1983/502.</para>
+  </footnote>
+  <footnote id="_f7995441-ddd0-404c-8e6e-19c3cf713c27" label="9">
+    <para> Vgl. HR 10 februari 1987, ECLI:NL:HR:1987:AC1276, NJ 1987/662.</para>
+  </footnote>
+  <footnote id="_063ea628-9403-4afb-b3bf-e7e898fff815" label="10">
+    <para> Vgl. HR 27 mei 1986, ECLI:NL:HR:1986:AC9380, NJ 1987/45.</para>
+  </footnote>
+  <footnote id="_606805d8-3173-452f-981a-ededeca4c1d5" label="11">
+    <para> Vgl. HR 16 december 1986, ECLI:NL:HR:1986 AC9607, NJ 1987/321, resp. <?linebreak?>HR 20 november 1984, ECLI:NL:HR:1984:AC8601, NJ 1985/355.</para>
+  </footnote>
+  <footnote id="_86544fa4-33bd-4b42-8ca5-4720734da8e2" label="12">
+    <para> Vgl. bijv. HR 23 juni 1987, ECLI:NL:HR:1987:AC9905, NJ 1988/44.</para>
+  </footnote>
+  <footnote id="_4200d12d-a988-4902-bc1f-f0ac0d34078f" label="13">
+    <para> Vgl. HR 16 december 1986, ECLI:NL:HR:1986 AC9607, NJ 1987/321.</para>
+  </footnote>
+  <footnote id="_42cbe12a-f5ce-4fd2-8f36-fe56bb20dd5b" label="14">
+    <para> Vgl. HR 22 maart 1983, ECLI:NL:HR:1983, AC7905, NJ 1983, 502.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

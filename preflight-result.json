@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T17:02:36.366929+00:00",
+  "verified_at": "2026-10-20T17:10:53.538096+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1601,6 +1601,62 @@
     "inventory": "sources/review-batch07-coverage.json",
     "all812_texts_notes_status_dates_match": true,
     "aanhef_and_wetsluiting": "Both present; no source/parser repair required.",
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch08_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T17:10:53.538096+00:00",
+    "version_evidence": "sources/review-batch08-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126,
+      "additional_body_comparison": {
+        "version": "2026-01-01_0",
+        "source": "sources/review-batch08-historical.xml",
+        "manifest_sha512_matches": true,
+        "scope": [
+          "a46",
+          "a46a",
+          "a46b",
+          "a47",
+          "a48",
+          "a49",
+          "a50",
+          "a51",
+          "a52",
+          "a53",
+          "a54",
+          "a54a",
+          "a55",
+          "a56",
+          "a57",
+          "a58",
+          "a59",
+          "a60",
+          "a60a",
+          "a61"
+        ],
+        "changed_ids": [
+          "a57",
+          "a58",
+          "a60",
+          "a60a"
+        ],
+        "change_map": "sources/review-batch08-change-map.json"
+      }
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch08-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch08-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Both present; no parser/source repair required.",
     "unresolved_blockers": []
   }
 }

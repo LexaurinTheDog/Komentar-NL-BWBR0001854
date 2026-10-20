@@ -1,0 +1,248 @@
+{
+  "old_version": "2026-01-01_0",
+  "old_raw": "sources/review-batch08-historical.xml",
+  "old_raw_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+  "current_version": "2026-07-01_0",
+  "current_raw": "sources/review-batch08-effective.xml",
+  "current_raw_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "scope": [
+    "a46",
+    "a46a",
+    "a46b",
+    "a47",
+    "a48",
+    "a49",
+    "a50",
+    "a51",
+    "a52",
+    "a53",
+    "a54",
+    "a54a",
+    "a55",
+    "a56",
+    "a57",
+    "a58",
+    "a59",
+    "a60",
+    "a60a",
+    "a61"
+  ],
+  "changes": [
+    {
+      "id": "a46",
+      "changed": false,
+      "old_text": "1 Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.\n\n2 Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij voorbereiding met de helft verminderd.\n\n3 Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.\n\n4 De bijkomende straffen zijn voor voorbereiding dezelfde als voor het voltooide misdrijf.\n\n5 Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.",
+      "current_text": "1 Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.\n\n2 Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij voorbereiding met de helft verminderd.\n\n3 Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.\n\n4 De bijkomende straffen zijn voor voorbereiding dezelfde als voor het voltooide misdrijf.\n\n5 Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.",
+      "old_text_sha256": "af78f6db7df618352c2af379b22abaca3a6b90affcfc0ede5c312c29cf6440ea",
+      "current_text_sha256": "af78f6db7df618352c2af379b22abaca3a6b90affcfc0ede5c312c29cf6440ea",
+      "diff": []
+    },
+    {
+      "id": "a46a",
+      "changed": false,
+      "old_text": "Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.",
+      "current_text": "Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.",
+      "old_text_sha256": "ee637cd0559b35049cd371121d0258109c1b44d3790aecb98a6e1519d1ce22e9",
+      "current_text_sha256": "ee637cd0559b35049cd371121d0258109c1b44d3790aecb98a6e1519d1ce22e9",
+      "diff": []
+    },
+    {
+      "id": "a46b",
+      "changed": false,
+      "old_text": "Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk.",
+      "current_text": "Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk.",
+      "old_text_sha256": "fae9aea43dcf481fb54e565a9b9a15c3070a4bdebafa985b58d6f7b51ca49e38",
+      "current_text_sha256": "fae9aea43dcf481fb54e565a9b9a15c3070a4bdebafa985b58d6f7b51ca49e38",
+      "diff": []
+    },
+    {
+      "id": "a47",
+      "changed": false,
+      "old_text": "1 Als daders van een strafbaar feit worden gestraft:\n\n1°. zij die het feit plegen, doen plegen of medeplegen;\n\n2°. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.\n\n2 Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.",
+      "current_text": "1 Als daders van een strafbaar feit worden gestraft:\n\n1°. zij die het feit plegen, doen plegen of medeplegen;\n\n2°. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.\n\n2 Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.",
+      "old_text_sha256": "c4a2519eb6d0843e37ef19b6ee1d73b70f682a86a90018697ae91c8c11bb5aa5",
+      "current_text_sha256": "c4a2519eb6d0843e37ef19b6ee1d73b70f682a86a90018697ae91c8c11bb5aa5",
+      "diff": []
+    },
+    {
+      "id": "a48",
+      "changed": false,
+      "old_text": "Als medeplichtigen van een misdrijf worden gestraft:\n\n1°. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;\n\n2°. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.",
+      "current_text": "Als medeplichtigen van een misdrijf worden gestraft:\n\n1°. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;\n\n2°. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.",
+      "old_text_sha256": "d12c6de114f082a38bfd5615c2fe90bb767753e699304c841c676cb90dad96b3",
+      "current_text_sha256": "d12c6de114f082a38bfd5615c2fe90bb767753e699304c841c676cb90dad96b3",
+      "diff": []
+    },
+    {
+      "id": "a49",
+      "changed": false,
+      "old_text": "1 Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.\n\n2 Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste twintig jaren.\n\n3 De bijkomende straffen zijn voor medeplichtigheid dezelfde als voor het misdrijf zelf.\n\n4 Bij het bepalen van de straf komen alleen die handelingen in aanmerking die de medeplichtige opzettelijk heeft gemakkelijk gemaakt of bevorderd, benevens hun gevolgen.",
+      "current_text": "1 Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.\n\n2 Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste twintig jaren.\n\n3 De bijkomende straffen zijn voor medeplichtigheid dezelfde als voor het misdrijf zelf.\n\n4 Bij het bepalen van de straf komen alleen die handelingen in aanmerking die de medeplichtige opzettelijk heeft gemakkelijk gemaakt of bevorderd, benevens hun gevolgen.",
+      "old_text_sha256": "6adf10d310cafe8cd688d6900ff3945590ac9ed6fce5f3519090a97915b9dc28",
+      "current_text_sha256": "6adf10d310cafe8cd688d6900ff3945590ac9ed6fce5f3519090a97915b9dc28",
+      "diff": []
+    },
+    {
+      "id": "a50",
+      "changed": false,
+      "old_text": "De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, verminderd of verhoogd wordt, komen bij de toepassing van de strafwet alleen in aanmerking ten aanzien van die dader of medeplichtige wie zij persoonlijk betreffen.",
+      "current_text": "De persoonlijke omstandigheden waardoor de strafbaarheid uitgesloten, verminderd of verhoogd wordt, komen bij de toepassing van de strafwet alleen in aanmerking ten aanzien van die dader of medeplichtige wie zij persoonlijk betreffen.",
+      "old_text_sha256": "c54591981bbba502c586e38f5d9895ad0de560dc64a34ec05070ee1ce10f8dd1",
+      "current_text_sha256": "c54591981bbba502c586e38f5d9895ad0de560dc64a34ec05070ee1ce10f8dd1",
+      "diff": []
+    },
+    {
+      "id": "a51",
+      "changed": false,
+      "old_text": "1 Strafbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.\n\n2 Indien een strafbaar feit wordt begaan door een rechtspersoon, kan de strafvervolging worden ingesteld en kunnen de in de wet voorziene straffen en maatregelen, indien zij daarvoor in aanmerking komen, worden uitgesproken:\n\n1°. tegen die rechtspersoon, dan wel\n\n2°. tegen hen die tot het feit opdracht hebben gegeven, alsmede tegen hen die feitelijke leiding hebben gegeven aan de verboden gedraging, dan wel\n\n3°. tegen de onder 1° en 2° genoemden te zamen.\n\n3 Voor de toepassing van de vorige leden wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen.",
+      "current_text": "1 Strafbare feiten kunnen worden begaan door natuurlijke personen en rechtspersonen.\n\n2 Indien een strafbaar feit wordt begaan door een rechtspersoon, kan de strafvervolging worden ingesteld en kunnen de in de wet voorziene straffen en maatregelen, indien zij daarvoor in aanmerking komen, worden uitgesproken:\n\n1°. tegen die rechtspersoon, dan wel\n\n2°. tegen hen die tot het feit opdracht hebben gegeven, alsmede tegen hen die feitelijke leiding hebben gegeven aan de verboden gedraging, dan wel\n\n3°. tegen de onder 1° en 2° genoemden te zamen.\n\n3 Voor de toepassing van de vorige leden wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen.",
+      "old_text_sha256": "f4f377c2045cd8cdcc0c36403079e61d8d3668f8f2b6005d9e4134a5d194ff60",
+      "current_text_sha256": "f4f377c2045cd8cdcc0c36403079e61d8d3668f8f2b6005d9e4134a5d194ff60",
+      "diff": []
+    },
+    {
+      "id": "a52",
+      "changed": false,
+      "old_text": "Medeplichtigheid aan overtreding is niet strafbaar.",
+      "current_text": "Medeplichtigheid aan overtreding is niet strafbaar.",
+      "old_text_sha256": "bf066170cbc77ab463ad66ed63e75b4f833dcbaebec982dcaed74d5b8a804c49",
+      "current_text_sha256": "bf066170cbc77ab463ad66ed63e75b4f833dcbaebec982dcaed74d5b8a804c49",
+      "diff": []
+    },
+    {
+      "id": "a53",
+      "changed": false,
+      "old_text": "1 Bij misdrijven door middel van de drukpers gepleegd wordt de uitgever als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de dader bekend is of op de eerste aanmaning van de rechter-commissaris, door de uitgever is bekendgemaakt.\n\n2 Deze bepaling is niet toepasselijk, indien de dader op het tijdstip van de uitgave strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd was.",
+      "current_text": "1 Bij misdrijven door middel van de drukpers gepleegd wordt de uitgever als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de dader bekend is of op de eerste aanmaning van de rechter-commissaris, door de uitgever is bekendgemaakt.\n\n2 Deze bepaling is niet toepasselijk, indien de dader op het tijdstip van de uitgave strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd was.",
+      "old_text_sha256": "b6c390696346c0b83d1e0e6ed0f2e1bc669bf1bdeb14e07e897ad830f3d50c5b",
+      "current_text_sha256": "b6c390696346c0b83d1e0e6ed0f2e1bc669bf1bdeb14e07e897ad830f3d50c5b",
+      "diff": []
+    },
+    {
+      "id": "a54",
+      "changed": false,
+      "old_text": "1 Bij misdrijven door middel van de drukpers gepleegd wordt de drukker als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de persoon op wiens last het stuk is gedrukt, bekend is of op de eerste aanmaning van de rechter-commissaris, door de drukker is bekendgemaakt.\n\n2 Deze bepaling is niet toepasselijk, indien de persoon op wiens last het stuk is gedrukt, op het tijdstip van het drukken strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd was.",
+      "current_text": "1 Bij misdrijven door middel van de drukpers gepleegd wordt de drukker als zodanig niet vervolgd, indien het gedrukte stuk zijn naam en woonplaats vermeldt en de persoon op wiens last het stuk is gedrukt, bekend is of op de eerste aanmaning van de rechter-commissaris, door de drukker is bekendgemaakt.\n\n2 Deze bepaling is niet toepasselijk, indien de persoon op wiens last het stuk is gedrukt, op het tijdstip van het drukken strafrechtelijk niet vervolgbaar of buiten het Rijk in Europa gevestigd was.",
+      "old_text_sha256": "7632839194486f32f7d38bd250c87cdfcc7491411e64591b0520e702914ea15d",
+      "current_text_sha256": "7632839194486f32f7d38bd250c87cdfcc7491411e64591b0520e702914ea15d",
+      "diff": []
+    },
+    {
+      "id": "a54a",
+      "changed": false,
+      "old_text": "Een tussenpersoon die een communicatiedienst verleent bestaande in de doorgifte of opslag van gegevens die van een ander afkomstig zijn, wordt bij een strafbaar feit dat met gebruikmaking van die dienst wordt begaan als zodanig niet vervolgd indien hij voldoet aan een bevel als bedoeld in artikel 125p van het Wetboek van Strafvordering of een beslissing als bedoeld in artikel 3, eerste lid, van verordening (EU) 2021/784 van het Europees Parlement en de Raad van 29 april 2021 inzake het tegengaan van de verspreiding van terroristische online-inhoud (PbEU 2021, L 172) of een bevel als bedoeld in artikel 6, eerste lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal.",
+      "current_text": "Een tussenpersoon die een communicatiedienst verleent bestaande in de doorgifte of opslag van gegevens die van een ander afkomstig zijn, wordt bij een strafbaar feit dat met gebruikmaking van die dienst wordt begaan als zodanig niet vervolgd indien hij voldoet aan een bevel als bedoeld in artikel 125p van het Wetboek van Strafvordering of een beslissing als bedoeld in artikel 3, eerste lid, van verordening (EU) 2021/784 van het Europees Parlement en de Raad van 29 april 2021 inzake het tegengaan van de verspreiding van terroristische online-inhoud (PbEU 2021, L 172) of een bevel als bedoeld in artikel 6, eerste lid, van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal.",
+      "old_text_sha256": "0a72266544e302a657f2cbf49de92d063b425842085db6cdc349d8adcdce2298",
+      "current_text_sha256": "0a72266544e302a657f2cbf49de92d063b425842085db6cdc349d8adcdce2298",
+      "diff": []
+    },
+    {
+      "id": "a55",
+      "changed": false,
+      "old_text": "1 Valt een feit in meer dan één strafbepaling, dan wordt slechts één van die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.\n\n2 Indien voor een feit dat in een algemene strafbepaling valt een bijzondere strafbepaling bestaat, komt deze alleen in aanmerking.",
+      "current_text": "1 Valt een feit in meer dan één strafbepaling, dan wordt slechts één van die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.\n\n2 Indien voor een feit dat in een algemene strafbepaling valt een bijzondere strafbepaling bestaat, komt deze alleen in aanmerking.",
+      "old_text_sha256": "68bfbfb0ae2f39d1b2edf86084330c665953d8109b99b91331b0f817dac8d24c",
+      "current_text_sha256": "68bfbfb0ae2f39d1b2edf86084330c665953d8109b99b91331b0f817dac8d24c",
+      "diff": []
+    },
+    {
+      "id": "a56",
+      "changed": false,
+      "old_text": "1 Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding opleverende, in zodanig verband dat zij moeten worden beschouwd als één voortgezette handeling, dan wordt slechts één strafbepaling toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.\n\n2 Insgelijks wordt slechts één strafbepaling toegepast bij schuldigverklaring aan valsheid of muntschennis en aan het gebruikmaken van het voorwerp ten opzichte waarvan de valsheid of muntschennis gepleegd is.",
+      "current_text": "1 Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding opleverende, in zodanig verband dat zij moeten worden beschouwd als één voortgezette handeling, dan wordt slechts één strafbepaling toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.\n\n2 Insgelijks wordt slechts één strafbepaling toegepast bij schuldigverklaring aan valsheid of muntschennis en aan het gebruikmaken van het voorwerp ten opzichte waarvan de valsheid of muntschennis gepleegd is.",
+      "old_text_sha256": "17d0e93fcb575a222aa8f62aa3445c3c5193a3fca8df45f14f8d87cff7690c3e",
+      "current_text_sha256": "17d0e93fcb575a222aa8f62aa3445c3c5193a3fca8df45f14f8d87cff7690c3e",
+      "diff": []
+    },
+    {
+      "id": "a57",
+      "changed": true,
+      "old_text": "1 Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.\n\n2 Het maximum van deze straf is het totaal van de hoogste straffen op de feiten gesteld, doch - voor zover het gevangenisstraf of hechtenis betreft - niet meer dan een derde boven het hoogste maximum.",
+      "current_text": "1 Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.\n\n2 De straf die aan de verdachte wordt opgelegd, is niet hoger dan het totaal van de hoogste straffen op de feiten gesteld en mag – voor zover het gevangenisstraf of hechtenis betreft – niet meer dan de helft boven het hoogste maximum uitgaan.",
+      "old_text_sha256": "cafc067021648b645387fca4a8a58bac2e22b1f7b76b0f1ff784ec9e17c933c8",
+      "current_text_sha256": "f994f10694eaebb0b9daef50e013f1a818d8198a1f46ea3dede1714b82ef5bce",
+      "diff": [
+        "--- 2026-01-01_0",
+        "+++ 2026-07-01_0",
+        "@@ -1,3 +1,3 @@",
+        " 1 Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.",
+        " ",
+        "-2 Het maximum van deze straf is het totaal van de hoogste straffen op de feiten gesteld, doch - voor zover het gevangenisstraf of hechtenis betreft - niet meer dan een derde boven het hoogste maximum.",
+        "+2 De straf die aan de verdachte wordt opgelegd, is niet hoger dan het totaal van de hoogste straffen op de feiten gesteld en mag – voor zover het gevangenisstraf of hechtenis betreft – niet meer dan de helft boven het hoogste maximum uitgaan."
+      ]
+    },
+    {
+      "id": "a58",
+      "changed": true,
+      "old_text": "Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen - voor zover het gevangenisstraf en hechtenis betreft - te zamen in duur de langstdurende niet meer dan een derde overtreffen.",
+      "current_text": "Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen - voor zover het gevangenisstraf en hechtenis betreft - te zamen in duur de langstdurende niet meer dan met de helft overtreffen.",
+      "old_text_sha256": "18d9237ac1f86d9039c0c6234e469acd56ff65780f6291fc9c64e0e15331287e",
+      "current_text_sha256": "73f4998fad4ceac3dbfc229ce22160852f5fc9079ee0723498c18628b5494c28",
+      "diff": [
+        "--- 2026-01-01_0",
+        "+++ 2026-07-01_0",
+        "@@ -1 +1 @@",
+        "-Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen - voor zover het gevangenisstraf en hechtenis betreft - te zamen in duur de langstdurende niet meer dan een derde overtreffen.",
+        "+Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen - voor zover het gevangenisstraf en hechtenis betreft - te zamen in duur de langstdurende niet meer dan met de helft overtreffen."
+      ]
+    },
+    {
+      "id": "a59",
+      "changed": false,
+      "old_text": "Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere straffen worden opgelegd dan ontzetting van bepaalde rechten, verbeurdverklaring van reeds in beslag genomen voorwerpen en openbaarmaking van de rechterlijke uitspraak.",
+      "current_text": "Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere straffen worden opgelegd dan ontzetting van bepaalde rechten, verbeurdverklaring van reeds in beslag genomen voorwerpen en openbaarmaking van de rechterlijke uitspraak.",
+      "old_text_sha256": "fa34a66c406ac2ea7d07aa36a2d104c4b96fdd5ba4525f9b7b9331cebd6eabfc",
+      "current_text_sha256": "fa34a66c406ac2ea7d07aa36a2d104c4b96fdd5ba4525f9b7b9331cebd6eabfc",
+      "diff": []
+    },
+    {
+      "id": "a60",
+      "changed": true,
+      "old_text": "In de gevallen van de artikelen 57 en 58 gelden ten aanzien van bijkomende straffen de volgende bepalingen:\n\n1°. de straffen van ontzetting van dezelfde rechten worden opgelost in één straf, in duur de opgelegde hoofdstraf of hoofdstraffen ten minste twee en ten hoogste vijf jaren te boven gaande, of ingeval geen andere hoofdstraf dan geldboete is opgelegd, in één straf van ten minste twee en ten hoogste vijf jaren;\n\n2°. de straffen van ontzetting van verschillende rechten worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd;\n\n3°. de straffen van verbeurdverklaring van bepaalde voorwerpen worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd; de vervangende vrijheidsstraffen mogen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet overschrijden.",
+      "current_text": "Bij samenloop als bedoeld in de artikelen 57 en 58 geldt dat:\n\na. de straffen van ontzetting van dezelfde rechten worden opgelost in één straf met inachtneming van het bepaalde in artikel 31;\n\nb. de straffen van ontzetting van verschillende rechten en van verbeurdverklaring van bepaalde voorwerpen voor elk misdrijf afzonderlijk en zonder vermindering worden opgelegd;\n\nc. voor de verbeurdverklaring en de maatregel, bedoeld in artikel 36f, de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet mogen overschrijden.",
+      "old_text_sha256": "61418a8f8a5dea876c9ee171a22fe965ed5697e2aaaec101dafc8ed16a924709",
+      "current_text_sha256": "5785ccd48ab8e1f2b04f5d064f66703d8deacd62143f7d1b9a8bf7c254fd2819",
+      "diff": [
+        "--- 2026-01-01_0",
+        "+++ 2026-07-01_0",
+        "@@ -1,7 +1,7 @@",
+        "-In de gevallen van de artikelen 57 en 58 gelden ten aanzien van bijkomende straffen de volgende bepalingen:",
+        "+Bij samenloop als bedoeld in de artikelen 57 en 58 geldt dat:",
+        " ",
+        "-1°. de straffen van ontzetting van dezelfde rechten worden opgelost in één straf, in duur de opgelegde hoofdstraf of hoofdstraffen ten minste twee en ten hoogste vijf jaren te boven gaande, of ingeval geen andere hoofdstraf dan geldboete is opgelegd, in één straf van ten minste twee en ten hoogste vijf jaren;",
+        "+a. de straffen van ontzetting van dezelfde rechten worden opgelost in één straf met inachtneming van het bepaalde in artikel 31;",
+        " ",
+        "-2°. de straffen van ontzetting van verschillende rechten worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd;",
+        "+b. de straffen van ontzetting van verschillende rechten en van verbeurdverklaring van bepaalde voorwerpen voor elk misdrijf afzonderlijk en zonder vermindering worden opgelegd;",
+        " ",
+        "-3°. de straffen van verbeurdverklaring van bepaalde voorwerpen worden voor elk misdrijf afzonderlijk en zonder vermindering opgelegd; de vervangende vrijheidsstraffen mogen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet overschrijden.",
+        "+c. voor de verbeurdverklaring en de maatregel, bedoeld in artikel 36f, de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet mogen overschrijden."
+      ]
+    },
+    {
+      "id": "a60a",
+      "changed": true,
+      "old_text": "Bij samenloop op de wijze in de artikelen 57 en 58 bedoeld, geldt voor de maatregel genoemd in artikel 36f dat de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet mogen overschrijden.",
+      "current_text": "Vervallen",
+      "old_text_sha256": "1f2c17e5252524836a562ad2ada48a49f15f7ab5448ebb2bac443985c3cd3a49",
+      "current_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "diff": [
+        "--- 2026-01-01_0",
+        "+++ 2026-07-01_0",
+        "@@ -1 +1 @@",
+        "-Bij samenloop op de wijze in de artikelen 57 en 58 bedoeld, geldt voor de maatregel genoemd in artikel 36f dat de vervangende vrijheidsstraffen gezamenlijk het maximum, bepaald in artikel 24c, derde lid, niet mogen overschrijden.",
+        "+Vervallen"
+      ]
+    },
+    {
+      "id": "a61",
+      "changed": false,
+      "old_text": "1 De betrekkelijke zwaarte van ongelijksoortige hoofdstraffen wordt bepaald door de volgorde van artikel 9.\n\n2 Waar de rechter de keuze tussen twee hoofdstraffen is gelaten, komt bij de vergelijking alleen de zwaarste van die straffen in aanmerking.\n\n3 De betrekkelijke zwaarte van gelijksoortige hoofdstraffen wordt bepaald door het maximum.\n\n4 De betrekkelijke duur, zowel van ongelijksoortige als van gelijksoortige hoofdstraffen, wordt eveneens bepaald door het maximum.",
+      "current_text": "1 De betrekkelijke zwaarte van ongelijksoortige hoofdstraffen wordt bepaald door de volgorde van artikel 9.\n\n2 Waar de rechter de keuze tussen twee hoofdstraffen is gelaten, komt bij de vergelijking alleen de zwaarste van die straffen in aanmerking.\n\n3 De betrekkelijke zwaarte van gelijksoortige hoofdstraffen wordt bepaald door het maximum.\n\n4 De betrekkelijke duur, zowel van ongelijksoortige als van gelijksoortige hoofdstraffen, wordt eveneens bepaald door het maximum.",
+      "old_text_sha256": "ef288278b8b948eac2a08a02bba4124b0914424023af14dfd4ce37632aab3619",
+      "current_text_sha256": "ef288278b8b948eac2a08a02bba4124b0914424023af14dfd4ce37632aab3619",
+      "diff": []
+    }
+  ],
+  "disposition": "Historical wording retained only as evidence; current canonical source and units unchanged."
+}

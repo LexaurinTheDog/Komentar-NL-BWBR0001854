@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2003:AF7938</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T18:21:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AF7938</dcterms:replaces>
+      <dcterms:replaces rdfs:label="Vervangt">AO0493</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2003-10-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">02229/02 E</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2003:AF7938" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2003:AF7938</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=51&amp;g=2003-10-21">Wetboek van Strafrecht 51</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AB 2004, 310 met annotatie van O.J.D.M.L. Jansen</rdf:li>
+          <rdf:li>JOL 2003, 539</rdf:li>
+          <rdf:li>NJ 2006, 328 met annotatie van P.A.M. Mevis</rdf:li>
+          <rdf:li>M en R 2004/53 met annotatie van L.E.M. Hendriks</rdf:li>
+          <rdf:li>Milieurecht Totaal 2003/1679</rdf:li>
+          <rdf:li>O&amp;A 2004, 14</rdf:li>
+          <rdf:li>JM 2004/72 met annotatie van Koopmans</rdf:li>
+          <rdf:li>NbSr 2003/442</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2003:AF7938">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2003:AF7938</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T18:38:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2003-10-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2003:AF7938 Hoge Raad , 21-10-2003 / 02229/02 E</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2003:AF7938:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Daderschap van een rechtspersoon. HR geeft invulling aan eisen waaraan moet zijn voldaan om een rechtspersoon als dader van een strafbaar feit aan te kunnen merken.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2003:AF7938:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>21 oktober 2003</para>
+      <para>Strafkamer</para>
+      <para>nr. 02229/02 E</para>
+      <para>SG/ABG</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te Amsterdam, Economische Kamer, van 18 maart 2002, nummer 23/000704-01, in de strafzaak tegen:</para>
+      <para>[verdachte], gevestigd te [vestigingsplaats].</para>
+    </parablock>
+    <para />
+    <para>1. De bestreden uitspraak</para>
+    <para />
+    <para>1.1. Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Economische Politierechter in de Rechtbank te Alkmaar van 9 oktober 2000 - de verdachte ter zake van het ten haren laste bewezenverklaarde, dat volgens het Hof oplevert: "het volgende misdrijf (de Hoge Raad leest: de volgende overtreding): overtreding van een voorschrift gesteld krachtens artikel 7 van de Wet bodembescherming" veroordeeld tot een geldboete van negenhonderd euro.</para>
+    <para />
+    <para>1.2. Het verkorte arrest en de aanvulling daarop als bedoeld in art. 365a, tweede lid, Sv zijn aan dit arrest gehecht en maken daarvan deel uit.</para>
+    <para />
+    <para>2. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>2.1. Het beroep is ingesteld door de verdachte. Namens deze heeft mr. C. Waling, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De Advocaat-Generaal Wortel heeft geconcludeerd dat de Hoge Raad de bestreden uitspraak zal vernietigen en de zaak zal verwijzen naar een aangrenzend gerechtshof teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para>2.2. De Hoge Raad heeft kennisgenomen van het schriftelijk commentaar van de raadsvrouwe op de conclusie van de Advocaat-Generaal. </para>
+    <para />
+    <para>3. Aan de beoordeling van de middelen voorafgaande beschouwingen</para>
+    <para />
+    <para>3.1. In art. 51 Sr is bepaald dat een strafbaar feit behalve door een natuurlijk persoon ook kan worden begaan door een rechtspersoon, waaronder mede is begrepen de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen. </para>
+    <para />
+    <para>3.2.1. De wet bevat geen maatstaven voor de vaststelling van het daderschap van de rechtspersoon. </para>
+    <para />
+    <parablock>
+      <para>3.2.2. De wetsgeschiedenis van art. 51 Sr houdt omtrent het daderschap van de rechtspersoon het volgende in:</para>
+      <para>"Het wetsontwerp is de laatste stap op de weg die in Nederland reeds lang is begaan. Het lijkt mij dan ook niet vereist aan de strafbaarstelling van de rechtspersoon thans een diepgravende rechtstheoretische beschouwing te wijden. Ik zou willen volstaan met de volgende opmerkingen.</para>
+      <para>Door de rechtspersoon strafbaar te stellen knoopt het strafrecht aan bij een civielrechtelijk begrip. Een voor een bepaald doel juridisch georganiseerde entiteit wordt voor het recht gelijkgesteld met een natuurlijk persoon. Aan die organisatie worden, voor zover dit zinvol is, door het recht dezelfde rechten en verplichtingen toegekend en opgelegd als aan een natuurlijk persoon. Die rechten en verplichtingen kunnen uiteraard alleen ontstaan door handelingen van natuurlijke personen die voor de organisatie optreden. </para>
+      <para>Door in het strafrecht rechtspersonen evenals natuurlijke personen strafbaar te stellen wordt gelijk dit in het civiele recht het geval is uitgedrukt, dat handelingen van natuurlijke personen, die daarbij in het verband van de rechtspersoon optreden en te zamen de inhoud van een delict vervullen, aan de rechtspersoon worden toegerekend. In die gelijkstelling ligt een zekere fictie opgesloten. Dat is echter op zichzelf geen bezwaar. Door gebruik te maken van een fictie kan in de wetgeving soms op beknopte, beeldende, wijze worden uitgedrukt wat anders alleen op een wijdlopige, gecompliceerde, wijze kan worden gezegd." </para>
+      <para>(Kamerstukken II 1975-1976, 13 655, nr. 3, blz. 8)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>alsmede, zij het dat in de navolgende passage mede aandacht wordt geschonken aan opzet en schuld:</para>
+      <para>"Art. 15, tweede lid, Wet op de economische delicten bepaalt, dat een economisch delict onder meer wordt begaan door of vanwege een rechtspersoon etc., indien het begaan wordt door personen die, hetzij uit hoofde van hun dienstbetrekking, hetzij uit anderen hoofde, handelen in de sfeer van de rechtspersoon, ongeacht of deze personen ieder afzonderlijk het economisch delict hebben begaan dan wel bij hen gezamenlijk de elementen van dat delict aanwezig zijn.</para>
+      <para>Door ervan af te zien in het wetsontwerp een bepaling analoog aan die van art. 15, tweede lid, Wet op de economische delicten op te nemen, wordt de rechter geheel vrij gelaten in zijn oordeelvorming of, alle concrete omstandigheden in aanmerking genomen, het opzet of de schuld van de handelende natuurlijk persoon kan worden toegerekend aan de rechtspersoon bij wie hij in dienst is. Het ligt intussen voor de hand dat die toerekening eerder zal plaatsvinden indien de natuurlijke persoon bestuurder was dan wanneer het een in de organisatie van de rechtspersoon ondergeschikte functionaris betreft." (Kamerstukken II 1975-1976, 13 655, nr. 5, blz. 2)</para>
+    </parablock>
+    <para />
+    <para>3.2.3. Uit het vorenoverwogene volgt dat het aan de rechter is overgelaten om invulling te geven aan de eisen waaraan moet zijn voldaan teneinde een rechtspersoon te kunnen aanmerken als dader van een strafbaar feit.</para>
+    <para />
+    <para>3.3. Blijkens de wetsgeschiedenis kan een rechtspersoon (in de zin van art. 51 Sr) worden aangemerkt als dader van een strafbaar feit indien de desbetreffende gedraging redelijkerwijs aan hem kan worden toegerekend. Ook in de rechtspraak is die toerekening erkend als grondslag voor het daderschap van de rechtspersoon (vgl. onder meer HR 23 februari 1993, NJ 1993, 605 en HR 13 november 2001, NJ 2002, 219).</para>
+    <para />
+    <parablock>
+      <para>3.4. Vervolgens rijst de vraag wanneer een (verboden) gedraging in redelijkheid aan een rechtspersoon kan worden toegerekend. </para>
+      <para>Het antwoord op die vraag is afhankelijk van de concrete omstandigheden van het geval, waartoe mede behoort de aard van de (verboden) gedraging. Een algemene regel laat zich dus bezwaarlijk formuleren. Een belangrijk oriëntatiepunt bij de toerekening is nochtans of de gedraging heeft plaatsgevonden dan wel is verricht in de sfeer van de rechtspersoon. Een dergelijke gedraging kan in beginsel worden toegerekend aan de rechtspersoon.</para>
+      <para>Van een gedraging in de sfeer van de rechtspersoon zal sprake kunnen zijn indien zich een of meer van de navolgende omstandigheden voordoen: </para>
+      <para>- het gaat om een handelen of nalaten van iemand die hetzij uit hoofde van een dienstbetrekking hetzij uit anderen hoofde werkzaam is ten behoeve van de rechtspersoon,</para>
+      <para>- de gedraging past in de normale bedrijfsvoering van de rechtspersoon, </para>
+      <para>- de gedraging is de rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf,</para>
+      <para>- de rechtspersoon vermocht erover te beschikken of de gedraging al dan niet zou plaatsvinden en zodanig of vergelijkbaar gedrag werd blijkens de feitelijke gang van zaken door de rechtspersoon aanvaard of placht te worden aanvaard. Onder bedoeld aanvaarden is mede begrepen het niet betrachten van de zorg die in redelijkheid van de rechtspersoon kon worden gevergd met het oog op de voorkoming van de gedraging. Daarbij verdient opmerking dat laatstbedoelde criteria - die zijn ontwikkeld in HR 23 februari 1954, NJ 1954, 378 en die naar het geval dat in die zaak aan de orde was, plegen te worden aangeduid als "ijzerdraadcriteria" - weliswaar zijn ontwikkeld met het oog op het functionele daderschap van een natuurlijke persoon (dus met het oog op de strafrechtelijke aansprakelijkheid van een natuurlijk persoon voor een gedraging van een andere natuurlijke persoon), maar dat zij in voorkomende gevallen tevens kunnen fungeren als maatstaven voor de toerekening van een gedraging van een natuurlijk persoon aan een rechtspersoon (vgl. HR 14 januari 1992, NJ 1992, 413).</para>
+    </parablock>
+    <para />
+    <para>3.5. Opmerking verdient dat het in 3.4 overwogene slechts betrekking heeft op de vraag of de rechtspersoon kan worden aangemerkt als dader van de hem tenlastegelegde gedraging, dus ongeacht of het een overtreding dan wel een misdrijf betreft. Los daarvan staat de beoordeling van de aanwezigheid van bestanddelen als opzet of schuld indien het een misdrijf betreft.</para>
+    <para />
+    <para>4. Beoordeling van de middelen</para>
+    <para />
+    <para>4.1. De middelen bevatten - naar de kern bezien - de klacht dat het Hof ten onrechte, althans op ontoereikende gronden heeft geoordeeld dat de verdachte (een rechtspersoon) kan worden aangemerkt als dader van het haar tenlastegelegde feit. </para>
+    <para />
+    <parablock>
+      <para>4.2. Het gaat in deze zaak om het volgende. [A] BV is eigenares van een stuk grond dat in haar opdracht wordt beheerd door [verdachte] (verdachte). In opdracht van de verdachte wordt die grond feitelijk beheerd door [betrokkene 1], die in loondienst is bij [A] BV. Op 31 mei 1999 is vastgesteld dat op dat stuk grond door onbekenden drijfmest was uitgereden en dat die mest niet was ondergewerkt. De verdachte ([verdachte]) is daarvoor vervolgd. Het Hof heeft overeenkomstig de tenlastelegging bewezenverklaard dat de verdachte</para>
+      <para>"op 31 mei 1999 te Groote Keeten, gemeente Zijpe, dierlijke meststoffen heeft gebruikt op een perceel niet beteelde grond gelegen nabij de Zwarteweg, terwijl die dierlijke meststoffen niet emissie-arm waren aangewend."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>4.3.1. Een nadere bewijsoverweging van het Hof houdt het volgende in:</para>
+      <para>"Het Hof acht bewezen dat de verdachte de dierlijke meststoffen 'heeft gebruikt' in de zin van het Besluit gebruik dierlijke meststoffen 1998, nu het aan haar te verwijten is dat de mest op de bodem is aangebracht en in de bodem is geraakt."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>4.3.2. Voorts heeft het Hof een ter terechtzitting in hoger beroep gevoerd verweer als volgt samengevat en verworpen:</para>
+      <para>"De raadsman heeft aangevoerd - zo begrijpt het hof - dat de verdachte van het ten laste gelegde moet worden ontslagen van alle rechtsvervolging. </para>
+      <para>Hij voert daartoe het volgende aan. De verdachte beheert landerijen, maar is niet de eigenares van de landerijen. Als beheerster kan zij echter niet zeggen wie de mest heeft gebruikt op haar landerijen, omdat zij dat niet weet en aan niemand toestemming heeft gegeven de mest op de onder haar beheer staande landerijen uit te rijden. Het ten laste gelegde kan de verdachte daarom niet verweten worden.</para>
+      <para>Het hof overweegt hieromtrent het volgende. Naar het oordeel van het hof behoort het rechtens tot de taak van een beheerster van de landerijen ervoor te waken dat die landerijen worden beheerd overeenkomstig de wettelijke voorschriften. Daaronder valt de verplichting er op te letten dat derden haar landerijen niet voor een ander doel aanwenden dan waartoe haar beheer zich uitstrekt. Niet aannemelijk is geworden dat de verdachte alle maatregelen heeft genomen teneinde te verhinderen dat derden haar landerijen konden gebruiken om zich van hun mestvoorraden te ontdoen. Van controlemaatregelen en van (intensieve) inspectie is niet gebleken - dit is ook niet gesteld namens de verdachte, nog daargelaten dat de verdachte als beheerder niet in staat is geweest vast te stellen wie de mest op haar landerijen heeft uitgereden. Het verweer dient dan ook te worden verworpen."</para>
+    </parablock>
+    <para />
+    <para>4.4.1. De tenlastelegging is toegesneden op art. 5, eerste lid, van het op art. 7 van de Wet bodembescherming gebaseerde Besluit van 1 december 1997, houdende regels betreffende het op of in de bodem brengen van dierlijke meststoffen (Besluit gebruik dierlijke meststoffen 1998).</para>
+    <para />
+    <parablock>
+      <para>4.4.2. Genoemd art. 7 Wet bodembescherming luidt als volgt:</para>
+      <para>"1. Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van de bodem regels worden gesteld met betrekking tot het verrichten van handelingen waarbij stoffen die de bodem kunnen verontreinigen of aantasten, aan de bodem worden toegevoegd, teneinde de structuur of de kwaliteit van de bodem te beïnvloeden.</para>
+      <para>2. Hiertoe kunnen behoren regels met betrekking tot:</para>
+      <para>a. (...);</para>
+      <para>b. het op of in de bodem brengen van meststoffen."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het Besluit gebruik dierlijke meststoffen 1998 luidt, voorzover hier van belang, als volgt:</para>
+      <para>- Art. 1, eerste lid:</para>
+      <para>"In dit besluit (...) wordt verstaan onder:</para>
+      <para>(...)</para>
+      <para>b. gebruiken van dierlijke meststoffen: op of in de bodem brengen van dierlijke meststoffen;</para>
+      <para>(...)."</para>
+      <para>- Art. 5, eerste lid:</para>
+      <para>"Het is verboden dierlijke meststoffen te gebruiken op (...) niet-beteelde grond, tenzij de dierlijke meststoffen emissie-arm worden aangewend."</para>
+    </parablock>
+    <para />
+    <para>4.5. De verbodsbepaling van art. 5, eerste lid, Besluit gebruik dierlijke meststoffen 1998 inzake het niet-emissiearm aanwenden van dierlijke meststoffen op niet-beteelde grond richt zich tot een ieder. Krachtens art. 51 Sr kan de overtreding van dat verbod worden begaan door zowel natuurlijke personen als rechtspersonen. Gelet op het hiervoor onder 3 overwogene kan de verdachte (een rechtspersoon) als dader van die overtreding worden aangemerkt indien de verboden gedraging redelijkerwijs aan haar kan worden toegerekend.</para>
+    <para />
+    <para>4.6. 's Hofs oordeel dat de in de bewezenverklaarde tenlastelegging omschreven gedraging (het gebruiken - dus op of in de bodem brengen - van dierlijke meststoffen) redelijkerwijs aan de verdachte kan worden toegerekend, is niet naar de eis der wet met redenen omkleed. De bewijsmiddelen en hetgeen het Hof daarnaast nog heeft vastgesteld in zijn hiervoor onder 4.3 weergegeven overwegingen bieden onvoldoende steun voor dat oordeel, in aanmerking genomen dat het Hof niet heeft vastgesteld welke taken en bevoegdheden het aan de verdachte opgedragen beheer inhielden, gelet op de relatie tussen haar en de eigenares en opdrachtgeefster [A] BV en de bij laatstgenoemde BV in dienst zijnde "feitelijke beheerder" [betrokkene 1].</para>
+    <para />
+    <para>4.7. De middelen zijn derhalve gegrond. </para>
+    <para />
+    <para>5. Slotsom</para>
+    <para />
+    <para>Het vorenoverwogene brengt mee dat de bestreden uitspraak niet in stand kan blijven en als volgt moet worden beslist.</para>
+    <para />
+    <para>6. Beslissing</para>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>Vernietigt de bestreden uitspraak;</para>
+      <para>Verwijst de zaak naar het Gerechtshof te 's-Gravenhage, Economische Kamer, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president C.J.G. Bleichrodt als voorzitter, en de raadsheren F.H. Koster, A.J.A. van Dorst, B.C. de Savornin Lohman en E.J. Numann, in bijzijn van de griffier S.P. Bakker, en uitgesproken op 21 oktober 2003.</para>
+  </uitspraak>
+</open-rechtspraak>

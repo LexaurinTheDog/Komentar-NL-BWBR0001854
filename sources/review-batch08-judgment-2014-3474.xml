@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2014:3474</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T01:55:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2014-12-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2014-12-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">12/04062</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2014:1305" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2014:1305, Gevolgd</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=47">Wetboek van Strafrecht 47</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=51">Wetboek van Strafrecht 51</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2014/2278</rdf:li>
+          <rdf:li>RvdW 2015/45</rdf:li>
+          <rdf:li>M en R 2015/17</rdf:li>
+          <rdf:li>V-N Vandaag 2015/139</rdf:li>
+          <rdf:li>V-N 2015/11.7 met annotatie van Redactie</rdf:li>
+          <rdf:li>NJ 2015/390 met annotatie van P. Mevis</rdf:li>
+          <rdf:li>AA20150892 met annotatie van N. Rozemond</rdf:li>
+          <rdf:li>SR-Updates.nl 2014-0492 met annotatie van H. de Doelder</rdf:li>
+          <rdf:li>NbSr 2015/24 met annotatie van mr. dr. J.S. Nan</rdf:li>
+          <rdf:li>NTFR 2016/247</rdf:li>
+          <rdf:li>NTFR 2015/971 met annotatie van mr. R.B.H. Beune</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2014:3474">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2014:3474</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2014-12-02T10:34:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2014-12-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2014:3474 Hoge Raad , 02-12-2014 / 12/04062</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2014:3474:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Medeplegen versus andere deelnemingsvormen. Wanneer is de samenwerking zo nauw en bewust geweest dat van medeplegen mag worden gesproken? HR formuleert aandachtspunten voor de strafrechtelijke beoordeling van tlgd medeplegen. HR stelt voorop dat de kwalificatie van medeplegen alleen gerechtvaardigd is indien de bewezenverklaarde intellectuele en/of materiële bijdrage van de verdachte aan het delict van voldoende gewicht is. Dat geldt in vergelijkbare zin indien het medeplegen - bv. in de vorm van "in vereniging" - een bestanddeel vormt van de delictsomschrijving. HR biedt de praktijk handvatten wanneer en in welke mate het oordeel dat sprake is van medeplegen - en niet van bv. medeplichtigheid - nadere (bewijs)motivering behoeft en welke vragen daarbij beantwoording verdienen. Voorts plaatst HR enkele opmerkingen over de wijze van ten laste leggen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2014:3474:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>2 december 2014</para>
+    <para>Strafkamer</para>
+    <para>nr. 12/04062</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te Amsterdam van 27 juli 2012, nummer 23/001370-09, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1990. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>	Het beroep is ingesteld door de verdachte. Namens deze heeft mr. S.M. Diekstra, advocaat te 's-Gravenhage, een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal G. Knigge heeft geconcludeerd tot vernietiging van de bestreden uitspraak en tot zodanige op art. 440 Sv gebaseerde beslissing als de Hoge Raad gepast zal voorkomen.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Bewezenverklaring en bewijsvoering</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+        <para>"hij op 22 juli 2008 te Haarlem, tezamen en in vereniging met anderen, met het oogmerk: </para>
+        <para>- om zich en anderen wederrechtelijk te bevoordelen door bedreiging met geweld [betrokkene 1] en [betrokkene 2] heeft gedwongen tot afgifte van een horloge (merk Fossil) en een mobiele telefoon (merk Samsung en kleur zwart en i-meinummer [001]) en een simkaart (serienummer [002]), toebehorende aan [betrokkene 1] en/of [betrokkene 2], en</para>
+        <para>- van wederrechtelijke toe-eigening heeft weggenomen een portemonnee (inhoudende een identiteitskaart en meerdere (bank)passen en een mobiele telefoon (merk Sony Ericsson kleur zwart en i-meinummer [003]) en een simkaart toebehorende aan [betrokkene 1] en/of [betrokkene 2], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en aan zichzelf en aan zijn mededader(s) het bezit van het gestolene te verzekeren, welke bedreiging met geweld hierin bestond dat zijn mededaders:</para>
+        <para>- met hun arm naar voren gestoken en daarin vasthebbende een op een vuurwapen gelijkend voorwerp, op die [betrokkene 2] is afgelopen en </para>
+        <para>- met hun vuurwapen (het hof begrijpt: hun op vuurwapen gelijkend voorwerp) achter en gericht op de hoofden van [betrokkene 1] en [betrokkene 2] zijn gaan staan en</para>
+        <para>- terwijl zij de vuurwapens (het hof begrijpt: op vuurwapen gelijkend voorwerp) hadden gericht op [betrokkene 1] en [betrokkene 2] tegen [betrokkene 1] en [betrokkene 2] hebben gezegd: "Alles inleveren. Vooral de telefoons" en "Geef je mobiel" en "Je moet ook je horloge inleveren"."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op onder meer de volgende bewijsmiddelen:</para>
+        <para>"1. De verklaring van de verdachte, afgelegd ter terechtzitting in hoger beroep van 13 juli 2012. </para>
+        <para>Deze verklaring houdt in, voor zover van belang en zakelijk weergegeven:</para>
+        <para>Ik was aanwezig bij de overval op 22 juli 2008 in de Haarlemmerhout te Haarlem. </para>
+        <para>2. Een proces-verbaal met nummer PL1228/08-089502 van 23 juli 2008, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaar [verbalisant 1] (dossierpagina 46).</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 23 juli 2008 tegenover verbalisant afgelegde verklaring van [betrokkene 2]:</para>
+        <para>
+          [betrokkene 1] en ik zijn op een bankje bij het standbeeld vlak achter Dreefzicht gaan zitten. Er reden drie jongens op twee scooters langs ons. Twee minuten later kwamen de jongens op de scooters weer aanrijden. Ze hebben waarschijnlijk een rondje gereden. De blanke jongen vroeg aan mij een sigaretje. Vervolgens zette de blanke jongen zijn brommer neer en die twee buitenlandse jongens volgden zijn voorbeeld. Na ongeveer 10 minuten starten ze hun brommer en wilden weggaan, dacht ik. Een buitenlandse jongen bleef bij de lopende brommers staan. Ik hoorde iemand zeggen: "jongens, nu is het wel weer mooi geweest". Ik zag iemand op mij afkomen lopen met zijn arm uitgestrekt. Toen zag ik een zwart pistool in zijn handen, gericht op mij. Die blanke jongen pakte toen mijn spullen. Ik had namelijk mijn mobiele telefoon op de bank neergelegd samen met mijn sigaretten en mijn portemonnee. Toen die blanke jongen mijn spullen had gepakt, zei hij tegen [betrokkene 1]: "Geef je mobiel". [betrokkene 1] gaf hierop zijn mobiele telefoon. De donkere jongen zei toen dat ik ook mijn horloge moest inleveren. Nadat hij mijn horloge had, stapten ze alle drie op de scooter en reden in de richting van de Heemsteedse Dreef. </para>
+        <para>(...)</para>
+        <para>3. Een proces-verbaal met nummer PL 1228/08-089427 van 23 juli 2008, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaar [verbalisant 1] (dossierpagina 30). </para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 23 juli 2008 tegenover verbalisant afgelegde verklaring van [betrokkene 1]:</para>
+        <para>Ik en [betrokkene 2] zijn op een bankje, op de rand van de Haarlemmerhout achter Dreefzicht gaan zitten. Toen kwamen er drie jongens op twee scooters naar ons toe rijden. Een jongen, de blanke jongen, vroeg aan [betrokkene 2] een sigaret. Vervolgens gingen de drie jongens met elkaar praten. Ze spraken zacht, zodat wij ze niet konden horen. De jongens startten hun scooters. Een van de twee Marokkaanse jongens was achter mij komen staan en had een pistool in mijn rug gedaan. Ik voelde iets in mijn rug en vlak erna zag ik naast mijn hoofd een pistool. Die Marokkaanse jongen had een pistool in zijn hand. Dat was de jongen die achter mij stond. <?linebreak?>De Marokkaanse jongen hield zijn pistool tussen mij en [betrokkene 2], onze hoofden in. Toen ik naar de blanke jongen keek, zag ik dat hij ook een pistool in zijn handen had. De blanke jongen en de Marokkaanse jongen met het pistool zeiden tegen ons: "Alles inleveren. Vooral de telefoons". Bij [betrokkene 2] lag alles op de bank, zijn telefoon en portemonnee en sigaretten. Hierop pakte die Marokkaanse jongen die achter ons stond volgens mij de spullen van [betrokkene 2]. Toen moest ik ook mijn mobiele telefoon aan hem geven. Hij zag dat [betrokkene 2] een horloge om had en hij wilde dat horloge. [betrokkene 2] heeft deze ook afgedaan en aan de Marokkaanse jongen met het pistool gegeven.</para>
+        <para>(...)</para>
+        <para>4. Een proces-verbaal met nummer PL1228/08-089427 van 10 november 2008, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaren [verbalisant 2] en [verbalisant 3] (dossierpagina 40).</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 10 november 2008 tegenover verbalisant afgelegde verklaring van [betrokkene 3]:</para>
+        <para>V= [verdachte] is er gewoon bij geweest. Je kan hem best ontzien, maar wij weten alles.</para>
+        <para>A= Ja, [verdachte] is er bij geweest.</para>
+        <para>V= en nu vanaf het begin </para>
+        <para>A= Wij hadden bij mij in de buurt afgesproken. Wij hadden niets te doen en toen dachten we, we gaan dat doen.</para>
+        <para>V= Wat is dat doen.</para>
+        <para>A= Iemand beroven ofzo</para>
+        <para>V= Jullie hadden dus die wapens bij jullie, wat was de reden om die bij je te hebben?</para>
+        <para>A= om iemand te beroven</para>
+        <para>V= Dus jullie hadden vooraf al afgesproken iemand te beroven, nog voordat jullie samenkwamen?</para>
+        <para>A= Ja dat klopt</para>
+        <para>V= Heeft [verdachte] nog aangegeven dat hij er niets mee te maken wilde hebben, want hij wist van de afspraak af, toch?</para>
+        <para>A= Ja, hij wist er in elk geval wel vanaf.</para>
+        <para>5. Een proces-verbaal met nummer PL 1228/08-089427 van 11 november 2008, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaren [verbalisant 4] en [verbalisant 5] (dossierpagina 43).</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 11 november 2008 tegenover verbalisant afgelegde verklaring van [betrokkene 3]:</para>
+        <para>Wij hadden het plan iemand te beroven. Zowel [betrokkene 4], [verdachte] en ik wisten van dit plan. </para>
+        <para>Nadat wij klaar waren met blowen keken [betrokkene 4], [verdachte] en ik naar elkaar. Wij hadden al de afspraak dat wij iemand gingen beroven. Door naar elkaar te kijken begrepen wij dat deze twee jongens door ons beroofd gingen worden.</para>
+        <para>
+          [verdachte] bleef bij de scooters staan. Dit was op ongeveer 5 meter afstand.</para>
+        <para>6. Een proces-verbaal met nummer PL 1228/08-089427 van 11 november 2008, in de wettelijke vorm opgemaakt door de bevoegde opsporingsambtenaar [verbalisant 5] (dossierpagina 44).</para>
+        <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als de op 11 november 2008 tegenover verbalisant afgelegde verklaring van verdachte:</para>
+        <para>A: We gingen rondjes rijden om te kijken of er iemand was om te beroven.</para>
+        <para>A: Ik had twee plastic balletjes pistolen. Een was zwart van kleur en de ander was zilver van kleur. Ik had deze pistolen meegenomen vanuit Turkije. De pistolen zijn plastic replica's van echte pistolen. In het donker lijkt het net een echt wapen.</para>
+        <para>A: Ik denk dat ik die twee wapens (het hof begrijpt: de balletjespistolen) twee weken voor de beroving aan [betrokkene 3] en [betrokkene 4] hebben gegeven. Een paar dagen later zeiden ze dat ze iemand gingen beroven met deze wapens. Ik zei tegen hen dat ik niet met ze mee zou gaan. [betrokkene 3] en [betrokkene 4] zeiden tegen mij dat ik alleen bij de scooters moest blijven. Dat vond ik goed en ik ben met ze meegegaan."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Het Hof heeft onder het opschrift 'medeplegen' het volgende overwogen:</para>
+        <para>"Ter terechtzitting in hoger beroep heeft de raadsman van de verdachte betoogd dat de verdachte niet als medepleger van het ten laste gelegde feit kan worden aangemerkt doch hoogstens als (niet ten laste gelegde) medeplichtigheid. De raadsman heeft ter onderbouwing hiervan aangevoerd dat de verdachte niet wist van de plannen van de daders en dus geen opzet heeft gehad op het strafbare feit. Voorts heeft de verdachte zich, alle omstandigheden in aanmerking genomen, voldoende gedistantieerd. </para>
+        <para>Anders dan de raadsman en met de rechtbank is het hof van oordeel dat de verdachte als medepleger van het ten laste gelegde feit kan worden aangemerkt. Het hof overweegt hiertoe het volgende:</para>
+        <para>Voor medeplegen van een strafbaar feit is vereist dat sprake is van een voldoende nauwe en bewuste samenwerking tussen de betrokken personen, gericht op de totstandkoming van het delict. Daarnaast moet de van medeplegen verdachte persoon aan de totstandkoming van het delict een wezenlijke bijdrage hebben geleverd. </para>
+        <para>Daarbij is niet doorslaggevend dat de van medeplegen verdachte persoon ook een daadwerkelijke uitvoerder is geweest of alle handelingen van het strafbare feit zelf moet hebben verricht; ook een andere rol kan leiden tot de conclusie dat de verdachte een wezenlijke bijdrage aan de voltooiing van het delict heeft geleverd. </para>
+        <para>Uit de verklaringen van de medeverdachte [betrokkene 3] en de verdachte blijkt het volgende. </para>
+        <para>Verdachte heeft enige dagen voor de overval aan de medeverdachten [betrokkene 3] en [betrokkene 4] balletjespistolen geleverd die hij vanuit Turkije had meegenomen. Deze [betrokkene 3] en [betrokkene 4] hebben daarop aan de verdachte verteld dat zij van plan waren om met deze balletjespistolen iemand te gaan beroven. In eerste instantie heeft verdachte gezegd dat hij hier niet aan mee wilde doen, maar toen de medeverdachten zeiden dat hij alleen maar bij de scooters hoefde te blijven, heeft hij met het plan ingestemd.</para>
+        <para>Op de avond van de overval is de verdachte met zijn mededaders rondjes gaan rijden, naar eigen zeggen 'om te kijken of er iemand was om te beroven'. In de Haarlemmerhout zijn de verdachten bij een bank gestopt waar de latere slachtoffers op zaten. Nadat de verdachten enige tijd met de jongens hadden gepraat en verdachten het er over eens waren dat deze jongens het slachtoffer zouden worden, hebben de twee medeverdachten de jongens met de balletjespistolen bedreigd en ze goederen afhandig gemaakt. De verdachte stond op dat moment op ongeveer vijf meter afstand bij de scooters te wachten. Na het feit zijn de drie verdachten op de twee scooters weggereden. </para>
+        <para>Aldus is de verdachte met de wetenschap dat er een plan was om een overval te plegen, op 22 juli 2008 tezamen met zijn medeverdachten bewust op zoek gegaan naar een geschikt slachtoffer. Tijdens de overval is de verdachte naast de scooters, op ongeveer vijf meter van de slachtoffers blijven staan, zodat van zijn lijfelijke aanwezigheid een zekere mate van dreiging uitging. Hoewel de verdachte kort voor de beroving heeft gezegd dat hij toch niet (meer) wilde meedoen, heeft hij zich op dat moment op geen enkele wijze gedistantieerd, hoewel hij daartoe meerdere mogelijkheden heeft gehad, bijvoorbeeld door te trachten [betrokkene 3] en [betrokkene 4] te weerhouden van de uitvoering van de voorgenomen overval dan wel door de slachtoffers te waarschuwen dan wel door nog op een moment voordat de uitvoering van de overval een aanvang zou nemen, zich te begeven op geruime afstand van de plaats waar de op handen zijnde overval zou moeten plaatsvinden. Door tezamen met de andere twee overvallers te komen en vervolgens - ondanks zijn inmiddels ontstane bedenkingen - te blijven versterkte de verdachte met zijn aanwezigheid de dreiging die van de overvallers uitging. </para>
+        <para>Gelet op het bovenstaande, in onderlinge samenhang beschouwd, is het hof van oordeel dat is komen vast te staan dat tussen de verdachte en zijn mededaders sprake is geweest van een dermate nauwe en bewuste samenwerking dat de verdachte als medepleger van het strafbare feit kan worden aangemerkt. Het verweer wordt om die reden verworpen."</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Aan de beoordeling van het middel voorafgaande beschouwing</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>De art. 47 tot en met 51 Sr bieden diverse mogelijkheden om iemand, ook als hij niet zelf de gehele delictsomschrijving vervult - al dan niet in zogenoemd functionele vorm - onder specifieke voorwaarden strafrechtelijk aansprakelijk te stellen voor zijn betrokkenheid bij een strafbaar feit. In het geval van medeplegen houden de voorwaarden voor aansprakelijkstelling vooral in dat sprake moet zijn geweest van een voldoende nauwe en bewuste samenwerking met een ander of anderen. (Vgl. HR 24 mei 2011, ECLI:NL:HR:2011:BP6581, NJ 2011/481). Het accent ligt daarbij op de samenwerking en minder op de vraag wie welke feitelijke handelingen heeft verricht. (Vgl. HR 6 juli 2004, ECLI:NL:HR:2004:AO9905, NJ 2004/443).</para>
+        <para>	In de praktijk is een belangrijke en moeilijke vraag wanneer de samenwerking zo nauw en bewust is geweest dat van medeplegen mag worden gesproken. Die vraag laat zich niet in algemene zin beantwoorden, maar vergt een beoordeling van de concrete omstandigheden van het geval. Algemene regels kunnen daarom dienaangaande niet worden gegeven. Wel kan de Hoge Raad met betrekking tot dit thema, mede gelet op zijn eerdere rechtspraak, enige aandachtspunten formuleren.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.2.1.</nr>
+        <parablock>
+          <para>De kwalificatie medeplegen is slechts dan gerechtvaardigd als de bewezenverklaarde - intellectuele en/of materiële - bijdrage aan het delict van de verdachte van voldoende gewicht is. Dat geldt in vergelijkbare zin indien het medeplegen - bijvoorbeeld in de vorm van "in vereniging" - een bestanddeel vormt van de delictsomschrijving.</para>
+          <para>	Dat de kwalificatie medeplegen gerechtvaardigd moet zijn, is mede van belang omdat het in dit verband vaak gaat om de vraag: medeplegen dan wel medeplichtigheid aan een strafbaar feit. Medeplichtigheid is alleen strafbaar in geval van misdrijf. Verder kent medeplichtigheid een beduidend lager strafmaximum (art. 49, eerste lid, Sr). Medeplegen daarentegen levert regelmatig een wettelijke strafverzwaringsgrond op (zie bijvoorbeeld art. 311, eerste lid onder 4, Sr). Waar het verwijt bij medeplegen zich concentreert op het gewicht van de intellectuele en/of materiële bijdrage aan het delict van de verdachte, is het kernverwijt bij medeplichtigheid "het bevorderen en/of vergemakkelijken van een door een ander begaan misdrijf" (vgl. HR 22 maart 2011, ECLI:NL:HR:2011:BO2629, NJ 2011/341). Voor het gewicht van de rol van de medepleger in de zin van art. 47 Sr kan ook worden gewezen op art. 141, eerste lid, Sr. Het daar strafbaar gestelde "in vereniging plegen" van geweld eist dat de verdachte "een voldoende significante of wezenlijke bijdrage aan het geweld" heeft geleverd, zij het dat deze bijdrage zelf niet van gewelddadige aard behoeft te zijn geweest. (Vgl. bijvoorbeeld HR 2 juli 2013, ECLI:NL:HR: 2013:132, NJ 2013/407).</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2.</nr>
+        <parablock>
+          <para>Een en ander brengt mee dat indien het tenlastegelegde medeplegen in de kern niet bestaat uit een gezamenlijke uitvoering, maar uit gedragingen die met medeplichtigheid in verband plegen te worden gebracht (zoals het verstrekken van inlichtingen, op de uitkijk staan, helpen bij de vlucht), op de rechter de taak rust om in het geval dat hij toch tot een bewezenverklaring van het medeplegen komt, in de bewijsvoering - dus in de bewijsmiddelen en zo nodig in een afzonderlijke bewijsoverweging - dat medeplegen nauwkeurig te motiveren. Bij de vorming van zijn oordeel dat sprake is van de voor medeplegen vereiste nauwe en bewuste samenwerking, kan de rechter rekening houden met onder meer de intensiteit van de samenwerking, de onderlinge taakverdeling, de rol in de voorbereiding, de uitvoering of de afhandeling van het delict en het belang van de rol van de verdachte, diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip. Daarbij verdient overigens opmerking dat aan het zich niet distantiëren op zichzelf geen grote betekenis toekomt. Het gaat er immers om dat de verdachte een wezenlijke bijdrage moet hebben geleverd aan het delict. In dit verband valt te wijzen op bijvoorbeeld HR 22 december 2009, ECLI:NL:HR:2009:BK3356, NJ 2010/193 waarin ten aanzien van het medeplegen van een vernieling werd overwogen "dat het louter aanwezig zijn bij en zich niet distantiëren van een door een ander gepleegde vernieling, alsmede het louter instemmen met die vernieling, ieder voor zich en in onderlinge samenhang bezien daarvoor onvoldoende zijn", alsmede HR 3 juni 2014, ECLI:NL: HR:2014:1307 inzake diefstal door twee of meer verenigde personen waarin onvoldoende werd bevonden de enkele vaststelling "dat de verdachte een vluchtmogelijkheid heeft gefaciliteerd en dat het niet anders kan zijn dan dat over het verschaffen van deze vluchtmogelijkheid van te voren door de verdachte en zijn mededaders afspraken zijn gemaakt".</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3.</nr>
+        <para>De bijdrage van de medepleger zal in de regel worden geleverd tijdens het begaan van het strafbare feit in de vorm van een gezamenlijke uitvoering van het feit. Maar de bijdrage kan ook zijn geleverd in de vorm van verscheidene gedragingen voor en/of tijdens en/of na het strafbare feit. Ook is niet uitgesloten dat de bijdrage in hoofdzaak vóór het strafbare feit is geleverd. (Vgl. bijvoorbeeld HR 3 juli 2012, ECLI:NL:HR:2012:BW9972, NJ 2012/452). Zeker in dergelijke, in zekere zin afwijkende of bijzondere, situaties dient in de bewijsvoering aandacht te worden besteed aan de vraag of wel zo bewust en nauw is samengewerkt bij het strafbare feit dat van medeplegen kan worden gesproken, in het bijzonder dat en waarom de bijdrage van de verdachte van voldoende gewicht is geweest. Dat geldt in nog sterkere mate indien het hoofdzakelijk gaat om gedragingen die na het strafbare feit zijn verricht. (Vgl. HR 9 april 2013 ECLI:NL:HR:2013:BZ6505, NJ 2013/229). Een geringe rol of het ontbreken van enige rol in de uitvoering van het delict zal in dergelijke uitzonderlijke gevallen wel moeten worden gecompenseerd, bijvoorbeeld door een grote(re) rol in de voorbereiding. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.1.</nr>
+        <para>Er bestaat geen precieze afgrenzing tussen medeplegen en de andere deelnemingsvormen. Dat neemt niet weg dat wanneer medeplegen wordt tenlastegelegd, dit medeplegen moet worden beoordeeld aan de hand van de voor medeplegen geldende maatstaven. Het gebruikmaken van aan andere deelnemingsvormen ontleende begrippen of constructies kan de bewijsvoering voor medeplegen compliceren en verdient daarom in zulke gevallen geen aanbeveling. (Vgl. HR 18 december 2012, ECLI:NL:HR:2012: BX5140 en HR 1 juli 2014, ECLI:NL:HR:2014:1593, in welke zaken het medeplegen door het hof was bewezenverklaard aan de hand van criteria voor het zogenoemde functionele daderschap). Het valt overigens op dat het openbaar ministerie bij het tenlasteleggen van commune en andere niet-economische strafbare feiten - in vergelijking met economische delicten - vaker gebruik lijkt te maken van (soms ingewikkelde) deelnemingsconstructies dan van het meer geëigend lijkende functionele daderschap. (Vgl. HR 24 mei 2011, ECLI:NL:HR:2011:BP6581, NJ 2011/481 met betrekking tot de verkoop van hennepplanten door de eigenaar van een growshop).</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2.</nr>
+        <para>Het ontbreken van een precieze afgrenzing tussen medeplegen en de andere deelnemingsvormen brengt mee dat het openbaar ministerie in voorkomende gevallen er goed aan doet de rechter een keuzemogelijkheid te bieden door daarop toegesneden varianten in de tenlastelegging op te nemen. Als het openbaar ministerie evenwel om hem moverende redenen uitsluitend het medeplegen en niet ook de medeplichtigheid heeft tenlastegelegd, moet de rechter vrijspreken indien het medeplegen niet kan worden bewezen, ook al zou vaststaan dat de verdachte medeplichtig was aan het feit.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het middel klaagt over de motivering van de bewezenverklaring wat betreft het "medeplegen". </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Mede gelet op hetgeen hiervoor onder 3 is vooropgesteld, heeft het Hof zijn oordeel dat te dezen geen sprake is van (niet tenlastegelegde) medeplichtigheid maar van "medeplegen", onvoldoende gemotiveerd. Daarbij heeft de Hoge Raad in het bijzonder in aanmerking genomen </para>
+      <para>(a) dat het Hof kennelijk vooral betekenis heeft toegekend aan de omstandigheid dat van verdachtes "lijfelijke aanwezigheid een zekere mate van dreiging uitging" en de omstandigheid dat "hij zich op dat moment op geen enkele wijze [heeft] gedistantieerd, hoewel hij daartoe meerdere mogelijkheden heeft gehad", en</para>
+      <para>(b) dat het Hof tevens als vaststaand heeft aangenomen dat de verdachte (i) "in eerste instantie heeft gezegd dat hij [aan de beroving] niet mee wilde doen maar toen de medeverdachten hadden gezegd dat hij alleen maar bij de scooters hoefde te blijven, met het plan heeft ingestemd" en (ii) tijdens de beroving daadwerkelijk op enige afstand bij de scooters is blijven wachten. </para>
+      <para>Hetgeen het Hof in dit verband voor het overige heeft vastgesteld, leidt niet tot een ander oordeel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Het middel is terecht voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>	Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak niet in stand kan blijven en als volgt moet worden beslist. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>	De Hoge Raad:</para>
+      <para>	vernietigt de bestreden uitspraak;</para>
+      <para>	wijst de zaak terug naar het Gerechtshof Amsterdam, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu, H.A.G. Splinter-van Kan, Y. Buruma en N. Jörg, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">2 december 2014</emphasis>.</para>
+      <para>Mr. Van Dorst is buiten staat dit arrest te ondertekenen.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

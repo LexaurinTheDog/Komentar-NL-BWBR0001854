@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2007:AZ0213</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T03:59:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AZ0213</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2007-02-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">00447/06</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2007:AZ0213" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2007:AZ0213</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSGR:2005:AU6181" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging met verwijzen">In cassatie op : ECLI:NL:GHSGR:2005:AU6181, (Gedeeltelijke) vernietiging met verwijzen</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=46">Wetboek van Strafrecht 46</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOL 2007, 134</rdf:li>
+          <rdf:li>RvdW 2007, 241</rdf:li>
+          <rdf:li>NJB 2007, 603</rdf:li>
+          <rdf:li>AA20070691 met annotatie van Th.A. de Roos</rdf:li>
+          <rdf:li>NJ 2007/659</rdf:li>
+          <rdf:li>NbSr 2007/125</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2007:AZ0213">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2007:AZ0213</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T00:37:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2007-02-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2007:AZ0213 Hoge Raad , 20-02-2007 / 00447/06</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2007:AZ0213:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>“Kennelijk bestemd” ex art. 46.1 (oud) Sr. Bij de beantwoording van de vraag of de in art. 46.1 (oud) Sr vermelde voorwerpen, etc., afzonderlijk of gezamenlijk, naar hun uiterlijke verschijningsvorm “kennelijk bestemd” zijn tot het begaan van het misdrijf i.d.z.v. deze bepaling, kan, naar mede volgt uit de wetsgeschiedenis, niet worden geabstraheerd van het misdadige doel dat verdachte met het gebruik van die voorwerpen voor ogen had. Het hof, dat heeft overwogen aan de terroristische intentie van verdachte niet te twijfelen, heeft geoordeeld dat de in de tenlastelegging opgesomde voorwerpen, stoffen en informatiedragers die verdachte heeft vervaardigd of voorhanden heeft gehad, niet kennelijk bestemd zijn tot voorbereiding van een aanslag zoals tenlastegelegd, omdat die voorwerpen die bestemming in objectieve zin redelijkerwijs niet kunnen hebben. Daarmee heeft het hof kennelijk als maatstaf aangelegd of die voorwerpen naar hun aard of hun concreet dan wel acuut gevaarzettend karakter daadwerkelijk zouden kunnen bijdragen aan het begaan van dat misdrijf. Aldus heeft het hof blijk gegeven van een te beperkte en dus onjuiste opvatting omtrent art. 46.1 (oud) Sr. Het hof heeft immers nagelaten te beoordelen of deze voorwerpen, afzonderlijk dan wel gezamenlijk, naar hun uiterlijke verschijningsvorm t.t.v. het handelen dienstig kunnen zijn voor het misdadige doel dat verdachte met het gebruik van de voorwerpen voor ogen had.</para>
+        <para>Het hof is bij zijn beraadslaging en beslissing in zoverre dus uitgegaan van een onjuiste opvatting omtrent de betekenis die moet worden toegekend aan de woorden “kennelijk bestemd”. Het heeft aldus de grondslag van de tenlastelegging verlaten en verdachte vrijgesproken van iets anders dan was tenlastegelegd.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2007:AZ0213:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>20 februari 2007</para>
+      <para>Strafkamer</para>
+      <para>nr. 00447/06</para>
+      <para>DV/SM</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te 's-Gravenhage van 18 november 2005, nummer 22/003478-05, in de strafzaak tegen:</para>
+      <para>Samir A., geboren te [geboorteplaats] op [geboortedatum] 1986, ten tijde van de betekening van de aanzegging uit anderen hoofde gedetineerd in de Penitentiaire Inrichting "Haaglanden" te Zoetermeer.</para>
+    </parablock>
+    <para />
+    <para>1. De bestreden uitspraak</para>
+    <para />
+    <para>Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Rechtbank te Rotterdam van 6 april 2005, voor zover aan 's Hofs oordeel onderworpen - de verdachte vrijgesproken van het onder 1 en 2 tenlastegelegde.</para>
+    <para />
+    <para>2. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>2.1. Het beroep, dat blijkens de cassatieakte uitsluitend is gericht tegen de vrijspraak van het onder 2 tenlaste-gelegde, is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De raadsman van de verdachte, mr. A.A. Franken, advocaat te Amsterdam, heeft het beroep tegengesproken.</para>
+    </parablock>
+    <para />
+    <para>2.2. De Advocaat-Generaal Machielse heeft geconcludeerd tot vernietiging van het bestreden arrest, voor zover aan het oordeel van de Hoge Raad onderworpen, en tot verwijzing van de zaak naar een aangrenzend Hof teneinde op het bestaande beroep opnieuw te worden berecht en afgedaan.</para>
+    <para />
+    <para>2.3. Na de terechtzitting waarop de conclusie is genomen, is bij de Hoge Raad ingekomen een schrijven van genoemde raadsman. </para>
+    <para />
+    <para>3. Beoordeling van het middel</para>
+    <para />
+    <para>3.1. Het middel bevat de klacht dat het Hof een onjuiste betekenis heeft toegekend aan de in de tenlastelegging voorkomende en aan art. 46, eerste lid, (oud) Sr ontleende woorden "kennelijk bestemd" tot het begaan van het misdrijf.</para>
+    <para />
+    <parablock>
+      <para>3.2. Aan de verdachte is onder 2 tenlastegelegd:</para>
+      <para>"dat hij in of omstreeks de periode van 1 november 2003 tot en met 30 juni 2004 te Rotterdam en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, ter voorbereiding van het/de te plegen misdrijf/misdrijven:</para>
+      <para>- moord (al dan niet meermalen gepleegd)</para>
+      <para>en/of</para>
+      <para>- opzettelijk brand stichten en/of een ontploffing teweegbrengen (in en/of aan en/of in de directe nabijheid van een of meer van de hierna onder [1] te noemen gebouwen), terwijl daarvan gemeen gevaar voor goederen te duchten is en/of levensgevaar of gevaar voor zwaar lichamelijk letsel voor anderen (te weten voor de personen die aanwezig zouden blijken te zijn in en/of nabij een of meer van de hierna onder [1] te noemen gebouwen), althans voor een ander te duchten is, opzettelijk een of meer voorwerp(en) en/of stof(fen) en/of informatiedrager(s), te weten:</para>
+      <para>[1]</para>
+      <para>een of meer</para>
+      <para>- plattegronden en/of</para>
+      <para>- foto's en/of</para>
+      <para>- schetsen</para>
+      <para>van, althans een geschrift(en) met betrekking tot en/of een drager(s) van informatie met betrekking tot een of meer (overheids)gebouwen en/of de (nabije) omgeving van dat/die gebouw(en), te weten (onder meer) (een) gebouw(en) van</para>
+      <para>- de Tweede Kamer der Staten-Generaal en/of het Binnenhofcomplex te Den Haag en/of</para>
+      <para>- de kerncentrale te Borssele en/of</para>
+      <para>- het Ministerie van Defensie te Den Haag en/of</para>
+      <para>- de luchthaven Schiphol te Haarlemmermeer en/of</para>
+      <para>- de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) te Leidschendam</para>
+      <para>- en/of het Korps Commando Troepen te Roosendaal</para>
+      <para>en/of</para>
+      <para>[2]</para>
+      <para>een of meer aantekening(en) op papier en/of een of meer notitievel(len), althans geschrift(en), en/of een of meer andere informatiedrager(s), te weten (onder meer) (een) diskette(s) en/of (een) CD-rom(s) en/of (een) videoband(en) en/of (een) cassetteband(en), behelzende een of meer beschrijving(en) van het/de adres(sen) van en/of de af te leggen </para>
+      <para>route(s) naar en/of de (te omzeilen) beveiliging van dat/die (hierboven onder [1] genoemde) gebouw(en) (teneinde de toegang tot (het/de terrein(en) van) dat/die gebouw(en) te kunnen verkrijgen en/of te vergemakkelijken en/of (vervolgens) dat/die misdrijf/misdrijven te kunnen uitvoeren)</para>
+      <para>en/of</para>
+      <para>[3]</para>
+      <para>een of meer aantekening(en) op papier en/of een of meer notitievel(len), althans geschrift(en), en/of een of meer andere informatiedrager(s), te weten (onder meer) (een) diskette(s) en/of (een) CD-rom(s) en/of (een) videoband(en) en/of (een) cassetteband(en), behelzende</para>
+      <para>- een of meer opsomming(en) van (een) benodigdhe(i)d(en) voor het uitvoeren en/of faciliteren van dat/die misdrijf/misdrijven </para>
+      <para>en/of</para>
+      <para>[4]</para>
+      <para>een of meer aantekening(en) op papier en/of een of meer notitievel(len) en/of een of meer uitdraai(en), althans geschrift(en), en/of een of meer andere informatiedrager(s), te weten (onder meer) (een) diskette(s) en/of (een) CD-rom(s) en/of (een) videoband(en) en/of (een) cassetteband(en), behelzende</para>
+      <para>- het/de adres(sen) van het/de bedrijf/bedrijven waar vorenbedoelde en/of andere benodigdhe(i)d(en) voor de uitvoering van dat/die misdrijf/misdrijven kan/kunnen worden verkregen, te weten het/de adres(sen) van (onder meer) een of meer Boerenbond- en/of Welkoopwinkel(s) </para>
+      <para>en/of behelzende</para>
+      <para>- een of meer beschrijving(en) van de af te leggen route(s) naar dat/die bedrijf/bedrijven</para>
+      <para>en/of</para>
+      <para>[5]</para>
+      <para>een of meer aantekening(en) op papier en/of een of meer notitievel(len), althans geschrift(en), en/of een of meer andere informatiedrager(s), te weten (onder meer) (een) diskette(s) en/of (een) CD-rom(s) en/of (een) videoband(en) en/of (een) cassetteband(en), behelzende</para>
+      <para>- een beschrijving van en/of een uitleg over de werking en/of vervaardiging van</para>
+      <para>- (een) wapen(s) en/of</para>
+      <para>- een onderde(e)l(en) van (een) wapen(s) en/of</para>
+      <para>- een hulpstuk(ken) voor (een) wapen(s) en/of</para>
+      <para>- (een) explosieve constructie(s) en/of</para>
+      <para>- (een) onderde(e)l(en) van (een) explosieve constructie(s) en/of</para>
+      <para>- (een) hulpstuk(ken) voor (een) explosieve constructie(s) en/of</para>
+      <para>- een of meer materia(a)l(en) geschikt om een ontploffing teweeg te brengen, te weten (onder meer) RDX, </para>
+      <para>en/of behelzende</para>
+      <para>- een of meer verwijzingen (door middel van vermelding van de url(s) [internetadres] en/of [internetadres]) naar een zodanige beschrijving of uitleg op internet en/of behelzende</para>
+      <para>- een beschrijving van een of meer organisatie(s) die zich (onder meer) bezig houden met het teweegbrengen van ontploffingen en/of de doelstelling(en) en/of de activiteit(en) van die organisatie(s)</para>
+      <para>en/of </para>
+      <para>[6]</para>
+      <para>diverse schakelaars en/of batterijen en/of elek-trische circuitjes en/of andere voorwerpen, te weten</para>
+      <para>a. een elektrisch klokje met alarmfunctie en/of</para>
+      <para>b. een (deels afgebroken) halogeenlampje met twee stukjes elektriciteitskabel daaraan gesoldeerd en/of </para>
+      <para>c. een stappenmotor en/of</para>
+      <para>d. een piëzo-ontsteker en/of</para>
+      <para>e. een kunststof reservoir met daaraan een flexibel slangetje en/of</para>
+      <para>f. een 9-Volt-blokbatterij met daaraan een beschadigde clip en/of</para>
+      <para>g. vijf intacte clips voor een 9-Volt-blokbatterij en/of</para>
+      <para>h. vier delen van een kerstboomverlichting, waarvan twee met een intact lampje en twee met een afgebroken lampje en/of</para>
+      <para>i. een zwarte en een rode elektriciteitskabel en/of</para>
+      <para>j. een printplaatje met twee LED's, met daaraan elektriciteitskabel gesoldeerd en/of</para>
+      <para>k. een stukje elektriciteitskabel met daaraan een kabelschoen en/of</para>
+      <para>l. een elektrische schakeling bestaande uit een deel van een kerstboomverlichting, een deurbelschakelaar</para>
+      <para>(waarvan de achterzijde ontbreekt), een 9-Volt-blokbatterij, een kroonsteenblok, verbonden met</para>
+      <para>elektriciteitskabel</para>
+      <para>en/of</para>
+      <para>[7]</para>
+      <para>een ((in stukken gebroken) eivormig) flesje van (geel) kunststof, met daarin tuin-/kunstmest en/of een gemodificeerd lampje</para>
+      <para>en/of</para>
+      <para>[8]</para>
+      <para>een portofoon</para>
+      <para>en/of</para>
+      <para>[9]</para>
+      <para>twee, althans een of meer, patroonhouder(s) (voor automatische vuurwapens)</para>
+      <para>en/of</para>
+      <para>[10]</para>
+      <para>een geluiddemper (voor een automatisch vuurwapen)</para>
+      <para>en/of</para>
+      <para>[11]</para>
+      <para>een kogelwerend vest</para>
+      <para>en/of</para>
+      <para>[12]</para>
+      <para>een of meer steekwapen(s)</para>
+      <para>en/of</para>
+      <para>[13]</para>
+      <para>een of meer voorwerp(en) dat/die uiterlijk gelijk(t)(en) op een (vuur)wapen</para>
+      <para>en/of</para>
+      <para>[14]</para>
+      <para>een nacht-/restlichtkijker</para>
+      <para>en/of</para>
+      <para>[15]</para>
+      <para>- een pipet en/of</para>
+      <para>- een pincet en/of</para>
+      <para>- luciferhoutjes en/of</para>
+      <para>[16]</para>
+      <para>een of meer chemicali(e)(ën), (in potentie) (samen met andere chemicaliën) geschikt/bestemd voor het stichten van brand of het teweegbrengen van een ontploffing, te weten (onder meer)</para>
+      <para>- ammoniak en/of</para>
+      <para>- zoutzuur en/of</para>
+      <para>- brandspiritus</para>
+      <para>en/of</para>
+      <para>[17]</para>
+      <para>ammoniumnitraatloze kunstmest, uiterlijk gelijkend op ammoniumnitraat houdende kunstmest, zijnde ammoniumnitraat houdende kunstmest een stof/voorwerp dat kan dienen als (bestanddeel van (geïmproviseerde)) springstof</para>
+      <para>welke voorwerp(en) en/of stof(fen) en/of informatiedrager(s), al dan niet in combinatie met elkaar, kennelijk bestemd waren tot het in vereniging, althans alleen, begaan van dat/die misdrijfmisdrijven, heeft vervaardigd en/of voorhanden heeft gehad."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.3. Het Hof heeft omtrent de vrijspraak van het onder 2 tenlastegelegde het volgende overwogen, voor zover voor de beoordeling van het middel van belang:</para>
+      <para>"9.2. Aan de verdachte wordt bij gewijzigde tenlastelegging onder 2 verweten - kort gezegd - dat hij een of meer ernstige misdrijven heeft voorbereid en dat hij daartoe opzettelijk voorwerpen, stoffen en/of informatiedragers (zoals in de tenlastelegging nader gespecificeerd en omschreven) heeft vervaardigd en/of voorhanden gehad, welke middelen kennelijk waren bestemd tot het begaan van die misdrijven. Die misdrijven worden in de tenlastelegging omschreven als moord en/of brandstichting en/of het teweegbrengen van een ontploffing.</para>
+    </parablock>
+    <para />
+    <para>De advocaat-generaal heeft ter gelegenheid van zijn requisitoir betoogd dat het centrale verwijt dat aan de verdachte in feit 2 wordt gemaakt, is dat hij voorbereidingshandelingen heeft gepleegd voor het teweegbrengen van één of meer ontploffingen in of nabij de in de tenlastelegging genoemde (overheids)gebouwen en dat het voor de bewezenverklaring van dergelijke voorbereidingshandelingen vanzelfsprekend van belang is om te kijken naar de wijze waarop het voltooide delict zich in het algemeen zal toedragen. Algemene ervaringsregelen leren volgens de advocaat-generaal dat een aanslag met explosieven veelal zal beginnen met een motief, dat het motief doorgaans mede de keus voor het doelwit bepaalt, dat dit doelwit uiteindelijk (zo dicht mogelijk) benaderd moet worden, dat het daarbij van belang is te weten waar het doelwit zich (exact) bevindt en of er al dan niet sprake is van obstakels, hetzij in de vorm van fysieke barrières, hetzij in de vorm van beveiliging door (al dan niet bewapende) personen. De verwijzing naar 'moord' in de tenlastelegging ziet, aldus de advocaat-generaal, op de situatie waarin de aanslagpleger die beveiligers uitschakelt door hen om het leven te brengen. Vervolgens zal het explosief aangebracht worden, waarna het tot ontploffing wordt gebracht. De advocaat-generaal heeft in deze sleutel een aantal in de gewijzigde tenlastelegging opgesomde voorwerpen, stoffen en informatiedragers zonder belang geacht en derhalve buiten beschouwing gelaten. Het hof volgt de advocaat-generaal in beginsel in die gedachtegang en zal hierna de voorwerpen, stoffen en informatiedragers bespreken, voorzover naar 's hofs oordeel relevant, waaronder ook alle door de advocaat-generaal belangrijk geachte voorwerpen.</para>
+    <para />
+    <para>Het hof zal die in de tenlastelegging genoemde middelen afzonderlijk en in hun gezamenlijkheid beoordelen op hun gebruiksmogelijkheden, zoals door de advocaat-generaal bedoeld, en op het misdadige doel dat de verdachte mogelijk met het gebruik van die middelen voor ogen heeft gehad; alles voorzover komt vast te staan dat de verdachte deze middelen heeft vervaardigd en/of voorhanden heeft gehad.</para>
+    <para />
+    <parablock>
+      <para>9.3. Dienaangaande valt uit de beslaglijst af te leiden dat deze voorwerpen, stoffen en informatiedragers vrijwel alle werden aangetroffen in de slaapkamer (aangeduid met nummer 7), dan wel op het daarnaast gelegen balkon (aangeduid met nummer 8), dat uitsluitend via die slaapkamer te bereiken is. De verdachte heeft destijds zelf verklaard dat hij deze slaapkamer samen met zijn vrouw gebruikte, hetgeen bevestiging vindt in onder andere het gegeven dat bij dactyloscopisch onderzoek op een aantal in deze slaapkamer aangetroffen documenten, die hieronder nader zullen worden besproken, naast aantekeningen, die hoogstwaarschijnlijk door de verdachte zijn geschreven, vingersporen van de verdachte zijn aangetroffen. Hieruit leidt het hof af dat de verdachte al deze voorwerpen voorhanden heeft gehad, waarbij het hof in zijn overtuiging wordt gesterkt door de omstandigheid dat de verdachte nimmer opheldering heeft willen verschaffen over </para>
+      <para>de aanwezigheid van deze voorwerpen en hun doel en functie. Het Hof laat rusten de vraag of de verdachte de hierna onder 'tweede categorie' te vermelden voorwerpen voorhanden heeft gehad, nu het hof aan de aanwezigheid van deze voorwerpen blijkens de hierna onder 9.4.2 te vermelden overwegingen voorbij zal gaan.</para>
+    </parablock>
+    <para />
+    <para>9.4. Het hof onderscheidt bij de aldus te bespreken zaken een aantal categorieën. </para>
+    <para />
+    <parablock>
+      <para>9.4.1. Tot een eerste categorie behoren de voorwerpen en stoffen die mogelijkerwijs kunnen worden aangemerkt als te zijn bedoeld als (onderdelen van of grondstoffen voor) een geïmproviseerde explosieve constructie. Het gaat daarbij om de navolgende in de tenlastelegging van feit 2 (onder na te melden nummer) genoemde</para>
+      <para>[6] elektrische circuits met toebehoren,</para>
+      <para>[7] het eivormige gele flesje met kunstmest en een 'gemodificeerd' lampje, </para>
+      <para>[15] de pipet, pincet en luciferhoutjes, waaraan het hof geen zelfstandige betekenis vermag toe te kennen (en waaraan het dan ook voorbij gaat),</para>
+      <para>[16] enkele chemicaliën en </para>
+      <para>[17] de kunstmest.</para>
+      <para>9.4.1.1. Over de (mogelijke) betekenis van bedoelde voorwerpen en stoffen is door de getuige-deskundigen ir. P.C.A.M. de Bruyn en ir. ing. R.M. van der Knijff, beiden verbonden aan het Nederlands Forensisch Instituut, d.d. 15 maart 2005 en </para>
+      <para>24 oktober 2005 gerapporteerd; het hof ontving bovendien van de hand van ir. De Bruyn een algemene rapportage uit januari 2005 over "Ammoniumnitraat en ammoniumnitraatspringstoffen in een forensisch-technisch perspectief", alsmede een rapport d.d. 4 november 2005 omtrent de inhoud en de samenstelling van de onder [16] bedoelde (flessen met) </para>
+      <para>chemicaliën en de in de woning van de verdachte aangetroffen kunstmest. </para>
+      <para>Beide deskundigen zijn ter terechtzitting van 31 oktober 2005 en 7 november 2005 gehoord, waarbij de aandacht geconcentreerd is geweest op explosieve constructies op basis van zogenaamde ANFO-mengsels (van AmmoniumNitraat en een brandstof - "Fuel Oil"). Daarbij is het navolgende naar voren gekomen.</para>
+      <para>In algemene termen gesproken zijn om een functionerende explosieve constructie te verkrijgen vereist: een explosieve lading, een ontsteker van die lading en een activeringsmechanisme voor die ontsteker. Daarbij is ten aanzien van de explosieve lading het onderscheid in deflagrerende en detonerende ladingen van belang. Eerstgenoemde ladingen (die veelal verhoudingsgewijs minder krachtig zijn) zijn gevoelig voor de toevoer van hitte en kunnen daardoor tot ontsteking komen. Dat lukt niet bij detonerende ladingen - met een grote vernietigende (brisante) werking - waarvoor een speciale ontsteker (slag-pijpje e.d.) nodig is.</para>
+      <para>De gloeidraad van een lampje, waarvan het beschermende glas is verwijderd zodat deze gloeidraad in onmiddellijk contact met de lading (en de lucht) staat, geeft bij de doorvoer van voldoende elektrische stroom zodanige hitte af dat daardoor een deflagrerende lading tot ontbranding kan worden gebracht, zodat een dergelijke gloeidraad als ontsteker van een deflagrerende lading kan worden aangemerkt. Een aldus 'gemodificeerd' lampje kan van stroom worden voorzien door het op te nemen in een elektrisch circuit - met een voedingsbron - dat op enigerlei wijze kan worden gesloten met behulp van een al dan niet op afstand bestuurde of van een tijdmechanisme voorziene schakelaar: het activeringsmechanisme.</para>
+    </parablock>
+    <para />
+    <para>Ladingen op basis van ammoniumnitraat die tot ontploffing (kunnen) worden gebracht, behoren tot de categorie detonerende springstoffen. Een dergelijke lading alleen kan, aldus de deskundige De Bruyn, eigenlijk niet door een slagpijpje worden ontstoken. Daartoe is vereist dat het ammoniumnitraat wordt vermengd met (een) andere stof(fen) als inleidlading' met een hoge detonatiesnelheid. Bovendien wordt de werking van het ammoniumnitraat bevorderd door toevoeging van een 'brandstof' (die met de bij de ontbinding van het ammoniumnitraat vrijkomende zuurstof verbrandt). Indien een en ander niet op adequate wijze en/of niet in de juiste verhoudingen gebeurt, blijft explosie achterwege. Ondanks deze complicaties zijn in de afgelopen jaren velen er, ondanks hun beperkte ervaring, in geslaagd een functionerende geïmproviseerde explosieve constructie op basis van ammoniumnitraat te vervaardigen, aldus de deskundige De Bruyn.</para>
+    <para />
+    <para>Ammoniumnitraat kan worden verkregen uit kunstmest die vrij verkrijgbaar is. Kunstmest kan echter ook bestaan uit tal van andere stikstofverbindingen, die géén basis kunnen vormen voor een explosieve lading, of deze mede bevatten. Voor een explosieve lading is altijd tenminste ammoniumnitraat zelf vereist. De produktinformatie op de zak met kunstmest in de onderhavige zaak, met onder meer de (NPK)kengetallen voor de gewichtspercentages stikstof, fosfor en kalium, biedt geen inzicht in de aanwezigheid van ammoniumnitraat in die kunstmest, waardoor identificatie van kunstmest als (voldoende) ammoniumnitraat-houdend uitgangspunt voor een explosieve lading wordt bemoeilijkt. Bovendien zal een dergelijke kunstmest verder moeten worden bewerkt.</para>
+    <para />
+    <para>9.4.1.2. Bij onderzoek van het materiaal in het eivormige gele flesje dat in deze zaak is aangemerkt als geïmproviseerde explosieve constructie [1.001/3.005], in het monster uit de zak ASEF kunstmest [1.002/3.006], in het monster uit de fles met opschrift "brandspiritus" [3.004] en uit het monster uit een aangetroffen blik [3.007] is vastgesteld dat de samenstelling in alle gevallen zodanig was dat deze materialen op geen enkele wijze enige rol kunnen spelen als (grondstof voor een) explosieve lading.</para>
+    <para />
+    <para>In de woning van de verdachte zijn flessen in beslag genomen die blijkens hun opschrift (huishoud)-chemicaliën zouden bevatten. Ten aanzien van de stoffen ammonia(k), (verdunde) zoutzuur en gootsteenontstopper, waarmee blijkens voormeld rapport d.d. 4 november 2005 de respectieve flessen inderdaad blijken te zijn gevuld, heeft de deskundige De Bruyn ter terechtzitting van 31 oktober 2005 verklaard dat deze geen enkele rol kunnen spelen bij het vervaardigen van een explosieve lading.</para>
+    <para />
+    <para>Uitsluitend de brandspiritus kan enige rol spelen (als bij te mengen brandstof). De fles met brand-spiritus was overigens volgens het proces-verbaal van [...] d.d. 2 november 2005 'leeg'.</para>
+    <para />
+    <para>Blijkens meervermeld rapport van 4 november 2004 bevatte de fles bij onderzoek (in november 2005) geen brand-spiritus, doch een kleine hoeveelheid grijs materiaal, dat qua chemische samenstelling overeenkomt met de vaste stof in het eivormige gele flesje.</para>
+    <para />
+    <para>Ten aanzien van het inbeslaggenomen samenstel van bedrading, batterij en lampje heeft de deskundige Van der Knijff vastgesteld dat dit (onder voorwaarde) een elektrisch circuit kan vormen met de deurbelschakelaar als 'activeringsmechanisme'; bij gebruikmaking van het eveneens aangetroffen 9 meter lange snoer kan het lampje ook op enige afstand tot branden worden gebracht. Een dergelijk lampje kan - zoals hiervoor aangegeven - na verwijdering van het glas als ontsteker voor daarvoor geschikte (deflagrerende) explosieve ladingen worden gebruikt; die functie kan een dergelijk lampje echter niet hebben bij een lading op basis van ammoniumnitraat.</para>
+    <para />
+    <para>Het zich bij de inbeslaggenomen stukken bevindende 'elektrische klokje met alarmfunctie' (door de Technische Recherche omschreven als: "restanten (van een) reiswekker") zou - mits voorzien van een batterij met het juiste vermogen - de rol van activeringsmechanisme 'op termijn' voor een ontsteker kunnen spelen.</para>
+    <para />
+    <parablock>
+      <para>9.4.1.3. Ten aanzien van de onderzochte materialen heeft de getuige-deskundige De Bruyn in zijn rapport van 24 oktober 2005 (door hem ter terechtzitting bevestigd) - mede op basis van het onderzoek door de getuige-deskundige Van der Knijff - onder meer de navolgende conclusies geformuleerd:</para>
+      <para>"Het geheel aan aangetroffen materialen geeft aan dat vrijwel zeker getracht is een explosieve constructie te vervaardigen. Dat blijkt uit de combinatie van de volgende materialen:</para>
+      <para>1. het voorwerp met het gemodificeerde lampje in het gele, kunststof flesje [1.001]</para>
+      <para>2. het op kunstmest gelijkende product (de korrels uit materiaal [1.001](Hof: zijnde thans ook 3.005), dat gemengd is met een vluchtige koolwaterstofverbinding en</para>
+      <para>3. de elektrische schakeling met het kerstboomlampje</para>
+      <para>[2.003], de gemodificeerde kerstboomlampjes [2.003] en het elektriciteitsdraad [2.002].</para>
+      <para>Een andere toepassing van deze materialen is ons niet bekend.</para>
+      <para>De aangetroffen materialen [1.001, 2.002 t/m 2.004] vormen tezamen geen deugdelijke explosieve constructie, omdat er geen explosieve lading aanwezig is en omdat er geen ontsteker aanwezig is die een ANFO-mengsel kan ontsteken."</para>
+      <para>Het hof neemt deze conclusie over en maakt die tot de zijne, waarbij het uitdrukkelijk vaststelt dat derhalve in tweeërlei opzicht sprake is van een samenstel van voorwerpen en stoffen, die niet een functionerende geïmproviseerde explosieve constructie oplevert. Bovendien moet worden vastgesteld dat de overige aangetroffen chemicaliën onmogelijk tot een andere conclusie kunnen leiden. Het hof stelt bovendien vast dat er geen enkele aanwijzing is dat de verdachte over enige deflagrerende explosieve lading beschikte, waarvoor het elektrische circuit met een gemodificeerd lampje zou kunnen dienen. Evenmin is gebleken van de aanwezigheid van (onderdelen of grondstoffen voor) een inleidende lading die een </para>
+      <para>ANFO-mengsel tot ontsteking kan brengen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>9.4.2. Een tweede categorie voorwerpen wordt gevormd door de in de tenlastelegging genoemde zaken die hetzij als (onderdeel van een) wapen, hetzij als een in het kader van een te ondernemen aanslag nuttig hulpmiddel zouden kunnen worden beschouwd. Het gaat daarbij (in de nummering van de gewijzigde tenlastelegging) om</para>
+      <para>[8] een portofoon,</para>
+      <para>[9] twee patroonhouders (voor automatische vuurwapens)</para>
+      <para>[10] een geluiddemper (voor een automatisch wapen),</para>
+      <para>[11] een kogelwerend vest,</para>
+      <para>[12] steekwapen(s),</para>
+      <para>[13] op een (vuur)wapen gelijkende voorwerpen en</para>
+      <para>[14] een nacht-/restlichtkijker.</para>
+    </parablock>
+    <para />
+    <para>Op zichzelf kunnen steekwapens (waarvan - afgezien van de omschrijving op de lijst van inbeslaggenomen goederen als: 'dolk in schede - King Arthur' en 'dolk in foedraal - Stainless Steel - Commandodolk' - elke nadere omschrijving ontbreekt) als offensief wapen worden aangemerkt en - evenals de geluiddemper en de patroonhouders, indien tenminste het bijbehorende automatisch wapen eveneens beschikbaar is - op weg naar of als middel tot een aanslag te stade komen. Ook bij de portofoon (mits afgestemd op het communicatiemiddel dat bij een andere deelnemer in gebruik is), het kogelwerende vest en de restlichtkijker kan het hof zich een (nuttige) functie in het kader van een aanslag voorstellen, afhankelijk van de wijze waarop die zijn beslag zou moeten krijgen; bij het balletjes-pistool en het luchtdrukpistool schiet 's hofs fantasie echter te kort. Van alle zaken in deze categorie geldt echter dat hun betekenis - ook in onderling verband en samenhang bezien, alsook bezien in relatie met hetgeen hierna ten aanzien van de 'derde categorie' wordt vastgesteld - zodanig diffuus en onzeker is, dat het hof bij de beoordeling van de vraag of het onder 2 tenlastegelegde wettig en overtuigend bewezen kan worden geacht, aan de aanwezigheid van deze voorwerpen in de woning van de verdachte voorbij zal gaan.</para>
+    <para />
+    <parablock>
+      <para>9.4.3. Een derde categorie voorwerpen die bespreking behoeft, wordt gevormd door de in de gewijzigde tenlastelegging onder [1], [2], [3], en [4] genoemde informatiedragers.</para>
+      <para>In de slaapkamer van de verdachte zijn tijdens de doorzoeking op 30 juni 2004 aangetroffen de volgende, onder [1], [2] en [3] in de gewijzigde tenlastelegging opgesomde, informatiedragers:</para>
+      <para>A.</para>
+      <para>- een A4-blad met de tekst 'defensie', met op de achterzijde de tekst "(nodig) auto silaa7 appels"</para>
+      <para>- een getekende schets/plattegrond met de aanduidingen 'parkeerplaats', 'hoge hek', 'bewakingshokje', 'deur', en 'bewaker ongewapend'</para>
+      <para>- 22 kleurenfoto's (afdrukdatum 29-mar-04).</para>
+      <para>Blijkens de stukken gaat het bij deze foto's en de plattegrond om de kazerne van het Korps Commando Troepen te Roosendaal en is de tekst op de getekende plattegrond hoogstwaarschijnlijk door de verdachte geschreven. </para>
+      <para>C. Aidi, tolk en beëdigd vertaler Nederlands-Arabisch en Arabisch-Nederlands, door de rechter-commissaris als getuige gehoord, heeft verklaard dat het woord 'silaa7' 'wapen' betekent en niets anders kan betekenen dan 'wapen'.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>B.</para>
+      <para>- een A4-blad met de tekst 'kerncentrale', met op de achterzijde de tekst "(nodig) silaa7 ladder van 2,5/3 m hoog auto grote tas"</para>
+      <para>- diverse van internet afkomstige A4-bladen met overzichtfoto's van kolencentrale, kerncentrale (printdatum 28-05-2004)</para>
+      <para>- een A4-blad waarop een plattegrond is getekend met de aanduiding van een beveiligingshokje en een tweetal hekken.</para>
+      <para>Blijkens de stukken gaat het bij de foto's om de Kerncentrale Borssele en is de tekst 'kerncentrale' mogelijk door de verdachte geschreven, terwijl op een van de internetprints een afdruk van de rechterduim van de verdachte voorkomt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>C.</para>
+      <para>- een A4-blad met de tekst 'AIVD', met op de achterzijde de tekst "(nodig) auto en tas (voor de hek)"</para>
+      <para>- een A4-blad met een tekening van een locatie met de straatnamen Oude Trambaan en Dr.V.D.Stamstraat</para>
+      <para>- een gedeelte van een commerciële uitgave van een stratenboekje, weergevende een gedeelte van de gemeente Leidschendam, waarbij een merkteken is gezet bij de Vlietweg</para>
+      <para>- twee A4-bladen waarop onder andere is geschetst een vierkant gearceerd vlak waar bankjes voor staan en waarop onder meer is aangetekend de werking van een 4 meter lang hek: "hek gaat elektrisch open en dicht, heeft pas nodig".</para>
+      <para>Blijkens de stukken moeten deze tekeningen/schetsen het AIVD-gebouw voorstellen, gevestigd aan de Dr.V.d.Stamstraat te Leidschendam. De tekst op het blad papier met o.a. de tekst 'Oude Trambaan' is hoogstwaarschijnlijk door de verdachte geschreven; hij is bovendien herkend als degene die op 7 juni 2004 's avonds voor het AIVD-gebouw aanwezig is geweest.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>D.</para>
+      <para>- een A4-blad met de tekst '2e Kamer', met op de achterzijde de tekst '(nodig) auto'</para>
+      <para>- een A4-blad met daarop de tekst "Het Binnenhof is niet te bereiken, alles is door uit de grond stekende palen afgesloten" en onder de tekst 'Tweede Kamer' een getekende schets van een locatie, waarop palen zijn aangegeven</para>
+      <para>- diverse plattegronden van gedeelten van de binnenstad van Den Haag, waarop het binnenhofcomplex staat aangegeven, kennelijk deel uitmakend van een commerciële uitgave van een stratenboekje. De tekst op het blad papier met o.a. de tekst "Het Binnenhof is niet te bereiken" is hoogstwaarschijnlijk door de verdachte geschreven en op dit blad papier komt tevens een afdruk van de rechterduim van de verdachte voor.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>E.</para>
+      <para>- een A4-blad met de tekst "Schiphol", met op de achterzijde de tekst "(nodig) auto tas 2 vesten" </para>
+      <para>- twee A4-bladen waarop een schets van een locatie met de tekst "aankomsthal 3" en de plaats van "draaideur", "winkel" en "glas", alsmede de maat van dat laatste</para>
+      <para>- een plattegrond van Schiphol met een daarop getekende pijl vanaf een ingang van Schiphol Plaza naar Departures 3.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>F.</para>
+      <para>- een detailplattegrond van het centrum van Den Haag, onderdeel van een Falkplan-kaart van Den Haag, waarop een merkteken is gezet bij de locatie van het Ministerie van Defensie.</para>
+    </parablock>
+    <para />
+    <para>Bij de in de gewijzigde tenlastelegging onder [4] bedoelde informatiedragers gaat het blijkens het dossier om lijsten met adressen van filialen van de firma Welkoop/Boerenbond met routebeschrijvingen. Ook blijkt uit de stukken dat bij die firma's (onder andere) kunstmest te koop is.</para>
+    <para />
+    <parablock>
+      <para>9.5. Met betrekking tot de vraag met welke mogelijke intentie de verdachte de hiervoor besproken voorwerpen, stoffen en informatiedragers voorhanden heeft gehad, speelt zijn opstelling ten opzichte van extremistisch geweld een rol. Het hof heeft hierbij op het volgende acht geslagen:</para>
+      <para>- De verdachte heeft ter zitting van 31 oktober 2005 desgevraagd verklaard dat hij begin 2003 een reis naar Tsjetsjenië heeft ondernomen, doch daar niet is gearriveerd, dat het zou kunnen dat hij degene is die in schriftelijke weergave van een interview met Mo wordt aangeduid uit wiens mond is opgetekend dat de actie van 11 september 2001, waarbij 'twee vliegtuigjes' zich in de Twin Towers boorden, 'super rechtvaardig' was en dat hij, toen hij richting Tsjetsjenië ging, bereid was tot alles, ook vergelding, dat hij kan schieten en dat geweld een oplossing is.</para>
+      <para>- Op basis van zich in het dossier bevindende stukken met betrekking tot het bij de verdachte in gebruik zijnde telefoonnummer 06-[...], de omstandigheid dat verdachte heeft verklaard Jason W. via het internet te kennen en met name de chatsessies tussen 'Mujaheed' via [naam]@hotmail.com en 'A.s.zaterda' via [naam]@hotmail.com op 18 september 2003, tussen 'Mujaheed' via [naam]@hotmail.com en N.N. via [naam]@hotmailcom op 8 september en 2 oktober 2003 en een chatsessie op 4 oktober 2003, waaraan 'Mujaheed' via [naam]@hotmail.com deelnam, neemt het hof aan dat de verdachte toen een belangrijke rol speelde bij het ronselen en het beoordelen van de geschiktheid van personen voor training voor de jihad en de gewelddadige uitvoering daarvan.</para>
+      <para>- Op 8 september 2004 heeft de verdachte zich in een telefoongesprek tegenover zijn echtgenote met de woorden 'iets heel moois' uitgelaten over de televisiebeelden van de terroristische gijzeling in Beslan, waarbij vele dodelijke slachtoffers vielen.</para>
+      <para>- In de woning van de verdachte is aangetroffen de hoogstwaarschijnlijk door de verdachte geschreven tekst - voorzover hier van belang luidende -: "Als ik een zoon krijg dan moet hij op zijn 15e naar een trainingskamp gaan en daar blijven, Mijn kind zodra hij/zij kan denken en praten de Tawheed leren.</para>
+      <para>Tawheed en Jihaad moet zijn/haar motto worden".</para>
+    </parablock>
+    <para />
+    <para>Afrondende beoordeling</para>
+    <para />
+    <para>9.6. Het hof dient thans te komen tot een kwalitatieve beoordeling van de hiervoor beschreven materialen, met het oog op de vraag of de gezamenlijkheid van die voorwerpen in samenhang met overige belastende informatie omtrent de verdachte tot het wettig en overtuigend bewijs leidt dat de verdachte zich aan strafbare voorbereiding van een aanslag heeft schuldig gemaakt. Alvorens die vraag te beantwoorden, acht het hof het aangewezen enkele kanttekeningen te maken en zijn visie op de strafbare voorbereiding te geven, voorzover voor de beoordeling van deze zaak van belang.</para>
+    <para />
+    <para>9.6.1. Zoals bekend, is de verdachte enkele weken geleden aangehouden op verdenking van een vergelijkbaar misdrijf. In de media is een verscheidenheid aan mededelingen gedaan over de kwalijke zaken waar de verdachte mee bezig zou zijn geweest. Het is tegen die achtergrond zaak dat het hof beklemtoont dat het in de thans aanhangige zaak uitsluitend heeft te oordelen over een feit dat thans ruim 16 maanden geleden zou zijn begaan. Het is evident dat daarbij meer recente zaken niet betrokken kunnen en mogen worden, hetgeen overigens ook door de advocaat-generaal in zijn requisitoir onderstreept is.</para>
+    <para />
+    <parablock>
+      <para>9.6.2. Tevens is het - in algemene zin - van belang om onder ogen te zien dat signaleringen van de Algemene Inlichtingen- en Veiligheidsdienst van actuele risico's voor de democratische rechtsorde en/of de veiligheid van de staat politie en justitie aanleiding kunnen geven om op te treden. Dat op-treden vindt dan in de verdenking van ernstige misdrijven - samenhangend met de gesignaleerde risico's - zijn rechtvaardiging. Daarmee is echter geenszins ook gezegd dat tevens na onderzoek zal blijken dat daadwerkelijk sprake is geweest van dergelijke ernstige misdrijven en dat daarom ook bestraffing gerechtvaardigd is.</para>
+      <para>Daarom moet aanvaard worden dat onder omstandigheden optreden dat door de belangen gemoeid met de opsporing van ernstige misdrijven wordt gerechtvaardigd, er niet altijd toe zal (kunnen) leiden dat die vermeende ernstige misdrijven ook daadwerkelijk bestraft kunnen worden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>9.6.3. Ten aanzien van de algemene strekking van de strafbaarstelling van voorbereidingshandelingen, zoals die sedert 1 april 1994 in artikel 46 van het Wetboek van Strafrecht haar beslag heeft gekregen, overweegt het hof - voorzover thans voor de beoordeling in deze zaak van belang - het navolgende.</para>
+      <para>Bij voorbereiding gaat het - evenals bij poging - om de strafbaarstelling van een 'onvolkomen delictsvorm'. Voor wat de poging betreft gaat het om handelen dat, als 'begin van uitvoering', "naar haar uiterlijke verschijningsvorm moet worden beschouwd als te zijn gericht op de voltooiing van het misdrijf": terwijl de dader er zijnerzijds wel alles aan deed om het delict te voltooien, is het delict door omstandigheden buiten hem om niet tot voltooiing gekomen. De wetgever heeft handelen op dat 'voorterrein' strafbaar gesteld op grond van het oordeel dat het gedrag dat aldus werd gesteld reeds zodanig laakbaar en - vanuit de te beschermen maatschappelijke belangen - gevaarzettend was, dat een strafsanctie gelegitimeerd is. Ook bij de strafbare voorbereiding, die op het 'voorterrein' verder verwijderd is van het voltooide misdrijf dan de poging, moet het gaan om handelen waarin de kwalijke bedoelingen van de dader zichtbaar worden: hij moet opzettelijk middelen vervaardigen of voorhanden hebben, die welbewust kennelijk zijn bestemd om het misdrijf te begaan waarop hij het oog heeft.</para>
+      <para>Bij de beantwoording van de vraag of van strafbare voorbereiding sprake is geweest, gaat het dus om de vraag wat de kennelijke bedoeling van de verdachte was, in samenhang met de aard van die voorwerpen. Het gaat bij dat laatste niet alleen om de vraag of een middel in abstracto enige bijdrage kan leveren tot het begaan van het misdrijf dat de verdachte op het oog heeft, maar ook om het reële belang dat het betreffende materiaal voor het plegen van het uiteindelijke misdrijf zal kunnen hebben en - daarmee - de concrete en/of acute gevaarzetting die van het vervaardigen of voorhanden hebben van dat materiaal uitgaat.</para>
+    </parablock>
+    <para />
+    <para>Het hof beoordeelt tegen deze achtergrond het handelen van de verdachte, zoals hem onder 2 is tenlastegelegd, als volgt.</para>
+    <para />
+    <para>9.6.4. Het hof heeft er op grond van het hierboven omtrent de intentie van de verdachte overwogene geen twijfel over dat de verdachte niet alleen sympathie koestert voor terroristische acties zoals (bom)aanslagen, maar dat hij door zijn bijdrage aan de werving van 'strijders' die sympathie ook handen en voeten geeft. Het oordeel over die gerichtheid op terrorisme wordt alleen maar verder versterkt doordat - naar het hof als vaststaand aanneemt - het de verdachte is geweest die heeft geprobeerd om een geïmproviseerd explosief mechanisme te vervaardigen. In zoverre bestaat bij het hof geen twijfel over de volle omvang van de terroristische intenties van de verdachte.</para>
+    <para />
+    <parablock>
+      <para>9.6.5. De strafrechtelijke beoordeling van die intenties dient echter plaats te vinden mede tegen de achtergrond van de materialen die de verdachte daartoe voorhanden had. Het hof heeft die voorwerpen, stoffen en informatiedragers (voor zover relevant geacht) hierboven beschreven en zal die thans beoordelen.</para>
+      <para>Het hof leidt uit de inbeslaggenomen plattegronden, foto's, schetsen en aantekeningen af dat de verdachte het gebouw van de AIVD en de kazerne van het Korps Commando Troepen heeft 'afgelegd' en daarvan aantekeningen (over de bij een actie benodigde materialen) heeft gemaakt; tevens heeft hij (op internet) de situatie bij de kerncentrale Borssele 'bekeken', alsmede die bij de gebouwen van de Tweede Kamer en het Binnenhof en bij Schiphol. Een en ander draagt naar 's hofs oordeel een nog zo primitief en oppervlakkig karakter, dat het hof het onmogelijk acht dat op basis van deze vergaand onvolkomen informatie een aanval op deze objecten met enige kans op succes zelfs maar in voorbereiding kan worden </para>
+      <para>genomen.</para>
+    </parablock>
+    <para />
+    <para>De bevindingen ten aanzien van het eivormige gele flesje met kunstmestkorrels, lampje en bedrading, aangeduid als geïmproviseerde explosieve constructie, laten geen andere conclusie toe dan dat de constructie die de verdachte beoogde te vervaardigen (nog afgezien van het gebroken gloeidraadje) in tweeërlei fundamenteel opzicht niet zou kunnen werken: een verkeerde lading en een verkeerde ontsteker voor een dergelijke lading. Het hof stelt dan ook vast dat de verdachte blijkens het totaalbeeld van het inbeslaggenomen eivormige flesje nog op een kennelijk zeer onbeholpen wijze op zoek was naar wegen om een functionerende geïmproviseerde explosieve constructie te kunnen vervaardigen, bij welke zoektocht mogelijk de lijsten met adressen van winkels van de Boerenbond/Welkoop een rol hebben gespeeld. Dat ook 'restanten (van een) reiswekker' werden aangetroffen, die onder nadere voorwaarden mogelijkerwijs als tijdmechanisme zouden kunnen functioneren, doet aan de overallbeoordeling als 'onbeholpen' geenszins af.</para>
+    <para />
+    <para>9.6.6. Een en ander leidt tot de conclusie dat het hof niet twijfelt aan de terroristische intentie van de verdachte, maar dat hetgeen hij overeenkomstig de tenlastelegging in die sleutel heeft ondernomen om tot het (taalkundig gesproken) kennelijk voorbereiden van een actie met een geïmproviseerde explosieve constructie te komen, zich in een zodanig pril stadium bevond en zo onbeholpen en primitief was, dat daarvan géén reële dreiging (binnen afzienbare termijn) kón uitgaan. De verdachte stond in feite nagenoeg met lege handen. Onder die omstandigheden kan naar 's hofs oordeel niet gesproken worden van het vervaardigen of aanwezig hebben van voorwerpen, stoffen en gegevensdragers die kennelijk zijn bestemd tot voorbereiding van een aanslag zoals onder 2 tenlastegelegd, omdat die voorwerpen, stoffen en gegevensdragers die bestemming in objectieve zin redelijkerwijs niet kunnen hebben; zou men ondanks het ontbreken van die objectieve bestemming en de daarmee samenhangende gevaarzetting een verdachte tóch veroordelen, dan zou men hem ten gronde straffen voor zijn gedachten en intenties, hetgeen de wetgever juist uitdrukkelijk heeft willen uitsluiten.</para>
+    <para />
+    <para>9.7. De verdachte dient derhalve van het onder 2 tenlastegelegde te worden vrijgesproken."</para>
+    <para />
+    <para>3.4. De tenlastelegging is wat betreft feit 2 toegesneden op - voor zover hier van belang - art. 46, eerste lid, (oud) Sr. Daarom moeten de in de tenlastelegging voor-komende woorden "kennelijk bestemd" geacht worden aldaar te zijn gebezigd in dezelfde betekenis als daaraan toekomt in dat artikel.</para>
+    <para />
+    <parablock>
+      <para>3.5. Art. 46, eerste lid, (oud) Sr luidt:</para>
+      <para>"Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen kennelijk bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.6. De wetsgeschiedenis houdt ten aanzien van deze bepaling onder meer het volgende in:</para>
+      <para>"Onder "voorwerpen" moeten zelfstandige zaken worden verstaan die, al of niet in gezamenlijkheid beschouwd, kennelijk dienstig zijn aan een crimineel doel. Zij behoeven niet noodzakelijk reeds een kenbaar instrumenteel karakter te hebben op het moment dat de overheid tussenbeide komt."</para>
+      <para>(Kamerstukken II 1990-1991, 22 268, nr. 3, blz. 16)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"De gebezigde middelen moeten kennelijk bestemd zijn tot het criminele doel. De misdadige bestemming moet voor de gemiddelde rechtsgenoot, gelet op de omstandigheden waaronder de middelen werden gebruikt en aangetroffen, in het oog springen. Het wederrechtelijkheidsgehalte van de verboden gedraging wordt uiteraard bij de voorbereidingshandeling ontleend aan het uiteindelijk voorgestelde doel en niet zoals bij het voltooide delict - aan het gevolg. Dit betekent dat de causaliteit die bij de poging en het volkomen delict zo'n grote rol speelt hier vrijwel buiten spel staat en dat haar functie wordt overgenomen door de finaliteit van de daad."</para>
+      <para>(Kamerstukken II 1990-1991, 22 268, nr. 3, blz. 18)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"Het Nederlandse strafrecht verplicht bijna nooit, ter vestiging van de aansprakelijkheid, naspeuringen te doen naar motieven, emoties en finale doelstellingen van daders. Maar bij de onvolkomen delictsvormen wel, omdat, wat ontbreekt aan objectieve bestanddelen bij de beredenering van de rechtsgrond van de strafrechtelijke reactie, min of meer gecompenseerd wordt door de subjectieve, die daarom ook zwaarder aangezet worden. De delictsfactoren werken hier om zo te zeggen als "communicerende vaten"."</para>
+      <para>(Kamerstukken II 1991-1992, 22 268, nr. 5, blz. 19)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"Bij de strafbaarstelling van de voorbereidingshandeling speelt zeker mede een rol dat de rechtsgenoten aan de dader hebben bemerkt, dat hij tot het begaan van een ernstig misdrijf zeer goed in staat is en daartoe zelfs al aanstalten heeft gemaakt.</para>
+      <para>Hij is halverwege gestopt. Het feit, dat niets ondernomen wordt tegen iemand die van een dergelijke gezindheid heeft doen blijken, valt moeilijk te verwerken en verhoogt gevoelens van onveiligheid. Ik zou het bepaald niet juist achten dat enig criterium voor strafbaarstelling zou moeten zijn: concrete schade voor een bijzonder persoon of benadeling van de publieke kas." </para>
+      <para>(Kamerstukken II 1991-1992, 22 268, nr. 5, blz. 24)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>"Mede daarom ben ik in het voorgaande dieper ingegaan op het leerstuk van de "strafbare poging" ingevolge artikel 45 van het Wetboek van Strafrecht. Terwijl het "begin van uitvoering" moet worden gereconstrueerd onafhankelijk van de achterliggende intentie van de dader - daarop komt de objectivistische rechtspraak ten slotte neer - zal dat bij de "voorbereidingsdaad" niet zo zijn. Hier zal de handeling moeten worden beschouwd als symptoom van de achterliggende criminele wilsgerichtheid. De daad moet de vastheid van het voornemen om tot een strafbaar feit te komen tekenen." </para>
+      <para>(Kamerstukken II 1992-1993, 22 268, nr. 7, blz. 14)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.7. Bij de beantwoording van de vraag of de in art. 46, eerste lid, (oud) Sr vermelde voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen (hierna gezamenlijk ook als 'voorwerpen' aan te duiden), afzonderlijk of gezamenlijk, naar hun uiterlijke verschijningsvorm "kennelijk bestemd" zijn tot het begaan van het misdrijf in de zin van deze bepaling, kan, naar mede volgt uit de vorenweergegeven wetsgeschiedenis, niet worden geabstraheerd van het misdadige doel dat de verdachte met het gebruik van die voorwerpen voor ogen had.</para>
+      <para>Het Hof, dat heeft overwogen aan de terroristische intentie van de verdachte niet te twijfelen, heeft geoordeeld dat de in de tenlastelegging opgesomde voorwerpen, stoffen en informatiedragers die de verdachte heeft vervaardigd of voorhanden heeft gehad, niet kennelijk bestemd zijn tot voorbereiding van een aanslag zoals tenlastegelegd, omdat die voorwerpen die bestemming in objectieve zin redelijkerwijs niet kunnen hebben. Daarmee heeft het Hof kennelijk als maatstaf aangelegd of die voorwerpen naar hun aard of hun concreet dan wel acuut gevaarzettend karakter daadwerkelijk zouden kunnen bijdragen aan het begaan van dat misdrijf.</para>
+      <para>Aldus heeft het Hof blijk gegeven van een te beperkte en dus onjuiste opvatting omtrent art. 46, eerste lid, (oud) Sr. Het Hof heeft immers nagelaten te beoordelen of deze voorwerpen, afzonderlijk dan wel gezamenlijk naar hun uiterlijke verschijningsvorm ten tijde van het handelen dienstig kunnen zijn voor het misdadige doel dat de verdachte met het gebruik van de voorwerpen voor ogen had.</para>
+    </parablock>
+    <para />
+    <para>3.8. Het Hof is bij zijn beraadslaging en beslissing met betrekking tot het onder 2 tenlastegelegde dus uitgegaan van een onjuiste opvatting omtrent de betekenis die moet worden toegekend aan de woorden "kennelijk bestemd". Het heeft aldus de grondslag van de tenlastelegging verlaten en de verdachte vrijgesproken van iets anders dan was tenlastegelegd.</para>
+    <para />
+    <para>3.9. Het middel is terecht voorgesteld.</para>
+    <para />
+    <para>4. Slotsom</para>
+    <para />
+    <para>Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak, voor zover aan het oordeel van de Hoge Raad onderworpen, niet in stand kan blijven en als volgt moet worden beslist.</para>
+    <para />
+    <para>5. Beslissing</para>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>Vernietigt de bestreden uitspraak, voor zover aan zijn oordeel onderworpen;</para>
+      <para>Verwijst de zaak naar het Gerechtshof te Amsterdam, opdat de zaak wat betreft het onder 2 tenlastegelegde op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president G.J.M. Corstens als voorzitter, en de raadsheren J.P. Balkema, A.J.A. van Dorst, W.A.M. van Schendel en W.M.E. Thomassen, in bijzijn van de griffier S.P. Bakker, en uitgesproken op 20 februari 2007.</para>
+  </uitspraak>
+</open-rechtspraak>

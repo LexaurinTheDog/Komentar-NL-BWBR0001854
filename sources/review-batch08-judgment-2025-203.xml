@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2025:203</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-06-17T11:46:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-02-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">23/04021</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2024:1302" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2024:1302</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHAMS:2023:2501" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHAMS:2023:2501</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2025-0053</rdf:li>
+          <rdf:li>NJB 2025/429</rdf:li>
+          <rdf:li>NJ 2025/79</rdf:li>
+          <rdf:li>RvdW 2025/291</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:203">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2025:203</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-02-10T14:21:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2025:203 Hoge Raad , 11-02-2025 / 23/04021</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2025:203:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Jeugdzaak. Voorbereiding van medeplegen diefstal met geweld (art. 312.2.2 Sr). Beroep op vrijwillige terugtred, art. 46b Sr. Hof heeft beroep op “vrijwillige terugtred” (dus beroep op onvoltooid blijven van tlgd. misdrijf door omstandigheden die afhankelijk waren van wil van verdachte) verworpen. Daartoe heeft hof overwogen dat verdachte samen met zijn mededader ’s nachts lange tijd heeft rondgereden met voorwerpen (bivakmutsen, handschoenen en machete) die konden worden gebruikt voor beoogde straatroof, zonder zich op enig moment van die voorwerpen te ontdoen. In dat verband heeft hof vastgesteld dat verdachte en zijn mededader deze voorwerpen nog steeds voorhanden hadden op moment dat zij door politie werden aangehouden. Hof heeft verder geoordeeld dat het “enkele doorrijden van verdachte in Vinkeveen nadat ze potentieel slachtoffer hadden gevonden, i.p.v. daar en toen te stoppen” niet toereikend is om te kunnen concluderen dat sprake is geweest van vrijwillige terugtred. Een en ander geeft niet blijk van onjuiste rechtsopvatting, en is niet onbegrijpelijk. Dat wordt niet anders door onjuistheid van overweging van hof dat omstandigheid dat verdachte van Abcoude naar Vinkeveen is doorgereden omdat in Abcoude op dat moment geen potentiële slachtoffers te vinden waren, “een van buiten komende omstandigheid was die maakt dat van vrijwillige terugtred t.a.v. tlgd. geen sprake meer kon zijn”. Nu beoogd misdrijf nog niet had plaatsgevonden, hadden verdachte en zijn mededader immers ook na hun vergeefse rit door Vinkeveen nog vrijwillig kunnen terugtreden door, in woorden van MvT (bij art. 46b Sr), “te bewerken dat uitgesloten werd dat met behulp van hun voorbereidingshandelingen het aanvankelijk beoogde misdrijf nog zou worden begaan”. Onjuistheid van deze overweging doet echter niet af aan hiervoor besproken oordeel van hof dat verdachte van die (tot zijn aanhouding nog bestaande) mogelijkheid alsnog vrijwillig terug te treden, geen gebruik heeft gemaakt. </para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2025:203:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>23/04021 J</para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>11 februari 2025</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Amsterdam van 5 oktober 2023, nummer 23-001869-23, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 2008,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J. Kuijper, advocaat in Amsterdam, bij schriftuur cassatiemiddelen voorgesteld. </para>
+      <para>De advocaat-generaal T.N.B.M. Spronken heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het tweede cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over de verwerping door het hof van het beroep op vrijwillige terugtred als bedoeld in artikel 46b van het Wetboek van Strafrecht (hierna: Sr).</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is onder 1 bewezenverklaard dat:</para>
+          <para>“hij op 2 september 2022 te Amstelveen en Abcoude en Vinkeveen tezamen en in vereniging met een ander, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten een diefstal met geweld (straatroof), opzettelijk voorwerpen en vervoersmiddelen, te weten</para>
+          <para>- een auto en </para>
+          <para>- een bivakmuts en</para>
+          <para>- een paar handschoenen en</para>
+          <para>- een machete</para>
+          <para>bestemd tot het begaan van dat misdrijf, voorhanden heeft gehad.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op onder meer de volgende bewijsmiddelen:</para>
+          <para>“1. De verklaring van de verdachte, afgelegd ter terechtzitting in hoger beroep van 21 september 2023. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deze verklaring houdt in, voor zover van belang en zakelijk weergegeven: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Op 2 september 2022 stapte ik in de auto van mijn moeder om medeverdachte [medeverdachte] (hierna: [medeverdachte] ) op te halen. Toen hij in de auto stapte had hij een machete aan zijn heup gebonden. Hierdoor kon [medeverdachte] niet goed gaan zitten. Ik heb de machete toen even vastgehouden waarna ik de machete aan [medeverdachte] heb teruggegeven. Ik ben vervolgens met de auto gaan rijden. Toen we ter hoogte van Ouderkerk op de snelweg reden kwam [medeverdachte] met het idee iemand te beroven. Ik heb gezegd dat dit prima was. In Abcoude hebben wij rustig in het donker een rondje gereden. Toen zijn we richting Vinkeveen gereden waar we iemand zagen lopen. Toen zijn we doorgereden naar Amstelveen. We hadden twee bivakmutsen bij ons. Hij had een zwarte bivakmuts die hij de hele tijd op had en ik had er een achterin liggen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Een proces-verbaal met nummer PL1300-2022184618-5 van 2 september 2022, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 1] en [verbalisant 2] , doorgenummerde pagina’s 5-8. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergegeven, als verklaring van [verbalisant 1] en [verbalisant 2] : </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>“Op vrijdag 2 september 2022 omstreeks 01.30 uur stonden wij, verbalisanten, in een opvallend dienstvoertuig en stil op het Stadsplein te Amstelveen. Op een gegeven moment zagen wij beide een auto onze kant op komen rijden. Ik zag dat er twee (2) jonge jongens uit het voertuig stapte. Ik zag in de politiesystemen dat [verdachte] veertien (14) jaar oud was. Ik opende de achterste bijrijder portier. Ik zag achter de bijrijdersstoel een voorwerp liggen welk ik ambtshalve herken als ‘machete’. Ik, verbalisant [verbalisant 1] trof voor de bestuurderstoel een witte bivakmuts aan.” </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Een proces-verbaal van verhoor minderjarige verdachte met nummer PL1300-2022184618-13 van 2 september 2022, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 3] en [verbalisant 4] , doorgenummerde pagina’s 55-63.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergeven, als de op 2 september 2022 tegenover verbalisanten afgelegde verklaring van [verdachte] : </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>“Ik had [medeverdachte] een appje gestuurd van kom je een rondje rijden rond 24.00 uur. Ik ben toen naar zijn huis gegaan en toen kwam hij uit de flat en stapt in bij mij. Hij had toen een bivakmuts, handschoenen en een machete bij zich. Ik zag die Machete eerst niet hij zat in zijn broeksband. We reden over de snelweg, en gingen eraf bij Ouderkerk en hij ik de auto aan de kant gezet en toen pakte hij het mes uit zijn broeksband. Ik mocht hem vasthouden, ik had nog nooit eerder zo’n mes vastgehouden. Ongeveer toen zei hij kom we gaan iemand beroven. We gaan naar Abcoude en dan kijken we of we iemand zien lopen met een Canada Goose jas en dan gaan we die beroven. Ik zei is goed toen zijn we naar Abcoude gegaan maar daar was niemand. Toen zijn we naar Vinkeveen gereden. Daar zagen we een man met een Louis Vuitton tas lopen bij de Albert Heijn. [medeverdachte] zei hier is een man die kunnen we wel aan. Ik zei ja die kunnen we inderdaad wel aan. [medeverdachte] deed zijn raam open en ik reed langs de man maar ik ben niet gestopt maar doorgereden.” </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. Een proces-verbaal van verhoor minderjarige verdachte met nummer PL1300-2022184618-13 van 2 september 2022, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 3] en [verbalisant 4] , doorgenummerde pagina’s 69-76. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dit proces-verbaal houdt in, voor zover van belang en zakelijk weergeven, als de op 2 september 2022 tegenover verbalisanten afgelegde verklaring van [medeverdachte]: </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>A: Hij belde mij op, hij wist dat ik zo’n mes had. Hij vroeg mij laat me dat mes nou eens zien. Ik heb toen ik uit mijn flat kwam het mes meegenomen uit mijn box. </para>
+          <para>V: Dus je stapt in en laat hem zien? </para>
+          <para>A: Ja ik heb hem meteen laten zien dat ik instapte. Hij heeft hem ook vast gehouden. </para>
+          <para>V: Jij zou een machete, een bivakmuts en handschoenen bij je gehad hebben toen je de auto instapte.</para>
+          <para>A: Ik had de handschoenen bij me.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Het hof heeft het in het cassatiemiddel bedoelde verweer als volgt verworpen:</para>
+          <para>“Subsidiair heeft de raadsvrouw ontslag van alle rechtsvervolging bepleit. De raadsvrouw heeft daartoe aangevoerd dat sprake is van vrijwillige terugtred. Om intrinsieke redenen heeft de verdachte besloten de auto niet tot stilstand te brengen bij het zien van de persoon met een Louis Vuittontas in Vinkeveen. Er is derhalve geen sprake van een onder invloed van uitwendige prikkels genomen besluit. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De advocaat-generaal heeft zich op het standpunt gesteld dat geen sprake is van vrijwillige terugtred. De voorbereidingshandelingen waren al voltooid toen de in de tenlastelegging genoemde voorwerpen in de auto werden meegenomen met als doel een straatroof te plegen. Er was dus geen ruimte meer voor vrijwillige terugtred. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof oordeelt als volgt over het verweer. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Of gedragingen van de verdachte toereikend zijn om te kunnen concluderen dat het misdrijf niet is voltooid ten gevolge van omstandigheden die van zijn wil afhankelijk zijn, hangt - mede gelet op de aard van het misdrijf - af van de concrete omstandigheden van het geval. Voor het bewijs van het opgeven van de plannen zal veelal een doen noodzakelijk zijn, bijvoorbeeld het zich ontdoen van reeds bijeengebrachte spullen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof oordeelt dat er sprake is van voltooide voorbereidingshandelingen. Naar oordeel van het hof behelst het dossier geen enkele objectieve aanwijzing dat de verdachte op enig moment op zijn schreden heeft willen terugkeren. De verdachte heeft een lange tijd rondgereden met middelen die konden worden gebruikt voor de beoogde straatroof, zonder zich op enig moment van (een of meerdere van) die middelen te ontdoen. Het enkele doorrijden van de verdachte in Vinkeveen nadat ze een potentieel slachtoffer hadden gevonden, in plaats van daar en toen te stoppen, is niet toereikend om te kunnen concluderen dat sprake is geweest van vrijwillige terugtred. Daarbij merkt het hof op dat de verdachte van Abcoude naar Vinkeveen was doorgereden omdat in Abcoude op dat moment geen potentiële slachtoffers te vinden waren. Reeds dat is een van buiten komende omstandigheid die maakt dat van vrijwillige terugtred ten aanzien van het tenlastegelegde geen sprake meer kon zijn. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof verwerpt derhalve het beroep op vrijwillige terugtred.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>De volgende wettelijke bepalingen zijn van belang.</para>
+          <para>- Artikel 46 lid 1 Sr:</para>
+          <para>“Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.”</para>
+          <para>- Artikel 46b Sr:</para>
+          <para>“Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de wet van 27 januari 1994 tot wijziging van het Wetboek van Strafrecht inzake algemene strafbaarstelling van voorbereidingshandelingen, Stb. 1994, 60, houdt over straffeloosheid bij voorbereiding bij gebleken vrijwillige terugtred in:</para>
+          <para>“Bij vrijwillige terugtred is er niet langer sprake van een «feit» in de rechtsorde dat primaire rechtsgrond is voor strafrechtelijke aansprakelijkheid. Treedt de voorbereider vrijwillig terug – door te bewerken dat uitgesloten is dat met behulp van zijn voorbereidingshandelingen het aanvankelijk beoogde misdrijf nog begaan wordt – dan is het wederrechtelijkheidsgehalte van zijn daad zo gering dat een strafrechtelijke reactie onmogelijk behoort te zijn.”</para>
+          <para>(Kamerstukken II 1990/91, 22268, nr. 3, p. 4.) </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Het hof heeft het beroep op ‘vrijwillige terugtred’ – dus het beroep op het onvoltooid blijven van het tenlastegelegde misdrijf door omstandigheden die afhankelijk waren van de wil van de verdachte – verworpen. Daartoe heeft het hof overwogen dat de verdachte samen met zijn mededader ’s nachts een lange tijd heeft rondgereden met voorwerpen (bivakmutsen, handschoenen en een machete) die konden worden gebruikt voor een beoogde straatroof, zonder zich op enig moment van die voorwerpen te ontdoen. In dat verband heeft het hof vastgesteld dat de verdachte en zijn mededader deze voorwerpen nog steeds voorhanden hadden op het moment dat zij door de politie werden aangehouden. Het hof heeft verder geoordeeld dat het “enkele doorrijden van de verdachte in Vinkeveen nadat ze een potentieel slachtoffer hadden gevonden, in plaats van daar en toen te stoppen” niet toereikend is om te kunnen concluderen dat sprake is geweest van een vrijwillige terugtred. Een en ander geeft niet blijk van een onjuiste rechtsopvatting, en is niet onbegrijpelijk. Daardoor kunnen de klachten van het cassatiemiddel die zich keren tegen de verwerping van het beroep op vrijwillige terugtred niet tot cassatie leiden.<?linebreak?>Dat wordt niet anders doordat het cassatiemiddel terecht wijst op de onjuistheid van de overweging van het hof dat de omstandigheid dat de verdachte van Abcoude naar Vinkeveen is doorgereden omdat in Abcoude op dat moment geen potentiële slachtoffers te vinden waren, “een van buiten komende omstandigheid was die maakt dat van vrijwillige terugtred ten aanzien van het tenlastegelegde geen sprake meer kon zijn”. Nu het beoogde misdrijf nog niet had plaatsgevonden, hadden de verdachte en zijn mededader immers ook na hun vergeefse rit door Vinkeveen nog vrijwillig kunnen terugtreden door, in de woorden van de memorie van toelichting, “te bewerken dat uitgesloten werd dat met behulp van hun voorbereidingshandelingen het aanvankelijk beoogde misdrijf nog zou worden begaan”. De onjuistheid van deze overweging doet echter niet af aan het hiervoor besproken oordeel van het hof dat de verdachte van die – tot zijn aanhouding nog bestaande – mogelijkheid alsnog vrijwillig terug te treden, geen gebruik heeft gemaakt.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel is tevergeefs voorgesteld.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het eerste cassatiemiddel </title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren Y. Buruma en T.B. Trotman, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">11 februari 2025</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

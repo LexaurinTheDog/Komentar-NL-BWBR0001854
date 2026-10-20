@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 288,
+  "local_links_checked": 341,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -13,10 +13,16 @@
     "https://github.com/LexaurinTheDog",
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AF7938",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AZ2169",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ0213",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BP6878",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BX6734",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:3474",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:3689",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:456",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:733",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:1111",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:66",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1156",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:202",
@@ -29,8 +35,11 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:1295",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:509",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:119",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:203",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
-    "https://zoek.officielebekendmakingen.nl/stb-2025-401.html"
+    "https://zoek.officielebekendmakingen.nl/stb-2025-401.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2026-20.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2026-81.html"
   ],
   "ok": true
 }
