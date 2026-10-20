@@ -108,7 +108,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 517355,
+    "commentary_chars": 517532,
     "errors": [
       "krátký/chybějící komentář u 472 jednotek: ['a138aa(0<400)', 'a138ab(0<400)', 'a138b(0<400)', 'a138c(0<400)', 'a139(0<400)', 'a139a(0<400)', 'a139b(0<400)', 'a139c(0<400)']"
     ],
@@ -153,7 +153,7 @@
     "bounded_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T19:35:49.246581+00:00",
+  "validation_checked_at": "2026-10-20T21:46:04.477585+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -895,7 +895,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 517355,
+    "commentary_chars": 517532,
     "errors": [
       "krátký/chybějící komentář u 472 jednotek: ['a138aa(0<400)', 'a138ab(0<400)', 'a138b(0<400)', 'a138c(0<400)', 'a139(0<400)', 'a139a(0<400)', 'a139b(0<400)', 'a139c(0<400)']"
     ],
