@@ -66,20 +66,20 @@
       "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
       "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
     ],
-    "recorded_at": "2026-10-20T17:00:26.990000+00:00",
+    "recorded_at": "2026-10-20T17:07:54.706724+00:00",
     "returncode": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
     "ok": false,
     "full_inventory_unchanged": true,
-    "task_scope": "Independent second reading of exactly 20 assigned units 38h–38ij; existing 548-unit authoring deficit is outside assignment.",
-    "checkpoint_renderer": "_render_checkpoint.py renders the 264 existing comments as an explicitly incomplete checkpoint; no full-build success claimed."
+    "task_scope": "Independent review of exactly20 assigned units38z–45;548 pre-existing missing commentaries outside scope.",
+    "checkpoint_renderer": "_render_checkpoint.py renders264 existing commentaries as an explicitly incomplete checkpoint; no full-build success claimed."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 279867,
+    "commentary_chars": 284336,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -93,7 +93,7 @@
     "Case-law research and external cross-reference research remain selective.",
     "Second pass comprises seven disjoint20-unit batches:140 reviewed,672 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T17:06:59.890171+00:00",
+  "updated_at": "2026-10-20T17:09:25.566357+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T17:02:36.366929+00:00",
@@ -109,7 +109,7 @@
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
     "bounded_recheck": "sources/review-batch07-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T17:01:10.271909+00:00",
+  "validation_checked_at": "2026-10-20T17:09:25.566357+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -147,7 +147,16 @@
     "unresolved_blockers": [],
     "report": "review-result.json",
     "source_preflight": "sources/review-batch07-version-evidence.json",
-    "reviewed_at": "2026-10-20T17:06:59.890171+00:00"
+    "reviewed_at": "2026-10-20T17:06:59.890171+00:00",
+    "technical_validation": {
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_ok": true,
+      "all20_present": true,
+      "full_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 548
+    }
   },
   "prior_bounded_reviews": [
     {

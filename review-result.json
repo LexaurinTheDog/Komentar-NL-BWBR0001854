@@ -594,5 +594,43 @@
     ],
     "qualitative_assessment": "Read all20 blocks individually against source and examples. Seven additions target distinct legal issues. Eight wholly repealed slots preserve specific documentary/structural warnings without resurrecting former rules. No common generated paragraph substituted."
   },
-  "validation_scope": "Shared unchanged full inventory/validator, with substantive review restricted to exact20 IDs."
+  "validation_scope": "Shared unchanged full inventory/validator, with substantive review restricted to exact20 IDs.",
+  "technical_validation": {
+    "full_shared_build": {
+      "command": [
+        "python3",
+        "-B",
+        "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+        "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
+      ],
+      "recorded_at": "2026-10-20T17:07:54.706724+00:00",
+      "returncode": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
+      "ok": false,
+      "full_inventory_unchanged": true,
+      "task_scope": "Independent review of exactly20 assigned units38z–45;548 pre-existing missing commentaries outside scope.",
+      "checkpoint_renderer": "_render_checkpoint.py renders264 existing commentaries as an explicitly incomplete checkpoint; no full-build success claimed."
+    },
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0001854",
+      "units": 812,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 284336,
+      "errors": [
+        "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "checked_at": "2026-10-20T17:09:25.566357+00:00",
+    "bounded_review_units": 20,
+    "all20_commentaries_present_and_above_technical_minimum": true,
+    "complete_statutory_inventory": true,
+    "raw_xml_agreement": true,
+    "local_links_checked": 288,
+    "broken_local_links": [],
+    "exact_repeated_paragraphs": [],
+    "scope_limitation": "Full build/validation fail solely because548 commentaries outside assigned review are missing; no validator weakened. Technical checks do not prove legal quality."
+  }
 }
