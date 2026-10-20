@@ -1,0 +1,46 @@
+{
+  "complete": true,
+  "scope": [
+    "a194",
+    "a195",
+    "a196",
+    "a197",
+    "a197a",
+    "a197b",
+    "a197c",
+    "a197d",
+    "a198",
+    "a199",
+    "a200",
+    "a201",
+    "a202",
+    "a203",
+    "a204",
+    "a205",
+    "a206",
+    "a207",
+    "a207a",
+    "a207b"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-20T22:33:38.849007+00:00",
+  "version_evidence": "sources/author-a194-a207b-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "historical_change_map": "sources/author-a194-a207b-historical-change-map.json",
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-a194-a207b-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "coverage": "sources/author-a194-a207b-coverage.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "wetten.overheid.nl page fetch results recorded separately; official BWB XML/manifest/WTI are decisive source evidence."
+  ]
+}

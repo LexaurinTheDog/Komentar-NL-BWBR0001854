@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_authoring_checkpoint",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -18,20 +18,20 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T19:34:03.959061+00:00",
+    "rechecked_at": "2026-10-20T22:40:06.439087+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "HTTP200, full genuine dated official HTML preserved; confirms effective from 2026-07-01 to heden.",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "sources/author-a181-a193-version-evidence.json"
+    "bounded_author_recheck": "sources/author-a194-a207b-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 440,
-  "completed_scope": "Aanhef, Eerste Boek and official article slots92–193 including inserted/repealed places.",
-  "remaining_units": 372,
-  "next_unit": "a194",
-  "commentary_chars": 685600,
+  "completed_units": 460,
+  "completed_scope": "Aanhef, Eerste Boek and official article slots92–207b including inserted/repealed places.",
+  "remaining_units": 352,
+  "next_unit": "a208",
+  "commentary_chars": 724301,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -141,7 +141,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:32:23.525217+00:00",
+  "updated_at": "2026-10-20T22:40:06.439087+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -868,91 +868,31 @@
   "second_pass_total_reviewed_units": 380,
   "second_pass_remaining_units": 432,
   "bounded_author": {
-    "kind": "author",
     "complete": true,
-    "whole_book_complete": false,
     "ids": [
-      "a157",
-      "a158",
-      "a159",
-      "a160",
-      "a161",
-      "a161bis",
-      "a161ter",
-      "a161quater",
-      "a161quinquies",
-      "a161sexies",
-      "a161septies",
-      "a162",
-      "a162a",
-      "a163",
-      "a164",
-      "a165",
-      "a166",
-      "a167",
-      "a168",
-      "a169"
+      "a194",
+      "a195",
+      "a196",
+      "a197",
+      "a197a",
+      "a197b",
+      "a197c",
+      "a197d",
+      "a198",
+      "a199",
+      "a200",
+      "a201",
+      "a202",
+      "a203",
+      "a204",
+      "a205",
+      "a206",
+      "a207",
+      "a207a",
+      "a207b"
     ],
-    "completed_units": 20,
-    "independent_second_pass": false,
-    "source_evidence": "sources/author-a157-a169-version-evidence.json",
-    "coverage": "sources/author-a157-a169-coverage.json",
-    "commentary_chars": {
-      "a157": 1861,
-      "a158": 1615,
-      "a159": 1570,
-      "a160": 1567,
-      "a161": 1633,
-      "a161bis": 1572,
-      "a161ter": 1619,
-      "a161quater": 1614,
-      "a161quinquies": 1661,
-      "a161sexies": 1725,
-      "a161septies": 1655,
-      "a162": 1532,
-      "a162a": 1583,
-      "a163": 1581,
-      "a164": 1661,
-      "a165": 1561,
-      "a166": 1568,
-      "a167": 1556,
-      "a168": 1626,
-      "a169": 2016
-    },
-    "case_law_sources": [
-      "ECLI:NL:HR:2009:BH0594",
-      "ECLI:NL:HR:2011:BN9287"
-    ],
-    "limitations": [
-      "Selective case law; 18 units without retained case authority.",
-      "Fresh independent legal second pass pending.",
-      "Remaining book commentary outside this bounded assignment."
-    ],
-    "authored_at": "2026-10-20T22:13:19.983299+00:00",
-    "technical_validation": {
-      "all20_present_and_rendered": true,
-      "statutory_text_agreement": 1.0,
-      "official_inventory_complete": true,
-      "expected_and_parsed_units": 812,
-      "local_links_ok": true,
-      "local_links_checked": 836,
-      "exact_repeated_paragraphs": 0,
-      "full_shared_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 412
-    },
-    "validation_result": {
-      "repo": "Komentar-NL-BWBR0001854",
-      "units": 812,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 615884,
-      "errors": [
-        "krátký/chybějící komentář u 412 jednotek: ['a170(0<400)', 'a171(0<400)', 'a172(0<400)', 'a173(0<400)', 'a173a(0<400)', 'a173b(0<400)', 'a174(0<400)', 'a175(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "validated_at": "2026-10-20T22:13:56.893394+00:00"
+    "result": "author-a194-a207b-result.json",
+    "independent_review_pending": true
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -1091,6 +1031,35 @@
       ],
       "complete": true,
       "result": "author-a181-a193-result.json",
+      "independent_review_pending": true
+    }
+  ],
+  "author_batches": [
+    {
+      "complete": true,
+      "ids": [
+        "a194",
+        "a195",
+        "a196",
+        "a197",
+        "a197a",
+        "a197b",
+        "a197c",
+        "a197d",
+        "a198",
+        "a199",
+        "a200",
+        "a201",
+        "a202",
+        "a203",
+        "a204",
+        "a205",
+        "a206",
+        "a207",
+        "a207a",
+        "a207b"
+      ],
+      "result": "author-a194-a207b-result.json",
       "independent_review_pending": true
     }
   ]

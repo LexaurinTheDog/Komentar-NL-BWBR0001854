@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:1893</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T20:46:13</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/03472</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2020:935" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2020:935</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHAMS:2017:1687" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHAMS:2017:1687</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0384</rdf:li>
+          <rdf:li>NJB 2020/3060</rdf:li>
+          <rdf:li>RvdW 2021/13</rdf:li>
+          <rdf:li>NJ 2021/399 met annotatie van K.K. Lindenberg</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1893">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:1893</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-30T13:12:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:1893 Hoge Raad , 01-12-2020 / 17/03472</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:1893:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Als vreemdeling in Nederland verblijven terwijl hij weet dat tegen hem inreisverbod is uitgevaardigd, art. 197 Sr. Art. 11.2 terugkeerrichtlijn. 1. Is strafvervolging t.z.v. art. 197 Sr mogelijk tegen illegale vreemdeling tegen wie inreisverbod is uitgevaardigd, zolang hij Nederland nog niet heeft verlaten? 2. Kwalificatieklacht. Bestanddeel dat verdachte “wist of ernstige reden had te vermoeden” dat tegen hem inreisverbod was uitgevaardigd ontbreekt in bewezenverklaring.</para>
+        <para>Ad 1. Gelet op de in art. 197 Sr gebruikte woorden “dat inreisverbod is uitgevaardigd” en wetsgeschiedenis bij art. 197 Sr, ziet deze bepaling op illegaal verblijf in weerwil van uitvaardiging van inreisverbod en niet slechts op illegaal verblijf na schending van dat verbod. HR onderschrijft aldus uitleg van deze bepaling, zoals vermeld in arrest van HvJEU (ECLI:EU:C:2020:724). Dat in wetsgeschiedenis daarnaast ten onrechte ook enkele malen wordt gesproken over “overtreding van  inreisverbod” doet daaraan niet af. Het hiervoor bedoelde verblijf is (als het in wetsgeschiedenis genoemde ‘gekwalificeerd illegaal verblijf’) strafbaar wanneer verdachte weet of ernstige reden heeft te vermoeden dat tegen hem inreisverbod is uitgevaardigd. I.h.b. stelt art. 197 Sr niet als voorwaarde voor strafrechtelijke aansprakelijkheid dat verdachte na uitgevaardigd inreisverbod grondgebied van EU heeft verlaten zodat inreisverbod ook daadwerkelijk is ingegaan. Evenmin stelt deze bepaling als voorwaarde dat gegeven inreisverbod is geschonden doordat verdachte (na verlaten van EU) in strijd met inreisverbod EU weer is binnengekomen. V.zv. middel betoogt dat hiervoor gegeven uitleg van art. 197 Sr in strijd is met terugkeerrichtlijn, berust het op onjuiste rechtsopvatting gelet op hiervoor genoemd arrest van HvJEU. Gelet op bewoordingen van art. 197 Sr en wetsgeschiedenis bij die bepaling, voorziet art. 197 Sr in toegankelijke, nauwkeurige en voorzienbare strafbaarstelling van “gekwalificeerd illegaal verblijf”, zodat deze voldoet aan vereisten van art. 49.1 Handvest van grondrechten van EU en art. 7.1 EVRM. Daarbij is van belang dat art. 197 Sr niet schending van gegeven inreisverbod strafbaar stelt of bij omschrijving van strafbaar gesteld gedrag verwijst naar schending van dat verbod maar slechts uitvaardiging ervan. </para>
+        <para>Ad 2. In aanmerking genomen dat bewezenverklaring niet bestanddeel bevat dat verdachte “wist of ernstige reden had te vermoeden” dat inreisverbod tegen hem was uitgevaardigd, heeft hof bewezenverklaarde ten onrechte gekwalificeerd als “als vreemdeling in Nederland verblijven, terwijl hij weet, dat tegen hem inreisverbod is uitgevaardigd met toepassing van art. 66a.7 Vreemdelingenwet 2000”. </para>
+        <para>Volgt vernietiging en terugwijzing. Vervolg op ECLI:NL:HR:2018:2192 (prejudiciële vraag aan HvJEU).</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:1893:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	17/03472 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		1 december 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Amsterdam van 4 mei 2017, nummer 23/000266-16, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte], </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1969,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor het procesverloop tot zover verwijst de Hoge Raad naar zijn arrest van 27 november 2018, ECLI:NL:HR:2018:2192. Bij dit arrest heeft de Hoge Raad het Hof van Justitie van de Europese Unie (hierna: HvJEU) verzocht uitspraak te doen over de in dat arrest onder 6 omschreven vraag.</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <parablock>
+        <para>Bij arrest van 17 september 2020, ECLI:EU:C:2020:724, heeft het HvJEU in de zaak C‑806/18 het volgende overwogen:</para>
+        <para>“Beantwoording van de prejudiciële vraag</para>
+        <para>23 Met zijn vraag wenst de verwijzende rechter in wezen te vernemen of richtlijn 2008/115, met name artikel 11 ervan, aldus moet worden uitgelegd dat zij zich verzet tegen een regeling van een lidstaat die bepaalt dat een gevangenisstraf kan worden opgelegd aan een illegaal verblijvende derdelander jegens wie de stappen van de bij die richtlijn ingestelde terugkeerprocedure zijn doorlopen zonder dat de betrokkene het grondgebied van de lidstaten daadwerkelijk heeft verlaten, wanneer het strafbaar gestelde gedrag is omschreven als illegaal verblijf terwijl de betrokkene kennis heeft van een inreisverbod dat is uitgevaardigd met name vanwege de strafrechtelijke antecedenten van de betrokkene of vanwege het gevaar dat hij vormt voor de openbare orde of de nationale veiligheid. In dat verband vraagt de verwijzende rechter zich onder meer af wat de consequenties zijn van het arrest van 26 juli 2017, Ouhrami (C‑225/16, EU:C:2017:590).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>24 In dat verband moet er in de eerste plaats aan worden herinnerd dat richtlijn 2008/115 er volgens overweging 2 toe strekt om op basis van gemeenschappelijke normen een doeltreffend verwijderings- en terugkeerbeleid te ontwikkelen, zodat mensen op een humane manier, met volledige eerbiediging van hun grondrechten en waardigheid, teruggezonden kunnen worden. Volgens overweging 4 van deze richtlijn is een dergelijk doeltreffend terugkeerbeleid voorts een onmisbaar onderdeel van een gedegen migratiebeleid. Zoals blijkt uit zowel de titel als artikel 1 ervan stelt richtlijn 2008/115 daartoe „gemeenschappelijke normen en procedures” vast die door de lidstaten moeten worden toegepast bij de terugkeer van illegaal op hun grondgebied verblijvende onderdanen van derde landen (arresten van 28 april 2011, El Dridi, C‑61/11 PPU, EU:C:2011:268, punten 31 en 32, en 30 mei 2013, Arslan, C‑534, EU:C:2013:343, punt 42).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>25 Richtlijn 2008/115 heeft echter enkel betrekking op de terugkeer van illegaal verblijvende onderdanen van derde landen en heeft dus niet tot doel alle voorschriften van de lidstaten inzake het verblijf van vreemdelingen te harmoniseren. Bijgevolg verzet deze richtlijn zich er niet tegen dat illegaal verblijf in het recht van een lidstaat wordt aangemerkt als een strafbaar feit en dat daarop strafrechtelijke sancties worden gesteld om het plegen van een dergelijk strafbaar feit tegen te gaan en te bestraffen (arresten van 6 december 2011, Achughbabian, C‑329/11, EU:C:2011:807, punt 28, en 6 december 2012, Sagor, C‑430/11, EU:C:2012:777, punt 31).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>26 Volgens vaste rechtspraak mag een lidstaat niettemin geen strafrechtelijke bepalingen toepassen die de verwezenlijking van de door richtlijn 2008/115 nagestreefde doelstellingen in gevaar kunnen brengen en deze derhalve haar nuttig effect kunnen ontnemen. Het strafrecht en het strafprocesrecht behoren weliswaar in beginsel tot de bevoegdheid van de lidstaten, maar dit rechtsgebied kan desalniettemin worden beïnvloed door het Unierecht. Hoewel dus noch artikel 63, eerste alinea, punt 3, onder b), EG - bepaling die is overgenomen in artikel 79, lid 2, onder c), VWEU - noch de met name op basis van die bepaling in het EG-Verdrag vastgestelde richtlijn 2008/115 de strafrechtelijke bevoegdheid van de lidstaten op het gebied van illegale immigratie en illegaal verblijf uitsluit, moeten de lidstaten hun wetgeving op dat gebied zodanig inrichten dat de eerbiediging van het Unierecht wordt gewaarborgd (zie in die zin arresten van 28 april 2011, El Dridi, C‑61/11 PPU, EU:C:2011:268, punten 53‑55; 6 december 2011, Achughbabian, C‑329/11, EU:C:2011:807, punt 33, en 6 december 2012, Sagor, C‑430/11, EU:C:2012:777, punt 32).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>27 Het Hof heeft aldus geoordeeld dat richtlijn 2008/115 zich verzet tegen een regeling van een lidstaat waarbij illegaal verblijf wordt tegengegaan met strafrechtelijke sancties, voor zover op grond van deze regeling een gevangenisstraf kan worden opgelegd aan een onderdaan van een derde land die weliswaar illegaal op het grondgebied van die lidstaat verblijft en niet bereid is dit grondgebied vrijwillig te verlaten, maar op wie niet de in artikel 8 van deze richtlijn bedoelde dwangmaatregelen zijn toegepast en voor wie, in geval van vreemdelingenbewaring met het oog op de voorbereiding en de uitvoering van zijn verwijdering, de maximale duur van deze bewaring nog niet is verstreken (arrest van 6 december 2011, Achughbabian, C‑329/11, EU:C:2011:807, punt 50).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>28 Volgens het Hof sluit dat niet de bevoegdheid uit van de lidstaten om - eventueel strafrechtelijke - bepalingen vast te stellen of te handhaven die, met inachtneming van de beginselen van richtlijn 2008/115 en de doelstelling ervan, de situatie regelen waarin dwangmaatregelen niet hebben kunnen leiden tot verwijdering van een illegaal verblijvende onderdaan van een derde land. Deze richtlijn verzet zich dientengevolge niet tegen een nationale regeling op grond waarvan een gevangenisstraf kan worden opgelegd aan een onderdaan van een derde land jegens wie de bij die richtlijn ingestelde terugkeerprocedure is toegepast en die, zonder geldige reden om niet terug te keren, illegaal op het grondgebied van de betrokken lidstaat verblijft (arrest van 6 december 2011, Achughbabian, C‑329/11, EU:C:2011:807, punten 46, 48 en 50).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>29 Derhalve moet worden vastgesteld dat Nederland met toepassing van deze rechtspraak in beginsel in de wet de mogelijkheid kan opnemen om een onderdaan van een derde land een gevangenisstraf op te leggen in een situatie als in het hoofdgeding, waarin, volgens de gegevens in het verwijzingsarrest, de in richtlijn 2008/115 ingestelde terugkeerprocedure is doorlopen maar de betrokkene, zonder geldige reden om niet terug te keren, zijn illegale verblijf op het grondgebied voortzet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>30 In de tweede plaats moet worden onderzocht of het verenigbaar is met richtlijn 2008/115 dat de gedraging waardoor een dergelijk illegaal verblijf van een derdelander na vruchteloos doorlopen van de terugkeerprocedure strafbaar wordt, wordt omschreven door verwijzing naar het feit dat die derdelander er kennis van heeft dat er een inreisverbod tegen hem is uitgevaardigd, met name vanwege zijn strafrechtelijke antecedenten of vanwege het gevaar dat hij vormt voor de openbare orde of de nationale veiligheid.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>31 In dat verband moet erop worden gewezen dat een terugkeerbesluit ingevolge artikel 11, lid 1, van richtlijn 2008/115 gepaard gaat met een inreisverbod indien er geen termijn voor vrijwillig vertrek is toegekend of indien niet aan de terugkeerverplichting is voldaan. In alle andere gevallen kan een terugkeerbesluit gepaard gaan met een inreisverbod.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>32 In de punten 45 tot en met 51 van het arrest van 26 juli 2017, Ouhrami (C‑225/16, EU:C:2017:590), waarvan de verwijzende rechter zich afvraagt wat de strekking is, heeft het Hof in wezen opgemerkt dat uit de uitdrukking „inreisverbod”, de bewoordingen van artikel 3, punten 4 en 6, van richtlijn 2008/115 en de bewoordingen en het doel van artikel 11, lid 1, alsmede uit de opzet van de richtlijn - waarin een duidelijk onderscheid wordt gemaakt tussen het terugkeerbesluit en een eventueel verwijderingsbesluit, enerzijds, en het inreisverbod, anderzijds - voortvloeit dat een dergelijk verbod wordt geacht een terugkeerbesluit aan te vullen door het de betrokkene te verbieden gedurende een bepaalde tijd na zijn „terugkeer”, en dus na zijn vertrek van het grondgebied van de lidstaten, dat grondgebied opnieuw te betreden en er vervolgens te verblijven. Een eventueel inreisverbod vormt aldus een middel om de doeltreffendheid van het terugkeerbeleid van de Unie te vergroten, door te waarborgen dat gedurende een bepaalde periode na de verwijdering van een illegaal verblijvende derdelander, deze persoon niet legaal kan terugkeren op het grondgebied van de lidstaten. Voor het ingaan van een dergelijk verbod wordt dus verondersteld dat de betrokkene dat grondgebied eerst heeft verlaten.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>33 Daaruit volgt dat het illegale verblijf van een onderdaan van een derde land tot het tijdstip van de vrijwillige of gedwongen uitvoering van de terugkeerverplichting wordt beheerst door het terugkeerbesluit en niet door het inreisverbod, dat pas rechtsgevolgen teweegbrengt vanaf het tijdstip dat die onderdaan het grondgebied van de lidstaten daadwerkelijk verlaat.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>34 In een situatie als in het hoofdgeding, waarin de betrokkene Nederland na de vaststelling van het terugkeerbesluit niet heeft verlaten en aan de daarbij opgelegde terugkeerverplichting bijgevolg nooit is voldaan, bevindt deze betrokkene zich in een illegale situatie die voortvloeit uit een oorspronkelijk illegaal verblijf en niet uit een later illegaal verblijf dat het gevolg is van een overtreding van een inreisverbod in de zin van artikel 11 van richtlijn 2008/115 (zie in die zin arrest van 26 juli 2017, Ouhrami, C‑225/16, EU:C:2017:590, punt 55).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>35 In een dergelijke situatie kan de betrokkene niet worden bestraft wegens schending van een inreisverbod, aangezien een dergelijke schending nu juist ontbreekt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>36 Volgens JZ blijkt met name uit de ontstaansgeschiedenis van artikel 197 Sr dat deze bepaling enkel de schending van een inreisverbod beoogt te bestraffen en niet een oorspronkelijk illegaal verblijf. Indien dat daadwerkelijk het geval is - hetgeen de verwijzende rechter dient vast te stellen - zou richtlijn 2008/115, en in het bijzonder artikel 11 ervan, zich ertegen verzetten dat die nationale bepaling wordt toegepast in een situatie als in het hoofdgeding, waarin de betrokkene het grondgebied van de lidstaten nooit heeft verlaten.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>37 Volgens de Nederlandse regering daarentegen beoogt artikel 197 Sr elk illegaal verblijf te bestraffen van een derdelander indien die derdelander er kennis van heeft dat tegen hem een inreisverbod is uitgevaardigd, ongeacht of de betrokken derdelander dit verbod daadwerkelijk heeft geschonden. De Nederlandse wetgever heeft er namelijk voor gekozen met deze bepaling „gekwalificeerd illegaal verblijf” strafbaar te stellen, dat wil zeggen elk illegaal verblijf van een onderdaan van een derde land die weet of ernstige redenen heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, lid 7, Vw, terwijl „eenvoudig illegaal verblijf” naar Nederlands recht niet strafbaar is. Dat artikel 66a, lid 7, is van toepassing wanneer de derdelander bij onherroepelijk geworden rechterlijk vonnis is veroordeeld wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd, wanneer hij een gevaar vormt voor de openbare orde of de nationale veiligheid of een ernstige bedreiging in de zin van dat artikel 66a, lid 4, of wanneer ieder verblijf hem moet worden geweigerd ingevolge een verdrag of in het belang van de internationale betrekkingen van Nederland.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>38 Voor het geval de verwijzende rechter deze laatste uitlegging van artikel 197 Sr volgt, moet worden opgemerkt dat, voor zover het de lidstaten op grond van de in punt 28 van het onderhavige arrest aangehaalde rechtspraak in beginsel vrijstaat om aan iedere derdelander op wie de terugkeerprocedure is toegepast en die zonder geldige reden om niet terug te keren zijn illegaal verblijf op hun grondgebied voortzet, een gevangenisstraf op te leggen, het hun a fortiori vrijstaat een dergelijke straf op te leggen aan enkel die derdelanders die bijvoorbeeld strafrechtelijke antecedenten hebben of een gevaar vormen voor de openbare orde of de nationale veiligheid.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>39 Bovendien is het in beginsel niet onverenigbaar met richtlijn 2008/115, en in het bijzonder met artikel 11 ervan, dat het nationale recht voor de omschrijving van het strafbare gedrag van een derdelander verwijst naar zijn illegale verblijf in de betrokken lidstaat terwijl hij er kennis van heeft dat jegens hem een inreisverbod is uitgevaardigd wegens dergelijk gedrag of een dergelijk gevaar.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>40 Zoals in de punten 32 tot en met 36 van het onderhavige arrest is opgemerkt, heeft een inreisverbod echter geen gevolgen wanneer de terugkeerverplichting niet wordt nagekomen, zodat het niet kan worden geacht te zijn geschonden in een situatie als in het hoofdgeding, waarin de betrokkene het grondgebied van de lidstaten nooit heeft verlaten. Voor toepassing ervan in deze situatie kan de delictsomschrijving dus niet aldus worden verwoord dat een dergelijke schending er bestanddeel van is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>41 Tot slot is van belang dat strafrechtelijke sancties enkel kunnen worden opgelegd aan onderdanen van derde landen op wie de terugkeerprocedure is toegepast en die zonder geldige reden om niet terug te keren illegaal op het grondgebied van een lidstaat verblijven indien de fundamentele rechten, en met name de rechten die worden gegarandeerd door het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend te Rome op 4 november 1950, volledig worden gerespecteerd (arrest van 6 december 2011, Achughbabian, C‑329/11, EU:C:2011:807, punt 49). Volgens de rechtspraak van het Europees Hof voor de Rechten van de Mens moet een wet op grond waarvan een rechter iemand zijn vrijheid kan benemen, evenwel voldoende toegankelijk en nauwkeurig zijn en moet de toepassing ervan voldoende voorzienbaar zijn, teneinde willekeur te voorkomen (EHRM, 21 oktober 2013, Del Río Prada tegen Spanje, CE:ECHR:2013:1021JUD004275009, § 125).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>42 Het staat aan de verwijzende rechter om na te gaan of de toepassing van artikel 197 Sr op een situatie als in het hoofdgeding aan deze vereisten voldoet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>43 Gelet op een ander moet op de prejudiciële vraag worden geantwoord dat richtlijn 2008/115, met name artikel 11 ervan, aldus moet worden uitgelegd dat zij zich niet verzet tegen een wettelijke regeling van een lidstaat die bepaalt dat een gevangenisstraf kan worden opgelegd aan een illegaal verblijvende derdelander jegens wie de stappen van de bij die richtlijn ingestelde terugkeerprocedure zijn doorlopen zonder dat de betrokkene het grondgebied van de lidstaten daadwerkelijk heeft verlaten, wanneer het strafbaar gestelde gedrag is omschreven als illegaal verblijf terwijl de betrokkene kennis heeft van een inreisverbod dat is uitgevaardigd met name vanwege de strafrechtelijke antecedenten van de betrokkene of vanwege het gevaar dat hij vormt voor de openbare orde of de nationale veiligheid, mits het strafbaar gestelde gedrag niet is omschreven door verwijzing naar schending van dat inreisverbod en deze regeling voldoende toegankelijk en nauwkeurig is en de toepassing ervan voldoende voorzienbaar is, teneinde willekeur te voorkomen. Het staat aan de verwijzende rechter om dit na te gaan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(...)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het Hof (Vijfde kamer) verklaart voor recht:</para>
+        <para>Richtlijn 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven, met name artikel 11 ervan, moet aldus worden uitgelegd dat zij zich niet verzet tegen een wettelijke regeling van een lidstaat die bepaalt dat een gevangenisstraf kan worden opgelegd aan een illegaal verblijvende derdelander jegens wie de stappen van de bij die richtlijn ingestelde terugkeerprocedure zijn doorlopen zonder dat de betrokkene het grondgebied van de lidstaten daadwerkelijk heeft verlaten, wanneer het strafbaar gestelde gedrag is omschreven als illegaal verblijf terwijl de betrokkene kennis heeft van een inreisverbod dat is uitgevaardigd met name vanwege de strafrechtelijke antecedenten van de betrokkene of vanwege het gevaar dat hij vormt voor de openbare orde of de nationale veiligheid, mits het strafbaar gestelde gedrag niet is omschreven door verwijzing naar schending van dat inreisverbod en deze regeling voldoende toegankelijk en nauwkeurig is en de toepassing ervan voldoende voorzienbaar is, teneinde willekeur te voorkomen. Het staat aan de verwijzende rechter om dit na te gaan.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>De procureur-generaal J. Silvis heeft nader geconcludeerd tot vernietiging van de bestreden uitspraak en tot terugwijzing van de zaak naar het hof Amsterdam teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>De raadsman heeft daarop schriftelijk gereageerd.</para>
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Tenlastelegging, bewezenverklaring, bewijsvoering en kwalificatie</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Aan de verdachte is tenlastegelegd dat:</para>
+        <para>“hij op of omstreeks 20 oktober 2015 te Amsterdam, in elk geval in Nederland, als vreemdeling heeft verbleven, terwijl hij wist of ernstige reden had te vermoeden dat hij op grond van artikel 67 van de Vreemdelingenwet 2000, in elk geval op grond van enig wettelijk voorschrift, tot ongewenst vreemdeling was verklaard, OF terwijl tegen hem een inreisverbod was uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000.” </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Daarvan is bewezenverklaard dat:</para>
+        <para>“hij op 20 oktober 2015 te Amsterdam als vreemdeling heeft verbleven terwijl tegen hem een inreisverbod was uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+        <para>“1. Een proces-verbaal van aanhouding met nummer PL1300-2015044408-57 van 22 oktober 2015, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 1] en [verbalisant 2].</para>
+        <para>Dit proces-verbaal houdt onder meer in als verklaring van voornoemde verbalisanten:</para>
+        <para>Op 22 oktober 2015 hielden wij te Amsterdam als verdachte aan: [verdachte].</para>
+        <para>Hij was op 21 oktober 2015 om 19.55 uur aangehouden ter zake de Wet op de Identificatieplicht.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2. Een proces-verbaal van aanhouding met nummer PL1300-2015044408-83 van 23 oktober 2015, in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaar [verbalisant 3].</para>
+        <para>Dit proces-verbaal houdt onder meer in als verklaring van de verbalisant:</para>
+        <para>Op 21 oktober 2015 was ik belast met het uitvoeren van een horecacontrole in [A], [a-straat 1] te Amsterdam. Daar werd aangetroffen [verdachte], geboren op [geboortedatum] 1969 te [geboorteplaats], die geen geldig identiteitsbewijs kon overleggen. Hierop is hij aangehouden op grond van de Wet op de Identificatieplicht.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. Een proces-verbaal van verhoor met nummer PL1300-2015044408-55 van 22 oktober 2015 in de wettelijke vorm opgemaakt door de daartoe bevoegde opsporingsambtenaren [verbalisant 2] en [verbalisant 1].</para>
+        <para>Dit proces-verbaal houdt onder meer in als verklaring van de verdachte afgelegd op 22 oktober 2015:</para>
+        <para>Vraag verbalisanten: Hoe lang bent u al in Nederland?</para>
+        <para>Antwoord verdachte: 22 jaar.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4. Een geschrift te weten een kopie van een beschikking met nummer 9601-05- 4007, genomen namens de Staatssecretaris van Justitie van 14 april 2000.</para>
+        <para>Dit geschrift houdt onder meer in:</para>
+        <para>Op 28 februari 2000 heeft de korpschef van politieregio Amsterdam-Amstelland een voorstel ingediend om de vreemdeling [verdachte] ongewenst te verklaren ex artikel 21 van de Vreemdelingenwet.</para>
+        <para>(...)</para>
+        <para>BESLUIT</para>
+        <para>betrokkene ongewenst te verklaren ex artikel 21 van de Vreemdelingenwet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5. Een geschrift te weten een voorblad behorende bij de beschikking 9601-05- 4007.</para>
+        <para>Dit geschrift houdt onder meer in:</para>
+        <para>Hierbij ontvangt u mijn beschikking.</para>
+        <para>Mijn beschikking houdt in dat u ongewenst wordt verklaard op grond van het bepaalde in artikel 21 van de Vreemdelingenwet (...).</para>
+        <para>U dient Nederland onmiddellijk te verlaten.</para>
+        <para>Deze beschikking is op 20-04-2000 in persoon uitgereikt, waarbij het bovenstaande met de hulp van een tolk in een voor de vreemdeling begrijpelijke taal is meegedeeld.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. Een geschrift te weten een kopie van een beschikking met V-nummer 2757616759, genomen namens de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013.</para>
+        <para>Dit geschrift houdt onder meer in:</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Besluit</para>
+        <para>De aanvraag tot opheffing van de ongewenst verklaring van betrokkene wordt ingewilligd. Betrokkene moet Nederland onmiddellijk verlaten. Tegen betrokkene wordt ingevolge artikel 66a, eerste lid, aanhef en onder a van de Vreemdelingenwet [2000] een inreisverbod uitgevaardigd voor de duur van vijf jaren.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <parablock>
+        <para>Het hof heeft ten aanzien van de bewezenverklaring verder het volgende overwogen:</para>
+        <para>“Nadere bewijsoverweging</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Standpunt raadsman</para>
+        <para>De raadsman heeft ter terechtzitting in hoger beroep het volgende aangevoerd.</para>
+        <para>In de procedure inzake Ouhrami/Nederland (Hof van Justitie Europese Unie C-225/16) heeft de Europese Commissie het standpunt ingenomen dat een inreisverbod veronderstelt dat de betrokkene het grondgebied van de lidstaten eerst heeft verlaten.</para>
+        <para>Nu het Hof van Justitie van de Europese Unie veelal volgt wordt namens de verdachte het standpunt ingenomen dat een inreisverbod pas effectief in werking treedt wanneer de betrokkene het grondgebied van de lidstaten heeft verlaten. Ook het rechtsgevolg dat het verblijf van de verdachte strafbaar is kan dus pas na zijn vertrek bestaan en worden gehandhaafd.</para>
+        <para>Artikel 197 is dan ook in strijd met de Terugkeerrichtlijn en onverbindend voor zover het verblijf in Nederland van onderdanen van een derde land, die het grondgebied van de EU nog niet hebben verlaten, strafbaar gesteld is op de enkele grond dat tegen hen een inreisverbod is uitgevaardigd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Overwegingen hof</para>
+        <para>Het hof zal het verweer van de raadsman dat blijkens zijn mededeling ter terechtzitting in hoger beroep is gevoerd in het kader van de strafbaarstelling van het feit ambtshalve mede beschouwen als een verweer in het kader van de bewijsbeslissing en overweegt als volgt.</para>
+        <para>Bij besluit van 19 maart 2013 is aan de verdachte een inreisverbod opgelegd. Bij schrijven van 19 maart 2013 is de gemachtigde hierover bericht en op 25 maart 2013 volgde publicatie in de Staatscourant.</para>
+        <para>Daarom gaat het hof ervan uit dat het besluit, bezien naar Nederlands recht, op rechtsgeldige wijze bekend is gemaakt en op de tenlastegelegde datum rechtskracht had.</para>
+        <para>Het hof ziet in de door de raadsman bedoelde schriftelijke opmerkingen van de Europese Commissie vooralsnog onvoldoende concrete aanknopingspunten om, met doorbreking van de wettelijke systematiek als tot op heden uitgelegd door de Hoge Raad en de Raad van State, uit te gaan van het tegendeel.</para>
+        <para>Het hof komt daarom, mede op grond van de overige te bezigen bewijsmiddelen, tot een bewezenverklaring van het tenlastegelegde.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het hof heeft het bewezenverklaarde gekwalificeerd als “als vreemdeling in Nederland verblijven, terwijl hij weet, dat tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000”. </para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het cassatiemiddel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het cassatiemiddel komt met verschillende klachten op tegen het oordeel van het hof dat de verdachte zich heeft schuldig gemaakt aan “als vreemdeling in Nederland verblijven, terwijl hij weet, dat tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000” (hierna: Vw 2000). </para>
+      <paragroup>
+        <nr>3.2.1</nr>
+        <parablock>
+          <para>De tenlastelegging en bewezenverklaring zijn toegesneden op artikel 197 van het Wetboek van Strafrecht (hierna: Sr). Artikel 197 Sr luidt:</para>
+          <para>“Een vreemdeling die in Nederland verblijft, terwijl hij weet of ernstige reden heeft te vermoeden, dat hij op grond van een wettelijk voorschrift tot ongewenste vreemdeling is verklaard of tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000, wordt gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>De geschiedenis van het wetsvoorstel dat heeft geleid tot de Wet van 15 december 2011 tot wijziging van de Vreemdelingenwet 2000 ter implementatie van de richtlijn nr. 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven (PbEU L 348/98) (Stb. 2011, 663), waarbij artikel 197 Sr is komen te luiden zoals hiervoor weergegeven, houdt onder meer het volgende in:</para>
+          <para>- de tweede nota van wijziging: </para>
+          <para>“ARTIKEL II </para>
+          <para>In artikel 197 van het Wetboek van Strafrecht wordt »tot ongewenste vreemdeling is verklaard» vervangen door: tot ongewenste vreemdeling is verklaard of tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Toelichting </para>
+          <para>(...)</para>
+          <para>Het onderhavige wetsvoorstel en mitsdien ook deze (tweede) nota van wijziging strekken uitsluitend tot implementatie van de richtlijn. </para>
+          <para>Niettemin brengt de gemeenschapstrouw met zich dat het nuttig effect van een richtlijn als de onderhavige moet worden gewaarborgd en in dat kader wordt een sanctie gesteld op het overtreden van het Europese inreisverbod. </para>
+          <para>Met het oog daarop worden de artikelen 108 van de wet en 197 van het Wetboek van Strafrecht aangepast, door middel van respectievelijk onderdeel 4 en onderdeel 6 van deze nota. Daarmee wordt een gekwalificeerde vorm van illegaal verblijf strafbaar gesteld, namelijk verblijf in weerwil van een inreisverbod. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>2. Met het thans voorgestelde artikel 66a wordt nauwer aangesloten bij het systeem van artikel 11 van de richtlijn, waar het gaat om de verplichte uitvaardiging van het inreisverbod (artikel 66a, eerste, tweede en achtste lid) en de duur daarvan (vierde lid). </para>
+          <para>(...) </para>
+          <para>Door middel van het zesde lid is geborgd dat het inreisverbod zoveel mogelijk dezelfde of vergelijkbare gevolgen heeft voor de rechtmatigheid van het verblijf als een ongewenstverklaring. Daartoe is aangesloten bij artikel 67, derde lid, waarin is bepaald dat de vreemdeling die ongewenst is verklaard, in afwijking van artikel 8, geen rechtmatig verblijf kan hebben. </para>
+          <para>(...)</para>
+          <para>Door middel van het zevende lid wordt gewaarborgd dat de rechtsgevolgen van het inreisverbod voor het rechtmatig verblijf vergelijkbaar zijn met de gevolgen voor het rechtmatig verblijf in geval de vreemdeling ongewenst zou zijn verklaard. </para>
+          <para>(...)</para>
+          <para>Voor het overige is gewaarborgd dat het inreisverbod in vergelijkbare gevallen kan worden gegeven als waarin een ongewenstverklaring kan worden gegeven, doordat in het zevende lid de gronden voor de ongewenstverklaring, beschreven in artikel 67, eerste lid, onder b tot en met e, zijn overgenomen in artikel 66a, zevende lid, onderdelen a tot en met d. </para>
+          <para>Het betreft de vreemdeling die bij onherroepelijk geworden rechtelijk vonnis is veroordeeld wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd dan wel hem ter zake de maatregel als bedoeld in artikel 37a van het Wetboek van Strafrecht is opgelegd (onderdeel a), de vreemdeling die een gevaar vormt voor de openbare orde of de nationale veiligheid (onderdeel b), de vreemdeling aan wie ingevolge een verdrag of in het belang van de internationale betrekkingen van Nederland ieder verblijf dient te worden ontzegd (onderdeel d), aangevuld met: de vreemdeling die naar het oordeel van de Minister voor Immigratie en Asiel een ernstige bedreiging vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid (onderdeel c). </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Teneinde eventuele samenloop van het inreisverbod met de ongewenstverklaring uit te sluiten is artikel 67, eerste lid, aldus gewijzigd dat, voor zover hier van belang, de Minister voor Immigratie en Asiel de vreemdeling ongewenst kan verklaren, tenzij afdeling 3 (Inreisverbod) van toepassing is. Daarmee is veilig gesteld dat er, in geval er een Europees inreisverbod wordt of kan worden uitgevaardigd, namelijk in geval de vreemdeling tot de doelgroep van de richtlijn behoort, geen nationale ongewenstverklaring kan worden uitgevaardigd.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. en 6. Vorenbedoelde uitsluiting van de samenloop van het inreisverbod en de ongewenstverklaring heeft mede tot gevolg dat op overtreding van het inreisverbod direct sancties moeten worden gesteld. Ook de gemeenschapstrouw vereist dat bij de implementatie van Europese richtlijnen daarin wordt voorzien. Overtreding van het inreisverbod wordt derhalve niet indirect, via een ongewenstverklaring, gesanctioneerd, maar direct. </para>
+          <para>Daartoe is enerzijds aangesloten bij het bestaande artikel 197 van het Wetboek van Strafrecht. Indien het inreisverbod is uitgevaardigd in geval een of meer van de gevallen, bedoeld in artikel 66a, zevende lid, van toepassing zijn, is artikel 197 Wetboek van Strafrecht van toepassing.</para>
+          <para>Indien het inreisverbod is uitgevaardigd in geval geen van de in artikel 66a, zevende lid, vermelde gevallen van toepassing is, is artikel 108, eerste lid, van de wet van toepassing. </para>
+          <para>Indien de in artikel 66a, zevende lid, vermelde onderdelen niet van toepassing zijn, is overtreding van het inreisverbod strafbaar gesteld gelijk overtreding van andere verplichtingen op grond van de wet, zoals het zich niet aanmelden of niet doorgeven van een verhuizing. </para>
+          <para>Indien het inreisverbod is gegeven onder toepassing van een of meer van de gevallen, bedoeld in artikel 66a, zevende lid, wordt overtreding daarvan gesanctioneerd gelijk verblijf in Nederland in weerwil van een ongewenstverklaring, derhalve als misdrijf. Deze komen, zoals gezegd, overeen met de gevallen die zijn vermeld in artikel 67, eerste lid, onder b, c, d en e, alsmede het geval waarin de vreemdeling naar het oordeel van de Minister voor Immigratie en Asiel een ernstige bedreiging voor de openbare orde, de openbare veiligheid of de nationale veiligheid vormt (artikel 66a, zevende lid, onderdeel c, dat verwijst naar het vierde lid).”</para>
+          <para>(Kamerstukken II 2010/11, 32420, nr. 9, p. 3-7)</para>
+          <para>- de memorie van antwoord (Eerste Kamer): </para>
+          <para>“De strafbaarstelling van verblijf in weerwil van een inreisverbod houdt, zoals gezegd, rechtstreeks verband met de terugkeerrichtlijn en vloeit voort uit het Unierecht. </para>
+          <para>(...)</para>
+          <para>Indien een meerderjarige vreemdeling illegaal verblijvend in Nederland wordt aangetroffen, worden in beginsel, uiteraard rekening houdend met de individuele omstandigheden van het geval, de volgende stappen doorlopen: </para>
+          <para>(...)</para>
+          <para>• Als de inzet van de in de terugkeerrichtlijn bedoelde (dwang)maatregelen zonder resultaat is gebleven, dat wil zeggen niet tot verwijdering (uitzetting) heeft geleid, mogen volgens het El Dridi-arrest strafrechtelijke sancties worden opgelegd die bijdragen aan het doel van de richtlijn. Dat betekent dat de vreemdeling in dat geval, omdat hij na beëindiging van de bewaring nog steeds in Nederland verblijft, kan worden gestraft wegens verblijf in weerwil van het opgelegde inreisverbod. De overheid moet desondanks blijven trachten om de illegaal verblijvende vreemdeling te verwijderen (uit te zetten). </para>
+          <para>• Ook ingeval de vreemdeling uit eigen beweging uit Nederland is vertrokken of met succes is verwijderd (uitgezet), maar hij naderhand wederom illegaal in Nederland wordt aangetroffen, kan hij, zolang het inreisverbod geldt, worden gestraft wegens verblijf in weerwil van het inreisverbod. </para>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De ervaring met het Nederlandse beleid is dat terugkeer een weerbarstig proces blijft. De mogelijkheid om terugkeer te realiseren, staat of valt uiteindelijk vaak met de bereidheid van de vreemdeling om hieraan zijn medewerking te verlenen. Het is dan ook van belang dat het beleid zoveel mogelijk prikkels bevat om vreemdelingen te bewegen tot vertrek. Het inreisverbod dat voortvloeit uit de terugkeerrichtlijn, biedt een extra prikkel tot zelfstandig vertrek. Het maakt duidelijk aan de vreemdeling dat het voor hem daadwerkelijk consequenties heeft indien hij zich niet houdt aan de vertrekplicht. Hij krijgt dan namelijk gedurende een bepaalde periode een verbod om in de Europese Unie te verblijven. Bovendien is hij strafbaar indien hij in weerwil van een opgelegd inreisverbod toch in Nederland blijft.”<?linebreak?>(Kamerstukken I 2011/12, 32420, D, p. 5-7, 12)</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Artikel 197 Sr stelt onder meer strafbaar het als vreemdeling in Nederland verblijven terwijl de verdachte weet of ernstige reden heeft te vermoeden dat tegen hem - met toepassing van artikel 66a lid 7 Vw 2000 - een inreisverbod is uitgevaardigd. Gelet op de in artikel 197 Sr gebruikte woorden ‘dat een inreisverbod is uitgevaardigd’ en de hiervoor weergegeven wetsgeschiedenis, ziet deze bepaling op illegaal verblijf in weerwil van de uitvaardiging van een inreisverbod en niet slechts op illegaal verblijf na schending van dat verbod. De Hoge Raad onderschrijft aldus de uitleg van artikel 197 Sr, zoals vermeld in het hiervoor onder 1.2 weergegeven arrest van het HvJEU van 17 september 2020 onder 37. Dat in de wetsgeschiedenis daarnaast ten onrechte ook enkele malen wordt gesproken over “overtreding van het inreisverbod” doet daaraan niet af. Het hiervoor bedoelde verblijf is - als het in de wetsgeschiedenis genoemde ‘gekwalificeerd illegaal verblijf’ - strafbaar wanneer de verdachte weet, of ernstige reden heeft te vermoeden, dat tegen hem het inreisverbod is uitgevaardigd. </para>
+      <paragroup>
+        <nr>3.4.1</nr>
+        <para>In het bijzonder stelt artikel 197 Sr niet als voorwaarde voor strafrechtelijke aansprakelijkheid dat de verdachte na het uitgevaardigde inreisverbod het grondgebied van de Europese Unie (hierna: EU) heeft verlaten zodat het inreisverbod ook daadwerkelijk is ingegaan. Evenmin stelt deze bepaling als voorwaarde dat het gegeven inreisverbod is geschonden doordat de verdachte - na het verlaten van de EU - in strijd met het inreisverbod de EU weer is binnengekomen. Voor zover het cassatiemiddel van een andere opvatting uitgaat, faalt het. </para>
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2</nr>
+        <para>Voor zover het cassatiemiddel betoogt dat de hiervoor gegeven uitleg van artikel 197 Sr in strijd is met Richtlijn 2008/115/EG van 16 december 2008 (hierna ook: de terugkeerrichtlijn), berust het op een onjuiste rechtsopvatting. In het hiervoor onder 1.2 weergegeven arrest van 17 september 2020 heeft het HvJEU immers overwogen dat in beginsel niet onverenigbaar is met in het bijzonder artikel 11 van de terugkeerrichtlijn “dat het nationale recht voor de omschrijving van het strafbare gedrag van een derdelander verwijst naar zijn illegale verblijf in de betrokken lidstaat terwijl hij er kennis van heeft dat jegens hem een inreisverbod is uitgevaardigd wegens dergelijk gedrag of een dergelijk gevaar.” Mede op basis daarvan heeft het HvJEU voor recht verklaard dat de terugkeerrichtlijn “zich niet verzet tegen een wettelijke regeling van een lidstaat die bepaalt dat een gevangenisstraf kan worden opgelegd aan een illegaal verblijvende derdelander jegens wie de stappen van de bij die richtlijn ingestelde terugkeerprocedure zijn doorlopen zonder dat de betrokkene het grondgebied van de lidstaten daadwerkelijk heeft verlaten, wanneer het strafbaar gestelde gedrag is omschreven als illegaal verblijf terwijl de betrokkene kennis heeft van een inreisverbod dat is uitgevaardigd met name vanwege de strafrechtelijke antecedenten van de betrokkene of vanwege het gevaar dat hij vormt voor de openbare orde of de nationale veiligheid, mits het strafbaar gestelde gedrag niet is omschreven door verwijzing naar schending van dat inreisverbod en deze regeling voldoende toegankelijk en nauwkeurig is en de toepassing ervan voldoende voorzienbaar is, teneinde willekeur te voorkomen.” </para>
+      </paragroup>
+      <paragroup>
+        <nr>3.4.3</nr>
+        <para>Gelet op de bewoordingen van artikel 197 Sr en de hiervoor weergegeven wetsgeschiedenis, voorziet artikel 197 Sr in een toegankelijke, nauwkeurige en voorzienbare strafbaarstelling van ‘gekwalificeerd illegaal verblijf’ zodat deze voldoet aan de vereisten van artikel 49 lid 1 van het Handvest van de grondrechten van de Europese Unie en artikel 7 lid 1 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. Daarbij is ook van belang dat - zoals hiervoor in 3.4.1 al is overwogen - artikel 197 Sr niet de schending van het gegeven inreisverbod strafbaar stelt of bij de omschrijving van het strafbaar gestelde gedrag verwijst naar de schending van dat verbod, maar slechts naar de uitvaardiging daarvan. </para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Het cassatiemiddel is in zoverre tevergeefs voorgesteld. 	</para>
+      <paragroup>
+        <nr>3.6.1</nr>
+        <para>Het cassatiemiddel klaagt voorts dat het bewezenverklaarde door het hof niet kan worden gekwalificeerd zoals hiervoor onder 2.5 is weergegeven nu het bewezenverklaarde niet alle bestanddelen van artikel 197 Sr bevat.</para>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2</nr>
+        <para>In aanmerking genomen dat de bewezenverklaring niet het bestanddeel bevat dat de verdachte “wist of ernstige reden had te vermoeden” dat een inreisverbod tegen hem was uitgevaardigd, heeft het hof het bewezenverklaarde ten onrechte gekwalificeerd als “als vreemdeling in Nederland verblijven, terwijl hij weet, dat tegen hem een inreisverbod is uitgevaardigd met toepassing van artikel 66a, zevende lid, van de Vreemdelingenwet 2000”. </para>
+      </paragroup>
+      <paragroup>
+        <nr>3.6.3</nr>
+        <para>Het cassatiemiddel klaagt hierover terecht. </para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof;</para>
+      <para>- wijst de zaak terug naar het gerechtshof Amsterdam, opdat de zaak opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend, A.L.J. van Strien, M.J. Borgers en A.E.M. Röttgering, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">1 december 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

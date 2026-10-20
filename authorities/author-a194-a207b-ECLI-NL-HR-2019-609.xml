@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2019:609</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T19:38:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-04-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2019-04-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/04056</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2017:2552" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">In cassatie op : ECLI:NL:GHDHA:2017:2552, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:188" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2019:188</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2019/936</rdf:li>
+          <rdf:li>NJ 2019/180</rdf:li>
+          <rdf:li>RvdW 2019/539</rdf:li>
+          <rdf:li>TPWS 2019/71</rdf:li>
+          <rdf:li>SR-Updates.nl 2019-0209</rdf:li>
+          <rdf:li>NbSr 2019/155</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:609">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2019:609</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2019-04-16T13:37:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2019-04-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2019:609 Hoge Raad , 16-04-2019 / 18/04056</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2019:609:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Gekwalificeerde meineed door als getuige in strafzaak tegen ander ttz. valse verklaring af te leggen, art. 207.2 Sr. Was door verdachte onder ede afgelegde valse verklaring 'ten nadele van' A? In art. 207.2 Sr is niet eis gesteld dat verklaring in concreet geval daadwerkelijk voor beklaagde of verdachte nadelige uitwerking heeft gehad (vgl. ECLI:NL:HR:1929:171). Blijkens bewijsvoering heeft Hof vastgesteld dat verdachte degene is geweest die B heeft doodgeschoten en dat hij ttz. als getuige in strafzaak tegen A, die ook van doodslag op B werd verdacht, hiermee strijdige verklaring heeft afgelegd. O.b.v. deze vaststellingen heeft Hof geoordeeld dat deze verklaring 'ten nadele van' A is afgelegd. ’s Hofs oordeel dat door verdachte afgelegde verklaring 'ten nadele van' A is afgelegd, geeft mede gelet op hetgeen hiervoor is vooropgesteld, niet blijk van onjuiste uitleg van art. 207 Sr en is niet onbegrijpelijk gemotiveerd. Volgt verwerping.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2019:609:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <para>16 april 2019</para>
+    <para>Strafkamer</para>
+    <para>nr. S 18/04056</para>
+    <para />
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <para />
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 19 juli 2017, nummer 22/003672-16, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1992.</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt en P. van Dongen, beiden advocaat te Rotterdam, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De plaatsvervangend Advocaat-Generaal D.J.M.W. Paridaens heeft geconcludeerd tot vernietiging, maar uitsluitend wat betreft de strafoplegging, tot vermindering van de straf naar de gebruikelijke maatstaf wegens de geconstateerde inbreuk op het in art. 6 EVRM gegarandeerde recht om binnen een redelijke termijn te worden berecht en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel klaagt over de motivering van de bewezenverklaring voor zover inhoudende dat de door de verdachte onder ede afgelegde valse verklaring 'ten nadele van' [betrokkene 1] was.</para>
+      <para />
+      <paragroup>
+        <nr>2.2.1.</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging bewezenverklaard dat:</para>
+          <para>"hij op 29 oktober 2015 te 's-Gravenhage ter terechtzitting van enige rechter op 29 oktober 2015, zijnde een geval waarin een wettelijk voorschrift een verklaring onder ede vordert, mondeling en persoonlijk opzettelijk de volgende valse verklaring onder ede heeft afgelegd:</para>
+          <para>"Ik ben niet de persoon die [slachtoffer] op 20 januari 2013 te Rotterdam heeft neergeschoten. Ik ben 20 januari 2013 niet op de plaats delict geweest, ik zat thuis. Ik heb een wapen voor de verdachte [betrokkene 1] geregeld en dit op 20 januari 2013 aan hem gegeven. Ik wist niet waarvoor dit wapen zou worden gebruikt. Ik heb dit wapen ook weer van hem teruggekregen. Ik heb [slachtoffer] nooit ontmoet"; terwijl voornoemde verklaring werd afgelegd in de strafzaak met parketnummer 10-730029-13 (rolnummer 22-000996-14) tegen en ten nadele van <?linebreak?>[betrokkene 1] , die in voornoemde strafzaak verdachte was."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2.</nr>
+        <parablock>
+          <para>De bewijsmiddelen waarop de bewezenverklaring berust, zijn weergegeven in de conclusie van de plaatsvervangend Advocaat-Generaal onder 5. Het Hof heeft ten aanzien van de bewezenverklaring voorts het volgende overwogen:</para>
+          <para>"De verdachte is bij vonnis van 27 februari 2014 veroordeeld ter zake van - kort gezegd - medeplegen doodslag op [slachtoffer] , welk vonnis op 17 september 2014 onherroepelijk is geworden. Op 29 oktober 2015 heeft de verdachte ter terechtzitting van het hof in de zaak tegen [betrokkene 1] , die ook van doodslag op [slachtoffer] werd verdacht, als getuige onder ede een verklaring afgelegd. Die verklaring heeft geleid tot de onderhavige verdenking van meineed.</para>
+          <para>(...)</para>
+          <para>Uit de door het hof gebezigde bewijsmiddelen - in onderling verband en samenhang bezien - volgt dat de verdachte degene is geweest die op 20 januari 2013 [slachtoffer] heeft doodgeschoten. Uit die bewijsmiddelen volgt aldus ook dat de verdachte ter terechtzitting van het hof op 29 oktober 2015 willens en wetens valselijk een hiermee strijdige verklaring heeft afgelegd. (...)"</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1.</nr>
+        <para>Het tenlastegelegde is toegesneden op art. 207, eerste en tweede lid, Sr. Het in de tenlastelegging en de bewezenverklaring voorkomende begrip 'ten nadele van' moet derhalve geacht worden aldaar te zijn gebezigd in dezelfde betekenis als daaraan toekomt in het tweede lid van die bepaling.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2.</nr>
+        <parablock>
+          <para>Art. 207, eerste en tweede lid, Sr luidt:</para>
+          <para>"1. Hij die in de gevallen waarin een wettelijk voorschrift een verklaring onder ede vordert of daaraan rechtsgevolgen verbindt, mondeling of schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, opzettelijk een valse verklaring onder ede aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.</para>
+          <para>2. Indien de valse verklaring is afgelegd in een strafzaak ten nadele van de beklaagde of verdachte, wordt de schuldige gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3.</nr>
+        <parablock>
+          <para>De geschiedenis van de totstandkoming van art. 207 Sr houdt - voor zover in cassatie van belang - het volgende in:</para>
+          <para>"De getuige, wien in het algemeen gevraagd wordt de waarheid te zeggen, moet wel zich zelven, zoo hij de dader is, denonceren. Door zich zelven niet als dader op te geven benadeelt hij altijd indirect den beschuldigde, ook al beschuldigt hij hem niet." (H.J. Smidt, Geschiedenis van het Wetboek van Strafrecht, deel II, uitgave 1891, p. 229.)</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.4.</nr>
+        <para>In art. 207, tweede lid, Sr is niet de eis gesteld dat de verklaring in het concrete geval daadwerkelijk een voor de beklaagde of verdachte nadelige uitwerking heeft gehad (vgl. HR 24 juni 1929, ECLI:NL:HR:1929:171, NJ 1929, p. 1498).</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Blijkens de hiervoor onder 2.2.2 weergegeven bewijsvoering heeft het Hof vastgesteld dat de verdachte degene is geweest die op 20 januari 2013 [slachtoffer] heeft doodgeschoten en dat hij ter terechtzitting van 29 oktober 2015 als getuige in de strafzaak tegen [betrokkene 1] , die ook van de doodslag op [slachtoffer] werd verdacht, een hiermee strijdige verklaring heeft afgelegd. Op basis van deze vaststellingen heeft het Hof geoordeeld dat deze verklaring 'ten nadele van' [betrokkene 1] is afgelegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Het oordeel van het Hof dat de door de verdachte afgelegde verklaring 'ten nadele van' [betrokkene 1] is afgelegd, geeft mede gelet op hetgeen onder 2.3 is vooropgesteld, niet blijk van een onjuiste uitleg van art. 207 Sr en is niet onbegrijpelijk gemotiveerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Het middel faalt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Het middel is gegrond. Dit moet leiden tot vermindering van de aan de verdachte opgelegde gevangenisstraf van drie maanden.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak maar uitsluitend wat betreft de opgelegde gevangenisstraf;</para>
+      <para>vermindert deze in die zin dat deze twee maanden en drie weken beloopt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren E.S.G.N.A.I. van de Griend en A.E.M. Röttgering, in bijzijn van de waarnemend griffier B.C. Broekhuizen-Meuter, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">16 april 2019</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

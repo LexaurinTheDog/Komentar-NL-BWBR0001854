@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/review-batch22-version-evidence.json",
-  "generated_at": "2026-10-20T22:32:23.525217+00:00",
+  "latest_version_evidence": "sources/author-a194-a207b-version-evidence.json",
+  "generated_at": "2026-10-20T22:40:06.439087+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -850,6 +850,66 @@
     },
     {
       "path": "sources/author-a181-a193-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
+      "path": "sources/author-a194-a207b-coverage.json",
+      "bytes": 20834,
+      "sha256": "c913c6f32527572bda5469a15ea8185a62ba097910379d4df3a919f157dd290c"
+    },
+    {
+      "path": "sources/author-a194-a207b-current-page.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/author-a194-a207b-dated-page.html",
+      "bytes": 4600683,
+      "sha256": "5cb3c8508d7bc979ca43cc68b9f1fa863f031e7f04a848192e0f3697222e3be2"
+    },
+    {
+      "path": "sources/author-a194-a207b-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/author-a194-a207b-extra-fetch-log.json",
+      "bytes": 1505,
+      "sha256": "02cd8f4ee13e84885f41f6ba2705d3027189dffff4ed21ad29bcfef0cde73408"
+    },
+    {
+      "path": "sources/author-a194-a207b-fetch-log.json",
+      "bytes": 1706,
+      "sha256": "ec3599215fdfe6b47d168e7feeee016b686355d247b1bb398fe0043f99c38b43"
+    },
+    {
+      "path": "sources/author-a194-a207b-historical-change-map.json",
+      "bytes": 3848,
+      "sha256": "d647d9f06c6a990984db779ac6a4527ca0c3109dfdc51782bc00e7bd562403da"
+    },
+    {
+      "path": "sources/author-a194-a207b-information-fetch.json",
+      "bytes": 195,
+      "sha256": "c32df5568fc0677ab1dc2d5a21abd60c97e3737bd24c9a174bbeed938d28981d"
+    },
+    {
+      "path": "sources/author-a194-a207b-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/author-a194-a207b-previous.xml",
+      "bytes": 2544128,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1"
+    },
+    {
+      "path": "sources/author-a194-a207b-version-evidence.json",
+      "bytes": 166300,
+      "sha256": "6db2a9a2989ecd3105d25befd78ecdee249e6adfbfd901cce95618a6786c5bfa"
+    },
+    {
+      "path": "sources/author-a194-a207b-wti.xml",
       "bytes": 27846974,
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
@@ -3470,8 +3530,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 207657,
-      "sha256": "c689a57e44f7b5c6b87ecdf6d701b64b04c4ecd751c34909975d63cdb5fc294d"
+      "bytes": 213912,
+      "sha256": "471f655d862ee7b7d2d2504208bf0ebdc93dffb2f420c197b1be790231faebc6"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -3957,6 +4017,141 @@
       "path": "authorities/author-a181-a193-search-log.json",
       "bytes": 1632,
       "sha256": "4bd175b6f6360a44096070cebc41c53c030fc163ef7d28ac39b122b45b68d595"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2011-BP7585.txt",
+      "bytes": 21294,
+      "sha256": "b170cbedafdde0b6ab52b342b3973bc720a6c960154165b84995a4e89931d2ce"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2011-BP7585.xml",
+      "bytes": 27958,
+      "sha256": "0cb5231514579d4f3302d6cec76e0abbef1de838b4e5db31b8a9099402455771"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2013-946.txt",
+      "bytes": 8382,
+      "sha256": "aed4850e47561f04e350e93a264dd602878d04e86dd0a3ee1581dcda1feb5d8a"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2013-946.xml",
+      "bytes": 14481,
+      "sha256": "24e74891e0f8d9b2155389340362c8b0d69cdbab5b7a7fbb27dfb7a332f55277"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2018-897.txt",
+      "bytes": 14853,
+      "sha256": "837b6f75a91c1caf6b2f07be1df73fc853d8988e6c49bec5091af662c8a45e35"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2018-897.xml",
+      "bytes": 22695,
+      "sha256": "11810ccb73a9417603f1f5e84e440af6085e0fee1ef44bf23388b6104a8edf3c"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-593.txt",
+      "bytes": 17647,
+      "sha256": "43293f73c1718002456811d53dfa829a226102701c74e083bbf6bae071d2e209"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-593.xml",
+      "bytes": 26461,
+      "sha256": "bd86c7ac253b3bb13077ff3cbba1b61deabfe6a4f1d4f53d2c8e534d58c45331"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-609.txt",
+      "bytes": 7280,
+      "sha256": "628bb3579b3c2c00c7a7826f9083657925d29d28c59e34939e0717c07bc393a5"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2019-609.xml",
+      "bytes": 14335,
+      "sha256": "ac66124eae5c087289d2536298513562c93f12217c3ada4fefe22b0d5be1edec"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2020-1893.txt",
+      "bytes": 40391,
+      "sha256": "38a856fcb8199fecbe49b9cca331b533ecab755e4aaee5e3c63cd7e2204c0d3e"
+    },
+    {
+      "path": "authorities/author-a194-a207b-ECLI-NL-HR-2020-1893.xml",
+      "bytes": 52389,
+      "sha256": "e0e8c9efd18007b656209b9e9ce34891e10bdcc5cb44e03ac2fa85b353d7c171"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2011-BP7585.md",
+      "bytes": 1421,
+      "sha256": "2f0e3b99f4fef3f2dc6b539a84b68fa5962874ec41cd9cececac2b44a81dc104"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2013-946.md",
+      "bytes": 1480,
+      "sha256": "f631d4d2d538e6a616f00daa37241e17c59ed1cfe571151d57ef78edb26bd978"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2018-897.md",
+      "bytes": 1411,
+      "sha256": "e63d92fdfe80333ba4887a652e8b4d4809a49bafa28f5a6614e0b835a4f5aa64"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2019-593.md",
+      "bytes": 1537,
+      "sha256": "b4c445c9739d44b9f1e93daf81c787f4b85c4ffc42471c1936bdc801259b4a52"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2019-609.md",
+      "bytes": 1361,
+      "sha256": "4e27e63f6b854e042935190c98f36c1e5bd33d05be3cbafc81cceecccb1fe8db"
+    },
+    {
+      "path": "authorities/author-a194-a207b-HR-2020-1893.md",
+      "bytes": 1583,
+      "sha256": "b4c42b70a91c50183296ca0fe17c41bd705f6deb4908bbc8fad7a5e107085ed5"
+    },
+    {
+      "path": "authorities/author-a194-a207b-fetch-log.json",
+      "bytes": 2434,
+      "sha256": "e21d18b61c8eb2a23e0191f305dcc60a46d0e078e2909e885df8c225805d0181"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2011-bp7585.md",
+      "bytes": 22334,
+      "sha256": "b771e407598fb0120de4ab93ed477acf9cdd22cafb781f438048eb954463c005"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2013-946.md",
+      "bytes": 8667,
+      "sha256": "c97730be1bba1d74ff6fce5c98038066397b945e71c8165765d2007b41e1581e"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2018-897.md",
+      "bytes": 15471,
+      "sha256": "903e41356e97d216580acbd3a8ae1c13d54a18838dfd8d17ea0ffb35229cd7b8"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2019-593.md",
+      "bytes": 19315,
+      "sha256": "76287c63987fee5b4b1581f271ddc903e74b917e5f8115e09699d7141bced26a"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2019-609.md",
+      "bytes": 7996,
+      "sha256": "5bae4bca0a867719f92b07fefc58c98dfcb861faa2d4089c7576cfad484afccd"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-2020-1893.md",
+      "bytes": 41109,
+      "sha256": "8a37c136be7e8c652d022fb43eb2d9e76b0e1f64c0ff1f202dd6476945bd3842"
+    },
+    {
+      "path": "authorities/author-a194-a207b-local-corpus.json",
+      "bytes": 2217,
+      "sha256": "704fda0ca3af77e534a9eb35df565e19dd1872464f7b2c63e993bc3b6dd44262"
+    },
+    {
+      "path": "authorities/author-a194-a207b-search-log.json",
+      "bytes": 1710,
+      "sha256": "38216a517342fa88d702de97cdbd9107f13fa97483bdda4b99eb2ece6679d154"
     },
     {
       "path": "authorities/author-a92-a100-search-log.json",

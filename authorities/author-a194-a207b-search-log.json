@@ -1,0 +1,47 @@
+{
+  "searched_at": "2026-10-20T22:38:23.613693+00:00",
+  "queries": [
+    "site.rechtspraak.nl artikel 197a winstbejag Hoge Raad",
+    "site.rechtspraak.nl artikel 197 inreisverbod terugkeerprocedure Hoge Raad",
+    "site.rechtspraak.nl artikel 205 werven gewapende strijd Hoge Raad",
+    "site.rechtspraak.nl artikel 207 valse verklaring meineed Hoge Raad",
+    "site.uitspraken.rechtspraak.nl \"197a\" \"winstbejag\" \"HR\"",
+    "site.uitspraken.rechtspraak.nl \"198\" \"beslag\" \"HR\" onttrekken"
+  ],
+  "method": "Targeted primary-domain web discovery; six corresponding local HR corpus files consulted; fresh official full XML downloaded and read. No commercial annotations used.",
+  "full_text_fetch_log": "authorities/author-a194-a207b-fetch-log.json",
+  "local_corpus": "authorities/author-a194-a207b-local-corpus.json",
+  "supported_units": [
+    "a197",
+    "a197a",
+    "a198",
+    "a205",
+    "a207"
+  ],
+  "other_units": {
+    "ids": [
+      "a194",
+      "a195",
+      "a196",
+      "a197b",
+      "a197c",
+      "a197d",
+      "a199",
+      "a200",
+      "a201",
+      "a202",
+      "a203",
+      "a204",
+      "a206",
+      "a207a",
+      "a207b"
+    ],
+    "disposition": "No sufficiently relevant full-text verified authority selected for these units in this bounded search; explanation rests on statutory wording. No exhaustive per-unit search claimed."
+  },
+  "excluded_candidates": [
+    "PHR conclusions in results were not treated as judgments.",
+    "HR2018:2192 referral not used as final resolution: final HR2020:1893 read.",
+    "Lower-court snippets not relied on."
+  ],
+  "limits": "Selective jurisprudence only; no exhaustive current citator or complete European-law survey."
+}

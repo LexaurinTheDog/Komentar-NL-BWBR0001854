@@ -1,0 +1,131 @@
+{
+  "current_source": "sources/author-a194-a207b-effective.xml",
+  "previous_source": "sources/author-a194-a207b-previous.xml",
+  "intake_source": "sources/intake-version.xml",
+  "current_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+  "current_equal_to_intake": true,
+  "scope_comparisons": [
+    {
+      "id": "a194",
+      "current_equal_previous": true,
+      "current_effective_from": "2016-07-01",
+      "previous_effective_from": "2016-07-01"
+    },
+    {
+      "id": "a195",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a196",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a197",
+      "current_equal_previous": true,
+      "current_effective_from": "2011-12-31",
+      "previous_effective_from": "2011-12-31"
+    },
+    {
+      "id": "a197a",
+      "current_equal_previous": true,
+      "current_effective_from": "2026-01-01",
+      "previous_effective_from": "2026-01-01"
+    },
+    {
+      "id": "a197b",
+      "current_equal_previous": true,
+      "current_effective_from": "1994-01-01",
+      "previous_effective_from": "1994-01-01"
+    },
+    {
+      "id": "a197c",
+      "current_equal_previous": true,
+      "current_effective_from": "2013-04-01",
+      "previous_effective_from": "2013-04-01"
+    },
+    {
+      "id": "a197d",
+      "current_equal_previous": true,
+      "current_effective_from": "1994-01-01",
+      "previous_effective_from": "1994-01-01"
+    },
+    {
+      "id": "a198",
+      "current_equal_previous": true,
+      "current_effective_from": "2026-01-01",
+      "previous_effective_from": "2026-01-01"
+    },
+    {
+      "id": "a199",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a200",
+      "current_equal_previous": true,
+      "current_effective_from": "2002-08-08",
+      "previous_effective_from": "2002-08-08"
+    },
+    {
+      "id": "a201",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a202",
+      "current_equal_previous": true,
+      "current_effective_from": "1886-09-01",
+      "previous_effective_from": "1886-09-01"
+    },
+    {
+      "id": "a203",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a204",
+      "current_equal_previous": true,
+      "current_effective_from": "1984-05-01",
+      "previous_effective_from": "1984-05-01"
+    },
+    {
+      "id": "a205",
+      "current_equal_previous": true,
+      "current_effective_from": "2010-04-01",
+      "previous_effective_from": "2010-04-01"
+    },
+    {
+      "id": "a206",
+      "current_equal_previous": true,
+      "current_effective_from": "1991-12-31",
+      "previous_effective_from": "1991-12-31"
+    },
+    {
+      "id": "a207",
+      "current_equal_previous": true,
+      "current_effective_from": "2026-01-01",
+      "previous_effective_from": "2026-01-01"
+    },
+    {
+      "id": "a207a",
+      "current_equal_previous": true,
+      "current_effective_from": "2002-08-08",
+      "previous_effective_from": "2002-08-08"
+    },
+    {
+      "id": "a207b",
+      "current_equal_previous": true,
+      "current_effective_from": "2004-07-01",
+      "previous_effective_from": "2004-07-01"
+    }
+  ],
+  "method": "Independent official XML article lookup; normalized child text excluding meta-data. Historical version is evidence only. Original intake preserved."
+}

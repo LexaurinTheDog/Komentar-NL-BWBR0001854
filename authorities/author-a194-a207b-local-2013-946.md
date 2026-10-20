@@ -1,0 +1,109 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2013:946
+date: '2013-10-15'
+date_published: '2013-10-15'
+case_number:
+- 11/01575
+procedure:
+- Cassatie
+subject:
+- Strafrecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2013:959, Gevolgd'
+references:
+- Wetboek van Strafrecht
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2013:946
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:946
+chars: 7507
+license: Public Domain Mark
+retrieved_at: '2026-10-03T21:58:36Z'
+---
+
+# ECLI:NL:HR:2013:946 – Hoge Raad, 2013-10-15
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2013-10-15
+- **Zaaknummer:** 11/01575
+- **Rechtsgebied:** Strafrecht
+
+## Inhoudsindicatie
+
+OM-cassatie. Art. 197a Sr, mensensmokkel. Het oordeel van het Hof dat het bewezenverklaarde geen strafbaar feit oplevert omdat verdachte niet op enigerlei wijze is betrokken bij dwang of uitbuiting van de in de bewezenverklaring genoemde vrouwen bij hun werkzaamheden, geeft, mede gelet op de in de CAG weergegeven wetsgeschiedenis, blijk van een te beperkte en dus onjuiste uitleg van art. 197a (oud) Sr.
+
+## Uitspraak
+
+1 De bestreden uitspraak
+
+Het Hof heeft in hoger beroep - met vernietiging van een vonnis van de Rechtbank Haarlem van 9 mei 2006 - de verdachte 1. vrijgesproken van het hem bij inleidende dagvaarding onder 1 tenlastegelegde, volgens de tenlastelegging jegens [betrokkene 1] begane misdrijf van art. 250a (oud) Sr, 2. ontslagen van rechtsvervolging ter zake van het onder 2 bewezenverklaarde, en 3. veroordeeld tot een taakstraf van 50 uren, subsidiair 25 dagen hechtenis, ter zake van "valsheid in geschrift, meermalen gepleegd".
+
+2 Geding in cassatie
+
+Het beroep – dat kennelijk niet is gericht tegen de beslissingen ter zake van het onder 1 en 3 tenlastegelegde - is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De raadsman van de verdachte, mr. C. Kranendonk, advocaat te Beverwijk, heeft het beroep tegengesproken.
+
+De Advocaat-Generaal W.H. Vellinga heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft de beslissing ter zake van het onder 2 tenlastegelegde en de opgelegde straf en tot terugwijzing van de zaak naar het Gerechtshof dan wel verwijzing van de zaak naar een aangrenzend hof teneinde in zoverre op het bestaande hoger beroep opnieuw te worden berecht en afgedaan, met verwerping van het beroep voor het overige.
+
+3 Motivering van het ontslag van alle rechtsvervolging
+
+3.1.
+
+Ten laste van de verdachte is - voor zover in cassatie van belang - onder 2 bewezenverklaard dat:
+
+"hij in de periode van 1 oktober 2003 tot en met 17 maart 2004 in Nederland, [betrokkene 2], [betrokkene 1] en [betrokkene 3] alias [betrokkene 3] uit winstbejag behulpzaam is geweest bij het verblijven in Nederland, immers heeft hij, verdachte, tegen betaling van een geldbedrag en/of een in het vooruitzicht gestelde beloning en/of te verwachten werkzaamheden/inkomsten, in het kader van een door hem, verdachte, geëxploiteerd escortbureau, advertenties gezet in dagbladen en telefoongesprekken aangenomen van personen die op zoek waren naar prostituees, en voornoemde vrouwen naar de adressen gebracht waar klanten op hen wachtten en voornoemde vrouwen bij hun woonadres teruggebracht, terwijl hij, verdachte, wist of ernstige reden had te vermoeden dat dat verblijf wederrechtelijk was."
+
+3.2.
+
+Het Hof heeft de verdachte met betrekking tot dit feit ontslagen van alle rechtsvervolging. Het Hof heeft daartoe het volgende overwogen:
+
+"Aan de verdachte is ten laste gelegd - kort gezegd - mensensmokkel door het uit winstbejag behulpzaam zijn bij het verblijf in Nederland, als bedoeld in artikel 197a van het Wetboek van Strafrecht (Sr) (oud).
+
+De verdachte wordt verweten dat hij - kort gezegd - escortservice-werkzaamheden heeft verricht ten behoeve van de in de tenlastelegging genoemde vrouwen, die in Nederland als prostituee werkten, terwijl hij wist dan wel ernstige reden had te vermoeden dat deze vrouwen niet in Nederland mochten werken en om die reden ook niet in Nederland mochten verblijven, zodat hun verblijf om die reden wederrechtelijk was.
+
+Zoals hiervoor ten aanzien van feit 1 reeds is overwogen volgt uit de inhoud van de gebezigde bewijsmiddelen niet dat [betrokkene 1] door de verdachte of door anderen, in het buitenland is aangeworven om naar Nederland te komen om hier in de prostitutie te gaan werken. Uit het dossier en het verhandelde ter terechtzitting in hoger beroep is evenmin gebleken dat de verdachte deze gedragingen heeft verricht ten opzichte van [betrokkene 2] en [betrokkene 3] alias [betrokkene 3]. Bewezen kan slechts worden dat de verdachte de genoemde vrouwen uit winstbejag behulpzaam is geweest in het kader van door hem uitgevoerde escortwerkzaamheden als deze vrouwen reeds in Nederland zijn. Maar daaruit volgt niet noch is gebleken dat bij deze werkzaamheden sprake is geweest van dwang of uitbuiting van deze vrouwen, aan welke uitbuiting de verdachte op enigerlei wijze behulpzaam is geweest. Anders dan in HR 26 september 2006, NJ 2006, 541, LJN AY8857 is in het onderhavige geval dan ook geen sprake van handelingen van de verdachte, verricht in het kader van het door deze vrouwen gedwongen werken in de prostitutie.
+
+Nu op zichzelf het werkzaam zijn in de prostitutie in Nederland niet strafbaar is, alsmede gelet op het doel en de strekking van artikel 197a van het Sr (oud), te weten het tegengaan van op uitbuiting gerichte mensensmokkel - dat is, in de bewoordingen van de nota naar aanleiding van het verslag, kamerstuk 29 291, nr 7, p.3 met betrekking tot wijziging van artikel 197a Sr: "illegalen tegen betaling van vaak grote bedragen helpen bij hun illegale immigratie" - valt naar het oordeel van het hof, het handelen van de verdachte bij deze stand van zaken - nu van mensensmokkel als zodanig in casu geen sprake is - buiten de reikwijdte van deze strafbepaling.
+
+Daarmee vervalt de strafbaarheid van het onder 2 bewezenverklaarde feit, zodat de verdachte van alle rechtsvervolging dient te worden ontslagen."
+
+4 Beoordeling van het middel
+
+4.1.
+
+Het middel klaagt dat het in de overwegingen van het Hof besloten liggende oordeel dat voor een veroordeling ter zake van het uit winstbejag behulpzaam zijn bij het wederrechtelijk verblijven in Nederland als bedoeld in art. 197a (oud) Sr sprake moet zijn van dwang of uitbuiting ten opzichte van de slachtoffers en dat bij afwezigheid daarvan het feit niet strafbaar is, getuigt van een onjuiste rechtsopvatting.
+
+4.2.
+
+Art. 197a Sr luidde ten tijde van het bewezenverklaarde, voor zover voor de beoordeling van het middel van belang:
+
+"1. Hij die een ander uit winstbejag behulpzaam is bij het zich verschaffen van toegang tot of verblijven in Nederland of enige staat welke gehouden is mede ten behoeve van Nederland grenscontrole uit te oefenen, of hem daartoe uit winstbejag gelegenheid, middelen of inlichtingen verschaft terwijl hij weet of ernstige redenen heeft te vermoeden dat de toegang of dat verblijf wederrechtelijk is, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+
+(...)"
+
+4.3.
+
+Het oordeel van het Hof dat het bewezenverklaarde geen strafbaar feit oplevert omdat de verdachte niet op enigerlei wijze is betrokken bij dwang of uitbuiting van de in de bewezenverklaring genoemde vrouwen bij hun werkzaamheden, geeft, mede gelet op de in de conclusie van de Advocaat-Generaal weergegeven wetsgeschiedenis, blijk van een te beperkte en dus onjuiste uitleg van art. 197a (oud) Sr.
+
+4.4.
+
+Het middel is derhalve terecht voorgesteld.
+
+5 Slotsom
+
+Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak - voor zover aan het oordeel van de Hoge Raad onderworpen - niet in stand kan blijven en als volgt moet worden beslist.
+
+5 Beslissing
+
+De Hoge Raad:
+
+vernietigt het door het Hof ter zake van het onder 2 bewezenverklaarde gegeven ontslag van alle rechtsvervolging;
+
+kwalificeert het bewezenverklaarde als "een ander uit winstbejag behulpzaam zijn bij het verblijven in Nederland terwijl hij weet of ernstige redenen heeft te vermoeden dat dat verblijf wederrechtelijk is, meermalen gepleegd";
+
+wijst de zaak terug naar het Gerechtshof Amsterdam, opdat de zaak in zoverre verder wordt berecht en afgedaan.
+
+Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren B.C. de Savornin-Lohman en J. de Hullu, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van 15 oktober 2013.

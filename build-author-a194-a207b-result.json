@@ -1,0 +1,9 @@
+{
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 352 jednotkám, např.: ['a208', 'a209', 'a210', 'a213', 'a214', 'a214bis', 'a215', 'a216', 'a217', 'a218']\n",
+  "reason": "352 uncommented units outside bounded task. Full build gate retained unchanged.",
+  "bounded_checkpoint_renderer": "_render_checkpoint.py",
+  "rendered_new_units": 20
+}
