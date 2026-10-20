@@ -77,18 +77,18 @@
   "case_law_scope": "Selective:39 primary HR decisions;2added in bounded conditional-youth-sanction review; not exhaustive.",
   "build_result": {
     "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
-    "checked_at": "2026-10-20T17:42:45.340497+00:00",
+    "checked_at": "2026-10-20T17:52:25.313230+00:00",
     "exit_code": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
     "full_inventory_units": 812,
-    "bounded_review_ids": "review-batch10-result.json"
+    "bounded_review_ids": "review-batch11-result.json"
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 307718,
+    "commentary_chars": 317478,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -103,7 +103,7 @@
     "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
     "Second pass comprises eleven disjoint20-unit batches:220 reviewed,592 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T17:52:42.234566+00:00",
+  "updated_at": "2026-10-20T17:52:58.409592+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T17:46:32.213467+00:00",
@@ -119,7 +119,7 @@
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
     "bounded_recheck": "sources/review-batch11-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T17:44:29.816982+00:00",
+  "validation_checked_at": "2026-10-20T17:52:58.409592+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -163,7 +163,16 @@
     "unresolved_blockers": [],
     "report": "review-result.json",
     "source_preflight": "sources/review-batch11-version-evidence.json",
-    "reviewed_at": "2026-10-20T17:52:42.234566+00:00"
+    "reviewed_at": "2026-10-20T17:52:42.234566+00:00",
+    "technical_validation": {
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_ok": true,
+      "all20_present": true,
+      "full_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 548
+    }
   },
   "prior_bounded_reviews": [
     {

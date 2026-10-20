@@ -620,5 +620,51 @@
     ],
     "human_review": "All20read individually. Nine repealed slots serve documentary purposes; seven kept and two supplemented with precise historical holdings. Active units have distinct elements and examples. No common paragraph substituted. Length/similarity not legal quality proxies."
   },
-  "validation_scope": "Full812-unit inventory retained; full shared build and strict validator executed separately; outside548omissions retained."
+  "validation_scope": "Full812-unit inventory retained; full shared build and strict validator executed separately; outside548omissions retained.",
+  "technical_checks": {
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+      "checked_at": "2026-10-20T17:52:25.313230+00:00",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 548 jednotkám, např.: ['a92', 'a93', 'a94', 'a95', 'a95a', 'a96', 'a97', 'a97a', 'a97b', 'a98']\n",
+      "full_inventory_units": 812,
+      "bounded_review_ids": "review-batch11-result.json"
+    },
+    "full_shared_validator": {
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 317478,
+        "errors": [
+          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "exit_code": 1,
+      "clean_output_commit": "afe4105b995edc8d3542059c8d468fdc20a9c582",
+      "run_evidence": "validation-batch11-run.json",
+      "full_inventory_unchanged": true,
+      "failure_outside_assignment_only": true
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_have_commentary": true,
+      "short_ids": [],
+      "commentary_chars": 27205
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "ok": true,
+      "checked": 472
+    },
+    "checked_at": "2026-10-20T17:52:58.409592+00:00"
+  }
 }
