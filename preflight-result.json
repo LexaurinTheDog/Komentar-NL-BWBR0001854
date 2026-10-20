@@ -2230,5 +2230,22 @@
         "matching_elements": []
       }
     ]
+  },
+  "bounded_author_a138aa_a143": {
+    "complete": true,
+    "scope": "Official source and parser preflight for author batch a138aa–a143; no whole-book authorship completion claim.",
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T21:46:46.500076+00:00",
+    "version_evidence": "sources/author-a138aa-a143-version-evidence.json",
+    "historical_versions_checked": "sources/author-a138aa-a143-historical-change-map.json",
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/author-a138aa-a143-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "unresolved_blockers": []
   }
 }

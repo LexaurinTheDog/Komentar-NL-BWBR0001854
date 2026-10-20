@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?Id=ECLI:NL:HR:2022:970",
+    "error": "not well-formed (invalid token): line 18, column 114"
+  },
+  {
+    "url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?Id=ECLI:NL:HR:2002:AE5651",
+    "error": "not well-formed (invalid token): line 18, column 114"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:970",
+    "http_status": 200,
+    "path": "sources/author-a138aa-a143-HR-2022-970.xml",
+    "sha256": "f0d50d6dc07b73e4950721094aacba7b2a2d7962fe76e79092f00649a643a32e",
+    "accessed_at": "2026-10-20T21:46:48.767492+00:00",
+    "full_text": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2002:AE5651",
+    "http_status": 200,
+    "path": "sources/author-a138aa-a143-HR-2002-AE5651.xml",
+    "sha256": "4b43e72b77d1d535bcaf6b748e9bbfe23d7ba1297670fd3f39c62f1767fd0217",
+    "accessed_at": "2026-10-20T21:46:48.900606+00:00",
+    "full_text": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AL6209",
+    "http_status": 200,
+    "path": "sources/author-a138aa-a143-HR-2003-AL6209.xml",
+    "sha256": "da2e0a87809ec9e1c24f2f2d55706e13a98351d06e2c5dccaa96aa737a51d589",
+    "accessed_at": "2026-10-20T21:47:05.255607+00:00",
+    "full_text": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:1262",
+    "http_status": 200,
+    "path": "sources/author-a138aa-a143-HR-2026-1262.xml",
+    "sha256": "16ac402c9cc31e66179dde1f0c58cf0db2609d7aebeb5205ee5b94519518e939",
+    "accessed_at": "2026-10-20T21:51:11.754994+00:00",
+    "full_text": true
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "search": "rg -l 138aa|computervredebreuk|139g in national HR corpus; targeted ECLI lookup for 2022:970 and 2003:AL6209",
+  "read_snapshots": [
+    {
+      "original": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-675.md",
+      "snapshot": "sources/author-a138aa-a143-local-2026-675.md",
+      "sha256": "66d8f4fb9917de28a5e21044ea07c86922d5ea8e64dddb44df6806d601f4d08a"
+    },
+    {
+      "original": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-475.md",
+      "snapshot": "sources/author-a138aa-a143-local-2026-475.md",
+      "sha256": "dddbe857d82eee3fc0de6a0b9e76e47bca1770f655b3ff7206fbba6617205d43"
+    },
+    {
+      "original": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-1262.md",
+      "snapshot": "sources/author-a138aa-a143-local-2026-1262.md",
+      "sha256": "4525afe1acba12ef40b2ec8726cbf2b307ac8311768d8a5e207c1a769feff890"
+    },
+    {
+      "original": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-970.md",
+      "snapshot": "sources/author-a138aa-a143-local-2022-970.md",
+      "sha256": "4ff78daa108333e27c9f30d684c4b7827b82fd45f88eb3bbe99a37f4444e2c21"
+    },
+    {
+      "original": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2003-al6209.md",
+      "snapshot": "sources/author-a138aa-a143-local-2003-al6209.md",
+      "sha256": "67d8fc62799912edb2026d83ab3a63f7d3527259c0b76641adb71f20534f93f4"
+    }
+  ],
+  "dispositions": {
+    "2026:675": "Article 81 RO dismissal on computer-access complaints; no independent substantive access rule inferred.",
+    "2026:475": "Youth-sanction combination; no substantive computer-access holding used.",
+    "2002:AE5651": "Fetched due to initial candidate search; actually article 140, not article 141; not cited in commentary.",
+    "2026:1262": "Used only for sentencing-reasons point in article 138aa.",
+    "2022:970": "Used for article 140.",
+    "2003:AL6209": "Used for article 141."
+  },
+  "limits": "Selective research only. No separate full-text verified case used for other assigned units; absence of citation does not establish absence of case law."
+}

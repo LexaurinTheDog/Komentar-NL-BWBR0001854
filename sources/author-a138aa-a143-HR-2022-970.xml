@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2022:970</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T08:14:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-06-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2022-07-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/01312</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:374" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2022:374</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHAMS:2021:639" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHAMS:2021:639</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2022/728</rdf:li>
+          <rdf:li>NJ 2022/362 met annotatie van N. Jörg</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:970">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:970</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-07-04T16:44:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-07-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2022:970 Hoge Raad , 05-07-2022 / 21/01312</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2022:970:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Hells Angels, charter Haarlem. Deelneming criminele organisatie door rechtspersoon (stichting), art. 140 Sr. Bewijsklachten. Heeft verdachte deelgenomen aan criminele organisatie? HR geeft rechtspraak over bestanddelen ‘deelneming’, ‘organisatie’ en ‘oogmerk’ op hoofdlijnen weer. Rechtspersoon a.b.i. art. 51 Sr kan worden aangemerkt als deelnemer aan criminele organisatie, als gedragingen waaruit deelneming a.b.i. art. 140 Sr bestaat aan hem kunnen worden toegerekend. HR herhaalt relevante overwegingen uit HR:2003:AF7938 m.b.t. uitgangspunten voor toerekening van gedragingen aan rechtspersoon. </para>
+        <para>Hof heeft geoordeeld dat sprake was van duurzaam en gestructureerd samenwerkingsverband tussen verdachte (stichting), negen leden van Hells Angels chapter Haarlem en partner van chapterlid, dat oogmerk van organisatie was gericht op plegen van diverse in bewezenverklaring genoemde misdrijven en is tot slotsom gekomen dat chapter Haarlem bedreigende en gewelddadige reputatie had en dat plegen van strafbare feiten werd aangemoedigd en beloond, waarbij door leden van chapter gepleegde strafbare feiten uit naam van chapter werden begaan. </para>
+        <para>Hof heeft verder geoordeeld dat gedragingen van voorzitter van verdachte aan verdachte kunnen worden toegerekend, omdat die gedragingen in sfeer van rechtspersoon passen. Verdachte had met ter beschikking stellen van clubhuis en verrichten van genoemde betalingen aandeel in gedragingen, dan wel ondersteunde gedragingen die strekten tot of rechtstreeks verband hielden met verwezenlijking van oogmerk van organisatie. Verdachte had (gelet op verwevenheid van verdachte met (leden van) chapter Haarlem) in zijn algemeenheid weet van criminele oogmerk van organisatie. </para>
+        <para>O.g.v. hiervoor weergegeven oordelen heeft hof bewezenverklaard dat verdachte heeft deelgenomen aan organisatie die tot oogmerk heeft plegen van in bewezenverklaring genoemde misdrijven. Hof heeft, gelet op vooropstellingen, aldus niet blijk gegeven van onjuiste rechtsopvatting. Verder is bewezenverklaring, gelet op bewijsvoering, toereikend gemotiveerd. </para>
+        <para>Volgt verwerping. Samenhang met 21/01272, 21/01219, 21/01271, 21/01305, 21/01309 en 21/01206.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2022:970:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	21/01312 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		5 juli 2022</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Amsterdam van 10 maart 2021, nummer 23-002769-18, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Stichting Hells Angels Haarlem, </para>
+      <para>gevestigd te Haarlem,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft J. Kuijper, advocaat te Amsterdam, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De advocaat-generaal B.F. Keulen heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para>De raadsvrouw van de verdachte heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel richt zich tegen de bewezenverklaring van de tenlastegelegde deelneming door de verdachte aan een criminele organisatie.</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is ten laste van de verdachte, een stichting, bewezenverklaard dat:</para>
+          <para>“zij in of omstreeks de periode van 01 mei 2014 tot en met 26 januari 2017 te Haarlem en elders in Nederland </para>
+          <para>heeft deelgenomen aan een organisatie, </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>welke organisatie bestond uit:</para>
+          <para>- verdachte, en </para>
+          <para>- Hells Angels, charter Haarlem (gevormd door: [betrokkene 1] en [betrokkene 2] en [betrokkene 3] en [medeverdachte 1] en [medeverdachte 2] en [medeverdachte 3] en [medeverdachte 4] en [medeverdachte 5] en [medeverdachte 6]) en</para>
+          <para>- [betrokkene 4],</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>welke organisatie het plegen van misdrijven tot oogmerk heeft, te weten één of meer misdrijven omschreven in:</para>
+          <para>- artikel 141 van het Wetboek van Strafrecht (het openlijk in vereniging geweld plegen tegen personen of goederen) en</para>
+          <para>- artikel 157 van het Wetboek van Strafrecht (het opzettelijk brand stichten of een ontploffing te weeg brengen) en</para>
+          <para>- artikel 284 van het Wetboek van Strafrecht (een ander door geweld of enige andere feitelijkheid of bedreiging met geweld of bedreiging met enige andere feitelijkheid, gericht tegen die ander of tegen een derde wederrechtelijk dwingen iets te doen of niet te doen of te dulden) en</para>
+          <para>- artikel 285 van het Wetboek van Strafrecht (bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen en/of bedreiging met enig misdrijf tegen het leven gericht, zware mishandeling of brandstichting) en</para>
+          <para>- artikel 300 van het Wetboek van Strafrecht (mishandeling) en</para>
+          <para>- artikel 301 van het Wetboek van Strafrecht (mishandeling gepleegd met voorbedachte raad) en</para>
+          <para>- artikel 302 van het Wetboek van Strafrecht (zware mishandeling) en</para>
+          <para>- artikel 303 van het Wetboek van Strafrecht (zware mishandeling gepleegd met voorbedachte raad) en</para>
+          <para>- artikel 304 aanhef en onder sub 2 van het wetboek van strafrecht (mishandeling, mishandeling met voorbedachte raad en/of zware mishandeling van een of meer ambtenaren gedurende of ter zake van de rechtmatige uitoefening van zijn / hun bediening) en</para>
+          <para>- artikel 317 van het Wetboek van Strafrecht (afpersing) en </para>
+          <para>- artikel 26 van de Wet Wapens en Munitie (voorhanden hebben van (een) wapen(s) en munitie van de categorie(ën) II en III van de Wet wapens en munitie).”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <para>Deze bewezenverklaring steunt in de kern op de bewijsmiddelen die in de conclusie van de advocaat-generaal in de zaak met nr. 21/01272 onder 25 zijn weergegeven (ECLI:NL:PHR:2022:376). Het arrest in die zaak heeft de Hoge Raad vandaag uitgesproken (ECLI:NL:HR:2022:969).</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Het hof heeft ten aanzien van de bewezenverklaring verder het volgende overwogen:</para>
+          <para>“Standpunt van het openbaar ministerie</para>
+          <para>De advocaat-generaal heeft zich op het standpunt gesteld dat de aan de verdachte tenlastegelegde deelname aan een criminele organisatie bewezen dient te worden verklaard, met dien verstande dat het niet bewezen kan worden dat de organisatie - tevens - het oogmerk heeft tot het plegen van misdrijven als bedoeld in de artikelen 141a, 170, 287, 289 en 312 Sr. Er is voldaan aan de vereisten die worden gesteld aan de strafbaarheid van een rechtspersoon.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Standpunt van de verdediging</para>
+          <para>De raadsvrouw heeft namens de verdachte vrijspraak bepleit van de tenlastegelegde deelneming aan een criminele organisatie.</para>
+          <para>Primair heeft de raadsvrouw daartoe naar voren gebracht dat enig oogmerk ontbreekt. Er was sprake van twee organisaties met twee verschillende oogmerken: binnen de Hells Angels Haarlem was er een organisatie bestaande uit [betrokkene 1], [betrokkene 2], [betrokkene 3] en [betrokkene 4], die tot oogmerk had het plegen van misdrijven, én een organisatie bestaande uit alle leden van de Hells Angels Haarlem, maar zonder [betrokkene 4], die geen crimineel oogmerk had. Deze laatste organisatie was gericht op het voortbestaan van de Hells Angels Haarlem en de verdachte behoorde daartoe. Nergens blijkt uit dat de verdachte – in zijn algemeenheid – op de hoogte was van het plegen van strafbare feiten door [betrokkene 1], [betrokkene 2] en [betrokkene 3] en dat deze feiten namens het charter werden gepleegd. De verdachte heeft nimmer bijgedragen aan dan wel enige rol gehad bij een bedreigende en gewelddadige reputatie van het charter of bij strafbare feiten. De verdediging heeft – bij wijze van alternatief scenario – naar voren gebracht dat de hoofdverdachten (het hof begrijpt: [betrokkene 1], [betrokkene 2] en [betrokkene 3]) naar de buitenwereld hebben opgetreden namens het hele charter, terwijl zij tegenover de overige leden van de Hells Angels deden alsof het ging om persoonlijke gedragingen. Ten aanzien van het belonen van het geweld, dat in verband wordt gebracht met het criminele oogmerk, geldt dat de betekenissen van bepaalde uiterlijke kenmerken en termen daar geen onderbouwing voor bieden, nu de betekenissen daarvan niet objectief kunnen worden vastgesteld. De verklaring die de verdachte over de patch ‘dequiallo’ heeft gegeven wordt niet weersproken door de inhoud van zijn strafblad. De term ‘omerta’ kan evenmin bijdragen aan de stelling dat geweld wordt beloond binnen het charter en dat daaruit het criminele oogmerk kan worden afgeleid. Als al sprake zou zijn van wetenschap van betekenissen, dan brengt dit niet mee dat de verdachte in zijn algemeenheid heeft geweten van een oogmerk tot het plegen van misdrijven. </para>
+          <para>Voor zover geoordeeld zou worden dat sprake is van een organisatie waartoe de verdachte behoort én dat deze organisatie tevens het oogmerk had tot het plegen van misdrijven, is er onvoldoende bewijs dat de verdachte bewust heeft deelgenomen aan een criminele organisatie, laat staan dat sprake is geweest van een duurzaam en gestructureerd samenwerkingsverband op dit punt. De verdachte heeft geen wetenschap (achteraf) gehad van de gepleegde strafbare feiten gelieerd aan het charter en hij heeft ook geen wezenlijk aandeel gehad bij het laten voortbestaan van die criminele organisatie. De verdediging heeft onder verwijzing naar verschillende zaaksdossiers betwist dat de oude garde, waartoe de verdachte behoorde, vooraf wetenschap had van de door [betrokkene 1], [betrokkene 3] of [betrokkene 2] gepleegde strafbare feiten en dat deze strafbare feiten zijn gepleegd in het kader van de club. Indien er al sprake was van wetenschap, is deze achteraf gekomen, waarna door de verdachte en de andere leden van het charter onverwijld is gehandeld door [betrokkene 1], [betrokkene 2] en [betrokkene 3] uit de club te gooien. Daaruit blijkt eveneens dat de verdachte en de andere leden van de Hells Angels Haarlem eerder niet op de hoogte waren van het plegen van strafbare feiten door voornoemden. Het zelfregulerende vermogen van de club blijkt eveneens uit de maatregelen die zijn getroffen tegen getuigen [betrokkene 5] en [betrokkene 8]. Naar het oordeel van de verdediging kan niet worden gesteld dat de verdachte een wezenlijk aandeel had in het laten voortbestaan van die criminele organisatie. </para>
+          <para>Indien het hof zou oordelen dat de verdachte enige wetenschap achteraf heeft gehad van strafbare feiten die in het kader van het charter zijn gepleegd, dan is het eveneens noodzakelijk dat de verdachte ook daadwerkelijk een aandeel heeft gehad in de criminele organisatie. Niet kan worden geoordeeld dat de verdachte een dergelijk aandeel heeft gehad door het ter beschikking stellen van het clubhuis en het sporadisch ter beschikking stellen van de bankrekening aan leden van het charter. Het clubhuis is niet gebruikt bij gepleegde strafbare feiten en het ter beschikking stellen van een pand aan personen, die buiten wetenschap van de verdachte om strafbare feiten plegen, maakt niet dat de eigenaar van dat pand strafrechtelijk een verwijt kan worden gemaakt. De OVC-gesprekken in het clubhuis nopen evenmin tot dat oordeel. Ook het sporadisch overmaken van geld naar (gedetineerde) leden maakt niet dat daarmee een criminele organisatie wordt gefinancierd.</para>
+          <para>Ook in het geval het hof zou oordelen dat een van de bestuurders van de verdachte, namelijk [medeverdachte 6], wetenschap heeft gehad van of een aandeel heeft gehad bij een strafbare gedraging in het kader van het charter Hells Angels Haarlem, dient vrijspraak te volgen. Niet kan worden vastgesteld dat het andere bestuurslid hiervan op de hoogte is geweest of daar een aandeel in heeft gehad. Het handelen/nalaten van [medeverdachte 6] kan niet aan de verdachte worden toegerekend, waarbij de raadsvrouw heeft gewezen op de zogenaamde “IJzerdraadcriteria”. Voor toerekening is enige mate van gezamenlijkheid vereist van alle leidinggevenden van een rechtspersoon. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordeling door het hof</para>
+          <para>Voor beantwoording van de vraag of de verdachte zich in de ten laste gelegde periode schuldig heeft gemaakt aan deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, zal het hof hierna de bestanddelen “organisatie”, “oogmerk van de organisatie” en “deelneming aan de organisatie” bespreken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(...)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Organisatie</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordelingskader</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Volgens vaste jurisprudentie moet onder een organisatie als bedoeld in artikel 140 Sr worden verstaan een samenwerkingsverband, met een zekere duurzaamheid en structuur, tussen de verdachte en tenminste één andere persoon. Niet is vereist dat daarbij komt vast te staan dat een persoon – om als deelnemer aan die organisatie te kunnen worden aangemerkt – moet hebben samengewerkt met, althans bekend moet zijn geweest met alle andere personen die deel uitmaken van de organisatie of dat de samenstelling van het samenwerkingsverband steeds dezelfde is (Hoge Raad 20 maart 2018, ECLI:NL:HR:2018:378).</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof leidt uit de bewijsmiddelen het volgende af. De Stichting Hells Angels Haarlem (hierna ook: de Stichting) staat ingeschreven op het adres aan de Baljuwslaan 23 te Haarlem en is eigenaar van het aldaar gelegen pand. [medeverdachte 6] is voorzitter van de Stichting. Hells Angels, charter Haarlem (hierna ook: Hells Angels Haarlem), maakt gebruik van het pand aan de Baljuwslaan 23 te Haarlem als clubhuis. De Stichting beschikt over een bankrekening, die wordt gevoed door contante stortingen en vanaf welke rekening de vaste lasten voor het clubhuis worden betaald. De ‘treasurer’ (hof: penningmeester) van de Hells Angels Haarlem heeft de beschikking over de bankrekening van de Stichting. In de ten laste gelegde periode zijn [medeverdachte 6], [medeverdachte 3], [medeverdachte 1], [medeverdachte 4], [betrokkene 1], [betrokkene 3], [medeverdachte 5], [betrokkene 2] en [medeverdachte 2] allen lid van dit charter. Binnen het charter is sprake van een strakke structuur met diverse functies. [betrokkene 1] is president, [medeverdachte 1] is vice-president, [medeverdachte 2] is ‘road captain’, [betrokkene 3] is ‘treasurer’, [medeverdachte 3] is ‘secretary’ en [betrokkene 2] is de ‘sergeant at arms’. [medeverdachte 4], [medeverdachte 5] en [medeverdachte 6] zijn ‘full colour member’. </para>
+          <para>De leden dragen een hesje, de zogenaamde ‘colours’, waardoor zichtbaar is dat zij lid zijn van Hells Angels, charter Haarlem. Zij betalen contributie voor het lidmaatschap, met welke contributie de vaste lasten voor het clubhuis worden betaald, met uitzondering van [medeverdachte 5], die daar de laatste jaren van is vrijgesteld gelet op zijn leeftijd en zijn financiële situatie. Leden van de Hells Angels Haarlem overleggen structureel in periodieke overleggen en op basis van ad-hoc belegde bijeenkomsten.</para>
+          <para>Hells Angels Haarlem heeft eigen clubregels. De verdachte was bekend met deze regels. Beslissingen binnen het charter worden op democratische wijze genomen, waarbij alle leden een stem hebben in te nemen beslissingen.</para>
+          <para>
+            [betrokkene 4] is geen lid van Hells Angels, charter Haarlem. Ten tijde van de detentie van haar partner [betrokkene 1] was zij wel de cruciale schakel tussen [betrokkene 1] en andere leden van de Hells Angels Haarlem. Met name met [betrokkene 3] en [betrokkene 2] onderhield zij telefonisch contact en zij had ontmoetingen met hen, onder meer over club gerelateerde zaken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof concludeert op basis van het voorgaande dat sprake is van een duurzaam en gestructureerd samenwerkingsverband tussen de leden van de Hells Angels Haarlem, zijnde [medeverdachte 6], [medeverdachte 3], [medeverdachte 1], [medeverdachte 4], [betrokkene 1], [betrokkene 3], [medeverdachte 5], [betrokkene 2] en [medeverdachte 2], samen vormend Hells Angels, charter Haarlem, en de Stichting en [betrokkene 4] gedurende de ten laste gelegde periode.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Oogmerk van de organisatie</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordelingskader</para>
+          <para>Het oogmerk van de organisatie moet zijn gericht op het plegen van misdrijven, maar niet is vereist dat het plegen van misdrijven de voornaamste bestaansgrond van de organisatie is (HR 15 juni 2010, ECLI:NL:HR:2010:BK6148). Het oogmerk ziet op het feitelijke en gewenste doel van de organisatie. Daarbij is voor een bewezenverklaring voldoende dat het plegen van misdrijven wordt beoogd, zodat nog geen aanvang hoeft te zijn gemaakt met het daadwerkelijke plegen daarvan. Het oogmerk behoeft in de tenlastelegging niet nader omschreven te zijn, maar zal uit de bewijsmiddelen moeten blijken (HR 13 oktober 1987, NJ 1988/425). Voor bewijs van het bestanddeel "oogmerk" zal onder meer betekenis kunnen toekomen aan misdrijven die in het kader van de organisatie reeds zijn gepleegd, aan het meer duurzaam of gestructureerde karakter van de samenwerking, zoals daarvan kan blijken uit de onderlinge verdeling van werkzaamheden of onderlinge afstemming van activiteiten van deelnemers binnen de organisatie met het oog op het bereiken van het gemeenschappelijke doel van de organisatie, en, meer algemeen, aan de planmatigheid of stelselmatigheid van de met het oog op dit doel verrichte activiteiten van deelnemers binnen de organisatie (HR 15 mei 2007, ECLI:NL:HR:2007:BA0502, NJ 2008/559).</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De organisatie bestond, zoals hiervoor is vastgesteld uit de full members van het charter Hells Angels Haarlem, [betrokkene 4] en de Stichting Hells Angels Haarlem. Het charter Hells Angels Haarlem vormde daarbij het middelpunt van de organisatie. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Bij het beantwoorden van de vraag of de organisatie het oogmerk had op het plegen van misdrijven komt naar het oordeel van het hof betekenis toe aan de volgende feiten en omstandigheden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>A. Bedreigende en gewelddadige reputatie</para>
+          <para>Het hof leidt uit de bewijsmiddelen af dat het charter Hells Angels Haarlem een bedreigende en gewelddadige reputatie heeft. Uit diverse verklaringen en tapgesprekken blijkt dat slachtoffers van strafbare gedragingen door leden van de Hells Angels Haarlem geen aangifte durven te doen uit angst voor represailles en dat getuigen niet of nauwelijks durven te verklaren. Zo heeft getuige [betrokkene 16] in het contact met de politie verklaard dat de Hells Angels nergens voor terugdeinzen en tot alles in staat zijn. Ook blijkt uit zijn gesprek met de politie dat hij zeer angstig is dat de club erachter komt dat hij contact heeft met de politie. Hij durft van meerdere voorvallen geen aangifte te doen. Ook getuige [betrokkene 17] wilde geen verklaring afleggen of aangifte doen, omdat hij geen lopende schietschijf wil zijn in Haarlem. Uit de gesprekken met de politie en de tapgesprekken blijkt dat de getuige [betrokkene 7], voormalig ‘hangaround’ van de Hells Angels Haarlem, angstig is, niet wil dat de leden van de club erachter komen wat hij de politie heeft verteld en hij hen tot alles in staat acht. Wanneer de politie bij de getuigen [betrokkene 18] en [betrokkene 19] langs komt, naar aanleiding van de mishandeling van [betrokkene 18], geeft [betrokkene 19] aan geen aangifte te willen doen, omdat de Hells Angels dan ongetwijfeld langs komen en de ramen inschieten met mitrailleurs. Getuige [betrokkene 9] heeft verklaard dat hij in het verleden betalingen heeft moeten doen aan de Hells Angels Haarlem en dat hij in die tijd doodsbang was. Tenslotte verklaart ook getuige [betrokkene 20], afgeperst en mishandeld door leden van de Hells Angels Haarlem, nauwelijks uit angst voor wat er kan gebeuren.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Voornoemde getuigen zijn, met uitzondering van [betrokkene 17], eveneens ter terechtzitting in hoger beroep gehoord. Gelet op de in hoger beroep afgelegde verklaringen, bezien in samenhang met de eerder door hen afgelegde verklaringen, kan het hof zich niet aan de indruk onttrekken dat een aantal van de getuigen nog steeds niet het achterste van hun tong heeft durven laten zien uit angst voor mogelijke represailles. Zo geeft getuige [betrokkene 16] enerzijds aan niet te weten van waaruit de opdracht om hem te dwingen zijn tattooshop te sluiten is gegeven, maar verklaart hij anderzijds: “Ik weet niet precies vanuit welke groep dit is gekomen, maar als er al twee aan je deur staan..” Dit, nadat hij even ervoor had gezegd dat [betrokkene 1] en [betrokkene 2] aan de deur stonden, daarbij doelend op [betrokkene 1] en [betrokkene 2], van wie hij wist dat ze lid waren van de Hells Angels Haarlem. Op de vraag of hij bang was antwoordt hij: “Weet u, ik had niet te maken met de plaatselijke roeivereniging en ik wist niet wie ik tegenover mij had.” Getuige [betrokkene 19] geeft aan zich delen van het gesprek met de politie niet meer te kunnen herinneren en evenmin dat zij contact heeft gezocht met [betrokkene 3]. Getuige [betrokkene 9] heeft verklaard dat hij het geld dat hij heeft betaald niet zag als een boete en dat hij zich nooit afgeperst heeft gevoeld. Tegelijkertijd verklaart hij: “Ik heb twee ouders en meerdere zaken en als je auto in de brand wordt gestoken (...).” [betrokkene 20] heeft verklaard dat het niet klopt dat hij bang was en dat de politie zoveel kan opschrijven. Voorts verklaart hij: “Als je een boete moet betalen, moet je het betalen. Ik wil er niets meer over verklaren. Ik ben er klaar mee. Ik heb ook tegen de agent gezegd dat ik geen represailles wilde.” Getuige [betrokkene 7] heeft voorafgaand aan het verhoor ter terechtzitting laten weten angstig te zijn te verklaren in het bijzijn van de verdachten. Ter terechtzitting heeft hij verklaard dat hij niet door tuig opgewacht wil worden vanwege het afleggen van een getuigenverklaring. Ook verklaarde hij op de vraag van medeverdachte [medeverdachte 2] of hij bang voor hem is: “Ik ben voor geen één van jullie individueel bang. Ik weet dat de club ver reikend kan zijn en een club waarmee ik niet op goede voet sta – en dat sta ik op dit moment niet – heeft de mogelijkheden om mij door anderen het leven zuur te laten maken.” Ten slotte is in hoger beroep ook oud-lid van de Hells Angels Haarlem [betrokkene 5] als getuige gehoord. Hij verklaarde eerder bij de politie bang te zijn dat de Hells Angels er via de advocaten achter komen dat hij wat heeft verteld. Daarmee geconfronteerd ter terechtzitting in hoger beroep verklaarde hij dat hij het niet zo tegen de politie heeft gezegd. Nadat wordt voorgehouden dat hij tot twee keer tegen de politie heeft gezegd dat hij angst had voor represailles, antwoordt hij dat dat misschien voor zichzelf was maar niet voor zijn vrouw en kinderen en dat hij het merkwaardig vindt dat de politie het zo heeft opgeschreven. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Dat de leden van de Hells Angels Haarlem zich ook bewust zijn van deze reputatie, blijkt onder meer uit een uitlating die [betrokkene 2] doet tijdens de clubvergadering op 16 september 2016, in aanwezigheid van de verdachte en de overige leden van de Hells Angels Haarlem, namelijk dat het chapter Haarlem in Holland bekend staat als kei- en keihard. Ook zegt [betrokkene 1] in een telefoongesprek met [betrokkene 4]: “Wij zijn het beestachtige chapter” (...) “op een clubavond waar vier of vijf man van ons zijn, we steken de boel in de brand, gooien de krukken door de deur heen, ehhh ... wat doen we niet, er wordt gewoon geschoten binnen in het clubhuis.” </para>
+          <para>De reputatie van de Hells Angels Haarlem komt tevens naar voren in een tweetal krantenberichten in het dossier van 30 april 2015 en 19 juni 2015. In het eerste bericht staat vermeld dat [betrokkene 1] de [medeverdachte 6] is van en nieuwkomer is binnen het beruchte chapter in Haarlem en hij in verband wordt gebracht met het plegen van strafbare feiten. In het tweede bericht staat vermeld dat Hells Angels Haarlem voorman [betrokkene 1] uit is op oorlog en een harde lijn hanteert.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>B. Belonen en aanmoedigen van strafbare gedragingen</para>
+          <para>Voorts leidt het hof uit de bewijsmiddelen af dat het plegen van strafbare gedragingen, met name geweld, door de Hells Angels Haarlem wordt aangemoedigd en beloond. </para>
+          <para>In het clubhuis hangt een oorkonde met de tekst ‘Deathhead Purple Heart’. Op de oorkonde staat in het Engels dat een ieder die dit heeft verdiend zijn bloed heeft gegeven ter verdediging en eer van de Hells Angels. Het hof leidt uit het dossier af dat de zogenaamde patch ‘dequiallo’ verdiend kan worden door toegepast geweld door clubleden van Hells Angels richting overheidspersoneel. Deze term is in het clubhuis op de muur geschilderd. Vier leden van de Hells Angels Haarlem dragen deze patch: [betrokkene 1], [betrokkene 2], [medeverdachte 4] en [medeverdachte 2]. Dat de patch een andere betekenis zou hebben, zoals door medeverdachten ter terechtzitting in hoger beroep naar voren gebracht, acht het hof gelet op het navolgende niet aannemelijk. In een afgeluisterd gesprek noemt [betrokkene 1] [betrokkene 3] een slappeling omdat hij nog geen ‘dequiallo’ heeft en zegt dat hij [wijkagent] (hof: de wijkagent) in elkaar moet stompen. In de arrestantenbus op 26 januari 2017 zegt [betrokkene 3] dat ze voor zijn neus stonden en dat hij dacht aan ‘dequiallo’. Ook in een ander gesprek zegt [betrokkene 3]: “Als ik aangehouden word, ga ik voor dequiallo.” Ten slotte heeft [betrokkene 2] ter terechtzitting in hoger beroep verklaard dat verzet bij arrestatie een betekenis van ‘dequiallo’ is. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tijdens de clubvergadering van 16 september 2016 wordt het belang van het dragen van de patches door [medeverdachte 3] onderstreept: “Het is een sowieso een straf als jij je patch niet aan mag, of je nou een T-shirt mag dragen of niet het gaat om je patch.” </para>
+          <para>Ook gebruikt Angels Haarlem de ‘ball peen hammer’ (bolhamer) als symbool. Dit symbool is bedoeld voor leden die geverifieerd geweld namens de club hebben gebruikt. Op de motor van [medeverdachte 3] is een ‘ball peen hammer’ aangetroffen. </para>
+          <para>Dat het plegen van strafbare feiten door de leden van de Hells Angels Haarlem volstrekt normaal wordt gevonden en wordt geaccepteerd – en daarmee indirect wordt aangemoedigd – blijkt ook uit de inzamelingen die voor gedetineerde leden worden georganiseerd, de zogenaamde Big House Crew. Op 23 juli 2016 vindt een inzameling plaats voor [betrokkene 1] die op dat moment gedetineerd zit. In dat verband wijst het hof ook op de uitlatingen van [betrokkene 1] tijdens de clubvergadering op 16 september 2016: “we moeten wel aan de toekomst denken en (...) laten we hopen van niet maar ik ken vast komen, hij ken vast komen als jij woorden krijgt met je buurman en je slaat hem achterstevoren dan ken je ook vast komen”, “We kennen allemaal vastkomen” en “dan moet het niet zo zijn dat nu moeten jullie voor mij betalen maar als er twee of drie man vast zitten dan heb je een fucking probleem.” Op diezelfde clubvergadering zegt [betrokkene 1]: “Hee als justitie zijn shit beter had geregeld en van der Valk betere camera’s had gehad ja? Dan had hij vast gezeten, had hij vast gezeten, had hij vast gezeten en had ik vast gezeten ja?” </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De acceptatie van strafbare gedragingen door leden van de Hells Angels blijkt naar het oordeel van het hof eveneens uit de omstandigheid dat het niet de bedoeling is dat leden van de Hells Angels Haarlem (met de politie) praten. Dit volgt allereerst uit regel 12 van de clubregels van de Hells Angels Haarlem: “Alles wat Hells Angels H’lem met elkaar bespreken blijft tussen ons; dus wordt op geen enkele manier naar buiten gebracht.” Op een muur in het clubhuis staat ook groot de tekst ‘omerta (hof: de geheimhoudingsplicht/zwijgplicht)’ geschilderd. Na de aanhouding van leden van de Hells Angels Haarlem op 26 januari 2017 fluistert [medeverdachte 6] in de arrestantenbus: “zwijgen ... met alles”</para>
+          <para>Tevens wordt op de clubvergadering van 16 september 2016 gesproken over het ‘sweepen van het clubhuis’, waarna [betrokkene 1] zegt: “je moet hier gewoon niet domme dingen lullen” en “we zitten allemaal van hier niet praten en daar niet praten als er echt wat te bespreken, wat we echt niet willen gaan we weg. Gaan we ergens anders heen simpel zat. Die dagelijkse dingen en die club dingen daar kennen we gewoon over praten.” Tijdens een andere clubvergadering wordt [medeverdachte 4] aangesproken dat hij zijn telefoon moet weggooien en een nieuw nummer moet nemen, omdat ‘ze alles terug kunnen halen’. Ten slotte blijkt ook uit een afgeluisterd gesprek van [medeverdachte 5] dat hij, wanneer een vrouw contact met hem zoekt die ervan wordt beschuldigd verdovende middelen te hebben gestolen vanuit het clubhuis van de Hells Angels te Haarlem, niet wil dat dit soort dingen over de telefoon wordt besproken.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>C. Misdrijven</para>
+          <para>Tevens blijkt uit de bewijsmiddelen in het dossier dat leden van de Hells Angels Haarlem zich in de tenlastegelegde periode schuldig hebben gemaakt aan het plegen van misdrijven, die naar het oordeel van het hof rechtstreeks verband houden met het charter. Het hof maakt daarbij een onderscheid tussen delicten waarbij sprake is van (fysieke en/of verbale) intimidatie en feiten die verband houden met wapenbezit.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Afpersing, dwang, bedreiging en mishandeling</para>
+          <para>Het hof leidt uit het dossier af dat een aantal strafbare feiten zijn gepleegd jegens personen omdat zij lid zijn van een andere motorclub dan wel omdat concurrentie van andere motorclubs niet wordt geduld. De verhouding tussen de Hells Angels Haarlem en andere motorclubs komt onder meer een aantal keer ter sprake tijdens de clubvergadering van 16 september 2016. Zo zegt [betrokkene 2]: “wij kwamen er een paar weken geleden een tegen he? Ik dacht eerst No Surrender, ik rij de benzine pomp op, ik had bijna me stuur verbogen want er zaten een paar andere gasten, zat daar een Satu..” Ook [betrokkene 1] zegt: “Onze club is het belangrijkste wij moeten met elkaar door een deur kennen en waarom moet je handjes schudden met Satudarah” en “ik vind dat we alle recht van spreken hebben omdat we met heel veel dingen het voortouw hebben genomen en als enigste stad kunnen zeggen dat wij die kanker honden hier niet hebben en dat komt alleen maar door onze eigen houding die we hebben en wij kennen gewoon zeggen van luister als er geflikkerd word met die Satudarah’s, Bandidos, No Surender, Mongols, Outlaws die hele kanker zooi als Holland daar voor is dan krijgen we net als vorige keer gewoon weer tweestrijd”. </para>
+          <para>In zaaksdossier C-02 Alt is getuige [betrokkene 17] in zijn café door zes leden van de Hells Angels in full colours gedwongen om zijn No Surrender-vest af te geven. De Hells Angels hebben [betrokkene 17] duidelijk gemaakt dat ze geen No Surrender in Haarlem willen. Toen [betrokkene 17] zijn lidmaatschap bij No Surrender niet had beëindigd, zoals hem door [betrokkene 1] en [betrokkene 2] was opgedragen, is hij in hun bijzijn geslagen.</para>
+          <para>In dossier C-13 Vuurduin is getuige [betrokkene 21], lid van de motorclub Satudarah, mishandeld door [betrokkene 3]. Volgens een getuige werd er ook ‘tering Satudarah’ geroepen. Na dit voorval is er contact tussen [betrokkene 2], als ‘sergeant at arms’ van de Hells Angels Haarlem, en de ‘national sergeant’ van Satudarah. Getuige [betrokkene 6], lid van No Surrender, wordt in zaaksdossier C-15 Martini (met voorbedachte raad) mishandeld door [betrokkene 2]. Deze mishandeling vindt plaats vlak nadat [betrokkene 2] door Meijnckens op de hoogte wordt gebracht van het feit dat hij een lid van No Surrender ziet rijden. </para>
+          <para>Ten slotte blijkt uit de zaaksdossiers C-04 Begles, C-05 Bornrif, C-07 Stereo en C-08 Kasteel dat [betrokkene 1] tweemaal opdracht gegeven heeft tot brandstichting bij sporthal De Weyver in Hoogwoud. Bij een van die brandstichtingen heeft hij de opdracht daartoe via [betrokkene 4] aan [betrokkene 3] gegeven, die voor de verdere uitvoering moest zorgdragen. [betrokkene 1] heeft ook op verschillende momenten dreigberichten naar [betrokkene 23], de eigenaar van sporthal De Weyver, verstuurd. Door middel van deze dreigberichten en brandstichtingen heeft [betrokkene 1] [betrokkene 23] geprobeerd te dwingen om de jaarlijks georganiseerde choppershow van de motorclub Rogues MC geen doorgang te laten vinden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tevens hebben een aantal strafbare feiten plaatsgevonden tegen personen die (voorheen) gelieerd waren aan de Hells Angels Haarlem. </para>
+          <para>Toen de getuige [betrokkene 7] als hangaround bij de Hells Angels Haarlem wilde stoppen, is geprobeerd hem met geweld en bedreiging met geweld te dwingen zijn motor af te geven, waarbij [betrokkene 3] [betrokkene 7] een klap in het gezicht heeft gegeven (zaaksdossier C-14 Uitkijk). </para>
+          <para>Ook [betrokkene 20] is door [betrokkene 1] en [betrokkene 2] afgeperst (zaaksdossier C-18 Wester). [betrokkene 20] was lid van Alcatraz Wanted, een supportclub van Hells Angels Haarlem, en had – in de ogen van [betrokkene 1] en [betrokkene 2] – nagelaten een envelop met ingezameld geld te bezorgen bij de vrouw van een gedetineerd lid van Alcatraz Wanted. [betrokkene 1] en [betrokkene 2] hebben daarin aanleiding gezien om aan [betrokkene 20] als lid van een supportclub een boete op te leggen. [betrokkene 20] moest om die reden een aantal keren naar het clubhuis komen, waar hij tevens klappen heeft gehad van [betrokkene 1] en [betrokkene 2].</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tenslotte hebben ook een aantal strafbare feiten plaatsgevonden tegen willekeurige personen. Uit het dossier blijkt dat [betrokkene 3] [betrokkene 18] heeft mishandeld nadat hij eerder heeft geprobeerd hem te dwingen tot afgifte van een geldbedrag (zaaksdossier C-16 Westpoint). In de afgeluisterde telefoongesprekken verwijst [betrokkene 3] naar de Hells Angels en dat de club ermee gemoeid is. Tevens blijkt daaruit dat [betrokkene 3] zich na de mishandeling van [betrokkene 18] moet melden in Haarlem. Ten overvloede merkt het hof op dat uit het dossier nog blijkt dat wanneer [betrokkene 3] erachter komt dat de getuige bij een andere motorclub zit, hij het helemaal een legitieme reden vindt en dat er dan helemaal op hem gejaagd gaat worden.</para>
+          <para>Voorts blijkt uit het zaaksdossier C-17 Millennium dat [betrokkene 2] en [betrokkene 1] [betrokkene 9] hebben afgeperst door hem met bedreiging met geweld te dwingen tot de afgifte van € 10.000,-. Uit gesprekken in het dossier blijkt dat deze beslissing er lag en dat [betrokkene 2] en [betrokkene 1] hieraan uitvoering hebben gegeven.</para>
+          <para>Ten slotte is de getuige [betrokkene 16] door [betrokkene 2] en [betrokkene 1] gedwongen om zijn tattooshop in Haarlem te sluiten. Alhoewel [betrokkene 2] en [betrokkene 1] voor dit zaaksdossier (C-01 Budel) zijn vrijgesproken, nu het sluiten van de tattooshop door [betrokkene 16] niet in de tenlastegelegde periode heeft plaatsgevonden, blijkt naar het oordeel van het hof uit het dossier en het verhandelde ter terechtzitting in hoger beroep dat de getuige zich door de mededelingen van [betrokkene 1] en [betrokkene 2], namelijk dat ze niet blij waren met de terugkomst van [betrokkene 16] in Haarlem en dat hij maar beter kon stoppen met zijn pas geopende tattooshop, genoodzaakt heeft gevoeld zijn tattooshop te sluiten.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Wapens en munitie</para>
+          <para>
+            [betrokkene 1] en [betrokkene 3] hebben in het clubhuis van de Hells Angels Haarlem een vuurwapen en een geluiddemper voorhanden gehad (zaaksdossier C-19 Boor). Uit het dossier blijkt dat met dit wapen is geschoten, gelet op de kogel die in de openhaard van het clubhuis is aangetroffen.</para>
+          <para>Conclusie met betrekking tot het oogmerk</para>
+          <para>Het hof constateert dat de Hells Angels Haarlem een bedreigende en gewelddadige reputatie hebben en dat het plegen van strafbare feiten wordt aangemoedigd en beloond. Uit het voorgaande en de bewijsmiddelen in het dossier is tevens gebleken dat door de leden van de Hells Angels Haarlem strafbare feiten worden gepleegd uit naam van het charter en niet, zoals door de verdediging betoogd, op persoonlijke titel. </para>
+          <para>Om die reden komt het hof tot de conclusie dat de organisatie een oogmerk heeft gericht op het plegen van misdrijven, namelijk openlijke geweldpleging, brandstichting, dwang, bedreiging, (zware) mishandeling (met voorbedachte raad en van ambtenaren), afpersing en overtreding van de Wet wapens en munitie. Het hof acht onvoldoende bewijs aanwezig met betrekking tot het oogmerk ten aanzien van de overige tenlastegelegde misdrijven.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deelneming</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordelingskader</para>
+          <para>Volgens vaste rechtspraak van de Hoge Raad is sprake van deelneming aan een organisatie als bedoeld in artikel 140 Sr als de verdachte behoort tot het samenwerkingsverband én als de verdachte een aandeel heeft in, dan wel ondersteunt, gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het in artikel 140 Sr bedoelde oogmerk.</para>
+          <para>Elke bijdrage aan een organisatie kan strafbaar zijn. Een dergelijke bijdrage kan bestaan uit het (mede)plegen van enig misdrijf, maar ook uit het verrichten van hand- en spandiensten die op zichzelf niet strafbaar zijn, zolang van bovenbedoeld aandeel of ondersteuning kan worden gesproken. In het bestanddeel ‘deelneming aan’ een organisatie als bedoeld in art. 140 lid 1 Sr ligt tevens het opzet van de verdachte besloten. Redelijke wetsuitleg brengt volgens de Hoge Raad mee dat voor "deelneming" voldoende is dat de verdachte in zijn algemeenheid weet (in de zin van onvoorwaardelijk opzet) dat de organisatie tot oogmerk heeft het plegen van misdrijven.</para>
+          <para>Het opzet van de verdachte moet dus zijn gericht op het deelnemen aan de organisatie. Volgt uit de bewijsvoering dat de verdachte een aan de verwezenlijking van het oogmerk van de organisatie bijdragende of ondersteunende handeling heeft verricht, dan ligt daarin zijn wetenschap met betrekking tot dat oogmerk besloten.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>De Stichting</para>
+          <para>Uit het uittreksel van de Kamer van Koophandel van 13 juni 2016 betreffende de Stichting blijkt dat de statutaire naam is: Stichting Hells Angels Haarlem. Het bezoekadres is Baljuwslaan 23 te Haarlem. De datum van oprichting is 19 november 1979. Activiteiten zijn: auto- en motorsport, motorsportverenigingen. [medeverdachte 6] is voorzitter en gezamenlijk bevoegd met [betrokkene 15], secretaris. Het adres van [betrokkene 15] is in [plaats], Duitsland. De Stichting is eigenaar van het pand Baljuwslaan 23 te Haarlem.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Handelingen</para>
+          <para>Uit de feitelijke gang van zaken leidt het hof af, dat de Stichting het pand Baljuwslaan 23 te Haarlem beschikbaar stelt aan de leden van het charter Hells Angels Haarlem, teneinde dit als clubhuis te gebruiken. Niet gebleken is dat het charter een vergoeding betaalt voor het gebruik van het pand.</para>
+          <para>De Stichting beschikt over diverse bankrekeningen, waaronder een ‘bestuurrekening’. De tenaamstelling van deze rekening is: ‘Stichting Hells Angels Haarlem t.a.v: [medeverdachte 6]’. De rekening wordt gevoed door contante stortingen. Van deze rekening worden de betalingen voor vaste lasten van het pand Baljuwslaan 23 te Haarlem gedaan, zoals UPC (communicatie), gemeentebelasting en NUON (GWL). Door [medeverdachte 6] is ter terechtzitting van het hof verklaard dat de vaste lasten voor het clubhuis worden betaald uit de contributie van de leden van het charter Hells Angels Haarlem. Ook worden vanaf deze rekening bedragen overgemaakt voor verschillende personen in verschillende PI’s, waaronder [medeverdachte 4] en [betrokkene 1]. Gebleken is dat binnen het charter Haarlem geld wordt ingezameld voor gedetineerde leden. Bij een overschrijving van 10 augustus 2015 naar PI Zwaag, bedoeld voor [betrokkene 1], staat vermeld: “broer ik mis je!!! Hou vol!!!”.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Wie heeft de handelingen namens de Stichting verricht?</para>
+          <para>Het hof overweegt als volgt. [medeverdachte 6] is full colour member van het charter Hells Angels Haarlem. [betrokkene 15] is dit in het verleden geweest maar is, zoals hij ter terechtzitting in eerste aanleg van 26 maart 2018 heeft verklaard, sinds 6 of 7 jaar weg uit Haarlem en daarna lid geworden van de Hells Angels in Limburg. Het hof overweegt dat [betrokkene 15] weliswaar heeft verklaard dat hij nog contact met [medeverdachte 6] heeft en met hem spreekt over de financiële zaken en het onderhoud van het clubhuis, maar dat niet is gebleken van een directe bemoeienis van [betrokkene 15] bij de dagelijkse gang van zaken binnen de Stichting. [betrokkene 3] heeft ter terechtzitting van het hof verklaard dat hij als ‘treasurer’ (penningmeester) van het charter Hells Angels Haarlem de gas- water- en lichtrekeningen betaalt. Evenwel vermeldt de tenaamstelling van de rekening waarmee deze betalingen worden gedaan de naam van [medeverdachte 6] en is [medeverdachte 6] als bestuurder bevoegd. Het hof merkt [medeverdachte 6], gelet op hetgeen hiervoor is overwogen, dan ook aan als (mede)pleger van de hiervoor omschreven namens de Stichting verrichte handelingen.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Kan dit handelen de Stichting worden toegerekend?</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordelingskader</para>
+          <para>Het hof stelt voorop dat een rechtspersoon als dader van een strafbaar feit kan worden aangemerkt indien de gedraging in redelijkheid aan de rechtspersoon kan worden toegerekend. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Die toerekening is afhankelijk van de concrete omstandigheden van het geval, waartoe mede behoort de aard van de (verboden) gedraging. Een belangrijk oriëntatiepunt daarbij is of de gedraging heeft plaatsgevonden dan wel is verricht in de sfeer van de rechtspersoon. Een dergelijke gedraging kan in beginsel worden toegerekend aan de rechtspersoon. Van een gedraging in de sfeer van de rechtspersoon zal sprake kunnen zijn indien zich een of meer van de navolgende omstandigheden voordoen:</para>
+          <para> het gaat om een handelen of nalaten van iemand die hetzij uit hoofde van een dienstbetrekking hetzij uit anderen hoofde werkzaam is ten behoeve van de rechtspersoon;</para>
+          <para> de gedraging past in de normale bedrijfsvoering van de rechtspersoon;</para>
+          <para> de gedraging is de rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf;</para>
+          <para> de rechtspersoon vermocht erover te beschikken of de gedraging al dan niet zou plaatsvinden en zodanig of vergelijkbaar gedrag werd blijkens de feitelijke gang van zaken door de rechtspersoon aanvaard of placht te worden aanvaard, waarbij onder bedoeld aanvaarden mede is begrepen het niet betrachten van de zorg die in redelijkheid van de rechtspersoon kon worden gevergd met het oog op het voorkomen van de gedraging.</para>
+          <para>Het opzet van een rechtspersoon kan afgeleid worden uit het opzet van de namens de rechtspersoon optredende natuurlijke persoon, maar ook uit bijvoorbeeld het beleid van de rechtspersoon of de feitelijke gang van zaken binnen de rechtspersoon.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Beoordeling door het hof</para>
+          <para>Het hof heeft hiervoor al overwogen dat [medeverdachte 6] voorzitter van de Stichting is. Naar het oordeel van het hof passen de gedragingen van [medeverdachte 6] ook in de sfeer van de Stichting. Daartoe overweegt het hof dat van geen andere wezenlijke activiteit van de Stichting is gebleken dan het in eigendom houden en ter beschikking stellen van het clubhuis en het betalen van de vaste lasten daarvoor, alsmede het betalen aan gedetineerde leden van het charter Haarlem. De gedragingen van [medeverdachte 6] namens de Stichting zijn de Stichting ook dienstig, terwijl de Stichting er voorts over mocht beschikken of de gedragingen al dan niet zouden plaatsvinden.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Het hof is dan ook van oordeel dat de gedragingen redelijkerwijs aan de Stichting kunnen worden toegerekend.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Aan de verwezenlijking van het criminele oogmerk van de organisatie bijdragende of ondersteunende handelingen?</para>
+          <para>Naar het oordeel van het hof heeft de Stichting met de hiervoor beschreven handelingen bijgedragen aan/ondersteund het criminele oogmerk van de Hells Angels Haarlem. Het pand dat zij ter beschikking stelt als clubhuis vormt immers het hart van het charter Hells Angels Haarlem. Dit clubhuis is een bolwerk van symbolen die in relatie staan tot het criminele oogmerk van de organisatie. Hier wordt door de leden vergaderd over (te plegen) strafbare feiten, is/zijn (een) wapen(s) aanwezig en wordt geld ingezameld voor gedetineerde leden. De Stichting betaalt de voorzieningen en andere vaste lasten voor dit clubhuis en ondersteunt gedetineerde leden van het charter financieel.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Conclusie met betrekking tot wetenschap</para>
+          <para>In feite komt het erop neer, dat er een grote verwevenheid is tussen de Stichting Hells Angels Haarlem en het charter Hells Angels Haarlem. Gelet op al de hiervoor genoemde feiten en omstandigheden, in onderlinge samenhang bezien, is het hof van oordeel dat de Stichting weet heeft van het criminele oogmerk van de organisatie. De stelling van de verdediging dat vastgesteld dient te worden dat (ook) het andere bestuurslid [betrokkene 15] weet heeft van dit criminele oogmerk, vindt geen steun in het recht.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Eindconclusie</para>
+          <para>Het tenlastegelegde feit is wettig en overtuigend bewezen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <para>De tenlastelegging is toegesneden op artikel 140 van het Wetboek van Strafrecht (hierna: Sr). Daarom moet worden aangenomen dat de in de tenlastelegging en de bewezenverklaring voorkomende begrippen ‘deelneming’, ‘organisatie’ en ‘oogmerk’ zijn gebruikt in de betekenis die deze begrippen hebben in die bepaling.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>Artikel 140 lid 1 Sr luidt:</para>
+          <para>“Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.1</nr>
+        <para>De rechtspraak van de Hoge Raad over de hiervoor genoemde bestanddelen van artikel 140 lid 1 Sr laat zich op hoofdlijnen als volgt weergeven. (Vgl. onder meer HR 18 november 1997, ECLI:NL:HR:1997:ZD0858, HR 15 mei 2007, ECLI:NL:HR:2007:BA0502, HR 15 juni 2010, ECLI:NL:HR:2010:BK6148, HR 10 februari 2015, ECLI:NL:HR:2015:264 en HR 20 maart 2018, ECLI:NL:HR:2018:378.)</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2</nr>
+        <para>Van een ‘organisatie’ als bedoeld in artikel 140 Sr is sprake als het gaat om een samenwerkingsverband, met een zekere duurzaamheid en structuur, tussen de verdachte en ten minste één andere persoon. Het kan daarbij gaan om natuurlijke personen en/of rechtspersonen. </para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.3</nr>
+        <para>Van ‘deelneming’ aan een organisatie als bedoeld in artikel 140 Sr kan slechts dan sprake zijn als de betrokkene behoort tot het samenwerkingsverband en een aandeel heeft in gedragingen dan wel gedragingen ondersteunt die strekken tot of rechtstreeks verband houden met de verwezenlijking van het in dat artikel bedoelde oogmerk. Het is niet vereist dat vast komt te staan dat de betrokkene heeft samengewerkt met, of in ieder geval bekend is met alle andere personen die deel uitmaken van de organisatie of dat de samenstelling van het samenwerkingsverband steeds dezelfde is. De deelneming moet voor de betrokkene op zichzelf worden beoordeeld. Het is dus bijvoorbeeld niet van belang of andere personen meer hebben gedaan of een belangrijker rol vervulden dan de betrokkene.<?linebreak?>Voor ‘deelneming’ in de zin van artikel 140 Sr is voldoende dat de betrokkene in zijn algemeenheid weet (in de zin van onvoorwaardelijk opzet) dat de organisatie het plegen van misdrijven tot oogmerk heeft.De betrokkene hoeft geen wetenschap te hebben van één of meer concrete misdrijven die door de organisatie worden beoogd.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.4.4</nr>
+        <para>Het gaat bij het misdrijf van artikel 140 Sr niet om het daadwerkelijk gepleegd zijn van misdrijven, maar om het ‘oogmerk’ tot het plegen van misdrijven. Voor dat oogmerk kan ook het naaste doel van de organisatie volstaan. Het is niet vereist dat het plegen van misdrijven de voornaamste bestaansgrond van de organisatie is.<?linebreak?>Het oogmerk hoeft niet in de tenlastelegging nader te zijn omschreven, maar moet uit de bewijsvoering blijken. Daarbij kan onder meer betekenis toekomen aan misdrijven die in het kader van de organisatie al zijn gepleegd, aan het meer duurzaam of gestructureerde karakter van de samenwerking – zoals dat kan blijken uit de onderlinge verdeling van werkzaamheden of onderlinge afstemming van activiteiten van deelnemers binnen de organisatie met het oog op het bereiken van het gemeenschappelijke doel van de organisatie – en, meer algemeen, aan de planmatigheid of stelselmatigheid van de met het oog op dit doel verrichte activiteiten van deelnemers binnen de organisatie. </para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <parablock>
+        <para>Een rechtspersoon als bedoeld in artikel 51 Sr kan worden aangemerkt als deelnemer aan een criminele organisatie, als de gedragingen waaruit de deelneming in de onder 2.4.3 bedoelde zin bestaat aan hem kunnen worden toegerekend. Bij de beantwoording van de vraag of die toerekening kan plaatsvinden, gelden de uitgangspunten die zijn geformuleerd voor het daderschap van de rechtspersoon in het algemeen in het arrest van de Hoge Raad van 21 oktober 2003, ECLI:NL:HR:2003:AF7938. Dat betekent dat het antwoord op de vraag of toerekening kan plaatsvinden afhankelijk is van de concrete omstandigheden van het geval, waaronder de aard van de (verboden) gedraging. Een belangrijk oriëntatiepunt bij de toerekening is of de gedraging heeft plaatsgevonden dan wel is verricht in de sfeer van de rechtspersoon. Een dergelijke gedraging kan in beginsel worden toegerekend aan de rechtspersoon. Van een gedraging in de sfeer van de rechtspersoon zal sprake kunnen zijn als zich een of meer van de navolgende omstandigheden voordoen: </para>
+        <para>- het gaat om een handelen of nalaten van iemand die hetzij uit hoofde van een dienstbetrekking hetzij uit anderen hoofde werkzaam is ten behoeve van de rechtspersoon,</para>
+        <para>- de gedraging past in de normale bedrijfsvoering van de rechtspersoon, </para>
+        <para>- de gedraging is de rechtspersoon dienstig geweest in het door hem uitgeoefende bedrijf,</para>
+        <para>- de rechtspersoon kon beschikken of de gedraging al dan niet zou plaatsvinden en zodanig of vergelijkbaar gedrag werd blijkens de feitelijke gang van zaken door de rechtspersoon aanvaard of placht te worden aanvaard. Onder dat aanvaarden is mede begrepen het niet betrachten van de zorg die in redelijkheid van de rechtspersoon kon worden gevergd met het oog op de voorkoming van de gedraging. </para>
+      </parablock>
+      <paragroup>
+        <nr>2.6.1</nr>
+        <parablock>
+          <para>Het hof heeft blijkens de bewijsvoering in relatie tot (de gedragingen van) de verdachte onder meer het volgende vastgesteld.</para>
+          <para>- De verdachte, een stichting, was eigenaar van het pand dat door de verdachte beschikbaar werd gesteld aan de Hells Angels, chapter (of charter) Haarlem, om als clubhuis te gebruiken.</para>
+          <para>- Van het chapter Haarlem waren in de bewezenverklaarde periode onder anderen [medeverdachte 6] en [betrokkene 3] lid. Voorzitter van de verdachte was [medeverdachte 6]. [betrokkene 3] had als ‘treasurer’ van het chapter Haarlem de beschikking over de bankrekening van de verdachte. Als secretaris van de verdachte stond, blijkens het uittreksel van de Kamer van Koophandel, geregistreerd [betrokkene 15], die in het verleden was aangesloten bij het chapter Haarlem en nadien lid werd van de Hells Angels in Limburg. </para>
+          <para>- De verdachte beschikte over diverse bankrekeningen, waaronder een ‘bestuurrekening’ met als tenaamstelling ‘Stichting Hells Angels Haarlem t.a.v.: [medeverdachte 6]’. Op deze bankrekening werden contante stortingen gedaan en vanaf deze rekening werden de vaste lasten voor het clubhuis betaald. Daarnaast werden vanaf deze rekening bedragen overgemaakt naar verschillende personen in penitentiaire inrichtingen, onder wie de chapterleden [medeverdachte 4] en [betrokkene 1].</para>
+          <para>- Door de leden van het chapter Haarlem, met uitzondering van [medeverdachte 5], werd contributie betaald. De vaste lasten voor het clubhuis werden, zo volgt uit een verklaring van [medeverdachte 6], betaald van die contributie. </para>
+          <para>- De leden van het chapter Haarlem, onder wie [medeverdachte 6], vergaderden in het clubhuis, structureel in periodieke overleggen en ook in ad hoc belegde bijeenkomsten.</para>
+          <para>- In het clubhuis hing een oorkonde met de tekst ‘Deathhead Purple Heart’, waarop stond dat een ieder die dit had verdiend, zijn bloed heeft gegeven ter verdediging van de eer van de Hells Angels. Op muren in het clubhuis waren de teksten ‘dequiallo’ en ‘omerta’ geschreven. Die termen hielden verband met de toepassing van geweld richting overheidspersoneel onderscheidenlijk met het naleven van een geheimhoudings- en zwijgplicht. In de open haard van het clubhuis is een kogel aangetroffen.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.6.2</nr>
+        <para>Het hof heeft, mede op basis van deze vaststellingen, geoordeeld dat sprake is van een duurzaam en gestructureerd samenwerkingsverband tussen de verdachte, negen leden van het chapter Haarlem en [betrokkene 4] (de partner van [betrokkene 1]). Het hof heeft geoordeeld dat deze organisatie een oogmerk heeft, gericht op het plegen van misdrijven, namelijk openlijke geweldpleging, brandstichting, dwang, bedreiging, (zware) mishandeling (met voorbedachte raad en van ambtenaren), afpersing en overtreding van de Wet wapens en munitie. Dit oordeel heeft het hof gebaseerd op de onder 2.2.3 weergegeven vaststellingen over (A) de bedreigende en gewelddadige reputatie van het chapter Haarlem, (B) het belonen en aanmoedigen van strafbare gedragingen, met name geweld, door het chapter Haarlem, en (C) het plegen van misdrijven door leden van het chapter Haarlem, die rechtstreeks verband hielden met dat chapter, onder meer omdat de betreffende misdrijven waren gericht tegen leden van andere motorclubs of waren gerelateerd aan concurrentie met andere motorclubs. Die vaststellingen hebben het hof tot de slotsom geleid dat het chapter Haarlem een bedreigende en gewelddadige reputatie had en dat het plegen van strafbare feiten werd aangemoedigd en beloond, waarbij de door leden van het chapter gepleegde strafbare feiten uit naam van het chapter werden begaan.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.6.3</nr>
+        <para>Het hof heeft verder geoordeeld dat de gedragingen van [medeverdachte 6] aan de verdachte kunnen worden toegerekend, omdat die gedragingen in de sfeer van deze rechtspersoon passen. Daarbij heeft het hof in aanmerking genomen dat (i) de activiteiten van de verdachte in de kern uit niets anders bestonden dan het in eigendom houden en ter beschikking stellen van het clubhuis, het betalen van de vaste lasten voor dat pand en het doen van betalingen aan gedetineerde leden van het chapter Haarlem, (ii) de namens de verdachte verrichte gedragingen van [medeverdachte 6] dienstig waren aan de verdachte, en (iii) de verdachte erover kon beschikken of deze gedragingen al dan niet zouden plaatsvinden. Tevens heeft het hof geoordeeld dat de verdachte met het ter beschikking stellen van het clubhuis en het verrichten van de genoemde betalingen een aandeel had in gedragingen, dan wel gedragingen ondersteunde die strekten tot of rechtstreeks verband hielden met de verwezenlijking van het oogmerk van de organisatie. Daarbij heeft het hof mede in aanmerking genomen dat het clubhuis het hart van het chapter Haarlem vormde en een bolwerk was van symbolen die in relatie stonden tot het criminele oogmerk van de organisatie en dat in het clubhuis door de leden werd vergaderd over (te plegen) strafbare feiten, een of meer wapens aanwezig waren en geld werd ingezameld voor gedetineerde leden. Het hof heeft tot slot geoordeeld dat de verdachte – gelet op de verwevenheid van de verdachte met (de leden van) het chapter Haarlem – in zijn algemeenheid weet had van het criminele oogmerk van de organisatie.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.6.4</nr>
+        <para>Op grond van de hiervoor weergegeven oordelen heeft het hof bewezenverklaard dat de verdachte heeft deelgenomen aan een organisatie die tot oogmerk heeft het plegen van de in de bewezenverklaring genoemde misdrijven. In aanmerking genomen wat onder 2.4 en 2.5 is vooropgesteld, heeft het hof aldus niet blijk gegeven van een onjuiste rechtsopvatting. Verder is de bewezenverklaring, gelet op de hiervoor besproken bewijsvoering, toereikend gemotiveerd. Voor zover het cassatiemiddel hierover klaagt, faalt het.</para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de cassatiemiddelen voor het overige</title>
+    <para>De Hoge Raad heeft ook de overige klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat ook deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).</para>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>	De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren M.J. Borgers, J.C.A.M. Claassens, M. Kuijer en T. Kooijmans, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">5 juli 2022</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

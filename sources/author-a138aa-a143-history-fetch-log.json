@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2003-10-01_0/xml/BWBR0001854_2003-10-01_0.xml",
+    "accessed_at": "2026-10-20T21:50:38.810543+00:00",
+    "path": "sources/author-a138aa-a143-history-2003-10-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "d6088b07490447e9c550fcaaceae52e685c02efb967fd7ce06847bb780b34a30",
+    "bytes": 2210811,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2022-07-01_0/xml/BWBR0001854_2022-07-01_0.xml",
+    "accessed_at": "2026-10-20T21:50:39.868119+00:00",
+    "path": "sources/author-a138aa-a143-history-2022-07-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "f219dd9a2395bc4a60f231958c490e32022a94b20a8d412680f30b188ddb72fd",
+    "bytes": 2498462,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2024-07-01_0/xml/BWBR0001854_2024-07-01_0.xml",
+    "accessed_at": "2026-10-20T21:50:40.601854+00:00",
+    "path": "sources/author-a138aa-a143-history-2024-07-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "09cdf46816fb5fc1883a2f2bec4d6c358199ccd298401a5419c8ab0b14a79f11",
+    "bytes": 2513453,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+    "accessed_at": "2026-10-20T21:50:41.420721+00:00",
+    "path": "sources/author-a138aa-a143-history-2025-07-01_0.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+    "bytes": 2534015,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  }
+]
