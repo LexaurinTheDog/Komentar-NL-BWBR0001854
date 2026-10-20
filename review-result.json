@@ -612,7 +612,29 @@
       "task_scope": "Independent review of exactly20 assigned units,15i–23. Existing548-unit authoring deficit is outside assignment.",
       "checkpoint_renderer": "_render_checkpoint.py renders all264 existing commentaries as explicitly incomplete; does not claim full build success."
     },
-    "strict_validation": "Will be recorded after durable checkpoint commit; unchanged full-book validator.",
+    "strict_validation": {
+      "command": [
+        "python3",
+        "-B",
+        "/Volumes/LaCie/open-commentary/_tools/validate.py",
+        "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854"
+      ],
+      "executed_at": "2026-10-20T16:37:59.297073+00:00",
+      "returncode": 1,
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 267078,
+        "errors": [
+          "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "assessment": "Only the pre-existing548 missing commentaries prevent full-book validation. No assigned-unit or source-agreement failure. Output git tree was clean at this validation run.",
+      "output_checkpoint_commit": "2b4fa1f3e3c2931318d16b0ba97f40bf92dfeac0"
+    },
     "commented_units_total": 264,
     "missing_commentary_count": 548,
     "links": {

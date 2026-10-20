@@ -65,7 +65,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 264625,
+    "commentary_chars": 267078,
     "errors": [
       "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
     ],
@@ -79,7 +79,7 @@
     "Case-law research and external cross-reference research remain selective.",
     "Second pass comprises three disjoint20-unit batches:60 reviewed,752 not reviewed. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T16:35:30.643139+00:00",
+  "updated_at": "2026-10-20T16:37:59.297073+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T16:31:35.864353+00:00",
@@ -94,7 +94,7 @@
     "unresolved_blockers": [],
     "strict_validation_scope": "Full shared validator run unchanged: 100% statutory text agreement; only 548 previously uncompleted commentary units fail."
   },
-  "validation_checked_at": "2026-10-20T16:29:03.005989+00:00",
+  "validation_checked_at": "2026-10-20T16:37:59.297073+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
