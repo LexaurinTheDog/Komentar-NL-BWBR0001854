@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_authoring_complete_book_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -113,9 +113,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 685600,
+    "commentary_chars": 685781,
     "errors": [
-      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']"
+      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -141,7 +142,7 @@
     "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
     "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary."
   ],
-  "updated_at": "2026-10-20T22:30:27.528644+00:00",
+  "updated_at": "2026-10-20T22:32:23.525217+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T22:05:56.914455+00:00",
@@ -176,28 +177,28 @@
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
-      "a170",
-      "a171",
-      "a172",
-      "a173",
-      "a173a",
-      "a173b",
-      "a174",
-      "a175",
-      "a175a",
-      "a175b",
-      "a176",
-      "a176a",
-      "a176b",
-      "a176c",
-      "a177",
-      "a177a",
-      "a178",
-      "a178a",
-      "a179",
-      "a180"
+      "a181",
+      "a182",
+      "a183",
+      "a184",
+      "a184a",
+      "a185",
+      "a185a",
+      "a186",
+      "a187",
+      "a188",
+      "a189",
+      "a189a",
+      "a190",
+      "a191",
+      "a192",
+      "a192a",
+      "a192b",
+      "a192c",
+      "a192d",
+      "a193"
     ],
-    "result": "review-batch21-result.json"
+    "result": "review-batch22-result.json"
   },
   "prior_bounded_reviews": [
     {
@@ -958,9 +959,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 648946,
+    "commentary_chars": 685781,
     "errors": [
-      "krátký/chybějící komentář u 392 jednotek: ['a181(0<400)', 'a182(0<400)', 'a183(0<400)', 'a184(0<400)', 'a184a(0<400)', 'a185(0<400)', 'a185a(0<400)', 'a186(0<400)']"
+      "krátký/chybějící komentář u 372 jednotek: ['a194(0<400)', 'a195(0<400)', 'a196(0<400)', 'a197(0<400)', 'a197a(0<400)', 'a197b(0<400)', 'a197c(0<400)', 'a197d(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false

@@ -90,3 +90,6 @@ Tweede lezing 170–180, 21 oktober 2026: twintig toegewezen eenheden inhoudelij
 
 
 Auteursbatch 181–193: twintig officiële eenheden inclusief letterartikelen zijn op 21 oktober 2026 toegelicht. [Batchresultaat](author-a181-a193-result.json), [bronvooronderzoek](preflight-author-a181-a193-result.json) en [versiecontrole](sources/author-a181-a193-version-evidence.json). Twee volledig gelezen arresten ondersteunen artikelen 184 en 189; onafhankelijke tweede lezing van deze batch staat nog uit.
+
+
+Tweede lezing batch22: de twintig toegewezen eenheden a181–a193, inclusief letterartikelen, zijn afzonderlijk tegen de officiële XML gecontroleerd. Artikel184lid3 is gepreciseerd als gelijkstelling van vorderingen/handelingen; bij189lid3 zijn de familiegraden uitgeschreven. Twee aangehaalde Hoge Raad-arresten volledig herlezen; historische APV en procesuitkomst begrensd. De opvallende verwijzing in192lid3 is als brongegeven behouden. [Exacte IDs en bevindingen](review-batch22-result.json); [verse broncontrole](preflight-review-batch22-result.json). Geen materiële batchblokkade; het gehele boek blijft onvoltooid, zonder externe professionele goedkeuring.

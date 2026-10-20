@@ -1,0 +1,28 @@
+{
+  "reviewed_at": "2026-10-20T22:32:23.525217+00:00",
+  "checks": [
+    {
+      "unit": "a184",
+      "path": "sources/author-a181-a193-HR-2012-BV6665.xml",
+      "sha256": "4fa198d9535a07d4332e58d892e4530af5a06fcc19df5d3e0051e4906b336c0c",
+      "full_text_reviewed": true,
+      "paragraphs": "2.2–2.5; beslissing 3",
+      "card": "authorities/author-a181-a193-HR-2012-BV6665.md",
+      "limits": "Partijstellingen, hofmotivering en eigen cassatieoordeel onderscheiden; geen uitputtend onderzoek naar latere rechtspraak."
+    },
+    {
+      "unit": "a189",
+      "path": "sources/author-a181-a193-HR-2021-1132.xml",
+      "sha256": "15a30def25b5bc26548dce69001afbc42adba27ba48b17007deb1d578a1dbad0",
+      "full_text_reviewed": true,
+      "paragraphs": "2.1–2.6; beslissing 3",
+      "card": "authorities/author-a181-a193-HR-2021-1132.md",
+      "limits": "Partijstellingen, hofmotivering en eigen cassatieoordeel onderscheiden; geen uitputtend onderzoek naar latere rechtspraak."
+    }
+  ],
+  "search_log": "authorities/author-a181-a193-search-log.json",
+  "historical_version_selection": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  }
+}

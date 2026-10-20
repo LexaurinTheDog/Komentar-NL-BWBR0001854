@@ -401,3 +401,6 @@ Tweede lezing batch21: alle twintig toegewezen eenheden a170–a180 inclusief le
 
 
 Auteursbatch a181–a193: alle twintig teksten en toelichtingen zijn door de auteur naast elkaar gelezen. De beoordeling omvat lidonderscheidingen, sancties, eigen voorbeelden, interne verwijzingen en twee volledig gelezen primaire arresten. Bij artikel 192 lid 3 is de opvallende letterlijke terugverwijzing expliciet behouden en als interpretatierisico besproken. Dit is geen onafhankelijke tweede lezing of externe juridische goedkeuring. [Technisch batchresultaat](author-a181-a193-result.json).
+
+
+Tweede lezing batch22: de twintig toegewezen eenheden a181–a193, inclusief letterartikelen, zijn afzonderlijk tegen de officiële XML gecontroleerd. Artikel184lid3 is gepreciseerd als gelijkstelling van vorderingen/handelingen; bij189lid3 zijn de familiegraden uitgeschreven. Twee aangehaalde Hoge Raad-arresten volledig herlezen; historische APV en procesuitkomst begrensd. De opvallende verwijzing in192lid3 is als brongegeven behouden. [Exacte IDs en bevindingen](review-batch22-result.json); [verse broncontrole](preflight-review-batch22-result.json). Geen materiële batchblokkade; het gehele boek blijft onvoltooid, zonder externe professionele goedkeuring.
