@@ -1529,11 +1529,11 @@
     "548 units still lack commentary, as recorded before this task."
   ],
   "validation": {
-    "checked_at": "2026-10-20T18:39:03.014130+00:00",
+    "checked_at": "2026-10-20T18:56:32.605928+00:00",
     "verbatim_ratio": 1.0,
     "independent_inventory_ok": true,
     "whole_book_validator_ok": false,
-    "remaining_failure": "532 missing commentaries outside assigned twenty-unit review"
+    "remaining_failure": "512 missing commentaries outside assigned twenty-unit review"
   },
   "bounded_review_recheck": {
     "complete": true,

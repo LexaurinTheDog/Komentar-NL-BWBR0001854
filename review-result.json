@@ -485,5 +485,58 @@
     "exact_repeated_substantive_paragraphs": [],
     "cross_unit_similarity_above_0_82": [],
     "manual_review": "All twenty explanations independently read against wording, elements, penalties, examples, cited sources, internal cross-references and time law."
+  },
+  "technical_checks": {
+    "checked_at": "2026-10-20T18:56:32.605928+00:00",
+    "full_shared_build": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
+      "checked_at": "2026-10-20T18:56:32.605928+00:00",
+      "scope": "Unchanged complete 812-unit inventory; 512 unwritten commentaries outside this assigned review block the full build."
+    },
+    "strict_full_validator": {
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+      "exit_code": 1,
+      "result": {
+        "repo": "Komentar-NL-BWBR0001854",
+        "units": 812,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 423946,
+        "errors": [
+          "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      }
+    },
+    "assigned_units": {
+      "count": 20,
+      "all_present": true,
+      "all_rendered": true,
+      "all_statutory_quotes_verified": true,
+      "commentary_chars": 43889,
+      "short_ids": []
+    },
+    "independent_completeness": {
+      "report": "completeness-report.json",
+      "ok": true,
+      "expected_units": 812,
+      "parsed_units": 812,
+      "missing": [],
+      "duplicates": []
+    },
+    "raw_xml_agreement": true,
+    "local_links": {
+      "report": "link-report.json",
+      "checked": 649,
+      "ok": true
+    },
+    "other_rendered_chapters_unchanged": true,
+    "all_bounded_review_reports_disjoint": true,
+    "total_reviewed_across_batches": 300,
+    "whole_book_pass": false,
+    "failure_outside_assignment_only": true
   }
 }

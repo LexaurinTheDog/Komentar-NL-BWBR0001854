@@ -31,7 +31,7 @@
   "completed_scope": "Aanhef; all Eerste Boek units; all official article slots 92–116 including inserted and repealed numbers.",
   "remaining_units": 512,
   "next_unit": "a117",
-  "commentary_chars": 422718,
+  "commentary_chars": 423946,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -92,14 +92,14 @@
     "exit_code": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
-    "scope": "Full unchanged 812-unit inventory; missing prose outside the twenty assigned author units prevents the full book build.",
-    "checked_at": "2026-10-20T18:47:50.077150+00:00"
+    "checked_at": "2026-10-20T18:56:32.605928+00:00",
+    "scope": "Unchanged complete 812-unit inventory; 512 unwritten commentaries outside this assigned review block the full build."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 422718,
+    "commentary_chars": 423946,
     "errors": [
       "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
     ],
@@ -119,7 +119,7 @@
     "Technical checks of length, links and repeated paragraphs do not establish legal correctness.",
     "Fifteen disjoint bounded second-pass batches cover 300 units; 512 units still lack commentary and review. No whole-book completion or external professional approval."
   ],
-  "updated_at": "2026-10-20T18:55:23.446801+00:00",
+  "updated_at": "2026-10-20T18:56:32.605928+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -136,7 +136,7 @@
     "bounded_recheck": "sources/review-batch14-version-evidence.json",
     "bounded_author_recheck": "sources/author-a92-a100-version-evidence.json"
   },
-  "validation_checked_at": "2026-10-20T18:39:03.014130+00:00",
+  "validation_checked_at": "2026-10-20T18:56:32.605928+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
@@ -174,7 +174,17 @@
     "report": "review-result.json",
     "batch_report": "review-batch15-result.json",
     "source_preflight": "sources/review-batch15-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:55:23.446801+00:00"
+    "reviewed_at": "2026-10-20T18:55:23.446801+00:00",
+    "technical_validation": {
+      "statutory_text_agreement": 1.0,
+      "coverage_ok": true,
+      "local_links_ok": true,
+      "all20_present": true,
+      "all20_rendered": true,
+      "full_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 512
+    }
   },
   "prior_bounded_reviews": [
     {
@@ -841,7 +851,7 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 422718,
+    "commentary_chars": 423946,
     "errors": [
       "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
     ],
