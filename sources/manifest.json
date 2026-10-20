@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:21:32.358552+00:00",
+  "generated_at": "2026-10-20T16:28:28.639787+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -172,6 +172,61 @@
       "bytes": 49596
     },
     {
+      "path": "sources/review-batch02-effective.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812
+    },
+    {
+      "path": "sources/review-batch02-fetch-log.json",
+      "sha256": "c1acc3cddf1fb91299fd81208e016dfe5a236efd46c4a86469817175cfb22799",
+      "bytes": 3881
+    },
+    {
+      "path": "sources/review-batch02-manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2022-1196.txt",
+      "sha256": "52ecb409d37f34d5d5f874894d3f4730abef0b56d7ae87efdb8665307e163276",
+      "bytes": 8846
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2022-1196.xml",
+      "sha256": "94cd6f4f7c78d7240135997d1e82e2811392e8f32fbeaf8a0d0431291f434999",
+      "bytes": 16983
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2022-1729.txt",
+      "sha256": "62a0ecf37b237865323ec54a9a49b6ae0f10cada24977c45b2e3d9e8ffbc3abe",
+      "bytes": 14464
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2022-1729.xml",
+      "sha256": "fc4f14c337eda066bac91a5391ac638439c837aee2a38553e72e4fc998030bd1",
+      "bytes": 22899
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2025-119.txt",
+      "sha256": "4a7a63882668ee4f566052b955035fbf84c9907662b55011fe11755982cda507",
+      "bytes": 19088
+    },
+    {
+      "path": "sources/review-batch02-official-judgment-2025-119.xml",
+      "sha256": "4cfd756b5f5d5f022421dc44daee2ebd550612e646a60ae630c1f1c31c65ed98",
+      "bytes": 30845
+    },
+    {
+      "path": "sources/review-batch02-version-evidence.json",
+      "sha256": "6b3798207c753768b5e66a1a632f0d9fc54520f7cbfbc3400fb4e1891b1cb7c3",
+      "bytes": 49612
+    },
+    {
+      "path": "sources/review-batch02-wti.xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c",
       "bytes": 252422
@@ -183,9 +238,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "75d1a48fcc315f2325d422a1949bc6f267579d363b907a1207ec820f73deb724",
-      "bytes": 18520
+      "sha256": "00b97b4790aa5d4d7e99d88d38f208d99413e92adda93281227bad248f1bf248",
+      "bytes": 22560
     }
-  ],
-  "remote_evidence": "verification.json records actual URLs, UTC access timestamps, HTTP outcomes and format acceptance. Rejected HTML, empty responses and historical fallbacks remain excluded from the canonical source."
+  ]
 }

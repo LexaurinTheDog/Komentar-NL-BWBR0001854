@@ -1,0 +1,543 @@
+{
+  "task": "bounded_independent_second_pass",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "aanhef",
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6",
+    "a7",
+    "a8",
+    "a8a",
+    "a8b",
+    "a8c",
+    "a8d",
+    "a9",
+    "a9a",
+    "a10",
+    "a11",
+    "a13",
+    "a14a",
+    "a14b"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "aanhef",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Historical enactment formula, no independent offence; distinction between signature and commencement and internal article 479 checked.",
+      "finding_and_resolution": "Verification date refreshed to 20 October; misleading implication that the date of signature appears in the aanhef removed.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/Aanhef",
+        "source_xml_id": "C4670941",
+        "statutory_text_sha256": "d5eabedb022d82b5a2ecde08a3fc6438f6dab9b91124528337817e08b72e78e4",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a1",
+        "a479"
+      ],
+      "commentary_before_sha256": "0fe99b9185074801c34b36df5a551ee2955a418ea2f23f19c1a34a1a14e33df0",
+      "commentary_after_sha256": "cb05265de9b7c54108eed6ed8d8ae434b07b03f053fb0e44112609116c004394"
+    },
+    {
+      "id": "a1",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Both paragraphs compared; lex praevia and actual favourable-law comparison distinguished. Full HR 2024:509 and HR 2011:BP6878 read, with own holding separated from quoted court reasoning, legislative history and international decisions.",
+      "finding_and_resolution": "Added limit to pending prosecutions from HR 2011:BP6878 3.5.2; no general reopening of final convictions is asserted. Current doctrine separated from historical environmental/royal-insult context.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel1",
+        "source_xml_id": "C33365631",
+        "statutory_text_sha256": "8d06d899a92a86afb2b0947176122354b1dda71091d05051154209136f6b1eff",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a1"
+      ],
+      "commentary_before_sha256": "b9268084287c0bae77ea6057b419a7996c6e65f9b20e367c484c67c4002e9033",
+      "commentary_after_sha256": "5576d895da9f2d75b971cb4af6d568324f560fe75966e9b5ad6440017b74d217"
+    },
+    {
+      "id": "a2",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Territorial applicability to everyone checked; no nationality prerequisite added. Location analysis kept separate from proof of an offence and article 8d limitations.",
+      "finding_and_resolution": "No substantive correction needed. Internet location rules and specific immunities are not asserted without research.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel2",
+        "source_xml_id": "C33365671",
+        "statutory_text_sha256": "cdcd1c7b44bd7d99902099cca60d2d487625f2aa180e403cb555d57bd65d5779",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a5",
+        "a7",
+        "a8d"
+      ],
+      "commentary_before_sha256": "c121633b60aa1ec89ccc4f6f410a1b08b6ae41747b618a6bfcb23391f7bcfbf2",
+      "commentary_after_sha256": "c121633b60aa1ec89ccc4f6f410a1b08b6ae41747b618a6bfcb23391f7bcfbf2"
+    },
+    {
+      "id": "a3",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Outside-Netherlands and on-board requirements, Dutch ship/aircraft character and scope irrespective of passenger nationality checked.",
+      "finding_and_resolution": "No substantive correction needed; land excursion example correctly requires another jurisdiction ground.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel3",
+        "source_xml_id": "C33365721",
+        "statutory_text_sha256": "2ae3abb7c33c56758d2f4d1113bc9ea3413e3d8a85315167dfc4d9b602052281",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a2",
+        "a8a",
+        "a8d"
+      ],
+      "commentary_before_sha256": "c3576e4dd715f00f12d7c69b006062fda6bbd847ecd7a00551d10fc493d6108c",
+      "commentary_after_sha256": "c3576e4dd715f00f12d7c69b006062fda6bbd847ecd7a00551d10fc493d6108c"
+    },
+    {
+      "id": "a4",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "All six lettered routes read; special predicate requirement in b and Dutch public-body requirement in d distinguished from general opening.",
+      "finding_and_resolution": "Expanded e to identify the included overtreding 446a and named maritime/aviation routes; f limited to article 207a international-court false declarations. Noted non-inclusion of 215 and non-transfer of d condition to other routes.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel4",
+        "source_xml_id": "C44006401",
+        "statutory_text_sha256": "3afd6b3938ea25398907a0a3eac5a00c025fe64e5806a3c7c406b5c5aaa7d4d7",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a5",
+        "a8d",
+        "a207a",
+        "a215",
+        "a409",
+        "a410",
+        "a446a"
+      ],
+      "commentary_before_sha256": "eaa10fb2eb606b51532d837016517501995b4b431d6d17df87c99aae3b7506fa",
+      "commentary_after_sha256": "aa3afe77d52bed6a8ec567507ed475eed56a86b1382ec1e50a309410e104a338"
+    },
+    {
+      "id": "a5",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Both paragraphs and editorial transition reference checked. Eight-year Dutch statutory maximum, protected target and local criminality are cumulative; article 86b five-year lawful continuous residence verified.",
+      "finding_and_resolution": "Named all protected categories, including ordinary Dutch vehicles as distinct from vessels/aircraft. Historical amending law is flagged for separate consultation, not represented as already analysed.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel5",
+        "source_xml_id": "C34044761",
+        "statutory_text_sha256": "49acc73d8228ee3e9bf3085860b466393d9329169dcdbf507f812a2fe79a9118",
+        "editorial_notes": [
+          "Artikel IV van Stb. 2013/484 bevat overgangsrecht m.b.t. deze wijziging."
+        ]
+      },
+      "internal_cross_reference_source_checks": [
+        "a86b"
+      ],
+      "commentary_before_sha256": "e4a2df8024cc6c6a8dc4ecf7fd3a5c07c6513fb656216c823b4ea4c8f875907f",
+      "commentary_after_sha256": "12cbf8be122c86cf5b9bcb5f0a26d61c7d14c69e9b1e4aebf24ededce812e6c7"
+    },
+    {
+      "id": "a6",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Designation by AMvB, international obligation and description of facts under paragraph 2 checked; no missing substantive offence supplied by jurisdiction rule.",
+      "finding_and_resolution": "Removed false assertion of an editorial transitional-law note at article 6. Retained need to verify the applicable implementing measure for any concrete historical case. No unverified treaty or AMvB is cited as authority.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel6",
+        "source_xml_id": "C34044771",
+        "statutory_text_sha256": "e027a18a1140156cd00e84f8f59cd50ce405cab1671cc54d352d0a5fbdc3086f",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "4f0f2367321e2371a22173da31f4273c3b2921d37d44501ad11910826f6a6fee",
+      "commentary_after_sha256": "16efd19aec0dc8d424241aaac72547af7c01b7ddf1efb1667414fe54c1d3a0eb"
+    },
+    {
+      "id": "a7",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "All three paragraphs and all five lettered exceptions read; paragraph 3 later-nationality extension excludes 2a, while residence extension includes it. Definition 86b checked.",
+      "finding_and_resolution": "Made non-inclusion of 244 explicit, specified qualifying FGM offences and contextualised the broader 2a list with bigamy 237; ICC-directedness is confined to 2b. No foreign-law content assumed.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel7",
+        "source_xml_id": "C43031641",
+        "statutory_text_sha256": "f9a0f41aa7c52e0915a76843ba9a9ce868f0cbb82ec3651232e07746ef9a3b64",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a86b",
+        "a237",
+        "a240",
+        "a243",
+        "a244",
+        "a245",
+        "a253",
+        "a284",
+        "a300",
+        "a303"
+      ],
+      "commentary_before_sha256": "f6586a3e57bb945d4b8a2f7652ce00033487a1969152173c3f1f4fafc5c04fee",
+      "commentary_after_sha256": "c4fa02db8f32a21e61ce2ccc4aea0bda4d5553f09f145fa8fbf6bf40f60fb2c6"
+    },
+    {
+      "id": "a8",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Dutch official status and offences of Book II Title XXVIII checked; article 84 definitions consulted. Private unrelated conduct correctly excluded from this specific route.",
+      "finding_and_resolution": "No substantive correction needed. Fictional embezzlement example remains conditional on the actual official offence and relevant function.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel8",
+        "source_xml_id": "C34016791",
+        "statutory_text_sha256": "3ca4fd23c562a08c21ab7871d92c34881c72aa7e2b7c4f2e8a5a5e10f76e9593",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a2",
+        "a7",
+        "a8d",
+        "a84"
+      ],
+      "commentary_before_sha256": "5c8046369ffd837f2d461c71d4b297a0ce9a64d80c3294747009b463468b5caa",
+      "commentary_after_sha256": "5c8046369ffd837f2d461c71d4b297a0ce9a64d80c3294747009b463468b5caa"
+    },
+    {
+      "id": "a8a",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Master/passengers or crew on a Dutch vessel, acts outside the Netherlands including off-board, and both referenced titles checked.",
+      "finding_and_resolution": "No substantive correction needed; ordinary shore leave wrongdoing is not automatically included. Criminal offences and overtredingen distinguished.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel8a",
+        "source_xml_id": "C33365791",
+        "statutory_text_sha256": "cfdba6aee96b4bb9acc3735c37ea398ed76f32b1f1f859a3e40f562f24aa9ba9",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a3",
+        "a7"
+      ],
+      "commentary_before_sha256": "588093780a75edb8588e0669a4dcdc2599ee02eecb7fbc87afe8ba2c2fc944be",
+      "commentary_after_sha256": "588093780a75edb8588e0669a4dcdc2599ee02eecb7fbc87afe8ba2c2fc944be"
+    },
+    {
+      "id": "a8b",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "All four paragraphs read independently: treaty-based transfer, BES prosecutorial request, terrorism-related extradition outcome, and international court transfer.",
+      "finding_and_resolution": "No substantive correction needed. Four routes are not conflated with informal exchange of files; no external treaty terms invented.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel8b",
+        "source_xml_id": "C33365801",
+        "statutory_text_sha256": "5809bc525f81a2c192db252477d0b7cf046ad5efdccacc1f662d601c7a08eadf",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "b0e86fdddde2018952212a163f85f60f405020ca6697821053fe0bd460782ad4",
+      "commentary_after_sha256": "b0e86fdddde2018952212a163f85f60f405020ca6697821053fe0bd460782ad4"
+    },
+    {
+      "id": "a8c",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Presence in Netherlands, foreigner status, eight-year threshold and alternative a/b routes checked. Express local-criminality requirement in b distinguished from a. Editorial transition note retained.",
+      "finding_and_resolution": "No substantive correction needed. A pending extradition request is not described as a refusal; separate Dutch prosecution impediment remains relevant under a.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel8c",
+        "source_xml_id": "C33365811",
+        "statutory_text_sha256": "939d6591a839022c57cd187ccc51a8c9c0e285e7a6d79a4ad84584ec55425a69",
+        "editorial_notes": [
+          "Artikel IV van Stb. 2013/484 bevat overgangsrecht m.b.t. deze wijziging."
+        ]
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "7168b92457f907d7e4127122b2a2e14a2a43fb55be916688e377fd9404b0e59b",
+      "commentary_after_sha256": "7168b92457f907d7e4127122b2a2e14a2a43fb55be916688e377fd9404b0e59b"
+    },
+    {
+      "id": "a8d",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "Exact scope articles 2–8c and recognised international-law exceptions checked.",
+      "finding_and_resolution": "No substantive correction needed; named hypothetical foreign representative is not assigned an unverified specific immunity. Practical jurisdiction checklist is unit-specific.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelI/Artikel8d",
+        "source_xml_id": "C33365821",
+        "statutory_text_sha256": "212396d1af30c850b97eebdd4bcaaaf63f2d2d3bbe0d9e295e9d333cf568dd8f",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a2",
+        "a8c"
+      ],
+      "commentary_before_sha256": "8a507bf758f91bf503c25516d335dd971e2662ed8b6c2b2b7fd7cab5a9e1fcb2",
+      "commentary_after_sha256": "8a507bf758f91bf503c25516d335dd971e2662ed8b6c2b2b7fd7cab5a9e1fcb2"
+    },
+    {
+      "id": "a9",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "All five paragraphs and complete principal/additional penalty list read; measures not conflated with penalties. Task-sentence interaction with 22b checked.",
+      "finding_and_resolution": "Added independent availability of legally authorised additional penalties; distinguished task-sentence substitution for misdemeanours with only a fine from offences threatened with custody. Made replacement custody exclusion in paragraph 4 explicit.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel9",
+        "source_xml_id": "C26733431",
+        "statutory_text_sha256": "1d5e58e194ea30c960f271760575a4dd58236bbac88047463f3d38a1aa9865bd",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a22b",
+        "a36e"
+      ],
+      "commentary_before_sha256": "0b80df26d051f6da08571c3e5e5fe9c5604797c6d5dfe7718a1dcdb7c4441630",
+      "commentary_after_sha256": "128885cc7a06abecd5f60c2483806166a1f23ad3263cf354cede3339604ba28a"
+    },
+    {
+      "id": "a9a",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Judicial power to impose neither penalty nor measure distinguished from acquittal and defences; post-offence circumstances and non-automatic nature checked.",
+      "finding_and_resolution": "Clarified alternative statutory grounds: low seriousness, personality and relevant circumstances are not cumulative requirements.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel9a",
+        "source_xml_id": "C17689501",
+        "statutory_text_sha256": "b93a2a197ffcd58ac23f82dd73817ee433b795256dd711441e5b0a035c097cff",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "345170419162dc5ebcec955fc203789784a31c1a794082822410d017ae4416a3",
+      "commentary_after_sha256": "7e2e422b94bfd9fcf3fab43547e706028dc2b0332f9068921819b205ad590155"
+    },
+    {
+      "id": "a10",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "All four paragraphs checked against current XML: one-day minimum, 25-year ordinary limit, specific 30-year routes and absolute temporary-sentence cap. Article 44 consulted for internal reference.",
+      "finding_and_resolution": "No substantive correction needed; old 15/18-year general limits are not used. Statutory offence maxima and sentence-aggregation rules remain separate.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel10",
+        "source_xml_id": "C42146911",
+        "statutory_text_sha256": "27eebce4def59ad11cf317257590eb72f7921b7624733f155601395a8910ecef",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a1",
+        "a44"
+      ],
+      "commentary_before_sha256": "96d97d2c9db1ece665a284e018e7debaec513e8b4df5d27d52aa182b001273f4",
+      "commentary_after_sha256": "96d97d2c9db1ece665a284e018e7debaec513e8b4df5d27d52aa182b001273f4"
+    },
+    {
+      "id": "a11",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Official status vervallen and effective repeal date 2020-01-01 checked directly in XML metadata; no operative wording reconstructed.",
+      "finding_and_resolution": "Replaced confusing reference to a supposed jump from article 10 to 13 with a precise explanation of the retained documentary slot.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel11",
+        "source_xml_id": "C37503311",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "c56c5b2895a1eaadf220dc3649e4011c9c395bfac7a30e925b64bc66a7944340",
+      "commentary_after_sha256": "946012d6624d8081e2c75508e2334d38ef391d88fdce5dbdb30be04527f2ae81"
+    },
+    {
+      "id": "a13",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Official vervallen status, date 2020-01-01 and editorial warning about an incorrectly drafted amendment instruction checked separately.",
+      "finding_and_resolution": "Added warning-specific explanation; the editorial note does not supply replacement operative wording. The underlying amendment issue is not resolved from memory.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel13",
+        "source_xml_id": "C37503361",
+        "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+        "editorial_notes": [
+          "Abusievelijk is een wijzigingsopdracht geformuleerd die niet geheel juist is."
+        ]
+      },
+      "internal_cross_reference_source_checks": [],
+      "commentary_before_sha256": "3a4b9ef30a742be631b4e0aef4b3aa54de5ca9bb0ff0d627bf31d74bd33c55b8",
+      "commentary_after_sha256": "01ed4a173f297f1bc7a970667cd5d587eb80ef519ae1a22972fb95b3f92ae983"
+    },
+    {
+      "id": "a14a",
+      "reviewed": true,
+      "disposition": "retained_after_review",
+      "review": "All three paragraphs checked: up-to-two-year versus over-two-to-four-year custodial sentences; two-year conditional-part cap for latter; replacement custody excluded; conditional additional penalties.",
+      "finding_and_resolution": "No substantive correction needed. Three-year example gives one unconditional plus two conditional years, and probation/conditions are linked to 14b/14c.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14a",
+        "source_xml_id": "C33365981",
+        "statutory_text_sha256": "efa2b4a7d63d1acf99cc4d09a8d3cdacb0fd2748497b9dc877384a151a2cb19b",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a9",
+        "a14b",
+        "a14c"
+      ],
+      "commentary_before_sha256": "7b788c05cac23bc5b2472884673d10f5451c96b5a32b54ca0187e6abe7b5324a",
+      "commentary_after_sha256": "7b788c05cac23bc5b2472884673d10f5451c96b5a32b54ca0187e6abe7b5324a"
+    },
+    {
+      "id": "a14b",
+      "reviewed": true,
+      "disposition": "corrected",
+      "review": "Both paragraphs read; ordinary three-year versus exceptional ten-year probation, serious prospective risk and express article 252 inclusion checked. Article 14c condition-duration rule consulted.",
+      "finding_and_resolution": "Explained current sexual-visual-material meaning of 252 to avoid historical numbering error; inclusion does not dispense with prospective-risk assessment. Execution details are not invented.",
+      "unresolved_material_issue": false,
+      "source_evidence": {
+        "path": "sources/review-batch01-effective.xml",
+        "official_path": "/BoekEerste/TiteldeelII/Artikel14b",
+        "source_xml_id": "C43031661",
+        "statutory_text_sha256": "c67674964e08ac10e51dbaeca70a09d1cc7af9b18ca2449b763bd7b2227c2ff2",
+        "editorial_notes": []
+      },
+      "internal_cross_reference_source_checks": [
+        "a14c",
+        "a252"
+      ],
+      "commentary_before_sha256": "96503f153dca44ca03463bef849e4c4a742447a08bc44d8c306d190ffff01fd6",
+      "commentary_after_sha256": "fdfbc7a0ac102d4edd781e2a685c059b95d697da459ab6588d5fbfc60eab9440"
+    }
+  ],
+  "limitations": [
+    "Completion applies only to the exact twenty reviewed_ids; 792 statutory units have not received this second-pass review.",
+    "Book remains incomplete: 548 units still lack commentary. Shared full-book build/validation is expected to report this existing deficit.",
+    "Case-law verification is selective: two article 1 judgments were read in full; no exhaustive search or claim of no relevant authority for other units.",
+    "Underlying AMvB/treaty regimes, foreign double-criminality laws, immunity regimes and historical amendment disputes are not exhaustively researched; commentary expressly reserves separate case-specific verification.",
+    "Technical statutory agreement, completeness and prose-length checks do not establish legal quality or external professional approval."
+  ],
+  "verified_at": "2026-10-20T16:19:48.932243+00:00",
+  "decisive_date": "2026-10-19",
+  "effective_version": "2026-07-01_0",
+  "official_source": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "source_xml_sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+  "source_preflight": "sources/review-batch01-version-evidence.json",
+  "baseline_work_commit": "72bf993",
+  "corrected_units": [
+    "aanhef",
+    "a1",
+    "a4",
+    "a5",
+    "a6",
+    "a7",
+    "a9",
+    "a9a",
+    "a11",
+    "a13",
+    "a14b"
+  ],
+  "other_commentary_preserved": true,
+  "statutory_units_unchanged": true,
+  "repetition_review": {
+    "exact_repeated_paragraphs_over_150_chars": [],
+    "highest_pairwise_similarity": [
+      {
+        "ids": [
+          "a11",
+          "a13"
+        ],
+        "similarity": 0.092
+      },
+      {
+        "ids": [
+          "a4",
+          "a8c"
+        ],
+        "similarity": 0.084
+      },
+      {
+        "ids": [
+          "a8",
+          "a8b"
+        ],
+        "similarity": 0.074
+      },
+      {
+        "ids": [
+          "a2",
+          "a8d"
+        ],
+        "similarity": 0.069
+      },
+      {
+        "ids": [
+          "a7",
+          "a8"
+        ],
+        "similarity": 0.067
+      }
+    ],
+    "qualitative_assessment": "Read every assigned block; examples test different statutory conditions. a11/a13 retain their common documentary purpose but a13 now addresses its specific amendment warning. No generic shared normative paragraph retained."
+  },
+  "validation_scope": "Full inventory checks remain separate; no validator weakened and no missing unit removed.",
+  "technical_validation": {
+    "checked_at": "2026-10-20T16:22:11.732596+00:00",
+    "strict_full_validator": "validation.json",
+    "strict_full_validator_ok": false,
+    "strict_full_validator_errors": [
+      "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+    ],
+    "statutory_text_agreement": 1.0,
+    "complete_official_inventory": 812,
+    "expected_ids_independently_derived": true,
+    "missing_or_duplicate_official_ids": [],
+    "reviewed_commentary_units": 20,
+    "other_commentary_and_units_preserved": true,
+    "local_links_ok": true,
+    "independent_coverage_ok": true,
+    "whole_book_completion_not_claimed": true
+  }
+}

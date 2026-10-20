@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 85,
+  "local_links_checked": 117,
   "broken_local_links": [],
   "external_links": [
     "https://github.com/LexaurinTheDog",
@@ -8,7 +8,10 @@
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BP6878",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2016:456",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:1196",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:1729",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:509",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:119",
     "https://wetten.overheid.nl/BWBR0001854/informatie"
   ],
   "ok": true

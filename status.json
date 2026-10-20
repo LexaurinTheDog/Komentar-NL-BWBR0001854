@@ -22,7 +22,7 @@
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch01-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch02-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -30,15 +30,18 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 260655,
+  "commentary_chars": 264625,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
     "ECLI:NL:HR:2011:BP6878",
     "ECLI:NL:HR:2016:456",
-    "ECLI:NL:HR:2024:509"
+    "ECLI:NL:HR:2024:509",
+    "ECLI:NL:HR:2022:1196",
+    "ECLI:NL:HR:2022:1729",
+    "ECLI:NL:HR:2025:119"
   ],
-  "case_law_scope": "Selective: articles 1 and 41; three complete official decisions read; local corpus consulted. No exhaustive coverage.",
+  "case_law_scope": "Selective: articles 1, 14c, 14e and 41; six complete primary HR judgments read. No exhaustive coverage.",
   "build_result": {
     "ok": false,
     "returncode": 1,
@@ -61,9 +64,9 @@
     "Full shared build and strict validation cannot pass until these units are written.",
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
-    "Second pass completed only for first 20 assigned units; remaining 792 units not second-pass reviewed. No external professional approval."
+    "Second pass comprises two disjoint 20-unit batches: 40 reviewed, 772 not reviewed in these batches. No external professional approval."
   ],
-  "updated_at": "2026-10-20T16:21:32.358552+00:00",
+  "updated_at": "2026-10-20T16:28:28.639787+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T16:12:27.259778+00:00",
@@ -83,43 +86,64 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "aanhef",
-      "a1",
-      "a2",
-      "a3",
-      "a4",
-      "a5",
-      "a6",
-      "a7",
-      "a8",
-      "a8a",
-      "a8b",
-      "a8c",
-      "a8d",
-      "a9",
-      "a9a",
-      "a10",
-      "a11",
-      "a13",
-      "a14a",
-      "a14b"
+      "a14c",
+      "a14d",
+      "a14e",
+      "a14f",
+      "a14fa",
+      "a14g",
+      "a14h",
+      "a14i",
+      "a14j",
+      "a14k",
+      "a14l",
+      "a15",
+      "a15a",
+      "a15b",
+      "a15c",
+      "a15d",
+      "a15e",
+      "a15f",
+      "a15g",
+      "a15h"
     ],
     "corrected_units": [
-      "aanhef",
-      "a1",
-      "a4",
-      "a5",
-      "a6",
-      "a7",
-      "a9",
-      "a9a",
-      "a11",
-      "a13",
-      "a14b"
+      "a14c",
+      "a14e"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "source_preflight": "sources/review-batch01-version-evidence.json",
-    "reviewed_at": "2026-10-20T16:19:48.932243+00:00"
-  }
+    "source_preflight": "sources/review-batch02-version-evidence.json",
+    "reviewed_at": "2026-10-20T16:27:20.170605+00:00"
+  },
+  "prior_bounded_reviews": [
+    {
+      "report": "review-batch01-result.json",
+      "complete": true,
+      "reviewed_ids": [
+        "aanhef",
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a8a",
+        "a8b",
+        "a8c",
+        "a8d",
+        "a9",
+        "a9a",
+        "a10",
+        "a11",
+        "a13",
+        "a14a",
+        "a14b"
+      ]
+    }
+  ],
+  "second_pass_total_reviewed_units": 40,
+  "second_pass_remaining_units": 772
 }

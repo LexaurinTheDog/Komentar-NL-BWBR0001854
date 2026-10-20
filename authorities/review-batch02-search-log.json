@@ -1,0 +1,59 @@
+{
+  "verified_at": "2026-10-20T16:27:20.170234+00:00",
+  "scope": "Selective research supporting only articles 14c and 14e in this 20-unit review; not exhaustive.",
+  "web_queries": [
+    "site.rechtspraak.nl \"14e\" \"dadelijke uitvoerbaarheid\" \"Hoge Raad\" motivering",
+    "site.rechtspraak.nl \"14c\" \"bijzondere voorwaarde\" \"Hoge Raad\" reclassering"
+  ],
+  "search_service": "web search; Firecrawl authenticated but no credits available, no scrape initiated",
+  "selected_results": [
+    {
+      "ecli": "ECLI:NL:HR:2022:1196",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:1196"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2022:1729",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2022:1729"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2025:119",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:119"
+    }
+  ],
+  "local_corpus_query": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/manifest.jsonl",
+    "query": "2022:1196|2022:1729|2025:119; exact HR entries selected from broad matches",
+    "results": [
+      {
+        "ecli": "ECLI:NL:HR:2022:1196",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1196.md",
+        "sha256": "bae36e7eaa59109ecc85d1b5e56f0a06b7cb382171c28d7f4e20f5d52e47c678",
+        "use": "Located in national corpus manifest; judgment content verified by complete official XML, not inferred from metadata."
+      },
+      {
+        "ecli": "ECLI:NL:HR:2022:1729",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1729.md",
+        "sha256": "02de4d3c2bad50f12b7bb46622d67db9c5b4abecf105aa4734b94057a6cfe26d",
+        "use": "Located in national corpus manifest; judgment content verified by complete official XML, not inferred from metadata."
+      },
+      {
+        "ecli": "ECLI:NL:HR:2025:119",
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-119.md",
+        "sha256": "19dfec36a4b415b6945f9f1dcf1b7d2c240d2e14dc181a7250ed79bbcb9b4bda",
+        "use": "Located in national corpus manifest; judgment content verified by complete official XML, not inferred from metadata."
+      }
+    ]
+  },
+  "primary_evidence": "sources/review-batch02-fetch-log.json",
+  "decisions_read_full": [
+    "ECLI:NL:HR:2022:1196",
+    "ECLI:NL:HR:2022:1729",
+    "ECLI:NL:HR:2025:119"
+  ],
+  "supported_units": [
+    "a14c",
+    "a14e"
+  ],
+  "unselected_results": "Discovery also returned older decisions, AG opinions and secondary summaries; none used as independently verified authority. Earlier cases cited within the three judgments were not separately researched.",
+  "repealed_units": "No case authority added to the eighteen repealed slots; no reconstruction of historical procedure attempted and no claim that relevant historical cases do not exist."
+}

@@ -345,6 +345,87 @@
       "root": "open-rechtspraak",
       "expected_format_valid": true,
       "judgment_text_identical_to_existing": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T16:23:57.354389+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-manifest.xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-20T16:23:57.610983+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-effective.xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:1196",
+      "accessed_at": "2026-10-20T16:23:58.533172+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:1196",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-official-judgment-2022-1196.xml",
+      "sha256": "94cd6f4f7c78d7240135997d1e82e2811392e8f32fbeaf8a0d0431291f434999",
+      "bytes": 16983,
+      "root": "open-rechtspraak",
+      "full_judgment_nonempty": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:1729",
+      "accessed_at": "2026-10-20T16:23:58.706031+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2022:1729",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-official-judgment-2022-1729.xml",
+      "sha256": "fc4f14c337eda066bac91a5391ac638439c837aee2a38553e72e4fc998030bd1",
+      "bytes": 22899,
+      "root": "open-rechtspraak",
+      "full_judgment_nonempty": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:119",
+      "accessed_at": "2026-10-20T16:23:58.879611+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:119",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-official-judgment-2025-119.xml",
+      "sha256": "4cfd756b5f5d5f022421dc44daee2ebd550612e646a60ae630c1f1c31c65ed98",
+      "bytes": 30845,
+      "root": "open-rechtspraak",
+      "full_judgment_nonempty": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-20T16:23:59.119561+00:00",
+      "purpose": "independent bounded review of assigned articles 14c–15h",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "path": "sources/review-batch02-wti.xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -388,6 +469,6 @@
       "action": "No scrape initiated; direct official XML used."
     }
   },
-  "bounded_review_checked_at": "2026-10-20T16:15:42.293881+00:00",
-  "bounded_review_evidence": "sources/review-batch01-version-evidence.json"
+  "bounded_review_checked_at": "2026-10-20T16:23:59.066786+00:00",
+  "bounded_review_evidence": "sources/review-batch02-version-evidence.json"
 }

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2022:1196</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T22:32:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-09-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2022-09-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/01984</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:616" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2022:616</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2022-0170</rdf:li>
+          <rdf:li>RvdW 2022/870</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:1196">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:1196</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-09-13T15:13:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-09-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2022:1196 Hoge Raad , 13-09-2022 / 21/01984</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2022:1196:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Diefstal, art. 310 Sr. Bijzondere voorwaarde, art. 14c.2.14 Sr. Uitleg van “andere voorwaarden, het gedrag van veroordeelde betreffende”. Kon hof als bijzondere voorwaarde stellen dat veroordeelde verplicht is om toestemming te geven voor raadplegen van alle door reclassering noodzakelijk geachte referenten? HR herhaalt relevante overwegingen uit HR:2022:807 m.b.t. uitleg van gedragsvoorwaarde en vereisten voor stellen daarvan en uit HR:2021:1403, inhoudende dat regelingen van art. 14c.3.b Sr en art. 6:3:14 Sv er niet aan in de weg staan dat bijzondere voorwaarde a.b.i. art. 14c.2.14 Sr wordt gesteld die ertoe strekt toezicht op andere door rechter o.g.v. art. 14c.2 Sr gestelde bijzondere voorwaarde(n) mogelijk te maken of te bevorderen. Door hof gestelde bijzondere voorwaarde “dat veroordeelde verplicht is om toestemming te geven voor raadplegen van alle door reclassering noodzakelijk geachte referenten” voldoet niet aan hiervoor genoemde eisen en is daarom in strijd met art. 14c.2.14 Sr. Hof heeft immers in het midden gelaten hoe die voorwaarde zich precies verhoudt tot overige door hof gestelde bijzondere voorwaarden en al beschikbare mogelijkheden om toezicht op naleving van die voorwaarden te houden. Bovendien heeft hof door uitsluitend te bepalen dat verdachte toestemming moet geven voor raadplegen van “alle door reclassering noodzakelijk geachte referenten” o.m. niet duidelijk gemaakt wie als zodanige referenten kunnen worden aangemerkt en met welk doel deze referenten (mogen) worden benaderd. </para>
+        <para>Volgt (partiële) vernietiging t.a.v. bijzondere voorwaarde (zonder terugwijzing).</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2022:1196:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	21/01984 </para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		13 september 2022</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Amsterdam van 28 april 2021, nummer 23-001836-20, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] , </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1989,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben T.P.A.M. Wouters en R.I. Takens, beiden advocaat te Amsterdam, bij schriftuur twee cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. Het eerste cassatiemiddel is later ingetrokken.</para>
+      <para>De advocaat-generaal T.N.B.M. Spronken heeft geconcludeerd tot vernietiging van de bestreden uitspraak, maar uitsluitend wat betreft de bijzondere voorwaarde dat “de veroordeelde verplicht is om toestemming te geven voor het raadplegen van alle door de reclassering noodzakelijk geachte referenten”.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het tweede cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over de door het hof opgelegde bijzondere voorwaarde dat “de veroordeelde verplicht is om toestemming te geven voor het raadplegen van alle door de reclassering noodzakelijk geachte referenten”.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Het hof heeft de verdachte wegens telkens “diefstal” veroordeeld. De uitspraak van het hof bevat ten aanzien van de strafoplegging onder meer de volgende beslissingen:</para>
+        <para>“Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 5 (vijf) weken.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bepaalt dat een gedeelte van de gevangenisstraf, groot 4 (vier) weken, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten, onder de volgende voorwaarden die gelden gedurende een proeftijd van 2 (twee) jaren:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Algemene voorwaarden:</para>
+        <para>- dat de verdachte zich voor het einde van de proeftijd aan een strafbaar feit heeft schuldig gemaakt, of;</para>
+        <para>- de verdachte ten behoeve van het vaststellen van zijn/haar identiteit geen medewerking heeft verleend aan het nemen van een of meer vingerafdrukken of geen identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage heeft aangeboden, of;</para>
+        <para>- geen medewerking heeft verleend aan het reclasseringstoezicht, bedoeld in artikel 14c van het Wetboek van Strafrecht, de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht daaronder begrepen,</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>dan wel gedurende de proeftijd van 2 (twee) jaren de hierna te noemen bijzondere voorwaarden niet heeft nageleefd:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(...)</para>
+        <para>- dat de veroordeelde verplicht is om toestemming te geven voor het raadplegen van alle door de reclassering noodzakelijk geachte referenten.”</para>
+      </parablock>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <parablock>
+          <para>Artikel 14c leden 2, 3 en 6 van het Wetboek van Strafrecht (hierna: Sr) luidt, voor zover van belang:</para>
+          <para>“2. Bij toepassing van artikel 14a kunnen voorts de volgende bijzondere voorwaarden worden gesteld, waaraan de veroordeelde gedurende de proeftijd, of een bij de veroordeling te bepalen gedeelte daarvan, dan wel binnen een door de rechter te bepalen termijn, ten hoogste gelijk aan de proeftijd, heeft te voldoen:</para>
+          <para>(...)</para>
+          <para>14°. andere voorwaarden, het gedrag van de veroordeelde betreffende.</para>
+          <para>3. Indien bij de toepassing van artikel 14a een bijzondere voorwaarde is gesteld, zijn daaraan van rechtswege de voorwaarden verbonden dat de veroordeelde:</para>
+          <para>(...)</para>
+          <para>b. medewerking verleent aan het reclasseringstoezicht, bedoeld in het zesde lid, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht.</para>
+          <para>6. De rechter kan opdracht geven dat de reclassering toezicht houdt op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan begeleidt.”</para>
+          <para>Artikel 6:3:14 leden 1, 3 en 5 van het Wetboek van Strafvordering (hierna: Sv) luidt, voor zover van belang:</para>
+          <para>“1. Het openbaar ministerie is belast met het toezicht op de naleving van:</para>
+          <para>a. voorwaarden die zijn gesteld bij:</para>
+          <para>(...)</para>
+          <para>4°. een veroordeling waarin de rechter heeft bepaald dat de straf of maatregel of een gedeelte daarvan niet zal worden tenuitvoergelegd;</para>
+          <para>(...)</para>
+          <para>3. De onder toezicht gestelde is verplicht medewerking te verlenen aan het reclasseringstoezicht, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht. (...)</para>
+          <para>5. De officier van justitie kan van een ieder vorderen de inlichtingen te verstrekken die redelijkerwijs noodzakelijk zijn voor het toezicht op de naleving, bedoeld in het eerste lid. Artikel 96a, derde lid, is van overeenkomstige toepassing.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <para>Een bijzondere voorwaarde als bedoeld artikel 14c lid 2, aanhef en onder 14°, Sr moet het gedrag van de veroordeelde betreffen (hierna ook: gedragsvoorwaarde). Het gaat daarbij om voorwaarden die strekken ter bevordering van goed levensgedrag van de veroordeelde of die een gedraging betreffen waartoe hij uit een oogpunt van maatschappelijke betamelijkheid gehouden moet worden geacht. Onder ‘voorwaarden die strekken ter bevordering van goed levensgedrag van de veroordeelde’ moeten daarbij worden verstaan voorwaarden die strekken tot het voorkomen van strafbaar gedrag van de veroordeelde. Bij ‘voorwaarden die een gedraging betreffen waartoe hij uit een oogpunt van maatschappelijke betamelijkheid gehouden moet worden geacht’ gaat het om voorwaarden die een gedraging van de veroordeelde betreffen waartoe hij naar aanleiding van het bewezenverklaarde feit uit een oogpunt van maatschappelijke betamelijkheid gehouden is, bijvoorbeeld jegens slachtoffers van het bewezenverklaarde feit. De gedragsvoorwaarde moet voldoende precies het daarin vervatte gedragsvoorschrift formuleren. Zij mag echter niet gedrag van de verdachte omvatten dat in feite overeenkomt met het meewerken aan door de politie uit te oefenen veelomvattende en ingrijpende dwangmiddelen. Een bijzondere voorwaarde waarvan de naleving niet onder alle omstandigheden afhankelijk is van het gedrag van de veroordeelde, kan niet worden gesteld. (Vgl. HR 31 mei 2022, ECLI:NL:HR:2022:807.)</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3</nr>
+        <para>Op grond van artikel 14c lid 3, aanhef en onder b, Sr is aan het stellen van een bijzondere voorwaarde van rechtswege onder meer de voorwaarde verbonden dat de veroordeelde medewerking verleent aan het reclasseringstoezicht, bedoeld in artikel 14c lid 6 Sr. Daarnaast voorziet artikel 6:3:14 Sv in voorschriften en bevoegdheden in verband met het toezicht op de naleving van aan een voorwaardelijke veroordeling verbonden voorwaarden. Deze regelingen staan er niet aan in de weg dat – voor zover dat, gelet op de mogelijkheden die de zojuist genoemde wettelijke bepalingen al bieden, aangewezen is – een bijzondere voorwaarde als bedoeld in artikel 14c lid 2, aanhef en onder 14°, Sr wordt gesteld die een gedraging van de veroordeelde betreft en die ertoe strekt het toezicht op (een) andere door de rechter op grond van artikel 14c lid 2 Sr gestelde bijzondere voorwaarde(n) mogelijk te maken of te bevorderen. Ook hierbij geldt dat het moet gaan om een voldoende precies geformuleerd gedragsvoorschrift. Dat gedragsvoorschrift mag niet verder strekken dan voor het toezicht op de naleving van de andere bijzondere voorwaarde(n) noodzakelijk is. (Vgl. HR 28 september 2021, ECLI:NL:HR:2021:1403.)</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>De door het hof gestelde bijzondere voorwaarde “dat de veroordeelde verplicht is om toestemming te geven voor het raadplegen van alle door de reclassering noodzakelijk geachte referenten” voldoet niet aan de onder 2.3 genoemde eisen en is daarom in strijd met artikel 14c lid 2, onder 14°, Sr. Het hof heeft immers in het midden gelaten hoe die voorwaarde zich precies verhoudt tot de overige door het hof gestelde bijzondere voorwaarden en de al beschikbare mogelijkheden om toezicht op de naleving van die voorwaarden te houden. Bovendien heeft het hof door uitsluitend te bepalen dat de verdachte toestemming moet geven voor het raadplegen van “alle door de reclassering noodzakelijk geachte referenten” onder meer niet duidelijk gemaakt wie als zodanige referenten kunnen worden aangemerkt en met welk doel deze referenten (mogen) worden benaderd.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het cassatiemiddel slaagt.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt de uitspraak van het hof, maar uitsluitend wat betreft de door het hof opgelegde bijzondere voorwaarde dat “de veroordeelde verplicht is om toestemming te geven voor het raadplegen van alle door de reclassering noodzakelijk geachte referenten”;</para>
+      <para>- verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren C. Caminada en T. Kooijmans, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">13 september 2022</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
