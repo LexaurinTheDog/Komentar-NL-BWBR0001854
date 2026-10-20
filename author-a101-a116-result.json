@@ -392,5 +392,37 @@
     "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
     "Technical checks of length, links and repeated paragraphs do not establish legal correctness."
   ],
-  "updated_at": "2026-10-20T18:49:04.835195+00:00"
+  "updated_at": "2026-10-20T18:49:04.835195+00:00",
+  "technical_validation": {
+    "all20_present_and_rendered": true,
+    "statutory_text_agreement": 1.0,
+    "official_inventory_complete": true,
+    "expected_and_parsed_units": 812,
+    "local_links_ok": true,
+    "local_links_checked": 627,
+    "exact_repeated_paragraphs": 0,
+    "full_shared_build_ok": false,
+    "strict_validator_ok": false,
+    "out_of_scope_missing_commentaries": 512,
+    "validation": "validation-author-a101-a116.json"
+  },
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 422718,
+    "errors": [
+      "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "build_result": {
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 512 jednotkám, např.: ['a117', 'a117a', 'a117b', 'a118', 'a119', 'a120', 'a120a', 'a120b', 'a120c', 'a121']\n",
+    "scope": "Full unchanged 812-unit inventory; missing prose outside the twenty assigned author units prevents the full book build.",
+    "checked_at": "2026-10-20T18:47:50.077150+00:00"
+  }
 }

@@ -99,9 +99,9 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 380057,
+    "commentary_chars": 422718,
     "errors": [
-      "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+      "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -119,7 +119,7 @@
     "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
     "Technical checks of length, links and repeated paragraphs do not establish legal correctness."
   ],
-  "updated_at": "2026-10-20T18:49:04.835195+00:00",
+  "updated_at": "2026-10-20T18:50:04.651850+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T18:33:26.474782+00:00",
@@ -783,15 +783,28 @@
     "completed_units": 20,
     "report": "author-a101-a116-result.json",
     "independent_second_pass": false,
-    "source_preflight": "sources/author-a101-a116-version-evidence.json"
+    "source_preflight": "sources/author-a101-a116-version-evidence.json",
+    "technical_validation": {
+      "all20_present_and_rendered": true,
+      "statutory_text_agreement": 1.0,
+      "official_inventory_complete": true,
+      "expected_and_parsed_units": 812,
+      "local_links_ok": true,
+      "local_links_checked": 627,
+      "exact_repeated_paragraphs": 0,
+      "full_shared_build_ok": false,
+      "strict_validator_ok": false,
+      "out_of_scope_missing_commentaries": 512,
+      "validation": "validation-author-a101-a116.json"
+    }
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 380057,
+    "commentary_chars": 422718,
     "errors": [
-      "krátký/chybějící komentář u 532 jednotek: ['a101(0<400)', 'a102(0<400)', 'a103(0<120)', 'a103a(0<400)', 'a104(0<400)', 'a105(0<400)', 'a106(0<400)', 'a107(0<400)']"
+      "krátký/chybějící komentář u 512 jednotek: ['a117(0<400)', 'a117a(0<400)', 'a117b(0<400)', 'a118(0<120)', 'a119(0<120)', 'a120(0<400)', 'a120a(0<400)', 'a120b(0<400)']"
     ],
     "warnings": [],
     "ok": false
