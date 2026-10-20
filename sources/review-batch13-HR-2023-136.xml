@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:136</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T00:43:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-02-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-02-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/02969</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:1161" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2022:1161</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHDHA:2020:1814" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHDHA:2020:1814</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2023/243</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:136">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:136</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-02-13T15:06:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-02-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:136 Hoge Raad , 14-02-2023 / 20/02969</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:136:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Zware mishandeling (art. 302 Sr), uitgaansgeweld. Post-Keskin. Afwijzing getuigenverzoeken o.g.v. noodzaakscriterium. De afwijzing door hof van verzoek tot het horen van drie personen als getuigen, waaraan door verdediging o.m. ten grondslag is gelegd dat eerder afgelegde verklaringen van die getuigen een belastende strekking hebben, is niet z.m. begrijpelijk. HR neemt daarbij in aanmerking dat Rb en hof de bewezenverklaring hebben aangenomen mede o.g.v. die door verdachte betwiste verklaringen zonder dat verdediging deze getuigen heeft kunnen ondervragen, terwijl hof niet ervan blijk heeft gegeven te hebben nagegaan of de procedure in haar geheel voldoet aan het door art. 6 EVRM gewaarborgde recht op een eerlijk proces (vgl. HR:2021:576). Volgt vernietiging en terugwijzing.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:136:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+<uitspraak.info>
+<para />
+<parablock>
+<para>
+HOGE RAAD DER NEDERLANDEN
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+STRAFKAMER
+</para>
+</parablock>
+<para />
+<para />
+<para />
+<parablock>
+<para>
+<emphasis role="bold">
+Nummer
+</emphasis>
+20/02969
+</para>
+<para>
+<emphasis role="bold">
+Datum
+</emphasis>
+14 februari 2023
+</para>
+</parablock>
+<para />
+<para />
+<parablock>
+<para>
+ARREST
+</para>
+</parablock>
+<para />
+<para />
+<parablock>
+<para>
+op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 10 september 2020, nummer 22-000174-19, in de strafzaak
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+tegen
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+[verdachte] ,
+</para>
+<para>
+geboren te [geboorteplaats] op [geboortedatum] 1998,
+</para>
+<para>
+hierna: de verdachte.
+</para>
+</parablock>
+<para />
+</uitspraak.info>
+<section role="procesverloop">
+<title>
+<nr>
+1
+</nr>
+Procesverloop in cassatie
+</title>
+<parablock>
+<para>
+Het beroep is ingesteld door de verdachte. Namens deze heeft J. Kuijper, advocaat te Amsterdam, bij schriftuur en aanvullende schriftuur cassatiemiddelen voorgesteld. De schrifturen zijn aan dit arrest gehecht en maken daarvan deel uit.
+</para>
+<para>
+Namens de benadeelde partij [benadeelde] heeft M.A. Oosterveen, advocaat te Rotterdam, bij schriftuur een cassatiemiddel voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+</para>
+<para>
+De advocaat-generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van de bestreden uitspraak en tot terugwijzing van de zaak naar het gerechtshof Den Haag, opdat de zaak opnieuw wordt berecht en afgedaan.
+</para>
+</parablock>
+<bridgehead role="bold">
+2. Beoordeling van het vierde cassatiemiddel dat namens de verdachte is voorgesteld
+</bridgehead>
+<para>
+De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).
+</para>
+<bridgehead role="bold">
+3. Beoordeling van het eerste cassatiemiddel dat namens de verdachte is voorgesteld
+</bridgehead>
+<paragroup>
+<nr>
+3.1
+</nr>
+<para>
+Het cassatiemiddel klaagt onder meer dat de afwijzing door het hof van het door de verdediging gedane verzoek tot het horen van [benadeelde], [betrokkene 1] en [betrokkene 2] als getuigen, althans het gebruik van de eerder door deze getuigen afgelegde verklaringen voor het bewijs, niet verenigbaar is met het door artikel 6 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM) gewaarborgde recht op een eerlijk proces.
+</para>
+</paragroup>
+<paragroup>
+<nr>
+3.2
+</nr>
+<parablock>
+<para>
+De verdachte is in eerste aanleg en in hoger beroep veroordeeld voor - kort gezegd - zware mishandeling van [benadeelde] . De bewezenverklaring steunt in beide instanties op onder meer de verklaringen van [benadeelde] , [betrokkene 1] en [betrokkene 2] . De procesgang in deze zaak, de stukken, de bewezenverklaring en de bewijsvoering zijn, voor zover voor de beoordeling van het cassatiemiddel van belang, weergegeven in de conclusie van de advocaat-generaal onder 3.2 en 3.3, en 3.7. De procesgang houdt - kort samengevat - in dat de verdediging bij niet tijdig ingediende schriftuur en ter terechtzitting in hoger beroep het verzoek heeft gedaan om [benadeelde] , [betrokkene 1] en [betrokkene 2] als getuigen te horen. De aan het proces-verbaal van de terechtzitting in hoger beroep gehechte pleitnota houdt daarover het volgende in:
+</para>
+<para>
+“Aangever (de Hoge Raad begrijpt: de getuige [benadeelde] ) verklaart dat hij met een meisje dat hij niet kende stond te dansen en te praten. Hij zag een jongen naar hem kijken, die vieze blikken aan hem gaf. Er kwam naar zijn zeggen een tweede jongen er bij staan die hem ook boos aankeek. Aangever stelt van het meisje weg te stappen en richting zijn vrienden te zijn gelopen. Aangever stelt dat de jongens ook zouden zijn meegelopen. Ineens zou de dader voor hem hebben gestaan. Hij kreeg drie vuistslagen. Aangever zegt daarbij dat hij wist dat de dader weg was. Daarop geeft aangever aan dat zijn vrienden hem zouden hebben verteld dat de dader direct was aangehouden.
+</para>
+<para>
+Het feit dat aangever aangeeft dat hij wist dat de dader weg was, maakt dat er direct grote vraagtekens moeten worden gezet bij de veroordeling van cliënt. Immers zegt aangever hiermee dat cliënt niet de dader kan zijn geweest want, de dader was al weg, terwijl cliënt dus niet weg was.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Aangever beschrijft de dader als blank, tussen de 18 en 20, ongeveer 1.80 m en een normaal postuur. Qua kleding weet aangever niet wat de dader aanhad.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Aangever [benadeelde] verklaart vervolgens de volgende dag dat degene die hem geslagen heeft gespierd is en 175 m lang is.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Cliënt heeft direct ontkend dat hij aangever heeft geslagen. Cliënt heeft zijn verklaring direct afgelegd en aangegeven dat aangever een meisje lastig viel door haar over haar gezicht te strelen. Cliënt vertelt dat aangever ermee door ging, terwijl de dame het niet leuk vond. Cliënt heeft aangever hierop aangesproken, waarop aangever cliënt beet pakte, cliënt hem van hem afduwde, waarna aangever geslagen werd door iemand anders. Cliënt heeft direct aangegeven dat de beelden hem vrij zouden moeten pleiten.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+In een uiterst summiere verklaring geeft getuige [betrokkene 6] aan dat hij zijn werkzaamheden als beveiliger aan het verrichten was. Nadat aangever geslagen was, heeft de getuige een jongen vastgepakt die werd tegengehouden. Hij zou aan het slachtoffer hebben gevraagd of degene die hij vasthield hem geslagen had, hetgeen aangever zou hebben bevestigd.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Het gekke hiervan is, dat aangever in zijn aangifte juist gezegd heeft dat hij dacht dat de dader weg was. Het herkennen van de persoon die door de beveiliger zou zijn vastgehouden past niet in de verklaring van aangever.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+De verklaring van getuige [betrokkene 1] is eveneens zeer summier en bovendien uiterst opmerkelijk, nu hij verklaart dat zijn vriend ineens zou zijn geslagen. Hij verklaart in het geheel niet over de toedracht voorafgaand aan het incident. Terwijl aangever ook spreekt over twee personen, verklaart deze getuige in het geheel niet over een tweede persoon. Hij zegt dat aangever door een blanke jongen met wit T-shirt zou zijn geslagen. De getuige verklaart dat de man die is aangehouden de dader is. Dat vind ik een lastige verklaring. Want het brein kan nu eenmaal zo werken dat je van degene die in het politiebusje zit, je ervan uitgaat dat dat de dader is.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+In de tweede aanvullende verklaring van getuige [betrokkene 1] verklaart de getuige nu dat aangever ineens geduwd werd. Eerder had aangever het niet over een duw. Dit detail kan passen in de verklaring van cliënt. Getuige geeft vervolgens aan dat het allemaal heel snel ging, dat het druk was in de zaak en dat hij gedronken had. Dit zijn allemaal redenen om voorzichtig te zijn met het meenemen van deze verklaring als bewijsmiddel, dan wel als bewijs om tot de overtuiging te komen dat cliënt het letsel zou hebben veroorzaakt. Dit geldt temeer nu de getuige beweert dat hij gezien zou hebben dat de aangever een klap zou hebben gekregen, terwijl aangever zegt drie te hebben gekregen. Gezien de aard van het letsel ga ik uit van meer dan een klap. Dat maakt dat sterk getwijfeld dient te worden aan het waarheidsgehalte/ de waarnemingen van deze getuige. Nu de politie bovendien aan de getuige heeft gevraagd om even langs het politiebusje te lopen om kennelijk tot herkenning over te gaan, meen ik dat gesteld kan worden dat deze getuige is beïnvloed. De getuige geeft aan dat hij de persoon in de auto herkende aan zijn trui, terwijl cliënt overigens helemaal geen trui aan had. In mijn beleving kunnen we niet uitsluiten dat de getuige achteraf heeft ingevuld dat de dader een wit of beige shirt aan zou hebben gehad, doordat hij na het incident cliënt in het politiebusje heeft zien zitten? Wat ook zeer opmerkelijk is, is dat de getuige blijft volharden dat er voorafgaand aan het incident helemaal niks aan de hand was, en zelfs geen discussie had plaatsgevonden. Blijkbaar begint de getuige er zelf spontaan over, want hij zegt ‘wat mij opviel(..)’. Wel nu, dat hij begint over iets dat hem opvalt - wat niet kan kloppen- valt mij juist op!
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Ook de verklaring van getuige/vriend van aangever [betrokkene 2] is opmerkelijk. Deze getuige spreekt ook over het uit het niets een klap krijgen. Hij speekt niet over een duw, terwijl cliënt, aangever en in tweede instantie getuige [betrokkene 1] wel spreken over een duw. De getuige geeft daarnaast aan ook maar een klap te hebben gezien. Tenslotte geeft de getuige aan cliënt van een afstand te hebben herkend toen hij in de politiebus zat. Ik vraag me af wat we hebben aan een herkenning als deze.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+(...)
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+De volgende verklaring van [betrokkene 3] komt zeer overeen met die van cliënt als het gaat om de aanleiding en hele specifieke details. Zo geeft [betrokkene 3] aan dat aangever haar lastig viel, de hele tijd. [betrokkene 3] heeft aangever zelfs weggeduwd en er wat van gezegd. Toch bleef aangever doorgaan en ging ook nog aan het gezicht van de getuige zitten. Het is heel opmerkelijk dat aangever hier in zijn geheel niet over rept. Hetzelfde geldt voor de getuige [betrokkene 1] . Cliënt kon in zijn geheel niet afstemmen met [betrokkene 3] over zijn verklaring. Aangever en zijn vrienden hebben wel kunnen afstemmen met elkaar. Sterker nog, de twee getuigen en vrienden lijken tegelijkertijd hun verhaal bij de politie te hebben gedaan.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Relevant is dat er drie personen, incluis aangever zijn die spreken over twee personen. Hoe kan het dan toch dat getuige [betrokkene 1] daar helemaal niets over verklaart?
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Getuige [betrokkene 3] heeft bovendien zeer ontlastend verklaard. Zij heeft daarnaast de vrienden van aangever horen zeggen dat de dader een t-shirt met zwarte korte mouwen aan had en gelijk is weggerend. Dit past bij haar eerdere verklaring dat cliënt niks heeft gedaan.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Kortom, als we de balans opmaken, verzoek ik u:
+</para>
+<para>
+- Tot bewijsuitsluiting van de verklaringen van de getuigen [betrokkene 1] en [betrokkene 2] wegens het gebrek aan betrouwbaarheid van deze verklaringen als het gaat over de toedracht, het feit dat deze verklaringen bovendien tot stand zijn gekomen onder beïnvloeding van het confronteren met cliënt.
+</para>
+<para>
+- Tot bewijsuitsluiting van de verklaring van aangever, nu ook hij over de toedracht evident onwaar lijkt te hebben verklaard.
+</para>
+<para>
+- Cliënt dient vervolgens wegens gebrek aan bewijs te worden vrijgesproken.
+</para>
+<para>
+(...)
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Subsidiair meen ik dat er weliswaar wettig, maar absoluut geen overtuigend bewijs voorhanden is, hetgeen maakt dat cliënt dient te worden vrijgesproken. Meer subsidiair, indien u onverhoopt tot een ander oordeel komt, doe ik een verzoek om de getuigen obv het noodzaakscriterium te horen.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Het gaat daarbij om de getuigen:
+</para>
+<para>
+- Aangever
+</para>
+<para>
+- Getuige [betrokkene 1]
+</para>
+<para>
+- Getuige [betrokkene 2]
+</para>
+<para>
+- (...)”
+</para>
+</parablock>
+</paragroup>
+<paragroup>
+<nr>
+3.3
+</nr>
+<parablock>
+<para>
+Het hof heeft het verzoek tot het horen van [benadeelde] , [betrokkene 1] en [betrokkene 2] als getuigen afgewezen. Het hof heeft deze afwijzing als volgt gemotiveerd:
+</para>
+<para>
+“De raadsvrouw van de verdachte heeft zich ter terechtzitting in hoger beroep - overeenkomstig haar aan het hof overlegde en in het dossier gevoegde pleitnotities - op het standpunt gesteld dat de verdachte van het tenlastegelegde dient te worden vrijgesproken.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Hiertoe heeft zij onder meer aangevoerd dat het tenlastegelegde niet bewezen kan worden wegens zowel gebrek aan bewijs als het ontbreken van overtuiging, nu de verklaring van de aangever en de verklaringen van de getuigen [betrokkene 1] en [betrokkene 2] niet betrouwbaar zijn en van het bewijs uitgesloten dienen te worden.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Het hof overweegt hieromtrent als volgt. Beide getuigen wijzen de verdachte tegenover de politie aan als degene die het slachtoffer geslagen zou hebben. De verklaringen van de beide getuigen zijn gedetailleerd en ondersteunen elkaar, evenals hetgeen door aangever is verklaard. De verklaring van de getuige [betrokkene 1] is voor een belangrijk deel direct na het incident bij de politie afgelegd. De verklaring van [betrokkene 2] is gelijk de volgende dag afgelegd. De verklaringen van deze getuigen en de verklaring van de aangever komen op belangrijke punten overeen en vinden steun in andere bewijsmiddelen. Het hof wijst hiervoor op de verklaring van de beveiliger, [betrokkene 6] (p. 20 e.v.) en het proces-verbaal van bevindingen van politie (p. 34 e.v.). Het hof acht de verklaringen van beide genoemde getuigen dan ook voldoende betrouwbaar om te kunnen bezigen voor het bewijs.
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+(...)
+</para>
+</parablock>
+<para />
+<parablock>
+<para>
+Subsidiair heeft de raadsvrouw een voorwaardelijk verzoek gedaan om [benadeelde] , [betrokkene 1] , [betrokkene 2] (...) als getuigen te horen. Gelet op de onderbouwing van dit getuigenverzoek en gelet op hetgeen hiervoor al is overwogen, ziet het hof geen noodzaak deze getuigen te horen.”
+</para>
+</parablock>
+</paragroup>
+<paragroup>
+<nr>
+3.4
+</nr>
+<para>
+De afwijzing door het hof van het verzoek tot het horen van [benadeelde] , [betrokkene 1] en [betrokkene 2] als getuigen, waaraan door de verdediging onder meer ten grondslag is gelegd dat de eerder afgelegde verklaringen van die getuigen een belastende strekking hebben, is niet zonder meer begrijpelijk. De Hoge Raad neemt daarbij in aanmerking dat de rechtbank en het hof de bewezenverklaring hebben aangenomen mede op grond van die door de verdachte betwiste verklaringen van [benadeelde] , [betrokkene 1] en [betrokkene 2] zonder dat de verdediging deze getuigen heeft kunnen ondervragen, terwijl het hof niet ervan blijk heeft gegeven te hebben nagegaan of de procedure in haar geheel voldoet aan het door artikel 6 EVRM gewaarborgde recht op een eerlijk proces (vgl. HR 20 april 2021, ECLI:NL:HR:2021:576).
+</para>
+</paragroup>
+<paragroup>
+<nr>
+3.5
+</nr>
+<para>
+Het cassatiemiddel slaagt in zoverre.
+</para>
+</paragroup>
+</section>
+<section role="overwegingen">
+<title>
+<nr>
+4
+</nr>
+Beoordeling van de cassatiemiddelen voor het overige
+</title>
+<para>
+Gelet op de beslissing die hierna volgt, is bespreking van het restant van het eerste en van het tweede en het derde namens de verdachte voorgestelde cassatiemiddel en van het namens de benadeelde partij voorgestelde cassatiemiddel niet nodig.
+</para>
+</section>
+<section role="beslissing">
+<title>
+<nr>
+5
+</nr>
+Beslissing
+</title>
+<parablock>
+<para>
+De Hoge Raad:
+</para>
+<para>
+- vernietigt de uitspraak van het hof;
+</para>
+<para>
+- wijst de zaak terug naar het gerechtshof Den Haag, opdat de zaak opnieuw wordt berecht en afgedaan.
+</para>
+</parablock>
+<para />
+<para />
+<parablock>
+<para>
+Dit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren A.L.J. van Strien en C. Caminada, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van
+<emphasis role="underline">
+14 februari 2023
+</emphasis>
+.
+</para>
+</parablock>
+</section>
+</uitspraak>
+</open-rechtspraak>

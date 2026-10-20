@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 527,
+  "local_links_checked": 564,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
@@ -14,9 +14,12 @@
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
     "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AF7938",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AI1588",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2004:AO2599",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AS5983",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2006:AZ2169",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2007:AZ0213",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BG7743",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BM9102",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BP6878",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BW9987",

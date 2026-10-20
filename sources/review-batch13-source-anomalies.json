@@ -1,0 +1,47 @@
+{
+  "treaty_catalogs": [
+    {
+      "bwb_id": "BWBV0003903",
+      "manifest_sha512_verified": false,
+      "evidence": "sources/review-batch13-treaty-evidence.json",
+      "corroboration": "Definitions compared to separate complete official publishedPDFand status pages. No successful catalog digest authentication claimed."
+    },
+    {
+      "bwb_id": "BWBV0001519",
+      "manifest_sha512_verified": false,
+      "evidence": "sources/review-batch13-treaty-evidence.json",
+      "corroboration": "Definitions compared to separate complete official publishedPDFand status pages. No successful catalog digest authentication claimed."
+    },
+    {
+      "bwb_id": "BWBV0002868",
+      "manifest_sha512_verified": false,
+      "evidence": "sources/review-batch13-treaty-evidence.json",
+      "corroboration": "Definitions compared to separate complete official publishedPDFand status pages. No successful catalog digest authentication claimed."
+    }
+  ],
+  "ATW_catalog": {
+    "bwb_id": "BWBR0002448",
+    "manifest_sha512_verified": false,
+    "expected_sha512": "ffb01e5393cca6c56b1544813c6a108436f2059d143356dead252a8a18e1da427d71c7a08cae77148c0e60f89e0ce3925ff493d16d2f3beb596ce55f35335b5c",
+    "actual_sha512": "75e508ccdc8d8caa1836f5a3bf1237fc8ddca7c18b2f364a55ab12387923f378e8f6323d949c2ab514626344e276f1577a67c633ced69af05f9ce9c27f976999",
+    "actual_bytes": 24346,
+    "manifest_bytes": "3909",
+    "raw_path": "sources/review-batch13-BWBR0002448-effective.xml",
+    "national_raw_comparison": [
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/bwb/_raw/bwb-bwbr0002448.xml.gz",
+        "container_sha256": "9e48af5535fa8f93c87e655c3e4dc8c9d533db2545cbd5c8b10367fa9edb6bb2",
+        "decompressed_sha256": "d5211ce619c22f810a073b41b015a20e6e64c153b56a390c0383b6c8d23afcec",
+        "equal_current": true
+      }
+    ],
+    "disposition": "Valid identified current officialXMLavailable; operative1–4read; text not inferred from catalog digest. Catalog/body discrepancy remains unexplained."
+  },
+  "internal_cross_reference": "sources/review-batch13-reference-anomaly.json",
+  "metadata_only_treaty_XML": "Rejected as substantive source; officialPDFplus full official treatyXMLavailable.",
+  "unavailable_primary_statutory_text": [],
+  "limitations": [
+    "External catalog digest mismatches remain unresolved authentication limitations; actual primary texts, PDFs and hashes are retained.",
+    "Stale83b/138bcross-reference is a disclosed interpretative issue, not repaired legislation."
+  ]
+}

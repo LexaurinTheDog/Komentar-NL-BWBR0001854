@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><toestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bwb-ng-vast-deel="http://wetten.overheid.nl/id/BWBR0002448/2010-10-10/0" xsi:noNamespaceSchemaLocation="https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd" bwb-id="BWBR0002448" inwerkingtreding="2010-10-10"><bwb-inputbestand/><bwb-wijzigingen/><redactionele-correcties/><wetgeving dtdversie="2.0" soort="wet" xml:lang="nl" stam-id="847683" versie-id="17607142" id="C24364501" label-id="821464" inwerkingtredingsdatum="2010-05-17">
+  <intitule bwb-ng-variabel-deel="/Intitule" stam-id="847803" versie-id="1231932" id="C1231931" label-id="821234" inwerking="1965-04-01" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">Wet van 25 juli 1964, houdende berekening van termijnen in verband met de zaterdag, de zondag en algemeen erkende feestdagen<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></intitule>
+  <citeertitel bwb-ng-variabel-deel="/Citeertitel" status="officieel" stam-id="847823" versie-id="1231952" id="C1231951" label-id="821254" inwerking="1965-04-01" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25">Algemene termijnenwet<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></citeertitel>
+  <wet-besluit>
+    <aanhef bwb-ng-variabel-deel="/Aanhef" stam-id="847843" versie-id="1231972" id="C1231971" label-id="821274" inwerking="1965-04-01" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <wij>Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.</wij>
+  <considerans>
+    <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+    <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is regelen te stellen inzake berekening van termijnen in verband met de zaterdag, de zondag en algemeen erkende feestdagen;</considerans.al>
+  </considerans>
+  <afkondiging>
+    <al>Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+  </afkondiging>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></aanhef>
+    <wettekst>
+      <artikel bwb-ng-variabel-deel="/Artikel1" code="a-1" stam-id="847863" versie-id="1232212" id="C1232211" label-id="821294" inwerking="1999-02-17" label="Artikel 1" bron="Stb.1999-30" effect="wijziging" ondertekening_bron="1999-01-28" publicatie_bron="1999-02-16" publicatie_iwt="1999-02-16" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>1</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid1" label-id="821294L1">
+    <lidnr>1</lidnr>
+    <al>Een in een wet gestelde termijn die op een zaterdag, zondag of algemeen erkende feestdag eindigt, wordt verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=1&amp;lid=1&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel1/Lid2" label-id="821294L2">
+    <lidnr>2</lidnr>
+    <al> Het vorige lid geldt niet voor termijnen, bepaald door terugrekening vanaf een tijdstip of een gebeurtenis.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=1&amp;lid=2&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-30"><publicatiejaar>1999</publicatiejaar><publicatienr>30</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-01-28">28-01-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier="stb-1999-40"><publicatiejaar>1999</publicatiejaar><publicatienr>40</publicatienr><uitgiftedatum isodatum="1999-02-16">16-02-1999</uitgiftedatum><ondertekeningsdatum isodatum="1999-02-04">04-02-1999</ondertekeningsdatum><dossierref dossier="25836">25836</dossierref></publicatie><inwerkingtreding.datum isodatum="1999-02-17">17-02-1999</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=1&amp;g=2010-10-10" onderdeel="artikel=1" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=1"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=1&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=1" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=1"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel2" code="a-2" stam-id="847893" versie-id="1232022" id="C1232021" label-id="821324" inwerking="1965-04-01" label="Artikel 2" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>2</nr>
+  </kop>
+  <al>Een in een wet gestelde termijn van ten minste drie dagen wordt, zo nodig, zoveel verlengd, dat daarin ten minste twee dagen voorkomen die niet een zaterdag, zondag of algemeen erkende feestdag zijn.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=2&amp;g=2010-10-10" onderdeel="artikel=2" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=2"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=2&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=2" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=2"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel3" code="a-3" stam-id="847913" versie-id="1232042" id="C1232041" label-id="821344" inwerking="1982-03-31" label="Artikel 3" bron="Stb.1982-70" effect="wijziging" ondertekening_bron="1982-02-17" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>3</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid1" label-id="821344L1">
+    <lidnr>1</lidnr>
+    <al>Algemeen erkende feestdagen in de zin van deze wet zijn: de Nieuwjaarsdag, de Christelijke tweede Paas- en Pinksterdag, de beide Kerstdagen, de Hemelvaartsdag, de dag waarop de verjaardag van de Koning wordt gevierd en de vijfde mei.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=3&amp;lid=1&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid2" label-id="821344L2">
+    <lidnr>2</lidnr>
+    <al> Voor de toepassing van deze wet wordt de Goede Vrijdag met de in het vorige lid genoemde dagen gelijkgesteld.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=3&amp;lid=2&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=2"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel3/Lid3" label-id="821344L3">
+    <lidnr>3</lidnr>
+    <al> Wij kunnen bepaalde dagen voor de toepassing van deze wet met de in het eerste lid genoemde gelijkstellen. Ons besluit wordt in de <nadruk type="cur">Nederlandse Staatscourant</nadruk> openbaar gemaakt.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=3&amp;lid=3&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=3"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>70</publicatienr><ondertekeningsdatum isodatum="1982-02-17">17-02-1982</ondertekeningsdatum><dossierref dossier="16944">16944</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="wijziging" soort="Stb" urlidentifier=""><publicatiejaar>1982</publicatiejaar><publicatienr>70</publicatienr><ondertekeningsdatum isodatum="1982-02-17">17-02-1982</ondertekeningsdatum><dossierref dossier="16944">16944</dossierref></publicatie><inwerkingtreding.datum isodatum="1982-03-31">31-03-1982</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=3&amp;g=2010-10-10" onderdeel="artikel=3" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=3"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=3&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=3" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=3"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel4" code="a-4" stam-id="847933" versie-id="1232062" id="C1232061" label-id="821364" inwerking="1965-04-01" label="Artikel 4" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>4</nr>
+  </kop>
+  <al>Deze wet geldt niet voor termijnen: </al>
+  <lijst>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeela">
+      <li.nr>a.</li.nr>
+      <al>omschreven in uren, in meer dan 90 dagen, in meer dan twaalf weken, in meer dan drie maanden, of in een of meer jaren;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=4&amp;o=a&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="o=a"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelb">
+      <li.nr>b.</li.nr>
+      <al>betreffende de bekendmaking, inwerkingtreding of buitenwerkingtreding van wettelijke voorschriften;</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=4&amp;o=b&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="o=b"/></jcis></meta-data></li>
+    <li bwb-ng-variabel-deel="/Artikel4/Onderdeelc">
+      <li.nr>c.</li.nr>
+      <al>van vrijheidsbeneming.</al>
+    <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=4&amp;o=c&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="o=c"/></jcis></meta-data></li>
+  </lijst>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=4&amp;g=2010-10-10" onderdeel="artikel=4" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=4"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=4&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=4" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=4"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5" code="a-5" stam-id="847953" versie-id="1232082" id="C5205181" label-id="821384" inwerking="1965-04-01" label="Artikel 5" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>5</nr>
+  </kop>
+  <al>Op in een algemene maatregel van bestuur gestelde termijnen zijn de <intref verwijzing-id="1626987" doc="jci1.3:c:BWBR0002448&amp;artikel=1&amp;z=2010-10-10&amp;g=2010-10-10" bwb-id="BWBR0002448" label-id="821294" bwb-ng-variabel-deel="/Artikel1">artikelen 1</intref>-<intref verwijzing-id="1626988" doc="jci1.3:c:BWBR0002448&amp;artikel=4&amp;z=2010-10-10&amp;g=2010-10-10" bwb-id="BWBR0002448" label-id="821364" bwb-ng-variabel-deel="/Artikel4">4</intref> van overeenkomstige toepassing, tenzij bij algemene maatregel van bestuur iets anders is bepaald.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=5&amp;g=2010-10-10" onderdeel="artikel=5" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=5"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=5&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=5" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=5"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel5a" code="n1-5a" stam-id="10658633" versie-id="17607152" id="C25217451" label-id="10633214" inwerking="2010-10-10" label="Artikel 5a" bron="Stb.2010-350" effect="nieuw" ondertekening_bron="2010-05-17" publicatie_bron="2010-09-01" publicatie_iwt="2010-10-07" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr status="officieel">5a</nr>
+  </kop>
+  <al>Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuw" soort="Stb" urlidentifier="stb-2010-389"><publicatiejaar>2010</publicatiejaar><publicatienr>389</publicatienr><uitgiftedatum isodatum="2010-10-07">07-10-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-09-30">30-09-2010</ondertekeningsdatum></publicatie><inwerkingtreding.datum isodatum="2010-10-10">10-10-2010</inwerkingtreding.datum></inwerkingtreding><opmerkingen-inhoud><al>Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.</al></opmerkingen-inhoud></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=5a&amp;g=2010-10-10" onderdeel="artikel=5a" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=5a"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=5a&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=5a" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=5a"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel6" code="a-6" stam-id="847983" versie-id="1232112" id="C1232111" label-id="821414" inwerking="1965-04-01" label="Artikel 6" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>6</nr>
+  </kop>
+  <al>Deze wet kan worden aangehaald als: Algemene termijnenwet.</al>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=6&amp;g=2010-10-10" onderdeel="artikel=6" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=6"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=6&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=6" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=6"/></jcis></meta-data></artikel>
+      <artikel bwb-ng-variabel-deel="/Artikel7" code="a-7" stam-id="848003" versie-id="1232132" id="C1232131" label-id="821434" inwerking="1965-04-01" label="Artikel 7" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <kop>
+    <label>Artikel</label>
+    <nr>7</nr>
+  </kop>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid1" label-id="821434L1">
+    <lidnr>1</lidnr>
+    <al>Deze wet treedt in werking met ingang van 1 april 1965.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=7&amp;lid=1&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=1"/></jcis></meta-data></lid>
+  <lid bwb-ng-variabel-deel="/Artikel7/Lid2" label-id="821434L2">
+    <lidnr>2</lidnr>
+    <al> Zij kan voor termijnen, gesteld in door Ons, door plaatsing op een daartoe door Ons aangehouden lijst, aangewezen wetten en algemene maatregelen van bestuur, op door Ons te bepalen eerdere tijdstippen in werking treden.</al>
+  <meta-data><jcis><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=7&amp;lid=2&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="lid=2"/></jcis></meta-data></lid>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;artikel=7&amp;g=2010-10-10" onderdeel="artikel=7" korte-verwijzing="1.0:c:BWBR0002448&amp;artikel=7"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;artikel=7&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="artikel=7" korte-verwijzing="jci1.3:c:BWBR0002448&amp;artikel=7"/></jcis></meta-data></artikel>
+    </wettekst>
+    <wetsluiting bwb-ng-variabel-deel="/SlotformulierEnOndertekening" stam-id="848013" versie-id="1232152" id="C1232151" label-id="821454" inwerking="1965-04-01" bron="Stb.1964-314" effect="nieuwe-regeling" ondertekening_bron="1964-07-25" status="goed">
+  <slotformulering>
+    <al>Lasten en bevelen, dat deze in het <nadruk type="cur">Staatsblad</nadruk> zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+  </slotformulering>
+  <gegeven>
+    <dagtekening>
+      <plaats>Gegeven te Porto Ercole</plaats>
+      <datum isodatum="">25 juli 1964</datum>
+    </dagtekening>
+    <koning>JULIANA.</koning>
+  </gegeven>
+  <ondertekening>
+    <functie>De Minister van Justitie,</functie>
+    <naam>
+      <achternaam>Y. SCHOLTEN.</achternaam>
+    </naam>
+  </ondertekening>
+  <uitgifte>
+    <datum isodatum="">de dertiende augustus 1964.</datum>
+    <ondertekening>
+      <functie>De Minister van Justitie a.i.,</functie>
+      <naam>
+        <achternaam>V. G. M. MARIJNEN.</achternaam>
+      </naam>
+    </ondertekening>
+  </uitgifte>
+<meta-data><brondata><oorspronkelijk><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="nieuwe-regeling" soort="Stb" urlidentifier=""><publicatiejaar>1964</publicatiejaar><publicatienr>314</publicatienr><ondertekeningsdatum isodatum="1964-07-25">25-07-1964</ondertekeningsdatum><dossierref dossier="7112">7112</dossierref></publicatie><inwerkingtreding.datum isodatum="1965-04-01">01-04-1965</inwerkingtreding.datum></inwerkingtreding></brondata></meta-data></wetsluiting>
+  </wet-besluit>
+<meta-data><brondata><oorspronkelijk><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie></oorspronkelijk><inwerkingtreding><publicatie effect="structuurwijziging" soort="Stb" urlidentifier="stb-2010-350"><publicatiejaar>2010</publicatiejaar><publicatienr>350</publicatienr><uitgiftedatum isodatum="2010-09-01">01-09-2010</uitgiftedatum><ondertekeningsdatum isodatum="2010-05-17">17-05-2010</ondertekeningsdatum><dossierref dossier="31959">31959</dossierref></publicatie><inwerkingtreding.datum isodatum="2010-05-17">17-05-2010</inwerkingtreding.datum></inwerkingtreding></brondata><jcis><jci versie="1.0" verwijzing="1.0:c:BWBR0002448&amp;g=2010-10-10" onderdeel="wetgeving" korte-verwijzing="1.0:c:BWBR0002448"/><jci versie="1.3" verwijzing="jci1.3:c:BWBR0002448&amp;z=2010-10-10&amp;g=2010-10-10" onderdeel="wetgeving" korte-verwijzing="jci1.3:c:BWBR0002448"/></jcis></meta-data></wetgeving></toestand>

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/trb-1981-69.pdf",
+    "accessed_at": "2026-10-20T18:08:58.429139+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-batch13-trb-1981-69.pdf",
+    "sha256": "988e536073b3900f7b2e343272d0cd653433d560f2b4291331ab83dda117c979",
+    "bytes": 1221300,
+    "expected_format_valid": true,
+    "text_path": "sources/review-batch13-trb-1981-69.txt",
+    "substantive_text_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/trb-1996-62.pdf",
+    "accessed_at": "2026-10-20T18:08:59.855806+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-batch13-trb-1996-62.pdf",
+    "sha256": "30bf20a0a3d91fdeab9ae588e713fc52eebd6973e8f27667ec766f10b73e02d5",
+    "bytes": 87332,
+    "expected_format_valid": true,
+    "text_path": "sources/review-batch13-trb-1996-62.txt",
+    "substantive_text_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/trb-2006-211.pdf",
+    "accessed_at": "2026-10-20T18:09:00.211474+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-batch13-trb-2006-211.pdf",
+    "sha256": "434da6d35b07b004e374edf7447b4a4dbd5f6b799c17ca0131b55f299a1d7a8c",
+    "bytes": 70340,
+    "expected_format_valid": true,
+    "text_path": "sources/review-batch13-trb-2006-211.txt",
+    "substantive_text_valid": true
+  }
+]

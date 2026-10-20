@@ -1,0 +1,162 @@
+[
+  {
+    "id": "a83a",
+    "changed": true,
+    "before_sha256": "4b2412d39466bbd81276d5a18d3b497e74eb7ea0f706e18de106923db4a79415",
+    "after_sha256": "0ff97df51b690d2b24781995250546773396dbfe5099fc6d562a803097b890fe",
+    "before_chars": 999,
+    "after_chars": 1806
+  },
+  {
+    "id": "a83b",
+    "changed": true,
+    "before_sha256": "2af0af9c470088118479ceca2f3d163753bb0f136d798b4dcc9d93721d03a7f7",
+    "after_sha256": "ecfe5b826973f1794dbe10f573b2c784bdb2ec1bf7494adc1622e8ec3f5288d8",
+    "before_chars": 925,
+    "after_chars": 2414
+  },
+  {
+    "id": "a84",
+    "changed": true,
+    "before_sha256": "ddb671576f45a846b0c8fdada3aad57af1bb2ce496f8c04611a561a055be7ddc",
+    "after_sha256": "e78ea7eea7e76c7b0c421c511756fe6279b990a4f5673a1c6084a4fd73ba1897",
+    "before_chars": 921,
+    "after_chars": 2173
+  },
+  {
+    "id": "a84bis",
+    "changed": false,
+    "before_sha256": "7aac151a2a581fa617ae115a8799ec2b81b4c8e3f5c3a1776b8b43e753b94c74",
+    "after_sha256": "7aac151a2a581fa617ae115a8799ec2b81b4c8e3f5c3a1776b8b43e753b94c74",
+    "before_chars": 856,
+    "after_chars": 856
+  },
+  {
+    "id": "a84ter",
+    "changed": false,
+    "before_sha256": "369f6526f2f9d51c21d64da8b3a15f59548c64d2086d8113c625157835e01cea",
+    "after_sha256": "369f6526f2f9d51c21d64da8b3a15f59548c64d2086d8113c625157835e01cea",
+    "before_chars": 360,
+    "after_chars": 360
+  },
+  {
+    "id": "a85",
+    "changed": false,
+    "before_sha256": "d1106d4e7412a6f7ee3104f1db2c924740631b2357619d38c3b037e3b618fb83",
+    "after_sha256": "d1106d4e7412a6f7ee3104f1db2c924740631b2357619d38c3b037e3b618fb83",
+    "before_chars": 899,
+    "after_chars": 899
+  },
+  {
+    "id": "a86",
+    "changed": false,
+    "before_sha256": "d5a55cac34d332962e327bfa81e8cf573d89bc44f0fe516cb96d84c421c62afa",
+    "after_sha256": "d5a55cac34d332962e327bfa81e8cf573d89bc44f0fe516cb96d84c421c62afa",
+    "before_chars": 893,
+    "after_chars": 893
+  },
+  {
+    "id": "a86a",
+    "changed": true,
+    "before_sha256": "68f77108b9ac8f5eb7743300bc56e4b2e064c59b85775924c48d3693466653e1",
+    "after_sha256": "78a51e5f891ae7a653e8f9c479239b67613ffeaedebbaccfd7e33ffbeaf3cbd0",
+    "before_chars": 956,
+    "after_chars": 1804
+  },
+  {
+    "id": "a86b",
+    "changed": false,
+    "before_sha256": "2b725ae76d207a533ddcbc1d51c9f3a42b4bbb19607b3c84810524230bb56562",
+    "after_sha256": "2b725ae76d207a533ddcbc1d51c9f3a42b4bbb19607b3c84810524230bb56562",
+    "before_chars": 920,
+    "after_chars": 920
+  },
+  {
+    "id": "a87",
+    "changed": false,
+    "before_sha256": "4d1d6dfbf5237c7e6a6195b43e8fd744ff8ab07d7eec7204b9204305acdd11a7",
+    "after_sha256": "4d1d6dfbf5237c7e6a6195b43e8fd744ff8ab07d7eec7204b9204305acdd11a7",
+    "before_chars": 915,
+    "after_chars": 915
+  },
+  {
+    "id": "a87a",
+    "changed": false,
+    "before_sha256": "20959746f0b58195a37cca2a08ceaaddf90bc388a8c272859f5e2f0a05c5b73d",
+    "after_sha256": "20959746f0b58195a37cca2a08ceaaddf90bc388a8c272859f5e2f0a05c5b73d",
+    "before_chars": 856,
+    "after_chars": 856
+  },
+  {
+    "id": "a87b",
+    "changed": true,
+    "before_sha256": "9eaf8c5a8b0bfe7f53c93ab95ea203f57c6cb31960c2b75ee1eabdb74b919350",
+    "after_sha256": "a9762aa52f205105f46aa570d303d4d9dedf0bb2a55158cae0b7d173a627cfa8",
+    "before_chars": 985,
+    "after_chars": 2798
+  },
+  {
+    "id": "a88",
+    "changed": true,
+    "before_sha256": "dbf691814fb3b80a20d8ab217130827ec458f75b04b39c3e2ef4598c1bc3377e",
+    "after_sha256": "7fcdb7c104add5f83d179da6daa8864663c315d86f339d9f2b44060eb5f19dfd",
+    "before_chars": 860,
+    "after_chars": 1545
+  },
+  {
+    "id": "a89",
+    "changed": false,
+    "before_sha256": "1b60467bf871d7c3546a3a4873812825f6f4f21f193eef68875da8a36eab17c7",
+    "after_sha256": "1b60467bf871d7c3546a3a4873812825f6f4f21f193eef68875da8a36eab17c7",
+    "before_chars": 886,
+    "after_chars": 886
+  },
+  {
+    "id": "a90",
+    "changed": true,
+    "before_sha256": "be2a0e597474a47899d8ac152753980501a3524e5ce368c7b31eaba70e8a5c08",
+    "after_sha256": "5da6b24363f234ff98282a681551b177cfffb735d3b12d14d7dfbb145e09864f",
+    "before_chars": 879,
+    "after_chars": 1739
+  },
+  {
+    "id": "a90bis",
+    "changed": false,
+    "before_sha256": "a673f5c9862e5b7abfc4e290b3e24e5cf529c9dee0ec6a5d08b140bb6465bd9f",
+    "after_sha256": "a673f5c9862e5b7abfc4e290b3e24e5cf529c9dee0ec6a5d08b140bb6465bd9f",
+    "before_chars": 884,
+    "after_chars": 884
+  },
+  {
+    "id": "a90ter",
+    "changed": false,
+    "before_sha256": "839fa83b84f5fed1fcf9c1a4563dc4ad85cfecd8dc301bee1f42251c040018ed",
+    "after_sha256": "839fa83b84f5fed1fcf9c1a4563dc4ad85cfecd8dc301bee1f42251c040018ed",
+    "before_chars": 935,
+    "after_chars": 935
+  },
+  {
+    "id": "a90quater",
+    "changed": true,
+    "before_sha256": "9bf88a0aa1afbd5ffed27ec93ad5fdbc2bbd9db4808f497db6395a7c9de42e8f",
+    "after_sha256": "ae6ecb50bf9173914c4a7e9835a50e98a866ffe8fa4d32454a86621db7bcc03b",
+    "before_chars": 993,
+    "after_chars": 1708
+  },
+  {
+    "id": "a90quinquies",
+    "changed": true,
+    "before_sha256": "02cbbee2486b6d5c633fc4429e6dd0ee14b5eb092818517d7100c73777a82d71",
+    "after_sha256": "0106ef184bd206b0edabdf9bf0e69f23c54ebb7f996234c9836218ee215d7ece",
+    "before_chars": 894,
+    "after_chars": 1633
+  },
+  {
+    "id": "a90sexies",
+    "changed": true,
+    "before_sha256": "ad5ce37af83f5f279f9501f42e24618c1071afe5d0f536d9fc56a83e82f3065f",
+    "after_sha256": "25c8c6875a3e6d3486467ed0f7e203843cb17b1a96a7a7ca08993bb105ca38a0",
+    "before_chars": 868,
+    "after_chars": 2443
+  }
+]

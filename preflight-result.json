@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Original authoring began 2026-10-19; this is a resumed preflight, not a new authoring start.",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-20T17:54:35.907790+00:00",
+  "verified_at": "2026-10-20T18:07:46.788534+00:00",
   "effective_version": "2026-07-01_0",
   "version_evidence": {
     "manifest": {
@@ -1423,7 +1423,7 @@
     },
     "selection_reason": "Effective and visibility intervals in official manifest contain the original authoring date; fresh WTI independently lists latest commenced code change as 2026-07-01. Retrieval timestamp and consolidated label are not used as proof of effectiveness.",
     "latest_bounded_review": {
-      "report": "sources/review-batch12-version-evidence.json",
+      "report": "sources/review-batch13-version-evidence.json",
       "manifest_sha512_verified": true,
       "applicable_at_authoring": [
         {
@@ -1443,8 +1443,7 @@
           "visible_to": "9999-12-31"
         }
       ],
-      "external_evidence": "sources/review-batch12-external-evidence.json",
-      "source_anomalies": "sources/review-batch12-source-anomalies.json"
+      "source_anomalies": "sources/review-batch13-source-anomalies.json"
     }
   },
   "historical_versions_checked": {
@@ -1877,6 +1876,40 @@
     "all812_texts_notes_status_dates_match": true,
     "aanhef_and_wetsluiting": "Bothpresent; no omissions or parser repair required.",
     "external_source_limits": "sources/review-batch12-source-anomalies.json",
+    "unresolved_blockers": []
+  },
+  "bounded_review_batch13_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "verified_at": "2026-10-20T18:07:46.788534+00:00",
+    "version_evidence": "sources/review-batch13-version-evidence.json",
+    "historical_versions_checked": {
+      "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+      "expressions": 126,
+      "additional_body_comparison": {
+        "version": "2026-01-01_0",
+        "manifest_sha512_verified": true,
+        "change_map": "sources/review-batch13-change-map.json",
+        "changed_ids": []
+      },
+      "additional_pre_renumbering_body": {
+        "version": "2025-01-01_0",
+        "manifest_sha512_verified": true,
+        "evidence": "sources/review-batch13-reference-anomaly.json"
+      }
+    },
+    "annexes_checked": [
+      {
+        "status": "verified_absence",
+        "evidence_path": "sources/review-batch13-effective.xml",
+        "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+      }
+    ],
+    "inventory": "sources/review-batch13-coverage.json",
+    "all812_texts_notes_status_dates_match": true,
+    "aanhef_and_wetsluiting": "Bothpresent; noparseromissionorrepairrequired.",
+    "external_source_limits": "sources/review-batch13-source-anomalies.json",
     "unresolved_blockers": []
   }
 }

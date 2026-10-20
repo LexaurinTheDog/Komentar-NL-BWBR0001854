@@ -1,0 +1,145 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-76.xml",
+    "path": "sources/review-batch13-stb-2025-76.xml",
+    "accessed_at": "2026-10-20T18:12:54.462993+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "ecd04781885e98e357b3a927384a982a6c26ea20233743bbe71ffef67ff00cf4",
+    "bytes": 21994,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-100.xml",
+    "path": "sources/review-batch13-stb-2025-100.xml",
+    "accessed_at": "2026-10-20T18:12:54.785014+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "924b0db26bd65f3292a98581dc54dc1a88d989df35c68574c8b742af274a2bd1",
+    "bytes": 4712,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-74.xml",
+    "path": "sources/review-batch13-stb-2025-74.xml",
+    "accessed_at": "2026-10-20T18:12:54.956079+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "11e355ea86b06f0fea0848be3c3df502527ea044475c97606c96c8c17ba32648",
+    "bytes": 7862,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-75.xml",
+    "path": "sources/review-batch13-stb-2025-75.xml",
+    "accessed_at": "2026-10-20T18:12:55.320084+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "6bc99d94df7911257b5d1f38cffce82f0e4d2d298ab1303890f5bf07f013aaaf",
+    "bytes": 3499,
+    "root": "officiele-publicatie",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/002412",
+    "path": "sources/review-batch13-treaty-status-002412.html",
+    "accessed_at": "2026-10-20T18:12:55.580734+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "b994f87f95b10a912063eb815179a9000c189e6ca35ac8dde7c71dbfea091e44",
+    "bytes": 23892,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/006053",
+    "path": "sources/review-batch13-treaty-status-006053.html",
+    "accessed_at": "2026-10-20T18:12:55.777223+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "4e7061649bfc1327c38da7d262bb0adaf60cb9f804006a61cd2e84e2d9db7c1a",
+    "bytes": 23946,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/011468",
+    "path": "sources/review-batch13-treaty-status-011468.html",
+    "accessed_at": "2026-10-20T18:12:56.461621+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "17305fc505968d01dddddb7ccd2a1e8961caede72c51c68cb4fb43edeee41c3b",
+    "bytes": 22391,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0003903/manifest.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T18:12:56.667119+00:00",
+    "content_type": "application/xml",
+    "path": "sources/review-batch13-BWBV0003903-manifest.xml",
+    "sha256": "78b10c4d64578ac730eafd5966a029d9b8a59837eea11b7af82841786fe55785",
+    "bytes": 1364,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0003903/1989-01-05_0/xml/BWBV0003903_1989-01-05_0.xml",
+    "path": "sources/review-batch13-BWBV0003903-effective.xml",
+    "accessed_at": "2026-10-20T18:12:56.831897+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "e1692dcb033accfe5a7ac0e0bc9684f4fd7acfb36acacd75e8bcacc0eda806bb",
+    "bytes": 115062,
+    "root": "toestand",
+    "expected_format_valid": true,
+    "manifest_sha512_verified": false,
+    "expected_manifest_sha512": "55dbdc9e192f398b9aa89e5696c5956799e32dc99436d6fdf27b9715e24040ff186507087c7234246bc22c7357f46d37455fa1c27e21893b9db3ddbf0f37367b"
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0001519/manifest.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T18:12:57.110459+00:00",
+    "content_type": "application/xml",
+    "path": "sources/review-batch13-BWBV0001519-manifest.xml",
+    "sha256": "36f847d2aee85e79612535296695738316e412f3821b3dc7743bc84188fd8053",
+    "bytes": 1364,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0001519/2002-03-09_0/xml/BWBV0001519_2002-03-09_0.xml",
+    "path": "sources/review-batch13-BWBV0001519-effective.xml",
+    "accessed_at": "2026-10-20T18:12:57.262297+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "a25164f2cde3a438d69299783e1366aacaeecef431b9f875ea974bd18c91f057",
+    "bytes": 167898,
+    "root": "toestand",
+    "expected_format_valid": true,
+    "manifest_sha512_verified": false,
+    "expected_manifest_sha512": "ef5e4d42a9c0e511e44d2fdfc5c25a6db233b189e3310b915e1bc743abed97e57110eb69acca9be9ad00f041416e14195479ef58217f99d1ab7e800c330a7772"
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0002868/manifest.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T18:12:57.553366+00:00",
+    "content_type": "application/xml",
+    "path": "sources/review-batch13-BWBV0002868-manifest.xml",
+    "sha256": "39814ae9451ebe4f6a5e18cb1447a67fc5956be7b2865ac2ea8f3552ed4f0ddf",
+    "bytes": 2056,
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBV0002868/2010-08-19_0/xml/BWBV0002868_2010-08-19_0.xml",
+    "path": "sources/review-batch13-BWBV0002868-effective.xml",
+    "accessed_at": "2026-10-20T18:12:57.715906+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "8220befc9598a0a13a7b92cf1dfab121ee8f6f7f4daa7837f32e3cd5a98f25ff",
+    "bytes": 51401,
+    "root": "toestand",
+    "expected_format_valid": true,
+    "manifest_sha512_verified": false,
+    "expected_manifest_sha512": "40b7abe4e344aa1731698b7085fa74911d35b1c73bdbe8c09b5275e3970c2f1d6da26dcb9006db14ee6c71bad09b6c494f1c3ffb7a6e7d1ec5ac8206e2ce54a2"
+  }
+]

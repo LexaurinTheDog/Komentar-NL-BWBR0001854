@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-20T18:14:35.613340+00:00",
+  "scope": "Selective research for assigned20definitions; no exhaustive case-law coverage.",
+  "tools": {
+    "firecrawl": "Installed/authenticated but0credits, status actually checked. Direct official XML and browser search used; no new installation or credentials read.",
+    "search": "web.run primary-domain discovery; snippets never used as authority for final propositions."
+  },
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad terroristisch oogmerk83abevolking ernstige vrees",
+    "site.rechtspraak.nl Hoge Raad ambtenaar84toezicht verantwoordelijkheid overheid",
+    "site.rechtspraak.nl Hoge Raad valse sleutel onbevoegd pinpas artikel90",
+    "site.rechtspraak.nl Hoge Raad valse sleutel2003",
+    "site.rechtspraak.nl terroristisch oogmerk2023:94"
+  ],
+  "selected": [
+    {
+      "ecli": "ECLI:NL:HR:2004:AO2599",
+      "supported_unit": "a84",
+      "official_raw": "sources/review-batch13-HR-2004-AO2599.xml",
+      "official_sha256": "6be76e3ae4e861f8fa384370051894670b99dd07356167168c8112bc1ee2ba23",
+      "full_judgment_read": true,
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2004-ao2599.md",
+      "local_sha256": "f06beddec7b233d4646be3c67f4a587f60f476c7fc7950205102c67da237c51a",
+      "official_body_paragraphs_compared": 65,
+      "unmatched_paragraphs": [],
+      "precise_paragraphs": "4.6–4.9; dictum 6"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2009:BG7743",
+      "supported_unit": "a84",
+      "official_raw": "sources/review-batch13-judgment-2009-BG7743.xml",
+      "official_sha256": "c9ac0f8f0d3d22e040b73f7ac23bb581378e4a475c321403ad0d787e0a53e724",
+      "full_judgment_read": true,
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2009-bg7743.md",
+      "local_sha256": "0712c5d763027ade3780d09e0efa7f3bb3593059bb9672357b601b47690f7e37",
+      "official_body_paragraphs_compared": 91,
+      "unmatched_paragraphs": [],
+      "precise_paragraphs": "3.4–3.6; dictum 5"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2003:AI1588",
+      "supported_unit": "a90",
+      "official_raw": "sources/review-batch13-HR-2003-AI1588.xml",
+      "official_sha256": "b468569032390b4f424892b64868856fe1bc53fae79d0fbecd7076b66ca5f0e6",
+      "full_judgment_read": true,
+      "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2003-ai1588.md",
+      "local_sha256": "32ec93ca6fd825ad64bf9bcaa9a0ecde6448063c996b12c6b095a79622bcf51d",
+      "official_body_paragraphs_compared": 55,
+      "unmatched_paragraphs": [],
+      "precise_paragraphs": "3.2–3.3; 4.2–4.3; dictum 7"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "ecli": "ECLI:NL:HR:2026:430",
+      "reason": "Complete brief judgment read; merits rejected under81ROwithout reasons. Not presented as an articulated general password holding."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2017:2546",
+      "reason": "Complete brief judgment read; merits under81ROand actual sentence reduction for delay. Not used as articulated bankcard holding."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2023:136",
+      "reason": "Full judgment read; wrong candidate for terrorism, concerns witness questioning in assault case. Not used."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2020:447",
+      "reason": "Official full body saved; introduction, relevant court quotation and final reasoning inspected. Not read in full or cited.83adiscussion in discovery snippet was quoted lower-court reasoning, not silently treated as independent HRholding."
+    }
+  ],
+  "other_units": "No new sufficiently relevant verified authority selected for18assignedunitsother than84/90. No claim exhaustive negative research."
+}

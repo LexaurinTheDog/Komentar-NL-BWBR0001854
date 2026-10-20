@@ -1,0 +1,13 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-01-01_0/xml/BWBR0001854_2025-01-01_0.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T18:12:55.606352+00:00",
+    "content_type": "application/xml",
+    "path": "sources/review-batch13-before-renumbering.xml",
+    "sha256": "728096aac7b857b65166d71b0563bf8260a57f215d1c77f453ef477dac6ca5e5",
+    "bytes": 2520829,
+    "expected_format_valid": true,
+    "manifest_sha512_verified": true
+  }
+]

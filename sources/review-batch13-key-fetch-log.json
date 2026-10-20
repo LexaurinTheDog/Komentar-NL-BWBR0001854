@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AI1588",
+    "accessed_at": "2026-10-20T18:08:58.161929+00:00",
+    "path": "sources/review-batch13-HR-2003-AI1588.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AI1588",
+    "content_type": "application/xml",
+    "sha256": "b468569032390b4f424892b64868856fe1bc53fae79d0fbecd7076b66ca5f0e6",
+    "bytes": 10236,
+    "root": "open-rechtspraak",
+    "expected_format_valid": true,
+    "full_judgment_nonempty": true
+  }
+]

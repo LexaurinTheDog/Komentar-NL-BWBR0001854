@@ -18,11 +18,11 @@
       "2027-01-01",
       "undated pending amendments"
     ],
-    "rechecked_at": "2026-10-20T17:54:35.907790+00:00",
+    "rechecked_at": "2026-10-20T18:07:46.788534+00:00",
     "official_wti_http": 200,
     "official_current_html_recheck": "Failed direct requests; fresh official manifest/XML/WTI verified instead.",
     "version_evidence": "sources/preflight-version-evidence.json",
-    "bounded_review_recheck": "sources/review-batch12-version-evidence.json"
+    "bounded_review_recheck": "sources/review-batch13-version-evidence.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -30,7 +30,7 @@
   "completed_scope": "aanhef; all 263 units of Eerste Boek, articles 1–91 including official inserted and repealed slots",
   "remaining_units": 548,
   "next_unit": "a92",
-  "commentary_chars": 328246,
+  "commentary_chars": 339029,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
   "case_law_sources": [
@@ -76,9 +76,12 @@
     "ECLI:NL:HR:2018:1051",
     "ECLI:NL:HR:2013:BY9718",
     "ECLI:NL:HR:2026:904",
-    "ECLI:NL:HR:2005:AS5983"
+    "ECLI:NL:HR:2005:AS5983",
+    "ECLI:NL:HR:2004:AO2599",
+    "ECLI:NL:HR:2009:BG7743",
+    "ECLI:NL:HR:2003:AI1588"
   ],
-  "case_law_scope": "Selective:43primaryHRdecisions;4added in boundeddefinitionsreview;notexhaustive.",
+  "case_law_scope": "Selective:46primaryHRdecisions;3addedinbatch13;notexhaustive.",
   "build_result": {
     "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
     "exit_code": 1,
@@ -103,13 +106,14 @@
     "The reading output is an explicitly incomplete checkpoint, not a completed book.",
     "Case-law research and external cross-reference research remain selective.",
     "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
-    "Second pass comprises twelve disjoint20unit batches:240reviewed,572notreviewed. No whole-book completion or external professional approval.",
-    "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json."
+    "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json.",
+    "Second pass comprises thirteen disjoint20unit batches:260reviewed,552notreviewed. No whole-book completion or external professional approval.",
+    "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded."
   ],
-  "updated_at": "2026-10-20T18:06:05.928173+00:00",
+  "updated_at": "2026-10-20T18:19:04.938204+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T17:54:35.907790+00:00",
+    "verified_at": "2026-10-20T18:07:46.788534+00:00",
     "report": "preflight-result.json",
     "decisive_date_preserved": "2026-10-19",
     "official_manifest_states_checked": 126,
@@ -120,59 +124,50 @@
     "new_commentary_units": 0,
     "unresolved_blockers": [],
     "strict_validation_scope": "Full unchanged validator: 100% statutory agreement; only the548 pre-existing missing commentaries fail.",
-    "bounded_recheck": "sources/review-batch12-version-evidence.json"
+    "bounded_recheck": "sources/review-batch13-version-evidence.json"
   },
   "validation_checked_at": "2026-10-20T18:06:05.928173+00:00",
   "bounded_review": {
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "a77ee",
-      "a77ff",
-      "a77gg",
-      "a77hh",
-      "a78",
-      "a78a",
-      "a78b",
-      "a78c",
-      "a79",
-      "a80",
-      "a80bis",
-      "a80ter",
-      "a80quater",
-      "a80quinquies",
-      "a80sexies",
-      "a80septies",
-      "a81",
-      "a82",
-      "a82a",
-      "a83"
+      "a83a",
+      "a83b",
+      "a84",
+      "a84bis",
+      "a84ter",
+      "a85",
+      "a86",
+      "a86a",
+      "a86b",
+      "a87",
+      "a87a",
+      "a87b",
+      "a88",
+      "a89",
+      "a90",
+      "a90bis",
+      "a90ter",
+      "a90quater",
+      "a90quinquies",
+      "a90sexies"
     ],
     "corrected_units": [
-      "a78a",
-      "a78c",
-      "a80ter",
-      "a80quater",
-      "a80sexies",
-      "a80septies",
-      "a81",
-      "a82",
-      "a82a",
-      "a83"
+      "a83a",
+      "a83b",
+      "a84",
+      "a86a",
+      "a87b",
+      "a88",
+      "a90",
+      "a90quater",
+      "a90quinquies",
+      "a90sexies"
     ],
     "unresolved_blockers": [],
     "report": "review-result.json",
-    "source_preflight": "sources/review-batch12-version-evidence.json",
-    "reviewed_at": "2026-10-20T18:03:42.194502+00:00",
-    "technical_validation": {
-      "statutory_text_agreement": 1.0,
-      "coverage_ok": true,
-      "local_links_ok": true,
-      "all20_present": true,
-      "full_build_ok": false,
-      "strict_validator_ok": false,
-      "out_of_scope_missing_commentaries": 548
-    }
+    "source_preflight": "sources/review-batch13-version-evidence.json",
+    "reviewed_at": "2026-10-20T18:19:04.938204+00:00"
   },
   "prior_bounded_reviews": [
     {
@@ -637,8 +632,59 @@
         "strict_validator_ok": false,
         "out_of_scope_missing_commentaries": 548
       }
+    },
+    {
+      "complete": true,
+      "units_reviewed": 20,
+      "reviewed_ids": [
+        "a77ee",
+        "a77ff",
+        "a77gg",
+        "a77hh",
+        "a78",
+        "a78a",
+        "a78b",
+        "a78c",
+        "a79",
+        "a80",
+        "a80bis",
+        "a80ter",
+        "a80quater",
+        "a80quinquies",
+        "a80sexies",
+        "a80septies",
+        "a81",
+        "a82",
+        "a82a",
+        "a83"
+      ],
+      "corrected_units": [
+        "a78a",
+        "a78c",
+        "a80ter",
+        "a80quater",
+        "a80sexies",
+        "a80septies",
+        "a81",
+        "a82",
+        "a82a",
+        "a83"
+      ],
+      "unresolved_blockers": [],
+      "report": "review-batch12-result.json",
+      "source_preflight": "sources/review-batch12-version-evidence.json",
+      "reviewed_at": "2026-10-20T18:03:42.194502+00:00",
+      "technical_validation": {
+        "statutory_text_agreement": 1.0,
+        "coverage_ok": true,
+        "local_links_ok": true,
+        "all20_present": true,
+        "full_build_ok": false,
+        "strict_validator_ok": false,
+        "out_of_scope_missing_commentaries": 548
+      }
     }
   ],
-  "second_pass_total_reviewed_units": 240,
-  "second_pass_remaining_units": 572
+  "second_pass_total_reviewed_units": 260,
+  "second_pass_remaining_units": 552
 }

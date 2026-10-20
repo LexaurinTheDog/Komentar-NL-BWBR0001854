@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2025-100/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Besluit van 8 april 2025 tot vaststelling van het tijdstip van inwerkingtreding van de Wet van 21 maart 2025 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafrecht BES, het Wetboek van Strafvordering en het Wetboek van Strafvordering BES in verband met de uitbreiding van de strafbaarheid voor schadetoebrengende gedragingen ten behoeve van een buitenlandse mogendheid (uitbreiding strafbaarheid spionageactiviteiten) (Stb. 2025, 76) [KetenID WGK013359]</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al bevat="voordracht">Op de voordracht van de Minister van Justitie en Veiligheid van 28 maart 2025, directie Wetgeving en Juridische Zaken, nr. 6265437;</considerans.al>
+          <considerans.al bevat="grondslag">Gelet op artikel V van de Wet van 21 maart 2025 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafrecht BES, het Wetboek van Strafvordering en het Wetboek van Strafvordering BES in verband met de uitbreiding van de strafbaarheid voor schadetoebrengende gedragingen ten behoeve van een buitenlandse mogendheid (uitbreiding strafbaarheid spionageactiviteiten) (<extref doc="stb-2025-76" soort="document" status="actief">Stb. 2025, 76</extref>);</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Hebben goedgevonden en verstaan:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <?xpp qa?>
+        <?xpp lead;-1?>
+        <artikel status="goed">
+          <kop>
+            <label>Enig</label>
+            <titel>artikel</titel>
+          </kop>
+          <al>De Wet van 21 maart 2025 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafrecht BES, het Wetboek van Strafvordering en het Wetboek van Strafvordering BES in verband met de uitbreiding van de strafbaarheid voor schadetoebrengende gedragingen ten behoeve van een buitenlandse mogendheid (uitbreiding strafbaarheid spionageactiviteiten) (<extref doc="stb-2025-76" soort="document" status="actief">Stb. 2025, 76</extref>) treedt in werking met ingang van 15 mei 2025.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Onze Minister van Justitie en Veiligheid is belast met de uitvoering van dit besluit met de daarbij behorende nota van toelichting dat in het Staatsblad zal worden geplaatst.</al>
+        </slotformulering>
+        <gegeven>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2025-04-08">8 april 2025</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Justitie en Veiligheid,</functie>
+          <naam>
+            <voornaam>D.M. van</voornaam>
+            <achternaam>Weel</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2025-04-18">Uitgegeven de <nadruk type="cur">achttiende</nadruk> april 2025</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.M. van</voornaam>
+              <achternaam>Weel</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+      <nota-toelichting>
+        <kop>
+          <titel>NOTA VAN TOELICHTING</titel>
+        </kop>
+        <al>Mede met het oog op de NAVO-top op 24 en 25 juni 2025 in Den Haag is – in afwijking van de vaste verandermomenten – voorzien in inwerkingtreding met ingang van 15 mei 2025.</al>
+        <ondertekening>
+          <functie>De Minister van Justitie en Veiligheid,</functie>
+          <naam>
+            <voornaam>D.M. van</voornaam>
+            <achternaam>Weel</achternaam>
+          </naam>
+        </ondertekening>
+      </nota-toelichting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

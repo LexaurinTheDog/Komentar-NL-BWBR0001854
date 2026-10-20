@@ -1,0 +1,204 @@
+{
+  "checked_at": "2026-10-20T18:13:53.597507+00:00",
+  "supported_unit": "a87b",
+  "scope": "Only person/property definitions and operation scope, not complete commentary on treaties or status of individual missions.",
+  "records": [
+    {
+      "bwb_id": "BWBV0003903",
+      "status_page": "sources/review-batch13-treaty-status-002412.html",
+      "status_url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/002412",
+      "selected_version": "1989-01-05_0",
+      "manifest_intervals": [
+        {
+          "label": "1989-01-05_0",
+          "effective_from": "1989-01-05",
+          "effective_to": "9999-12-31",
+          "visible_from": "1989-01-05",
+          "visible_to": "9999-12-31"
+        }
+      ],
+      "raw_path": "sources/review-batch13-BWBV0003903-effective.xml",
+      "sha256": "e1692dcb033accfe5a7ac0e0bc9684f4fd7acfb36acacd75e8bcacc0eda806bb",
+      "manifest_sha512_verified": false,
+      "actual_sha512": "d884e41823cb12efce6117b48cdbb29d66c292bf85fd6266cc06cd5da0146a7e26c2f999ddea3512fa2f4f590f58e438e441cd8d4cfb4880ef9b4e502407ab61",
+      "expected_sha512": "55dbdc9e192f398b9aa89e5696c5956799e32dc99436d6fdf27b9715e24040ff186507087c7234246bc22c7357f46d37455fa1c27e21893b9db3ddbf0f37367b",
+      "published_primary_pdf": "sources/review-batch13-trb-1981-69.pdf",
+      "pdf_sha256": "988e536073b3900f7b2e343272d0cd653433d560f2b4291331ab83dda117c979",
+      "selected_language_articles": [
+        {
+          "language": "en",
+          "status": "authentiek",
+          "articles": [
+            {
+              "number": "1",
+              "text": "For the purposes of this Convention:\n\n1. “internationally protected person” means:\n\n(a) a Head of State, including any member of a collegial body performing the functions of a Head of State under the constitution of the State concerned, a Head of Government or a Minister for Foreign Affairs, whenever any such person is in a foreign State, as well as members of his family who accompany him;\n\n(b) any representative or official of a State or any official or other agent of an international organization of an intergovernmental character who, at the time when and in the place where a crime against him, his official premises, his private accommodation or his means of transport is committed, is entitled pursuant to international law to special protection from any attack on his person, freedom or dignity, as well as members of his family forming part of his household;\n\n2. “alleged offender” means a person as to whom there is sufficient evidence to determine prima facie that he has committed or participated in one or more of the crimes set forth in article 2.",
+              "official_path": "/Verdrag_1/Verdragtekst_1/Artikel1"
+            },
+            {
+              "number": "2",
+              "text": "1 The intentional commission of:\n\n(a) a murder, kidnapping or other attack upon the person or liberty of an internationally protected person;\n\n(b) a violent attack upon the official premises, the private accommodation or the means of transport of an internationally protected person likely to endanger his person or liberty;\n\n(c) a threat to commit any such attack;\n\n(d) an attempt to commit any such attack; and\n\n(e) an act constituting participation as an accomplice in any such attack\n\nshall be made by each State Party a crime under its internal law.\n\n2 Each State Party shall make these crimes punishable by appropriate penalties which take into account their grave nature.\n\n3 Paragraphs 1 and 2 of this article in no way derogate from the obligations of States Parties under international law to take all appropriate measures to prevent other attacks on the person, freedom or dignity of an internationally protected person.",
+              "official_path": "/Verdrag_1/Verdragtekst_1/Artikel2"
+            }
+          ]
+        },
+        {
+          "language": "nl",
+          "status": "vertaling",
+          "articles": [
+            {
+              "number": "1",
+              "text": "Voor de toepassing van dit Verdrag:\n\n1. Wordt onder „een internationaal beschermd persoon” verstaan:\n\n(a) een staatshoofd, met inbegrip van enig lid van een college dat de functies van een staatshoofd vervult krachtens de constitutie van de betrokken Staat, een hoofd van een regering of een minister van buitenlandse zaken, in alle gevallen waarin een zodanige persoon zich in een vreemde Staat bevindt, alsmede de hem vergezellende gezinsleden;\n\n(b) een vertegenwoordiger of een functionaris van een Staat of een functionaris of een andere vertegenwoordiger van een internationale intergouvernementele organisatie, die, op het tijdstip waarop en ter plaatse waar een misdrijf tegen hemzelf, de door hem gebruikte officiële gebouwen, zijn particuliere woning of zijn vervoermiddel wordt gepleegd, ingevolge het internationale recht aanspraak kan maken op bijzondere bescherming tegen een aanslag op zijn persoon, vrijheid of waardigheid, alsmede de inwonende gezinsleden;\n\n2. wordt onder „vermoedelijke dader” verstaan een persoon tegen wie voldoende bewijs aanwezig is om prima facie vast te stellen dat hij een of meer van de in artikel 2 vermelde misdrijven heeft gepleegd of daaraan heeft deelgenomen.",
+              "official_path": "/Verdrag_2/Verdragtekst/Artikel1"
+            },
+            {
+              "number": "2",
+              "text": "1 Het opzettelijk plegen van:\n\n(a) een moord, een ontvoering van, of een andere aanslag op de persoon of de vrijheid van een internationaal beschermd persoon;\n\n(b) een gewelddadige aanslag op de officiële gebouwen, de particuliere woning of het vervoermiddel van een internationaal beschermd persoon, zodanig dat daardoor zijn persoon of vrijheid in gevaar wordt gebracht;\n\n(c) een dreiging een zodanige aanslag te plegen;\n\n(d) een poging een zodanige aanslag te plegen;\n\n(e) een handeling die medeplichtigheid aan een zodanige aanslag oplevert\n\nwordt door elke Staat die partij is bij dit Verdrag, in zijn interne wetten strafbaar gesteld.\n\n2 Elke Staat die partij is bij dit Verdrag, stelt deze misdrijven strafbaar met passende straffen, rekening houdend met het ernstige karakter van die misdrijven.\n\n3 Het eerste en het tweede lid van dit artikel doen in geen enkel opzicht afbreuk aan de krachtens het volkenrecht op de Staten die partij zijn bij dit Verdrag rustende verplichtingen om alle passende maatregelen te nemen ter voorkoming van andere aanslagen op de persoon, de vrijheid of de waardigheid van een internationaal beschermd persoon.",
+              "official_path": "/Verdrag_2/Verdragtekst/Artikel2"
+            }
+          ]
+        }
+      ],
+      "comparison": "The selected English authentic and Dutch translation provisions were read separately and compared with the complete official Tractatenblad PDF; relevant Dutch definition pages visually checked. No amendment to these selected clauses appears in the current official body or status listing. Manifest/body digest discrepancy is not claimed resolved."
+    },
+    {
+      "bwb_id": "BWBV0001519",
+      "status_page": "sources/review-batch13-treaty-status-006053.html",
+      "status_url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/006053",
+      "selected_version": "2002-03-09_0",
+      "manifest_intervals": [
+        {
+          "label": "2002-03-09_0",
+          "effective_from": "2002-03-09",
+          "effective_to": "9999-12-31",
+          "visible_from": "2002-03-09",
+          "visible_to": "9999-12-31"
+        }
+      ],
+      "raw_path": "sources/review-batch13-BWBV0001519-effective.xml",
+      "sha256": "a25164f2cde3a438d69299783e1366aacaeecef431b9f875ea974bd18c91f057",
+      "manifest_sha512_verified": false,
+      "actual_sha512": "955a86e9f05bb7020f74b1e450636a77323d50ff51a63d0caca1cbda3f0d9fd210d62662f1e8e70321dcd0055906b1787e4cd56c54bb917e4964d9f3b5f4fc2b",
+      "expected_sha512": "ef5e4d42a9c0e511e44d2fdfc5c25a6db233b189e3310b915e1bc743abed97e57110eb69acca9be9ad00f041416e14195479ef58217f99d1ab7e800c330a7772",
+      "published_primary_pdf": "sources/review-batch13-trb-1996-62.pdf",
+      "pdf_sha256": "30bf20a0a3d91fdeab9ae588e713fc52eebd6973e8f27667ec766f10b73e02d5",
+      "selected_language_articles": [
+        {
+          "language": "en",
+          "status": "authentiek",
+          "articles": [
+            {
+              "number": "1",
+              "text": "For the purposes of this Convention:\n\na) “United Nations personnel\" means:\n\n(i) Persons engaged or deployed by the Secretary-General of the United Nations as members of the military police or civilian components of a United Nations operation;\n\n(ii) Other officials and experts on mission of the United Nations or its specialized agencies or the International Atomic Energy Agency who are present in an official capacity in the area where a United Nations operation is being conducted;\n\nb) “Associated personnel\" means:\n\n(i) Persons assigned by a Government or an intergovernmental organization with the agreement of the competent organ of the United Nations;\n\n(ii) Persons engaged by the Secretary-General of the United Nations or by a specialized agency or by the International Atomic Energy Agency;\n\n(iii) Persons deployed by a humanitarian non-governmental organization or agency under an agreement with the Secretary-General of the United Nations or with a specialized agency or with the International Atomic Energy Agency,\n\nto carry out activities in support of the fulfilment of the mandate of a United Nations operation;\n\nc) “United Nations operation\" means an operation established by the competent organ of the United Nations in accordance with the Charter of the United Nations and conducted under United Nations authority and control:\n\n(i) Where the operation is for the purpose of maintaining or restoring international peace and security; or\n\n(ii) Where the Security Council or the General Assembly has declared, for the purposes of this Convention, that there exists an exceptional risk to the safety of the personnel participating in the operation;\n\nd) “Host State\" means a State in whose territory a United Nations operation is conducted;\n\ne) “Transit State\" means a State, other than the host State, in whose territory United Nations and associated personnel or their equipment are in transit or temporarily present in connection with a United Nations operation.",
+              "official_path": "/Verdrag_1/Verdragtekst/Artikel1"
+            },
+            {
+              "number": "2",
+              "text": "1 This Convention applies in respect of United Nations and associated personnel and United Nations operations, as defined in article 1.\n\n2 This Convention shall not apply to a United Nations operation authorized by the Security Council as an enforcement action under Chapter VII of the Charter of the United Nations in which any of the personnel are engaged as combatants against organized armed forces and to which the law of international armed conflict applies.",
+              "official_path": "/Verdrag_1/Verdragtekst/Artikel2"
+            },
+            {
+              "number": "9",
+              "text": "1 The intentional commission of:\n\na) A murder, kidnapping or other attack upon the person or liberty of any United Nations or associated personnel;\n\nb) A violent attack upon the official premises, the private accommodation or the means of transportation of any United Nations or associated personnel likely to endanger his or her person or liberty;\n\nc) A threat to commit any such attack with the objective of compelling a physical or juridical person to do or to refrain from doing any act;\n\nd) An attempt to commit any such attack; and\n\ne) An act constituting participation as an accomplice in any such attack, or in an attempt to commit such attack, or in organizing or ordering others to commit such attack,\n\nshall be made by each State Party a crime under its national law.\n\n2 Each State Party shall make the crimes set out in paragraph 1 punishable by appropriate penalties which shall take into account their grave nature.",
+              "official_path": "/Verdrag_1/Verdragtekst/Artikel9"
+            }
+          ]
+        },
+        {
+          "language": "nl",
+          "status": "vertaling",
+          "articles": [
+            {
+              "number": "1",
+              "text": "Voor de toepassing van dit Verdrag:\n\na. wordt onder „VN-personeel\" verstaan:\n\ni. personen die door de Secretaris-Generaal van de Verenigde Naties zijn aangesteld of ingezet als lid van militaire, politie- of civiele onderdelen van een VN-operatie;\n\nii. andere functionarissen en deskundigen op een missie van de Verenigde Naties of van haar gespecialiseerde organisaties dan wel van de Internationale Organisatie voor Atoomenergie (IAEA) die in een officiële hoedanigheid aanwezig zijn in het gebied waar een VN-operatie wordt uitgevoerd;\n\nb. wordt onder „geassocieerd personeel\" verstaan:\n\ni. personen die door een regering of intergouvernementele organisatie zijn aangewezen met instemming van het bevoegde orgaan van de Verenigde Naties;\n\nii. personen die door de Secretaris-Generaal van de Verenigde Naties of een gespecialiseerde organisatie dan wel de Internationale Organisatie voor Atoomenergie zijn aangesteld;\n\niii. personen die door een humanitaire niet-gouvernementele organisatie of instelling zijn ingezet op grond van een overeenkomst met de Secretaris-Generaal van de Verenigde Naties of van een gespecialiseerde organisatie dan wel van de Internationale Organisatie voor Atoomenergie,\n\nom werkzaamheden te verrichten ter ondersteuning van de vervulling van het mandaat van een VN-operatie;\n\nc. wordt onder „VN-operatie\" verstaan: een operatie, opgezet door het bevoegde orgaan van de Verenigde Naties in overeenstemming met het Handvest der Verenigde Naties en uitgevoerd onder VN-gezag en onder VN-toezicht:\n\ni. terwijl de operatie tot doel heeft de internationale vrede en veiligheid te handhaven of te herstellen; of\n\nii. terwijl de Veiligheidsraad of de Algemene Vergadering voor de toepassing van dit Verdrag heeft verklaard dat er sprake is van een buitengewoon risico voor de veiligheid van het personeel dat aan de operatie deelneemt;\n\nd. wordt onder „ontvangende Staat\" verstaan: een Staat op het grondgebied waarvan een VN-operatie wordt uitgevoerd;\n\ne. wordt onder „Staat van doortocht\" verstaan: een Staat, niet zijnde de ontvangende Staat, op het grondgebied waarvan VN-personeel of geassocieerd personeel, alsmede de uitrusting daarvan, op doorreis is of tijdelijk verblijft in verband met een VN-operatie.",
+              "official_path": "/Verdrag_2/Verdragtekst/Artikel1"
+            },
+            {
+              "number": "2",
+              "text": "1 Dit Verdrag is van toepassing op VN-personeel en geassocieerd personeel alsook op VN-operaties als omschreven in artikel 1.\n\n2 Dit Verdrag is niet van toepassing op een VN-operatie waarvoor door de Veiligheidsraad machtiging is verleend als dwangactie op grond van Hoofdstuk VII van het Handvest der Verenigde Naties, waarbij personeel is betrokken als strijders tegen georganiseerde strijdkrachten en waarop het recht inzake internationale gewapende conflicten van toepassing is.",
+              "official_path": "/Verdrag_2/Verdragtekst/Artikel2"
+            },
+            {
+              "number": "9",
+              "text": "1 Het opzettelijk plegen van\n\na. een moord op, een ontvoering van, of een aanslag gericht tegen de persoon of de vrijheid van een lid van VN-personeel of geassocieerd personeel;\n\nb. een gewelddadige aanslag op de officiële gebouwen, de privé-woning of de middelen van vervoer van VN-personeel of geassocieerd personeel, waardoor de persoon of de vrijheid van een lid van dat personeel in gevaar worden gebracht;\n\nc. een dreiging een dergelijke aanslag te plegen met het oogmerk een natuurlijke persoon of rechtspersoon te dwingen een handeling te verrichten of zich daarvan te onthouden;\n\nd. een poging een dergelijke aanslag te plegen; en\n\ne. een deelneming als medeplichtige aan een dergelijke aanslag of aan de poging daartoe, dan wel aan het organiseren daarvan of het geven van de opdracht daartoe,\n\nwordt door elke Staat die Partij is bij dit Verdrag strafbaar gesteld krachtens zijn nationale wetgeving.\n\n2 Elke Staat die Partij is bij dit Verdrag stelt op de in het eerste lid genoemde strafbare feiten passende straffen, waarbij rekening wordt gehouden met de ernst van deze feiten.",
+              "official_path": "/Verdrag_2/Verdragtekst/Artikel9"
+            }
+          ]
+        }
+      ],
+      "comparison": "The selected English authentic and Dutch translation provisions were read separately and compared with the complete official Tractatenblad PDF; relevant Dutch definition pages visually checked. No amendment to these selected clauses appears in the current official body or status listing. Manifest/body digest discrepancy is not claimed resolved."
+    },
+    {
+      "bwb_id": "BWBV0002868",
+      "status_page": "sources/review-batch13-treaty-status-011468.html",
+      "status_url": "https://verdragenbank.overheid.nl/nl/Verdrag/Details/011468",
+      "selected_version": "2005-12-08_0",
+      "manifest_intervals": [
+        {
+          "label": "2005-12-08_0",
+          "effective_from": "2005-12-08",
+          "effective_to": "2010-08-18",
+          "visible_from": "2005-12-08",
+          "visible_to": "9999-12-31"
+        },
+        {
+          "label": "2010-08-19_0",
+          "effective_from": "2010-08-19",
+          "effective_to": "9999-12-31",
+          "visible_from": "2010-08-19",
+          "visible_to": "9999-12-31"
+        }
+      ],
+      "raw_path": "sources/review-batch13-BWBV0002868-effective.xml",
+      "sha256": "8220befc9598a0a13a7b92cf1dfab121ee8f6f7f4daa7837f32e3cd5a98f25ff",
+      "manifest_sha512_verified": false,
+      "actual_sha512": "5c4a2127945d9b88fbf76e030216758b51132bf7d289c0ad0b121fe6da2e7cca5d3eb327335a173cba4dceda7723bee049482f6bdc0518b33340e7cfd6e151d3",
+      "expected_sha512": "b0020ef99d4c8fe1c537f701988abdd0d314399af12c9c426ddca3c57c39ad6f5f27b41dd08f271802afbec35744931768101a61a62399fc253eca8f83bb8535",
+      "published_primary_pdf": "sources/review-batch13-trb-2006-211.pdf",
+      "pdf_sha256": "434da6d35b07b004e374edf7447b4a4dbd5f6b799c17ca0131b55f299a1d7a8c",
+      "selected_language_articles": [
+        {
+          "language": "en",
+          "status": "authentiek",
+          "articles": [
+            {
+              "number": "I",
+              "text": "This Protocol supplements the Convention on the Safety of United Nations and Associated Personnel, done at New York on 9 December 1994 (hereinafter referred to as ‘‘the Convention’’), and as between the Parties to this Protocol, the Convention and the Protocol shall be read and interpreted together as a single instrument.",
+              "official_path": "/Verdrag_1/Verdragtekst/ArtikelI"
+            },
+            {
+              "number": "II",
+              "text": "1 The Parties to this Protocol shall, in addition to those operations as defined in article 1(c) of the Convention, apply the Convention in respect of all other United Nations operations established by a competent organ of the United Nations in accordance with the Charter of the United Nations and conducted under United Nations authority and control for the purposes of:\n\na. Delivering humanitarian, political or development assistance in peacebuilding, or\n\nb. Delivering emergency humanitarian assistance.\n\n2 Paragraph 1 does not apply to any permanent United Nations office, such as headquarters of the Organization or its specialized agencies established under an agreement with the United Nations.\n\n3 A host State may make a declaration to the Secretary-General of the United Nations that it shall not apply the provisions of this Protocol with respect to an operation under article II (1) (b) which is conducted for the sole purpose of responding to a natural disaster. Such a declaration shall be made prior to the deployment of the operation.",
+              "official_path": "/Verdrag_1/Verdragtekst/ArtikelII"
+            }
+          ]
+        },
+        {
+          "language": "nl",
+          "status": "vertaling",
+          "articles": [
+            {
+              "number": "I",
+              "text": "Dit Protocol vult het Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel, gedaan te New York op 9 december 1994 (hierna te noemen „het Verdrag’’) aan, en het Verdrag en het Protocol worden door de Partijen bij dit Protocol gelezen en uitgelegd als een enkel instrument.",
+              "official_path": "/Verdrag_2/Verdragtekst/ArtikelI"
+            },
+            {
+              "number": "II",
+              "text": "1 De Partijen bij dit Protocol passen het Verdrag, in aanvulling op de operaties als omschreven in artikel 1, onderdeel c, van het Verdrag, toe op alle andere VN-operaties opgezet door een bevoegd orgaan van de Verenigde Naties in overeenstemming met het Handvest der Verenigde Naties en uitgevoerd onder VN-gezag en onder VN-toezicht met als doel:\n\na. het verlenen van humanitaire, politieke of op ontwikkeling gerichte hulp bij vredesopbouw, of\n\nb. het verlenen van humanitaire noodhulp.\n\n2 Het eerste lid is niet van toepassing op permanente bureaus van de Verenigde Naties, zoals de hoofdzetel van de organisatie of haar gespecialiseerde organisaties die zijn opgericht krachtens een verdrag met de Verenigde Naties.\n\n3 Een gastheerstaat kan in een verklaring aan de Secretaris-Generaal van de Verenigde Naties te kennen geven dat hij de bepalingen van dit Protocol niet zal toepassen op een operatie krachtens artikel II, eerste lid, onderdeel b, die uitsluitend wordt uitgevoerd om een natuurramp het hoofd te bieden. Een dergelijke verklaring dient voorafgaand aan het begin van de operatie te worden afgelegd.",
+              "official_path": "/Verdrag_2/Verdragtekst/ArtikelII"
+            }
+          ]
+        }
+      ],
+      "comparison": "The selected English authentic and Dutch translation provisions were read separately and compared with the complete official Tractatenblad PDF; relevant Dutch definition pages visually checked. No amendment to these selected clauses appears in the current official body or status listing. Manifest/body digest discrepancy is not claimed resolved."
+    }
+  ],
+  "pdf_visual_checks": [
+    "sources/review-batch13-trb-1981-69-p19.png",
+    "sources/review-batch13-trb-1996-62-p25.png",
+    "sources/review-batch13-trb-2006-211-p8.png"
+  ],
+  "metadata_only_rejection": {
+    "path": "sources/review-batch13-trb-1981-69.xml",
+    "reason": "HTTP200 well-formed official XML contains metadata pointer only, not treaty text. Rejected as substantive text; actual PDF and current official treaty XML obtained."
+  }
+}

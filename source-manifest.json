@@ -1,9 +1,9 @@
 {
-  "scope": "Local source inventory; actual HTTP outcomes, acceptance and source limitations are in verification and batch logs. Presence alone does not certify applicability or catalog hash equality.",
+  "scope": "Local source inventory. Actual HTTP and format outcomes, primary text availability and catalog digest limitations are recorded separately; presence alone is not authentication.",
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/review-batch12-version-evidence.json",
-  "latest_source_anomalies": "sources/review-batch12-source-anomalies.json",
-  "generated_at": "2026-10-20T18:06:05.928173+00:00",
+  "latest_version_evidence": "sources/review-batch13-version-evidence.json",
+  "latest_source_anomalies": "sources/review-batch13-source-anomalies.json",
+  "generated_at": "2026-10-20T18:19:05.763291+00:00",
   "files": [
     {
       "path": "sources/bwb-manifest.xml",
@@ -1506,6 +1506,401 @@
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
     {
+      "path": "sources/review-batch13-BWBR0002448-effective.xml",
+      "bytes": 24346,
+      "sha256": "d5211ce619c22f810a073b41b015a20e6e64c153b56a390c0383b6c8d23afcec"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0002448-extract.txt",
+      "bytes": 1348,
+      "sha256": "4458e9e9fc93ca2a5436fe0d281ebd2f1cb85dec207b208ba0a84aa76e26018b"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0002448-manifest.xml",
+      "bytes": 2001,
+      "sha256": "c1e9a4ab682566cbf274f21f160dc2218c8c3141a069f73168e00e34753a61d2"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040632-effective.xml",
+      "bytes": 725140,
+      "sha256": "b46da83d1d2436f97729e4e9bae8590a82b22d6e24227653b257fe57b09b1839"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040632-extract.txt",
+      "bytes": 7234,
+      "sha256": "e934ebc90dbe92b9cb3727d447f27cc0e727e81216c4940b39306b7038da8a70"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040632-manifest.xml",
+      "bytes": 6126,
+      "sha256": "1363fa2dcf9d2b797e7af189956cafb0a9b6f81f8c42e44b6c189128cb5cd3aa"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040634-effective.xml",
+      "bytes": 247677,
+      "sha256": "ffaa3cc4b9d78da638567ae4ceeecbd17d389ff1998c6ece6ac9f675e07d4bcc"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040634-extract.txt",
+      "bytes": 7741,
+      "sha256": "dcb6eeb6710afe7124142d334c2dc0fd5a3fd3cc143667c0909aa0f6d1c4c5e7"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040634-manifest.xml",
+      "bytes": 6821,
+      "sha256": "c705334e1711d276def812a9b9c0973cb82475a194e0b34b41534a4835c56b54"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040635-effective.xml",
+      "bytes": 970113,
+      "sha256": "ac2d507ae15d62f4d0f9c1df707cf2fe781cf11066d8b2374a494bfe54505c85"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040635-extract.txt",
+      "bytes": 6065,
+      "sha256": "f1359f17ce3a488965f20540df22f2b55a0fd9ba9d644afb2eb46ddd0dbc1280"
+    },
+    {
+      "path": "sources/review-batch13-BWBR0040635-manifest.xml",
+      "bytes": 8211,
+      "sha256": "2657d9a4f6c55fb81af8d4a9a990f52e1d052a78021a2c234d9ad7f5a6f27f9d"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0001519-effective.xml",
+      "bytes": 167898,
+      "sha256": "a25164f2cde3a438d69299783e1366aacaeecef431b9f875ea974bd18c91f057"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0001519-extract.txt",
+      "bytes": 7245,
+      "sha256": "8f87331ffb7a1abe78ab0ac28188e190945213694fa245e37b1050c335b6b135"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0001519-manifest.xml",
+      "bytes": 1364,
+      "sha256": "36f847d2aee85e79612535296695738316e412f3821b3dc7743bc84188fd8053"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0002868-effective.xml",
+      "bytes": 51401,
+      "sha256": "8220befc9598a0a13a7b92cf1dfab121ee8f6f7f4daa7837f32e3cd5a98f25ff"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0002868-extract.txt",
+      "bytes": 2823,
+      "sha256": "e37ab853fd4aff3e7c9f6404e78d9d7aae2b9f27096b20c6c21290a57668dd4c"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0002868-manifest.xml",
+      "bytes": 2056,
+      "sha256": "39814ae9451ebe4f6a5e18cb1447a67fc5956be7b2865ac2ea8f3552ed4f0ddf"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0003903-effective.xml",
+      "bytes": 115062,
+      "sha256": "e1692dcb033accfe5a7ac0e0bc9684f4fd7acfb36acacd75e8bcacc0eda806bb"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0003903-extract.txt",
+      "bytes": 4394,
+      "sha256": "df46d4d1239c6cde854ebbaf699020ee61ac6591aa17e081c96f33c0a7a2cf9e"
+    },
+    {
+      "path": "sources/review-batch13-BWBV0003903-manifest.xml",
+      "bytes": 1364,
+      "sha256": "78b10c4d64578ac730eafd5966a029d9b8a59837eea11b7af82841786fe55785"
+    },
+    {
+      "path": "sources/review-batch13-HR-2003-AI1588-body.txt",
+      "bytes": 4513,
+      "sha256": "41394f17e49ef066d4997d0b88dc7d3ed9ab61d0c0f394586757e1fcdce09263"
+    },
+    {
+      "path": "sources/review-batch13-HR-2003-AI1588.xml",
+      "bytes": 10236,
+      "sha256": "b468569032390b4f424892b64868856fe1bc53fae79d0fbecd7076b66ca5f0e6"
+    },
+    {
+      "path": "sources/review-batch13-HR-2004-AO2599-body.txt",
+      "bytes": 6617,
+      "sha256": "bb640295b9cdba2d714360204710f1400cbc1b10d4ea6d7cd30f43e72fff042e"
+    },
+    {
+      "path": "sources/review-batch13-HR-2004-AO2599.xml",
+      "bytes": 12471,
+      "sha256": "6be76e3ae4e861f8fa384370051894670b99dd07356167168c8112bc1ee2ba23"
+    },
+    {
+      "path": "sources/review-batch13-HR-2017-2546-body.txt",
+      "bytes": 2095,
+      "sha256": "9df9694046849d1625dc4db2fdcd52b5ce4f84886ace3a5f43c59b1e0a471678"
+    },
+    {
+      "path": "sources/review-batch13-HR-2017-2546.xml",
+      "bytes": 8211,
+      "sha256": "c44664034b6f97f3354b2d126e45b9282cbd0a67c3c43177a08c4e2d65d56dcb"
+    },
+    {
+      "path": "sources/review-batch13-HR-2020-447-body.txt",
+      "bytes": 95343,
+      "sha256": "a62e1dd01ec1391c0a25f02889d0d1844c5eeee4c1b9ecd87fb4042cfa579763"
+    },
+    {
+      "path": "sources/review-batch13-HR-2023-136-body.txt",
+      "bytes": 13766,
+      "sha256": "2b8ecfb420dd740e42e6abdbdc027ed99184b9eba87aef21799ccf91bd34e561"
+    },
+    {
+      "path": "sources/review-batch13-HR-2023-136.xml",
+      "bytes": 21535,
+      "sha256": "1aa7dfba1b19762684bde0849bd34261f6ca8f9c465a2c95eedda1051a99dba9"
+    },
+    {
+      "path": "sources/review-batch13-before-renumbering.xml",
+      "bytes": 2520829,
+      "sha256": "728096aac7b857b65166d71b0563bf8260a57f215d1c77f453ef477dac6ca5e5"
+    },
+    {
+      "path": "sources/review-batch13-cases-fetch-log.json",
+      "bytes": 1691,
+      "sha256": "70c795c21b95ffc57adc6c2e7b4f31106390d9aae47dfea0af40cc46b27cceea"
+    },
+    {
+      "path": "sources/review-batch13-change-map.json",
+      "bytes": 5382,
+      "sha256": "d4e95277abfdead63bd7682874b9b109e147ff4358e0e0a5a41bd4d845c67865"
+    },
+    {
+      "path": "sources/review-batch13-commentary-change-map.json",
+      "bytes": 5502,
+      "sha256": "0c3a5342cfc3d278f3960baafe03a18253ea31b73b75c9491a7b7c4be020cd2c"
+    },
+    {
+      "path": "sources/review-batch13-coverage.json",
+      "bytes": 20828,
+      "sha256": "ab0a5c4800a635a8c0ef7150b1a7b9bdcfda4d3bd49e4356f111a181836603aa"
+    },
+    {
+      "path": "sources/review-batch13-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/review-batch13-external-evidence.json",
+      "bytes": 26286,
+      "sha256": "7f62e1ee95124fb79d693ed6816991cb1e1804a47ac3358b8054882f5a93b410"
+    },
+    {
+      "path": "sources/review-batch13-extra-fetch-log.json",
+      "bytes": 6207,
+      "sha256": "928db02e902fe9c5e659c11ce9509cc77fef32d745e57070e8d0deedfe671c00"
+    },
+    {
+      "path": "sources/review-batch13-fetch-log.json",
+      "bytes": 3401,
+      "sha256": "604b8d34c3e4022d342e9d1b2f1d2bd5a16fdef91b3c6ead897e45d2a664ea18"
+    },
+    {
+      "path": "sources/review-batch13-historical.xml",
+      "bytes": 2544128,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1"
+    },
+    {
+      "path": "sources/review-batch13-history-fetch-log.json",
+      "bytes": 496,
+      "sha256": "1a692f5fa90c1f0ba82eb24ead0befc2ebd22e6c561cf065f932219a1060f30b"
+    },
+    {
+      "path": "sources/review-batch13-internal-references.txt",
+      "bytes": 27035,
+      "sha256": "ed14e1b1e704aa5d8e35a3e0bb7e4be531a29efe23e31f503e4266f7e1167e4b"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2009-BG7743.txt",
+      "bytes": 13297,
+      "sha256": "e54c7d4136a06f17d0f8e17f23184a0eabd231c6618f27c1ed06b4d1deba13ba"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2009-BG7743.xml",
+      "bytes": 19674,
+      "sha256": "c9ac0f8f0d3d22e040b73f7ac23bb581378e4a475c321403ad0d787e0a53e724"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2020-447.txt",
+      "bytes": 101449,
+      "sha256": "53eeea9966ede452156c509aa0199f7651b9f5d5995f012e20884f437b61a73e"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2020-447.xml",
+      "bytes": 130917,
+      "sha256": "4a2fd468a1eb6f99bd7db37bc285f2d8665dec4d90a926e3bc786b5d8b7ee64e"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2026-430.txt",
+      "bytes": 1802,
+      "sha256": "05ac0f9a1ec85a6d4322d71c4da8d4b171a01332b5e6829e9aee5d19db12ebd0"
+    },
+    {
+      "path": "sources/review-batch13-judgment-2026-430.xml",
+      "bytes": 7049,
+      "sha256": "dd5c2b0b77fadb96f6a219ef2f3bea20604eb7930e9ea68761038acbbdf8712d"
+    },
+    {
+      "path": "sources/review-batch13-key-fetch-log.json",
+      "bytes": 571,
+      "sha256": "ab9b058900d24355f8db4c8d09336d7c328a28fa68dd1264b1ab7e8e222f33fb"
+    },
+    {
+      "path": "sources/review-batch13-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/review-batch13-reference-anomaly.json",
+      "bytes": 4905,
+      "sha256": "a4291a598527aa7a69b898139cedd86441dc51ea895d03dd8cc9128757abdf85"
+    },
+    {
+      "path": "sources/review-batch13-source-anomalies.json",
+      "bytes": 2519,
+      "sha256": "6017ca2ddc276ce31867fe80615c3dd26ad51599a50994ebfe268f7539255430"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-100.txt",
+      "bytes": 899,
+      "sha256": "39109d6d218c12a96cc700f4d47c7bef27c7b11da9cab2ecabae34097960716b"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-100.xml",
+      "bytes": 4712,
+      "sha256": "924b0db26bd65f3292a98581dc54dc1a88d989df35c68574c8b742af274a2bd1"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-74.txt",
+      "bytes": 1530,
+      "sha256": "9da19a00e50f296b5349697ed573bf6261b1b1a9a0120c40254ab4ed5d71600a"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-74.xml",
+      "bytes": 7862,
+      "sha256": "11e355ea86b06f0fea0848be3c3df502527ea044475c97606c96c8c17ba32648"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-75.txt",
+      "bytes": 454,
+      "sha256": "6ce2edd6b1b6fb7d93f55af246c9c6335e702e5a3f58b08ed07a7547ea477495"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-75.xml",
+      "bytes": 3499,
+      "sha256": "6bc99d94df7911257b5d1f38cffce82f0e4d2d298ab1303890f5bf07f013aaaf"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-76-full.txt",
+      "bytes": 8786,
+      "sha256": "ec76f6605e6b790fd03421ab2d1f365956f6921e08e0e45765ce50ff1133dc41"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-76.txt",
+      "bytes": 5294,
+      "sha256": "d31df10b2fe0140add954378980ea9b46cecb6cd9b2d3c322b71039d665d5e74"
+    },
+    {
+      "path": "sources/review-batch13-stb-2025-76.xml",
+      "bytes": 21994,
+      "sha256": "ecd04781885e98e357b3a927384a982a6c26ea20233743bbe71ffef67ff00cf4"
+    },
+    {
+      "path": "sources/review-batch13-supplement-fetch-log.json",
+      "bytes": 5735,
+      "sha256": "35997bd900f52a03008f86454d98d42b189133d572968e744dd1b87b11fbee6e"
+    },
+    {
+      "path": "sources/review-batch13-trb-1981-69-p19.png",
+      "bytes": 99961,
+      "sha256": "8819711db6567be86256e8dce89b7f7c1053f05d9edeff2784490f0757b3c710"
+    },
+    {
+      "path": "sources/review-batch13-trb-1981-69.pdf",
+      "bytes": 1221300,
+      "sha256": "988e536073b3900f7b2e343272d0cd653433d560f2b4291331ab83dda117c979"
+    },
+    {
+      "path": "sources/review-batch13-trb-1981-69.txt",
+      "bytes": 69521,
+      "sha256": "617705ce5b9da86a2fedb8d8f91f1e13ab6f3ed7a0aa866f3c8e8af047ddffc2"
+    },
+    {
+      "path": "sources/review-batch13-trb-1981-69.xml",
+      "bytes": 257,
+      "sha256": "77bbf0f288f1cc3432d61ccba29284d0eb6f875a9ff060ccbf0da0043e20e755"
+    },
+    {
+      "path": "sources/review-batch13-trb-1996-62-p25.png",
+      "bytes": 201912,
+      "sha256": "ea8c036195676030345783876bb9cbdf73554aa1ee131d6bbb4e4860f44111c1"
+    },
+    {
+      "path": "sources/review-batch13-trb-1996-62.pdf",
+      "bytes": 87332,
+      "sha256": "30bf20a0a3d91fdeab9ae588e713fc52eebd6973e8f27667ec766f10b73e02d5"
+    },
+    {
+      "path": "sources/review-batch13-trb-1996-62.txt",
+      "bytes": 84553,
+      "sha256": "2729fcae5d613479392991c9445c910886422dd29727d633608cb8af1a654ce4"
+    },
+    {
+      "path": "sources/review-batch13-trb-2006-211-p8.png",
+      "bytes": 198706,
+      "sha256": "028d4ee30adb1ed8e194e71e34a1a3027befe24f9cc1a8181087a0f57669bb47"
+    },
+    {
+      "path": "sources/review-batch13-trb-2006-211.pdf",
+      "bytes": 70340,
+      "sha256": "434da6d35b07b004e374edf7447b4a4dbd5f6b799c17ca0131b55f299a1d7a8c"
+    },
+    {
+      "path": "sources/review-batch13-trb-2006-211.txt",
+      "bytes": 44758,
+      "sha256": "4a978f3216de92416b3e6d11954bbce13a08bc14012ced4d8d4a4b2671dcc3bc"
+    },
+    {
+      "path": "sources/review-batch13-treaties-fetch-log.json",
+      "bytes": 1454,
+      "sha256": "0d52f744d6f99bd8861043faf17ec7e180e88b813eb608b93a4679004dc72281"
+    },
+    {
+      "path": "sources/review-batch13-treaty-evidence.json",
+      "bytes": 22979,
+      "sha256": "20bc606a72fae12f3a2e75525e67c8d43e9ea982c910c5e74e304f19f5c60349"
+    },
+    {
+      "path": "sources/review-batch13-treaty-status-002412.html",
+      "bytes": 23892,
+      "sha256": "b994f87f95b10a912063eb815179a9000c189e6ca35ac8dde7c71dbfea091e44"
+    },
+    {
+      "path": "sources/review-batch13-treaty-status-006053.html",
+      "bytes": 23946,
+      "sha256": "4e7061649bfc1327c38da7d262bb0adaf60cb9f804006a61cd2e84e2d9db7c1a"
+    },
+    {
+      "path": "sources/review-batch13-treaty-status-011468.html",
+      "bytes": 22391,
+      "sha256": "17305fc505968d01dddddb7ccd2a1e8961caede72c51c68cb4fb43edeee41c3b"
+    },
+    {
+      "path": "sources/review-batch13-version-evidence.json",
+      "bytes": 167003,
+      "sha256": "5aff9726c0d65378d746518cd733e9b15854dedd7e83a7f129dd9a402cd360cb"
+    },
+    {
+      "path": "sources/review-batch13-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
       "path": "sources/statutory-content-audit.json",
       "bytes": 252422,
       "sha256": "119540a9af1bdee8bc47feb0faf5a5c8bffb8df696e4e51a07aa577e2154411c"
@@ -1517,13 +1912,23 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 100846,
-      "sha256": "6759f7342e1c4a5e91efaa7481bf4e75accc554639c00e8672f0cb8f9724f45f"
+      "bytes": 121586,
+      "sha256": "2cae609a1a3ba12befb840c42ca71af1925f5ee842d3e8ff5b02481e36fc03a3"
     },
     {
       "path": "authorities/HR-2003-AF7938.md",
       "bytes": 2553,
       "sha256": "17014babcccbac110e00b8557f282aac517241184297b301355ab5e881f6b4df"
+    },
+    {
+      "path": "authorities/HR-2003-AI1588.md",
+      "bytes": 1753,
+      "sha256": "abe03eeb72b5639254cabc8ab1c61b01d991e5a16696b3b90e453de5a1d78c1d"
+    },
+    {
+      "path": "authorities/HR-2004-AO2599.md",
+      "bytes": 1566,
+      "sha256": "6be1072a97342753aa194f27749edee73fd1f51df05abd9882e61a6a1e7c0cad"
     },
     {
       "path": "authorities/HR-2005-AS5983.md",
@@ -1539,6 +1944,11 @@
       "path": "authorities/HR-2007-AZ0213.md",
       "bytes": 2239,
       "sha256": "3961f448873cda697de0162d212859bd9c50f89574bdc4c377d9e0a94f5d9073"
+    },
+    {
+      "path": "authorities/HR-2009-BG7743.md",
+      "bytes": 1704,
+      "sha256": "8a2480509181fc8a5b758ad8a4fc082566fe9c6830710a9f91a8c9e56a043b30"
     },
     {
       "path": "authorities/HR-2011-BM9102.md",
@@ -1794,6 +2204,11 @@
       "path": "authorities/review-batch12-search-log.json",
       "bytes": 51904,
       "sha256": "fac4366ea67eaf091905ebc542386866881736a84a33da0e00932c4e55e1104b"
+    },
+    {
+      "path": "authorities/review-batch13-search-log.json",
+      "bytes": 3709,
+      "sha256": "0f48c0bb95caf6c03676929fdbd293607bba606ab30de14fc04b6b5917bd19e1"
     },
     {
       "path": "authorities/search-log.json",
