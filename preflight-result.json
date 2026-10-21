@@ -1,5 +1,24 @@
 {
   "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:52:22.153145+00:00",
+  "version_evidence": "sources/review-batch38-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "change_map": "sources/review-batch38-historical-change-map.json"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch38-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
   "scope": [
     "a426ter",
     "a427",
@@ -22,25 +41,6 @@
     "a435d",
     "a435e"
   ],
-  "decisive_date": "2026-10-19",
-  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-21T00:45:33.466769+00:00",
-  "version_evidence": "sources/author-batch38-version-evidence.json",
-  "historical_versions_checked": {
-    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
-    "expressions": 126
-  },
-  "historical_change_map": "sources/author-batch38-historical-change-map.json",
-  "annexes_checked": [
-    {
-      "status": "verified_absence",
-      "evidence_path": "sources/author-batch38-effective.xml",
-      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
-    }
-  ],
-  "unresolved_blockers": [],
-  "coverage": "sources/author-batch38-coverage.json",
-  "limitations": [
-    "Decisive date is title authoring start, not batch-fetch time. Official repository manifest, WTI and XML used; pending amendments not included."
-  ]
+  "coverage": "sources/review-batch38-coverage.json",
+  "entry_page_limitation": "Official repository XML, manifest and WTI freshly fetched and format/hash validated; entry webpage not freshly fetched."
 }

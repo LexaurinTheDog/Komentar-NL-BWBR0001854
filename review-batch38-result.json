@@ -1,0 +1,224 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a426ter",
+    "a427",
+    "a428",
+    "a429",
+    "a429a",
+    "a429bis",
+    "a429ter",
+    "a429quater",
+    "a429quinquies",
+    "a429sexies",
+    "a430",
+    "a430a",
+    "a430b",
+    "a431",
+    "a435",
+    "a435a",
+    "a435b",
+    "a435c",
+    "a435d",
+    "a435e"
+  ],
+  "reviewed_at": "2026-10-21T00:54:28.634107+00:00",
+  "changed_ids": [
+    "a426ter",
+    "a429ter",
+    "a429quater",
+    "a430a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a426ter",
+      "disposition": "corrected",
+      "finding": "Alle drie gedragsvarianten gelezen; groepsvereiste uitsluitend opdringen, expliciete wil en hinderlijk blijven volgen onderscheiden. Toegevoegd: geen afzonderlijk openbaar-plaatsvereiste zoals426bis en maximum drie maanden/derde categorie.",
+      "statutory_sha256": "98d7eb963e6f5a2a80ea5ad2c3ed9014b897f8145bc897df2869512a853f7bc3",
+      "commentary_sha256": "d891abc2e3bf9c36bc1a21e5a61532c851ce82cf20b0602a13b9f845b4405b7c",
+      "commentary_chars": 2232
+    },
+    {
+      "id": "a427",
+      "disposition": "retained_after_review",
+      "finding": "Alle zes onderdelen gecontroleerd: eigenaar/gebruiker1, op eigen last2, verlichting én tekens, waarschuwen3, mogelijk nadeel4, dieren5, bevoegd verlof6. Preventieve norm, geen gerealiseerde schade vereist; eerste categorie juist.",
+      "statutory_sha256": "e6e82f85c0584ec929125e63deecbc6684e0af0875d2266756dc085e1fd55975",
+      "commentary_sha256": "5990ae0003ff9d3b63363b5715b07541ffe2d582b7776cabc74ef7a0232ad393",
+      "commentary_chars": 1889
+    },
+    {
+      "id": "a428",
+      "disposition": "retained_after_review",
+      "finding": "Eigen onroerende zaken, burgemeester versus voorzitter/aangewezen ambtenaar en artikel39-verwijzing gelezen. Los afval niet gelijkgesteld met onroerende zaak. Vergelijk157 beperkt tot gevaarzetting; eerste categorie. Geen zelfstandige uitleg van externe crisisvoorwaarden.",
+      "statutory_sha256": "c224e2055ea5aa543ddeaef200301343e2c2c6d039703519c9d2716d7245403d",
+      "commentary_sha256": "60b1df4e49a1806f907e4ac0aa77ffe9bc1ac185daa8b42587c626aa1351c8da",
+      "commentary_chars": 1789
+    },
+    {
+      "id": "a429",
+      "disposition": "retained_after_review",
+      "finding": "Zes onderdelen apart nagelezen: concrete brandgevaarsmogelijkheid1, brandende ballon2, ontstáán brandgevaar3, wederrechtelijke stof en mogelijk waternadeel4, lijn binnen500m5, luchtvaartgevaar/hinder6. Veertien dagen/tweede categorie juist.",
+      "statutory_sha256": "4bb2b31f5e8b41f92c3faffb16d93d7fc7fed863b1632eb1a1988bc4f7cc136a",
+      "commentary_sha256": "f04bbc929d3f5147b1e4334e6d0ebcaa242297180f819efe3f50a462371dbd40",
+      "commentary_chars": 1929
+    },
+    {
+      "id": "a429a",
+      "disposition": "retained_after_review",
+      "finding": "Beide leden en eigen tracht te brengen-variant gelezen. Verboden bezit1 onderscheiden van onregelmatige invoer2, drie beginselenwetten en instellingstype begrenzen bereik. Artikel45-verwijzing en zes maanden/derde categorie juist.",
+      "statutory_sha256": "267dd8d26835d6a5d96ffea6fe4b3cb29cd8da4effa3fcd043a693bd63ce93dd",
+      "commentary_sha256": "6697c7a601e20742b37528083f4081f5d40dc39bdd4e47d16f7008e21710c77e",
+      "commentary_chars": 2280
+    },
+    {
+      "id": "a429bis",
+      "disposition": "retained_after_review",
+      "finding": "Vervallen status en ingangsdatum2014-03-01 officieel gecontroleerd. Geen actuele norm of historische inhoud gefabriceerd; artikel1 temporeel en onafhankelijk429ter-nummer juist.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "a5f08cc9b5b93d6f4b5c3765378d8e2d811d871ad14cb9660b29f4c04a6d3943",
+      "commentary_chars": 989
+    },
+    {
+      "id": "a429ter",
+      "disposition": "corrected",
+      "finding": "Openbaarheid expliciet als zelfstandig bestanddeel verduidelijkt, drie maanden/derde categorie toegevoegd. Indringendheid/seksuele inhoud/geobjectiveerd effect gelezen. Beide rechtbankvonnissen volledig nagelezen; feitelijke toepassing versus algemene online-overweging onderscheiden.",
+      "statutory_sha256": "d59c65ed0c8d1e0ab7f2e5eaef3c47476d7ae1e558c5fb20975fa81ccfa6fdc7",
+      "commentary_sha256": "ea57aff83b611d43abaf0f3fb3541a9f8c393a18d785ae7f8c99d66b66259477",
+      "commentary_chars": 2629
+    },
+    {
+      "id": "a429quater",
+      "disposition": "corrected",
+      "finding": "Lid1 vijf discriminatiegronden en lid2 handicap met zonder redelijke grond/doel OF mogelijk gevolg gelezen. Artikel90quater1 en137g gecontroleerd. Geen afzonderlijk opzetbestanddeel1 verduidelijkt zonder verwijtbaarheid te ontkennen; twee maanden/derde categorie juist.",
+      "statutory_sha256": "696e18e1c34a2e939d2ab7f14b8fb15992b3251869bf6030ab611107137aab21",
+      "commentary_sha256": "8a0be4f51d5a3c3a4b91b6da804286151b029b5dd0337166a8300e61a180e45e",
+      "commentary_chars": 2352
+    },
+    {
+      "id": "a429quinquies",
+      "disposition": "retained_after_review",
+      "finding": "Bijzondere verboden plaats gekoppeld aan80ter, niet louter bord of particulier terrein. Zich bevinden zonder gerechtigdheid, beperkte toestemming, zes maanden/derde categorie en onderscheid461 gelezen.",
+      "statutory_sha256": "ac0378b74b4b6ec7d9aebb4aa2fc89ea0c3a63fa560659000da556efab41496b",
+      "commentary_sha256": "f8ce2068a188f16bfea6c212eba2a18c54ee33608822eaf7a0d581928b36b007",
+      "commentary_chars": 1617
+    },
+    {
+      "id": "a429sexies",
+      "disposition": "retained_after_review",
+      "finding": "Vervallen status2010-10-01 gecontroleerd; geen historische delictsomschrijving in actuele tekst gevoegd. Artikel1 en noodzaak volledige toenmalige tekst passend.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "0a2ab58b7090790b9877231640c6bd8567029da061339929c4b81d74f30b4331",
+      "commentary_chars": 951
+    },
+    {
+      "id": "a430",
+      "disposition": "retained_after_review",
+      "finding": "Opneming/tekening/beschrijving maken en openbaarmaken afzonderlijk, militair werk en bevoegde toestemming gelezen. Geen zelfstandig spionageoogmerk of schadevereiste; twee maanden/derde categorie. Voorbeeld met beperkt verlof juist.",
+      "statutory_sha256": "9f17021363692f450659796dc75865b2a9a6ea72e2581b52e187e42e4d0f7bc6",
+      "commentary_sha256": "1fb11c2068078b8649230d8f2827f15e2b9a4dad1660f450e85c0ac8eb09314d",
+      "commentary_chars": 1755
+    },
+    {
+      "id": "a430a",
+      "disposition": "corrected",
+      "finding": "Twee routes voor onbestrafte naaktrecreatie en openbaar verkeer gelezen. HR2015:3462 geheel gecontroleerd; mogelijke gezichtspunten3.7 nu correct als niet-cumulatief omschreven. Grondslagverlating, terugwijzing en ontbreken eigen ongeschiktheidsvaststelling juist; eerste categorie.",
+      "statutory_sha256": "4de86bd9e28cfda00f671ff143ae11afe76c2c37bcfda5c45b998dc7d20683f5",
+      "commentary_sha256": "00a227653fd9f5980822d5705aca2c100d6c2626d7edde2e02fc0a1a2024fc98",
+      "commentary_chars": 2098
+    },
+    {
+      "id": "a430b",
+      "disposition": "retained_after_review",
+      "finding": "Kennelijke dronkenschap op openbare weg tegenover bijkomende gedraging426, geen vaste alcoholwaarde of willekeurig openbaar gebouw. Medische alternatieve verklaring en twaalf dagen/eerste categorie gelezen; XML-ingangsdatum2024-07-01 bevestigd.",
+      "statutory_sha256": "352bf9f6256024698d0b8492a4c79e17497754a28b9c7f0ec61726a0aaa07c44",
+      "commentary_sha256": "edcb2d89f052a5011e84eea71de6200142592e4f5d94a7e8a87b2565bc9bbd58",
+      "commentary_chars": 1772
+    },
+    {
+      "id": "a431",
+      "disposition": "retained_after_review",
+      "finding": "Rumoer/burengerucht met mogelijke nachtrustverstoring, geen daadwerkelijke wekking vereist. Geen vaste uren/decibelgrens ingevoegd; veroorzaking niet uit eigendom afgeleid. Eerste categorie en426-verwijzing juist.",
+      "statutory_sha256": "57cdecaafaabc2f7260b27a96602cdd54fe16e98557d82f79d6d89c200ac5841",
+      "commentary_sha256": "e941a9b7b226cfce426c0195dc85c62a6c780613fd05f96336fb64e4412331b8",
+      "commentary_chars": 1628
+    },
+    {
+      "id": "a435",
+      "disposition": "retained_after_review",
+      "finding": "Alle vier onderdelen gelezen: Nederlandse titel/ordeteken1, vreemde waardigheid en voorwaardelijk verlof2, specifieke beroep/onderwijstitels3, bevoegd verzoek en limitatieve valse persoonsgegevens4. BRP en verblijf onderscheiden; tweede categorie.",
+      "statutory_sha256": "af9fb0d60469b5e25174d97fc1a6a570e1b803efc4aa735f9eee27af54ed6d6d",
+      "commentary_sha256": "97f5bb744877989b1d1d3d878995b8194cc0e062bab5b5d059c16c0c3675aecd",
+      "commentary_chars": 1984
+    },
+    {
+      "id": "a435a",
+      "disposition": "retained_after_review",
+      "finding": "Openbaar dragen/voeren, kleding versus opzichtige tekens en staatkundig streven gelezen. Artikel10EVRM uit opgeslagen officiële PDF geverifieerd; geen absoluut kledingverbod of fictieve rechtspraak geclaimd. Twaalf dagen/tweede categorie.",
+      "statutory_sha256": "3e486d279c2e2fbbd62a5e496b76bf084d25f60b7dce05a477ff47eec9d0f084",
+      "commentary_sha256": "161365979549fb38d0f51d7adbd49473f304de1dce7093f5c2aa9e6070bc6c55",
+      "commentary_chars": 1831
+    },
+    {
+      "id": "a435b",
+      "disposition": "retained_after_review",
+      "finding": "Lid1 opgesomde officiële relaties en indruk/geen daadwerkelijk betaalvereiste, vervallen lid2 en facultatieve openbaarmaking3 gelezen. Bronopmerking apart en datum2010-10-10 gecontroleerd; maand/tweede categorie.",
+      "statutory_sha256": "28d3012de4231ab79ae1e1e65180e86b0803209569aa21335348809f79c6f4f4",
+      "commentary_sha256": "8c0a2f52003e9e3fc84e2f88b53aeb548f5ae50df7316ee20a5c38bec28f0100",
+      "commentary_chars": 1899
+    },
+    {
+      "id": "a435c",
+      "disposition": "retained_after_review",
+      "finding": "Rodekruisteken, woorden, oorlogsrechtelijk gelijkgestelde tekens en nabootsingen onderscheiden; onbevoegdheid niet uit commerciële misleiding afgeleid. Geen beperking tot oorlogstijd. Maand/tweede categorie; gerechtigdheid vergt externe grondslag.",
+      "statutory_sha256": "d5a8df03659f74dec4415e37b62371a8c8e2a07a6d7abe96cbf55c6474017529",
+      "commentary_sha256": "a9255c0d5ecd3e4bdd4e25b6850314ded447f14c4d608c06654ab055265c2d88",
+      "commentary_chars": 1816
+    },
+    {
+      "id": "a435d",
+      "disposition": "retained_after_review",
+      "finding": "Zwitserse wapen/nabootsing en drie alternatieven gelezen: merkgebruik, oneerlijk handelsdoel, mogelijke krenking. Geen cumulatieve eisen of nationaliteitsvereiste toegevoegd; maand/tweede categorie. Onderscheid435c juist.",
+      "statutory_sha256": "5ed3b88df4d7beabce0f6558354408fa5d81e1c2c0fe7351d8641766ee932ef9",
+      "commentary_sha256": "5ae1b88328da16bdf85d626ed9a62153c7f3c550042ef74314a3a7e50b4202bb",
+      "commentary_chars": 1765
+    },
+    {
+      "id": "a435e",
+      "disposition": "retained_after_review",
+      "finding": "Telefonische tussenkomst, buiten besloten kring, betaald aanbod en liefdadige/ideële bestemming gelezen. Geen onwaarheidseis; gift onderscheiden van verkoop, moderne communicatie niet door analogie ingevuld. Derde categorie en326-eigenbestanddelen juist; checklist gelezen.",
+      "statutory_sha256": "af428b0f95273252f9758fa3870e3a6c1081cfcc74421497a0a42c3388d609ec",
+      "commentary_sha256": "8737e20e28c4d0ec8d1b9c2b958e81935766709318e14b75f421f35b67bf1e4b",
+      "commentary_chars": 2404
+    }
+  ],
+  "limitations": [
+    "Exactly twenty assigned units reviewed; no review claim for other units.",
+    "52 out-of-scope units remain uncommented; whole book incomplete.",
+    "Selective case-law verification; no exhaustive appeal/later-treatment audit or external professional approval.",
+    "External regimes referred to but not substantively expounded require case-specific verification.",
+    "Technical text agreement and length do not prove legal quality."
+  ],
+  "source_preflight": "preflight-review-batch38-result.json",
+  "case_evidence": "sources/review-batch38-authority-check.json",
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1257977,
+    "errors": [
+      "krátký/chybějící komentář u 52 jednotek: ['a435f(0<120)', 'a436(0<400)', 'a437(0<400)', 'a437bis(0<400)', 'a437ter(0<400)', 'a437quater(0<400)', 'a438(0<400)', 'a439(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+    "path": "sources/review-batch38-previous.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-21T00:52:32.872092+00:00",
+    "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:3462",
+    "path": "authorities/review-batch38-ECLI-NL-HR-2015-3462.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-21T00:52:33.034808+00:00",
+    "sha256": "8bc0fc76e53ef384e09faecbb41ee8bfbcb98ad70427e4f1c42d3d9617eb891c",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2024:9612",
+    "path": "authorities/review-batch38-ECLI-NL-RBROT-2024-9612.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-21T00:52:33.215464+00:00",
+    "sha256": "642813fa1b90e07318105f0f150ec7c52fe06efc1248f46e0c28e25bb43a130e",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2024:5729",
+    "path": "authorities/review-batch38-ECLI-NL-RBMNE-2024-5729.xml",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "accessed_at": "2026-10-21T00:52:34.057978+00:00",
+    "sha256": "0a2f04c29b4caf9fb006f1c6d68330cc064cc1197f041a0418a02b9ed5532d09",
+    "expected_format_valid": true
+  }
+]

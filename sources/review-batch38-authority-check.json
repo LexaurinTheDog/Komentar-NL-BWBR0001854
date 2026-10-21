@@ -1,0 +1,54 @@
+{
+  "reviewed_at": "2026-10-21T00:54:28.634107+00:00",
+  "verified_existing_authorities": [
+    {
+      "ecli": "ECLI:NL:HR:2015:3462",
+      "path": "authorities/review-batch38-ECLI-NL-HR-2015-3462.xml",
+      "sha256": "8bc0fc76e53ef384e09faecbb41ee8bfbcb98ad70427e4f1c42d3d9617eb891c",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBROT:2024:9612",
+      "path": "authorities/review-batch38-ECLI-NL-RBROT-2024-9612.xml",
+      "sha256": "642813fa1b90e07318105f0f150ec7c52fe06efc1248f46e0c28e25bb43a130e",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    },
+    {
+      "ecli": "ECLI:NL:RBMNE:2024:5729",
+      "path": "authorities/review-batch38-ECLI-NL-RBMNE-2024-5729.xml",
+      "sha256": "0a2f04c29b4caf9fb006f1c6d68330cc064cc1197f041a0418a02b9ed5532d09",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    }
+  ],
+  "case_cards": "authorities/author-batch38-cases.md",
+  "web_queries": [
+    "site.rechtspraak.nl \"429ter\" \"9612\"",
+    "site.rechtspraak.nl \"430a\" \"3462\""
+  ],
+  "adopted_additional_cases": [],
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-3462.md",
+    "sha256": "65e5109fd3f346b5e8c8c6c7cfdebbc983be6fd39d531f086292b9a3be38dea7",
+    "disposition": "Existing cited HR arrest checked against local national corpus; no separate additional holding adopted."
+  },
+  "evrm": {
+    "path": "sources/author-batch38-evrm.pdf",
+    "sha256": "f4608f7ed2d505debc85866f02290cf1e1c386eb1a605833bd6a3ee4ffb3febe",
+    "review": "Article10 read from pdftotext output; legitimate aims and necessity confirmed; no case-law claim."
+  },
+  "rejected_response": {
+    "path": "authorities/review-batch38-ECLI-NL-HR-2015-3462.rejected-html",
+    "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+    "url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?Id=ECLI:NL:HR:2015:3462",
+    "expected_format_valid": false,
+    "reason": "HTML at incorrect endpoint rejected by XML parser; replaced by full judgment from data.rechtspraak.nl; HTTP status not durably recorded for this rejected response."
+  },
+  "limitations": [
+    "Selective case-law review, no exhaustive later-treatment or appeal audit.",
+    "For eighteen other units no separate sufficiently relevant verified decision selected; statutory explanation only.",
+    "External cross-references in428/429/429a/435/435c are not independently expounded; applicable external regimes must be checked for a concrete case."
+  ]
+}
