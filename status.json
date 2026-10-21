@@ -125,11 +125,11 @@
     "ECLI:NL:RBROT:2010:BM8116",
     "ECLI:NL:RBROT:2013:8265"
   ],
-  "case_law_scope": "Selective primary-source research; latest batch uses two full HR judgments for articles 447e and 461. No exhaustive coverage.",
+  "case_law_scope": "Selective primary-source research; latest author batch reads HR 2015:1787 for article 447e and HR 2020:78 for article 461. No full judgment returned for HR 1997:ZD0669; no holding attributed. No exhaustive coverage.",
   "build_result": {
     "returncode": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 32 jednotkám, např.: ['a447a', 'a447b', 'a447c', 'a447d', 'a447e', 'a448', 'a449', 'a450', 'a453', 'a458']\n",
+    "stderr": "CHYBÍ komentář k 12 jednotkám, např.: ['a468a', 'a469', 'a470', 'a470a', 'a471', 'a471a', 'a472', 'a474', 'a475', 'a476']\n",
     "scope": "Unchanged complete-book builder; missing out-of-batch commentary remains an expected blocker."
   },
   "validation_result": {
@@ -138,8 +138,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1326788,
     "errors": [
-      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -171,6 +170,10 @@
   "preflight": {
     "complete": true,
     "report": "preflight-author-batch40-result.json",
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-21T01:08:48.152688+00:00",
+    "full_statutory_units_matched": 812,
+    "unresolved_blockers": [],
     "scope": [
       "a447a",
       "a447b",
@@ -192,10 +195,9 @@
       "a466",
       "a467",
       "a468"
-    ],
-    "unresolved_blockers": []
+    ]
   },
-  "validation_checked_at": "2026-10-21T01:01:15.345686+00:00",
+  "validation_checked_at": "2026-10-21T01:10:02.526954+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -923,8 +925,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1326788,
     "errors": [
-      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']"
     ],
     "warnings": [],
     "ok": false

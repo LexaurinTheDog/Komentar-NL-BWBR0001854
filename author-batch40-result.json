@@ -170,8 +170,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1326788,
     "errors": [
-      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -184,5 +183,6 @@
     "local_links_ok": true,
     "no_exact_repeated_paragraphs": true
   },
-  "unresolved_batch_blockers": []
+  "unresolved_batch_blockers": [],
+  "post_checkpoint_validation": true
 }
