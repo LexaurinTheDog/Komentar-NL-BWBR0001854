@@ -5872,6 +5872,67 @@
       "content_type": "application/xml",
       "sha256": "004ba0c7f42453d3f6f06af16da11cf27afdb7dbaf890bae8dce18fc873eefb5",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T00:12:59.482633+00:00",
+      "path": "sources/author-a360-a377-effective.xml",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-21T00:12:59.483039+00:00",
+      "path": "sources/author-a360-a377-previous.xml",
+      "http_status": 200,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-21T00:12:59.483381+00:00",
+      "path": "sources/author-a360-a377-entry.html",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-21T00:12:59.483525+00:00",
+      "path": "sources/author-a360-a377-manifest.xml",
+      "http_status": 200,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "content_type": "application/xml",
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHDHA:2024:1014",
+      "accessed_at": "2026-10-21T00:12:59.483617+00:00",
+      "path": "sources/author-a360-a377-case-2024-1014.xml",
+      "http_status": 200,
+      "sha256": "b6613fa1201f0c049be49ad3ce55dde23e82b2a42a8bb35a63c19e92b5301c67",
+      "bytes": 167666,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2024:5045",
+      "accessed_at": "2026-10-21T00:12:59.483685+00:00",
+      "path": "sources/author-a360-a377-case-2024-5045.xml",
+      "http_status": 200,
+      "sha256": "f63eae2aff910d0eed3a43a5bf98e76202efb857f01c5819c6c3c81f5a63f7f4",
+      "bytes": 39936,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -6062,5 +6123,9 @@
   "bounded_author_a348_a359": {
     "preflight": "preflight-author-a348-a359-result.json",
     "coverage": "sources/author-a348-a359-coverage.json"
+  },
+  "bounded_author_a360_a377": {
+    "preflight": "preflight-author-a360-a377-result.json",
+    "coverage": "sources/author-a360-a377-coverage.json"
   }
 }

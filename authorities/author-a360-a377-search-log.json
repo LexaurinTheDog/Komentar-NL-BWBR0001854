@@ -1,0 +1,37 @@
+{
+  "scope": "a360–a377",
+  "searched_at": "2026-10-21T00:16:19.919596+00:00",
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad 363 redelijkerwijs 2024",
+    "site.rechtspraak.nl 372 geweldsinstructie uitspraak"
+  ],
+  "official_full_text_read": [
+    "ECLI:NL:RBMNE:2024:5045"
+  ],
+  "local_corpus": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-47.md",
+      "sha256": "151711a91f65aa9a155ccebc4e422c098bb62f757fe7f9cfb2bd32d4317ae074",
+      "read_in_full": true,
+      "result": "Not cited: Caribbean statute and article 81 RO disposal; not a reasoned interpretation of current Netherlands provisions.",
+      "snapshot": "sources/author-a360-a377-local-HR-2026-47.md"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-148.md",
+      "sha256": "099e13e66e74f48224a66d915bb8753cd73ac7371d57ff23a3522ca749093ee7",
+      "read_in_full": true,
+      "result": "Not cited: Caribbean statute and article 81 RO disposal; not a reasoned interpretation of current Netherlands provisions.",
+      "snapshot": "sources/author-a360-a377-local-HR-2026-148.md"
+    }
+  ],
+  "candidates_not_cited": [
+    {
+      "ecli": "ECLI:NL:GHDHA:2024:1014",
+      "reason": "Full XML captured, not read in full; no holding used."
+    }
+  ],
+  "limitations": [
+    "Selective research only. No sufficiently relevant verified case selected for remaining nineteen units.",
+    "No exhaustive later-treatment audit."
+  ]
+}
