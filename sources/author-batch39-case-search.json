@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:142",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:55:30.541842+00:00",
+    "sha256": "a57e8398ce3261470bf459edcdaa2ee110ff0b48ab181dd26c83fec7b7eea630",
+    "path": "authorities/author-batch39-ECLI-NL-HR-2013-142.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHDHA:2021:1043",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:55:30.709630+00:00",
+    "sha256": "ecb5b787686ea17488f0d4f9f9bd0b239bda36760c95de5afd6f96084d88e80c",
+    "path": "authorities/author-batch39-ECLI-NL-GHDHA-2021-1043.xml",
+    "valid_full_judgment": true
+  }
+]

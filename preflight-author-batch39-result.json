@@ -1,0 +1,46 @@
+{
+  "complete": true,
+  "scope": [
+    "a435f",
+    "a436",
+    "a437",
+    "a437bis",
+    "a437ter",
+    "a437quater",
+    "a438",
+    "a439",
+    "a440",
+    "a441",
+    "a441a",
+    "a441b",
+    "a442",
+    "a442a",
+    "a443",
+    "a444",
+    "a445",
+    "a446",
+    "a446a",
+    "a447"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:55:40.437765+00:00",
+  "version_evidence": "sources/author-batch39-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126
+  },
+  "historical_change_map": "sources/author-batch39-historical-change-map.json",
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-batch39-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "coverage": "sources/author-batch39-coverage.json",
+  "limitations": [
+    "Decisive date is title authoring start, not batch-fetch time. Official repository manifest, WTI and XML used; pending amendments not included."
+  ]
+}

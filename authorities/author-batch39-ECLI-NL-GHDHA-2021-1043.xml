@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHDHA:2021:1043</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-05-10T18:47:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-06-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Den_Haag" scheme="overheid.RechterlijkeMacht">Gerechtshof Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-03-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">200.245.590/01</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:6342" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">Eerste aanleg: ECLI:NL:RBROT:2018:6342, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:HR:2022:1104" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/latereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Cassatie: ECLI:NL:HR:2022:1104, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJ 2022/350</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHDHA:2021:1043">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHDHA:2021:1043</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-06-21T08:01:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-06-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHDHA:2021:1043 Gerechtshof Den Haag , 30-03-2021 / 200.245.590/01</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHDHA:2021:1043:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>onrechtmatige daad; niet voldoen aan de registratieplicht bij en krachtens art. 437 Sr; toerekening schade krachtens artikel 6:98 BW; kosten ex artikel 6:96 lid 2 sub b BW.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHDHA:2021:1043:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">GERECHTSHOF DEN HAAG</bridgehead>
+    <para>Afdeling Civiel recht</para>
+    <para />
+    <parablock>
+      <para>Zaaknummer	: 200.245.590/01<?linebreak?></para>
+      <para>Zaaknummer rechtbank	: C/10/481525 / HA ZA 15-798 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">arrest van 30 maart 2021</bridgehead>
+    <para />
+    <parablock>
+      <para>inzake</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">STICHTING VERZEKERINGSBUREAU VOERTUIGCRIMINALITEIT  </bridgehead>
+    <parablock>
+      <para>gevestigd te Apeldoorn,</para>
+      <para>appellante,</para>
+      <para>hierna te noemen: VbV,</para>
+      <para>advocaat: mr. R.R. Schuldink, te Hardenberg,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [geïntimeerde], h.o.d.n. [handelsnaam],</bridgehead>
+    <parablock>
+      <para>wonende te [woonplaats],</para>
+      <para>geïntimeerde,</para>
+      <para>hierna te noemen: [geïntimeerde],</para>
+      <para>advocaat: mr. E. Köse te Rotterdam.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>Het verloop van de procedure in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Bij exploot van 21 augustus 2018 is VbV in hoger beroep gekomen van het door de rechtbank Rotterdam tussen partijen gewezen vonnis van 18 juli 2018 (hierna: het eindvonnis). Bij memorie van grieven (met producties) heeft VbV vier grieven aangevoerd. Bij memorie van antwoord (met producties) heeft [geïntimeerde] de grieven bestreden.</para>
+      <para>Op 14 oktober 2019 heeft een pleidooizitting plaatsgevonden. Mr Schuldink heeft de zaak toegelicht aan de hand van pleitaantekeningen. Deze pleitaantekeningen zijn aan het hof  overgelegd. Mr A.K. Tosun, die [geïntimeerde] als advocaat tijdens de pleitzitting heeft bijgestaan, heeft  het hof toen gewraakt. Daarop is de behandeling van de zaak aangehouden. Het wrakingsverzoek is ter behandeling verwezen naar de wrakingskamer. Van de pleidooizitting is proces-verbaal opgemaakt. Het wrakingsverzoek is afgewezen. Op 15 december 2020 is het pleidooi voortgezet. Mr Kosun heeft de zaak toegelicht aan de hand van pleitaantekeningen die aan het hof zijn overgelegd. Partijen hebben gerepliceerd, gedupliceerd en enkele vragen van het hof beantwoord.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens is arrest gevraagd. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Feiten</title>
+    <para />
+    <para>1. De door de rechtbank in het tussenvonnis van 29 juni 2016 vastgestelde feiten zijn niet in geschil. Ook het hof zal van die feiten uitgaan.</para>
+    <para />
+    <para>( i) Op 12 maart 2015 heeft de afdeling Handhaving en Toezicht van de gemeente Schiedam in samenwerking met de Politie Eenheid Rotterdam District Rijnmond-Noord, Het Landelijk Informatiecentrum Voertuigcriminaliteit (LIV) en de Belastingdienst een controle uitgevoerd in het bedrijfspand gelegen aan de [adres] (hierna: het bedrijfspand). </para>
+    <para />
+    <parablock>
+      <para>(ii) In dit bedrijfspand is de onderneming [handelsnaam] gevestigd. Deze onderneming houdt zich blijkens de inschrijving in het handelsregister van de Kamer van Koophandel bezig met de volgende activiteiten:</para>
+    </parablock>
+    <para>- groothandel en handelsbemiddeling in auto-onderdelen en -accessoires (geen banden);</para>
+    <para>- handel in en reparatie van personenauto’s en lichte bedrijfsauto’s (geen import van nieuwe);</para>
+    <para>- groothandel (daaronder begrepen de im- en export) in tweedehands automobielen en auto-onderdelen.</para>
+    <para />
+    <parablock>
+      <para>(iii) [handelsnaam] is de eenmanszaak van [geïntimeerde]. [geïntimeerde] drijft de onderneming sinds 1 januari 2014.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(iv) Bij de onder (i) genoemde controle zijn goederen (auto-onderdelen) aangetroffen die van diefstal afkomstig zijn en/of waarvan de herkomst niet meer te achterhalen is omdat het voertuigidentificatienummer (VIN) is verwijderd of zodanig bewerkt dat het niet meer te lezen is. Ook bij een eerdere controle op 28 augustus 2014 zijn in het bedrijfspand goederen (auto-onderdelen) aangetroffen die van diefstal afkomstig zijn. Dit heeft onder meer geleid tot toepassing van bestuursdwang in de vorm van een tijdelijke spoedsluiting van het bedrijfspand (voor het publiek) voor de duur van drie maanden. </para>
+    </parablock>
+    <para />
+    <para>( v) VbV is een gemeenschappelijk initiatief van alle Nederlandse schadeverzekeraars om voertuig-, vaartuig-, werkmateriaal- en transportcriminaliteit te bestrijden. VbV treedt op namens verzekeraars, lease- en verhuurbedrijven en particulieren die door inschrijving van hun gestolen of verduisterde voertuig in de VbV Vermiste Auto Registratie (VAR) VbV hebben gemachtigd om hun voertuig en/of onderdelen daarvan terug te vinden en terug te bezorgen.</para>
+    <para />
+  </section>
+  <section>
+    <title>De procedure bij de rechtbank</title>
+    <para />
+    <para>2. VbV heeft, na eiswijziging, kort gezegd, gevorderd [geïntimeerde] te veroordelen tot betaling aan VbV van een bedrag van € 1.562.574,-- (zijnde de door de verzekeringsmaatschappijen aan eigenaren van de gestolen auto’s uitgekeerde bedragen), kosten ex artikel 6:96 lid 2 sub b BW, beslagkosten en buitengerechtelijke kosten, vermeerderd met rente en proceskosten</para>
+    <para />
+    <para>3. VbV heeft aangevoerd dat zij gemachtigd is om namens de verzekeraars die zijn gesubrogeerd in de vorderingen van hun verzekerden schade en kosten te verhalen die het gevolg zijn van onrechtmatig handelen (Beschikking 4 juli 2006/nr. HDJZ/AWW/2006-888 Hoofddirectie Juridische zaken en Kamerbrief (Kamerstukken II 1994/95, 23 900 XII, nr. 26); (tussenvonnis 29 juni 2016, r.o. 3.2.1).</para>
+    <para>VbV heeft ter onderbouwing van haar vordering op [geïntimeerde] aan [geïntimeerde] de verwijten gemaakt dat hij:</para>
+    <para>- zich schuldig heeft gemaakt aan diefstal en/of heling,</para>
+    <para>- niet heeft voldaan aan zijn administratieplicht bij en krachtens artikel 437 Sr,</para>
+    <para>- onrechtmatig heeft gehandeld (ex artikel 6:162 BW) omdat op het bedrijfsterrein van [geïntimeerde] meermaals gestolen auto-onderdelen zijn aangetroffen (tussenvonnis 20 september 2017, r.o. 2.3). </para>
+    <para />
+    <para>4. De rechtbank heeft geoordeeld dat VbV haar stelling dat [geïntimeerde] zich schuldig heeft gemaakt aan diefstal in het geheel niet heeft onderbouwd, en dat de vordering op die grond dus niet kan worden toegewezen (tussenvonnis 20 september 2017, r.o. 2.4 en 2.5).</para>
+    <para />
+    <para>5. In het eindvonnis heeft de rechtbank als volgt geoordeeld:</para>
+    <para>- Niet is komen vast te staan dat [geïntimeerde] artikel 437 Sr en het daarop gebaseerde <emphasis role="italic">“Uitvoeringsbesluit ex artikel 437, eerste lid van het Wetboek van Strafrecht </emphasis>heeft geschonden. Volgens de bewoordingen van de definitie van artikel 1 van het uitvoeringsbesluit geldt de in deze regelgeving genoemde administratieplicht (inhoudend dat de handelaar zich vergewist van de identiteit van de verkoper van wie hij de goederen inkoopt en diens identiteit vastlegt in een geautomatiseerd systeem (Digitaal Opkopers Register/ (DOR)) voor handelaren in auto’s maar niet voor handelaren in auto-onderdelen. (r.o. 2.2 tot en met 2.5, en tussenvonnis 20 september 2017 r.o. 2.6).</para>
+    <para>- VbV is niet gevolgd in haar stelling dat [geïntimeerde] <emphasis role="italic">de strekking </emphasis>van deze bepaling heeft geschonden, en dat schending van de strekking daarvan gelijk gesteld moet worden met een daadwerkelijke overtreding van de strafrechtelijke bepaling. Een  strafrechtelijke bepaling leent zich naar haar aard niet voor een uitleg die deze bepaling, in feitelijke zin, een ruimere werking geeft dan er in valt te lezen. Wel kan het bestaan en de strekking van een strafrechtelijke bepaling als de onderhavige, waarvan de ratio is gelegen in het voorkomen en bestrijden van (vermogens)criminaliteit rond auto’s, meewegen bij de vraag of sprake is van onrechtmatig handelen of nalaten. (r.o. 2.6).</para>
+    <para>- De resterende vraag die de rechtbank heeft beantwoord is of [geïntimeerde] een “gewone” onrechtmatige daad heeft gepleegd. De wet voorziet niet in een risicoaansprakelijkheid voor bezitters van roerende zaken die van diefstal afkomstig zijn. Het gaat er om of [geïntimeerde] op het moment dat hij de auto-onderdelen inkocht wist of behoorde te weten dat zij van diefstal afkomstig waren. De van diefstal afkomstige auto-onderdelen die in het bedrijf van [geïntimeerde] zijn aangetroffen, kunnen door [geïntimeerde] zijn verkregen als onderdeel van de handelsvoorraad die hij heeft overgenomen toen hij de onderneming op 1 januari 2014 kocht, of kunnen door [geïntimeerde] zijn gekocht toen hij de onderneming per 1 januari 2014 zelf ging drijven. VbV heeft geen concrete feiten en/of omstandigheden gesteld die de conclusie kunnen rechtvaardigen dat [geïntimeerde] niet te goeder trouw was toen hij de handelsvoorraad kocht. Nu door VbV met betrekking tot de periode vanaf 1 januari 2014, toen [geïntimeerde] de onderneming zelf ging drijven, niets is gesteld over de omstandigheden waaronder [geïntimeerde] de auto-onderdelen heeft ingekocht, mag aan [geïntimeerde] niet het verwijt worden gemaakt dat hij zijn verweer op dit punt onvoldoende heeft onderbouwd. De eis dat gemotiveerd verweer moet worden gevoerd kan pas worden gesteld als er in genoegzame mate is voldaan aan de stelplicht. Ook het gegeven dat in het algemeen diefstal, heling, en ander maatschappelijk ongewenst gedrag in het kader van vervoerscriminaliteit voorkomen en bestreden dienen te worden, welk gegeven de ratio vormt van de hiervoor genoemde strafrechtelijke bepalingen, brengt niet mee dat de stelplicht van VbV als eiser in een civiele procedure als deze wordt verlicht. Het brengt evenmin mee dat de motiveringsplicht ter zake van het verweer van [geïntimeerde] zodanig verzwaard wordt dat hij ook informatie dient te verschaffen over de in r.o. 2.15 genoemde aspecten van de aankopen (die door VbV niet bij de grondslag van haar vordering zijn betrokken; r.o. 2.7 t/m 2.15).</para>
+    <para>- De vordering wordt afgewezen. De vraag of VbV vorderingsgerechtigd is ter zake van alle in geding zijnde auto-onderdelen, behoeft nu de vordering toch al niet toewijsbaar is, geen bespreking meer (r.o. 2.16).</para>
+    <para />
+  </section>
+  <section>
+    <title>De vorderingen in hoger beroep</title>
+    <para />
+    <para>6. VbV heeft het hof verzocht bij arrest uitvoerbaar bij voorraad het vonnis te vernietigen, en opnieuw rechtdoende, de vorderingen van VbV toe te wijzen, met veroordeling van [geïntimeerde] in de kosten van de procedure in beide instanties, te vermeerderen met de nakosten en wettelijke rente.</para>
+    <para />
+    <para>7. In de memorie van antwoord heeft [geïntimeerde] het hof verzocht bij arrest uitvoerbaar bij voorraad VbV niet ontvankelijk te verklaren in haar vorderingen, althans haar deze te ontzeggen, met veroordeling van VbV in de kosten van de beide instanties, vermeerderd met de nakosten.</para>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling in hoger beroep</title>
+    <para />
+    <para>8. In de memorie van grieven (randnummer 5) heeft VbV kenbaar gemaakt dat zij het hoger beroep beperkt tot het oordeel van de rechtbank:</para>
+    <para>( i) dat niet vaststaat dat [geïntimeerde] artikel 437 Wetboek van Strafrecht en het daarop gebaseerde “Uitvoeringsbesluit ex artikel 437, eerste lid van het Wetboek van Strafrecht” heeft geschonden en</para>
+    <para>(ii) dat VbV geen concrete feiten/omstandigheden heeft gesteld die de conclusie kunnen rechtvaardigen dat [geïntimeerde] niet te goeder trouw was in de periode zowel voor als na 1 januari 2014.</para>
+    <para />
+    <para>9. De grieven I en II hebben betrekking op het in r.o. 8 (i) genoemde geschilpunt en richten zich tegen r.o. 2.4 en 2.5 van het eindvonnis. Deze grieven slagen. Het hof overweegt daartoe als volgt.</para>
+    <para />
+    <para>10. Het gaat hier in de kern genomen om de vraag of de in de hiervoor genoemde wet- en regelgeving vastgelegde administratieplicht ook geldt voor handelaren in auto-onderdelen. Naar het oordeel van het hof is dit het geval. Op de voet van artikel 437, lid 1 Sr is strafbaar: <emphasis role="italic">“de bij algemene maatregel van bestuur aangewezen handelaar die in de uitoefening van zijn beroep of bedrijf: a) niet met inachtneming van de bij algemene maatregel van bestuur te stellen regels aantekening houdt van alle gebruikte of ongeregelde goederen die hij heeft verworven dan wel voorhanden heeft, b) een gebruikt of ongeregeld goed verwerft van iemand, zonder dat diegene zijn identiteitsgegevens heeft opgegeven of zonder dat hij die gegevens in zijn administratie heeft aangetekend.”</emphasis> Artikel 1 van het Uitvoeringsbesluit (Algemene maatregel van Bestuur van 6 januari 1992, Stb. 1992, 36 (zoals laatstelijk gewijzigd bij besluit van 6 oktober 2012 (Stb. 2012, 480)) luidt: <emphasis role="italic">“De handelaren, bedoeld in art. 437, eerste lid, van het Wetboek van Strafrecht, zijn opkopers en handelaren in gebruikte en ongeregelde goederen, (…) auto’s.”</emphasis> De auto-onderdelen waarin [geïntimeerde] handelt moeten worden aangemerkt als gebruikte en ongeregelde goederen, als bedoeld in deze bepaling. Het hof verwijst naar het arrest van dit hof van 13 augustus 2019 (ECLI:NL:GHDHA:2019:2670) en de daar genoemde uitspraak van de Raad van State van 14 maart 2018 (ECLI:NL:RVS:839).</para>
+    <para />
+    <para>11. In de toelichting op grief II heeft VbV nog aangevoerd dat de rechtbank in r.o. 2.5 van het eindvonnis ten onrechte heeft overwogen dat geenszins vaststaat dat [geïntimeerde] een opkoper is in de zin van het door VbV aangehaalde definitie-artikel 90 bis Sr. Artikel 90 bis Sr luidt: <emphasis role="italic">“Onder opkoper wordt verstaan hij die van opkopen een beroep of gewoonte maakt.” </emphasis>Het hof volgt VbV in haar (onder verwijzing naar ECLI:NL:HR:1989:AC3484) aangevoerde stelling dat het er hier (net als bij de in het Uitvoeringsbesluit genoemde handelaar) om gaat of de betrokkene van het opkopen of handelen een beroep of gewoonte maakt met het kennelijke doel om aan deze activiteiten geld te verdienen (en er dus geen sprake is van hobby-achtige activiteiten). Aan deze maatstaf is hier voldaan. Uit de gedingstukken blijkt genoegzaam dat [geïntimeerde] zich (onder meer) bezig hield met het kopen van auto-onderdelen met het doel daaraan te verdienen. VbV heeft in dit verband terecht gewezen op het proces-verbaal van de comparitie van partijen van 22 januari 2015 waar [geïntimeerde] heeft verklaard dat hij de onderneming in 2014 heeft overgenomen en dat hij duizenden onderdelen in zijn bedrijf heeft. Blijkens een gespreksverslag van 26 maart 2016 van de Gemeente Schiedam heeft [geïntimeerde] verklaard dat hij in totaal voor ongeveer € 250.000,-- heeft geïnvesteerd in voorraad en dat de omzet per maand gemiddeld € 30.000,-- - € 40.000,-- is. Tot slot heeft VbV er nog op gewezen dat uit het uittreksel van de Kamer van Koophandel blijkt dat het bedrijf van [geïntimeerde] zich onder meer bezig hield met de groothandel in auto-onderdelen.  </para>
+    <para />
+    <para>12. De grieven III en IV hebben betrekking op het in r.o.8 (ii) genoemde geschilpunt. Deze grieven richten zich tegen r.o. 2.13 en 2.15 van het eindvonnis. </para>
+    <para />
+    <para>13. VbV onderschrijft het oordeel van de rechtbank dat het er om gaat of [geïntimeerde] wist of behoorde te weten dat hij te maken had met auto-onderdelen die afkomstig waren uit gestolen auto’s op het moment dat hij die auto-onderdelen verwierf. Volgens VbV heeft zij wel degelijk concrete feiten en omstandigheden gesteld waaruit blijkt dat [geïntimeerde] zowel bij de aankoop van de handelsvoorraden, als bij het inkopen van de auto-onderdelen niet te goeder trouw was. </para>
+    <para />
+    <para>14. VbV wijst in dit verband in de memorie van grieven, kort gezegd, op de volgende feiten en/of omstandigheden:</para>
+    <para />
+    <para>( i) De brief met bijlagen van 2 april 2015 van de Gemeente Schiedam, bladzijde 2, waaruit blijkt dat (a) er sprake is van recidive en (b) er door de gemeente met [geïntimeerde] afspraken zijn gemaakt over het correct invoeren van gegevens in het digitaal opkopers register (DOR) en het afvoeren van goederen waarvan de afkomst niet kan worden geverifieerd, welke afspraken door [geïntimeerde] niet zijn nagekomen. Uit de Aanvullende rapportage [handelsnaam], [adres], die als bijlage 2 is gevoegd bij de brief van 2 april 2015 blijkt dat de experts van het LIF meerdere onderdelen hebben aangetroffen die niet te bevragen waren, omdat de registratienummers waren verwijderd, kennelijk met de bedoeling om de identificatie onmogelijk te maken </para>
+    <para />
+    <parablock>
+      <para>(ii) [geïntimeerde] heeft geen (geldig) opkopersregister bijgehouden en daarmee controle door VbV onmogelijk gemaakt, hetgeen (in het kader van de beoordeling van de goede trouw) voor rekening en risico van [geïntimeerde] komt. VbV heeft verwezen naar een vonnis van de rechtbank Rotterdam van 25 juli 2016 (ECLI:NL:RBOBR:2016:3963). De overwegingen van de rechtbank in dit strafvonnis (inzake heling) met betrekking tot het bijhouden van een deugdelijke boekhouding (opkopersregister) zijn volgens VbV ook maatgevend in het civiele recht. In dit vonnis is overwogen: <emphasis role="italic">‘Een goede boekhouding is (…) een wettelijk vereiste. (zie ook artikel 437 Wetboek van Strafrecht). (…) Tegen deze achtergrond mag van een verdachte in de </emphasis>a<emphasis role="italic">utobranche worden verwacht dat hij – geconfronteerd met de criminele herkomst van voorwerpen in zijn bedrijf – een verklaring aflegt omtrent de herkomst van de betreffende voorwerpen en die verklaring zoveel mogelijk met zijn boekhouding onderbouwt”</emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(iii) Volgens VbV was [geïntimeerde] met betrekking tot de auto-onderdelen waarvan met het blote oog was te zien dat met de voertuigidentificatienummers en/of andere unieke registratienummers was geknoeid (wegslijpen/doorhalen/verminken ect.), of dat de voertuigidentificatienummers en/of unieke registratienummers waren verwijderd niet te goeder trouw, althans mocht hij zich redelijkerwijs niet als zodanig beschouwen op het moment dat hij deze auto-onderdelen verwierf. Aan het ontbreken van een opkopersregister ten tijde van de overname van de onderneming had [geïntimeerde] conclusies moeten verbinden. Het ontbreken van een opkopersregister had hem in ieder geval moeten aanzetten tot terughoudendheid en het doen van nader onderzoek. Nu dit niet is gebeurd, komt dat volledig voor rekening van [geïntimeerde] en is [geïntimeerde] niet te goeder trouw, aldus nog steeds VbV. </para>
+    </parablock>
+    <para />
+    <para>15. Het hof overweegt dat sprake is van onrechtmatig handelen indien de verwervende partij bij de verwerving van de goederen wist of behoorde te weten dat de goederen van diefstal afkomstig waren. Het hof volgt VbV in haar betoog dat met betrekking tot de auto-onderdelen waar met het blote oog was te zien dat het VIN (en/of een ander uniek registratienummer) was verwijderd of zodanig bewerkt dat het niet meer te lezen was, dit bij [geïntimeerde] (als professionele opkoper/handelaar) tot grote terughoudendheid had moeten leiden. Bij een dergelijke aankoop ontbreekt in beginsel de goede trouw behoudens een gemotiveerd en zo nodig te bewijzen verweer van [geïntimeerde]. Van een professionele handelaar in auto-onderdelen die auto-onderdelen in bezit heeft waarvan het VIN niet (meer) leesbaar is, mag verwacht worden dat hij adequaat uitlegt hoe dit komt. Een professionele inkoper moet onraad bespeuren als hij onderdelen zonder (leesbare) VIN inkoopt, temeer nu de aanwezigheid van het VIN eenvoudig valt te controleren. (zie het in r.o. 10 genoemde arrest van dit hof). </para>
+    <para />
+    <para>16. Voor toewijzing van de in deze procedure ingestelde vordering op grond van dit verwijt is vereist dat de vordering is gegrond op het in bezit hebben van auto-onderdelen uit gestolen auto’s waarvan met het blote oog te zien was dat het VIN (of een ander uniek identificatienummer) was verwijderd, dan wel onleesbaar gemaakt. Hierop is de vordering echter niet gegrond. In de inleidende dagvaarding (randnummer 4) is gesteld dat in het bedrijfspand vele tientallen gestolen auto-onderdelen zijn opgeslagen. De gestolen auto-onderdelen waren deels via het VIN of andere specifieke nummers te herleiden tot gestolen auto’s en deels zijn er auto-onderdelen aangetroffen waarvan het VIN is weggehaald of zodanig bewerkt dat het niet meer te lezen is. De in deze procedure ingestelde vordering bestaat uit de schade die de verzekeraars hebben vergoed aan de eigenaren van de gestolen auto’s waarvan via het VIN (of andere specifieke nummers) was te herleiden dat onderdelen van deze auto’s op het bedrijf van [geïntimeerde] aanwezig waren. De constatering dat op het bedrijf van [geïntimeerde] ook auto-onderdelen aanwezig waren waarvan het VIN was weggehaald of niet leesbaar was heeft zich in deze procedure niet vertaald in een op de waarde van die specifieke onderdelen gebaseerde vordering tot (schadevergoeding). Reeds om deze reden kan de vordering van VbV (die zich immers uitsluitend richt op verhaal van, kort gezegd, de volledige waarde van de gestolen auto’s waarvan de desbetreffende onderdelen afkomstig zijn – zie r.o. 24 hierna) voor zover gegrond op dit verwijt niet worden toegewezen.  </para>
+    <para />
+    <para>17. De overige in r.o. 13 weergegeven stellingen en standpunten van VbV hebben alle betrekking op de (gestelde) niet naleving van de in artikel 437 Sr en het daarop gebaseerd Uitvoeringsbesluit vastgelegde administratieplicht, en de daaraan volgens VbV te verbieden consequenties voor de vraag of [geïntimeerde] onrechtmatig heeft gehandeld, hetgeen volgens VbV het geval is. </para>
+    <para />
+    <para>18. Naar het oordeel van het hof komt ook in het kader van de civielrechtelijke beoordeling van de vraag of een handelaar in auto-onderdelen onrechtmatig heeft gehandeld betekenis toe aan de vraag of deze handelaar heeft voldaan aan de administratieplicht op de voet van artikel 437 Sr en het daarop gebaseerde Uitvoeringsbesluit. Het hof neemt hierbij  in aanmerking dat het doel van deze strafrechtelijke wet- en regelgeving is gelegen in het voorkomen en bestrijden van (vermogens)criminaliteit rond auto’s. Indien niet is voldaan aan de hiervoor genoemde administratieplicht, is dat naar het oordeel van het hof een zwaarwichtige aanwijzing dat de betrokken handelaar bij de aankoop van de van diefstal afkomstige zaken onvoldoende zorgvuldig is geweest en levert dit grond op om er voorshands van uit te gaan dat de handelaar niet als te goeder trouw kan worden aangemerkt. De handelaar kan dit (bewijs)vermoeden weerleggen met een gemotiveerd en concreet op de specifieke zaak toegespitst verweer.</para>
+    <para />
+    <para>19. Het hof overweegt dat uit de gedingstukken blijkt dat [geïntimeerde] geen opkopersregister heeft bijgehouden (dat voldeed aan de in de wet een regelgeving gestelde vereisten). Niet in geschil is dat bij de aankoop van de handelsvoorraad op 1 januari 2014 geen (geldig) opkopersregister aanwezig was. Blijkens de brief van 3 oktober 2014 van de gemeente Schiedam zijn op 28 augustus 2014 tijdens een integrale controle bij het bedrijf van [geïntimeerde] auto-onderdelen aangetroffen die behoorden bij gestolen auto’s. Verder is vastgesteld dat geen gebruik is gemaakt van enig toegestaan en verplicht opkopersregister. [geïntimeerde] is er op gewezen dat zijn bedrijf een registratieplichtig bedrijf is, als bedoeld in artikel 437 Sr. Op 12 maart 2015 heeft opnieuw een controle plaatsgevonden bij het bedrijf van [geïntimeerde]. In de brief van de gemeente van 2 april 2015 is aan [geïntimeerde] medegedeeld dat ook bij deze integrale  controle goederen zijn aangetroffen die van diefstal afkomstig zijn. Ook toen is geconstateerd dat geen gebruik is gemaakt van enig toegestaan en verplicht opkopersregister.</para>
+    <para />
+    <para>20. [geïntimeerde] heeft als productie 11 bij memorie van antwoord alsnog de administratie overgelegd en aangevoerd dat hij meerdere registers heeft bijgehouden; te weten: (i) het DOR, (ii) WASP Inventory Systeem, (iii) Onderdelen registratie in Excel, (iv) in- en verkoopfacturatie en (v) het kasboek. Deze systemen waren volgens [geïntimeerde] met elkaar gekoppeld en zijn door de belastingdienst zeer duidelijk bevonden. [geïntimeerde] heeft aangevoerd dat het DOR een systeem via het internet was met kinderziektes. In de periode dat de onderneming op grond van de bestuurlijke maatregel van 3 oktober 2014 drie maanden  gesloten was, heeft [geïntimeerde] geprobeerd om alle in het bedrijf aanwezige onderdelen (zo’n 300.000 stuks) in het door de gemeente Schiedam gewenste DOR systeem in het brengen, maar dat was gelet op de in randnummer 44 van de memorie van antwoord genoemde (technische) problemen (met het verwerken van grote aantallen) onbegonnen werk. De agent van het politie bureau Schiedam die [geïntimeerde] heeft begeleid bij de eerste invoeringen heeft aangegeven dat het DOR systeem (technisch) niet geschikt is voor auto onderdelen. Hij heeft [geïntimeerde] geadviseerd om voornamelijk grotere onderdelen te verwerken in het systeem en de kleine onderdelen in een doos te verzamelen onder de noemer “diversen” en gekoppeld aan de aankoop te verwerken in het DOR systeem. </para>
+    <para />
+    <para>21. Het hof volgt [geïntimeerde] niet in dit betoog. Zoals gezegd is blijkens de hiervoor genoemde brieven van de gemeente zowel op 28 augustus 2014 als op 12 maart 2015 vastgesteld dat [geïntimeerde] geen (deugdelijk/geldig) opkopersregister had. [geïntimeerde] heeft beroep ingesteld van het  besluit van de gemeente van 2 april 2015 (naar aanleiding van de controle van 12 maart 2015), waarbij een tijdelijke bedrijfssluiting is gelast. In de uitspraak van 17 februari 2017 van de rechtbank Rotterdam, Team bestuursrecht 1, heeft de bestuursrechter de verweren van [geïntimeerde] tegen de vaststelling dat [geïntimeerde] geen gebruik maakt van een goedgekeurd opkopersregister verworpen. Blijkens de uitvoerige motivering van deze beslissing heeft [geïntimeerde] in die zaak in de kern genomen dezelfde argumenten aangevoerd als [geïntimeerde] hier aanvoert. Het hof verenigt zich met hetgeen in die uitspraak is overwogen en beslist en maakt dit oordeel tot het zijne. De Raad van State heeft het hoger beroep tegen die uitspraak ongegrond verklaard. Het hof merkt tot slot nog op dat [geïntimeerde] in elk geval niet heeft aangetoond dat ten aanzien van de auto-onderdelen die de grondslag vormen voor de in deze procedure ingestelde vordering, de gegevens deugdelijk zijn geadministreerd (op een wijze die materieel vergelijkbaar is met het opkopersregister, als de bedoeld in de daarvoor geldende wet- en regelgeving).</para>
+    <para />
+    <para>22. Hiermee is komen vast te staan dat [geïntimeerde] niet heeft voldaan aan zijn administratieplicht en [geïntimeerde] bij de aankoop van de van diefstal afkomstige zaken dus onvoldoende zorgvuldig is geweest en, nu zijn in dit verband aangevoerde verweren niet slagen, niet als te goeder trouw kan worden aangemerkt.   </para>
+    <para />
+    <para>23. Deze vaststelling kan echter om na te noemen reden niet leiden tot toewijzing van de hoofdvordering.</para>
+    <para />
+    <para>24. VbV heeft in de inleidende dagvaarding, zoals gezegd, toegelicht dat uit onderzoek is gebleken dat door de betrokken verzekeraars met betrekking tot de diefstal van auto’s waarvan onderdelen in het bedrijfspand van [geïntimeerde] zijn aangetroffen, schadepenningen zijn uitgekeerd. Deze aan de verzekerden uitgekeerde bedragen worden in deze procedure op grond van onrechtmatige daad verhaald op [geïntimeerde]. In de akte inlichtingen, tevens overlegging producties, alsmede wijziging van eis heeft VbV haar eis gewijzigd en (op de hiervoor genoemde grond) gevorderd [geïntimeerde] te veroordelen tot betaling van een bedrag van € 1.562.574,--. Dit bedrag is als volgt gespecificeerd:</para>
+    <para>( i) de door de verzekeraars aan de eigenaren van de gestolen, dan wel verduisterde auto’s uitbetaalde bedragen, in totaal zijnde € 1.476,274,--;</para>
+    <para>( i) de door zes eigenaren van gestolen, dan wel verduisterede auto’s geleden schade, in totaal zijnde € 86.300,--.</para>
+    <para />
+    <para>25. De hier gevorderde schade kan niet worden toegewezen. Voor toerekening krachtens artikel 6:98 BW van de gehele door de diefstal van auto opgetreden schade aan de heling is naar het oordeel van het hof alleen plaats in die gevallen waarin komt vast te staan dat de koper heeft samengespannen met de dief of willens en wetens door of met hem een criminele keten in stand wordt gehouden. (zie het in r.o. 10 genoemde arrest van dit hof). Gesteld noch gebleken is dat [geïntimeerde] (als heler) heeft samengespannen met de dief/dieven van de gestolen auto’s waarvan auto-onderdelen op het bedrijf van [geïntimeerde] zijn aangetroffen en waarvoor hier schadevergoeding wordt gevorderd, dan wel dat door of met hem willens en wetens (opzettelijk) en criminele keten in stand wordt gehouden. Voor zover [geïntimeerde] bij de aankoop van de hier in geschil zijnde auto onderdelen (verregaand) onzorgvuldig is geweest, betekent dit nog niet dat daarmee is voldaan aan de strengere maatstaf van het willens en wetens in stand houden van een criminele keten. Het hof voegt hier nog aan toe dat gesteld noch gebleken is dat [geïntimeerde] zich (stelselmatig) heeft schuldig gemaakt aan opzetheling. Het hof volgt VbV tot slot niet in haar stelling dat de aankoop van de handelsvoorraad zonder dat een opkopersregister aanwezig was moet aangemerkt als witwassen.        </para>
+    <para />
+    <para>26. Het hof overweegt tot slot dat VbV aan gemaakte kosten ex artikel 6:96 lid 2 sub b BW een bedrag heeft gevorderd van € 2.808,59 exclusief btw, te vermeerderen met de wettelijke rente vanaf de dag dat de kosten zijn gemaakt tot de dag der algehele voldoening.  Naar het oordeel van het hof zijn deze kosten in redelijkheid gemaakt in verband met het onderzoek naar de mogelijke gevolgen van de hier in geschil zijnde (als onrechtmatig aangemerkte) handelwijze van [geïntimeerde]. Deze kosten zullen worden toegewezen. Voor toewijzing van de verder nog gevorderde kosten bestaat geen grondslag. </para>
+    <para />
+    <para>27. Het hof zal het besteden vonnis vernietigen voor zover het de afwijzing van de hiervoor genoemde post van € 2.808,59 betreft. Deze post zal alsnog worden toegewezen. Het vonnis zal voor het overige worden bekrachtigd (met verbetering van gronden). VbV als de grotendeels in het ongelijk gestelde partij worden veroordeeld in de kosten van het hoger beroep.    </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <para>- vernietigt het tussen partijen gewezen vonnis van de rechtbank Rotterdam, voor zover het betreft de afwijzing van de in r.o. 26 genoemde kosten,</para>
+    <para>en in zoverre opnieuw rechtdoende:</para>
+    <para>- veroordeeld [geïntimeerde] tot betaling aan VbV van een bedrag van € 2.808,59 exclusief btw, te vermeerderen met de wettelijke rente vanaf de dag van de inleidende dagvaarding tot de dag der algehele voldoening;</para>
+    <para>- bekrachtigt het vonnis voor het overige;</para>
+    <para>- veroordeelt VbV als de grotendeels in het ongelijk gestelde partij in de kosten van het geding in hoger beroep, tot op heden aan de zijde van [geïntimeerde] begroot op € 1.649, aan verschotten, € 17.115,-- aan salaris voor de advocaat en op € 163,-- aan nasalaris voor de advocaat, nog te verhogen met € 85,-- indien niet binnen veertien dagen na aanschrijving in der minne aan dit arrest is voldaan en vervolgens betekening van dit arrest heeft plaatsgevonden, en bepaalt dat deze bedragen binnen veertien dagen na de dag van de uitspraak dan wel, wat betreft het bedrag van € 85,-- na de datum van betekening, moeten zijn voldaan, bij gebreke waarvan deze bedragen worden vermeerderd met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf het einde van genoemde termijn van veertien dagen.</para>
+    <para>- verklaart dit arrest uitvoerbaar bij voorraad.</para>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door mrs. A.J.M.E. Arpeau, F.R. Salomons en P. Kuipers en is uitgesproken ter openbare terechtzitting van 30 maart 2021in aanwezigheid van de griffier.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

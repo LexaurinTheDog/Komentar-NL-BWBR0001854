@@ -1,0 +1,41 @@
+{
+  "verified_at": "2026-10-21T01:00:25.135635+00:00",
+  "queries": [
+    "site:rechtspraak.nl \"441b\" \"Hoge Raad\"",
+    "site:rechtspraak.nl \"437\" \"opkopers\" Hoge Raad",
+    "\"2021:1043\" \"Hoge Raad\" 2022",
+    "site:rechtspraak.nl \"21/02729\" \"Hoge Raad\" \"2022\"",
+    "site:rechtspraak.nl \"artikel 443\" \"Hoge Raad\" noodverordening"
+  ],
+  "full_text_read": [
+    "ECLI:NL:HR:2013:142",
+    "ECLI:NL:GHDHA:2021:1043",
+    "ECLI:NL:HR:2022:1104"
+  ],
+  "used_for_units": {
+    "a441b": [
+      "ECLI:NL:HR:2013:142"
+    ],
+    "a437": [
+      "ECLI:NL:GHDHA:2021:1043",
+      "ECLI:NL:HR:2022:1104"
+    ]
+  },
+  "rejected": [
+    {
+      "ecli": "ECLI:NL:HR:1997:ZC9561",
+      "reason": "Official content endpoint returned no full judgment; no holding attributed. See sources/author-batch39-web-fetch.json."
+    }
+  ],
+  "fetch_logs": [
+    "sources/author-batch39-case-search.json",
+    "sources/author-batch39-extra-case-fetch.json",
+    "sources/author-batch39-web-fetch.json"
+  ],
+  "local_corpus": "authorities/author-batch39-local-corpus.json",
+  "limitations": [
+    "Selective research, not exhaustive. No sufficiently relevant verified case selected for the other 18 assigned units.",
+    "Civil judgment used only with civil context and cassation outcome, not as a criminal burden-of-proof rule.",
+    "No independent second-pass review performed in this author batch."
+  ]
+}

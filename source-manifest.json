@@ -1,7 +1,7 @@
 {
   "verification": "sources/verification.json",
-  "latest_version_evidence": "sources/review-batch38-version-evidence.json",
-  "generated_at": "2026-10-21T00:54:28.634107+00:00",
+  "latest_version_evidence": "sources/author-batch39-version-evidence.json",
+  "generated_at": "2026-10-21T01:00:48.955108+00:00",
   "files": [
     {
       "path": "sources/author-a101-a116-coverage.json",
@@ -1950,6 +1950,86 @@
     },
     {
       "path": "sources/author-batch38-wti.xml",
+      "bytes": 27846974,
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
+    },
+    {
+      "path": "sources/author-batch39-HR-1997-ZC9561-response.xml",
+      "bytes": 3080,
+      "sha256": "13fefd78e92f47236eb0594917be562170d72bd04dbb25cce7b4b1f936e135bd"
+    },
+    {
+      "path": "sources/author-batch39-case-fulltext.txt",
+      "bytes": 39843,
+      "sha256": "464aadc2a809bca03f95812890d536651c8ca8d390ecacab9400c257dd6e90bc"
+    },
+    {
+      "path": "sources/author-batch39-case-search.json",
+      "bytes": 714,
+      "sha256": "4d95acf4759a03e1430dacf4630f1ed71c348d869899124d381dba4682b9d330"
+    },
+    {
+      "path": "sources/author-batch39-coverage.json",
+      "bytes": 20828,
+      "sha256": "90183a159b7e4df543252534641d80184d451886328a26b61247a29e35602dff"
+    },
+    {
+      "path": "sources/author-batch39-effective.xml",
+      "bytes": 2545812,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5"
+    },
+    {
+      "path": "sources/author-batch39-extra-case-fetch.json",
+      "bytes": 356,
+      "sha256": "3cd5fdbb7de9e9f8b0323f32a0b54ba5aa37c900c09ba3215d8e005f736c3433"
+    },
+    {
+      "path": "sources/author-batch39-extra-case-fulltext.txt",
+      "bytes": 2702,
+      "sha256": "69e335287719d32546f12c0800d3021842de3c3204ec50e2960d82796d4f776e"
+    },
+    {
+      "path": "sources/author-batch39-fetch-log.json",
+      "bytes": 1697,
+      "sha256": "a792a4135329a6c5ec8965a71a71285a3b23f1a0fd96d431ef7afe91cf3b6166"
+    },
+    {
+      "path": "sources/author-batch39-historical-change-map.json",
+      "bytes": 28114,
+      "sha256": "f711d03c6aeb37e9d8ca8e446bf8709d82a4e2ae3d31156f43bbbc7529fe283d"
+    },
+    {
+      "path": "sources/author-batch39-manifest.xml",
+      "bytes": 88311,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869"
+    },
+    {
+      "path": "sources/author-batch39-previous.xml",
+      "bytes": 2534015,
+      "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719"
+    },
+    {
+      "path": "sources/author-batch39-support-fetch.json",
+      "bytes": 387,
+      "sha256": "fb07d52926200eaafbe8253d740636884a342d3c9afd3868750fb132b367026a"
+    },
+    {
+      "path": "sources/author-batch39-version-evidence.json",
+      "bytes": 166299,
+      "sha256": "f9bb54be844045c43010ddd15e4773c58b311755be46f2d8ff89e8b8e814b5a4"
+    },
+    {
+      "path": "sources/author-batch39-web-fetch.json",
+      "bytes": 1177,
+      "sha256": "e3074b8d6467cac8abe9862e2544e71e02f8f0587e632b49184efb81f93c3031"
+    },
+    {
+      "path": "sources/author-batch39-wetten.html",
+      "bytes": 4600683,
+      "sha256": "7b1ac6c733f247d3924b0996a6b30ba2d548c90eed07f37523a91d16e994af47"
+    },
+    {
+      "path": "sources/author-batch39-wti.xml",
       "bytes": 27846974,
       "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb"
     },
@@ -5300,8 +5380,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 325187,
-      "sha256": "f7a5aadf8b4ff4514f5ccedad72c8dcb7828ca99b47d7f538986627794293da6"
+      "bytes": 330162,
+      "sha256": "58a5d12dd34e310e71d4372fa3a1273fdc8a9b014c47b290c4231011a9d0f71f"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -6557,6 +6637,61 @@
       "path": "authorities/author-batch38-search-log.json",
       "bytes": 697,
       "sha256": "535ab2873d2d6742ea52461a8e4295e4440600fd2d70ac585e6a4b42f9c7ee0d"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-GHDHA-2021-1043.txt",
+      "bytes": 30980,
+      "sha256": "6c7c744af0cbbb0cb2f7260c2af895aa4fabb9d6f686468cad29f044ffe7d370"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-GHDHA-2021-1043.xml",
+      "bytes": 38140,
+      "sha256": "ecb5b787686ea17488f0d4f9f9bd0b239bda36760c95de5afd6f96084d88e80c"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-HR-2013-142.txt",
+      "bytes": 8817,
+      "sha256": "f606dcc2b1050c4f48a19716967aa3981400e9e23f33e2393194f1ce6b202d21"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-HR-2013-142.xml",
+      "bytes": 14941,
+      "sha256": "a57e8398ce3261470bf459edcdaa2ee110ff0b48ab181dd26c83fec7b7eea630"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-HR-2022-1104.txt",
+      "bytes": 2680,
+      "sha256": "a30160ff380e05ca56792221a5e76712cf517393d969065cf50ab55264602d8b"
+    },
+    {
+      "path": "authorities/author-batch39-ECLI-NL-HR-2022-1104.xml",
+      "bytes": 8617,
+      "sha256": "484481d67f89e17ea8f29407534650a9fab0ede8ee19962462d7bea9b44ef00c"
+    },
+    {
+      "path": "authorities/author-batch39-GHDHA-2021-1043-card.md",
+      "bytes": 2420,
+      "sha256": "9dc5c314480860901dd487564c102e9d46f43c35558703a30d05e186970ae005"
+    },
+    {
+      "path": "authorities/author-batch39-HR-2013-142-card.md",
+      "bytes": 1613,
+      "sha256": "ed539d71d64f2b32689e5542f6b08a6c59c0fea0e4eb5c5db9d45ce0af4043e2"
+    },
+    {
+      "path": "authorities/author-batch39-local-HR-2013-142.md",
+      "bytes": 9533,
+      "sha256": "30bfb0d14c61b885ff68de5018f13eb121478fb6da4a6562007860f33474f25d"
+    },
+    {
+      "path": "authorities/author-batch39-local-corpus.json",
+      "bytes": 458,
+      "sha256": "cf59e79376adf4ef215d538cac5a2a3456fa639f29e1fd959e929eada2c7c7cd"
+    },
+    {
+      "path": "authorities/author-batch39-search-log.json",
+      "bytes": 1406,
+      "sha256": "3b4165205c8659c3ad384293eada5538227b497d10e2bb8dbeaffb137eecdc26"
     },
     {
       "path": "authorities/review-batch01-search-log.json",

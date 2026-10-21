@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "path": "sources/author-batch39-wetten.html",
+    "accessed_at": "2026-10-21T01:00:20.138852+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "final_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "sha256": "7b1ac6c733f247d3924b0996a6b30ba2d548c90eed07f37523a91d16e994af47",
+    "bytes": 4600683,
+    "expected_format_valid": true,
+    "disposition": "Dated webpage supporting evidence only; manifest intervals and authenticated XML establish effective version."
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:1997:ZC9561",
+    "path": "sources/author-batch39-HR-1997-ZC9561-response.xml",
+    "accessed_at": "2026-10-21T01:00:25.004034+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:1997:ZC9561",
+    "sha256": "13fefd78e92f47236eb0594917be562170d72bd04dbb25cce7b4b1f936e135bd",
+    "bytes": 3080,
+    "expected_format_valid": false,
+    "disposition": "No full judgment returned; not cited for any holding."
+  }
+]

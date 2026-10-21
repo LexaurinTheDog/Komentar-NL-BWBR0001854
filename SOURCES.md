@@ -338,3 +338,6 @@ Auteursbatch 38: precies twintig officiële artikelplaatsen 426ter–435e toegel
 
 
 Tweede lezing batch38: precies twintig toegewezen eenheden426ter–435e tegen opnieuw opgehaalde officiële XML gelezen; vier toelichtingen verduidelijkt. Bij426ter is het ontbreken van een openbaar-plaatsvereiste onderscheiden van426bis; bij429ter is openbaarheid expliciet behandeld. Strafmaxima zijn aangevuld, bij429quater is het ontbreken van een afzonderlijk opzetbestanddeel verduidelijkt en bij430a zijn de HR-gezichtspunten correct als mogelijke, niet cumulatieve factoren omschreven. Drie volledige uitspraken opnieuw gecontroleerd. [Exacte IDs en bevindingen](review-batch38-result.json); [broncontrole](preflight-review-batch38-result.json); [rechtspraakcontrole](authorities/review-batch38-cases.md). Geen materiële batchblokkade; het gehele boek blijft onvoltooid. Geen externe professionele goedkeuring.
+
+
+Auteursbatch 39: precies twintig officiële artikelplaatsen 435f–447 toegelicht, inclusief het vervallen nummer 435f. [Batchbewijs](author-batch39-result.json), [actuele broncontrole](preflight-author-batch39-result.json), [selectief rechtspraakonderzoek](authorities/author-batch39-search-log.json). Dit is een auteurscheckpoint; een onafhankelijke tweede lezing van deze batch staat nog open. De gehele uitgave blijft onvoltooid.

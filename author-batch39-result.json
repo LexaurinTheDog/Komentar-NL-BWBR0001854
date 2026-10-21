@@ -1,0 +1,189 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "assigned_ids": [
+    "a435f",
+    "a436",
+    "a437",
+    "a437bis",
+    "a437ter",
+    "a437quater",
+    "a438",
+    "a439",
+    "a440",
+    "a441",
+    "a441a",
+    "a441b",
+    "a442",
+    "a442a",
+    "a443",
+    "a444",
+    "a445",
+    "a446",
+    "a446a",
+    "a447"
+  ],
+  "units_completed": 20,
+  "total_units": 812,
+  "total_commented_units": 780,
+  "remaining_units": 32,
+  "independent_second_pass_pending": true,
+  "source_preflight": "preflight-author-batch39-result.json",
+  "commentary_file": "commentary/part-39.md",
+  "created_at": "2026-10-21T01:00:48.955108+00:00",
+  "units": [
+    {
+      "id": "a435f",
+      "chars": 964,
+      "commentary_sha256": "0c3ba361759b90bada608acef114a60a9a53e1ff560645e56bac94b8aa689cf3",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "a436",
+      "chars": 1876,
+      "commentary_sha256": "29c4c216596628f661482a6deede8eb5c26a9ec17130f889c8ffc18d0d0081a1",
+      "statutory_sha256": "b7e91c843df0fb0574785469d32428dfdbc882d1ecb87b0b30311f45854dec24"
+    },
+    {
+      "id": "a437",
+      "chars": 2754,
+      "commentary_sha256": "74a7cb2a14e36ea563d76ac1cd77ff019fb3f9d5ca1ecfc874798e086d9dffa9",
+      "statutory_sha256": "31cea92e7bfecfeb435d1029437529024ff28a602ed4cf4c5eb29311e26f6b5f"
+    },
+    {
+      "id": "a437bis",
+      "chars": 1797,
+      "commentary_sha256": "bbf4cc386ff456fa5324b833858706d15d3a1bb433c131aae7265faecba937d9",
+      "statutory_sha256": "680037140d88d6c64bcaaa53ab99633d13cd0023ffd55bf92cbe2297e43e5e8a"
+    },
+    {
+      "id": "a437ter",
+      "chars": 1707,
+      "commentary_sha256": "ee54d7df6881e652382c50f6a521fc5474c5856a3eabff624225b8a16f6e2b46",
+      "statutory_sha256": "ce745ad88c6cc1e1a68e799134d48ccab2d26ddb58c4f6cc3b55f30493b7dc82"
+    },
+    {
+      "id": "a437quater",
+      "chars": 1596,
+      "commentary_sha256": "1e887862950c708c6d46a1c19503a609aea3b5d67a00b4506efaa558a61c2454",
+      "statutory_sha256": "51694c78302ff8d3ca4c8babb2f5a09af59fe4ef52dcb2312f3e558ba50769a9"
+    },
+    {
+      "id": "a438",
+      "chars": 2109,
+      "commentary_sha256": "bd749d7f26974480ae8c15e60c57937ef8caf9813f444d94d7a9183db1a7d3ac",
+      "statutory_sha256": "03f23e9511518aa77c99ce6e7672d0178b7ab525f6b846bb73f45bfb9c2659b5"
+    },
+    {
+      "id": "a439",
+      "chars": 1802,
+      "commentary_sha256": "17af42ab870bb5eb2ff1d0c19eea2e4a1ff2f7da3c6fd9243394f3bf6ba7a9b9",
+      "statutory_sha256": "7f753fc5bc2edd3ae048fef06aaa1c64e7a9cf76f059288c2afbd6aa6840d775"
+    },
+    {
+      "id": "a440",
+      "chars": 1885,
+      "commentary_sha256": "0ce9295f116b35ec9f479112cc39677f5603fccae0d37a457c1908f820d833bd",
+      "statutory_sha256": "88106203660d253a9dc9b64adea27675907c1bf3baccd194e21b48cc39931848"
+    },
+    {
+      "id": "a441",
+      "chars": 1821,
+      "commentary_sha256": "f5ce07193b6416b169da2cd4486a326259061dbb99b25ba732a680ef1dd7a067",
+      "statutory_sha256": "5e99c022a0b97d406b7c6c0e36cf11fb10b8dfd4525054f20eaa6220f6167d19"
+    },
+    {
+      "id": "a441a",
+      "chars": 1753,
+      "commentary_sha256": "a80019b22a199edd699c0989e18e90a8d0c47d5ef42bc06fd3b97ae8f9dbdd89",
+      "statutory_sha256": "18bb8153f241341b8ebba4e1ddec9346141eb85b34524b035452be20ece6343b"
+    },
+    {
+      "id": "a441b",
+      "chars": 2135,
+      "commentary_sha256": "7cdf603eb080dd4845b2379e0e2564093ae93f3a60d24e6b7ecd818b38ea73ff",
+      "statutory_sha256": "d9b32b2a644ab1546f644b60a116abdc35724e6c78abbdd28de3d6db584f6251"
+    },
+    {
+      "id": "a442",
+      "chars": 1891,
+      "commentary_sha256": "d70bc9cee53e0c8d4a4b3185179a06621182d408bc1deb37c77b66cb5bf01025",
+      "statutory_sha256": "02031f68951b2b232272734aaad2def97d20095b95922e816b9f8a3d4c597e3f"
+    },
+    {
+      "id": "a442a",
+      "chars": 2081,
+      "commentary_sha256": "66acfa0017a9adfb61ef55ef0ef6d6616244ad44b454247db117407886b4e781",
+      "statutory_sha256": "fbc9cd4af093f632d0f8ccaa77a7ad15b6bd6593472c6a88305eef00c4fa5371"
+    },
+    {
+      "id": "a443",
+      "chars": 1928,
+      "commentary_sha256": "fca4b0398fade7f9cd99a68949f099e5469fea12d90292c4439a85b32f171944",
+      "statutory_sha256": "2fbe1e2b26336b53ee8ad19789ae2827527166f1de8ce25825c50b6f59df2fcc"
+    },
+    {
+      "id": "a444",
+      "chars": 1665,
+      "commentary_sha256": "61ef502043c277961fb7c7f9e7fb99e368f55da2027880b67292d650b39df2cc",
+      "statutory_sha256": "63d973c3116ec5563cc399b7e42cf925a6aee01df4fdb38bb1e60fdf3d4843f9"
+    },
+    {
+      "id": "a445",
+      "chars": 1849,
+      "commentary_sha256": "c70c29983add93590bfca6f0bf55c8c8561e3993284ca374a9c5ef214de52cff",
+      "statutory_sha256": "3de87feee4f3ff7349ea6ea0b9a448dd37f6dffe5e44d8bb2c6f62b5b3f21ee6"
+    },
+    {
+      "id": "a446",
+      "chars": 1658,
+      "commentary_sha256": "b28138c5686c046990721dfd87e288042807157adf0dad01a85a6fcc4e763d99",
+      "statutory_sha256": "015623fca8c3cdd0a41164999533297906dad5287814c130dbb0c74408c7e560"
+    },
+    {
+      "id": "a446a",
+      "chars": 2055,
+      "commentary_sha256": "dc6569df8cee8e86e6381cbd6fb204cad7b782fff1dc3b299feb6dd2816160eb",
+      "statutory_sha256": "d41670534878c4f5af74ff9cec0ba7ec604cb498b13c23c922ed29647dce107a"
+    },
+    {
+      "id": "a447",
+      "chars": 2142,
+      "commentary_sha256": "9d0248082d09ccc14503e803b5a357dcbfc7b5d09e9c16f1faafc21e48a5588d",
+      "statutory_sha256": "83f646ee9adb88ff59d28e813f2557765208dce8edc11ac052c3303c3b34fa01"
+    }
+  ],
+  "case_law_sources": [
+    "ECLI:NL:HR:2013:142",
+    "ECLI:NL:GHDHA:2021:1043",
+    "ECLI:NL:HR:2022:1104"
+  ],
+  "limitations": [
+    "Exactly twenty assigned units authored. No whole-book completion or independent review claim.",
+    "Selective case-law research; No verified case selected for the other eighteen assigned units.",
+    "External statutory references are identified but no unverified detailed inventory of duties is supplied. Judgment HR 2013:142 concerns summary seizure proceedings, not guilt; civil case GHDHA 2021:1043 is used with its verified cassation outcome HR 2022:1104 and not as a criminal proof rule.",
+    "Length and exact-repetition checks do not establish substantive legal quality."
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1295445,
+    "errors": [
+      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_checks": {
+    "all_twenty_commentaries_present": true,
+    "all_twenty_statutory_texts_preserved": true,
+    "independent_statutory_coverage_complete": true,
+    "statutory_text_agreement": 1.0,
+    "local_links_ok": true,
+    "no_exact_repeated_paragraphs": true
+  },
+  "unresolved_batch_blockers": []
+}
