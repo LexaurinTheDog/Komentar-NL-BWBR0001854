@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:3462</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T20:10:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-12-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-12-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/03582</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:2356" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:2356, Gevolgd</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=430a">Wetboek van Strafrecht 430a</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2016/14</rdf:li>
+          <rdf:li>RvdW 2016/67</rdf:li>
+          <rdf:li>NJ 2016/162 met annotatie van P. Mevis</rdf:li>
+          <rdf:li>SR-Updates.nl 2015-0564</rdf:li>
+          <rdf:li>NbSr 2016/19</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:3462">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:3462</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-12-08T09:49:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:3462 Hoge Raad , 08-12-2015 / 14/03582</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:3462:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Naaktrecreatie in de Delftse Hout. Art. 430a Sr, ‘plaats die voor ongeklede recreatie niet geschikt is’. Grondslagverlating. Het Hof heeft art. 430a Sr aldus uitgelegd dat ook plaatsen die niet door de gemeenteraad daartoe zijn aangewezen, geschikt kunnen zijn voor ongeklede recreatie. Dat oordeel is juist. De beantwoording van de vraag welke voor het openbaar verkeer bestemde, niet door de gemeenteraad aangewezen, plaatsen niet geschikt zijn voor ongeklede recreatie, hangt af van de omstandigheden van het geval. Van geval tot geval zal dus moeten worden beoordeeld of de desbetreffende plaats niet geschikt is voor ongeklede recreatie, waarbij blijkens de wetsgeschiedenis en gelet op de plaatsing van art. 430a Sr in Titel II van het Derde Boek van het Wetboek van Strafrecht (“Overtredingen betreffende de openbare orde”) o.m. van belang kan zijn of (i) ongeklede recreatie volgens de maatschappelijke opvattingen, zoals die t.t.v. de gedraging ter plaatse leven, aanvaardbaar wordt geacht, (ii) de locatie zodanig is gelegen dat sprake is ongevraagde of ongewilde confrontatie van derden, en (iii) of de openbare orde wordt verstoord. Het Hof heeft geoordeeld dat slechts sprake kan zijn van handelen in strijd met art. 430a Sr indien de voor het openbaar verkeer bestemde plaats waar de tlgd. naaktrecreatie is beoefend, “evident niet geschikt is” voor ongeklede recreatie, hetgeen volgens het Hof in dit verband betekent “dat objectief oordelende en redelijk denkende mensen over die niet-geschiktheid in een concreet geval redelijkerwijze niet van mening kunnen verschillen”. Dat oordeel geeft, gelet op hetgeen is vooropgesteld, blijk van een te beperkte uitleg van de in art. 430a Sr voorkomende uitdrukking “plaats die voor ongeklede recreatie niet geschikt is.” Aldus heeft het Hof de grondslag van de tll. verlaten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:3462:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>8 december 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/03582</para>
+    <para>LBS/IF</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para> </para>
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 11 juli 2014, nummer 22/000550-14, in de strafzaak tegen:</para>
+    </parablock>
+    <parablock>
+      <para>
+        <emphasis role="underline">
+          [verdachte]
+        </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1955. </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de Advocaat-Generaal bij het Hof. Deze heeft bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De raadsman van de verdachte, mr. G. Spong, advocaat te Amsterdam, heeft het beroep tegengesproken.</para>
+      <para>De Advocaat-Generaal A.E. Harteveld heeft geconcludeerd tot vernietiging van het bestreden arrest en tot terugwijzing van de zaak naar het Gerechtshof Den Haag, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+      <para>	De raadsman van de verdachte heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Waar het in dit geding om gaat</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Aan de verdachte is tenlastegelegd dat:</para>
+        <para>"hij, op of omstreeks 9 juli 2013, te Delft, zich ongekleed heeft bevonden buiten een door de gemeenteraad van die gemeente als geschikt voor ongeklede openbare recreatie aangewezen plaats, te weten op of aan het Strandpad, zijnde een voor het openbaar verkeer bestemde plaats, die niet voor ongeklede recreatie geschikt was".</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Het gaat in deze zaak - in de door de Advocaat-Generaal in zijn conclusie onder 4 gegeven samenvatting - om het volgende:</para>
+        <para>"De verdachte heeft naakt gerecreëerd op het voormalige naaktstrand in de Delftse Hout te Delft. Uit de stukken van het dossier kan worden afgeleid dat een gedeelte van het in de Delftse Hout gelegen strand dertig jaar lang als naaktstrand is gebruikt. Het college van B&amp;W van de gemeente Delft heeft op 2 oktober 1984 het stuk strand officieel aangewezen als naaktstrand. Na de landelijke invoering van art. 430a Sr in 1986 heeft de gemeenteraad - als ingevolge art. 430a Sr het daartoe bevoegde orgaan - van Delft het strand niet (meer) officieel aangewezen als naaktstrand. Naaktrecreatie werd in ieder geval sedertdien gedoogd. Op 26 maart 2013 heeft het college van B&amp;W van Delft besloten het collegebesluit van 2 oktober 1984, waarbij het naaktstrand in de Delftse Hout werd aangewezen als plaats voor naaktrecreatie, in te trekken. Dit besluit is op 18 april 2013 in werking getreden. In de Gemeenteraad is het collegebesluit besproken en er is ingestemd met het besluit om het naaktstrand op te heffen. Zowel in het Gemeenteblad van 17 april 2013 als van 16 juni 2013 is een publicatie verschenen van deze besluitvorming. Rond het strand zijn borden aangebracht met daarop de tekst 'naaktstrand opgeheven'. Naaktrecreanten - waaronder de verdachte - hebben het strand echter ook na 18 april 2013 in gebruik genomen als naaktstrand. De politie, die kennelijk van mening is dat het strand niet langer geschikt is voor ongeklede recreatie, heeft in de maanden juli en augustus 2013 - na een periode van enkel het uitdelen van waarschuwingen - handhavend opgetreden. Thans in cassatie staat - kort gezegd - de vraag centraal welk toetsingskader door de strafrechter dient te worden gehanteerd bij de beoordeling van de geschiktheid of ongeschiktheid van een plaats voor ongeklede recreatie in de zin van art. 430a Sr."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Blijkens het proces-verbaal van de terechtzitting in hoger beroep heeft de Advocaat-Generaal bij het Hof aldaar het woord gevoerd overeenkomstig het aan het Hof overgelegde schriftelijk requisitoir. Dit requisitoir houdt met betrekking tot de situatie ter plaatse het volgende in:</para>
+        <para>"De Delftse Hout is in de loop der jaren van een rustig buitengebied geleidelijk veranderd in een soort 'stadspark' dat omringd wordt door grote woonkernen als de wijk Vrijenban (9.100 inwoners), Ypenburg (25.910 inwoners) en de wijk Emerald van Pijnacker-Nootdorp (6905 inwoners). De Delftse Hout is zo ongeveer de achtertuin van deze bewoners.</para>
+        <para>Zo wordt de recreatieplas Delftse Hout door één aaneengesloten strandje met ligweiden omringd. Het naaktstrand gaat naadloos over in het geklede strand en wordt niet begrensd door bomen en struiken, het betreft een open plek aan het water. Van dat water wordt door diverse watersporters gebruik gemaakt o.a. door de surfvereniging. Het staat eveneens vast dat de plaats waar verdachten zich bevonden te bereiken is via een onverhard openbaar wandelpad, dat langs de recreatieplas loopt en over het naaktstrand heen. Als je een rondje om de plas loopt dan kom je over het naaktstrand heen (zie foto's). Daarnaast zijn er gedeelde faciliteiten zoals de wc's en een kiosk.</para>
+        <para>Bovendien waren verdachten vanaf het fiets- en wandelpad achter het naaktstrand waarneembaar. Voorbijgangers konden dan ook worden geconfronteerd met verdachten. Dit zou bij de voorbijgangers onrust kunnen veroorzaken dan wel aanstoot kunnen geven.</para>
+        <para>Dit betekent dat de plek alwaar verdachten zich bevonden qua ligging niet geschikt is voor ongeklede recreatie, ongeacht het aanwezige aantal geklede mensen.</para>
+        <para>Inmiddels is er in de Delftse Hout Horeca, watersportverenigingen, campings, speeltuinen en trekt dus ook een breed publiek. Delft heeft inmiddels meer dan 100.000 inwoners, waarvan op een topdag 8000 mensen gebruik maken van de Delftse Hout, waarvan 6000 recreëren op het strand. Op een gemiddelde zonnige dag wordt het strandje aan de plas gebruikt door 1000 geklede zonaanbidders per dag zoals ook uit de processenverbaal blijkt.</para>
+        <para>In de praktijk komt het maar zelden voor dat de naaktrecreanten in de meerderheid zijn op het strandje. Op een warme dag in het weekend of in de vakanties zijn het rond de 25 personen, met af en toe een uitschieter op een topdag naar de 50 a 75.</para>
+        <para>Daarnaast maakt een groot aantal wandelaars, fietsers, ruiters, skaters en watersporters elke dag gebruik van de Delftse Hout. Vogels van alle pluimage: oudere mensen, kleine kinderen, hondenbezitters, vissers enz. Met elkaar moeten we de kleine stukjes groen in de Randstad delen.</para>
+        <para>Om een voorbeeld te geven: het toiletgebouw dat op de grens van het naaktstrand en het geklede strand staat wordt door geklede en ongeklede recreanten gebruikt. De constateringen van handhavers - de politie - dat meisjes in hun bikini daar niet graag naar het toilet gaan, omdat er dan pontificaal een of meer blote mannen staan, die hen - goed bedoeld - aanspreken en dat geeft die meisjes een ongemakkelijk gevoel.</para>
+        <para>Het zijn 2 werelden die botsen met verschillende levensstijlen.</para>
+        <para>Het is maar net hoe je er tegen aan kijkt. Sommigen zijn voor 'vrijheid blijheid', anderen nemen aanstoot aan naaktrecreatie en willen niet geconfronteerd worden met andermans bloot. </para>
+        <para>Er zijn grenzen aan wat maatschappelijk geaccepteerd wordt en dat is ook nog eens aan verandering onderhevig. Wat 20 a 30 jaar geleden geaccepteerd werd, hoeft nu niet meer geaccepteerd te worden. </para>
+        <para>Dat de nudisten en naturisten niet gelukkig zijn met het feit dat hun vaste plek, waar zij al 10-tallen jaren komen, verdwijnt, begrijp ik.</para>
+        <para>Gelet op het openbare karakter en de inrichting in dit gebied in combinatie met de grote bezoekersaantallen blijkt de Delftse Hout echter géén geschikte plek meer te zijn voor naaktrecreatie."</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het middel klaagt onder meer dat het Hof de grondslag van de tenlastelegging heeft verlaten doordat het een onjuiste uitleg heeft gegeven aan de daarin voorkomende, aan art. 430a Sr ontleende, uitdrukking "plaats die niet voor ongeklede recreatie geschikt was".</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>Het Hof heeft de verdachte van de tenlastegelegde overtreding van art. 430a Sr vrijgesproken. Het heeft daartoe het volgende overwogen:</para>
+        <para>"Artikel 430a Sr luidt: "Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is, wordt gestraft met geldboete van de eerste categorie."</para>
+        <para>Ongeklede recreatie is dus niet slechts toegestaan op door de gemeenteraad daartoe aangewezen plaatsen. Een amendement van het kamerlid Schutte, waarmee deze beoogde uitsluitend aan de gemeenteraad de bevoegdheid toe te kennen vast te stellen welke plaatsen voor ongeklede recreatie geschikt zijn en ongeklede recreatie buiten die aangewezen plaatsen strafbaar te stellen werd door de minister van Justitie ontraden en kreeg geen meerderheid in de Tweede Kamer.</para>
+        <para>Vast staat dat de plaats waar de verdachte in de onderhavige zaak is aangetroffen, op dat moment niet een door de gemeenteraad als geschikt voor ongeklede recreatie aangewezen plaats was. Evenmin staat ter discussie dat de verdachte op de ten laste gelegde datum zich ongekleed op of aan een voor het openbaar verkeer bestemde plaats bevond. Waar wel verschil van mening over bestaat is of die plaats op dat moment voor ongeklede recreatie geschikt was.</para>
+        <para>De wetgever heeft de term 'niet geschikt' niet nader ingevuld. Het is - zo blijkt uit de wetsgeschiedenis - de uitdrukkelijke bedoeling van de wetgever geweest de beoordeling welke plaats wel en welke plaats niet geschikt is in concrete zaken aan de rechter te laten. De minister van Justitie zei hierover: 'Het begrip 'geschikte plaats' is dus niet alleen afhankelijk van de lokale omstandigheden, maar kan in de tijd evolueren. Het kan zelfs afhankelijk zijn van het tijdstip van de dag.' De minister van Justitie zag geen bewijsproblemen bij die beoordeling door de rechter. Daarnaar gevraagd, merkte hij op: 'Ik verwacht geen moeilijkheden om het bewijs te leveren, want het gaat om de vraag, of een voor het openbaar verkeer bestemde plaats al dan niet geschikt is voor ongeklede recreatie. Dat is geen kwestie van bewijzen, dat is uiteindelijk een kwestie van appreciatie door de rechter zelf.'</para>
+        <para>Die rechter ziet zich in de onderhavige zaak geconfronteerd met een door de wetgever geformuleerde open norm waarover in essentie niet veel meer is gezegd dan: 'Slechts indien de aard van de plaats of de omstandigheden zo zijn, dat in redelijkheid niet meer kan worden gesproken van geschiktheid, blijft het feit een zekere mate van strafwaardigheid behouden.'</para>
+        <para>Verdediging en Openbaar Ministerie hebben eendrachtig betoogd dat de kantonrechter bij de beoordeling van de geschiktheid van de betreffende plaats voor ongeklede recreatie ten onrechte een getalsmatige norm heeft gehanteerd. Voor zover het vonnis van de kantonrechter inderdaad zo moet worden begrepen dat deze heeft geoordeeld dat de betreffende plaats in beginsel geschikt is voor naaktrecreatie, maar bij aanwezigheid van meer dan 150 geklede recreanten die geschiktheid verliest, is daarmee naar het oordeel van het hof een uit het oogpunt van rechtszekerheid niet wenselijke en in de praktijk niet hanteerbare norm in het leven geroepen.</para>
+        <para>Dit brengt het hof tot de juridische kern van deze zaak: de wetgever heeft gekozen voor een open norm die bij overtreding ervan kan leiden tot strafvervolging. Maar wil een dergelijke norm een persoon kunnen worden tegengeworpen, moet wel duidelijk zijn wat deze inhoudt. Omwille van die duidelijkheid dient naar het oordeel van het hof de wetgever in de hiervoor aangehaalde zinsnede 'in redelijkheid niet meer kan worden gesproken van geschiktheid' aldus te worden begrepen, dat alleen in die gevallen waarin een voor het openbaar verkeer bestemde plaats evident niet voor ongeklede recreatie geschikt is, van overtreding van het bepaalde in artikel 430a Sr sprake kan zijn. 'Evident niet geschikt' betekent in dit verband dat objectief oordelende en redelijk denkende mensen over die niet-geschiktheid in een concreet geval redelijkerwijze niet van mening kunnen verschillen.</para>
+        <para>Tot een nadere precisering van voornoemde norm komt het hof niet. Al zal dit wellicht bij een of meer (proces)partijen tot teleurstelling leiden, verdere invulling van de wettelijke norm gaat in dit geval de rechtsvormende taak van de rechter te boven. Het is niet aan de rechter duidelijke wetten te maken of wetten duidelijk te maken; dat is uitdrukkelijk een taak van de wetgever.</para>
+        <para>Terug naar de concrete feiten en omstandigheden van de voorliggende zaak. Het hof stelt voorop dat een voor strandrecreatie en dus voor schaars gekleed recreëren geschikte en bestemde op of aan de openbare weg gelegen plaats gelet op dat gebruik en die bestemming niet per definitie kan worden aangemerkt als evident niet geschikt voor ongeklede recreatie. In dat kader bezien, brengen de specifieke feiten en omstandigheden van deze zaak zoals die volgen uit het procesdossier alsmede uit het verhandelde ter terechtzitting, het hof tot de conclusie dat onvoldoende bewijs bestaat dat de plaats waar de verdachte zich op de ten laste gelegde datum bevond, niet geschikt was voor ongeklede recreatie, als bedoeld in artikel 430a Sr. De verdachte dient daarom van het ten laste gelegde te worden vrijgesproken."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De tenlastelegging is toegesneden op art. 430a Sr. Daarom moet de in de tenlastelegging voorkomende uitdrukking "plaats die voor ongeklede recreatie niet geschikt is" geacht worden aldaar te zijn gebezigd in dezelfde betekenis als daaraan toekomt in dat artikel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <parablock>
+        <para>Art. 430a Sr luidt:</para>
+        <para>"Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <parablock>
+        <para>De geschiedenis van de totstandkoming van de wet van 3 juli 1985, Stb. 1985, 385, waarbij art. 430a Sr is ingevoerd, houdt onder meer het volgende in:</para>
+      </parablock>
+      <para>- de memorie van toelichting:</para>
+      <parablock>
+        <para>"ALGEMEEN DEEL</para>
+        <para>(...) </para>
+        <para>De uitgangspunten van de [adviescommissie zedelijkheidswetgeving] (...) zijn in dit ontwerp overgenomen.</para>
+        <para>(...) </para>
+        <para>Ten eerste ziet de commissie een taak voor de strafwetgever in de bescherming van de jeugd tegen bepaalde uitingen (...). Als tweede doel van strafbepalingen op dit punt beschouwt de commissie de bescherming tegen ongevraagde of ongewilde confrontatie. (...) Dit standpunt [wordt] (...) in dit wetsvoorstel gevolgd."</para>
+        <para>(Kamerstukken II 1979/80, 15 836, nr. 3, p. 5 en 6)</para>
+      </parablock>
+      <para>- de nota naar aanleiding van het eindverslag:</para>
+      <parablock>
+        <para>"De schennis van de eerbaarheid</para>
+        <para>De leden van de fracties van de P.v.d.A., de V.V.D. en D'66 reageerden positief op uitlatingen die in de memorie van antwoord werden gedaan dat ongeklede recreatie die wordt beoefend op daartoe door de overheid aangewezen plaatsen, buiten de strafrechtelijke sfeer wordt gebracht. Zij misten echter in het betoog een standpunt inzake deze vorm van recreatie, wanneer zij plaats vindt op andere plaatsen, welke eveneens daarvoor geschikt zijn. Men kreeg de indruk dat het zich naakt bevinden op laatstgenoemde plaatsen als schennis van de eerbaarheid zou worden aangemerkt. Wij hebben de zaak nog eens terdege overwogen. Weliswaar zijn wij van oordeel dat de rechter de door deze leden bedoelde vorm van recreatie in de openbaarheid, gelet op de huidige in de maatschappij levende opvattingen, niet vaak of zelfs nooit als schennis van de eerbaarheid zal aanmerken, toch zijn wij wel gevoelig voor het argument dat, indien mogelijk, de wet in dezen uitsluitsel zou moeten geven. Voorts zijn ook wij van opvatting dat, indien ongeklede recreatie wordt beoefend op plaatsen die de rechter, alle omstandigheden in aanmerking genomen, daarvoor niet geschikt acht, er geen sprake kan zijn van een misdrijf maar slechts van een overtreding van de openbare orde. Wij hebben daarom het ontwerp aldus gewijzigd (onderdeel 4 van de tweede nota van wijzigingen) dat ongeklede recreatie op een daartoe niet geschikte plaats als een overtreding van de openbare orde kan worden aangemerkt (artikel 430a). De redactie van de voorgestelde bepaling zondert in de eerste plaats van strafbaarheid uit die plaatsen, die de gemeenteraad voor ongeklede recreatie heeft bestemd. Voorts maakt de tekst van de bepaling duidelijk, dat die vorm van recreatie, mits beoefend op andere daartoe geschikte plaatsen, straffeloos blijft. Slechts indien de aard van de plaats of de omstandigheden zo zijn, dat in redelijkheid niet meer kan worden gesproken van geschiktheid, blijft het feit een zekere mate van strafwaardigheid behouden." </para>
+        <para>(Kamerstukken II 1983/84, 15 836, nr. 9, p. 5)</para>
+      </parablock>
+      <para>- de Minister van Justitie bij de behandeling van het wetsvoorstel in de Tweede Kamer:</para>
+      <parablock>
+        <para>"Mevrouw Groenman heeft gevraagd wat ik versta onder een plaats, die voor ongeklede recreatie geschikt is. Volgens de nu in de maatschappij levende opvattingen wordt het in toenemende mate aanvaardbaar geacht dat mensen ongekleed zwemmen en zonnebaden en dergelijke. Het nieuwe begrip 'voor ongeklede recreatie geschikte plaats' moet in die context worden gezien. Die plaatsen zou men kunnen aantreffen op bij voorbeeld stranden, en wel daar waar de omstandigheden zodanig zijn dat verwacht mag worden dat de grote meerderheid van de aldaar aanwezigen dat geen bezwaar zou achten. Ook nu al wordt op tal van dergelijke plaatsen ongekleed gerecreëerd. Het begrip 'geschikte plaats' is dus niet alleen afhankelijk van de lokale omstandigheden, maar kan in de tijd evolueren. Het kan zelfs afhankelijk zijn van het tijdstip van de dag. Of de omstandigheden zodanig zijn, is wel ter beoordeling van de rechter. Het kan niet de bedoeling zijn dat overal ongeklede recreatie mogelijk is of mogelijk gemaakt moet worden.</para>
+        <para>(...)</para>
+        <para>De heer Schutte heeft een heldere analyse gegeven van de mogelijke toepassing van artikel 430a, dat ongeklede recreatie zou betreffen. Inderdaad zullen dat in de eerste plaats terreinen zijn die door de gemeente als geschikt voor ongeklede recreatie worden bestempeld. In de tweede plaats houdt het artikel rekening met de mogelijkheid dat er ook andere plaatsen zijn die daartoe geschikt zijn. Deze laatste omstandigheid is afhankelijk van de situatie die de wetgever niet kan overzien. Beantwoording van deze vraag is dus aan de rechter. Indien de rechter oordeelt dat de plaats niet geschikt is, zal hij kunnen veroordelen wegens schending van artikel 430a, dat wil zeggen ter zake van een overtreding." (Handelingen II, 1984/85, p. 719)</para>
+        <para>en:</para>
+        <para>"[Het] is de bedoeling om juist mogelijk te maken dat de rechter bepaalde plaatsen die geschikt zijn voor ongeklede recreatie als zodanig waardeert, ook wanneer ze niet door de gemeente als zodanig zijn aangewezen. Met het amendement wordt die mogelijkheid buiten de aangewezen plaatsen ontkend, en dat gaat tegen de bedoeling van de regering met dit artikel in. Ik moet er ook op wijzen dat er terreinen zijn die voor geheel naakt recreëren worden aangewezen - dat pleegt een gemeente te doen - maar dat er daarnaast terreinen zijn die voor gedeeltelijk naakt recreëren worden gebruikt, die als zodanig een zekere maatschappelijke aanvaarding hebben ondervonden. In die gevallen moet de rechter de vrijheid hebben, dit toe te laten. En dat is wat met dit artikel wordt beoogd. (...). In het ene deel van het land zal deze bepaling ongetwijfeld veel stringenter worden uitgelegd dan in het andere deel."<?linebreak?>(Handelingen II, 1984/85, p. 927)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>Het Hof heeft art. 430a Sr aldus uitgelegd dat ook plaatsen die niet door de gemeenteraad daartoe zijn aangewezen, geschikt kunnen zijn voor ongeklede recreatie. Dat oordeel is juist.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <parablock>
+        <para>De beantwoording van de vraag welke voor het openbaar verkeer bestemde, niet door de gemeenteraad aangewezen, plaatsen niet geschikt zijn voor ongeklede recreatie, hangt af van de omstandigheden van het geval zodat een algemene regel daaromtrent niet valt te geven. Van geval tot geval zal dus moeten worden beoordeeld of de desbetreffende plaats niet geschikt is voor ongeklede recreatie, waarbij blijkens de wetsgeschiedenis en gelet op de plaatsing van art. 430a Sr in Titel II van het Derde Boek van het Wetboek van Strafrecht </para>
+        <para>("Overtredingen betreffende de openbare orde") onder meer van belang kan zijn of (i) ongeklede recreatie volgens de maatschappelijke opvattingen, zoals die ten tijde van de gedraging ter plaatse leven, aanvaardbaar wordt geacht, (ii) de locatie zodanig is gelegen dat sprake is van ongevraagde of ongewilde confrontatie van derden, en (iii) of de openbare orde wordt verstoord.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8.</nr>
+      <para>Het Hof heeft geoordeeld dat slechts sprake kan zijn van handelen in strijd met art. 430a Sr indien de voor het openbaar verkeer bestemde plaats waar de tenlastegelegde naaktrecreatie is beoefend, "evident niet geschikt is" voor ongeklede recreatie, hetgeen volgens het Hof in dit verband betekent "dat objectief oordelende en redelijk denkende mensen over die niet-geschiktheid in een concreet geval redelijkerwijze niet van mening kunnen verschillen". Dat oordeel geeft, gelet op hetgeen hiervoor onder 3.7 is vooropgesteld, blijk van een te beperkte uitleg van de in art. 430a Sr voorkomende uitdrukking "plaats die voor ongeklede recreatie niet geschikt is".</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9.</nr>
+      <para>Door de verdachte van het tenlastegelegde vrij te spreken heeft het Hof derhalve vrijgesproken van iets anders dan was tenlastegelegd. Het middel klaagt terecht dat het Hof aldus de grondslag van de tenlastelegging heeft verlaten.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Slotsom</title>
+    <para />
+    <parablock>
+      <para>Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak niet in stand kan blijven, het middel voor het overige geen bespreking behoeft en als volgt moet worden beslist.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de bestreden uitspraak;</para>
+      <para>wijst de zaak terug naar het Gerechtshof Den Haag, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren B.C. de Savornin Lohman, J. de Hullu, Y. Buruma en A.L.J. van Strien, in bijzijn van de griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">8 december 2015</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

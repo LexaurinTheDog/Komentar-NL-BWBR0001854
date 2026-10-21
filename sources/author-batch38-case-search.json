@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:3462",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:45:32.736562+00:00",
+    "sha256": "8bc0fc76e53ef384e09faecbb41ee8bfbcb98ad70427e4f1c42d3d9617eb891c",
+    "path": "authorities/author-batch38-ECLI-NL-HR-2015-3462.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2024:5729",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:45:32.934313+00:00",
+    "sha256": "0a2f04c29b4caf9fb006f1c6d68330cc064cc1197f041a0418a02b9ed5532d09",
+    "path": "authorities/author-batch38-ECLI-NL-RBMNE-2024-5729.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2024:9612",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:45:33.109838+00:00",
+    "sha256": "642813fa1b90e07318105f0f150ec7c52fe06efc1248f46e0c28e25bb43a130e",
+    "path": "authorities/author-batch38-ECLI-NL-RBROT-2024-9612.xml",
+    "valid_full_judgment": true
+  }
+]

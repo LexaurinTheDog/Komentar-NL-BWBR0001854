@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-21T00:50:27.884808+00:00",
+  "queries": [
+    "site:rechtspraak.nl \"430a\" \"Hoge Raad\" geschikt",
+    "site:rechtspraak.nl \"429ter\" \"2024\" rechtbank"
+  ],
+  "official_fetch_log": "sources/author-batch38-case-search.json",
+  "local_corpus": "authorities/author-batch38-local-corpus.json",
+  "used": [
+    "ECLI:NL:HR:2015:3462",
+    "ECLI:NL:RBMNE:2024:5729",
+    "ECLI:NL:RBROT:2024:9612"
+  ],
+  "full_text_read": true,
+  "limits": "Selective primary-source search focused on the interpretation-sensitive current provisions 429ter and 430a. No sufficiently relevant verified case selected for the other assigned units; no exhaustive coverage or appeal-status claim."
+}

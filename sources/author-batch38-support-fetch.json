@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+    "path": "sources/author-batch38-previous.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:49:35.171516+00:00",
+    "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://www.echr.coe.int/documents/d/echr/convention_ENG",
+    "http_status": 403,
+    "expected_format_valid": false,
+    "accessed_at": "2026-10-21T00:49:52.211990+00:00",
+    "note": "Direct urllib request rejected; official document was readable via web tool; alternate official URL attempted."
+  },
+  {
+    "url": "https://www.echr.coe.int/Documents/Convention_ENG.pdf",
+    "http_status": 200,
+    "path": "sources/author-batch38-evrm.pdf",
+    "accessed_at": "2026-10-21T00:49:52.828586+00:00",
+    "sha256": "f4608f7ed2d505debc85866f02290cf1e1c386eb1a605833bd6a3ee4ffb3febe",
+    "expected_format_valid": true
+  }
+]
