@@ -512,3 +512,6 @@ Tweede lezing batch40: precies twintig toegewezen eenheden447a–468 tegen opnie
 
 
 Auteursbatch 41 behandelt precies twaalf eenheden: artikel 468a tot en met het slotformulier, met de in de officiële inventaris aanwezige vervallen artikelplaatsen. [Batchresultaat](author-batch41-result.json) en [broncontrole](preflight-author-batch41-result.json). De onafhankelijke tweede lezing van deze slotbatch staat nog open; dit checkpoint verklaart het boek niet definitief voltooid.
+
+
+Tweede lezing batch 41: precies twaalf toegewezen eenheden 468a tot en met het slotformulier tegen opnieuw opgehaalde officiële XML gelezen. Vier toelichtingen gecorrigeerd of aangevuld. Bij 471 is de officiële verwijzing naar 539u Sv onderscheiden van de registerregeling in 539v; 471a betreft de meldplicht voor ernstige misdrijven. Bij 474 zijn beide informatieplichten na aanvaring uitgewerkt; bij 470a is de overgangsrechtelijke bronnoot besproken. [Exacte IDs en bevindingen](review-batch41-result.json); [broncontrole](preflight-review-batch41-result.json); [externe bepalingen](sources/review-batch41-external-check.json). Geen materiële batchblokkade. Dit is uitsluitend een afgebakend reviewcheckpoint, geen verklaring van voltooiing van het gehele boek of externe professionele goedkeuring.

@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-21T01:19:42.687607+00:00",
+  "queries": [
+    "site.uitspraken.rechtspraak.nl \"539u\" \"471a\" schipper kennisgeving",
+    "site.uitspraken.rechtspraak.nl \"474\" \"aanvaring\" \"358a\"",
+    "site.uitspraken.rechtspraak.nl \"468a\" \"burgerlijke stand\""
+  ],
+  "method": "Web search for official judicial full texts plus national corpus content search for 539u, 358a, artikel 468a and artikel 471a. Candidate list retained.",
+  "disposition": "No sufficiently relevant verified full judgment selected. National corpus candidate passages mentioning 358a concerned Faillissementswet, not WvK; excluded without asserting any judicial holding. No case cited in assigned commentary.",
+  "limits": "Selective search only; not an exhaustive negative conclusion about case law."
+}

@@ -1,5 +1,24 @@
 {
   "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T01:17:30.671433+00:00",
+  "version_evidence": "sources/review-batch41-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "change_map": "sources/review-batch41-historical-change-map.json"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch41-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
   "scope": [
     "a468a",
     "a469",
@@ -14,21 +33,6 @@
     "a479",
     "wetsluiting"
   ],
-  "decisive_date": "2026-10-19",
-  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-21T01:13:54.049944+00:00",
-  "version_evidence": "sources/author-batch41-version-evidence.json",
-  "historical_versions_checked": {
-    "manifest_intervals": 126,
-    "body_comparison": "sources/author-batch41-historical-change-map.json"
-  },
-  "annexes_checked": [
-    {
-      "status": "verified_absence",
-      "evidence_path": "sources/author-batch41-effective.xml",
-      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
-    }
-  ],
-  "unresolved_blockers": [],
-  "coverage": "sources/author-batch41-coverage.json"
+  "coverage": "sources/review-batch41-coverage.json",
+  "entry_page_limitation": "Dated wetten.overheid.nl page returned 429 via browser; official repository manifest, XML and WTI fetched HTTP 200 and format/hash validated. Effective version established by manifest intervals, not fetch date."
 }

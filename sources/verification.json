@@ -6462,6 +6462,92 @@
       "accessed_at": "2026-10-21T01:10:53.531235+00:00",
       "sha256": "6e80a2a6b82203a552dbfad69b38c1bd8ce2d64a1d89216597d6f705370eca33",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-21T01:17:15.818158+00:00",
+      "path": "sources/review-batch41-manifest.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "content_type": "application/xml",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T01:17:16.230929+00:00",
+      "path": "sources/review-batch41-effective.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "content_type": "application/xml",
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "accessed_at": "2026-10-21T01:17:17.311385+00:00",
+      "path": "sources/review-batch41-wti.xml",
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+      "content_type": "application/xml",
+      "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+      "bytes": 27846974,
+      "root": "wetstechnische-informatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+      "path": "sources/review-batch41-previous.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:17:29.909522+00:00",
+      "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001838/manifest.xml",
+      "path": "sources/review-batch41-wvk-manifest.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:17:30.133738+00:00",
+      "sha256": "214a158d55b0464581b9bd09f4af0331a48d1edc93748eea7d1338cea089180a",
+      "content_type": "application/xml",
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001838/2025-07-01_0/xml/BWBR0001838_2025-07-01_0.xml",
+      "path": "sources/review-batch41-wvk-effective.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:17:31.277908+00:00",
+      "sha256": "579e97641a4dfb686f6dcd353e656ff19a24c5f04bce46101a3b2964e008a6a6",
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001903/manifest.xml",
+      "path": "sources/review-batch41-sv-manifest.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:17:31.616264+00:00",
+      "sha256": "f678e82027271b3fd156a947fbe4cc3d8fa946d0ecb07bc41868d103c28b3148",
+      "content_type": "application/xml",
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001903/2026-07-01_0/xml/BWBR0001903_2026-07-01_0.xml",
+      "path": "sources/review-batch41-sv-effective.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:17:33.319070+00:00",
+      "sha256": "3999e80492382c653f4d4a6e79518d129aa2869c8318abfa7fc771e70bb4ae35",
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -6620,7 +6706,7 @@
     "case_check": "sources/review-batch17-authority-check.json"
   },
   "latest_bounded_author_evidence": "sources/author-a144-a156-version-evidence.json",
-  "latest_bounded_review": "sources/review-batch40-version-evidence.json",
+  "latest_bounded_review": "sources/review-batch41-version-evidence.json",
   "bounded_author_a194_a207b": {
     "verified_at": "2026-10-20T22:33:38.849007+00:00",
     "version_evidence": "sources/author-a194-a207b-version-evidence.json",
