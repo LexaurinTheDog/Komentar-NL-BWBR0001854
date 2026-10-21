@@ -1,47 +1,44 @@
-# Inhoud — onvoltooid werkmanuscript
+# INDEX — Commentaar op het Wetboek van Strafrecht
 
-800 van 812 eenheden toegelicht.
-
-- [Inleiding](00-inleiding.md)
-- [Bronnen](SOURCES.md)
-- [Review](REVIEW.md)
-- [Commentaardeel 01 — Aanhef – Artikel 14b](01-deel-01.md)
-- [Commentaardeel 02 — Artikel 14c – Artikel 15h](02-deel-02.md)
-- [Commentaardeel 03 — Artikel 15i – Artikel 23](03-deel-03.md)
-- [Commentaardeel 04 — Artikel 24 – Artikel 36](04-deel-04.md)
-- [Commentaardeel 05 — Artikel 36a – Artikel 38g](05-deel-05.md)
-- [Commentaardeel 06 — Artikel 38h – Artikel 38ij](06-deel-06.md)
-- [Commentaardeel 07 — Artikel 38z – Artikel 45](07-deel-07.md)
-- [Commentaardeel 08 — Artikel 46 – Artikel 61](08-deel-08.md)
-- [Commentaardeel 09 — Artikel 62 – Artikel 77](09-deel-09.md)
-- [Commentaardeel 10 — Artikel 77a – Artikel 77s](10-deel-10.md)
-- [Commentaardeel 11 — Artikel 77t – Artikel 77dd](11-deel-11.md)
-- [Commentaardeel 12 — Artikel 77ee – Artikel 83](12-deel-12.md)
-- [Commentaardeel 13 — Artikel 83a – Artikel 90sexies](13-deel-13.md)
-- [Commentaardeel 14 — Artikel 90septies – Artikel 100](14-deel-14.md)
-- [Commentaardeel 15 — Artikel 101 – Artikel 116](15-deel-15.md)
-- [Commentaardeel 16 — Artikel 117 – Artikel 128](16-deel-16.md)
-- [Commentaardeel 17 — Artikel 129 – Artikel 138a](17-deel-17.md)
-- [Commentaardeel 18 — Artikel 138aa – Artikel 143](18-deel-18.md)
-- [Commentaardeel 19 — Artikel 144 – Artikel 156](19-deel-19.md)
-- [Commentaardeel 20 — Artikel 157 – Artikel 169](20-deel-20.md)
-- [Commentaardeel 21 — Artikel 170 – Artikel 180](21-deel-21.md)
-- [Commentaardeel 22 — Artikel 181 – Artikel 193](22-deel-22.md)
-- [Commentaardeel 23 — Artikel 194 – Artikel 207b](23-deel-23.md)
-- [Commentaardeel 24 — Artikel 208 – Artikel 227](24-deel-24.md)
-- [Commentaardeel 25 — Artikel 227a – Artikel 243](25-deel-25.md)
-- [Commentaardeel 26 — Artikel 244 – Artikel 256](26-deel-26.md)
-- [Commentaardeel 27 — Artikel 257 – Artikel 273e](27-deel-27.md)
-- [Commentaardeel 28 — Artikel 273f – Artikel 285b](28-deel-28.md)
-- [Commentaardeel 29 — Artikel 285c – Artikel 302](29-deel-29.md)
-- [Commentaardeel 30 — Artikel 303 – Artikel 318](30-deel-30.md)
-- [Commentaardeel 31 — Artikel 319 – Artikel 328quater](31-deel-31.md)
-- [Commentaardeel 32 — Artikel 329 – Artikel 347](32-deel-32.md)
-- [Commentaardeel 33 — Artikel 348 – Artikel 359](33-deel-33.md)
-- [Commentaardeel 34 — Artikel 360 – Artikel 377](34-deel-34.md)
-- [Commentaardeel 35 — Artikel 378 – Artikel 395](35-deel-35.md)
-- [Commentaardeel 36 — Artikel 396 – Artikel 415c](36-deel-36.md)
-- [Commentaardeel 37 — Artikel 416 – Artikel 426bis](37-deel-37.md)
-- [Commentaardeel 38 — Artikel 426ter – Artikel 435e](38-deel-38.md)
-- [Commentaardeel 39 — Artikel 435f – Artikel 447](39-deel-39.md)
-- [Commentaardeel 40 — Artikel 447a – Artikel 468](40-deel-40.md)
+- [00-inleiding.md](00-inleiding.md) — Reikwijdte, leeswijzer en bronmethode
+- [01-deel-01.md](01-deel-01.md) — Commentaardeel 01: Aanhef – Artikel 14b
+- [02-deel-02.md](02-deel-02.md) — Commentaardeel 02: Artikel 14c – Artikel 15h
+- [03-deel-03.md](03-deel-03.md) — Commentaardeel 03: Artikel 15i – Artikel 23
+- [04-deel-04.md](04-deel-04.md) — Commentaardeel 04: Artikel 24 – Artikel 36
+- [05-deel-05.md](05-deel-05.md) — Commentaardeel 05: Artikel 36a – Artikel 38g
+- [06-deel-06.md](06-deel-06.md) — Commentaardeel 06: Artikel 38h – Artikel 38ij
+- [07-deel-07.md](07-deel-07.md) — Commentaardeel 07: Artikel 38z – Artikel 45
+- [08-deel-08.md](08-deel-08.md) — Commentaardeel 08: Artikel 46 – Artikel 61
+- [09-deel-09.md](09-deel-09.md) — Commentaardeel 09: Artikel 62 – Artikel 77
+- [10-deel-10.md](10-deel-10.md) — Commentaardeel 10: Artikel 77a – Artikel 77s
+- [11-deel-11.md](11-deel-11.md) — Commentaardeel 11: Artikel 77t – Artikel 77dd
+- [12-deel-12.md](12-deel-12.md) — Commentaardeel 12: Artikel 77ee – Artikel 83
+- [13-deel-13.md](13-deel-13.md) — Commentaardeel 13: Artikel 83a – Artikel 90sexies
+- [14-deel-14.md](14-deel-14.md) — Commentaardeel 14: Artikel 90septies – Artikel 100
+- [15-deel-15.md](15-deel-15.md) — Commentaardeel 15: Artikel 101 – Artikel 116
+- [16-deel-16.md](16-deel-16.md) — Commentaardeel 16: Artikel 117 – Artikel 128
+- [17-deel-17.md](17-deel-17.md) — Commentaardeel 17: Artikel 129 – Artikel 138a
+- [18-deel-18.md](18-deel-18.md) — Commentaardeel 18: Artikel 138aa – Artikel 143
+- [19-deel-19.md](19-deel-19.md) — Commentaardeel 19: Artikel 144 – Artikel 156
+- [20-deel-20.md](20-deel-20.md) — Commentaardeel 20: Artikel 157 – Artikel 169
+- [21-deel-21.md](21-deel-21.md) — Commentaardeel 21: Artikel 170 – Artikel 180
+- [22-deel-22.md](22-deel-22.md) — Commentaardeel 22: Artikel 181 – Artikel 193
+- [23-deel-23.md](23-deel-23.md) — Commentaardeel 23: Artikel 194 – Artikel 207b
+- [24-deel-24.md](24-deel-24.md) — Commentaardeel 24: Artikel 208 – Artikel 227
+- [25-deel-25.md](25-deel-25.md) — Commentaardeel 25: Artikel 227a – Artikel 243
+- [26-deel-26.md](26-deel-26.md) — Commentaardeel 26: Artikel 244 – Artikel 256
+- [27-deel-27.md](27-deel-27.md) — Commentaardeel 27: Artikel 257 – Artikel 273e
+- [28-deel-28.md](28-deel-28.md) — Commentaardeel 28: Artikel 273f – Artikel 285b
+- [29-deel-29.md](29-deel-29.md) — Commentaardeel 29: Artikel 285c – Artikel 302
+- [30-deel-30.md](30-deel-30.md) — Commentaardeel 30: Artikel 303 – Artikel 318
+- [31-deel-31.md](31-deel-31.md) — Commentaardeel 31: Artikel 319 – Artikel 328quater
+- [32-deel-32.md](32-deel-32.md) — Commentaardeel 32: Artikel 329 – Artikel 347
+- [33-deel-33.md](33-deel-33.md) — Commentaardeel 33: Artikel 348 – Artikel 359
+- [34-deel-34.md](34-deel-34.md) — Commentaardeel 34: Artikel 360 – Artikel 377
+- [35-deel-35.md](35-deel-35.md) — Commentaardeel 35: Artikel 378 – Artikel 395
+- [36-deel-36.md](36-deel-36.md) — Commentaardeel 36: Artikel 396 – Artikel 415c
+- [37-deel-37.md](37-deel-37.md) — Commentaardeel 37: Artikel 416 – Artikel 426bis
+- [38-deel-38.md](38-deel-38.md) — Commentaardeel 38: Artikel 426ter – Artikel 435e
+- [39-deel-39.md](39-deel-39.md) — Commentaardeel 39: Artikel 435f – Artikel 447
+- [40-deel-40.md](40-deel-40.md) — Commentaardeel 40: Artikel 447a – Artikel 468
+- [41-deel-41.md](41-deel-41.md) — Commentaardeel 41: Artikel 468a – Slotformulier en ondertekening

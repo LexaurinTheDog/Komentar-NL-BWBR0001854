@@ -350,3 +350,6 @@ Auteursbatch 40: precies twintig officiële artikelplaatsen 447a–468 toegelich
 
 
 Tweede lezing batch40: precies twintig toegewezen eenheden447a–468 tegen opnieuw opgehaalde officiële XML gelezen. Vijf toelichtingen aangescherpt:447a,447b,447c,447d en453. Bij447c is relevantie onderscheiden van feitelijke invloed op een beslissing en is de normatieve vermoedensmaatstaf verduidelijkt. Twee volledige arresten en nationale corpusteksten opnieuw gelezen. [Exacte IDs en bevindingen](review-batch40-result.json); [broncontrole](preflight-review-batch40-result.json); [rechtspraakcontrole](authorities/review-batch40-cases.md). Geen materiële batchblokkade;12 andere eenheden missen nog commentaar. Geen voltooid boek of externe professionele goedkeuring.
+
+
+Auteursbatch 41 behandelt precies twaalf eenheden: artikel 468a tot en met het slotformulier, met de in de officiële inventaris aanwezige vervallen artikelplaatsen. [Batchresultaat](author-batch41-result.json) en [broncontrole](preflight-author-batch41-result.json). De onafhankelijke tweede lezing van deze slotbatch staat nog open; dit checkpoint verklaart het boek niet definitief voltooid.

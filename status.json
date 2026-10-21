@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete_authoring_incomplete",
+  "stage": "bounded_author_complete_pending_second_pass",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -24,14 +24,14 @@
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "preflight-author-a378-a395-result.json",
-    "latest_bounded_author_check": "preflight-author-batch40-result.json",
+    "latest_bounded_author_check": "preflight-author-batch41-result.json",
     "latest_bounded_review_check": "preflight-review-batch40-result.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
-  "completed_units": 800,
+  "completed_units": 812,
   "completed_scope": "See units.jsonl and commentary inventory; latest assigned batch 447a–468 completed; whole manuscript remains incomplete.",
-  "remaining_units": 12,
+  "remaining_units": 0,
   "next_unit": "a468a",
   "commentary_chars": 1326788,
   "source_text_agreement": 1.0,
@@ -166,7 +166,7 @@
     "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
     "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
   ],
-  "updated_at": "2026-10-21T01:12:51.764718+00:00",
+  "updated_at": "2026-10-21T01:16:12.329440+00:00",
   "preflight": {
     "complete": true,
     "report": "preflight-author-batch40-result.json",
@@ -1293,30 +1293,22 @@
   ],
   "last_author_batch": {
     "ids": [
-      "a447a",
-      "a447b",
-      "a447c",
-      "a447d",
-      "a447e",
-      "a448",
-      "a449",
-      "a450",
-      "a453",
-      "a458",
-      "a459",
-      "a460",
-      "a461",
-      "a462",
-      "a463",
-      "a464",
-      "a465",
-      "a466",
-      "a467",
-      "a468"
+      "a468a",
+      "a469",
+      "a470",
+      "a470a",
+      "a471",
+      "a471a",
+      "a472",
+      "a474",
+      "a475",
+      "a476",
+      "a479",
+      "wetsluiting"
     ],
     "complete": true,
-    "units_completed": 20,
-    "result": "author-batch40-result.json"
+    "units_completed": 12,
+    "result": "author-batch41-result.json"
   },
-  "last_author_batch_independent_review_pending": false
+  "last_author_batch_independent_review_pending": true
 }
