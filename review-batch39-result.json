@@ -209,8 +209,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1295895,
     "errors": [
-      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -219,5 +218,6 @@
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
   "coverage_complete": true,
-  "whole_book_validation_ok": false
+  "whole_book_validation_ok": false,
+  "post_checkpoint_validation": true
 }
