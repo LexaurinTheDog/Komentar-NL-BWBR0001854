@@ -5646,6 +5646,75 @@
       "sha256": "2737dc2e9b7b17d08544a1d8ef3c4c2f90c2577a2f08e8e1d4ec7f4748b41e58",
       "bytes": 39699,
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T00:00:58.570336+00:00",
+      "path": "sources/author-a329-a347-effective.xml",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-21T00:00:58.570763+00:00",
+      "path": "sources/author-a329-a347-previous.xml",
+      "http_status": 200,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-21T00:00:58.571056+00:00",
+      "path": "sources/author-a329-a347-entry.html",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2016-154.xml",
+      "accessed_at": "2026-10-21T00:00:58.571167+00:00",
+      "path": "sources/author-a329-a347-stb-2016-154.xml",
+      "http_status": 200,
+      "sha256": "e27dc20b5f8b5498378d41ebff530b0b73ebf371057be0915454884d39ae6a2b",
+      "bytes": 24279,
+      "content_type": "text/xml",
+      "root": "officiele-publicatie",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1683",
+      "accessed_at": "2026-10-21T00:00:58.571284+00:00",
+      "path": "sources/author-a329-a347-HR-2018-1683.xml",
+      "http_status": 200,
+      "sha256": "916cbdf007eaa9600decba8bc471ce5a051ab0365f5c19f83fdba152305fc733",
+      "bytes": 15303,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:929",
+      "accessed_at": "2026-10-21T00:00:58.571423+00:00",
+      "path": "sources/author-a329-a347-HR-2024-929.xml",
+      "http_status": 200,
+      "sha256": "c3bc8a5a825ea7bae0c9c9cfb0ca011c8542955197c30d21f90eff024c59f67a",
+      "bytes": 9061,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-20T23:56:30.487331+00:00",
+      "http_status": 200,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "path": "sources/author-a329-a347-manifest.xml",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -5828,5 +5897,9 @@
     "version_evidence": "sources/author-a257-a273e-version-evidence.json",
     "canonical_unchanged": true,
     "case_version_comparison": "sources/author-a257-a273e-case-law-version.json"
+  },
+  "bounded_author_a329_a347": {
+    "preflight": "preflight-author-a329-a347-result.json",
+    "coverage": "sources/author-a329-a347-coverage.json"
   }
 }

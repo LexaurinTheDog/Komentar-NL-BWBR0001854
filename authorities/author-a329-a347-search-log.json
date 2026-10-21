@@ -1,0 +1,16 @@
+{
+  "scope": "Selectief onderzoek bij de auteursbatch artikelen 329–347; geen uitputtende dekking",
+  "date": "2026-10-21",
+  "web_queries": ["site.rechtspraak.nl 344a Hoge Raad administratie", "site.rechtspraak.nl 343 2016 buitensporig", "site.rechtspraak.nl 2024 344a Hoge Raad september"],
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+    "method": "rg op 344a, buitensporig en bedrieglijke bankbreuk; metadata van lokale bestanden HR 2018:1683 en HR 2024:929 vergeleken met volledig opgehaalde officiële XML.",
+    "limit": "Geen volledige jurisprudentie-inventaris of garantie dat alle relevante latere beslissingen zijn gevonden."
+  },
+  "fully_read_primary_decisions": [
+    {"ecli": "ECLI:NL:HR:2018:1683", "date": "2018-09-18", "docket": "16/05803", "used": true, "paragraphs": ["2.3", "2.4"], "supported_units": ["a341", "a344a"], "card": "author-a329-a347-HR-2018-1683.md"},
+    {"ecli": "ECLI:NL:HR:2024:929", "date": "2024-07-09", "docket": "22/01884", "used": false, "reason": "Inhoudelijke klachten afgedaan zonder motivering onder artikel 81 RO, onderdeel 2. Wel strafvermindering wegens termijnoverschrijding. Geen uitgewerkte uitlegregel over artikel 344a uit dit arrest afgeleid.", "snapshot": "../sources/author-a329-a347-HR-2024-929.xml"}
+  ],
+  "other_units": "Voor de overige toegewezen eenheden is binnen deze beperkte zoekronde geen voldoende specifieke volledig geverifieerde uitspraak als uitlegregel geselecteerd. Dat betekent niet dat relevante rechtspraak ontbreekt.",
+  "opinions": "Zoekresultaten met conclusies van advocaten-generaal zijn alleen als zoekrichting gebruikt; geen conclusie als oordeel van de Hoge Raad aangehaald."
+}

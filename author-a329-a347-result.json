@@ -1,0 +1,206 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a329",
+    "a329bis",
+    "a330",
+    "a331",
+    "a332",
+    "a333",
+    "a334",
+    "a336",
+    "a337",
+    "a338",
+    "a339",
+    "a340",
+    "a341",
+    "a342",
+    "a343",
+    "a344",
+    "a344a",
+    "a344b",
+    "a345",
+    "a347"
+  ],
+  "completed_units": 20,
+  "commentary_file": "commentary/part-32.md",
+  "independent_review_pending": true,
+  "preflight": "preflight-author-a329-a347-result.json",
+  "unit_checks": [
+    {
+      "id": "a329",
+      "commentary_chars": 1704,
+      "commentary_sha256": "55b134bdde66c774978cc2654d209f2da9c9bee9cd9eeb28298fea5c8954b8be",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a329bis",
+      "commentary_chars": 1668,
+      "commentary_sha256": "26429ed8c3c012746dc3f3ccbc94fd69a3f9576c09f525f1b8611b1510bf3d6d",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a330",
+      "commentary_chars": 1692,
+      "commentary_sha256": "8477f8c07b6bf0937c110712e17cf93ea36fe2931d57d69dc0ba37fd5849cc5a",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a331",
+      "commentary_chars": 1686,
+      "commentary_sha256": "3ed3d349eae5075f049a7db03817ab0fe12e52a5596badf864c64fa6414ef73f",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a332",
+      "commentary_chars": 1731,
+      "commentary_sha256": "8ebe78ca76d17165626c057d529a0be7ab4a97d98c10aa2ef80b49f7e96a76d0",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a333",
+      "commentary_chars": 1610,
+      "commentary_sha256": "04cbbeddd16b38dc0b83d4df8c7ff72b2493eb76f91c7982af91f9281445755c",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a334",
+      "commentary_chars": 1763,
+      "commentary_sha256": "2c2227c82b6a56c881057cd1a417f29e7115b4baa54157c24124b3f6704652ba",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a336",
+      "commentary_chars": 1724,
+      "commentary_sha256": "7143ac5140a91f53821f33b544d2626c30627ce029a7ad03ac1f3505833d7f73",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a337",
+      "commentary_chars": 2084,
+      "commentary_sha256": "3bdfdadb311331271ab09a4f4af81ef4fe18be47ef9ea45fe7cc9ac544f608f2",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a338",
+      "commentary_chars": 1572,
+      "commentary_sha256": "2be68be1aeafa3f3bd249bb93cfebb21a4cc4ac658ea026705a70a5fc21f4683",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a339",
+      "commentary_chars": 1776,
+      "commentary_sha256": "edcdfa44d77e87fbcd33d85d6e34263167441a9a2ee5445a2ce5045cfecf535d",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a340",
+      "commentary_chars": 1911,
+      "commentary_sha256": "961809e8673bc4f0f0b4532795b324485873ea40615d8726a6e15046d2704527",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a341",
+      "commentary_chars": 2210,
+      "commentary_sha256": "1aae071874a5eb17790446ffec7d8f85b7d386338f8b47e28ec1994cac916c3f",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a342",
+      "commentary_chars": 1855,
+      "commentary_sha256": "271fface8a4d4a917704b3ce41898310240a88cba15dd8af6b505ae5342422e6",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a343",
+      "commentary_chars": 2093,
+      "commentary_sha256": "b27c08105d98a528b23c2eed7def535f3740d4d35bb4e25dd21e20484c19582d",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a344",
+      "commentary_chars": 1981,
+      "commentary_sha256": "5b6d0f97b0ad3be5870610d51ed4b6cae118ef136523cf351898eff34bccb1b4",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a344a",
+      "commentary_chars": 2871,
+      "commentary_sha256": "cfdd0500995c9237ecea0dd713f47341ecf3cb98db9488534981c2b1145940af",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a344b",
+      "commentary_chars": 1856,
+      "commentary_sha256": "2118d15dd8fb0e7eec9e9776fcdd189719f448c5468eea85e85e9d6e001b4867",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a345",
+      "commentary_chars": 1927,
+      "commentary_sha256": "e93248877ebbcffaa80a82a117e4b850a69f6b802a9d7e984ae89ead23ecc079",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a347",
+      "commentary_chars": 2178,
+      "commentary_sha256": "73937111c7fb1d31548447bc9f777e769959e9d1087d8651ceee0786397bb778",
+      "source_read": true,
+      "author_content_check": true
+    }
+  ],
+  "case_law_sources": [
+    "ECLI:NL:HR:2018:1683"
+  ],
+  "rejected_as_interpretive_authority": [
+    "ECLI:NL:HR:2024:929"
+  ],
+  "repeated_paragraphs": [],
+  "limitations": [
+    "172 units outside this batch remain uncommented.",
+    "Independent second reading pending.",
+    "Selective case-law research; no exhaustive later-treatment audit.",
+    "Article 344a(2)(2) contains an awkward statutory negation; interpretation expressly identified.",
+    "Length and repeated-paragraph checks do not prove legal quality."
+  ],
+  "unresolved_blockers": [],
+  "link_check": {
+    "missing": []
+  },
+  "checkpoint_build": {
+    "full_builder_exit": 1,
+    "reason": "172 out-of-scope units remain; full builder gate intact.",
+    "reading_checkpoint": "Incomplete checkpoint: 640/812 units, 32 reading files",
+    "rendered_assigned_units": 20,
+    "statutory_text_agreement": 1.0
+  },
+  "validation": {
+    "report": "validation-author-a329-a347-result.json",
+    "assigned_batch_complete": true,
+    "whole_book_ok": false,
+    "remaining_outside_scope": 172,
+    "statutory_text_agreement": 1.0
+  },
+  "author_check": "All twenty source texts and explanations checked, including cross-references 28,31,36,174,316; prosecution limits; each insolvency capacity, period, mental element and consequence; original 344a wording; no duplicated long paragraphs. Author check, not independent review."
+}

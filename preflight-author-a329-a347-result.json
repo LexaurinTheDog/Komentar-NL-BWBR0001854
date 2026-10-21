@@ -1,0 +1,54 @@
+{
+  "complete": true,
+  "scope": [
+    "a329",
+    "a329bis",
+    "a330",
+    "a331",
+    "a332",
+    "a333",
+    "a334",
+    "a336",
+    "a337",
+    "a338",
+    "a339",
+    "a340",
+    "a341",
+    "a342",
+    "a343",
+    "a344",
+    "a344a",
+    "a344b",
+    "a345",
+    "a347"
+  ],
+  "decisive_date": "2026-10-19",
+  "batch_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:01:00.557098+00:00",
+  "version_evidence": {
+    "manifest": "sources/author-a329-a347-manifest.xml",
+    "effective_expression": "2026-07-01_0",
+    "valid_from": "2026-07-01",
+    "valid_to": "9999-12-31",
+    "expressions_checked": 126,
+    "sha512_manifest_matches": true,
+    "canonical_raw_matches": true
+  },
+  "historical_versions_checked": {
+    "previous_raw": "sources/author-a329-a347-previous.xml",
+    "change_map": "sources/author-a329-a347-historical-change-map.json",
+    "no_concatenation": true
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "method": "Entire effective XML tag inventory checked for bijlage and annex; none found. Aanhef and wetsluiting retained."
+    }
+  ],
+  "coverage": "sources/author-a329-a347-coverage.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Whole-book preflight is not replaced; this fresh preflight covers assigned batch and mechanical full inventory."
+  ]
+}

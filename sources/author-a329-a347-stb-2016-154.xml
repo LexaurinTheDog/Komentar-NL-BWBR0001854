@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2016-154/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 8 april 2016 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet op de economische delicten met het oog op het verbeteren van de mogelijkheden tot opsporing en vervolging, alsmede het voorkomen van faillissementsfraude (herziening strafbaarstelling faillissementsfraude)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is aanvullende maatregelen te treffen in het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet op de economische delicten teneinde de mogelijkheden tot bestrijding van faillissementsfraude te verbeteren;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">Het Wetboek van Strafrecht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Onder vernummering van het derde tot vierde lid komen de eerste drie leden van artikel 194 te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Hij die in staat van faillissement is verklaard en wettelijk verplicht is tot het geven van inlichtingen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie, indien hij hetzij zonder geldige reden opzettelijk wegblijft, hetzij weigert de vereiste inlichtingen te geven, hetzij opzettelijk onjuiste of onvolledige inlichtingen geeft.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Met dezelfde straf wordt gestraft hij die in het faillissement van een ander wettelijk verplicht is tot het geven van inlichtingen en hetzij zonder geldige reden opzettelijk wegblijft, hetzij weigert de vereiste inlichtingen te geven, hetzij opzettelijk onjuiste of onvolledige inlichtingen geeft.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Met dezelfde straf wordt gestraft hij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en wettelijk verplicht is tot het geven van inlichtingen, of die op grond van de schuldsaneringsregeling natuurlijke personen ten aanzien van een ander wettelijk verplicht is tot het geven van inlichtingen, hetzij zonder geldige reden opzettelijk wegblijft, hetzij weigert de vereiste inlichtingen te geven, hetzij opzettelijk onjuiste of onvolledige inlichtingen geeft.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>De artikelen 340 tot en met 344 komen te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">340</nr>
+                </kop>
+                <al>Hij die in staat van faillissement is verklaard wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie, indien hij voor de intreding van het faillissement buitensporige uitgaven heeft gedaan, ten gevolge waarvan een of meer schuldeisers in hun verhaalsmogelijkheden zijn benadeeld.</al>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">341</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Hij die in staat van faillissement is verklaard wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie, indien hij, wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>voor of tijdens het faillissement enig goed aan de boedel heeft onttrokken of onttrekt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>voor of tijdens het faillissement een van zijn schuldeisers op enige wijze wederrechtelijk heeft bevoordeeld of bevoordeelt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Met dezelfde straf wordt gestraft hij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, indien hij wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>voor of tijdens de toepassing van de schuldsaneringsregeling enig goed aan de boedel heeft onttrokken of onttrekt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>voor of tijdens de toepassing van de schuldsaneringsregeling een van zijn schuldeisers op enige wijze wederrechtelijk heeft bevoordeeld of bevoordeelt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">342</nr>
+                </kop>
+                <al>Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die voor de intreding van het faillissement, indien dit is gevolgd, buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan heeft meegewerkt of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan een of meer schuldeisers in hun verhaalsmogelijkheden zijn benadeeld.</al>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">343</nr>
+                </kop>
+                <al>Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die wetende dat hierdoor een of meer schuldeisers van de rechtspersoon in hun verhaalsmogelijkheden worden benadeeld:</al>
+                <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>1°.</li.nr>
+                    <al>voor de intreding van het faillissement, indien dit is gevolgd, of tijdens het faillissement enig goed aan de boedel heeft onttrokken of onttrekt;</al>
+                  </li>
+                  <li>
+                    <li.nr>2°.</li.nr>
+                    <al>voor de intreding van het faillissement, indien dit is gevolgd, buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan heeft meegewerkt of daarvoor zijn toestemming heeft gegeven;</al>
+                  </li>
+                  <li>
+                    <li.nr>3°.</li.nr>
+                    <al>voor de intreding van het faillissement, indien dit is gevolgd, of tijdens het faillissement een van de schuldeisers van de rechtspersoon op enige wijze wederrechtelijk heeft bevoordeeld of bevoordeelt.</al>
+                  </li>
+                </lijst>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">344</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vijfde categorie wordt gestraft hij die in geval van een faillissement van een ander, of daaraan voorafgaand indien het faillissement is gevolgd, wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>enig goed aan de boedel onttrekt of heeft onttrokken;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>zich wederrechtelijk bevoordeelt of laat bevoordelen, dan wel zich wederrechtelijk heeft bevoordeeld of heeft laten bevoordelen.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Met dezelfde straf wordt gestraft hij die in geval de schuldsaneringsregeling natuurlijke personen op een ander van toepassing is verklaard, of daaraan voorafgaand indien de toepassing wordt uitgesproken, wetende dat hierdoor een of meer schuldeisers in hun verhaalsmogelijkheden worden benadeeld:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>enig goed aan de boedel onttrekt of heeft onttrokken;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>zich wederrechtelijk bevoordeelt of laat bevoordelen, dan wel zich wederrechtelijk heeft bevoordeeld of zich heeft laten bevoordelen.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Na artikel 344 worden twee artikelen ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">344a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Hij die in staat van faillissement is verklaard, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>indien hij desgevraagd opzettelijk niet terstond, overeenkomstig de op hem rustende wettelijke verplichtingen ter zake, een ingevolge de wettelijke verplichtingen gevoerde en bewaarde administratie en de daartoe behorende boeken, bescheiden en andere gegevensdragers in ongeschonden vorm, zo nodig met de hulpmiddelen om de inhoud binnen redelijke termijn leesbaar te maken, aan de curator verstrekt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>indien hij voor of tijdens het faillissement opzettelijk niet heeft voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de afhandeling wordt bemoeilijkt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Met dezelfde straf wordt gestraft de bestuurder of commissaris van een rechtspersoon, indien:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>hij tijdens het faillissement van de rechtspersoon desgevraagd opzettelijk niet terstond, overeenkomstig de op hem rustende wettelijke verplichtingen ter zake, een ingevolge de wettelijke verplichtingen gevoerde en bewaarde administratie en de daartoe behorende boeken, bescheiden en andere gegevensdragers in ongeschonden vorm, zo nodig met de hulpmiddelen om de inhoud binnen redelijke termijn leesbaar te maken, aan de curator verstrekt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>hij tijdens het faillissement van de rechtspersoon, of voor het faillissement indien dit is gevolgd, opzettelijk niet heeft voldaan aan of heeft bewerkstelligd dat werd voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de afhandeling wordt bemoeilijkt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Hij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie, indien:</al>
+                  <lijst type="expliciet" nummerbreedte="3-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>1°.</li.nr>
+                      <al>hij desgevraagd opzettelijk niet terstond, overeenkomstig de op hem rustende wettelijke verplichtingen ter zake, een ingevolge de wettelijke verplichtingen gevoerde en bewaarde administratie en de daartoe behorende boeken, bescheiden en andere gegevensdragers in ongeschonden vorm, zo nodig met de hulpmiddelen om de inhoud binnen redelijke termijn leesbaar te maken, aan de bewindvoerder verstrekt;</al>
+                    </li>
+                    <li>
+                      <li.nr>2°.</li.nr>
+                      <al>hij voor of tijdens de toepassing van de schuldsaneringsregeling opzettelijk niet heeft voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de schuldsanering wordt bemoeilijkt.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikel>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">344b</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Hij die in staat van faillissement is verklaard aan wiens schuld het te wijten is dat voor of tijdens het faillissement niet is voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de afhandeling wordt bemoeilijkt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De bestuurder of de commissaris van een rechtspersoon aan wiens schuld het te wijten is dat tijdens het faillissement van de rechtspersoon, of voor het faillissement indien het faillissement is gevolgd, niet is voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de afhandeling wordt bemoeilijkt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Hij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie, indien het aan zijn schuld te wijten is dat voor of tijdens de toepassing van de schuldsaneringsregeling niet is voldaan aan de wettelijke verplichtingen tot het voeren van een administratie en het bewaren van de daartoe behorende boeken, bescheiden en andere gegevensdragers, ten gevolge waarvan de schuldsanering wordt bemoeilijkt.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Artikel 347 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">347</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De bestuurder of commissaris van een rechtspersoon die, buiten het geval van de artikelen 342 en 343, buitensporig middelen van de rechtspersoon heeft verbruikt, uitgegeven of vervreemd, dan wel hieraan zijn medewerking heeft verleend of daarvoor zijn toestemming heeft gegeven, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft de bestuurder of commissaris van een rechtspersoon die, buiten het geval van de artikelen 342 en 343, buitensporig middelen van de rechtspersoon verbruikt, uitgeeft of vervreemdt, dan wel hieraan medewerkt of daaraan zijn toestemming geeft, met het oogmerk zichzelf of een ander te bevoordelen, ten gevolge waarvan de rechtspersoon ernstig nadeel ondervindt en het voortbestaan in gevaar komt.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Na artikel 348 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">348a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Onder bestuurder van een rechtspersoon worden voor de toepassing van de bepalingen in deze Titel mede begrepen zij die feitelijk optreden als bestuurder van een rechtspersoon.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Voor de toepassing van de bepalingen in deze Titel worden onder bestuurders van een rechtspersoon tevens begrepen de bestuurders van een vennootschap onder firma en van een commanditaire vennootschap.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">In artikel 67, eerste lid, onderdeel b, van het Wetboek van Strafvordering wordt na «326c, tweede lid,» ingevoegd: 340, 342, 344a, 344b, 347, eerste lid, .</wat>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <wat type="wijziging">De Wet op de economische delicten wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 1, onder 4°, wordt in de zinsnede met betrekking tot het Burgerlijk Wetboek, Boek 2 (Rechtspersonen) voor «19, vijfde lid, tweede volzin,» ingevoegd: 10, eerste lid, .</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 1, onder 4°, wordt in de zinsnede met betrekking tot Boek 3 (Vermogensrecht) van het Burgerlijk Wetboek «artikel 15d, eerste en tweede lid, en artikel 15e, eerste en tweede lid;» vervangen door: de artikelen 15d, eerste en tweede lid, artikel 15e, eerste en tweede lid, en artikel 15i; .</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="33994">33 994</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>Wassenaar,</plaats>
+            <datum isodatum="2016-04-08">8 april 2016</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Veiligheid en Justitie,</functie>
+          <naam>
+            <voornaam>G.A. van der</voornaam>
+            <achternaam>Steur</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2016-04-25">Uitgegeven de <nadruk type="cur">vijfentwintigste</nadruk> april 2016</datum>
+          <ondertekening>
+            <functie>De Minister van Veiligheid en Justitie,</functie>
+            <naam>
+              <voornaam>G.A. van der</voornaam>
+              <achternaam>Steur</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>
