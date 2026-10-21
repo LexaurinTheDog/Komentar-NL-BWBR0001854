@@ -6548,6 +6548,15 @@
       "content_type": "application/xml",
       "root": "toestand",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI3840",
+      "path": "authorities/review-batch41-HR-2009-BI3840.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T01:20:16.843816+00:00",
+      "sha256": "622a94a3862a422dead7082642f5287bc66aca48cecbc3d83232bdbde051abf7",
+      "expected_format_valid": true,
+      "full_judgment_nonempty": true
     }
   ],
   "effective_version_verified": true,

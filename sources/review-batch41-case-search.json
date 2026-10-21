@@ -6,6 +6,14 @@
     "site.uitspraken.rechtspraak.nl \"468a\" \"burgerlijke stand\""
   ],
   "method": "Web search for official judicial full texts plus national corpus content search for 539u, 358a, artikel 468a and artikel 471a. Candidate list retained.",
-  "disposition": "No sufficiently relevant verified full judgment selected. National corpus candidate passages mentioning 358a concerned Faillissementswet, not WvK; excluded without asserting any judicial holding. No case cited in assigned commentary.",
-  "limits": "Selective search only; not an exhaustive negative conclusion about case law."
+  "disposition": "National corpus produced 26 candidates. Most concern Faillissementswet358a. Full local and official HR2009:BI3840 judgment read: concerns Sr414/first-paragraph assistance, not a prosecution under assigned Sr474. Context and limits in separate case card; no direct holding on474 claimed.",
+  "limits": "Selective search only; not an exhaustive negative conclusion about case law.",
+  "national_corpus_candidates": 26,
+  "verified_context_case": {
+    "ecli": "ECLI:NL:HR:2009:BI3840",
+    "full_text_read": true,
+    "card": "authorities/review-batch41-HR-2009-BI3840-card.md",
+    "official_snapshot": "authorities/review-batch41-HR-2009-BI3840.xml",
+    "sha256": "622a94a3862a422dead7082642f5287bc66aca48cecbc3d83232bdbde051abf7"
+  }
 }

@@ -1,11 +1,12 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 1462,
+  "local_links_checked": 1464,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2025:601",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AL6209",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BH0594",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI3840",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI7099",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2011:BN9287",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:963",

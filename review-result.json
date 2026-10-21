@@ -126,7 +126,7 @@
   "limitations": [
     "Only the twelve assigned units independently reviewed; no whole-book completion certification.",
     "Official Sr471 reference discrepancy retained and flagged; no judicial resolution asserted.",
-    "Selective case-law search; no sufficiently relevant verified case adopted.",
+    "Selective case-law search; one full judgment verified for contextual distinction only; no direct holding on an assigned offence adopted.",
     "External Sv and WvK chains verified only as necessary for these units; other external regimes and historical transition law not exhaustively analysed.",
     "Technical validation, length and exact-repetition checks do not establish substantive legal quality. No external professional approval."
   ],
@@ -145,5 +145,6 @@
   "batch_commentary_present": 12,
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
-  "coverage_complete": true
+  "coverage_complete": true,
+  "authority_context_card": "authorities/review-batch41-HR-2009-BI3840-card.md"
 }

@@ -1,0 +1,144 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2009:BI3840
+date: '2009-06-30'
+date_published: '2013-04-05'
+case_number:
+- 00982/07
+procedure:
+- Cassatie
+subject:
+- Strafrecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2009:BI3840'
+references:
+- Wetboek van Strafrecht
+- Wetboek van Strafrecht 414
+- Wetboek van Koophandel
+- Wetboek van Koophandel 785
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2009:BI3840
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI3840
+chars: 9000
+license: Public Domain Mark
+retrieved_at: '2026-10-03T20:47:31Z'
+---
+
+# ECLI:NL:HR:2009:BI3840 – Hoge Raad, 2009-06-30
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2009-06-30
+- **Zaaknummer:** 00982/07
+- **Rechtsgebied:** Strafrecht
+
+## Inhoudsindicatie
+
+Aanvaring a.b.i. art. 785 Wetboek van Koophandel (WvK) jo. art. 414 Sr. Noch de tekst van art. 414 Sr i.v.m. art. 785 WvK, noch de wetsgeschiedenis biedt steun voor de opvatting dat voor een veroordeling t.z.v. art. 414 Sr is vereist dat komt vast te staan dat sprake is geweest van “een aanvaring”.
+
+## Uitspraak
+
+30 juni 2009
+
+Strafkamer
+
+nr. 00982/07
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+op het beroep in cassatie tegen een arrest van het Gerechtshof te Arnhem van 4 januari 2007, nummer 21/005583-05, in de strafzaak tegen:
+
+[Verdachte], geboren te [geboorteplaats] op [geboortedatum] 1963, ten tijde van de betekening van de aanzegging zonder bekende woon- of verblijfplaats hier te lande.
+
+1. Geding in cassatie
+
+Het beroep is ingesteld door de verdachte. Namens deze heeft mr. C.W. Noorduyn, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De Advocaat-Generaal Machielse heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft de hoogte van de opgelegde straf, tot vermindering van die straf naar de gebruikelijke maatstaf en tot verwerping van het beroep voor het overige.
+
+2. Beoordeling van het tweede middel
+
+2.1. Het middel klaagt dat het Hof het verweer dat er geen sprake is geweest van een aanvaring, welke vereist is voor de bewezenverklaring van art. 414 Sr, onvoldoende gemotiveerd heeft verworpen.
+
+2.2. Ten laste van de verdachte heeft het Hof bewezenverklaard dat:
+
+"hij op 5 juni 2003 in de gemeente Ubbergen, op de Waal ter hoogte van kilometer 875, als schipper van het motortankschip [A] opzettelijk de op hem rustende verplichting krachtens artikel 785 Wetboek van Koophandel niet is nagekomen, immers is hij, verdachte, nadat hij wist, dat [slachtoffer] (matroos op voornoemd motortankschip) over boord was gesprongen, met dat motortankschip doorgevaren zonder terstond te melden aan de bevoegde autoriteiten (Rijkswaterstaat) en/of aan de zich in de directe omgeving bevindende schepen, dat [slachtoffer] te water was geraakt (immers heeft hij deze melding pas na 3 minuten en 37 seconden gedaan) en heeft hij niet zo spoedig mogelijk, zijn motortankschip gekeerd teneinde terug te varen naar de plaats waar [slachtoffer] te water is geraakt, om [slachtoffer] hulp te verlenen (immers heeft hij pas na 5 minuten en 21 seconden een aanvang gemaakt met deze keermanoeuvre), waarna de dood van [slachtoffer] is gevolgd."
+
+2.3.1. Blijkens de aan het proces-verbaal van de terechtzitting in hoger beroep gehechte pleitaantekeningen heeft de raadsman van de verdachte aldaar het volgende aangevoerd:
+
+"74. Bij de Wet van 23 mei 1999, Stb 379 en Stb 1991, 127 werden de in art. 414 voorkomende woorden 'als zijn schip bij een aanvaring betrokken is geweest' geschrapt. De reden hiervoor was gelegen in de omstandigheid dat na het schrappen van voornoemde woorden de mogelijkheid openbleef dat geen aanvaring plaats vond.
+
+75. Melai, Wetboek van Strafrecht, supplement 73 aantekening 1a onder art. 414 Sr. schrijft hierover het volgende:
+
+"De nood hoeft a fortiori derhalve niet het gevolg te zijn van de aanvaring met het eigen schip. Anderzijds moet men erkennen dat onze strafbepaling haar inhoud wezenlijk ontleent aan art. 358a en 785 van het wetboek van Koophandel.
+
+Welnu in het eerste lid van beide artikelen (...) wordt nog wel verondersteld, dat een aanvaring geweest is, waarbij andere schepen zijn betrokken doch wordt de betrokkenheid daarbij van het schip van 'onze' schipper als een niet noodzakelijke variant aangemerkt."
+
+76. Ook uit de bewoordingen van het tweede lid van art. 358a en 785 van het Wetboek van Koophandel 'Bovendien (...) aan de andere bij de aanvaring betrokken schepen' blijkt dat lid 1 ziet op een aanvaringssituatie.
+
+77. Blijkens de wetsgeschiedenis, zoals Melai beschrijft, wordt aldus in de artt. 358a en 785 Wetboek van Koophandel uitgegaan van een aanvaring tussen schepen, waarbij het schip van de schipper in kwestie al dan niet betrokken is.
+
+78. Art. 414 haalt art. 785 Wetboek van Koophandel binnen waardoor de in art. 785 Wetboek van Koophandel vereiste aanvaring een delictsbestanddeel wordt van art. 414 Sr. Gelet op het feit dat in de onderhavige zaak geen sprake is van een aanvaring dient vrijspraak te volgen."
+
+2.3.2. Het Hof heeft het volgende overwogen:
+
+"Anders dan door de raadsman is betoogd, is het voor strafbaarheid niet vereist dat de schipper bij een aanvaring betrokken is geweest. Reeds de tekst van het eerste lid van artikel 785 van het Wetboek van Koophandel staat aan deze opvatting, die de bepaling van veel praktisch nut zou beroven, al in de weg."
+
+2.4. Bij de beoordeling van het middel zijn de volgende wettelijke bepalingen van belang:
+
+- art. 414 Sr:
+
+"De schipper die de krachtens het eerste lid van artikel 358a of van artikel 785 van het Wetboek van Koophandel op hem rustende verplichting tot hulpverlening, opzettelijk niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie."
+
+- art. 785, eerste lid, Wetboek van Koophandel (hierna: WvK):
+
+"De schipper is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen."
+
+- art. 8 Verdrag tot het vaststellen van enige eenvormige regelen betreffende aanvaring (Trb. 1953, 124; hierna Zeeaanvaringsverdrag), in de Nederlandse vertaling:
+
+"Na eene aanvaring is de kapitein van ieder der in aanvaring geweest zijnde schepen gehouden om, voor zooverre hij zulks kan doen zonder ernstig gevaar voor zijn schip, zijne bemanning en zijne passagiers, hulp te verleenen aan het andere schip en deszelfs bemanning en passagiers.
+
+Hij is, evenzeer binnen de grenzen van het mogelijke, gehouden om aan het andere schip op te geven den naam van zijn eigen schip en de haven waar het thuis behoort, alsmede de plaatsen vanwaar het komt en waarheen het gaat.
+
+De reeder is ter zake van de enkele overtreding der voorgaande bepalingen niet verantwoordelijk."
+
+- art. 11 Verdrag tot het vaststellen van enige eenvormige regelen betreffende hulp en berging (Trb. 1953, 125; hierna Hulpverleningsverdrag), in de Nederlandse vertaling:
+
+"Ieder kapitein is gehouden, voor zooverre hij zulks kan doen zonder ernstig gevaar voor zijn schip, zijne bemanning en zijne passagiers hulp te verleenen aan alle personen, zelfs vijandelijke, welke hij in zee aantreft in levensgevaar.
+
+De reeder is niet verantwoordelijk voor overtredingen van vorenstaand voorschrift."
+
+2.5. De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de Wet van 23 mei 1990, houdende Invoeringswet Boek 8 B.W., tweede gedeelte (Stb. 1990, 379), houdt ten aanzien van art. 414 Sr het volgende in:
+
+"Deze strafbepaling steunt naast artikel 8 van het Zeeaanvaringsverdrag (Trb. 1953, 124) op artikel 11 van het Hulpverleningsverdrag (Trb. 1953, 125) waarbij de beperking, dat het schip bij een aanvaring betrokken moet zijn geweest, niet voorkomt. Ook de gehandhaafde artikelen 358a en 785 van het Wetboek van Koophandel laten de mogelijkheid open, dat geen aanvaring plaats vond." (Kamerstukken II, 1986-1987, 19979, nr. 3, blz. 127)
+
+2.6. Noch de tekst van art. 414 Sr in verbinding met art. 785 WvK noch de wetsgeschiedenis biedt steun voor de opvatting dat voor een veroordeling ter zake van art. 414 Sr is vereist dat komt vast te staan dat sprake is geweest van "een aanvaring". Het oordeel van het Hof is derhalve juist. Het middel is tevergeefs vastgesteld.
+
+3. Beoordeling van het eerste middel
+
+Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81 RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+
+4. Ambtshalve beoordeling van de bestreden uitspraak
+
+De Hoge Raad doet uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot vermindering van de aan de verdachte opgelegde taakstraf in de vorm van een werkstraf van 240 uren, subsidiair 120 dagen hechtenis.
+
+5. Slotsom
+
+Nu geen van de middelen tot cassatie kan leiden, terwijl de Hoge Raad geen andere dan de hiervoor onder 4 genoemde grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.
+
+6. Beslissing
+
+De Hoge Raad:
+
+vernietigt de bestreden uitspraak, maar uitsluitend wat betreft het aantal uren te verrichten taakstraf en de duur van de vervangende hechtenis;
+
+vermindert het aantal uren taakstraf in die zin dat dit 228 uren bedraagt;
+
+vermindert de duur van de vervangende hechtenis in die zin dat deze 114 dagen beloopt;
+
+verwerpt het beroep voor het overige.
+
+Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en C.H.W.M. Sterk, in bijzijn van de waarnemend griffier L.J.J. Okker-Braber, en uitgesproken op 30 juni 2009.

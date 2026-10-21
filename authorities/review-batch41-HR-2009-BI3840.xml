@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2009:BI3840</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T03:50:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BI3840</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2009-06-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">00982/07</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2009:BI3840" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2009:BI3840</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854">Wetboek van Strafrecht</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001854&amp;artikel=414">Wetboek van Strafrecht 414</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001838">Wetboek van Koophandel</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001838&amp;artikel=785">Wetboek van Koophandel 785</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2009, 882</rdf:li>
+          <rdf:li>NJ 2009, 366</rdf:li>
+          <rdf:li>NJB 2009, 1368</rdf:li>
+          <rdf:li>NbSr 2009/286</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2009:BI3840">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2009:BI3840</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T04:37:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2009-07-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2009:BI3840 Hoge Raad , 30-06-2009 / 00982/07</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2009:BI3840:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Aanvaring a.b.i. art. 785 Wetboek van Koophandel (WvK) jo. art. 414 Sr. Noch de tekst van art. 414 Sr i.v.m. art. 785 WvK, noch de wetsgeschiedenis biedt steun voor de opvatting dat voor een veroordeling t.z.v.  art. 414 Sr is vereist dat komt vast te staan dat sprake is geweest van “een aanvaring”.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2009:BI3840:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>30 juni 2009</para>
+      <para>Strafkamer</para>
+      <para>nr. 00982/07</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof te Arnhem van 4 januari 2007, nummer 21/005583-05, in de strafzaak tegen:</para>
+      <para>[Verdachte], geboren te [geboorteplaats] op [geboortedatum] 1963, ten tijde van de betekening van de aanzegging zonder bekende woon- of verblijfplaats hier te lande.</para>
+    </parablock>
+    <para />
+    <para>1. Geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft mr. C.W. Noorduyn, advocaat te 's-Gravenhage, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit. </para>
+      <para>De Advocaat-Generaal Machielse heeft geconcludeerd tot vernietiging van het bestreden arrest wat betreft de hoogte van de opgelegde straf, tot vermindering van die straf naar de gebruikelijke maatstaf en tot verwerping van het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para>2. Beoordeling van het tweede middel</para>
+    <para />
+    <para>2.1. Het middel klaagt dat het Hof het verweer dat er geen sprake is geweest van een aanvaring, welke vereist is voor de bewezenverklaring van art. 414 Sr, onvoldoende gemotiveerd heeft verworpen.</para>
+    <para />
+    <parablock>
+      <para>2.2. Ten laste van de verdachte heeft het Hof bewezenverklaard dat:</para>
+      <para>"hij op 5 juni 2003 in de gemeente Ubbergen, op de Waal ter hoogte van kilometer 875, als schipper van het motortankschip [A] opzettelijk de op hem rustende verplichting krachtens artikel 785 Wetboek van Koophandel niet is nagekomen, immers is hij, verdachte, nadat hij wist, dat [slachtoffer] (matroos op voornoemd motortankschip) over boord was gesprongen, met dat motortankschip doorgevaren zonder terstond te melden aan de bevoegde autoriteiten (Rijkswaterstaat) en/of aan de zich in de directe omgeving bevindende schepen, dat [slachtoffer] te water was geraakt (immers heeft hij deze melding pas na 3 minuten en 37 seconden gedaan) en heeft hij niet zo spoedig mogelijk, zijn motortankschip gekeerd teneinde terug te varen naar de plaats waar [slachtoffer] te water is geraakt, om [slachtoffer] hulp te verlenen (immers heeft hij pas na 5 minuten en 21 seconden een aanvang gemaakt met deze keermanoeuvre), waarna de dood van [slachtoffer] is gevolgd." </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.3.1. Blijkens de aan het proces-verbaal van de terechtzitting in hoger beroep gehechte pleitaantekeningen heeft de raadsman van de verdachte aldaar het volgende aangevoerd:</para>
+      <para>"74. Bij de Wet van 23 mei 1999, Stb 379 en Stb 1991, 127 werden de in art. 414 voorkomende woorden 'als zijn schip bij een aanvaring betrokken is geweest' geschrapt. De reden hiervoor was gelegen in de omstandigheid dat na het schrappen van voornoemde woorden de mogelijkheid openbleef dat geen aanvaring plaats vond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>75. Melai, Wetboek van Strafrecht, supplement 73 aantekening 1a onder art. 414 Sr. schrijft hierover het volgende:</para>
+      <para>"De nood hoeft a fortiori derhalve niet het gevolg te zijn van de aanvaring met het eigen schip. Anderzijds moet men erkennen dat onze strafbepaling haar inhoud wezenlijk ontleent aan art. 358a en 785 van het wetboek van Koophandel. </para>
+      <para>Welnu in het eerste lid van beide artikelen (...) wordt nog wel verondersteld, dat een aanvaring geweest is, waarbij andere schepen zijn betrokken doch wordt de betrokkenheid daarbij van het schip van 'onze' schipper als een niet noodzakelijke variant aangemerkt."</para>
+    </parablock>
+    <para />
+    <para>76. Ook uit de bewoordingen van het tweede lid van art. 358a en 785 van het Wetboek van Koophandel 'Bovendien (...) aan de andere bij de aanvaring betrokken schepen' blijkt dat lid 1 ziet op een aanvaringssituatie.</para>
+    <para />
+    <para>77. Blijkens de wetsgeschiedenis, zoals Melai beschrijft, wordt aldus in de artt. 358a en 785 Wetboek van Koophandel uitgegaan van een aanvaring tussen schepen, waarbij het schip van de schipper in kwestie al dan niet betrokken is.</para>
+    <para />
+    <para>78. Art. 414 haalt art. 785 Wetboek van Koophandel binnen waardoor de in art. 785 Wetboek van Koophandel vereiste aanvaring een delictsbestanddeel wordt van art. 414 Sr. Gelet op het feit dat in de onderhavige zaak geen sprake is van een aanvaring dient vrijspraak te volgen."</para>
+    <para />
+    <parablock>
+      <para>2.3.2. Het Hof heeft het volgende overwogen:</para>
+      <para>"Anders dan door de raadsman is betoogd, is het voor strafbaarheid niet vereist dat de schipper bij een aanvaring betrokken is geweest. Reeds de tekst van het eerste lid van artikel 785 van het Wetboek van Koophandel staat aan deze opvatting, die de bepaling van veel praktisch nut zou beroven, al in de weg." </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.4. Bij de beoordeling van het middel zijn de volgende wettelijke bepalingen van belang:</para>
+      <para>- art. 414 Sr:</para>
+      <para>"De schipper die de krachtens het eerste lid van artikel 358a of van artikel 785 van het Wetboek van Koophandel op hem rustende verplichting tot hulpverlening, opzettelijk niet nakomt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- art. 785, eerste lid, Wetboek van Koophandel (hierna: WvK):</para>
+      <para>"De schipper is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- art. 8 Verdrag tot het vaststellen van enige eenvormige regelen betreffende aanvaring (Trb. 1953, 124; hierna Zeeaanvaringsverdrag), in de Nederlandse vertaling:</para>
+      <para>"Na eene aanvaring is de kapitein van ieder der in aanvaring geweest zijnde schepen gehouden om, voor zooverre hij zulks kan doen zonder ernstig gevaar voor zijn schip, zijne bemanning en zijne passagiers, hulp te verleenen aan het andere schip en deszelfs bemanning en passagiers.</para>
+      <para>Hij is, evenzeer binnen de grenzen van het mogelijke, gehouden om aan het andere schip op te geven den naam van zijn eigen schip en de haven waar het thuis behoort, alsmede de plaatsen vanwaar het komt en waarheen het gaat. </para>
+      <para>De reeder is ter zake van de enkele overtreding der voorgaande bepalingen niet verantwoordelijk." </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- art. 11 Verdrag tot het vaststellen van enige eenvormige regelen betreffende hulp en berging (Trb. 1953, 125; hierna Hulpverleningsverdrag), in de Nederlandse vertaling:</para>
+      <para>"Ieder kapitein is gehouden, voor zooverre hij zulks kan doen zonder ernstig gevaar voor zijn schip, zijne bemanning en zijne passagiers hulp te verleenen aan alle personen, zelfs vijandelijke, welke hij in zee aantreft in levensgevaar. </para>
+      <para>De reeder is niet verantwoordelijk voor overtredingen van vorenstaand voorschrift."</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.5. De memorie van toelichting bij het wetsvoorstel dat heeft geleid tot de Wet van 23 mei 1990, houdende Invoeringswet Boek 8 B.W., tweede gedeelte (Stb. 1990, 379), houdt ten aanzien van art. 414 Sr het volgende in:</para>
+      <para>"Deze strafbepaling steunt naast artikel 8 van het Zeeaanvaringsverdrag (Trb. 1953, 124) op artikel 11 van het Hulpverleningsverdrag (Trb. 1953, 125) waarbij de beperking, dat het schip bij een aanvaring betrokken moet zijn geweest, niet voorkomt. Ook de gehandhaafde artikelen 358a en 785 van het Wetboek van Koophandel laten de mogelijkheid open, dat geen aanvaring plaats vond." (Kamerstukken II, 1986-1987, 19979, nr. 3, blz. 127)</para>
+    </parablock>
+    <para />
+    <para>2.6. Noch de tekst van art. 414 Sr in verbinding met art. 785 WvK noch de wetsgeschiedenis biedt steun voor de opvatting dat voor een veroordeling ter zake van art. 414 Sr is vereist dat komt vast te staan dat sprake is geweest van "een aanvaring". Het oordeel van het Hof is derhalve juist. Het middel is tevergeefs vastgesteld.</para>
+    <para />
+    <para>3. Beoordeling van het eerste middel</para>
+    <para />
+    <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81 RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    <para />
+    <para>4. Ambtshalve beoordeling van de bestreden uitspraak</para>
+    <para />
+    <para>De Hoge Raad doet uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Dat brengt mee dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM is overschreden. Dit moet leiden tot vermindering van de aan de verdachte opgelegde taakstraf in de vorm van een werkstraf van 240 uren, subsidiair 120 dagen hechtenis.</para>
+    <para />
+    <para>5. Slotsom</para>
+    <para />
+    <para>Nu geen van de middelen tot cassatie kan leiden, terwijl de Hoge Raad geen andere dan de hiervoor onder 4 genoemde grond aanwezig oordeelt waarop de bestreden uitspraak ambtshalve zou behoren te worden vernietigd, brengt hetgeen hiervoor is overwogen mee dat als volgt moet worden beslist.</para>
+    <para />
+    <para>6. Beslissing</para>
+    <para />
+    <para>De Hoge Raad:</para>
+    <para />
+    <parablock>
+      <para>vernietigt de bestreden uitspraak, maar uitsluitend wat betreft het aantal uren te verrichten taakstraf en de duur van de vervangende hechtenis;</para>
+      <para>vermindert het aantal uren taakstraf in die zin dat dit 228 uren bedraagt;</para>
+      <para>vermindert de duur van de vervangende hechtenis in die zin dat deze 114 dagen beloopt;</para>
+      <para>verwerpt het beroep voor het overige.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president A.J.A. van Dorst als voorzitter, en de raadsheren J. de Hullu en C.H.W.M. Sterk, in bijzijn van de waarnemend griffier L.J.J. Okker-Braber, en uitgesproken op 30 juni 2009.</para>
+  </uitspraak>
+</open-rechtspraak>

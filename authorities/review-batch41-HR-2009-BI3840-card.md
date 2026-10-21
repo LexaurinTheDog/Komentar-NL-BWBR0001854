@@ -1,0 +1,7 @@
+# HR 30 juni 2009 — 00982/07 — ECLI:NL:HR:2009:BI3840
+
+[Officiële volledige tekst](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2009:BI3840); [snapshot](review-batch41-HR-2009-BI3840.xml); [lokale corpustekst](review-batch41-HR-2009-BI3840-local.md). Beide volledige rechterlijke teksten gelezen; geen conclusie van de advocaat-generaal als rechterlijk oordeel gebruikt.
+
+Context: vervolging onder artikel 414 Sr na het overboord springen van een matroos, gevolgd door diens dood. De klacht betrof het ontbreken van een aanvaring. R.o. 2.2 bevat de bewezenverklaring; 2.3.1 geeft het verweer en geciteerde literatuur weer, geen oordeel van de Hoge Raad. R.o. 2.4 citeert de toenmalige wettelijke bepalingen; 2.5 de wetsgeschiedenis. In 2.6 verwerpt de Hoge Raad het vereiste van een aanvaring voor de hulpverleningsplicht van 414 in verbinding met 785 WvK. R.o. 4–6 betreffen termijnoverschrijding, strafvermindering en verwerping voor het overige.
+
+Relevantie voor de toegewezen eenheid 474: uitsluitend afbakening van de hulpverleningsplicht uit de eerste leden van WvK 358a/785 tegenover de informatieplichten uit de tweede leden. De huidige eerste en tweede leden zijn afzonderlijk geverifieerd in de officiële WvK-XML. Het arrest beslist niet over een vervolging onder 474 en rechtvaardigt niet dat de daar relevante informatieplicht ook zonder aanvaring geldt. Daarom is het niet als directe rechtspraak over 474 in de toelichting aangehaald. Geen nieuwe uitleg van onbesliste vragen of claim van uitputtende rechtspraakcontrole.

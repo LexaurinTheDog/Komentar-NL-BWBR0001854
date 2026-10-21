@@ -5600,8 +5600,8 @@
     },
     {
       "path": "sources/review-batch41-case-search.json",
-      "bytes": 795,
-      "sha256": "8a83aff206183d12c4b716c9089c0b3c955244f7c67cdc6ef3a17103f3bc125a"
+      "bytes": 1204,
+      "sha256": "4b012ac650e89fd070cddc295a0842d62c900b8e4854f765306059353117df2b"
     },
     {
       "path": "sources/review-batch41-commentary-change-map.json",
@@ -5650,8 +5650,8 @@
     },
     {
       "path": "sources/review-batch41-support-fetch.json",
-      "bytes": 2179,
-      "sha256": "1292b50a48343ef13057293842e1a92b383f1f738977cd36d5ab31da7bfff0cf"
+      "bytes": 2568,
+      "sha256": "fc1db26e51ba6ff9fd1aab165be618ce5e2a0e0cf44fe10216b344987ebec261"
     },
     {
       "path": "sources/review-batch41-sv-effective.xml",
@@ -5695,8 +5695,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 346835,
-      "sha256": "f41e9af8491ce89ee7c6eea266409e9f2bc8c241ec62d45b1a2f02b182f2322c"
+      "bytes": 347241,
+      "sha256": "f87473ce7e630e69b9f3169fa7b7def90d5bb1c7e947e9057d1c903375ca89e8"
     },
     {
       "path": "authorities/ECLI-NL-HR-2010-BK9221.txt",
@@ -7337,6 +7337,26 @@
       "path": "authorities/review-batch40-local-ECLI-NL-HR-2020-78.md",
       "bytes": 21231,
       "sha256": "8dc7faffe4d082f3c47ad2fc81d31ef57de8336930e6056d50fe97a3cf5d3067"
+    },
+    {
+      "path": "authorities/review-batch41-HR-2009-BI3840-card.md",
+      "bytes": 1560,
+      "sha256": "281b34ef1fe5d92803c69041543b2323fb8827f40aa0f042e6b0f308b8256878"
+    },
+    {
+      "path": "authorities/review-batch41-HR-2009-BI3840-local.md",
+      "bytes": 10144,
+      "sha256": "ac9db784000becd5e9547d2b688b9a59ebe7a3c2b1331a8fc383f498829b0c25"
+    },
+    {
+      "path": "authorities/review-batch41-HR-2009-BI3840.txt",
+      "bytes": 9516,
+      "sha256": "9621ba6245af5feddf8dbe99fe5c3472e297e51801bf7066bb416b95f80293a3"
+    },
+    {
+      "path": "authorities/review-batch41-HR-2009-BI3840.xml",
+      "bytes": 15728,
+      "sha256": "622a94a3862a422dead7082642f5287bc66aca48cecbc3d83232bdbde051abf7"
     },
     {
       "path": "authorities/search-log.json",
