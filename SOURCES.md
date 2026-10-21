@@ -1,3 +1,7 @@
+# Bronverantwoording — samengestelde conceptuitgave
+
+De onderstaande bronnotities zijn cumulatief opgebouwd. Aantallen genoemde kaarten in oudere passages beschrijven hun toenmalige checkpoint. Het actuele bestandsmanifest omvat alle behouden bron- en autoriteitsbestanden. De laatste versiecontrole staat in [het versiebewijs van 21 oktober 2026](sources/review-batch41-version-evidence.json); volledige dekkings- en tekstcontroles zijn bij de samenstelling opnieuw uitgevoerd.
+
 # Bronverantwoording — controle 19 oktober 2026
 
 De officiële toestand is [2026-07-01_0](https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml), behouden in [intake-version.xml](sources/intake-version.xml). De datum is niet uitsluitend afgeleid uit de ophaaltijd. Het [manifest](sources/bwb-manifest.xml) noemt deze toestand als laatste bestand met geldingsinterval vanaf 1 juli 2026 tot 9999-12-31; de officieel opgenomen SHA-512 is met het bestand vergeleken. De [vastgelegde informatiepagina](sources/firecrawl-information.json) vermeldt raadpleging op 19 oktober 2026 en «Geldend van 01-07-2026 t/m heden». Voorziene toekomstige wijzigingen worden daar apart gemeld en zijn niet in de actuele tekst gemengd.

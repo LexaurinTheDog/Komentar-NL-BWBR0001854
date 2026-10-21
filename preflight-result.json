@@ -19,20 +19,8 @@
     }
   ],
   "unresolved_blockers": [],
-  "scope": [
-    "a468a",
-    "a469",
-    "a470",
-    "a470a",
-    "a471",
-    "a471a",
-    "a472",
-    "a474",
-    "a475",
-    "a476",
-    "a479",
-    "wetsluiting"
-  ],
+  "scope": "Complete source inventory checked at finalization: 812 units; latest actual official fetch reused from batch41.",
   "coverage": "sources/review-batch41-coverage.json",
-  "entry_page_limitation": "Dated wetten.overheid.nl page returned 429 via browser; official repository manifest, XML and WTI fetched HTTP 200 and format/hash validated. Effective version established by manifest intervals, not fetch date."
+  "entry_page_limitation": "Dated wetten.overheid.nl page returned 429 via browser; official repository manifest, XML and WTI fetched HTTP 200 and format/hash validated. Effective version established by manifest intervals, not fetch date.",
+  "finalization_coverage": "completeness-report.json"
 }

@@ -7170,5 +7170,11 @@
       }
     ],
     "preflight": "preflight-author-batch41-result.json"
+  },
+  "finalization": {
+    "latest_actual_official_fetch": "sources/review-batch41-fetch-log.json",
+    "version_evidence": "sources/review-batch41-version-evidence.json",
+    "source_inventory_rechecked": "completeness-report.json",
+    "note": "Finalization reuses preserved official response bodies; does not claim a new network fetch."
   }
 }

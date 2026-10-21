@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_review_complete",
+  "stage": "finalization_pending_validation",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -30,7 +30,7 @@
   "total_units": 812,
   "statutory_articles": 810,
   "completed_units": 812,
-  "completed_scope": "All statutory units have commentary; assigned closing twelve units authored, independent second pass pending. No whole-book completion certification.",
+  "completed_scope": "All commentary assembled; 41 ledger-reviewed batches. Draft; finalizer did not repeat substantive review.",
   "remaining_units": 0,
   "next_unit": null,
   "commentary_chars": 1326788,
@@ -126,43 +126,14 @@
     "ECLI:NL:RBROT:2013:8265"
   ],
   "case_law_scope": "Selective primary-source research; latest author batch reads HR 2015:1787 for article 447e and HR 2020:78 for article 461. No full judgment returned for HR 1997:ZD0669; no holding attributed. No exhaustive coverage.",
-  "build_result": {
-    "returncode": 1,
-    "stdout": "",
-    "stderr": "CHYBÍ komentář k 12 jednotkám, např.: ['a468a', 'a469', 'a470', 'a470a', 'a471', 'a471a', 'a472', 'a474', 'a475', 'a476']\n",
-    "scope": "Unchanged complete-book builder; missing out-of-batch commentary remains an expected blocker."
-  },
-  "validation_result": {
-    "repo": "Komentar-NL-BWBR0001854",
-    "units": 812,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 1343211,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  },
+  "build_result": null,
+  "validation_result": null,
   "remaining_limitations": [
-    "Full shared build and strict validation cannot pass until these units are written.",
-    "The reading output is an explicitly incomplete checkpoint, not a completed book.",
-    "Case-law research and external cross-reference research remain selective.",
-    "74b/Sv12k mismatch explicitly documented, not silently repaired; concrete revival-order interpretation remains case-specific.",
-    "External WBS catalog hash mismatch and Wwft outdated definition reference documented in sources/review-batch12-source-anomalies.json.",
-    "Batch13discloses Sr83b/138breference anomaly and externalATW/treatycataloghashmismatches; exactavailableevidenceandlimitsrecorded.",
-    "Selective case-law research; historical Assen holding not current limitation law; Rotterdam reasoning/dictum difference disclosed.",
-    "Only available full judgment text read; Rotterdam referenced evidence annex II unavailable and not reconstructed.",
-    "Technical checks of length, links and repeated paragraphs do not establish legal correctness.",
-    "472 out-of-scope statutory units still lack commentary.",
-    "Selective case-law coverage; Antilliaanse comparison and historical sentence issue explicitly bounded.",
-    "Treaty catalog digest mismatches disclosed with fresh identical official bodies and published-text corroboration.",
-    "Technical length, link and repetition checks do not prove legal quality.",
-    "472 out-of-scope units still lack commentary; no whole-book completion claimed.",
-    "Selective primary case research; seven decisions used including one previously preserved case re-read. Six fresh case cards, with HR806 limited to procedural outcome.",
-    "No reasoned substantive kraken authority added; a summary-only or Article81RO disposition is not presented as such.",
-    "Article137c Handvest reference preserved as a statutory citation; constituent treaty crimes are not independently expounded.",
-    "Underlying evidence annexes, confidential filings and subsequent cases not reconstructed.",
-    "The assigned twenty units129–138a passed their bounded second reading;472 other units still lack commentary.",
-    "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
-    "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
+    "Selectief rechtspraakonderzoek; geen uitputtende controle van alle latere uitspraken.",
+    "Externe uitvoerings-, verdrags- en historische regels zijn slechts binnen de uitdrukkelijk vermelde onderzoeksgrenzen behandeld.",
+    "Bronafwijkingen en catalogusdigestafwijkingen zijn gedocumenteerd in de afzonderlijke batchrapporten; de officiële wettekst is niet stilzwijgend gerepareerd.",
+    "Deze samenstelling is geen nieuwe onafhankelijke inhoudelijke lezing en geen externe professionele goedkeuring.",
+    "Technische tekst-, lengte-, link- en herhalingscontroles bewijzen geen juridische juistheid."
   ],
   "updated_at": "2026-10-21T01:19:42.687607+00:00",
   "preflight": {

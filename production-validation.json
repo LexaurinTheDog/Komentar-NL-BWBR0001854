@@ -1,0 +1,19 @@
+{
+  "repo": "Komentar-NL-BWBR0001854",
+  "units": 812,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 257597,
+  "errors": [
+    "krátký/chybějící komentář u 548 jednotek: ['a92(0<400)', 'a93(0<400)', 'a94(0<400)', 'a95(0<400)', 'a95a(0<400)', 'a96(0<400)', 'a97(0<400)', 'a97a(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "independent_coverage": {
+    "ok": true,
+    "expected_units": 812,
+    "parsed_units": 812,
+    "missing": [],
+    "extra": [],
+    "evidence_file": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001854/coverage-evidence.json"
+  }
+}

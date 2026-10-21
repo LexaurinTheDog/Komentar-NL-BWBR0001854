@@ -1,0 +1,150 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 12,
+  "reviewed_ids": [
+    "a468a",
+    "a469",
+    "a470",
+    "a470a",
+    "a471",
+    "a471a",
+    "a472",
+    "a474",
+    "a475",
+    "a476",
+    "a479",
+    "wetsluiting"
+  ],
+  "reviewed_at": "2026-10-21T01:19:42.687607+00:00",
+  "changed_ids": [
+    "a470a",
+    "a471",
+    "a471a",
+    "a474"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a468a",
+      "disposition": "retained_after_review",
+      "finding": "Functionele uitbreiding uitsluitend466–468, wettelijke bewaartaak en geen eigen straf gecontroleerd;465 terecht uitgesloten.",
+      "statutory_sha256": "36bbc50495079cf513ccd783e67fc57a47709ac3d403d844aba3a34c07bd64a2",
+      "commentary_sha256": "85ad2dd355f2774b63808b26689818dc9c94555c787fd50222eed8e89a0231c5",
+      "commentary_chars": 1490
+    },
+    {
+      "id": "a469",
+      "disposition": "retained_after_review",
+      "finding": "Vervallen plaats behouden; geen actuele norm of reconstructie uit naburige artikelen. Historische toepassing afzonderlijk te bepalen.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "0d19c6028df2de87afcc9efc78742347f97f9fb3d4b15d19e519da0385824495",
+      "commentary_chars": 611
+    },
+    {
+      "id": "a470",
+      "disposition": "retained_after_review",
+      "finding": "Schipper, wettelijke documentcategorieën en aanwezigheid aan boord gecontroleerd; eerste categorie en ontbreken expliciet Nederlands-vereiste juist.",
+      "statutory_sha256": "ce9f8341b7bf5c01899aab851be3bf211a54e40937f45469dad8ba10a79ee542",
+      "commentary_sha256": "adba126d1660f1480e3975468150c0e3d03ad3552e2400b33b8fe021aa1a17cf",
+      "commentary_chars": 1530
+    },
+    {
+      "id": "a470a",
+      "disposition": "corrected",
+      "finding": "Vervallen plaats en officiële overgangsrechtelijke bronnoot gecontroleerd. Verwijzing naar artikelXII lid1 Stb2011/394 nu expliciet vermeld; geen ongelezen overgangsregel uitgelegd.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "e82dfc88115f65aac670f60d50c889137cd0e4e0e816f8433958762e4b45ac32",
+      "commentary_chars": 853
+    },
+    {
+      "id": "a471",
+      "disposition": "corrected",
+      "finding": "Alle vijf onderdelen en recidive gelezen. Onjuiste voorstelling van539u als registerbepaling hersteld: officiële verwijzingsdiscrepantie met539v expliciet, zonder wettekst te veranderen. Tweejaarstermijn en strafmaxima juist.",
+      "statutory_sha256": "918f7b6d39850b3792cc2ebc887e4272574570a77d5b4ebeac41c44b35b1ac81",
+      "commentary_sha256": "e238fdeca507aad19b03091722d5135b5cb876468ca263e21a5cdb23ac207209",
+      "commentary_chars": 2600
+    },
+    {
+      "id": "a471a",
+      "disposition": "corrected",
+      "finding": "Wezenlijke inhoudscorrectie:539u betreft onverwijlde kennisgeving ernstige misdrijven, niet een registerverplichting. Alle drie leden en ketens136a/539b gelezen; installatie, personalia en aanwijzingen uitgewerkt. Drie maanden/tweede categorie juist.",
+      "statutory_sha256": "d5cec55d78edffd06ff473ece4fb49e11e057cc608736dbb915853378a70f940",
+      "commentary_sha256": "519c0c8ba2ae7bcd2a8589ba708ed0b2758e043f09320e2c5f8f68cb62650f8f",
+      "commentary_chars": 1987
+    },
+    {
+      "id": "a472",
+      "disposition": "retained_after_review",
+      "finding": "Nederlandse schipper/vaartuig, zeereis, geboorte/sterfte en inschrijving/kennisgeving onderscheiden. Eerste categorie juist; geen onbewezen vormvereisten toegevoegd.",
+      "statutory_sha256": "221bb9d3671326d9821ff659c35d1883d2fd3644a683c17013d8ae15baa8c32a",
+      "commentary_sha256": "a3eb01dd2837982bf7680ecaea6c726b0531c5e73994365852673bb064cb93eb",
+      "commentary_chars": 1541
+    },
+    {
+      "id": "a474",
+      "disposition": "corrected",
+      "finding": "Tweede leden van beide WvK-artikelen volledig gelezen. Informatie na aanvaring, mogelijkheid tot verstrekken en extra registerbewijsinzage bij785 nu concreet uitgelegd; hulpverlening eerste leden en414 onderscheiden.",
+      "statutory_sha256": "e96772748d33b8ee9bfd2f25b5887e2b682c159fdcae3a690203c8a3de574fe0",
+      "commentary_sha256": "28ca0da1efaf2671a960fa8dc644a090a8bee71d5d3ab352979302573140ba0a",
+      "commentary_chars": 2078
+    },
+    {
+      "id": "a475",
+      "disposition": "retained_after_review",
+      "finding": "Vervallen plaats en tijdsrechtelijk voorbeeld gelezen; geen actuele scheepvaartovertreding toegeschreven.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "4452a7fd80abd411da9bcb531265d58eb6f76727cb9c5c2f75073fda7473d4e7",
+      "commentary_chars": 641
+    },
+    {
+      "id": "a476",
+      "disposition": "retained_after_review",
+      "finding": "Vervallen plaats en historische bronkritiek gelezen; geen analogische reststrafbaarstelling aangenomen.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "779e28bab6cc3b44e0c31833f5d4ed9b7959b0ccb0e338bc745551d46f4f1639",
+      "commentary_chars": 709
+    },
+    {
+      "id": "a479",
+      "disposition": "retained_after_review",
+      "finding": "Uitgestelde inwerkingtredingsregeling bij wet onderscheiden van oorspronkelijke ondertekening en latere wijzigingen; geen ongeverifieerde invoeringsdatum toegevoegd.",
+      "statutory_sha256": "14169d03b3067c0efe1262df600a99299bed68a278faedaa1a3cac0d97f720d6",
+      "commentary_sha256": "1f3405930d813e46aa41235229322d900b6763773c231bb617aa928a78bf7ffe",
+      "commentary_chars": 1382
+    },
+    {
+      "id": "wetsluiting",
+      "disposition": "retained_after_review",
+      "finding": "Gehele slottekst en ondertekeningen gelezen. Oorspronkelijke data3/5maart1881 niet tot actuele wijzigingsdata gemaakt; publicatiebevel niet als nieuwe strafbevoegdheid uitgelegd.",
+      "statutory_sha256": "e909d43343c35a911cd43b132588fd0c6b8d23cefb8b628f6c87d828028b8429",
+      "commentary_sha256": "e690decb1f7eb45ece5c8d6f6e8ea729c28c90f06a716406daf4db829c86da0a",
+      "commentary_chars": 1478
+    }
+  ],
+  "limitations": [
+    "Only the twelve assigned units independently reviewed; no whole-book completion certification.",
+    "Official Sr471 reference discrepancy retained and flagged; no judicial resolution asserted.",
+    "Selective case-law search; one full judgment verified for contextual distinction only; no direct holding on an assigned offence adopted.",
+    "External Sv and WvK chains verified only as necessary for these units; other external regimes and historical transition law not exhaustively analysed.",
+    "Technical validation, length and exact-repetition checks do not establish substantive legal quality. No external professional approval."
+  ],
+  "source_preflight": "preflight-review-batch41-result.json",
+  "external_sources": "sources/review-batch41-external-check.json",
+  "case_search": "sources/review-batch41-case-search.json",
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1344731,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "batch_commentary_present": 12,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "authority_context_card": "authorities/review-batch41-HR-2009-BI3840-card.md"
+}
