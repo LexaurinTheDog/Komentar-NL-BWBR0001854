@@ -1,0 +1,32 @@
+{
+  "checks": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-21T00:29:01.774830+00:00",
+      "http_status": 200,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "path": "sources/author-batch36-manifest.xml",
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T00:29:02.638678+00:00",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "path": "sources/author-batch36-effective.xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    }
+  ],
+  "applicable_on_batch_date": [
+    {
+      "label": "2026-07-01_0",
+      "from": "2026-07-01",
+      "to": "9999-12-31"
+    }
+  ],
+  "original_authoring_date": "2026-10-19",
+  "batch_date": "2026-10-21",
+  "canonical_unchanged": true
+}

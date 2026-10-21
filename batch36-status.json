@@ -1,0 +1,48 @@
+{
+  "task": "bounded author batch36",
+  "stage": "batch_drafted_technical_validation",
+  "assigned_units": 20,
+  "completed_units": 20,
+  "ids": [
+    "a396",
+    "a397",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411",
+    "a412",
+    "a413",
+    "a414",
+    "a415",
+    "a415a",
+    "a415b",
+    "a415c"
+  ],
+  "source_checks": "sources/author-batch36-verification.json",
+  "coverage": "sources/author-batch36-coverage.json",
+  "scoped_validation": {
+    "ok": true,
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 31318
+  },
+  "whole_book_validation": {
+    "ok": false,
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "missing_commentaries_outside_scope": 92
+  },
+  "limitations": [
+    "Independent second pass pending",
+    "Selective case search only; no case holding cited",
+    "Article 414 external duties require separate verification in application"
+  ],
+  "build_method": "Original build_repo.py attempted on complete WORK; gated by missing outside-scope comments. Same builder succeeded on 20-unit bounded build; copied only chapter 36 to OUTPUT."
+}
