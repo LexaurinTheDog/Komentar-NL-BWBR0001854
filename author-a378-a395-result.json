@@ -198,6 +198,8 @@
     "assigned_batch_complete": true,
     "whole_book_ok": false,
     "remaining_outside_scope": 112,
-    "statutory_text_agreement": 1.0
+    "statutory_text_agreement": 1.0,
+    "post_commit_checked": true,
+    "only_out_of_scope_missing_commentaries": true
   }
 }
