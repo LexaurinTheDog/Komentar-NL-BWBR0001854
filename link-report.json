@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 1205,
+  "local_links_checked": 1226,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AL6209",
@@ -11,6 +11,7 @@
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY8434",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BZ3626",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1051",
+    "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1683",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:321",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:1523",
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:2028",
@@ -63,6 +64,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:66",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1051",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1156",
+    "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:1683",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:202",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:2242",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:321",
@@ -120,6 +122,7 @@
     "https://zoek.officielebekendmakingen.nl/stb-2008-4.html",
     "https://zoek.officielebekendmakingen.nl/stb-2013-485.html",
     "https://zoek.officielebekendmakingen.nl/stb-2014-33.html",
+    "https://zoek.officielebekendmakingen.nl/stb-2016-154.html",
     "https://zoek.officielebekendmakingen.nl/stb-2019-187.html",
     "https://zoek.officielebekendmakingen.nl/stb-2019-277.html",
     "https://zoek.officielebekendmakingen.nl/stb-2024-414.html",

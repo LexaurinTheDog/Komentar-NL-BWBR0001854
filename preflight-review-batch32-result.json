@@ -1,0 +1,71 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:03:19.660297+00:00",
+  "version_evidence": "sources/review-batch32-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "previous_path": "sources/author-a329-a347-previous.xml",
+    "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "change_map": "sources/author-a329-a347-historical-change-map.json",
+    "checked_ids": [
+      "a329",
+      "a329bis",
+      "a330",
+      "a331",
+      "a332",
+      "a333",
+      "a334",
+      "a336",
+      "a337",
+      "a338",
+      "a339",
+      "a340",
+      "a341",
+      "a342",
+      "a343",
+      "a344",
+      "a344a",
+      "a344b",
+      "a345",
+      "a347"
+    ],
+    "all_assigned_unchanged_since": "2026-01-01"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch32-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "scope": [
+    "a329",
+    "a329bis",
+    "a330",
+    "a331",
+    "a332",
+    "a333",
+    "a334",
+    "a336",
+    "a337",
+    "a338",
+    "a339",
+    "a340",
+    "a341",
+    "a342",
+    "a343",
+    "a344",
+    "a344a",
+    "a344b",
+    "a345",
+    "a347"
+  ],
+  "coverage": "sources/review-batch32-coverage.json",
+  "entry_page_limitation": "Web reader returned429 for wetten.overheid.nl; authoritative official repository XML, manifest and WTI freshly fetched and validated successfully."
+}

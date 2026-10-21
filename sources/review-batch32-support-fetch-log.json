@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1683",
+    "path": "sources/review-batch32-judgment-2018-1683.xml",
+    "accessed_at": "2026-10-21T00:04:30.367710+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "916cbdf007eaa9600decba8bc471ce5a051ab0365f5c19f83fdba152305fc733",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2016-154.xml",
+    "path": "sources/review-batch32-stb-2016-154.xml",
+    "accessed_at": "2026-10-21T00:04:30.670393+00:00",
+    "http_status": 200,
+    "content_type": "text/xml",
+    "sha256": "e27dc20b5f8b5498378d41ebff530b0b73ebf371057be0915454884d39ae6a2b",
+    "expected_format_valid": true
+  }
+]

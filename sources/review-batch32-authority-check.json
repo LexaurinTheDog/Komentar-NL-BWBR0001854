@@ -1,0 +1,16 @@
+{
+  "reviewed_at": "2026-10-21T00:04:30.139505+00:00",
+  "case": "ECLI:NL:HR:2018:1683",
+  "full_text_reviewed": true,
+  "path": "sources/review-batch32-judgment-2018-1683.xml",
+  "paragraphs": "Entire published judgment, particularly 2.2 (hof account), 2.3–2.4 (Hoge Raad holding), 4 (partial quashing/remittal)",
+  "supports": [
+    "a341",
+    "a344a"
+  ],
+  "holding": "Four-year maximum from344a is milder sanction law for the old341 administration offence; higher maximum incorrectly used in sentencing. No general holding on current344a elements.",
+  "card": "authorities/author-a329-a347-HR-2018-1683.md",
+  "search_log": "authorities/author-a329-a347-search-log.json",
+  "local_corpus_evidence": "authorities/author-a329-a347-local-corpus.json",
+  "limits": "Selective existing research reviewed; one judgment freshly refetched. No exhaustive later-treatment audit. HR2024:929 not used as a reasoned interpretive authority."
+}

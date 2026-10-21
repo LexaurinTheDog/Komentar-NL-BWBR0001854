@@ -1,0 +1,223 @@
+{
+  "kind": "review",
+  "complete": true,
+  "whole_book_complete": false,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a329",
+    "a329bis",
+    "a330",
+    "a331",
+    "a332",
+    "a333",
+    "a334",
+    "a336",
+    "a337",
+    "a338",
+    "a339",
+    "a340",
+    "a341",
+    "a342",
+    "a343",
+    "a344",
+    "a344a",
+    "a344b",
+    "a345",
+    "a347"
+  ],
+  "reviewed_at": "2026-10-21T00:04:30.139505+00:00",
+  "changed_ids": [
+    "a337",
+    "a344a",
+    "a345"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a329",
+      "disposition": "retained_after_review",
+      "finding": "Beide verkoopvarianten, bepaald aangewezen voorwerp versus listige kunstgrepen bij aard/hoedanigheid/hoeveelheid, daderrol en éénjaar/vijfdecategorie gecontroleerd. Geen326oogmerk toegevoegd.",
+      "statutory_sha256": "931a870874df1adc930fe598f53cbd79050e436be35d818b051efefce71dc313",
+      "commentary_sha256": "55b134bdde66c774978cc2654d209f2da9c9bee9cd9eeb28298fea5c8954b8be",
+      "commentary_chars": 1704
+    },
+    {
+      "id": "a329bis",
+      "disposition": "retained_after_review",
+      "finding": "Houder, verschillende exemplaren van hetzelfde cognossement, verschillende verkrijgers, onder bezwarende titel en opzet gecontroleerd; geen werkelijk dubbel afgeven lading vereist. Tweejaar/vijfdecategorie juist.",
+      "statutory_sha256": "d4564c23d61b3ab1b5b68349f4c648ee165dae360ee6a6ca03ad0adf936f4a4d",
+      "commentary_sha256": "26429ed8c3c012746dc3f3ccbc94fd69a3f9576c09f525f1b8611b1510bf3d6d",
+      "commentary_chars": 1668
+    },
+    {
+      "id": "a330",
+      "disposition": "retained_after_review",
+      "finding": "Beide leden gelezen: drie handelsgedragingen, wetenschap/verzwijging en eigen definitie bijmenging met waarde- of bruikbaarheidsvermindering;174onderscheiden. Driejaar/vijfdecategorie juist.",
+      "statutory_sha256": "c3a7ff98f3a4e0dcaf7fbc71baab7767629c7f8ee676c4b588e1777a24db28f2",
+      "commentary_sha256": "8477f8c07b6bf0937c110712e17cf93ea36fe2931d57d69dc0ba37fd5849cc5a",
+      "commentary_chars": 1692
+    },
+    {
+      "id": "a331",
+      "disposition": "retained_after_review",
+      "finding": "Daderhoedanigheden, uitvoering/levering, bedrog, mogelijk veiligheidsgevaar en toezichthoudersopzet apart getoetst. Geen werkelijk ongeval vereist;339 en zesjaar/vijfdecategorie juist.",
+      "statutory_sha256": "ac88d2e136e8182d83087cf087d1c2c5896512b095fd952088a8621fe4308b0d",
+      "commentary_sha256": "3ed3d349eae5075f049a7db03817ab0fe12e52a5596badf864c64fa6414ef73f",
+      "commentary_chars": 1686
+    },
+    {
+      "id": "a332",
+      "disposition": "retained_after_review",
+      "finding": "Militaire benodigdheden, bedrog en mogelijke bedreiging staatsveiligheid in oorlogstijd; tijdsinterpretatie voorzichtig begrensd. Lid2 opzettelijk toelaten apart. Zesjaar/vijfdecategorie juist.",
+      "statutory_sha256": "a6bd6cae707804910d78468f5bc95b87b89a55784211ae153a621f375a3c3e68",
+      "commentary_sha256": "8ebe78ca76d17165626c057d529a0be7ab4a97d98c10aa2ef80b49f7e96a76d0",
+      "commentary_chars": 1731
+    },
+    {
+      "id": "a333",
+      "disposition": "retained_after_review",
+      "finding": "Grensafbakening, vier gedragingen, wederrechtelijk bevoordelingsoogmerk, geen constitutieve eigendomsoverdracht en350onderscheid gelezen. Tweejaar/vijfdecategorie juist.",
+      "statutory_sha256": "532a10f350246af968f49ff2e881efba9108631d1e1324533adc4fdd537f04df",
+      "commentary_sha256": "04cbbeddd16b38dc0b83d4df8c7ff72b2493eb76f91c7982af91f9281445755c",
+      "commentary_chars": 1610
+    },
+    {
+      "id": "a334",
+      "disposition": "retained_after_review",
+      "finding": "Leugenbericht, verspreiding, drie objectcategorieën, daadwerkelijke prijsbeweging en causaliteit plus oogmerk gecontroleerd. Tweejaar/vijfdecategorie; bijzondere financiële regelgeving uitdrukkelijk buiten volledige analyse.",
+      "statutory_sha256": "8bbe15bbb38fabb52f83d6cab0aaebc0106dd622877b0e06335a82d2fe20dad3",
+      "commentary_sha256": "2c2227c82b6a56c881057cd1a417f29e7115b4baa54157c24124b3f6704652ba",
+      "commentary_chars": 1763
+    },
+    {
+      "id": "a336",
+      "disposition": "retained_after_review",
+      "finding": "Alle daderhoedanigheden en financiële documenten, opzettelijke openbaarmaking/toelaten, onwaarheid op verslagmoment en225onderscheid gecontroleerd. Zesjaar/vijfdecategorie juist.",
+      "statutory_sha256": "bcee6b038394f45de6ad9027093a3a7ec4e72840757a660c8e7be73bbab609ba",
+      "commentary_sha256": "7143ac5140a91f53821f33b544d2626c30627ce029a7ad03ac1f3505833d7f73",
+      "commentary_chars": 1724
+    },
+    {
+      "id": "a337",
+      "disposition": "corrected",
+      "finding": "Alle alternatieven a–e en handelsgedragingen, beperkte eigengebruikvoorraaduitzondering, beroeps-/bedrijfsvariant en gemeen gevaar gecontroleerd. Verpakking bij b/d nu expliciet genoemd. Eén/vierjaar en vijfdecategorie juist.",
+      "statutory_sha256": "67a3814e2bdcc16f4911f939e4d6d80048fc2dc0d45cccbaba847b5b40972bdc",
+      "commentary_sha256": "85f1b59950081d7634cdba7419b97cc0bbc46875f186dc5c66f2cb96cdd6fb4e",
+      "commentary_chars": 2172
+    },
+    {
+      "id": "a338",
+      "disposition": "retained_after_review",
+      "finding": "Titelbrede316verwijzing, persoonsgebonden vervolgingsuitsluiting/klacht, identiteitstermijn en90octies gelezen tegen volledige actuele teksten; mededader geen automatische beperking.",
+      "statutory_sha256": "0d9d39ec1569e36b7e6221378fbf2cd8c025f9f005d0661301f0f770c5cdb064",
+      "commentary_sha256": "2be68be1aeafa3f3bd249bb93cfebb21a4cc4ac658ea026705a70a5fc21f4683",
+      "commentary_chars": 1572
+    },
+    {
+      "id": "a339",
+      "disposition": "retained_after_review",
+      "finding": "Lid1 titelbreed openbaarmaking/beroepsontzetting tegenover lid2 uitsluitend326/328/331/332 en28lid1onder1/2/4.31duur en36wijze gecontroleerd; checklist passend.",
+      "statutory_sha256": "1a246087c36d7af91bbf731dac274431225e216a3c4df80f3449328f15eafaaf",
+      "commentary_sha256": "edcdfa44d77e87fbcd33d85d6e34263167441a9a2ee5445a2ce5045cfecf535d",
+      "commentary_chars": 1776
+    },
+    {
+      "id": "a340",
+      "disposition": "retained_after_review",
+      "finding": "Natuurlijkpersoonfaillissement, voorafgaande buitensporige uitgaven, gevolgbenadeling en causaliteit; geen afzonderlijk wetenschapsbestanddeel toegevoegd.342vergelijking en tweejaar/vijfdecategorie juist.",
+      "statutory_sha256": "41dabcac7dd57038b0b0429bdc8832f45b647df88c2733f2b81302ab8168ac3b",
+      "commentary_sha256": "961809e8673bc4f0f0b4532795b324485873ea40615d8726a6e15046d2704527",
+      "commentary_chars": 1911
+    },
+    {
+      "id": "a341",
+      "disposition": "retained_after_review",
+      "finding": "Twee leden, faillissement/schuldsanering, twee gedragingen en wetenschap plus wederrechtelijkheid bevoordeling gelezen. Oud administratiefeit niet onder huidige341 gebracht. Volledig HR2018:1683 gelezen; zesjaar/vijfdecategorie juist.",
+      "statutory_sha256": "dfa4d646c5426a7976bd9528d420a65e70bce846a0e0ed39d56aceb89f520694",
+      "commentary_sha256": "1aae071874a5eb17790446ffec7d8f85b7d386338f8b47e28ec1994cac916c3f",
+      "commentary_chars": 2210
+    },
+    {
+      "id": "a342",
+      "disposition": "retained_after_review",
+      "finding": "Bestuurder/commissaris, gevolgd faillissement, voorafgaand buitensporig middelengebruik en meewerken/toestemmen, causale verhaalsbenadeling gelezen.343/347correct onderscheiden. Tweejaar/vijfdecategorie juist.",
+      "statutory_sha256": "9d3d39856232237291599a9cc95b2e307ebe038a0058595943633eecee6faea5",
+      "commentary_sha256": "271fface8a4d4a917704b3ce41898310240a88cba15dd8af6b505ae5342422e6",
+      "commentary_chars": 1855
+    },
+    {
+      "id": "a343",
+      "disposition": "retained_after_review",
+      "finding": "Drie onderdelen en verschillende tijdvakken, gevolgd faillissement, wetenschap, buitensporigheid/wederrechtelijkheid afzonderlijk gecontroleerd. Geen oud administratieonderdeel toegevoegd. Zesjaar/vijfdecategorie juist.",
+      "statutory_sha256": "ce13500f6f8e872649fac17b4c8e65c1badf2fd2120da67b7405576c06778189",
+      "commentary_sha256": "b27c08105d98a528b23c2eed7def535f3740d4d35bb4e25dd21e20484c19582d",
+      "commentary_chars": 2093
+    },
+    {
+      "id": "a344",
+      "disposition": "retained_after_review",
+      "finding": "Beide procedures van ander, voorafgaand indien gevolgd, boedelonttrekking/eigen wederrechtelijke bevoordeling en wetenschap gelezen; vierjaarzesmaanden/vijfdecategorie juist.",
+      "statutory_sha256": "96a88d1cddd2b4affe9691659c95eafedbcf953447b3ac968d126ec0022b652f",
+      "commentary_sha256": "5b6d0f97b0ad3be5870610d51ed4b6cae118ef136523cf351898eff34bccb1b4",
+      "commentary_chars": 1981
+    },
+    {
+      "id": "a344a",
+      "disposition": "corrected",
+      "finding": "Alle drie leden en twee routes gelezen; verzoek/niet-terstondverstrekken tegenover opzettelijke administratie-/bewaarplichtschending met bemoeilijking. Tijdsvoorwaarden expliciet aangevuld. Anomale ontkenning bevestigd in2016enactment, uitleg gemarkeerd. HR2018:1683 correct beperkt; vierjaar/vijfdecategorie.",
+      "statutory_sha256": "bd4c1b6be241fa5f3005a238a89213dd9d374f28f6d1c25db10ed097342250ea",
+      "commentary_sha256": "afd41f423be607ea63b3bbd6079da145f01a3f60e2fa5490bd30815f011786d0",
+      "commentary_chars": 3205
+    },
+    {
+      "id": "a344b",
+      "disposition": "retained_after_review",
+      "finding": "Drie dader/procedurevarianten, culpa, voeren/bewaren en daadwerkelijke bemoeilijking gecontroleerd; geen culpoos verzoekdelict toegevoegd. Eénjaar/vierdecategorie tegenover344a juist.",
+      "statutory_sha256": "3871ce80a773e36a7df36135c015d38c89024ba1b43f27faea53721d421e8af3",
+      "commentary_sha256": "2118d15dd8fb0e7eec9e9776fcdd189719f448c5468eea85e85e9d6e001b4867",
+      "commentary_chars": 1856
+    },
+    {
+      "id": "a345",
+      "disposition": "corrected",
+      "finding": "Beide leden, bijzondere voordelen, causaal toetreden tot gerechtelijk akkoord en aanneming gelezen. Geheimhouding als ongeschreven bestanddeel verwijderd en expliciet ontkend; derde niet als lid2pleger toegevoegd. Eénjaar/vijfdecategorie juist.",
+      "statutory_sha256": "093fec4d9b618c04ca379aed0a5b3e6be7c2af650430c650c23609c4032a2e1a",
+      "commentary_sha256": "a12ba165458a43167c0cae801eece0f95763a6ff8614a473d47d6d92d063cfcb",
+      "commentary_chars": 2093
+    },
+    {
+      "id": "a347",
+      "disposition": "retained_after_review",
+      "finding": "Beide leden, buiten342/343, middelengebruik/meewerken/toestemming, ernstig nadeel én gevaar voortbestaan, lid2bevoordelingsoogmerk gelezen. Geen gevolgd faillissement nodig. Twee/vierjaar/vijfdecategorie; checklist gecontroleerd.",
+      "statutory_sha256": "480d8bb7c99f323c0c9d6cc8c25dcfbf53130efd8e28963a3cd0a2a428080b44",
+      "commentary_sha256": "73937111c7fb1d31548447bc9f777e769959e9d1087d8651ceee0786397bb778",
+      "commentary_chars": 2178
+    }
+  ],
+  "limitations": [
+    "Exactly the assigned twenty units substantively reviewed; other units not rereviewed.",
+    "172 out-of-scope units remain uncommented; whole book incomplete.",
+    "Selective case-law coverage; no exhaustive later-treatment audit. No external professional approval.",
+    "Article344a(2)(2) interpretation remains expressly marked due to authentic anomalous negation.",
+    "Length, matching and repetition checks alone do not establish legal quality."
+  ],
+  "source_preflight": "preflight-review-batch32-result.json",
+  "authority_check": "sources/review-batch32-authority-check.json",
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1055191,
+    "errors": [
+      "krátký/chybějící komentář u 172 jednotek: ['a348(0<400)', 'a348a(0<400)', 'a349(0<400)', 'a350(0<400)', 'a350a(0<400)', 'a350b(0<400)', 'a350c(0<400)', 'a350d(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_commentary_present": 20,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true,
+  "whole_book_validation_ok": false
+}
