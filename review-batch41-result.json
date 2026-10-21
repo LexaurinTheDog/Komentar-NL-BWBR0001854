@@ -132,5 +132,18 @@
   ],
   "source_preflight": "preflight-review-batch41-result.json",
   "external_sources": "sources/review-batch41-external-check.json",
-  "case_search": "sources/review-batch41-case-search.json"
+  "case_search": "sources/review-batch41-case-search.json",
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1344731,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "batch_commentary_present": 12,
+  "statutory_text_agreement": 1.0,
+  "local_links_ok": true,
+  "coverage_complete": true
 }
