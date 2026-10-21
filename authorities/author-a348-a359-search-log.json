@@ -1,0 +1,28 @@
+{
+  "scope": "a348–a359, selective research",
+  "searched_at": "2026-10-21T00:09:24.257329+00:00",
+  "queries": [
+    "site.rechtspraak.nl artikel 350a gegevens wissen Hoge Raad",
+    "site.rechtspraak.nl artikel 359 ambtenaar verduistering"
+  ],
+  "official_full_text_read": [
+    "ECLI:NL:GHARL:2025:601"
+  ],
+  "local_corpus": {
+    "search": "rg in zijn bediening onder zich|artikel 359 Sr, hr corpus",
+    "full_text_read": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1990-1.md",
+    "sha256": "a93787a2fdc2cba34a00f093d394f36ab209cd694ff3b060eeef5c2a6440e996",
+    "result": "HR 1990:1 read; own holding in 5.1–5.3 distinguished from counsel grounds. Not additionally cited in commentary; older pleading-specific context."
+  },
+  "not_verified_as_authorities": [
+    "Other search results not read in full and not cited."
+  ],
+  "limitations": [
+    "Selective research, not exhaustive. No separately verified sufficiently relevant decision selected for the remaining nineteen units."
+  ],
+  "rejected_endpoint": {
+    "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:GHARL:2025:601",
+    "evidence": "sources/batch33-case-2025-601.xml",
+    "reason": "HTTP 200 HTML challenge page, not XML or judgment; official data.rechtspraak.nl endpoint used instead."
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+    "accessed_at": "2026-10-21T00:08:37.305450+00:00",
+    "path": "sources/author-a348-a359-effective.xml",
+    "http_status": 200,
+    "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+    "bytes": 2545812,
+    "content_type": "application/xml",
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+    "accessed_at": "2026-10-21T00:08:37.305977+00:00",
+    "path": "sources/author-a348-a359-previous.xml",
+    "http_status": 200,
+    "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "bytes": 2544128,
+    "content_type": "application/xml",
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+    "accessed_at": "2026-10-21T00:08:37.306359+00:00",
+    "path": "sources/author-a348-a359-entry.html",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2025:601",
+    "accessed_at": "2026-10-21T00:08:37.306508+00:00",
+    "path": "sources/author-a348-a359-case-2025-601.xml",
+    "http_status": 200,
+    "sha256": "004ba0c7f42453d3f6f06af16da11cf27afdb7dbaf890bae8dce18fc873eefb5",
+    "bytes": 54994,
+    "content_type": "application/xml",
+    "root": "open-rechtspraak",
+    "expected_format_valid": true
+  }
+]

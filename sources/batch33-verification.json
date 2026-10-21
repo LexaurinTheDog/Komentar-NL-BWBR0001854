@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:05:20.541976+00:00",
+    "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+    "path": "sources/batch33-manifest.xml",
+    "xml_valid": true
+  },
+  {
+    "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:GHARL:2025:601",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:05:20.664183+00:00",
+    "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+    "path": "sources/batch33-case-2025-601.xml",
+    "xml_valid": false
+  }
+]

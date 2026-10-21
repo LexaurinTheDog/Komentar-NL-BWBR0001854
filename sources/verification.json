@@ -5769,6 +5769,64 @@
       "content_type": "text/xml",
       "sha256": "e27dc20b5f8b5498378d41ebff530b0b73ebf371057be0915454884d39ae6a2b",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T00:08:37.305450+00:00",
+      "path": "sources/author-a348-a359-effective.xml",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-21T00:08:37.305977+00:00",
+      "path": "sources/author-a348-a359-previous.xml",
+      "http_status": 200,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-21T00:08:37.306359+00:00",
+      "path": "sources/author-a348-a359-entry.html",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2025:601",
+      "accessed_at": "2026-10-21T00:08:37.306508+00:00",
+      "path": "sources/author-a348-a359-case-2025-601.xml",
+      "http_status": 200,
+      "sha256": "004ba0c7f42453d3f6f06af16da11cf27afdb7dbaf890bae8dce18fc873eefb5",
+      "bytes": 54994,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:05:20.541976+00:00",
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "path": "sources/batch33-manifest.xml",
+      "xml_valid": true,
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://uitspraken.rechtspraak.nl/api/content?ecli=ECLI:NL:GHARL:2025:601",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T00:05:20.664183+00:00",
+      "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+      "path": "sources/batch33-case-2025-601.xml",
+      "xml_valid": false,
+      "expected_format_valid": false,
+      "rejection": "HTML anti-bot response is not a judgment; excluded as authority."
     }
   ],
   "effective_version_verified": true,
@@ -5955,5 +6013,9 @@
   "bounded_author_a329_a347": {
     "preflight": "preflight-author-a329-a347-result.json",
     "coverage": "sources/author-a329-a347-coverage.json"
+  },
+  "bounded_author_a348_a359": {
+    "preflight": "preflight-author-a348-a359-result.json",
+    "coverage": "sources/author-a348-a359-coverage.json"
   }
 }

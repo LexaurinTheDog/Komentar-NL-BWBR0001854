@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHARL:2025:601</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-26T11:33:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem-Leeuwarden" scheme="overheid.RechterlijkeMacht">Gerechtshof Arnhem-Leeuwarden</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2025-02-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21-003889-18</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht_strafprocesrecht">Strafrecht; Strafprocesrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Viditax (FutD) 2025021001</rdf:li>
+          <rdf:li>FutD 2025-0363</rdf:li>
+          <rdf:li>V-N Vandaag 2025/327</rdf:li>
+          <rdf:li>V-N 2025/12.17 met annotatie van Redactie</rdf:li>
+          <rdf:li>NTFR 2025/546 met annotatie van mr. M. van Leeuwen</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2025:601">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2025:601</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-02-06T08:30:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2025-02-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHARL:2025:601 Gerechtshof Arnhem-Leeuwarden , 05-02-2025 / 21-003889-18</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHARL:2025:601:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Het hof legt gevangenisstraffen en geldboetes op voor het verduisteren en witwassen van 19,5 miljoen euro van de Belastingdienst. Een belastingambtenaar heeft het geldbedrag verduisterd en witgewassen. Het geldbedrag is op de bankrekening van een B.V. terechtgekomen en vanaf die bankrekening bijna geheel weggesluisd naar Turkse bankrekeningen. Een klein deel is overgemaakt op de bankrekening van een andere B.V. Die twee rechtspersonen en hun eigenaar zijn schuldig bevonden aan witwassen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHARL:2025:601:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>Afdeling strafrecht</para>
+  <parablock>
+    <para>Parketnummer:	21-003889-18 </para>
+    <para>Uitspraak d.d.:	5 februari 2025</para>
+    <para>TEGENSPRAAK</para>
+  </parablock>
+  <section>
+    <title>Arrest van de meervoudige kamer voor strafzaken van het gerechtshof <?linebreak?>Arnhem -Leeuwarden, zittingsplaats Zwolle, gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Gelderland, zittingsplaats Arnhem , van 5 juli 2018 met parketnummer 05-980551-14 in de strafzaak tegen</title>
+    <para />
+  </section>
+  <section>
+    <title>
+      [verdachte] ,</title>
+    <parablock>
+      <para>geboren te [geboorteplaats] op [geboortedag] 1963,</para>
+      <para>wonende te [adres]</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Het hoger beroep</title>
+    <para />
+    <parablock>
+      <para>De verdachte heeft tegen het hiervoor genoemde vonnis hoger beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Onderzoek van de zaak</title>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzittingen van het hof van 19 februari 2020 en 11 december 2024 en 22 januari 2025 (sluiting onderzoek) en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzittingen in eerste aanleg.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft kennisgenomen van de vordering van de advocaat-generaal. Deze vordering is na voorlezing aan het hof overgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft verder kennisgenomen van hetgeen door verdachte en zijn raadsman, </para>
+      <para>mr. B.J. Schadd, naar voren is gebracht.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Omvang van het hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Namens verdachte is onbeperkt hoger beroep ingesteld tegen het vonnis van de rechtbank. De rechtbank heeft verdachte echter vrijgesproken van het onder 3 tenlastegelegde. Gelet op artikel 404, vijfde lid, van het Wetboek van Strafvordering (Sv) staat voor verdachte tegen deze beslissing geen hoger beroep open. Het hof zal verdachte daarom in zoverre niet-ontvankelijk verklaren. Het hoger beroep blijft daarom beperkt tot het onder 1 en 2 tenlastegelegde.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Het vonnis waarvan beroep</title>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft verdachte voor het onder feit 1 primair tenlastegelegde, het medeplegen van het als ambtenaar opzettelijk geld dat hij in zijn bediening onder zich heeft verduisteren en het onder 2 tenlastegelegde medeplegen van het meermalen plegen van witwassen veroordeeld tot een gevangenisstraf voor de duur van 48 maanden, met aftrek van het voorarrest.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof zal het vonnis waarvan beroep voor zover aan het oordeel van het hof onderworpen vernietigen omdat het tot een andere bewijsbeslissing en strafoplegging komt en daarom opnieuw rechtdoen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>De tenlastelegging</title>
+    <para />
+    <parablock>
+      <para>De verdenking komt, kort en zakelijk weergegeven, op het volgende neer:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feit 1: </emphasis>
+      </para>
+      <para>
+        <emphasis role="underline">(primair)</emphasis> Het in vereniging of alleen verduisteren van € 19.500.000, welk bedrag verdachte als ambtenaar in zijn bediening onder zich had, althans</para>
+      <para>
+        <emphasis role="underline">(subsidiair)</emphasis> het in vereniging of alleen wederrechtelijk toe-eigenen van dit bedrag dat verdachte onder zich had uit hoofde van zijn persoonlijke dienstbetrekking als belastingambtenaar, althans </para>
+      <para>
+        <emphasis role="underline">(meer subsidiair</emphasis>) het in vereniging of alleen wederrechtelijk toe-eigenen van dit geldbedrag, wat verdachte onder zich had anders dan door misdrijf, althans </para>
+      <para>
+        <emphasis role="underline">(meest subsidiair)</emphasis> het in vereniging of alleen, met het oogmerk van wederrechtelijke bevoordeling, door oplichtingsmiddelen de belastingdienst bewogen hebben tot afgifte van dit geldbedrag.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feit 2: </emphasis>Het in vereniging of alleen witwassen van een geldbedrag van € 19.500.000,-.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voluit luidt de tenlastelegging aan verdachte - na wijziging van de tenlastelegging ter terechtzitting in eerste aanleg en voor zover aan het oordeel van het hof onderworpen- dat:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. primair<?linebreak?>Hij op één of meer tijdstippen in of omstreeks de periode van 27 mei 2014 tot en 1 juli 2014 in de [gemeente] , althans in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, te weten als ambtenaar van de Belastingdienst, die opzettelijk geld of geldwaardig papier, dat hij in zijn bediening onder zich had, heeft verduisterd of heeft toegelaten dat het door een ander weggenomen of verduisterd werd of die ander daarbij als medeplichtige ter zijde heeft gestaan, door het doen van een (onverschuldigde) betaling van een geldbedrag van EUR 19.500.000, althans van enig geldbedrag ten gunste van [BV 1] en/of [BV 2] ;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. subsidiair<?linebreak?>hij op één of meer tijdstippen in of omstreeks de periode van 27 mei 2014 tot en met 1 juli 2014 in de [gemeente] , althans in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk een geldbedrag van EUR 19.500.000, althans enig geldbedrag, in elk geval enig goed, dat/die geheel of ten dele toebehoorde(n) aan de Belastingdienst, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), en welk geldbedrag, althans welk(e) goed(eren) verdachte en/of zijn mededader(s) uit hoofde van zijn persoonlijke dienstbetrekking van/als belastingambtenaar, in elk geval anders dan door misdrijf onder zich had(den), wederrechtelijk zich heeft toegeëigend; </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. meer subsidiair<?linebreak?>hij op één of meer tijdstippen in of omstreeks de periode van 27 mei 2014 tot en met 1 juli 2014 in de [gemeente] , althans in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk een geldbedrag van EUR 19.500.000, althans enig geldbedrag, in elk geval enig goed, geheel of ten dele toebehorende aan de belastingdienst, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welk geldbedrag, althans welk(e) goed(eren) verdachte en/of zijn mededader(s) anders dan door misdrijf, onder zich had(den), wederrechtelijk zich heeft toegeëigend; </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. meest subsidiair<?linebreak?>hij op één of meer tijdstippen in of omstreeks de periode van 27 mei 2014 tot en met 1 juli 2014 in de [gemeente] , althans In Nederland tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen (telkens) door het aannemen van een valse naam en/of van een valse hoedanigheid en/of door een of meer listige kunstgrepen en/of door een samenweefsel van verdichtsels, de Belastingdienst heeft/hebben bewogen tot de afgifte van een geldbedrag van EUR 19.500.000, althans van enig geldbedrag, in elk geval van enig goed, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>hebbende hij, verdachte, en/of zijn mededader(s) met voren omschreven oogmerk -- zakelijk weergegeven -- valselijk en/of bedrieglijk en/of In strijd met de waarheid: </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in het belastingsysteem VBN (belastingsysteem dat wordt gebruikt om aanslagen en verminderingen Vennootschapsbelasting te verwerken) een bezwaarscherm aangemaakt met betrekking tot het boekjaar 2012 voor [BV 1] , en als datum binnenkomst van het bezwaarschrift 26 mei 2014 opgevoerd, met code 040 (ambtshalve bezwaar), en/of vervolgens de elementen van de aanslag veranderd door de opdrachtcode 51 (herziening definitief geregeld jaar) in te voeren en bij verrekende dividendbelasting en/of kansspelbelasting EUR 19.500.000 ingevuld, hetgeen geleid heeft tot betaling van EUR 19.500.000, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>waardoor de Belastingdienst werd bewogen tot bovenomschreven afgifte;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2.<?linebreak?>hij op één of meer tijdstippen in of omstreeks de periode van 27 mei 2014 tot en met 1 juli 2014, in de [gemeente] , althans in Nederland en/of Turkije en/of Griekenland, tezamen en in vereniging met een ander of anderen, althans alleen, van (een) voorwerp(en), te weten een geldbedrag van EUR 19.500.000, althans enig geldbedrag, de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing heeft verborgen en/of heeft verhuld en/of heeft verborgen en/of verhuld wie de rechthebbende op (een) voorwerp, te weten een geldbedrag van EUR 19.500.000, althans enig geldbedrag, was en/of (een) voorwerp(en), te weten een geldbedrag van EUR 19.500.000, althans enig geldbedrag, voorhanden heeft gehad, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>door – zakelijk omschreven onder meer –: </para>
+      <para>- op of omstreeks 17 juni 2014 in de [gemeente] , althans in Nederland en/of in Turkije, </para>
+      <para>a. op rekening [rekeningnummer 1] , welke rekening gehouden wordt bij de [bank 1] te [plaats 1] en/of </para>
+      <para>b. op rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] , 43, althans een aantal (spoed)overboekingen te laten plaatsvinden / te doen laten plaatsvinden, waarbij: </para>
+      <para>ad a. in totaal op voornoemde tekening bij de [bank 1] een bedrag van EUR 10.167.769, althans enig geldbedrag werd bijgeschreven en/of </para>
+      <para>ad b. in totaal op voornoemde rekening bij de [bank 2] een bedrag van EUR 9.229.800,50, althans enig geldbedrag werd bijgeschreven, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>waardoor (telkens) de herkomst van die EUR 10.167.769, althans van enig geldbedrag en/of van die EUR 9.229.800,50, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of werd verhuld wie de rechthebbende is/was van die EUR 10.167.769, althans van enig geldbedrag en/of van die EUR 9.229.800,50, althans van enig geldbedrag en/of </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- op of omstreeks 17 juni 2014 in de [gemeente] , althans in Nederland vanaf de [bank 3] rekening ten name van [BV 1] , met rekeningnummer [rekeningnummer 3] , een geldbedrag van EUR 110.000, althans enig geldbedrag over te boeken / te (doen) laten overboeken op rekeningnummer [rekeningnummer 4] te name van [rekeninghouder] , waardoor de herkomst van die EUR 110.000, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of werd verhuld wie de rechthebbende is/was van die EUR 110.000, althans van enig geldbedrag en/of </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- op of omstreeks 23 juni 2014 in Turkije vanaf rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] EUR 38.000, althans enig geldbedrag, contant op te nemen en/of (een deel van) dat opgenomen geld om te zetten in Turkse Lira’s en/of (een deel van) dat opgenomen geld om te zetten in goud, </para>
+      <para>waardoor de herkomst van die EUR 38.000, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of </para>
+      <para>werd verhuld wie de rechthebbende is/was van die EUR 38.000, althans van enig geldbedrag en/of </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- op of omstreeks 24 juni 2014 in Turkije vanaf rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] ) EUR 1.300.000 contant op te nemen en/of (een deel van) dat opgenomen geld om te zetten in Turkse Lira’s en of (een deel van) dat opgenomen geld om te zetten in goud, </para>
+      <para>waardoor de herkomst van die EUR 1.300.000, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of </para>
+      <para>werd verhuld wie de rechthebbende is/was van die EUR 1.300.000, althans van enig geldbedrag, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>terwijl hij, verdachte, en/of zijn mededader(s) wist(en) dat/die voorwerp(en) geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was uit het misdrijf; </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. De verdachte is daardoor niet geschaad in de verdediging.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Overweging met betrekking tot het bewijs</emphasis>
+        <footnote-ref linkend="_2188351d-4ad4-42bf-9bce-73c04abf4757" />
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De feiten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van de bewijsmiddelen wordt het volgende, dat verder ook niet ter discussie staat, vastgesteld.</para>
+      <para>Op <emphasis role="bold underline">27 mei 2014</emphasis> heeft verdachte, als ambtenaar werkzaam bij de Belastingdienst te [plaats 3] , tijdens zijn werk een zogenaamd bezwaarscherm, ter afhandeling van een bezwaarschrift, aangemaakt met betrekking tot het boekjaar 2012 voor [BV 1] . Als datum van binnenkomst van het bezwaarschrift was 26 mei 2014 ingevoerd. Het betrof een ambtshalve bezwaar. Verdachte heeft vervolgens in het veld ‘verrekende dividendbelasting en/of kansspelbelasting’ een bedrag van € 19.500.000,- ingevoerd.<footnote-ref linkend="_87af248e-6c93-4984-89f2-3287c48be669" /> Hierdoor ontving [BV 1] een bedrag van € 19.500.000,- aan terug te geven dividendbelasting van de Belastingdienst. Dit bedrag is op <emphasis role="bold underline">17 juni 2014</emphasis> gestort op de rekening van [BV 2] ).<footnote-ref linkend="_c2c5e5b6-abce-4dc7-8c58-0763dc1d70ae" /> De terug te geven dividendbelasting voor [BV 1] over 2012 was in werkelijkheid nihil.<footnote-ref linkend="_4b812cc4-7e4c-40b7-8789-d4e89ccac6e5" /></para>
+      <para>Diezelfde dag is, nadat dit bedrag op de rekening van [BV 2] was binnengekomen, een bedrag van € 110.000,- van de bankrekening van [BV 2] overgeboekt naar de bankrekening van [rekeninghouder] . Daarna is, ook op dezelfde dag, door middel van 41 spoedoverboekingen een bedrag van € 19.398.000,- overgeboekt naar twee bankrekeningnummers in Turkije op naam van [naam] . Naar rekening [rekeningnummer 1] , die gehouden wordt bij de [bank 1] te [plaats 1] werd een bedrag overgeboekt van in totaal € 10.168.000,-. Naar rekening [rekeningnummer 2] , die gehouden wordt bij de [bank 2] te [plaats 2] werd een bedrag overgeboekt van in totaal € 9.230.000,-. Na aftrek van de voor iedere boeking in rekening gebrachte kosten werd op de [bank 1] een bedrag ontvangen van € 10.167.769,- en op de [bank 2] een bedrag van € 9.229.800,50.<footnote-ref linkend="_aa9f534d-3888-42fd-93b6-70f7ab6775fd" /></para>
+      <para>Op 23 en 24 juni 2014 zijn vervolgens vanaf de rekening van de [bank 2] contante opnames gedaan van respectievelijk € 38.000,- en € 1.300.000,-. Op 25 juni 2018 is een bedrag van </para>
+      <para>€ 1.000.000,- in goud omgezet door [naam] .<footnote-ref linkend="_85a22756-2b66-462c-b5c9-91a2dce62cd4" /></para>
+      <para>
+        [BV 1] is enig aandeelhouder en bestuurder van [BV 2] en [BV 3] ). [rekeninghouder] is een handelsnaam van [BV 3] . Enig aandeelhouder en bestuurder van [BV 1] is [BV 4] Enig aandeelhouder en bestuurder van [BV 4] is medeverdachte [medeverdachte] .<footnote-ref linkend="_a56f2ebf-307b-4977-b8a6-5f0ead2bfffb" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het standpunt van het openbaar ministerie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De advocaat-generaal heeft gesteld dat wettig en overtuigend bewezen kan worden verklaard dat verdachte zich schuldig heeft gemaakt aan het onder 1 primair en 2 tenlastegelegde, conform het vonnis van de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het standpunt van de verdediging</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsman van verdachte heeft geen verweer gevoerd en verwezen naar de bekennende verklaring van verdachte. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het oordeel van het hof</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Feit 1</title>
+    <para>Het hof dient te beoordelen hoe het handelen van verdachte dient te worden gekwalificeerd. </para>
+    <para />
+    <parablock>
+      <para>Van verduistering in de zin van artikel 359 van het Wetboek van Strafrecht (Sr) is sprake bij onttrekking van gelden aan de bestemming van die gelden. Het hoeft daarbij niet te gaan om wederrechtelijke toe-eigening.</para>
+      <para>Verdachte heeft een geldbedrag van € 19.500.000,-, dat hij als ambtenaar van de Belastingdienst onder zich had, en dat toebehoorde aan die Belastingdienst, onttrokken aan de bestemming van dat geld. Gelden die aan de Belastingdienst toebehoren zijn immers bestemd voor de Nederlandse Staat, of voor betaling aan (rechts)personen die op grond van een teruggave of anderszins recht hebben op die gelden. Verdachte heeft ervoor gezorgd dat een negatieve aanslag werd opgelegd aan [BV 1] en dat het bedrag van </para>
+      <para>€ 19.500.000,- werd gestort op de rekening van [BV 2] . Dat verdachte het geld niet zelf heeft overgemaakt, maar dat dat door het systeem van de Belastingdienst is gedaan, doet niet af aan het feit dat verdachte zich schuldig heeft gemaakt aan verduistering van het geld. Verdachte had door zijn functie immers toegang tot het systeem en kon ook op grond van zijn functie bewerkstelligen dat een negatieve aanslag zou worden opgelegd, waarna een uitbetaling zou volgen. Daarmee is sprake van het ‘in zijn bediening onder zich hebben’ zoals bedoeld in artikel 359 Sr. Het hof acht dan ook bewezen dat verdachte het primair tenlastegelegde heeft gepleegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De door verdachte gepleegde verduistering was met de overschrijving van € 19.500.000,- vanaf de rekening van de Belastingdienst op de rekening van [BV 2] voltooid. Anders dan de rechtbank is het hof niet van oordeel dat de bijdrage van medeverdachten [medeverdachte] , en/of [BV 1] en/of [BV 2] en/of [BV 3] een aan die verduistering voldoende wezenlijke bijdrage was om als medeplegen aangemerkt te kunnen worden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte heeft verklaard dat hij het geld niet op zijn eigen rekening kon laten storten, omdat het een particuliere rekening is en de bank dan zou gaan “fluiten”<footnote-ref linkend="_a9e5779d-3f7e-4b22-ad88-4db49dcf1d10" />. Hij had een rekening van een bedrijf nodig en heeft verdachte daartoe benaderd. Medeverdachte [medeverdachte] gaf [verdachte] aan dat het geld naar [BV 1] kon<footnote-ref linkend="_1fe62351-dab1-4ce2-9e86-351020f89b91" />. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het enkel ter beschikking stellen van een bankrekening is naar de kern bezien van medeplichtige aard, en haalt de drempel naar het medeplegen in deze zaak (net) niet. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof is, anders dan de rechtbank, van oordeel dat verdachte enig pleger is van dit feit. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Feit 2</title>
+    <para />
+    <parablock>
+      <para>Het hof stelt voorop dat door het doorstorten van de gelden naar de rekeningen in Turkije en naar de rekening van [BV 3] sprake is van witwassen. Het hof stelt daarbij vast dat - gelet op het onder feit 1 primair bewezenverklaarde - het geldbedrag van € 19.500.000,-, afkomstig is uit een eigen misdrijf van verdachte. Door het overboeken van de geldbedragen naar twee rekeningen in Turkije op naar van [naam] , is er naar het oordeel van het hof sprake een gedraging die meer omvat dan het enkele verkrijgen en voorhanden hebben van het geldbedrag. Het doorstorten naar de Turkse rekeningen op naam van een ander, is naar het oordeel van het hof een gedraging die een op het daadwerkelijk verbergen en verhullen van de criminele herkomst van het uit eigen misdrijf afkomstige geldbedrag gericht karakter heeft. Van een kwalificatie-uitsluitingsgrond is dan ook naar het oordeel van het hof geen sprake.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte heeft verklaard dat [naam] er door [medeverdachte] bij is gehaald en dat hij degene was die zou zorgen voor het verdwijnen van het geld. Het geld zou “in drieën” gedeeld worden (het hof begrijpt: in drie gelijke delen tussen [naam] , [medeverdachte] en verdachte). [naam] zou regelen dat het geld in Turkije kwam.<footnote-ref linkend="_8d1723fa-b239-4b26-be8d-870619943310" /> Het plan was om naar Turkije te vertrekken als het geld binnen was. Op 17 juni 2014 is verdachte door een door [naam] geregelde Turkse chauffeur naar [vliegveld] gereden om van daaruit naar [plaats 4] te vliegen. Hij had van [naam] € 500,- gekregen voor de reis en een hotel. De volgende dag kwam [naam] ook en zijn ze samen naar twee banken geweest. De banken wilden volgens [naam] het geld niet vrijgeven.<footnote-ref linkend="_2ed7af97-383d-40e5-ad8e-eee0b12a66e0" /> Volgens verdachte was het plan dat hij niet meer terug zou keren naar Nederland. Hij had dat allemaal gepland op het moment dat [naam] erbij was gekomen en duidelijk werd dat het geld naar Turkije zou gaan. Hij was met [naam] naar Turkije gegaan om een of meerdere rekeningen te openen voor zijn deel van het geld op het moment dat het geld vrij zou worden gegeven.<footnote-ref linkend="_c860d4cb-943d-433d-ade0-29aa7309a76a" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte heeft ter zitting van het hof deze verklaring in de kern bevestigd. Het bedrag van € 19.500.000,- dat door toedoen van verdachte op de bankrekening van [BV 2] terechtgekomen was, werd weggesluisd naar Turkije en de opbrengst zou verdeeld worden tussen [naam] , [medeverdachte] en verdachte.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [naam] is naar aanleiding van een rechtshulpverzoek in Turkije gehoord. Hij heeft met betrekking tot het overgeboekte bedrag verklaard dat het bedrag van € 19.500.000,- geld betreft dat zijn zwager [medeverdachte] heeft ontvangen uit de verkoop van onroerende goederen van zijn broer. [naam] had een vordering op [medeverdachte] in verband met (contant) door hem aan [medeverdachte] geleend geld tot een bedrag van € 9.400.000,-. Daarnaast zou [naam] nog </para>
+      <para>€ 10.000.000,- van [medeverdachte] krijgen om te investeren. [medeverdachte] heeft daarom het bedrag van € 19.400.000,- overgemaakt op Turkse bankrekeningen (proces-verbaal van verhoor [naam] d.d. 6 augustus 2015). Het hof vindt de door [naam] afgelegde verklaring die erop neerkomt dat hij niet beter wist dan dat de herkomst van dat enorme geldbedrag legaal was, niet geloofwaardig. De verklaring vindt geen steun in de rest van het dossier en is niet met stukken onderbouwd. Er zijn geen aanwijzingen in het dossier en er is geen begin van aannemelijkheid dat [naam] en [medeverdachte] samen zaken zouden gaan doen in Turkije noch van het bestaan van een lening van € 9.400.000,- die [medeverdachte] moest terugbetalen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van het hof heeft verdachte zich dan ook samen met anderen schuldig gemaakt aan witwassen van geldbedragen. Verdachte heeft van tevoren al met [medeverdachte] en [naam] besproken dat het geld van de Belastingdienst naar Turkije zou worden weggesluisd. Nadat het geld op de rekening van [BV 2] was binnengekomen is het binnen een uur in 41 delen naar twee rekeningen in Turkije overgemaakt. Daarna is verdachte naar Turkije gereisd om het geld te verdelen, waarbij het de bedoeling was dat verdachte niet meer zou terugkeren naar Nederland.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet op de werkwijze van verdachte en zijn medeverdachten, waarbij:</para>
+    </parablock>
+    <parablock>
+      <para> verdachte betrokken was bij het plan om het geld weg te sluizen naar Turkije;</para>
+      <para> van het geld een bedrag van € 10.167.769,- is bijgeboekt op de rekening van [naam] bij de [bank 1] ;</para>
+      <para> een bedrag van € 9.229.800,50 is bijgeboekt op de rekening van [naam] bij de [bank 2] ;</para>
+      <para> een bedrag van € 110.000,- is bijgeboekt op de rekening van [rekeninghouder] ;</para>
+      <para> verdachte geld van [naam] heeft gekregen om naar Turkije te reizen en in een hotel te verblijven;</para>
+      <para> het de bedoeling was in Turkije het geld te verdelen;</para>
+      <para> verdachte samen met [naam] naar banken in Turkije is gegaan,</para>
+    </parablock>
+    <para>is er sprake van een nauwe en bewuste samenwerking tussen verdachte en zijn medeverdachten, zodat medeplegen van witwassen kan worden bewezen.</para>
+    <para />
+    <parablock>
+      <para>Het hof acht niet bewezen dat verdachte wetenschap had van de opname van de geldbedragen van € 38.000,- en € 1.300.000,- in Turkije van de rekening van [naam] of van de omzetting van die bedragen in Turkse Lira’s of goud, zoals onder feit 2 als aparte gedraging in de tenlastelegging opgenomen. Het hof zal verdachte daarom van die onderdelen van de tenlastelegging vrijspreken.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bewezenverklaring</title>
+    <para />
+    <parablock>
+      <para>Door wettige bewijsmiddelen, waarbij de inhoud van elk bewijsmiddel - ook in onderdelen - slechts wordt gebezigd tot het bewijs van dat tenlastegelegde feit waarop het blijkens de inhoud kennelijk betrekking heeft, en waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt, acht het hof wettig en overtuigend bewezen dat verdachte het onder 1 primair en 2 tenlastegelegde heeft begaan, met dien verstande, dat:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. primair<?linebreak?>Hij <emphasis role="strike-through">op één of meer tijdstippen</emphasis> in <emphasis role="strike-through">of omstreeks</emphasis> de periode van 27 mei 2014 tot en met 1 juli 2014 in de [gemeente] , althans in Nederland, <emphasis role="strike-through">tezamen en in vereniging met een ander of anderen, althans alleen, te weten</emphasis> als ambtenaar van de Belastingdienst, <emphasis role="strike-through">die</emphasis> opzettelijk geld <emphasis role="strike-through">of geldwaardig papier</emphasis>, dat hij in zijn bediening onder zich had, heeft verduisterd <emphasis role="strike-through">of heeft toegelaten dat het door een ander weggenomen of verduisterd werd of die ander daarbij als medeplichtige ter zijde heeft gestaan,</emphasis> door het doen van een (onverschuldigde) betaling van een geldbedrag van EUR 19.500.000, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> ten gunste van [BV 1] en/of [BV 2] ;</para>
+      <para>
+        <?linebreak?>2.<?linebreak?>hij op <emphasis role="strike-through">één of meer</emphasis> tijdstippen in <emphasis role="strike-through">of omstreeks</emphasis> de periode van 27 mei 2014 tot en met 1 juli 2014, in de [gemeente] , althans in Nederland en/of Turkije <emphasis role="strike-through">en/of Griekenland</emphasis>, tezamen en in vereniging met <emphasis role="strike-through">een ander of</emphasis> anderen<emphasis role="strike-through">, althans alleen,</emphasis> van <emphasis role="strike-through">(</emphasis>een<emphasis role="strike-through">)</emphasis> voorwerp<emphasis role="strike-through">(en)</emphasis>, te weten een geldbedrag van EUR 19.500.000<emphasis role="strike-through">, althans enig geldbedrag,</emphasis> de werkelijke aard en<emphasis role="strike-through">/of</emphasis> de herkomst <emphasis role="strike-through">en/of de vindplaats en/of de vervreemding en/of de verplaatsing</emphasis> heeft verborgen en<emphasis role="strike-through">/of</emphasis> heeft verhuld en<emphasis role="strike-through">/of</emphasis> heeft verborgen en<emphasis role="strike-through">/of</emphasis> verhuld wie de rechthebbende op <emphasis role="strike-through">(</emphasis>een<emphasis role="strike-through">)</emphasis> voorwerp, te weten een geldbedrag van EUR 19.500.000<emphasis role="strike-through">, althans enig geldbedrag</emphasis>, was en<emphasis role="strike-through">/of (</emphasis>een<emphasis role="strike-through">)</emphasis> voorwerp<emphasis role="strike-through">(en)</emphasis>, te weten een geldbedrag van EUR 19.500.000<emphasis role="strike-through">, althans enig geldbedrag,</emphasis> voorhanden heeft gehad, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>door – zakelijk omschreven onder meer –: </para>
+      <para>- op <emphasis role="strike-through">of omstreeks</emphasis> 17 juni 2014 in de [gemeente] , althans in Nederland en/of in Turkije, </para>
+      <para>a. op rekening [rekeningnummer 1] , welke rekening gehouden wordt bij de [bank 1] te [plaats 1] en<emphasis role="strike-through">/of </emphasis></para>
+      <para>b. op rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] , <emphasis role="strike-through">43, althans</emphasis> een aantal (spoed)overboekingen te laten plaatsvinden / te doen laten plaatsvinden, waarbij: </para>
+      <para>ad a. in totaal op voornoemde rekening bij de [bank 1] een bedrag van EUR 10.167.769, <emphasis role="strike-through">althans enig geldbedrag</emphasis> werd bijgeschreven en<emphasis role="strike-through">/of </emphasis></para>
+      <para>ad b. in totaal op voornoemde rekening bij de [bank 2] een bedrag van EUR 9.229.800,50, <emphasis role="strike-through">althans enig geldbedrag</emphasis> werd bijgeschreven, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>waardoor (telkens) de herkomst van die EUR 10.167.769, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> en<emphasis role="strike-through">/of</emphasis> van die EUR 9.229.800,50, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> werd verhuld en<emphasis role="strike-through">/of</emphasis> werd verborgen en<emphasis role="strike-through">/of</emphasis> werd verhuld wie de rechthebbende is/was van die EUR 10.167.769, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> en<emphasis role="strike-through">/of</emphasis> van die EUR 9.229.800,50, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> en<emphasis role="strike-through">/of </emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- op <emphasis role="strike-through">of omstreeks</emphasis> 17 juni 2014 in de [gemeente] , althans in Nederland vanaf de [bank 3] rekening <emphasis role="strike-through">ten name van [BV 1]</emphasis>, met rekeningnummer [rekeningnummer 3] , een geldbedrag van EUR 110.000, <emphasis role="strike-through">althans enig geldbedrag</emphasis> over te boeken / te (doen) laten overboeken op rekeningnummer [rekeningnummer 4] te name van [rekeninghouder] , waardoor de herkomst van die EUR 110.000, <emphasis role="strike-through">althans van enig geldbedrag</emphasis> werd verhuld en<emphasis role="strike-through">/of</emphasis> werd verborgen en<emphasis role="strike-through">/of</emphasis> werd verhuld wie de rechthebbende is/was van die EUR 110.000, <emphasis role="strike-through">althans van enig geldbedrag en/of </emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="strike-through">- op of omstreeks 23 juni 2014 in Turkije vanaf rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] EUR 38.000, althans enig geldbedrag, contant op te nemen en/of (een deel van) dat opgenomen geld om te zetten in Turkse Lira’s en/of (een deel van) dat opgenomen geld om te zetten in goud, </emphasis>
+      </para>
+      <para>
+        <emphasis role="strike-through">waardoor de herkomst van die EUR 38.000, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of </emphasis>
+      </para>
+      <para>
+        <emphasis role="strike-through">werd verhuld wie de rechthebbende is/was van die EUR38.000, althans van enig geldbedrag en/of </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="strike-through">- op of omstreeks 24 juni 2014 in Turkije vanaf rekening [rekeningnummer 2] , welke rekening gehouden wordt bij de [bank 2] te [plaats 2] ) EUR1.300.000 contant op te nemen en/of (een deel van) dat opgenomen geld om te zetten in Turkse Lira’s en of (een deel van) dat opgenomen geld om te zetten in goud, </emphasis>
+      </para>
+      <para>
+        <emphasis role="strike-through">waardoor de herkomst van die EUR 1.300.000, althans van enig geldbedrag werd verhuld en/of werd verborgen en/of </emphasis>
+      </para>
+      <para>
+        <emphasis role="strike-through">werd verhuld wie de rechthebbende is/was van die EUR 1.300.000, althans van enig geldbedrag, </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>terwijl hij, verdachte, en<emphasis role="strike-through">/of</emphasis> zijn mededader<emphasis role="strike-through">(</emphasis>s<emphasis role="strike-through">)</emphasis> wist<emphasis role="strike-through">(</emphasis>en<emphasis role="strike-through">)</emphasis> dat <emphasis role="strike-through">/</emphasis> die voorwerp<emphasis role="strike-through">(</emphasis>en<emphasis role="strike-through">)</emphasis> geheel of gedeeltelijk onmiddellijk of middellijk afkomstig was uit enig misdrijf; </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Het hof acht niet bewezen hetgeen verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard, zodat deze daarvan behoort te worden vrijgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Strafbaarheid van het bewezenverklaarde</title>
+    <para />
+    <parablock>
+      <para>Het onder 1 primair bewezenverklaarde levert op:</para>
+      <para>
+        <emphasis role="bold">als ambtenaar opzettelijk geld dat hij in zijn bediening onder zich heeft, verduisteren.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onder 2 bewezenverklaarde levert op:</para>
+      <para>
+        <emphasis role="bold">medeplegen van witwassen, meermalen gepleegd.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Strafbaarheid van de verdachte</title>
+    <para />
+    <parablock>
+      <para>Verdachte is strafbaar aangezien geen omstandigheid is gebleken of aannemelijk geworden die verdachte niet strafbaar zou doen zijn.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Oplegging van straf en/of maatregel</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het standpunt van het openbaar ministerie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De advocaat-generaal heeft gevorderd om de in eerste aanleg opgelegde straf van 48 maanden gevangenisstraf gelet op de overschrijding van de redelijke termijn te matigen tot een gevangenisstraf voor de duur van 45 maanden, met aftrek van het voorarrest. Ook is gevorderd om het bevel tot schorsing van de voorlopige hechtenis op te heffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het standpunt van de verdediging</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsman van verdachte heeft verzocht om gelet op de forse overschrijding van de redelijke termijn te volstaan met een geheel voorwaardelijke gevangenisstraf en een taakstraf, in ieder geval kan niet slechts worden volstaan met een strafvermindering van 10%. Verder is verzocht om de schorsing van de voorlopige hechtenis niet op te heffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het oordeel van het hof</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de persoon van verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof heeft rekening gehouden met het uittreksel uit de Justitiële Documentatie van 7 november 2024. Hieruit blijkt dat verdachte niet eerder is veroordeeld voor soortgelijke feiten. Dat weegt het hof in strafmatigende noch in straf verhogende zin mee.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wel houdt het hof in het voordeel van de verdachte rekening met de ouderdom van de feiten en het feit dat hij sindsdien niet meer in aanraking is gekomen met politie of justitie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte heeft zich schuldig gemaakt aan verduistering van 19,5 miljoen euro van de Belastingdienst. Uit onvrede over zijn werk(situatie) heeft verdachte het plan opgevat om de Belastingdienst een zo groot mogelijk geldbedrag afhandig te maken. Verdachte koos voor het bedrag van € 19.500.000,- omdat het systeem bij de belastingdienst zou gaan “fluiten” bij bedragen van € 20.000.000,- of hoger. Bijzonder kwalijk is dat verdachte werkzaam was bij de Belastingdienst en vanuit zijn functie kon beschikken over geld van de Belastingdienst. Verdachte heeft nagedacht over hoe hij het geld van de belastingdienst op een bankrekening van een bedrijf kon krijgen zodat hij het daarna kon wegsluizen. Hij heeft kalm, koelbloedig en weloverwogen zijn plan vanaf zijn werkplek en vanachter zijn computer bij zijn werkgever uitgevoerd. Nadat het geld op de rekening van één van de bedrijven van een mededader was gestort, hebben verdachte en zijn mededaders het geld direct weggesluisd naar twee rekeningnummers van een van hen in Turkije. Ook is een bedrag overgeboekt naar een ander bedrijf van een mededader. De Nederlandse Staat is in een langdurige civiele procedure verwikkeld om het geld waarop beslag is gelegd in Turkije terug te krijgen. Het is nog maar de vraag of dit geld ooit weer terugkomt bij de Belastingdienst. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verdachte handelde puur uit financieel gewin. Door zijn handelen heeft hij op grove wijze misbruik gemaakt van de positie die hij had bij de Belastingdienst had. Hij heeft het adequaat functioneren van de Belastingdienst schade toegebracht. Daarbij is niet alleen de Belastingdienst financieel benadeeld, maar ook de Nederlandse Staat en daarmee alle belastingplichtigen. Aan de Belastingdienst is ook imagoschade toegebracht. Burgers moeten erop kunnen vertrouwen dat medewerkers van een overheidsinstantie zorgvuldig en integer handelen. Verdachte heeft door zijn handelen het vertrouwen dat burgers in de Belastingdienst hebben beschaamd. Daarnaast heeft verdachte het vertrouwen dat zijn werkgever in hem had beschaamd. Van een werknemer, en zeker een werknemer in dienst van de overheid, mag worden verwacht dat hij zorgvuldig en integer handelt.</para>
+      <para>Daarnaast heeft verdachte zich, door het wegsluizen van het geldbedrag naar verschillende (buitenlandse) rekeningen, schuldig gemaakt aan het medeplegen van witwassen. Hij beoogde met (een deel van) het door hem verduisterde en witgewassen geld een nieuw leven in het buitenland op te bouwen, zonder zich rekenschap te hebben hoeven geven van zijn handelingen. </para>
+      <para>Dat verdachte niet van de buit heeft geprofiteerd en geen luxe leven is gaan leiden in Turkije komt niet doordat hij last van zijn geweten kreeg, maar doordat het verdachte in Turkije duidelijk werd dat hij zijn deel van het verduisterde en weggesluisde geld niet in handen zou krijgen. Daarna is verdachte onverrichterzake teruggekeerd naar Nederland.</para>
+      <para>Hoewel verdachte zijn rol van meet af aan heeft bekend, heeft het hof uit het verhandelde ter zitting de indruk gekregen dat verdachte niet werkelijk inzicht heeft in de ernst en strafwaardigheid van de door hem gepleegde strafbare feiten. Het hof rekent dat verdachte aan.</para>
+      <para>Bij het bepalen van de hoogte van de straf heeft het hof gekeken naar de oriëntatiepunten van het Landelijk Overleg Vakinhoud Strafrecht op het gebied van fraude. De oriëntatiepunten geven als vertrekpunt bij een benadelingsbedrag van € 1.000.000,- en hoger een onvoorwaardelijke gevangenisstraf van 24 maanden tot het desbetreffende strafmaximum. Het benadelingsbedrag komt in deze zaak fors boven de € 1.000.000,- uit, te weten € 19.500.000,-. Dit weegt het hof sterk in strafvermeerderende zin mee. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Alles afwegend acht het hof acht daarom in beginsel een gevangenisstraf van 60 maanden een passende straf.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof houdt verder rekening met het feit dat de procedure niet heeft plaatsgevonden binnen een redelijke termijn als bedoeld in artikel 6, eerste lid, van het Europees verdrag van de rechten van de mens en de fundamentele vrijheden (EVRM). Verdachte is op 28 juni 2014 in verzekering gesteld en de rechtbank wees vonnis op 5 juli 2018. In eerste aanleg is daarmee ongeveer vier jaar verstreken tussen het aanvangen van de te beoordelen termijn en het eindvonnis. Dit terwijl als uitgangspunt heeft te gelden dat de behandeling ter terechtzitting dient te zijn afgerond met een eindvonnis binnen twee jaar nadat de redelijke termijn is aangevangen. Ook in hoger beroep is de redelijke termijn overschreden. Namens verdachte is op 10 juli 2018 hoger beroep ingesteld en is arrest gewezen op 5 februari 2025, dus na een periode van ongeveer zes jaren en zes maanden. Ook deze termijnoverschrijding valt niet te wijten aan de (van meet af aan bekennende) proceshouding van verdachte. Het hof zal gelet op de erg forse overschrijding van de redelijke termijn in twee instanties de duur van de gevangenisstraf matigen. Een korting van een derde van de straf (20 maanden gevangenisstraf) acht het hof passend om de schending van de redelijke termijn te compenseren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het hof acht alles afwegende een gevangenisstraf voor de duur van 40 maanden, met aftrek van het voorarrest, passend en geboden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verder ziet het hof geen aanleiding om de schorsing van de voorlopige hechtenis op te heffen. Het gaat om oude feiten en verdachte is sinds de schorsing van de voorlopige hechtenis niet opnieuw in de fout gegaan. Er is geen reden om verdachte een gevaar te achten voor de maatschappij. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tenuitvoerlegging van de op te leggen gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat de verdachte in aanmerking komt voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet, dan wel de regeling van voorwaardelijke invrijheidstelling, als bedoeld in artikel 6:2:10 Wetboek van Strafvordering, aan de orde is. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Toepasselijke wettelijke voorschriften</title>
+    <para />
+    <parablock>
+      <para>Het hof heeft gelet op de artikelen 47, 57, 359 en 420bis van het Wetboek van Strafrecht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze voorschriften zijn toegepast, zoals zij golden ten tijde van het bewezenverklaarde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>BESLISSING</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart de verdachte niet-ontvankelijk in het hoger beroep, voor zover gericht tegen de beslissing ter zake van het onder 3 tenlastegelegde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vernietigt het vonnis waarvan beroep voor zover aan het oordeel van het hof onderworpen en doet in zoverre opnieuw recht:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 1 primair en 2 tenlastegelegde heeft begaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verklaart het onder 1 primair en 2 bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Veroordeelt de verdachte tot een <emphasis role="bold">gevangenisstraf</emphasis> voor de duur van <emphasis role="bold">40 (veertig) maanden</emphasis>.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Beveelt dat de tijd die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in enige in artikel 27, eerste lid, van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Aldus gewezen door</para>
+      <para>mr. C.H. Zuur voorzitter,</para>
+      <para>mr. S. Bek en mr. P.L.M. van Gorkom, raadsheren,</para>
+      <para>in tegenwoordigheid van mr. S.J.H. Salvino, griffier,</para>
+      <para>en op 5 februari 2025 ter openbare terechtzitting uitgesproken.</para>
+    </parablock>
+  </section>
+  <footnote id="_2188351d-4ad4-42bf-9bce-73c04abf4757" label="1">
+    <para> Het bewijs is terug te vinden in het in de wettelijke vorm door verbalisant [verbalisant] van de FIOD opgemaakte proces-verbaal, dossiernummer 54955, opgemaakt op 18 november 2014 (onderzoek Waste) en in de bijbehorende in wettelijke vorm opgemaakte processen-verbaal en overige schriftelijke bescheiden, tenzij anders vermeld. De vindplaatsvermeldingen verwijzen naar de pagina’s van het doorgenummerde dossier, tenzij anders vermeld.</para>
+  </footnote>
+  <footnote id="_87af248e-6c93-4984-89f2-3287c48be669" label="2">
+    <para> Proces-verbaal van verhoor verdachte, p. 2124-2125; Proces-verbaal Beschrijving processen, </para>
+    <para>p. 427; Uitdraai Vermindering Definitieve aanslag, p. 706.</para>
+  </footnote>
+  <footnote id="_c2c5e5b6-abce-4dc7-8c58-0763dc1d70ae" label="3">
+    <para> BOB-009, p. 673 t/m 683, D-002, rekeningafschriften [bank 3] , p. 2232 t/m 2235.</para>
+  </footnote>
+  <footnote id="_4b812cc4-7e4c-40b7-8789-d4e89ccac6e5" label="4">
+    <para> D-013, samenvatting [accountants] bij aangifte vennootschapsbelasting 2012, p. 2328.</para>
+  </footnote>
+  <footnote id="_aa9f534d-3888-42fd-93b6-70f7ab6775fd" label="5">
+    <para> Emailbericht van Belastingdienst met uitdraai gegevens, p. 680-681,683; rekeningafschriften [bank 3] , p. 2232 t/m 2235.</para>
+  </footnote>
+  <footnote id="_85a22756-2b66-462c-b5c9-91a2dce62cd4" label="6">
+    <para> Proces-verbaal informatie rijksadvocaat, p. 447-448.</para>
+  </footnote>
+  <footnote id="_a56f2ebf-307b-4977-b8a6-5f0ead2bfffb" label="7">
+    <para> Uittreksels handelsregister Kamer van Koophandel, p. 2486, 2487, 2490-2491, 2495-2496 en 2498- 2499.</para>
+  </footnote>
+  <footnote id="_a9e5779d-3f7e-4b22-ad88-4db49dcf1d10" label="8">
+    <para> Proces-verbaal van verhoor verdachte, p. 2131</para>
+  </footnote>
+  <footnote id="_1fe62351-dab1-4ce2-9e86-351020f89b91" label="9">
+    <para> Proces-verbaal van verhoor verdachte, p. 2136</para>
+  </footnote>
+  <footnote id="_8d1723fa-b239-4b26-be8d-870619943310" label="10">
+    <para> Proces-verbaal van verhoor verdachte, p. 2136.</para>
+  </footnote>
+  <footnote id="_2ed7af97-383d-40e5-ad8e-eee0b12a66e0" label="11">
+    <para> Proces-verbaal van verhoor verdachte, p. 2137.</para>
+  </footnote>
+  <footnote id="_c860d4cb-943d-433d-ade0-29aa7309a76a" label="12">
+    <para> Proces-verbaal van verhoor verdachte, p. 2143.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

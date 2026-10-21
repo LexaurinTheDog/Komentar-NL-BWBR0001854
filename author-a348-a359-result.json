@@ -1,0 +1,203 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a348",
+    "a348a",
+    "a349",
+    "a350",
+    "a350a",
+    "a350b",
+    "a350c",
+    "a350d",
+    "a351",
+    "a351bis",
+    "a352",
+    "a353",
+    "a354",
+    "a354a",
+    "a354b",
+    "a355",
+    "a356",
+    "a357",
+    "a358",
+    "a359"
+  ],
+  "completed_units": 20,
+  "commentary_file": "commentary/part-33.md",
+  "independent_review_pending": true,
+  "preflight": "preflight-author-a348-a359-result.json",
+  "unit_checks": [
+    {
+      "id": "a348",
+      "commentary_chars": 1669,
+      "commentary_sha256": "2819c06efee5969fbf591aeb11f9eebc15c90b528ec0a4bb81749fb762e46a53",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a348a",
+      "commentary_chars": 1526,
+      "commentary_sha256": "c9c2e4a07a18f7dfa03dd8f1d9311005a40d95cb599b2c7621415e7b65af6e7c",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a349",
+      "commentary_chars": 1582,
+      "commentary_sha256": "79ed0fe6120bce6cc0e139f686dc3290851ce4a8aceea5794402bd6a32ae5e87",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a350",
+      "commentary_chars": 1672,
+      "commentary_sha256": "6d9964163a2be8205ef985ea2962a899f54913cf9935acbbf72acd4b2485dfa9",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a350a",
+      "commentary_chars": 2129,
+      "commentary_sha256": "53a1668beca2dcec125735e097b7f09f677e5979e7e6aa9e8c3628e72c95228b",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a350b",
+      "commentary_chars": 1711,
+      "commentary_sha256": "7900d7d1d68ef10ac990c48ba102aeeb3a1abc67f89c798f8b4bdfd58c75c538",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a350c",
+      "commentary_chars": 1772,
+      "commentary_sha256": "c00a8383a181acbcf7a54d7a4f25fae1c379f8090aaa6cd3a52f2fd343dba4de",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a350d",
+      "commentary_chars": 1632,
+      "commentary_sha256": "591e0e561be8b1ae8159e3264b03a205377efabdf1abfffbe19145a28a700c9c",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a351",
+      "commentary_chars": 1676,
+      "commentary_sha256": "c04189d4ed55fe7e3f7f985cbb233938f62197ea348840750f3af3fbfa4aae12",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a351bis",
+      "commentary_chars": 1572,
+      "commentary_sha256": "3b8ab779bcebe1e0c82d6e55bcc699486ececafc41b5e7c685b6167f474d02ce",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a352",
+      "commentary_chars": 1646,
+      "commentary_sha256": "c2bd41e04d66cd1b556580f47325cd43d8584d74d8a986b6203be67a04dbbd44",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a353",
+      "commentary_chars": 1438,
+      "commentary_sha256": "b0c6b31cd37f271ff1c187264c466e58531a1f208a0485e173e351e42a1cc366",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a354",
+      "commentary_chars": 1623,
+      "commentary_sha256": "bc1f9a099fb4c902d242b7e98b18c5ddaa381f402ddacc902a0b12ecf837a543",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a354a",
+      "commentary_chars": 1704,
+      "commentary_sha256": "148e95aa9215dc63d233da52d2aab82865cfc546b83fca1b7bc75fdff28254e5",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a354b",
+      "commentary_chars": 1548,
+      "commentary_sha256": "65049ebd9f6f7df599dc2ae5f10aee1eef29d946e0d8f59e0b615b1e4bc3184f",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a355",
+      "commentary_chars": 1894,
+      "commentary_sha256": "386aa9818385a3be16cbd7dda1a3365bc03ceeaff80ce5bce5b8805770baa053",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a356",
+      "commentary_chars": 1727,
+      "commentary_sha256": "b9370d51072f3801f1d9f648322f2f9847e21d92e51329f24dd1f5e5221a732d",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a357",
+      "commentary_chars": 1586,
+      "commentary_sha256": "dd3647514b0e427b07d0313928f0ce3eeffa36aedb59a4d4ab8f8fcdb19d9b95",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a358",
+      "commentary_chars": 1693,
+      "commentary_sha256": "60d129a8844864c5fcb957cc4d169f3bccfdda28acc56f1a402645ae28564447",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a359",
+      "commentary_chars": 2237,
+      "commentary_sha256": "91d845056be0070c37c36cbee6dae22be6dc0764ead11765135f8f0416b86ab3",
+      "source_read": true,
+      "author_content_check": true
+    }
+  ],
+  "case_law_sources": [
+    "ECLI:NL:GHARL:2025:601"
+  ],
+  "repeated_paragraphs": [],
+  "unresolved_blockers": [],
+  "limitations": [
+    "152 out-of-scope units remain uncommented.",
+    "Independent second reading pending.",
+    "Selective case-law research; no exhaustive later-treatment audit.",
+    "Length and repetition checks do not establish legal quality.",
+    "Special prosecution procedure for ministers not developed."
+  ],
+  "author_check": "All twenty units read against source. Checked distinct computer-data/system elements and current 138b references; family/complaint rules; statutory penalty differences; 355 four routes versus narrow 356; 357 versus 358; 359 functional possession and case context. This is author checking, not independent review.",
+  "link_check": {
+    "missing": []
+  },
+  "checkpoint_build": {
+    "full_builder_exit": 1,
+    "reason": "152 out-of-scope units remain; full builder gate intact.",
+    "reading_checkpoint": "Incomplete checkpoint: 660/812 units, 33 reading files",
+    "rendered_assigned_units": 20,
+    "statutory_text_agreement": 1.0
+  },
+  "validation": {
+    "report": "validation-author-a348-a359-result.json",
+    "assigned_batch_complete": true,
+    "whole_book_ok": false,
+    "remaining_outside_scope": 152,
+    "statutory_text_agreement": 1.0
+  }
+}
