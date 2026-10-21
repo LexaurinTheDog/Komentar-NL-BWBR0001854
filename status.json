@@ -23,7 +23,8 @@
     "official_current_html_recheck": "Fresh HTTP 200 genuine dated official HTML; evidence sources/author-a319-a328quater-html-fetch.json",
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
-    "bounded_author_recheck": "preflight-author-a378-a395-result.json"
+    "bounded_author_recheck": "preflight-author-a378-a395-result.json",
+    "latest_bounded_author_check": "preflight-author-batch38-result.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -121,12 +122,12 @@
     "ECLI:NL:RBMNE:2024:5045",
     "ECLI:NL:RBROT:2010:BM8116"
   ],
-  "case_law_scope": "Selective primary research. Latest author batch uses two substantive full judgments; a third read judgment rejected as unreasoned. Not exhaustive.",
+  "case_law_scope": "Selective primary-source research; latest author batch reads and uses HR 2015:3462 and kantonrechter judgments RBMNE 2024:5729 and RBROT 2024:9612. Cases support articles 430a and 429ter; no exhaustive or appeal-status claim.",
   "build_result": {
-    "exit_code": 1,
+    "returncode": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 112 jednotkám, např.: ['a396', 'a397', 'a400', 'a401', 'a402', 'a403', 'a405', 'a406', 'a407', 'a408']\n",
-    "remaining_outside_scope": 112
+    "stderr": "CHYBÍ komentář k 52 jednotkám, např.: ['a435f', 'a436', 'a437', 'a437bis', 'a437ter', 'a437quater', 'a438', 'a439', 'a440', 'a441']\n",
+    "scope": "Unchanged complete-book builder; missing out-of-batch commentary remains an expected blocker."
   },
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
@@ -134,8 +135,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1257023,
     "errors": [
-      "krátký/chybějící komentář u 52 jednotek: ['a435f(0<120)', 'a436(0<400)', 'a437(0<400)', 'a437bis(0<400)', 'a437ter(0<400)', 'a437quater(0<400)', 'a438(0<400)', 'a439(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 52 jednotek: ['a435f(0<120)', 'a436(0<400)', 'a437(0<400)', 'a437bis(0<400)', 'a437ter(0<400)', 'a437quater(0<400)', 'a438(0<400)', 'a439(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -166,35 +166,35 @@
   "updated_at": "2026-10-21T00:50:53.472428+00:00",
   "preflight": {
     "complete": true,
-    "verified_at": "2026-10-20T23:48:04.367283+00:00",
-    "report": "preflight-author-a319-a328quater-result.json",
-    "decisive_date_preserved": "2026-10-19",
+    "report": "preflight-author-batch38-result.json",
+    "decisive_date": "2026-10-19",
+    "verified_at": "2026-10-21T00:45:33.466769+00:00",
     "full_statutory_units_matched": 812,
     "unresolved_blockers": [],
     "scope": [
-      "a319",
-      "a320",
-      "a321",
-      "a322",
-      "a322a",
-      "a323",
-      "a323a",
-      "a324",
-      "a325",
-      "a326",
-      "a326a",
-      "a326b",
-      "a326c",
-      "a326d",
-      "a326e",
-      "a327",
-      "a328",
-      "a328bis",
-      "a328ter",
-      "a328quater"
+      "a426ter",
+      "a427",
+      "a428",
+      "a429",
+      "a429a",
+      "a429bis",
+      "a429ter",
+      "a429quater",
+      "a429quinquies",
+      "a429sexies",
+      "a430",
+      "a430a",
+      "a430b",
+      "a431",
+      "a435",
+      "a435a",
+      "a435b",
+      "a435c",
+      "a435d",
+      "a435e"
     ]
   },
-  "validation_checked_at": "2026-10-21T00:23:24.863304+00:00",
+  "validation_checked_at": "2026-10-21T00:51:31.491824+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -922,8 +922,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1257023,
     "errors": [
-      "krátký/chybějící komentář u 52 jednotek: ['a435f(0<120)', 'a436(0<400)', 'a437(0<400)', 'a437bis(0<400)', 'a437ter(0<400)', 'a437quater(0<400)', 'a438(0<400)', 'a439(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 52 jednotek: ['a435f(0<120)', 'a436(0<400)', 'a437(0<400)', 'a437bis(0<400)', 'a437ter(0<400)', 'a437quater(0<400)', 'a438(0<400)', 'a439(0<400)']"
     ],
     "warnings": [],
     "ok": false
