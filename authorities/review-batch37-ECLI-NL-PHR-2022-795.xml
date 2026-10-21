@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:PHR:2022:795</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-10-18T12:46:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-09-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Parket_bij_de_Hoge_Raad" scheme="overheid.RechterlijkeMacht">Parket bij de Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Datum genomen">2022-09-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/04384</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/conclusie">Conclusie</dcterms:type>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:HR:2022:1473" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/latereAanleg">Arrest Hoge Raad: ECLI:NL:HR:2022:1473</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:PHR:2022:795">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:PHR:2022:795</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-10-17T12:14:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-09-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:PHR:2022:795 Parket bij de Hoge Raad , 06-09-2022 / 20/04384</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:PHR:2022:795:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Conclusie AG. Wederrechtelijk dwingen (art. 284 Sr) en smaadschrift (art. 261 Sr). Middel 1: kan het gedurende 7 minuten filmen en livestreamen van een persoon op straat terwijl deze persoon daaraan tracht te ontkomen onder het toepassingsbereik van art. 284 worden gebracht, of betreft het hier nog slechts een niet-strafbare vorm van hinderlijk of ergerlijk gedrag? AG gaat nader op dit thema in en concludeert dat het hof heeft kunnen oordelen dat het gedrag van de verdachte wederrechtelijk is en onder de algemen dwangbepaling van art. 284 Sr valt, met name gelet op de aard en intensiteit van de handelingen van de verdachte. Middel 2:  bewijs- en kwalificatieklacht m.b.t. bewezenverklaarde smaadschrift. Volgens AG treft dit middel geen doel. Conclusie strekt tot verwerping van het beroep.</para>
+    </inhoudsindicatie>
+  <conclusie id="ECLI:NL:PHR:2022:795:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para />
+  <parablock>
+    <para>PROCUREUR-GENERAAL</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>BIJ DE</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>HOGE RAAD DER NEDERLANDEN</para>
+  </parablock>
+  <para />
+  <para />
+  <para />
+  <parablock>
+    <para>
+      <emphasis role="bold">Nummer	</emphasis>20/04384 </para>
+    <para>
+      <emphasis role="bold">Zitting</emphasis>		6 september 2022 </para>
+  </parablock>
+  <para />
+  <para />
+  <parablock>
+    <para>CONCLUSIE</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>E.J. Hofstee </para>
+  </parablock>
+  <para />
+  <para />
+  <parablock>
+    <para>In de zaak</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>
+      [verdachte] , </para>
+    <para>geboren in [geboorteplaats] op [geboortedatum] 1973,</para>
+    <para>hierna: de verdachte.</para>
+  </parablock>
+  <para />
+  <paragroup>
+    <para>
+      <emphasis role="bold">I. 	Inleiding</emphasis>
+    </para>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Het gerechtshof Den Haag heeft de verdachte bij arrest van 28 december 2020 wegens 1. “een ander door een feitelijkheid, gericht tegen die ander, wederrechtelijk dwingen iets te dulden” en 2. en 3. “smaadschrift, meermalen gepleegd”, veroordeeld tot een voorwaardelijke gevangenisstraf voor de duur van twee weken (met een proeftijd van twee jaren). Daarnaast is ten behoeve van de rechthebbende de bewaring gelast van het in beslaggenomen en nog niet teruggegeven telefoontoestel. Voorts is de vordering tot schadevergoeding van de benadeelde partij toegewezen tot een bedrag van € 500,- en is aan de verdachte de schadevergoedingsmaatregel als bedoeld in art. 36f Sr opgelegd, een en ander zoals in het arrest bepaald.  </para>
+      </listitem>
+      <listitem>
+        <para>Namens de verdachte hebben R.J. Baumgardt, P. van Dongen en S. van den Akker, allen advocaat te Rotterdam, twee middelen van cassatie voorgesteld.</para>
+      </listitem>
+      <listitem>
+        <para>Ook de advocaat van de benadeelde partij heeft een schriftuur ingediend. Omdat aan die schriftuur een formeel verzuim kleeft dat niet binnen de daarvoor door de rolraadsheer gestelde termijn is hersteld, worden de twee daarin geformuleerde klachten in deze conclusie buiten beschouwing gelaten en niet besproken. </para>
+      </listitem>
+    </orderedlist>
+    <para />
+  </paragroup>
+  <paragroup>
+    <para>
+      <emphasis role="bold">II. 	Bewezenverklaring, bewijsmiddelen en bewijsoverwegingen</emphasis>
+    </para>
+    <para>4. Het hof heeft overeenkomstig de tenlastelegging ten laste van de verdachte onder meer bewezenverklaard dat:</para>
+    <para> “1.</para>
+    <para>hij op 19 juni 2018 te [plaats] [aangeefster] door enige feitelijkheid wederrechtelijk heeft gedwongen iets te dulden, hierin bestaande dat die [aangeefster] werd gedwongen te dulden dat hij, verdachte, die voornoemde [aangeefster] achtervolgde en met zijn telefoon filmde, terwijl deze film live op de Facebookpagina van de verdachte werd uitgezonden;</para>
+    <para>
+      <?linebreak?>[…] <?linebreak?>3.</para>
+    <para> hij in de periode van 7 juni 2018 tot en met 3 juli 2018 te [plaats] opzettelijk de eer en de goede naam van [benadeelde 1] en/of (medewerkers van) basisschool [A] heeft aangerand, door tenlastelegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, immers heeft verdachte met voormeld doel op internet (op de openbare Facebookpagina van verdachte) meerdere afbeeldingen tentoongesteld, te weten:</para>
+    <para> - Een film waarop de verdachte zichtbaar is met als achtergrond voornoemde basisschool en waarop verdachte zegt dat er misbruik op de voornoemde school heeft plaatsgevonden en dat de voornoemde school geld wil van de gemeente omdat zij met fraude bezig zijn, namelijk met citotoetsen en eindexamens en dat de schooldirecteur van de voornoemde school hem, verdachte, thuis aan het stalken is.”</para>
+    <para>5. De door het hof in de bijlage bij het bestreden arrest opgenomen bewijsmiddelen houden het volgende in:</para>
+    <para> “<emphasis role="underline">Ten aanzien van het onder 1 en 2 bewezenverklaarde </emphasis></para>
+    <para>1. Een proces-verbaal van aangifte d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-1 (blz. 33 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para> als de op 3 juli 2018 afgelegde verklaring van [aangeefster] : </para>
+    <para>Mijn ex [verdachte] - verder [verdachte] te noemen - heeft een openbaar Facebookaccount. Iedereen kan zien wat hij op Facebook plaatst en deelt. </para>
+    <para>Op 19 juni 2018 wilde ik mijn dochter [betrokkene 1] naar school brengen. Die school zit op de [plaats] . Toen ik op de [plaats] liep, zag ik een man vlakbij de gymzaal van de school staan. Ik zei tegen mijn dochter: "Volgens mij staat jouw vader daar". Ik zag opeens [betrokkene 2] , een andere dochter van [verdachte] , voor mij staan. Ik zei tegen [betrokkene 1] : "Rennen nu". Ik zei dit omdat ik weet hoe agressief [verdachte] kan zijn als [betrokkene 2] erbij is. Ik rende met mijn dochter richting het winkelcentrum. Bij een T-splitsing zag ik een auto stilstaan. Ik pakte mijn dochter vast, stopte haar in de auto en zei tegen de vrouw die in de auto zat: "Neem haar mee". Ik was in paniek. Ik zag dat [verdachte] achter ons aan kwam rennen. Ik schreeuwde tegen de vrouw dat ze weg moest rijden. </para>
+    <para> [verdachte] begon tegen mij te schreeuwen en bleef achter mij aan lopen. Ik zei dat hij daarmee moest stoppen. Ik zag dat hij alles met zijn telefoon aan het filmen was. Ik heb diverse malen geroepen dat hij weg moest wezen. [verdachte] bleef achter mij aan rennen. Ik ben de Jumbo in gerend en heb daar de politie gebeld.</para>
+    <para>
+      <?linebreak?>Toen ik op het politiebureau was, kreeg ik appjes van diverse mensen. In die appjes stond dat ik rondging op Facebook. Ik heb vervolgens op Facebook gekeken en zag dat het beeldmateriaal van alles wat er net was gebeurd op het openbare account van [verdachte] stond. Ik vind het schokkend en voel me erg in mijn eer aangetast. Zijn hele account staat vol met filmpjes en foto's die mij in een kwaad daglicht plaatsen. Hij krijgt heel veel reacties van mensen, heel veel mensen zien de berichten die [verdachte] plaatst. </para>
+    <para>Aan niemand werd het recht of de toestemming gegeven om het feit waarvan ik aangifte heb gedaan te plegen. </para>
+    <para> 2. Een proces-verbaal "ontvangst klacht door hulpofficier van justitie" d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-6 (blz. 37 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para> als de op 3 juli 2018 afgelegde verklaring van [aangeefster] : </para>
+    <para>Mijn ex [verdachte] heeft mij op de openbare weg gefilmd en daarbij diverse onwaarheden geroepen, zoals dat ik zijn kind heb ontvoerd. Hij geeft hier ruchtbaarheid aan door het in de openbaarheid te brengen door het filmpje op Facebook te plaatsen. Het is voor iedereen zichtbaar en er wordt ook door mensen op gereageerd. </para>
+    <para>3. Een proces-verbaal d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945 (blz. 43 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para>als relaas van de betreffende opsporingsambtenaar: </para>
+    <para>Ik, verbalisant [verbalisant 1] , heb het Facebookaccount van [verdachte] bekeken. Dit betreft een open account, dat voor iedereen vrij toegankelijk is. Het account wordt door 67 mensen gevolgd en heeft 666 Facebookvrienden. </para>
+    <para>Op 19 juni 2018 is [verdachte] live gegaan. Op dit filmpje is te zien dat hij achter personen aanrent. Hij roept meermalen " [betrokkene 1] " en hij roept dat ze niet harder kunnen rennen dan hij. Als hij de personen nadert, is te zien dat het om een vrouw en een kind gaat. De vrouw is in paniek. Zij stopt het kind in een auto en schreeuwt in paniek: "Neem haar mee, neem haar mee". </para>
+    <para>De vrouw wijst naar [verdachte] en zegt dat hij weg moet gaan. De vrouw blijft roepen dat hij weg moet wezen. Hij wijst naar de vrouw en zegt dat zij zijn kind heeft ontvoerd. Hij blijft achter haar aanlopen en haar filmen. Hij zegt: " [aangeefster] , jij hebt mijn kind ontvoerd, jij zorgt dat ik mijn kind terugkrijg". Hij blijft achter de vrouw aanlopen en tegen haar schreeuwen. De vrouw blijft doorlopen. Hij roept meerdere keren naar haar dat zij zijn kind heeft ontvoerd. </para>
+    <para> De vrouw spreekt een voorbijgangster aan en vraagt haar de politie te bellen omdat die man haar lastigvalt. De vrouw rent naar de overkant van de straat en vraagt aan een voorbijganger om de politie te bellen omdat de man een contactverbod met haar dochter heeft. [verdachte] blijft achter de vrouw aan lopen tot aan het winkelcentrum, alwaar de vrouw de supermarkt Jumbo inloopt. </para>
+    <para>Het filmpje duurt in totaal ruim 7 minuten en is 1100 keer bekeken en 13 keer gedeeld. Een aantal personen heeft ook op het filmpje gereageerd. </para>
+    <para>4. De verklaring van de verdachte, afgelegd ter terechtzitting in eerste aanleg van 1 oktober 2019, voor zover inhoudende - zakelijk weergegeven -: </para>
+    <para>Op 19 juni 2018 was ik in de buurt van de school van mijn dochter, waar ik een filmpje heb gemaakt dat ik live op Facebook heb uitgezonden. In dat filmpje was [aangeefster] te zien en is te horen "jij hebt mijn kind ontvoerd". Ik bleef achter [aangeefster] aanlopen terwijl ik haar filmde. </para>
+    <para>5. De verklaring van de verdachte, afgelegd ter terechtzitting in hoger beroep van 14 december 2020, voor zover inhoudende - zakelijk weergegeven -: </para>
+    <para>Op 19 juni 2018 kwam ik in [plaats] mijn ex [aangeefster] en mijn dochter [betrokkene 1] tegen. Ik ben naar hen toegelopen. Ik film bepaalde situaties en de livestream van die dag begint al op het moment dat ik begon te rennen toen ik mijn dochter zag. Het klopt dat ik een aantal keer heb geroepen: "Jij hebt mijn kind ontvoerd". </para>
+    <para> 6. Een proces-verbaal van verhoor verdachte d.d. 5 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-16 (blz. 75 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -: </para>
+    <para>als de op 5 juli 2018 afgelegde verklaring van de verdachte:</para>
+    <para>
+      <?linebreak?>Mijn account van Facebook is een open account. Iedereen kijkt mee. Ik zet alles op mijn livestreams, alles op openbaar. </para>
+    <para>Vorenstaande bewijsmiddelen zijn telkens, ook in hun onderdelen, slechts gebruikt voor het bewijs van dat feit en/of die feiten waarop zij blijkens hun inhoud in het bijzonder betrekking hebben. </para>
+    <para> <emphasis role="italic">Nadere bewijsoverweging ten aanzien van het onder 1 bewezenverklaarde </emphasis></para>
+    <para> Uit de hiervoor onder 1 en 3 opgenomen bewijsmiddelen, in onderling verband en samenhang beschouwd, komt naar voren dat de verdachte gedurende ongeveer 7 minuten achter [aangeefster] is aangelopen en achter haar is aangerend, haar ondertussen met zijn telefoon filmend en die film live op Facebook uitzendend, terwijl [aangeefster] aan hem tracht te ontkomen, meermalen naar hem heeft geroepen dat hij moest stoppen en weg moest gaan en met het oog op het gedrag van de verdachte twee voorbijgangers heeft gevraagd de politie te bellen. Naar het oordeel van het hof is aldus, anders dan de raadsvrouw heeft gesteld, wettig en overtuigend bewezen dat de verdachte door zijn hierboven beschreven gedrag opzettelijk wederrechtelijk heeft veroorzaakt dat [aangeefster] had te dulden dat zij door hem werd achtervolgd en gefilmd, terwijl die film live op Facebook werd uitgezonden en zijn aldus de bestanddelen, die liggen besloten in de zinsnede "wederrechtelijk dwingt iets te dulden" van artikel 284, eerste lid, onder 1°, van het Wetboek van Strafrecht, wettig en overtuigend bewezen.</para>
+    <para>
+      <?linebreak?>
+      <emphasis role="underline">Ten aanzien van het onder 3 bewezenverklaarde </emphasis>
+    </para>
+    <para> 7. Een proces-verbaal van aangifte d.d. 4 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018177438-1 (blz. 67 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para> als de op 4 juli 2018 afgelegde verklaring van [benadeelde 1] : </para>
+    <para>Ik ben de directeur van de openbare basisschool ' [A] ’ in [plaats] . Op 3 juli 2018 heeft [verdachte] een filmpje op Facebook geplaatst. Hij stond rond 08:10 uur op een kruispunt bij de school te filmen. Het betrof een zogeheten 'liveblog', zodat iedereen het direct kan zien. In deze 'liveblog' hoor je hem onder meer zeggen: "Ze willen meer geld, omdat ze met fraude bezig zijn. Ze plegen fraude met eindexamens en ze manipuleren de citotoetsen. Er wordt hier gefraudeerd, er wordt hier gemanipuleerd en er wordt hier misbruikt". </para>
+    <para> Dan komt de politie aanrijden. Er waren namelijk meerdere meldingen gedaan. Op het moment dat de politie hem aanspreekt en vraagt of hij met filmen wil stoppen, gaat hij zijn video afronden en zegt hij dat ik hem stalk. Je hoort hem onder andere zeggen: "De directeur hier met zijn groene auto, die stalkt mij. Hij stalkt mij en mijn huis." </para>
+    <para> 8. Een proces-verbaal d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945 (blz. 43 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para>als relaas van de betreffende opsporingsambtenaar: </para>
+    <para>Ik, verbalisant [verbalisant 1] , heb het Facebookaccount van [verdachte] bekeken. Dit betreft een open account, dat voor iedereen vrij toegankelijk is. Het account wordt door 67 mensen gevolgd en heeft 666 Facebookvrienden. </para>
+    <para>Op 3 juli 2018 stond [verdachte] bij de [A] school, waarbij hij live ging. In het filmpje haalt hij een aantal keer aan dat er misbruik op de [A] school heeft plaatsgevonden en dat zij geld van de gemeente willen omdat ze bij citotoetsen en eindexamens met fraude bezig zijn. Hij sluit het filmpje af met te zeggen dat de directeur van de school hem thuis aan het stalken is. </para>
+    <para>9. Een proces-verbaal d.d. 5 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018177483-3 (blz. 72 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para>als relaas van de betreffende opsporingsambtenaar: </para>
+    <para> Op 5 juli 2018 heb ik, verbalisant [verbalisant 2] , een filmpje bekeken dat wij hebben aangetroffen op het open Facebookaccount van [verdachte] . Ik zie dat hij op een kruispunt heen en weer loopt, terwijl hij zichzelf filmt en regelmatig in de richting van een school wijst. Hij zegt daarbij onder meer dat deze mensen geld willen omdat ze met fraude met eindexamens en citotoetsen bezig zijn, dat ze de citotoetsen en eindexamens manipuleren, dat er misbruik van kinderen op deze school plaatsvindt en dat de directeur hem in zijn huis loopt te stalken.</para>
+    <para>
+      <?linebreak?>10. Een proces-verbaal van verhoor verdachte d.d. 5 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-16 (blz. 75 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven – </para>
+    <para> als de op 5 juli 2018 afgelegde verklaring van de verdachte: </para>
+    <para>Mijn account van Facebook is een open account. Iedereen kijkt mee. Ik zet alles op mijn livestreams, alles op openbaar. </para>
+    <para>
+      <emphasis role="italic">Nadere bewijsoverweging ten aanzien van het onder 3 bewezenverklaarde </emphasis>
+    </para>
+    <para>De raadsvrouw heeft vrijspraak van het onder 3 tenlastegelegde bepleit, stellende dat de verdachte niet de bedoeling had de eer en goede naam van de school, haar medewerkers en de directeur aan te tasten. </para>
+    <para> Het hof kan die stelling, die - naar het hof, mede gezien de daaraan door de raadsvrouw verbonden conclusie (vrijspraak), begrijpt - erop neerkomt dat het voor een bewezenverklaring vereiste opzet niet wettig en overtuigend is bewezen, niet onderschrijven. De verdachte heeft blijkens de gebezigde bewijsmiddelen in een door hem opgenomen en door hem op een voor eenieder toegankelijke Facebookpagina gepost filmpje de (medewerkers van) basisschool [A] en de directeur van die school beticht van misbruik en fraude en laatstgenoemde tevens van stalking/belaging beschuldigd. Gelet op de aard en inhoud van deze door de verdachte gedane uitlatingen en gelet op het medium waarvan hij zich heeft bediend om deze uitlatingen te doen, kan naar het oordeel van het hof niet anders worden geconcludeerd dan dat de verdachte willens en wetens - mitsdien met opzet - de reputatie (de eer en goede naam) van [benadeelde 1] , directeur van basisschool [A] , en/of van (medewerkers van) die school publiekelijk heeft aangetast.”</para>
+  </paragroup>
+  <paragroup>
+    <parablock>
+      <para>
+        <emphasis role="bold">III.	Het eerste middel</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">Middel</emphasis>
+      </para>
+    </parablock>
+    <para>6. Het eerste middel klaagt met betrekking tot het onder 1. bewezenverklaarde feit dat het gedurende zeven minuten ‘livestreamen’ van een persoon op straat terwijl deze persoon daaraan tracht te ontkomen niet kan worden gekwalificeerd als het door een feitelijkheid wederrechtelijk dwingen iets te dulden als bedoeld in art. 284 Sr. </para>
+    <para>
+      <emphasis role="italic">Opbouw bespreking middel en samenvatting voorval</emphasis>
+    </para>
+    <para>7. In de toelichting op het middel wordt onder meer gesteld: “De genoemde gedragingen kunnen niet, althans niet zonder meer als een voldoende inbreuk worden gezien op de persoonlijke vrijheid, noch is aangeefster in voldoende mate in haar vrijheid beperkt c.q. onder druk gezet”. Ik begrijp de toelichting op het middel aldus, dat het gedrag van de verdachte mede gelet op enkele andere bepalingen in het Wetboek van Strafrecht weliswaar kan worden aangemerkt als hinderlijk of ergerlijk gedrag, maar niet als strafbaar gedrag in de zin van art. 184 Sr. Daarnaast wordt in de schriftuur opgemerkt dat het handelen van de verdachte niet verschilt van bijvoorbeeld bepaalde televisieprogramma’s, waarbij mensen of instanties onverhoeds een camera onder hun neus wordt geduwd, en het filmen en via sociale media verspreiden van politieoptreden tijdens een demonstratie. </para>
+    <para>8. Alvorens het middel te bespreken, sta ik stil bij i) enkele andere strafbepalingen in het Wetboek van Strafrecht die betrekking hebben op de vrijheid van handelen en de inbreuk op iemands privéleven in relatie tot art. 284 Sr en ii) het toepassingsbereik van art. 284 Sr. </para>
+    <para>9. Niet door de verdediging betwist is hetgeen zich blijkens de gebezigde bewijsmiddelen feitelijk heeft afgespeeld en op het volgende neerkomt. De verdachte heeft de aangeefster (zijn ex) opgewacht bij de basisschool van hun dochter en vervolgens gedurende ruim zeven minuten achtervolgd en openlijk gefilmd op de openbare weg en geroepen "jij hebt mijn kind ontvoerd", terwijl hij dit live uitzond op het sociale medium Facebook. De aangeefster probeerde aan de filmende verdachte te ontkomen door weg te rennen en riep meermaals dat hij daarmee moest stoppen en weg moest wezen. De verdachte bleef achter de aangeefster aan rennen en filmen totdat zij een supermarkt inging. </para>
+    <para>
+      <emphasis role="italic">Onderlinge verhouding aangehaalde wettelijke strafbepalingen</emphasis>
+    </para>
+    <parablock>
+      <para>10. Ter beantwoording van de vraag waarom het openbaar ministerie met betrekking tot feit 1 heeft gekozen voor enkel het tenlasteleggen van art. 284, eerste lid, Sr (subsidiair in pogingsvorm) en niet voor enige andere strafbepaling als in randnummer 8 bedoeld, komt het mij dienstig voor een korte beschouwing te wijden aan de volgende strafbepalingen:  </para>
+      <para> - Art. 139f Sr</para>
+      <para> “Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die, gebruik makende van een technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, opzettelijk en wederrechtelijk van een persoon, aanwezig in een woning of op een andere niet voor het publiek toegankelijke plaats, een afbeelding vervaardigt.”</para>
+      <para>- Art. 284, eerste lid, Sr</para>
+      <para>“1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:</para>
+      <para>1°. hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;</para>
+      <para> 2°. hij die een ander door bedreiging met smaad of smaadschrift dwingt iets te doen, niet te doen of te dulden.”</para>
+      <para>
+        <?linebreak?>- Art. 285b, eerste lid, Sr</para>
+      <para>“1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, als schuldig aan belaging, gestraft met een gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.”</para>
+      <para>
+        <?linebreak?>- Art. 426bis Sr<footnote-ref linkend="_303807d1-9066-48e9-b88a-ad9eb76ea036" /></para>
+    </parablock>
+    <parablock>
+      <para>“Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.”</para>
+      <para>- Art. 441b Sr</para>
+      <para>“Met hechtenis van ten hoogste twee maanden of geldboete van de derde categorie wordt gestraft hij die, gebruik makende van een daartoe aangebracht technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt, van een persoon, aanwezig op een voor het publiek toegankelijke plaats, wederrechtelijk een afbeelding vervaardigt.”</para>
+      <para>11. Gezien de andere hierboven aangehaalde delictsomschrijvingen wekt het geen verbazing dat het openbaar ministerie de tenlastelegging wat betreft feit 1 heeft toegesneden op art. 284, eerste lid aanhef en onder 1°, Sr. De artikelen 139f en 441b Sr komen in het onderhavige geval niet in aanmerking, reeds omdat de beelden niet heimelijk door de verdachte zijn gemaakt. Voor art. 139f Sr komt daar nog bij dat de verdachte filmde op een publieke plaats, zodat ook om die reden deze bepaling toepasselijkheid mist. Belaging in de zin van art. 285b Sr valt in dit geval ook af, omdat, gelet op het bewijsmateriaal dat tot uitdrukking komt in de gebezigde bewijsmiddelen, het handelen van de verdachte geen stelselmatigheid oplevert. Art. 426bis Sr zou voor althans een deel nog wel als grondslag voor de tenlastelegging hebben kunnen dienen, maar dan alleen voor zover het gaat om het ‘volgen’. De delictsomschrijving van deze overtreding bestrijkt evenwel niet het tegen de wil van de aangeefster filmen en het live uitzenden van de filmbeelden, en juist dít handelen vormt het hoofdonderdeel van het strafrechtelijk verwijt dat aan de verdachte wordt gemaakt; het achtervolgen stond in het teken van het kunnen blijven filmen en livestreamen. </para>
+      <para>12. Uit het voorgaande volgt dat (kort gezegd) alleen art. 284, eerste lid, Sr hier overblijft. Door het relatief ruime toepassingsbereik ervan kunnen tevens het filmen op een openbare plaats en het direct uitzenden van de filmbeelden in de tenlastelegging worden betrokken. Een beperking tot het heimelijk of op een niet-openbare plaats filmen, doet zich in het kader van art. 284 Sr niet voor. </para>
+      <para>13. Dat neemt niet weg dat volgens sommige auteurs er wel een ander bezwaar aan art. 284 Sr kleeft. In hun ogen wordt aan deze zogenoemde vangnetbepaling wel een heel ruime toepassing gegeven, zeker in vergelijking met de meer specifieke en gepreciseerde ‘dwangdelicten’,<footnote-ref linkend="_e75ce6a0-8cde-4d1a-be01-362a118bbd6b" /> waardoor in het huns inziens vage kader van art. 284 Sr de scheidslijn tussen enerzijds werkelijk strafbaar gedrag en anderzijds het (nog) niet-strafbaar hinderlijk of ergerlijk gedrag,<footnote-ref linkend="_c4bbf520-d71a-48ce-ae9b-175febcfb6f6" /> dan wel het gedrag dat onder de actieradius van de civielrechtelijke onrechtmatige daad valt, dreigt te vertroebelen. Daarover nu meer.  </para>
+    </parablock>
+    <para>
+      <emphasis role="italic">Toepassingsbereik art. 284 Sr</emphasis>
+    </para>
+    <para>14. Art. 284 Sr, ook wel aangemerkt als het algemene misdrijf van dwang, is ingevoerd met de inwerkingtreding van het Wetboek van Strafrecht van 1886, zij het dat het artikel in zijn oorspronkelijke vorm beperkter van inhoud was. Oorspronkelijk was alleen strafbaar degene die een ander door geweld of door bedreiging met geweld wederrechtelijk dwong iets te doen, niet te doen of te dulden. Al kort daarna bleek echter behoefte te bestaan aan verruiming door ook dwang strafbaar te stellen zonder dat deze door geweld of bedreiging met geweld wordt uitgeoefend, maar die niettemin “in zoo hooge mate wederrechtelijk de persoonlijke vrijheid aantast, dat hij in eene beschaafde maatschappij niet mag worden gedoogd”.<footnote-ref linkend="_463d28a2-4a06-4a15-ab39-1001a41827b0" /> In een eerste wetsvoorstel werd daarom voorgesteld een nieuw art. 284bis Sr toe te voegen, luidend: “Hij, die een ander door hinder of overlast of door het bezigen van middelen, geschikt om vrees aan te jagen, wederrechtelijk dwingt iets te doen, niet te doen of te dulden, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van ten hoogste honderd gulden.” Deze omschrijving werd echter te vaag en rekbaar, en dus te onbepaald, bevonden en heeft om die reden de eindstreep niet gehaald.<footnote-ref linkend="_8ce63866-1e6b-49a6-a08b-240cb5e194e4" /> In wat aangepaste bewoordingen heeft een delictsomschrijving met die strekking uiteindelijk een plaats gekregen in art. 426bis Sr (zie hierboven randnummer 8),<footnote-ref linkend="_3922a43d-60e5-4b05-9aee-06789a4704cd" /> en tezelfdertijd werden aan art. 284 Sr de dwangmiddelen “enige andere feitelijkheid” en “bedreiging met enige andere feitelijkheid” toegevoegd.<footnote-ref linkend="_f3395b23-fbd0-435e-9285-291e46463f68" /></para>
+    <para>15. Dat ontwerp-art. 284bis Sr uiteindelijk geen plaats in het Wetboek van Strafrecht verwierf, kan een indicatie zijn voor de juistheid van de stelling dat de in dat ontwerp voorkomende – maar veel te vage en rekbare – begrippen hinder en overlast worden uitgesloten van het bestanddeel ‘(bedreiging met) feitelijkheden’ en derhalve niet onder het bereik van art. 284 Sr vallen. Volgens Lindenberg<footnote-ref linkend="_c4c8ea1f-7780-4a38-98cd-b502a811ed1e" /> lijken de Hoge Raad in zijn arrest van 19 november 1923, ECLI:NL:HR:1923:37, <emphasis role="italic">NJ</emphasis> 1924, p. 153 en mijn voormalig ambtgenoot Machielse in zijn respectieve conclusies voorafgaand aan HR  3 juni 1997, ECLI:NL:HR:1997:ZD0728, <emphasis role="italic">NJ</emphasis> 1997/598 en HR 6 januari 1998, ECLI:NL:HR:1998:ZC8317, <emphasis role="italic">NJ</emphasis> 1998/607 dit standpunt te huldigen. Zo een opvatting gaat Lindenberg echter “te ver”. Hij meent dat de Commissie van Rapporteurs destijds bedenkingen had tegen ‘hinder’ en ‘overlast’ “omdat zij [...] als <emphasis role="italic">bestanddelen</emphasis> zouden meebrengen dat het slachtoffer een te grote invloed op de vervulling ervan zou bezitten en elke vorm van hinder en overlast, hoe gering ook, aan de bestanddelen zou beantwoorden”. Daaraan verbindt Lindenberg op zich zelf terecht de conclusie dat de Commissie van Rapporteurs nog niet zonder meer “alle vormen van hinder en overlast, dus ook grove vormen, integraal uit het wetsvoorstel wilde weren”. Daarbij kan bovendien erop worden gewezen dat enkele tegenvoorstellen die tijdens de parlementaire behandeling de revue passeerden eveneens een relatief ruime strafbaarstelling inhielden. Lindenberg stelt vast: “Al met al kan met betrekking tot de opgeworpen vraag alleen worden gezegd dat het begrip ‘feitelijkheden’ volgens de commissie klaarblijkelijk niet alle vormen van hinder en overlast diende te omvatten.”<footnote-ref linkend="_bc1d0e57-8089-4798-9db2-bb1e8b6c5228" /> Ik kan deze gedachtegang van Lindenberg wel volgen, juist omdat de begrippen ‘hinder’ en ‘overlast’ op zichzelf geen vast omlijnde strafrechtelijke betekenis hebben. Niet helemaal valt uit te sluiten dat bepaalde vormen van hinder en overlast zich wèl als een feitelijkheid in de zin van art. 284 Sr zouden kunnen aandienen en laten kwalificeren. Opmerking verdient in dit verband dat in het civiele recht de begrippen hinder en overlast in het kader van de onrechtmatige daad scherper zijn afgebakend. Daar komt aansprakelijkheid pas in beeld, indien de hinder of overlast onrechtmatig is veroorzaakt. Dit is het geval als de overlast of hinder wat hevigheid betreft “boven een bepaald niveau uitkomt”.<footnote-ref linkend="_32217060-e2c7-4f1a-bf18-c6cd0ff9b914" /> Hoe hoog de lat ligt, en wat dienaangaande in een concrete zaak al wel en wat (nog) niet onrechtmatig is, hangt af van alle omstandigheden van het geval, waaronder de aard, de ernst en de duur van de hinder of overlast.<footnote-ref linkend="_cce8b69f-519a-4b7b-80f0-6e747cd776e3" /></para>
+    <para>16. Een hanteerbaar criterium dat normatief de hoge mate van aantasting van de persoonlijke (handelings)vrijheid tot uitdrukking brengt en tevens voor alle gevallen expliciet de grenslijn met niet-strafwaardig gedrag trekt, is naar mijn inzicht niet te geven. Ook de omstandigheden waaronder dwang in hoge mate inbreuk maakt op de persoonlijke vrijheid zijn niet vast te omlijnen. Wel geeft Lindenberg daarvoor een aanzet door die omstandigheden in drie categorieën in te delen.<footnote-ref linkend="_7bd0a741-5e45-4999-9f9b-26c5fd6df383" /> De eerste categorie bestaat uit situaties waarbij het dwangmiddel op zichzelf al zodanig laakbaar is, dat strafrechtelijke aansprakelijkheid in beginsel is aangewezen, ongeacht het <emphasis role="italic">dwanggevolg</emphasis>.<footnote-ref linkend="_dc6a703e-3889-4910-8fdc-d1082a327215" /> De tweede categorie betreft de (spiegelbeeldige) situatie waarin het dwanggevolg op zichzelf laakbaar is, ongeacht het <emphasis role="italic">dwangmiddel</emphasis>.<footnote-ref linkend="_c7f76cc0-887e-49e6-8014-a52b4ae648a2" /> De derde categorie ziet op een situatie waarbij strafrechtelijke aansprakelijkheid in beginsel is aangewezen door de aard van het dwangmiddel, het dwanggevolg en de overige omstandigheden in onderlinge samenhang beschouwd.<footnote-ref linkend="_8254a1cd-8b32-4552-b23f-e5dc6e99644a" /></para>
+    <parablock>
+      <para>17. Deze categorisering is bedoeld om te voorkomen dat ten aanzien van art. 284 Sr een reikwijdteprobleem ontstaat. Ik denk dat een beperking van de werking van art. 284, eerste lid aanhef en onderdeel 1°, Sr, zo al het bereik van de bepaling in de praktijk door de rechter tekstueel te ruim wordt uitgelegd, ook kan worden gevonden in het bestanddeel wederrechtelijk, naast (maar in mindere mate) het bestanddeel dwingen, dat eveneens aan het onrechtkarakter een bijdrage kan leveren. De bepaling vordert immers dat bij het aanwenden van de dwangmiddelen het dwingen wederrechtelijk was. </para>
+      <para>18. In het Duitse recht, waaraan het bepaalde in art. 284 Sr is ontleend<footnote-ref linkend="_fe00700c-b324-4127-88fc-8fccbac5648f" /> (zeker in de eerste opzet na de invoering van ons Wetboek van Strafrecht in 1886), komt een vergelijkbare dwangbepaling voor: ‘Nötigung’, strafbaar gesteld in § 240 Strafgesetzbuch (StGB). Deze paragraaf luidt, voor zover hier relevant:</para>
+    </parablock>
+    <parablock>
+      <para> “(1) Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit einem empfindlichen Übel zu einer Handlung, Duldung oder Unterlassung nötigt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.</para>
+      <para>(2) Rechtswidrig ist die Tat, wenn die Anwendung der Gewalt oder die Androhung des Übels zu dem angestrebten Zweck als verwerflich anzusehen ist.”</para>
+    </parablock>
+    <para>De Rechtswidrigkeit vormt ook in Duitsland het correctiemechanisme ter voorkoming van het teugelloos toepassen van § 240 StGB. Bijzonder is dat het tweede lid het wederrechtelijkheidsbegrip definieert. Met het oog op het waarborgen van de Duitse grondrechten behelst het een ‘verwerpelijkheidseis’ en wordt de wederrechtelijkheid uitgelegd als een disproportionaliteit tussen dwangmiddel en dwangdoel.<footnote-ref linkend="_c43e2e82-cb7c-4dc3-a894-e88d2c5ef96b" /> Verwerpelijk is gedrag dat een hoge mate van morele afkeuring geniet in verhouding tot het beoogde doel; deze ‘soziale Unerträglichkeit’ dient door de rechter objectief te worden beoordeeld. Of daarvan sprake is hangt af van de concrete omstandigheden van het geval. Op de weegschaal bevinden zich de onderscheidene belangen, de omvang en de intensiteit van de dwang. In het commentaar van Schönke/Schröder wordt uiteengezet dat de verwerpelijkheid weliswaar altijd is gelegen in de samenhang tussen middel en doel, maar dat de balans per geval kan verschillen: de verwerpelijkheid kan in één van de twee besloten liggen of, als daarvan geen sprake is, in de combinatie van beide.<footnote-ref linkend="_9143e230-8e53-4c6c-8082-c4385bcdfca0" /> Het kan derhalve naar Duits recht zo zijn, dat ook als iemand op zichzelf gerechtigd is een bepaalde handeling te verrichten, zoals het claimen van een geldbedrag of een waarheidsgetrouwe publicatie in de pers of op internet, niet elk toepasbaar middel geoorloofd is.<footnote-ref linkend="_4be2452a-b39f-4a15-a9a6-6f318746bcda" /></para>
+    <para>19. Ook wat de Nederlandse situatie en art. 284 Sr betreft, lijkt mij (zoals gezegd) in een voorliggend geval voor het trekken van een grens tussen strafbaar en niet-strafbaar gedrag het bestanddeel ‘wederrechtelijk’ als correctief het meest in aanmerking te komen. Van belang daarbij is dan nog wel wat hier onder wederrechtelijk moet worden verstaan.<footnote-ref linkend="_3f51e385-56d3-4d7e-979d-aa330b7fd9c4" /> Op grond van de wetsgeschiedenis wordt doorgaans aangenomen dat het bestanddeel wederrechtelijk in art. 284, eerste lid aanhef en onder 1°, Sr de betekenis van ‘zonder eigen recht’ of ‘zonder bevoegdheid’ heeft.<footnote-ref linkend="_771368da-7e61-460a-ad43-e265aa2c0ee8" /> Ook de Hoge Raad lijkt daarvan uit te gaan in de weinige rechtspraak die hierover voorhanden is, althans de Hoge Raad heeft in zijn arrest van 14 oktober 1986, ECLI:NL:HR:1986:AC3763, <emphasis role="italic">NJ </emphasis>1987/361 met betrekking tot de overweging van het hof dat de verdachte niet de bevoegdheid had etc. geoordeeld dat het hof aan de term 'wederrechtelijk' geen met art. 284 Sr strijdige betekenis heeft toegekend.<footnote-ref linkend="_2c6fdf37-4c50-467e-a172-6642be618b5e" /> Volgens Lindenberg dekt deze invulling van wederrechtelijk echter niet de lading van het begrip, omdat dwingen – door hem samengevat als het tegen de wil beïnvloeden op een niet of nauwelijks afwendbare wijze – op grote schaal voorkomt in het dagelijkse leven zonder dat daarvoor een (wettelijke) bevoegdheid bestaat. Om die reden, en daartoe ook geïnspireerd door de Duitse Nötigungsparagraaf, geeft hij de voorkeur aan de ruimere betekenis van ‘in strijd met het recht’,<footnote-ref linkend="_70d6f01e-3b25-4576-a57b-3164fca77715" /> een omschrijving die in het commentaar in NLR juist wordt afgewezen.<footnote-ref linkend="_542e3edc-b1df-4eac-b07f-66bccce18ad4" /> De opvatting dat wederrechtelijk hier betekent ‘in strijd met het recht’ biedt volgens Lindenberg tevens een zinvolle ruimte om aan de (verwerpelijke vorm van) disproportionaliteit tussen middel en gevolg (doel) een zelfstandige plaats te geven.<footnote-ref linkend="_727d7e00-ebe6-4754-aac9-f7202c34ffaa" /> Hoe de beoordeling van de disproportionaliteit in zowel kwalitatieve als in kwantitatieve zin<footnote-ref linkend="_a6378ddb-9aec-4b5c-9532-986980cc9860" /> uiteindelijk uitpakt, hangt zijns inziens af van de verhouding in concreto tussen het dwangdoel of -gevolg en het aangewende dwangmiddel. De aard, intensiteit en duur van het middel dan wel het dwanggevolg zijn bij de te maken afweging relevante factoren. Aangenomen wordt dat ook het Dreigbriefarrest uit 1972 hier een aanknopingspunt biedt: in die zaak had de verdachte geprobeerd geld te innen door middel van een brief waarin hij dreigde met geweld als het geld hem niet zou worden afgedragen. Het oordeel dat de verdachte het ‘oogmerk van wederrechtelijke bevoordeling’ (art. 317 Sr) had liet de Hoge Raad in stand omdat de verdachte moest hebben “beseft dat hij […] de grenzen van het maatschappelijk betamelijke […] verre overschreed”.<footnote-ref linkend="_2d82ef5a-8eae-4a1f-8b69-47075dbd4b48" /></para>
+    <para>20. Ik vat het voorgaande samen. Art. 284 Sr is een algemene dwangbepaling waarvan door de ruime delictsomschrijving het toepassingsbereik vrij groot is. Daarmee is niet gezegd dat het artikel in de praktijk ongeclausuleerd wordt toegepast. Een algemeen criterium dat de werkingssfeer van art. 284, eerste lid aanhef en onder 1°, Sr aan banden legt is weliswaar niet te geven, maar wel kan de rechter in de tenlastegelegde delictsbestanddelen ‘wederrechtelijk’ en ‘dwingen’ het ernst- en onrechtkarakter van de verboden handeling afgrenzen. Dat geldt temeer indien aan het bestanddeel wederrechtelijk de betekenis ‘in strijd met het recht’ wordt gegeven. Voor ogen moet daarbij worden gehouden dat het doel van art. 284 Sr is gelegen in het voorkomen van een <emphasis role="italic">ernstige </emphasis>aantasting van de persoonlijke vrijheid, hetgeen onder meer meebrengt dat hinder of overlast in beginsel buiten de reikwijdte van deze strafbaarstelling valt. Bij de (objectieve) beoordeling van de ernst van de inbreuk op de persoonlijke vrijheid kunnen verschillende factoren van belang zijn, zoals de aard, ernst, duur en intensiteit van de dwang. Met het toepassen van deze factoren kan voldoende rekening worden gehouden met de opvattingen die in een bepaald tijdsgewricht in de samenleving over het betreffende gedrag bestaan (de maatschappelijke betamelijkheid) en kan voorts worden gemeten in welke verhouding het middel en het dwanggevolg of -doel tot elkaar staan (de verwerpelijke vorm van (dis)proportionaliteit). Het spreekt voor zich dat, als het komt tot een strafrechtelijke vervolging op grond van art. 284 Sr, in dit opzicht geen sprake mag zijn van een bewijsgebrek. Dat impliceert onder meer dat het ‘wederrechtelijk dwingen’ uit de bewijsmiddelen zal moeten blijken, al dan niet in samenhang met een bewijsoverweging. </para>
+    <para>
+      <emphasis role="italic">Bespreking middel</emphasis>
+    </para>
+    <parablock>
+      <para>21. Naar ik begrijp keert het middel zich tegen het oordeel van het hof dat de gedraging van de verdachte gekwalificeerd kan worden als het ‘door een feitelijkheid wederrechtelijk dwingen te dulden’ en betreft de klacht zowel het dwingen als de wederrechtelijkheid. Eensdeels zouden de handelingen van de verdachte niet van zodanige aard zijn geweest dat zij in de gegeven omstandigheden hebben geleid tot een druk waaraan het slachtoffer geen weerstand kon bieden, en anderdeels zouden zij, hoezeer wellicht ook hinderlijk of ergerlijk, niet zijn aan te merken als een voldoende inbreuk op de persoonlijke vrijheid van het slachtoffer. </para>
+      <para>22. Blijkens het proces-verbaal van de terechtzitting van 14 december 2020 heeft de raadsvrouw van de verdachte overeenkomstig de daaraan gehechte pleitnota het volgende naar voren gebracht:</para>
+      <para> “Feit 1 (primair en subsidiair): </para>
+      <para>Net zoals mr. Schenkhuizen ben ik van mening dat het eerste feit, zowel primair als subsidiair, niet bewezen kan worden verklaard. [verdachte] is tenlastegelegd dat hij [aangeefster] heeft gedwongen te dulden dat zij door hem werd achtervolgd en gefilmd en dat dit filmpje op het internet werd geplaatst. Vooropgesteld dient te worden dat bij het voor een veroordeling terzake artikel 284 Sr dient te gaan om het dwingen iets te doen, niet te doen, dan wel te dulden. De tenlastegelegde gedragingen hebben allen betrekking op wat cliënt heeft gedaan. Waartoe is [aangeefster] gedwongen? Volgens de uitspraak van de HR van 13 september 2005, ECLI:NL:HR:2005:AT5834 dient het te gaan om het doen of het dulden wat wordt verlangd. De Hoge Raad overwoog: "<emphasis role="italic">Van door een feitelijkheidwederrechtelijk dwingen iets te doen, niet te doen of te dulden ex art. 284 Sr kan slechts sprake zijn indien verdachte door die feitelijkheid opzettelijk heeft veroorzaakt dat het slachtoffer iets heeft gedaan, niet gedaan of geduld. Het hof heeft geoordeeld dat de gedragingen van verdachte en zijn mededader jegens het slachtoffer voor deze een zodanige psychische druk opleverden dat hij hieraan geen weerstand kon bieden en zich gedwongen voelde te voldoen aan hetgeen van hem werd verlangd.</emphasis>" En als we dan kijken wat cliënt verlangde van de aangeefster, dan was het dat hij zijn dochter mocht zien. En niet dat aangeefster zich zou laten filmen en/of door het streamen van het filmpje, zoals is tenlastegelegd. </para>
+      <para>De aangeefster verklaart in haar aangifte dan ook dat ze cliënt heeft gezegd dat hij weg moest gaan. Op de beelden is ook te zien dat ze dat tegen hem zegt. Ze heeft niet tegen hem gezegd dat hij moest stoppen met filmen. [aangeefster] doet aangifte en klacht van het filmen en het roepen van volgens haar onwaarheden, hetgeen wat haar betreft smaad en laster en stalking oplevert en dus geen dwang. </para>
+      <para> Het gebeurde levert ook geen poging op. Ik verwijs u naar hetgeen ik wat betreft het dulden heb aangegeven bij het primair ten laste gelegde. </para>
+      <para> Wat betreft de verdediging is er derhalve geen wettig en overtuigend bewijs van dit strafbaar feit, zowel primair als subsidiair, waardoor [verdachte] dient te worden vrijgesproken.”</para>
+      <para>23. Daaraan heeft de raadsvrouw op die terechtzitting nog het volgende toegevoegd:</para>
+      <para> “Op de beelden is te zien dat [aangeefster] de Jumbo supermarkt inloopt en zich onttrekt aan de situatie. De situatie was dus niet onvermijdelijk voor haar. Het filmen was een middel voor mijn cliënt om te laten zien wat er aan de hand was en niet om [aangeefster] te dwingen iets te doen, niet te doen of te dulden.”</para>
+      <para>24. De tenlastelegging is toegesneden op art. 284, eerste lid, onder 1º, Sr. Daarom moet worden aangenomen dat het in de tenlastelegging (en in de bewezenverklaring) voorkomende begrip “door enige feitelijkheid wederrechtelijk heeft gedwongen” is gebruikt in de betekenis die dat begrip heeft in die bepaling. Van door een feitelijkheid wederrechtelijk dwingen iets te doen, niet te doen of te dulden als bedoeld in art. 284 Sr kan volgens HR 7 april 2020, ECLI:NL:HR:2020:568, <emphasis role="italic">NJ</emphasis> 2020/159 slechts sprake zijn indien de verdachte door die feitelijkheid opzettelijk heeft veroorzaakt dat het slachtoffer tegen zijn of haar wil iets heeft gedaan, niet gedaan of geduld.<footnote-ref linkend="_f4a6f4d7-320a-4aed-aeb0-3929c6714ed9" /></para>
+    </parablock>
+    <parablock>
+      <para>25. Dat de verdachte de aangeefster gedwongen heeft zijn handelen te dulden, lijdt naar het mij voorkomt geen twijfel. Hij heeft onverhoeds de camera van zijn telefoon op haar gericht en is gaan filmen, terwijl zij hem duidelijk kenbaar maakte van zijn aanwezigheid niet gediend te zijn; zij riep diverse malen dat hij daarmee moest stoppen en weg moest wezen. Het roepen dat hij daarmee moest stoppen kan in redelijkheid niet anders worden uitgelegd dan dat dit betrekking had op het gedrag van de verdachte in zijn geheel bezien, dus niet alleen het achtervolgen, maar ook en vooral het filmen (en mogelijk kon zij ook het livestreamen vermoeden). Tegelijkertijd probeerde de aangeefster zichtbaar voor de verdachte zich van hem te verwijderen door weg te rennen, wat haar ruim zeven minuten lang onmogelijk werd gemaakt doordat de verdachte haar bleef achtervolgen. </para>
+      <para>26. Voor zover de kwalificatieklacht in de eerste plaats betrekking heeft op het oordeel van het hof aangaande het tenlastegelegde ‘dwingen’, treft zij geen doel. Dit oordeel getuigt niet van een onjuiste rechtsopvatting en is toereikend gemotiveerd.  </para>
+      <para>27. Dan de kwalificatieklacht die (kort gezegd) betrekking heeft op de ‘wederrechtelijkheid’. Heeft het hof het handelen van de verdachte onder het bereik van art. 284 Sr kunnen brengen omdat de verdachte zodanig heeft gehandeld dat hij daarmee een ernstige inbreuk heeft gemaakt op de persoonlijke vrijheid van de aangeefster? </para>
+      <para>28. Op zichzelf hoeft het voor enige tijd achtervolgen van iemand om hem of haar te filmen nog niet wederrechtelijk, en dus strafbaar, te zijn, ook niet als dat op de openbare weg of een publieke plaats gebeurt en de achtervolgde persoon onmiskenbaar duidelijk maakt daar niet van gediend te zijn. Publieke personen bijvoorbeeld worden in dat verband geacht tegen een stootje te kunnen en hebben in zoverre soms het een en ander te verduren, maar ook het publieke belang kan maken dat het achtervolgen, filmen en livestreamen, of breder het via (sociale) media verspreiden van beelden, niet wederrechtelijk in de zin van art. 284, eerste lid aanhef en onder 1°, Sr is.<footnote-ref linkend="_8fc1fd51-2311-4c75-8f76-014a3412b0a7" /> Illustratief is het filmen van iemand in verband met een (vermeend) strafbaar feit, zoals ook in sommige televisieprogramma’s te zien is, en het overdragen van dit beeldmateriaal aan de politie. Ook dan zal men echter niet uit het oog moeten verliezen dat het filmen en livestreamen van een persoon of een situatie (omgeving) een definitief karakter heeft omdat de beelden gelijk openbaar worden gemaakt; het direct ‘blurren’ van gezichten is, als ik mij niet vergis, in dat geval technisch (nog) niet mogelijk, en aan de personen die op de beelden zicht- en hoorbaar zijn wordt elke mogelijkheid ontnomen om de verspreiding van die beelden tegen te houden. </para>
+    </parablock>
+    <parablock>
+      <para>29. Ik meen dat de bewezenverklaring, voor zover inhoudende dat de verdachte wederrechtelijk heeft gehandeld, kan worden afgeleid uit de bewijsmiddelen en dat de bestreden uitspraak toereikend is gemotiveerd. Het oordeel van het hof dat de bewezenverklaarde handelingen kunnen worden gekwalificeerd als het door ‘enige feitelijkheid (opzettelijk) wederrechtelijk dwingen te dulden’ getuigt niet van een onjuiste rechtsopvatting en is evenmin onbegrijpelijk. Daarbij heb ik het volgende in overweging genomen. De verdachte heeft, terwijl hij blijkens bewijsmiddel 3 kennelijk op dat moment een contactverbod met de betrokken dochter had, de aangeefster plotseling met zijn aanwezigheid en zijn handelen geconfronteerd en haar verhinderd zich daaraan te onttrekken. De duur van ruim zeven minuten is in dit verband mogelijk niet lang te noemen, maar de aard en intensiteit van het geheel, en dan met name het filmen en livestreamen, zijn wel aanzienlijk, nu de aangeefster de verspreiding van de beelden en de voor anderen hoorbare aantijging van de verdachte op geen enkele manier kon voorkomen en deze dus had te dulden. Zij was toen kortom het ongewilde middelpunt van de livestream die voor een potentieel groot publiek toegankelijk was. Niet is gebleken dat de verdachte hiermee een algemeen belang diende of beoogde te dienen, dan wel een publieke misstand wilde aankaarten. Het ging bij dit tenlastegelegde feit integendeel om niet meer dan een persoonlijke vete. Tegen deze achtergrond is het bestreden oordeel van het hof tevens toereikend gemotiveerd. Het met betrekking tot feit 1 gevoerde verweer van de raadsvrouw en de verwijzing in de schriftuur naar sommige televisieprogramma’s en andere filmpjes die terstond via social media worden verspreid, doen daaraan niet af. </para>
+      <para>30. Het eerste middel faalt.</para>
+    </parablock>
+    <para />
+  </paragroup>
+  <paragroup>
+    <para>
+      <emphasis role="bold">IV. Het tweede middel</emphasis>
+    </para>
+    <parablock>
+      <para>31. Het tweede middel betreft feit 3 (smaadschrift) en klaagt dat zowel de bewezenverklaring als de kwalificatiebeslissing onvoldoende met redenen is omkleed.</para>
+      <para>32.  Art. 261 Sr luidt. </para>
+      <para> “1. Hij die opzettelijk iemands eer of goede naam aanrandt, door telastlegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, wordt, als schuldig aan smaad, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.</para>
+      <para> 2.Indien dit geschiedt door middel van geschriften of afbeeldingen, verspreid, openlijk tentoongesteld of aangeslagen, of door geschriften waarvan de inhoud openlijk ten gehore wordt gebracht, wordt de dader, als schuldig aan smaadschrift, gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.</para>
+      <para> 3. Noch smaad, noch smaadschrift bestaat voor zover de dader heeft gehandeld tot noodzakelijke verdediging, of te goeder trouw heeft kunnen aannemen dat het te last gelegde waar was en dat het algemeen belang de telastlegging eiste.”</para>
+      <para>33. De in het middel vervatte bewijsklacht houdt in dat uit de bewijsmiddelen niet kan worden afgeleid dat het misbruik waarvan de verdachte melding maakt in zijn opname, is gepleegd door de directeur zelf en/of medewerkers van basisschool [A] , maar dat de verdachte slechts heeft aangegeven dat er misbruik op de school heeft plaatsgevonden. In de toelichting op het middel wordt met verwijzing naar de bewijsmiddelen en de bewijsoverweging dienaangaande opgemerkt: </para>
+      <para>“Het hof heeft derhalve onder meer bewezen verklaard dat verdachte in de bewezenverklaarde film de (medewerkers van) basisschool [A] en de directeur van misbruik heeft beschuldigd en daartoe overwogen dat de verdachte in een door hem opgenomen en door hem op een voor eenieder toegankelijke Facebookpagina gepost filmpje de (medewerkers van) basisschool Da Vinei en de directeur van die school beticht van misbruik en fraude en laatstgenoemde tevens van stalking/belaging beschuldigt. Dat verdachte de directeur zelf en/of medewerkers van de school beschuldigt van misbruik blijkt evenwel niet, althans niet zonder meer uit de bewijsmiddelen. Daaruit volgt immers slechts dat verdachte heeft aangegeven dat er misbruik op de school heeft plaatsgevonden maar niet dat het misbruik door de directeur of medewerkers is gepleegd, zodat hierom de bewezenverklaring onvoldoende met redenen omkleed.”</para>
+      <para>34. Deze deelklacht mist feitelijke grondslag. Bewezenverklaard onder feit 3 is niet dat de verdachte de directeur en/of medewerkers van de [A] school van misbruik heeft beschuldigd, maar (in dit verband) enkel dat de verdachte op een film zegt dat er misbruik op deze basisschool heeft plaatsgevonden. Dat het hof in zijn nadere bewijsoverweging in ongelukkige bewoordingen heeft overwogen dat de verdachte blijkens de gebezigde bewijsmiddelen in een door hem opgenomen en door hem op een voor eenieder toegankelijke Facebookpagina gepost filmpje de (medewerkers van) basisschool [A] en de directeur van die school beticht van misbruik, maakt dat niet anders. </para>
+      <para>35. De kwalificatieklacht houdt in dat het hof “ten onrechte niet [heeft] gereageerd op het door en namens de verdachte gevoerde verweer dat ertoe kennelijk strekt dat de verdachte deze uitlatingen heeft gedaan met het oog op het algemene belang zodat de kwalificatiebeslissing onvoldoende met redenen is omkleed, althans het hof verdachte te dier zake strafbaar heeft geacht”. In de toelichting op het middel wordt de klacht wat anders, en minder juist, geformuleerd: “In het arrest ontbreekt evenwel een reactie op het exceptieve (uitdrukkelijk voorgedragen) verweer dat ertoe strekte dat de verdachte deze uitlatingen heeft gedaan met het oog op het algemeen belang, zodat de kwalificatiebeslissing onvoldoende met redenen omkleed is”. Kennelijk zijn de stellers van het middel van mening dat ter ’s hofs terechtzitting door de verdediging een beroep is gedaan op het bepaalde in art. 261, derde lid, Sr, waar het hof dan vervolgens niet op zou hebben gerespondeerd.<footnote-ref linkend="_0c92e461-2f4b-435b-896b-1c50b729b3fc" /></para>
+    </parablock>
+    <parablock>
+      <para>36. Blijkens het proces-verbaal van de terechtzitting in hoger beroep van 14 december 2020 heeft de raadsvrouw overeenkomstig de op die zitting voorgedragen pleitnota het woord tot verdediging gevoerd. Deze pleitnota houdt, voor zover hier van belang, in: </para>
+      <para>“Ten aanzien van het derde feit is het standpunt van de verdediging als volgt. In de tenlastelegging zijn zinnen en zinsneden van wat cliënt op het bewuste filmpje heeft gezegd uitgelicht. Als het filmpje en hetgeen door cliënt tijdens het filmpje is gezegd in zijn geheel wordt bezien dan vraagt cliënt aan de politieke partij SP, de burgemeester en de minister van onderwijs Arie Slob om vragen te stellen en actie te ondernemen. Aan de SP wordt gevraagd vragen te stellen aan het College van Burgermeester en Wethouders en de burgemeester en minister Slob wordt gevraagd actie tegen de school te ondernemen. In het begin van het filmpje geeft cliënt aan dat er aangiftes zijn gedaan door leerlingen van de school terzake seksueel misbruik. Hij zegt niet dat er medewerkers van de school zijn veroordeeld terzake misbruik. Verder geeft hij ook aan wat mis is met het binnenklimaat in de school en dat wordt ondersteund door een artikel in het Algemeen Dagblad. De bedoeling van cliënt is ook dat er iets gedaan zou worden door de politiek en mensen op facebook erop attenderen wat mis is. In dat streven wordt cliënt ondersteund door de anonieme getuige wiens verklaring door mr. Schenkhuizen in eerste aanleg is overgelegd. Die [aangeefster] heeft een dochter gehad, die op de [A] school stond ingeschreven, en heeft ook het een en ander met de school meegemaakt.</para>
+      <para>
+        <?linebreak?>Wat cliënt betreft dient hij te worden vrijgesproken, omdat zijn bedoeling niet was de eer en goede naam van de school, haar medewerkers en de directeur aan te tasten, maar misstanden aan te kaarten.”</para>
+      <para>37. In aanvulling daarop heeft de raadsvrouw van de verdachte op diezelfde terechtzitting aangevoerd: </para>
+      <para>“Mijn cliënt wilde misstanden aan de kaak stellen en heeft niet de bedoeling gehad om de school in een kwaad daglicht te stellen.”</para>
+      <para>38. Ingevolge art. 261, derde lid, Sr bestaat noch smaad noch smaadschrift voor zover de dader heeft gehandeld tot noodzakelijke verdediging, of te goeder trouw heeft kunnen aannemen dat het telastgelegde waar was en dat het algemeen belang de telastlegging eiste.<footnote-ref linkend="_47693c39-393c-4333-9f5a-170e526ab274" /> Het betreft hier een strafuitsluitingsgrond met het karakter van een bijzondere rechtvaardigingsgrond, zo wordt algemeen aangenomen.<footnote-ref linkend="_7ac5d280-aa31-470e-b206-7fdab1cca423" /> Indien namens de verdachte daarop een beroep wordt gedaan in een uitdrukkelijk voorgedragen verweer en de rechter beslist dat deze strafuitsluitingsgrond niet aanwezig is, moet de beslissing worden gemotiveerd op grond van art. 358, derde lid, Sv in verbinding met art. 359, tweede lid eerste volzin, Sv.</para>
+    </parablock>
+    <parablock>
+      <para>39. Het hof heeft in het betoog van de raadsvrouw kennelijk geen beroep op de exceptie van het derde lid van art. 261 Sr herkend, maar heeft gezien zijn nadere bewijsoverweging het verweer dat de verdachte niet de bedoeling had om, kort gezegd, de eer en goede naam van de school aan te tasten en de school in een kwaad daglicht te stellen, opgevat als een opzet- en dus als een bewijsverweer. Dat is met het oog op hetgeen ter terechtzitting is aangevoerd niet onbegrijpelijk. Ook in zoverre treft het middel geen doel.</para>
+      <para>40. Het middel faalt in beide onderdelen.</para>
+    </parablock>
+    <para />
+  </paragroup>
+  <paragroup>
+    <para>
+      <emphasis role="bold">V.	Slotsom</emphasis>
+    </para>
+    <parablock>
+      <para>41. Zowel het eerste als het tweede middel faalt. Het tweede middel kan met een aan art. 81, eerste lid, RO ontleende motivering worden afgedaan.</para>
+      <para>42. Gronden waarop de Hoge Raad gebruik zou moeten maken van zijn bevoegdheid de bestreden uitspraak ambtshalve te vernietigen, heb ik niet aangetroffen.</para>
+      <para>43. Deze conclusie strekt tot verwerping van het beroep. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De Procureur-Generaal</para>
+      <para>bij de Hoge Raad der Nederlanden</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>AG</para>
+    </parablock>
+  </paragroup>
+  <footnote id="_303807d1-9066-48e9-b88a-ad9eb76ea036" label="1">
+    <para> 	Deze strafbepaling wordt in de schriftuur niet genoemd. </para>
+  </footnote>
+  <footnote id="_e75ce6a0-8cde-4d1a-be01-362a118bbd6b" label="2">
+    <para> 	Zoals art. 95, 95a, 121, 121a, 123-124a, 179, 242, 246, 252, 273f, eerste lid onder 4 en 9, 317, 318 en 365 Sr.</para>
+  </footnote>
+  <footnote id="_c4bbf520-d71a-48ce-ae9b-175febcfb6f6" label="3">
+    <para> 	Zie daarover de dissertatie van K. Lindenberg, <emphasis role="italic">Strafbare dwang. Over het bestanddeel ‘dwingen’ en strafbaarstellingen van dwang, in het bijzonder art. 284 Sr </emphasis>(diss. Groningen), Apeldoorn/Antwerpen: Maklu 2007 (samengevat in een terugblik op p. 254 e.v.; par. 3.9). Het commentaar van Noyon/Langemeijer/Remmelink (verder: NLR), <emphasis role="italic">Het Wetboek van Strafrecht</emphasis>, art. 284, aant. 4 (bewerkt door A.J. Machielse; actueel t/m 1 oktober 2012) is daar echter niet zo beducht voor: “Om middel tot het plegen van het misdrijf van dit artikel te zijn moeten zij zijn van zulke aard dat zij naar de gegeven omstandigheden beschouwd iemand kunnen dwingen, hem zijns ondanks brengen tot hetgeen van hem wordt verlangd. Daarom schijnt, al is het begrip op zich zelf vrij uitgebreid, de vrees voor te ruime toepassing ongegrond.”</para>
+  </footnote>
+  <footnote id="_463d28a2-4a06-4a15-ab39-1001a41827b0" label="4">
+    <para> 	H.J. Smidt en E.A. Smidt (verder: Smidt), <emphasis role="italic">Geschiedenis van het Wetboek van Strafrecht (1886-1901)</emphasis>, deel V, tweede druk, H.D. Tjeenk Willink &amp; Zoon 1901, p. 614 e.v. </para>
+  </footnote>
+  <footnote id="_8ce63866-1e6b-49a6-a08b-240cb5e194e4" label="5">
+    <para> 	Zie het Verslag van de Tweede Kamer en het Antwoord der Regeering in Smidt, <emphasis role="italic">a.w.,</emphasis> p. 615-629, en daarover ook Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. 124 e.v.</para>
+  </footnote>
+  <footnote id="_3922a43d-60e5-4b05-9aee-06789a4704cd" label="6">
+    <para> 	Daarop wordt ingegaan in NLR, <emphasis role="italic">a.w</emphasis>., art. 426bis, aant. 1 (bewerkt door A.J. Machielse; actueel t/m 31 maart 2022). </para>
+  </footnote>
+  <footnote id="_f3395b23-fbd0-435e-9285-291e46463f68" label="7">
+    <para> 	Dit een en ander bij Wet van 11 april 1903, <emphasis role="italic">Stb</emphasis>. 101. Zie daarover, en over het begrip feitelijkheid (ook in verband met andere delicten, zoals de zedendelicten), de conclusie van mijn voormalige ambtgenoot Machielse vóór HR 3 juni 1997, ECLI:NL:HR:1997:ZD0728, <emphasis role="italic">NJ</emphasis> 1997/598. Zie over de parlementaire totstandkomingsgeschiedenis van art. 284 Sr: Lindenberg, <emphasis role="italic">a.w</emphasis>., hoofdstuk 3. Overigens zij opgemerkt dat de verdachte door die feitelijkheid <emphasis role="italic">opzettelijk</emphasis> moet hebben veroorzaakt dat het slachtoffer iets heeft gedaan, niet gedaan of geduld (HR 13 september 2005, ECLI:NL:HR:2005:AT5834, <emphasis role="italic">NJ</emphasis> 2006/234).</para>
+  </footnote>
+  <footnote id="_c4c8ea1f-7780-4a38-98cd-b502a811ed1e" label="8">
+    <para> 	Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. 125-126.  </para>
+  </footnote>
+  <footnote id="_bc1d0e57-8089-4798-9db2-bb1e8b6c5228" label="9">
+    <para> 	Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. 126.</para>
+  </footnote>
+  <footnote id="_32217060-e2c7-4f1a-bf18-c6cd0ff9b914" label="10">
+    <para> 	HR 15 oktober 2021, ECLI:NL:HR:2021:1534, <emphasis role="italic">NJ</emphasis> 2021/363, m.nt. Spier (r.o. 3.1.2).</para>
+  </footnote>
+  <footnote id="_cce8b69f-519a-4b7b-80f0-6e747cd776e3" label="11">
+    <para> 	Vgl. van de civiele kamer van de Hoge Raad onder meer: HR 15 oktober 2021, ECLI:NL:HR:2021:1534, <emphasis role="italic">NJ </emphasis>2021/363, m.nt. Spier (r.o. 3.1.2), HR 16 juni 2017, ECLI:NL:HR:2017:1106, <emphasis role="italic">NJ</emphasis> 2017/265 (r.o. 3.3.2), HR 3 mei 1991, ECLI:NL:HR:1991:ZC0235, <emphasis role="italic">NJ</emphasis> 1991/476 (r.o. 3.2) en HR 15 februari 1991, ECLI:NL:HR:1991:ZC0150, <emphasis role="italic">NJ</emphasis> 1992/639, m.nt. Brunner (r.o. 4.6). Voorts wijs ik nog op art. 5 WVW 1994:  “Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd.” In de memorie van toelichting is wordt daarbij uitgegaan van een bepaalde gradatie van hinderen. Het is, aldus de memorie van toelichting, “niet de bedoeling dat bij iedere vorm van hinder de algemene bepaling zal worden toegepast. Immers, lichte vormen van hinder zijn in het hedendaagse verkeer niet te vermijden. De bepaling strekt er slechts toe evidente vormen van gevaar of hinder aan te pakken.” (<emphasis role="italic">Kamerstukken II</emphasis> 1990/91, 22 030, nr. 3, p. 66).</para>
+  </footnote>
+  <footnote id="_7bd0a741-5e45-4999-9f9b-26c5fd6df383" label="12">
+    <para> 	Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. 260.</para>
+  </footnote>
+  <footnote id="_dc6a703e-3889-4910-8fdc-d1082a327215" label="13">
+    <para> 	Bijvoorbeeld dwang door (bedreiging met) ernstig geweld. </para>
+  </footnote>
+  <footnote id="_c7f76cc0-887e-49e6-8014-a52b4ae648a2" label="14">
+    <para>  Zoals bij het afdwingen van seksuele handelingen, het plegen van ernstige strafbare feiten of het ondergaan van onmenselijke vernederingen.</para>
+  </footnote>
+  <footnote id="_8254a1cd-8b32-4552-b23f-e5dc6e99644a" label="15">
+    <para> 	Lindenberg onderkent dat, vergeleken met de vorige twee categorieën, aan deze categorie aanzienlijk moeilijker invulling is te geven, doordat zij wordt bepaald door genuanceerdere normatieve overwegingen.</para>
+  </footnote>
+  <footnote id="_fe00700c-b324-4127-88fc-8fccbac5648f" label="16">
+    <para> 	Zie NLR,<emphasis role="italic"> a.w.</emphasis>, art. 284, aant. 1 (bewerkt door A.J. Machielse; actueel t/m 1 oktober 2012) en Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. p. 104 en p. 261.</para>
+  </footnote>
+  <footnote id="_c43e2e82-cb7c-4dc3-a894-e88d2c5ef96b" label="17">
+    <para> 	Ik verwijs naar het commentaar van Schönke/Schröder in Strafgesetzbuch, 30e neu bearbeitete Auflage, 2019, Anm. VI bij &amp; 240, Rn. 16. </para>
+  </footnote>
+  <footnote id="_9143e230-8e53-4c6c-8082-c4385bcdfca0" label="18">
+    <para> 	Schönke/Schröder, <emphasis role="italic">a.w.</emphasis>, Anm. V2a-c, Rn 19-24; bovendien: hoe billijker het nagestreefde doel, des te meer wordt het aanwenden van dwang getolereerd om dat te verwezenlijken, aldus Anm. V2, Rn. 17 (vgl. de bovengenoemde drie categorieën van Lindenberg).</para>
+  </footnote>
+  <footnote id="_4be2452a-b39f-4a15-a9a6-6f318746bcda" label="19">
+    <para> 	Schönke/Schröder, <emphasis role="italic">a.w.</emphasis>, Anm. V2a, Rn 20.</para>
+  </footnote>
+  <footnote id="_3f51e385-56d3-4d7e-979d-aa330b7fd9c4" label="20">
+    <para> 	Op deze vraag gaat ook in de conclusie van mijn ambtgenoot Harteveld van 6 oktober 2020, ECLI:NL:PHR:2020:876.</para>
+  </footnote>
+  <footnote id="_771368da-7e61-460a-ad43-e265aa2c0ee8" label="21">
+    <para> 	Zie NLR<emphasis role="italic">, a.w., </emphasis>art. 284 Sr, aant. 2 (bijgewerkt door A.J. Machielse; actueel t/m 1 oktober 2012) en Lindenberg, <emphasis role="italic">a.w.,</emphasis> p. 245-248. </para>
+  </footnote>
+  <footnote id="_2c6fdf37-4c50-467e-a172-6642be618b5e" label="22">
+    <para> 	In zijn arrest van 13 september 2005, ECLI:NL:HR:2005:AT5834, <emphasis role="italic">NJ</emphasis> 2006/234 liet de Hoge Raad de betekenis van wederrechtelijk in art. 284 Sr in het midden.</para>
+  </footnote>
+  <footnote id="_70d6f01e-3b25-4576-a57b-3164fca77715" label="23">
+    <para> 	Als ik goed zie, vindt ook De Hullu dit in zijn algemeenheid wel een adequate omschrijving van het bestanddeel wederrechtelijk; zie J. de Hullu, <emphasis role="italic">Materieel strafrecht, </emphasis>Deventer: Wolters Kluwer 2021, p. 188-190.</para>
+  </footnote>
+  <footnote id="_542e3edc-b1df-4eac-b07f-66bccce18ad4" label="24">
+    <para> 	NLR<emphasis role="italic">, a.w., </emphasis>art. 284 Sr, aant. 2 (bijgewerkt door A.J. Machielse; actueel t/m 1 oktober 2012).</para>
+  </footnote>
+  <footnote id="_727d7e00-ebe6-4754-aac9-f7202c34ffaa" label="25">
+    <para> 	Lindenberg, <emphasis role="italic">a.w.</emphasis>, p. 262-263.</para>
+  </footnote>
+  <footnote id="_a6378ddb-9aec-4b5c-9532-986980cc9860" label="26">
+    <para> 	Van kwalitatieve disproportionaliteit is volgens de auteur sprake “wanneer middel en gevolg op zichzelf genomen niet als al te ernstig te bestempelen zijn, maar <emphasis role="italic">dit </emphasis>middel niet had mogen worden ingezet om <emphasis role="italic">dit </emphasis>gevolg (tevens doel) te bereiken”. De kwantitatieve disproportionaliteit bestaat “wanneer het middel te ernstig is in relatie tot het doel, ongeacht eventuele homogeniteit van de verhouding tussen beide”.  </para>
+  </footnote>
+  <footnote id="_2d82ef5a-8eae-4a1f-8b69-47075dbd4b48" label="27">
+    <para> 	HR 9 februari 1971, ECLI:NL:HR:1971:AB4227, <emphasis role="italic">NJ</emphasis> 1972/1, m.nt. Bronkhorst. </para>
+  </footnote>
+  <footnote id="_f4a6f4d7-320a-4aed-aeb0-3929c6714ed9" label="28">
+    <para> 	Zie ook HR 13 september 2005, ECLI:NL:HR:2005:AT5834, <emphasis role="italic">NJ</emphasis> 2006/234.</para>
+  </footnote>
+  <footnote id="_8fc1fd51-2311-4c75-8f76-014a3412b0a7" label="29">
+    <para> 	Zie over deze thematiek, ook in het licht van de Straatsburgse rechtspraak, de conclusie van A-G Silvis van 14 juni 2011, ECLI:NL:PHR:2011:BP0287. </para>
+  </footnote>
+  <footnote id="_0c92e461-2f4b-435b-896b-1c50b729b3fc" label="30">
+    <para> 	In het middel wordt ook nog gerept van schending van art. 10 EVRM, maar dit wordt verder niet uitgewerkt, ook niet in de toelichting op het middel. Daarin wordt slechts onder verwijzing naar “T&amp;C Strafrecht, art. 261, aant. 10”, de “noot van G. Knigge bij EHRM1994, NJ 1995/387” en de “noot van E.J. Dommering bij EHRM 1994, NJ 1995/387” geconstateerd dat “Eerder wel is betoogd dat art. 261 lid 3 Sr in het licht van art. 10 EVRM te beperkt is geformuleerd”. Ik ga daar verder niet op in. Dat niet in zijn algemeenheid kan worden gezegd dat bij verwerping van een beroep op art. 10 EVRM aan een beroep op art. 261, derde lid, Sr geen zelfstandige betekenis meer kan toekomen, heeft de Hoge Raad geëxpliciteerd in zijn arrest van 14 juni 2011, ECLI:NL:HR:2011:BP0287, <emphasis role="italic">NJ</emphasis> 2011/504 (r.o. 7.3); zie ook A-G Silvis in zijn conclusie voor dat arrest.</para>
+  </footnote>
+  <footnote id="_47693c39-393c-4333-9f5a-170e526ab274" label="31">
+    <para> 	Zie daarover uitvoerig A.J. Nieuwenhuis &amp; A.L.J. Janssens, <emphasis role="italic">Uitingsdelicten</emphasis>, Deventer: Kluwer 2011, p. 169 e.v. (par. 3.7.2)</para>
+  </footnote>
+  <footnote id="_7ac5d280-aa31-470e-b206-7fdab1cca423" label="32">
+    <para>
+      <emphasis role="italic">Kamerstukken II</emphasis> 1970/71, 11 249, nr. 3, p. 5. Zie ook NLR, <emphasis role="italic">a.w.</emphasis>, aant. 6.1 bij art. 261 Sv (bijgewerkt tot 15 augustus 2018, bewerkt door A.J. Machielse). Voorts wijs ik ook in dit verband op de conclusie (punt 17) van A-G Silvis vóór HR 14 juni 2011, ECLI:NL:HR:2011:BP0287, <emphasis role="italic">NJ</emphasis> 2011/504, m.nt. Dommering.</para>
+  </footnote>
+</conclusie>
+</open-rechtspraak>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2018:2352</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T11:26:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-12-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2018-12-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/01030</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2018:1014" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2018:1014</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2019/23</rdf:li>
+          <rdf:li>RvdW 2019/104</rdf:li>
+          <rdf:li>SR-Updates.nl 2018-0444 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>TPWS 2019/43</rdf:li>
+          <rdf:li>NJ 2019/298 met annotatie van N. Rozemond</rdf:li>
+          <rdf:li>JOW 2019/5</rdf:li>
+          <rdf:li>NbSr 2019/33</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2352">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2352</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2018-12-19T14:33:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-12-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2018:2352 Hoge Raad , 18-12-2018 / 17/01030</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2018:2352:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Witwassen van contante geldbedragen van totaal € 90.000,- waarmee boot is gekocht, art. 420bis.1.b Sr. Afkomstig uit enig misdrijf? HR vat eerdere rechtspraak samen. </para>
+        <para>Dat een voorwerp "afkomstig is uit enig misdrijf" kan, indien o.g.v. de beschikbare b.m. geen rechtstreeks verband valt te leggen met een bepaald misdrijf, niettemin bewezen worden geacht indien het o.g.v. de vastgestelde f&amp;o niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is. Het is aan het OM bewijs aan te dragen van dergelijke f&amp;o. Indien de door het OM aangedragen f&amp;o een vermoeden rechtvaardigen dat het niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is, mag van verdachte worden verlangd dat hij een concrete, verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring geeft dat het voorwerp niet van misdrijf afkomstig is. Dat houdt niet in dat het aan verdachte is aannemelijk te maken dat het voorwerp niet van misdrijf afkomstig is. Indien verdachte voormelde verklaring geeft, ligt het op de weg van het OM nader onderzoek te doen. De rechter zal dan mede o.b.v. de resultaten daarvan moeten beoordelen of ondanks de verklaring van verdachte het witwassen bewezen kan worden op de grond dat (het niet anders kan zijn dan dat) het voorwerp uit enig misdrijf afkomstig is. Indien een dergelijke verklaring uitblijft, mag de rechter die omstandigheid betrekken in zijn bewijsoverwegingen. </para>
+        <para>’s Hofs oordeel dat verdachte geen concrete, verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring heeft gegeven over de herkomst van de geldbedragen is niet z.m. begrijpelijk, nu verdachte met concrete verwijzing naar zijn inkomsten uit arbeid heeft gesteld dat de geldbedragen een legale herkomst hadden. Dat wordt niet anders door ‘s Hofs vaststelling dat verdachte, ondanks een toezegging, geen relevante stukken heeft overgelegd, nu die enkele omstandigheid niet afdoet aan de door verdachte gegeven verklaring en de mogelijkheid daarnaar nader onderzoek te doen. Mede gelet op hetgeen het Hof overigens heeft vastgesteld, is de bewezenverklaring v.zv. inhoudend dat de geldbedragen "afkomstig waren uit enig misdrijf" niet toereikend gemotiveerd. Volgt vernietiging en terugwijzing. Samenhang met 17/01036 en 17/01705.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2018:2352:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>18 december 2018</para>
+    <para>Strafkamer</para>
+    <para>nr. S 17/01030</para>
+    <para />
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Den Haag van 10 februari 2017, nummer 22/003494-11, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1976.</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>	Het beroep - dat kennelijk niet is gericht tegen de niet-ontvankelijkverklaring van de verdachte in het hoger beroep tegen de in eerste aanleg gegeven vrijspraak van het (gewoonte)witwassen van de in de tenlastelegging genoemde panden - is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt en P. van Dongen, beiden advocaat te Rotterdam, bij schriftuur een middel van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal A.J. Machielse heeft geconcludeerd tot vernietiging van de bestreden uitspraak en tot terugwijzing van de zaak naar het Gerechtshof Den Haag teneinde op het bestaande hoger beroep opnieuw te worden berecht en afgedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel komt op tegen het bewezenverklaarde witwassen van geldbedragen van in totaal € 90.000,- die de verdachte heeft voorhanden gehad en omgezet en klaagt onder meer dat de bewezenverklaring voor zover deze inhoudt dat de daarin vermelde geldbedragen van misdrijf afkomstig zijn, niet toereikend is gemotiveerd. </para>
+      <para />
+      <paragroup>
+        <nr>2.2.1.</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+          <para>"hij op tijdstippen in de periode van 18 februari 2006 tot en met 23 juni 2006, te Leiden en te Nieuw-Vennep en te Zoeterwoude en te Hoogstraten (België) </para>
+          <para>heeft witgewassen, </para>
+          <para>immers heeft hij, verdachte </para>
+          <para>- onderstaande voorwerpen voorhanden gehad en omgezet immers heeft hij, verdachte, telkens een contant geldbedrag op 18 februari 2006, € 14.700,-; 20 februari 2006, € 6.000,-; 6 maart 2006, € 6.000,-; 8 april 2006, € 14.000,-; tussen 8 april 2006 en 24 april 2006, € 20.000,-; 24 april 2006, € 5.300,-; 8 mei 2006, € 14.000,- en 23 juni 2006, € 10.000,-- contante betalingen voor een boot direct besteed aan </para>
+          <para>- een boot, merk Campion Chase 910i SC,</para>
+          <para>terwijl verdachte wist dat die voorwerpen - onmiddellijk of middellijk - afkomstig waren uit enig misdrijf."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2.</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+          <para>"1. De verklaring van de verdachte.</para>
+          <para>De verdachte heeft ter terechtzitting in eerste aanleg van 23 juni 2012 verklaard - zakelijk weergegeven -:</para>
+          <para>Ik kan zeggen dat ik die betalingen (het hof begrijpt: de in de tenlastelegging genoemde betalingen) van de boot (het hof begrijpt: de in de tenlastelegging genoemde boot) heb gedaan.</para>
+          <para>2. De verklaring van de verdachte.</para>
+          <para>De verdachte heeft ter terechtzitting in eerste aanleg van 2 november 2010 verklaard - zakelijk weergegeven -:</para>
+          <para>Ik kocht de boot voor € 142.000 waarop een boot voor € 52.000 is ingeruild. Ik heb cash betaald. </para>
+          <para>Ik had de contante bedragen voor de boot uit de kluis gehaald.</para>
+          <para>Ik ben bekend met de MOT-regeling.</para>
+          <para>3. Het proces-verbaal van de rechter-commissaris, belast met de behandeling van strafzaken in de arrondissementsrechtbank te 's-Gravenhage van <?linebreak?>14 november 2012. Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -:</para>
+          <para>als de op 14 november 2012 tegenover deze rechter-commissaris afgelegde verklaring van de verdachte als getuige in de zaak van medeverdachte R.W.H. Koster:</para>
+          <para>Ik heb de boot, merk Campion Chase 910iSC gekocht in 2006. Ik ben naar de winkel gegaan van [A] . De winkel heet [B] (het hof begrijpt: [B] te [plaats] ). [medeverdachte] (het hof begrijpt: medeverdachte [medeverdachte] ) kwam met het voorstel: "Kan ik mijn boot, de 705, niet inruilen op jouw boot". Op de 910 is de 705 ingeruild van [medeverdachte] . De boot heb ik op mijn naam geregistreerd bij het RDW. De betalingen heb ik in deelbetalingen gedaan. Ik heb het contante geld aan [A] gegeven. </para>
+          <para>Ik heb [A] verzocht om als ik een deelbetaling deed, dit aan te tekenen op de aankoopfactuur, zodat ik bewijs had dat ik had betaald en welk bedrag er nog open stond. Ik kreeg van die aantekeningen van de deelbetaling een kopie.</para>
+          <para>4. Een geschrift, zijnde 9 nota's van [B] te [plaats] (bijlagen bij proces-verbaal met nummer PL1609/08-059761 van de politie Hollands Midden met code G-08-05). Alle nota's bevatten de volgende tekst - zakelijk weergegeven -:</para>
+          <para>Zoeterwoude 2006</para>
+          <para>
+            [verdachte]
+          </para>
+          <para>1x Campion Chase 910</para>
+          <para>Totaalprijs incl. trailer € 142.000,-</para>
+          <para>Inruil campion 705 SC € 52.000,-</para>
+          <para>Totaal € 90.000</para>
+          <para>Telkens met pen bijgeschreven de volgende bedragen en data</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <para />
+      <parablock>
+        <para>8/5		€ 14.000</para>
+        <para>24/4		€ 5.300</para>
+        <para>14/4		€ 14.000</para>
+        <para>11/4		€ 6.000</para>
+        <para>8/4		€ 14.000</para>
+        <para>6/3		€ 6.000</para>
+        <para>20/2		€ 6.000</para>
+        <para>18/2		€ 14.700,-</para>
+        <para>5. Een geschrift, zijnde een rekeningafschrift van de Rabobank van rekeningnummer [001] op naam van [verdachte] ( […] p. 195). Dit rekeningafschrift bevat de volgende tekst - zakelijk weergegeven -:</para>
+        <para>Datum afschrift 28-03-2008</para>
+        <para>Rentedatum		 Omschrijving			Bedrag</para>
+        <para>25-03			 PRICEWATERHOUSECOOPERS	2.724,33 BY</para>
+        <para> Salaris Per.03."</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>2.2.3.</nr>
+        <parablock>
+          <para>Het Hof heeft ten aanzien van de bewezenverklaring voorts het volgende overwogen:</para>
+          <para>"Witwassen kan bewezen worden verklaard wanneer het niet anders kan zijn dan dat voorwerpen -in de eerste plaats: het geld- uit enig misdrijf afkomstig zijn.</para>
+          <para>Om daartoe te kunnen concluderen dient allereerst op grond van wettige bewijsmiddelen een ernstig vermoeden van witwassen te worden aangenomen (stap i).</para>
+          <para>Indien dit ernstig vermoeden wordt aangenomen, mag van de verdachte worden verlangd dat hij een verklaring geeft voor de herkomst van het geld (stap ii). Die herkomst moet vervolgens concreet, min of meer verifieerbaar, en niet op voorhand als volslagen onwaarschijnlijk zijn aan te merken (stap iii). Als de verdachte een zodanige verklaring geeft kan (om desondanks toch tot een veroordeling te komen) van het Openbaar Ministerie worden verlangd daarnaar vervolgens onderzoek te doen (stap iv). Uit de resultaten van een dergelijk onderzoek zal moeten blijken dat met voldoende mate van zekerheid kan worden uitgesloten dat het voorwerp waarop de verdenking betrekking heeft, een legale herkomst heeft en dat dus een criminele herkomst als enige aanvaardbare verklaring kan gelden (HR 27 september 2005, ECLI:NL:HR:2005:AT4094; HR 13 juli 2010, ECLI:NL:HR:2010:BM0787; HR 13 juli 2010, ECLI:NL:HR:2010:BM2471 en HR 28 januari 2014, ECLI:NL:HR:2014:194).</para>
+          <para>Het hof stelt hiertoe het volgende vast.</para>
+          <para>Uit wettige bewijsmiddelen in het onderliggende strafdossier volgt dat de verdachte een boot heeft gekocht ter waarde van € 142.000,- bij [B] te [plaats] . Een andere boot die ten naam gesteld was van medeverdachte [medeverdachte] , is daarbij ingeruild voor een bedrag van € 52.000,- waardoor er een nog te betalen bedrag resteerde van € 90.000,-.</para>
+          <para>De verdachte heeft in de periode van 18 februari 2006 tot en met 23 juni 2006 genoemd resterend bedrag betaald door middel van een aantal contante betalingen.</para>
+          <para>Het hof stelt vast dat de verdachte de betaling van het geldbedrag van € 90.000,- in een paar maanden tijd, telkens contant en in delen onder de zogenaamde MOT grens (Meldingsplicht ongebruikelijke transacties) heeft verricht. De verdachte heeft verklaard bekend te zijn met de MOT-regeling.</para>
+          <para>Het bedrag van € 90.000,- heeft verdachte in een kluis in België bewaard. Dit valt op aangezien verdachte als belastingadviseur in loondienst in Nederland werkte en daar zijn salaris giraal kreeg uitgekeerd.</para>
+          <para>Gelet op deze feiten en omstandigheden in onderlinge samenhang bezien is het hof van oordeel dat aan stap (i) is voldaan; het aannemen van een vermoeden van witwassen jegens de verdachte is gerechtvaardigd.</para>
+          <para>Vervolgens is het (stap ii) aan de verdachte om een verklaring te geven over de herkomst van de door hem in de ten laste gelegde periode verrichte contante betalingen.</para>
+          <para>De verdachte heeft -kort samengevat- verklaard dat de ten laste gelegde door hem betaalde contante geldbedragen afkomstig zijn uit zijn privé vermogen. Hij heeft verklaard dat hij destijds als fiscaal jurist een riant salaris genoot. Zo heeft hij verklaard dat zijn bruto jaarsalaris € 130.000,- tot € 140.000,- bedroeg en dat hij daarnaast nog € 30.000,- tot € 40.000,- bruto aan neveninkomsten ontving. Hij heeft tevens verklaard dat hij ook geldelijke vergoedingen kreeg voor werkzaamheden die hij voor vrienden en kennissen deed.</para>
+          <para>Bij de politie is de verdachte voorgehouden dat een bankafschrift van 25 maart 2008 van zijn bankrekening een salaris laat zien van € 2.724,33. Hem wordt gevraagd of dit zijn gehele salaris is. Verdachte antwoordde daarop dat zijn salaris beduidend hoger is en dat hij naar zijn eerdere verklaring verwijst. Deze eerdere verklaring betreft een schriftelijke verklaring van verdachte die hij tijdens zijn verhoor van 21 november 2008 aan de politie heeft overhandigd. In verband met de hem toegebrachte schade als gevolg van een zoeking in zijn kantoor en de daarop volgende schorsing als werknemer heeft verdachte geschreven dat hij de toekomstige inkomsten op grond van zijn partner benoeming per 1 juli 2009 misloopt en dat hij 'normaal' over het afgelopen jaar een bonus van € 50.000,- ontvangt. Ter terechtzitting in eerste aanleg heeft verdachte verklaard dat de bonus tussen € 30.000 en <?linebreak?>€ 50.000,-- per jaar bedraagt en dat hij al zijn geld op een bank in Nederland kreeg gestort, maar wel eens geld naar de bank of de kluis in België bracht. Ten slotte heeft verdachte ter terechtzitting in hoger beroep een kopie salarisstrook van december 2008 (ruim twee jaar na aankoop van de boot derhalve) overgelegd waarop een maandsalaris van € 6.661,-- bruto staat.</para>
+          <para>Ondanks een eerdere toezegging van de kant van verdachte dat hij inzicht zou geven in zijn inkomsten in de ten laste gelegde periode en ondanks het feit dat door het hof ter terechtzitting van 2 december 2016 is aangegeven dat het hof niet beschikt over relevante salarisstroken en bonusspecificaties van de verdachte, is door of namens de verdachte het eerder toegezegde inzicht niet verschaft. Dit bevreemdt het hof, temeer nu de verdachte onder meer in zijn appelschriftuur alsook ter terechtzitting in hoger beroep van 5 december 2016, heeft verklaard te beschikken over relevante stukken en deze naar eigen zeggen ter terechtzitting in eerste aanleg ter inzage heeft aangeboden aan de rechtbank.</para>
+          <para>Dat hij dat daadwerkelijk heeft gedaan, blijkt overigens niet uit de processen-verbaal van de terechtzittingen in eerste aanleg. Voor wat betreft de bewering dat de verdachte naast zijn vaste maandelijkse inkomen neveninkomsten genoot en vergoedingen kreeg van vrienden en familie overweegt het hof voorts dat ook deze verklaring niet onderbouwd is met enig relevant stuk of gegeven. </para>
+          <para>Al met al heeft de verdachte naar het oordeel van het hof onvoldoende inzicht gegeven omtrent de herkomst van de bewezenverklaarde geldbedragen die hij heeft aangewend voor de aankoop van de genoemde boot, die als concreet, min of meer verifieerbaar en niet op voorhand als volslagen onwaarschijnlijk is aan te merken. </para>
+          <para>Gelet op alle voornoemde feiten en omstandigheden is het hof van oordeel dat er in redelijkheid geen andere conclusie mogelijk is dan dat de in de bewezenverklaring genoemde geldbedragen en de boot die daarmee is betaald onmiddellijk of middellijk uit enig misdrijf afkomstig zijn en dat de verdachte daarvan op de hoogte was."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1.</nr>
+        <para>Het gaat bij dit cassatiemiddel om het bewijs van het bestanddeel "afkomstig is uit enig misdrijf", zoals dat voorkomt in de witwasbepalingen (art. 420bis e.v. Sr). Eerdere rechtspraak van de Hoge Raad over dit thema kan als volgt worden samengevat.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2.</nr>
+        <para>Dat een voorwerp "afkomstig is uit enig misdrijf", kan, indien op grond van de beschikbare bewijsmiddelen geen rechtstreeks verband valt te leggen met een bepaald misdrijf, niettemin bewezen worden geacht indien het op grond van de vastgestelde feiten en omstandigheden niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is. Het is daarbij aan het openbaar ministerie bewijs aan te dragen van dergelijke feiten en omstandigheden.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.3.</nr>
+        <parablock>
+          <para>Indien de door het openbaar ministerie aangedragen feiten en omstandigheden een vermoeden rechtvaardigen dat het niet anders kan zijn dan dat het voorwerp uit enig misdrijf afkomstig is, mag van de verdachte worden verlangd dat hij een concrete, verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring geeft dat het voorwerp niet van misdrijf afkomstig is. De omstandigheid dat zo een verklaring van de verdachte mag worden verlangd, houdt niet in dat het aan de verdachte is om aannemelijk te maken dat het voorwerp niet van misdrijf afkomstig is.</para>
+          <para>Indien de verdachte voormelde verklaring geeft, ligt het op de weg van het openbaar ministerie nader onderzoek te doen naar die verklaring. De rechter zal dan mede op basis van de resultaten van dat onderzoek moeten beoordelen of ondanks de verklaring van de verdachte het witwassen bewezen kan worden op de grond dat (het niet anders kan zijn dan dat) het voorwerp uit enig misdrijf afkomstig is.</para>
+          <para>Indien een dergelijke verklaring uitblijft, mag de rechter die omstandigheid betrekken in zijn overwegingen omtrent het bewijs. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Het oordeel van het Hof dat de verdachte geen concrete, verifieerbare en niet op voorhand hoogst onwaarschijnlijke verklaring heeft gegeven over de herkomst van de geldbedragen, is niet zonder meer begrijpelijk, nu de verdachte met een concrete verwijzing naar zijn inkomsten uit arbeid heeft gesteld dat de geldbedragen een legale herkomst hadden. Dat wordt niet anders door de vaststelling van het Hof dat de verdachte, ondanks een door hem gedane toezegging, geen relevante stukken heeft overgelegd, nu die enkele omstandigheid niet afdoet aan de door de verdachte gegeven verklaring en de mogelijkheid daarnaar nader onderzoek te doen. Mede gelet op hetgeen het Hof in zijn overwegingen overigens heeft vastgesteld, is de bewezenverklaring voor zover inhoudend dat de geldbedragen "afkomstig waren uit enig misdrijf", niet toereikend gemotiveerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Het middel slaagt in zoverre.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>3</nr>Slotsom</title>
+    <para>Hetgeen hiervoor is overwogen brengt mee dat de bestreden uitspraak - voor zover aan het oordeel van de Hoge Raad onderworpen - niet in stand kan blijven, het middel voor het overige geen bespreking behoeft en als volgt moet worden beslist.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>	vernietigt de bestreden uitspraak - voor zover aan zijn oordeel onderworpen -;</para>
+      <para>	wijst de zaak terug naar het Gerechtshof Den Haag, opdat de zaak op het bestaande hoger beroep opnieuw wordt berecht en afgedaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren Y. Buruma, M.J. Borgers, J.C.A.M. Claassens en A.E.M. Röttgering, in bijzijn van de waarnemend griffier S.P. Bakker, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">18 december 2018</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

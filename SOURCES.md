@@ -329,3 +329,6 @@ Tweede lezing batch36: alle twintig toegewezen eenheden396–415c tegen opnieuw 
 
 
 Auteursbatch 37: precies twintig officiële artikelplaatsen 416–426bis toegelicht, inclusief de vervallen nummers 422 en 423. [Batchbewijs](author-batch37-result.json), [actuele broncontrole](preflight-author-batch37-result.json), [selectief rechtspraakonderzoek](authorities/author-batch37-search-log.json). Dit is een auteurscheckpoint; een onafhankelijke tweede lezing van deze batch staat nog open. De gehele uitgave blijft onvoltooid.
+
+
+Tweede lezing batch37: precies twintig toegewezen eenheden416–426bis tegen opnieuw opgehaalde officiële XML gelezen; zes toelichtingen gecorrigeerd of verduidelijkt. De onjuiste extra eis van winstbejag bij416 lid2 is verwijderd; bij426bis zijn de drie gedragsvarianten onderscheiden. Ook zijn rechtenontzetting en het verschil tussen drukken en uitgeven gepreciseerd. De bestaande arresten en conclusie zijn volledig nagelezen; aanvullend is de afbakening met dwang gecontroleerd in HR2022:1473 en de afzonderlijk aangeduide conclusie2022:795. [Exacte IDs en bevindingen](review-batch37-result.json); [broncontrole](preflight-review-batch37-result.json); [selectieve rechtspraakcontrole](sources/review-batch37-authority-check.json). Geen materiële batchblokkade. Het gehele boek blijft onvoltooid; geen externe professionele goedkeuring.

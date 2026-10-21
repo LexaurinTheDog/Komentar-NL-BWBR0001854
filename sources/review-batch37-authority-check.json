@@ -1,0 +1,154 @@
+{
+  "reviewed_at": "2026-10-21T00:44:31.788771+00:00",
+  "verified_existing_authorities": [
+    {
+      "ecli": "ECLI:NL:HR:2018:2352",
+      "path": "authorities/review-batch37-ECLI-NL-HR-2018-2352.xml",
+      "sha256": "dea2b35045e8ed0ebc1ffa7060114c77291c9bb80d72c97ec144d47247a23b50",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2024:1468",
+      "path": "authorities/review-batch37-ECLI-NL-HR-2024-1468.xml",
+      "sha256": "fbf05491e329add1ca2189b866b05bbf10b0d1b86dfe65230bd7057ee2e09fb5",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    },
+    {
+      "ecli": "ECLI:NL:PHR:2024:824",
+      "path": "authorities/review-batch37-ECLI-NL-PHR-2024-824.xml",
+      "sha256": "00258b52eb8c0e4b94bcab6db3271c7c53a298b920cc97c1b83fe46ae9a710f9",
+      "judicial_body_unchanged": true,
+      "full_body_read": true
+    }
+  ],
+  "new_contextual_authorities": [
+    {
+      "ecli": "ECLI:NL:PHR:2022:795",
+      "paragraphs": "9–12, especially 11",
+      "disposition": "AG opinion on boundary of426bis versus filming/livestreaming; no judgment under426bis claimed"
+    },
+    {
+      "ecli": "ECLI:NL:HR:2022:1473",
+      "paragraphs": "2.4–2.5.2; decision5",
+      "disposition": "Judgment on284 only; not a holding on every426bis element"
+    }
+  ],
+  "web_queries": [
+    "site.rechtspraak.nl \"426bis\" \"alleen\" volgen",
+    "site.rechtspraak.nl \"416\" \"tweede lid\" \"winstbejag\""
+  ],
+  "local_corpus_query": {
+    "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+    "regex": "2018:2352|2024:1468|2022:1473|2022:795",
+    "candidate_inventory": "sources/review-batch37-local-candidates.txt"
+  },
+  "local_candidates": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-955.md",
+      "sha256": "8815cfd1832547332a5d81ad9ad4b6996e923ef70862e2fa036c6bd582700676",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-441.md",
+      "sha256": "1370d324b54e5f6b48a7754b5f99cea89e4167d2cff078b6b076f1cfcb61d7ca",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-984.md",
+      "sha256": "9f19194bacdd2386a034eba986c7744a9814bc53eb2e8178d123f9c4991dec35",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-539.md",
+      "sha256": "32c06032ee94baf3824e70ffff87e8844f35d55cb14c05fb6760352dcee06730",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-1499.md",
+      "sha256": "b154e611527cfc5e575d48fb96cc1eb0f30722ab659039c0225c2db92d21e775",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-167.md",
+      "sha256": "da2bbea8372f88a020f141748a0f618137a99b8321048b032a18ca1a1882c9c6",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-2352.md",
+      "sha256": "49fc5ae4e0240aa467ef1e1ef33b100003aeba5b3ab5a8e44b1a31f9427e7313",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-1137.md",
+      "sha256": "aa8b1f17b268667f81b63da8f2f3d8afe4aa7d86fb472291d416a55cb986e2ad",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-1468.md",
+      "sha256": "c48b1c49724d60979fee5ca7b16bc50e112bb10672849e9d8e636fc171266836",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-668.md",
+      "sha256": "833b4f4ab853249e8a432d14f5a3d135c351038562d53711ea038994daba9b80",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-1153.md",
+      "sha256": "c8e6cc783687561b695007bab0f1c266da3fb71c4f37d051d6a6998357f12ae5",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-36.md",
+      "sha256": "ce50c47ffddbecc4c5d82672c3440806f4e69ad3fd79edd5c51d10eb5c6925bb",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-1491.md",
+      "sha256": "19a9ffff3cdef4f8a97ca653990a45b6090e4126e2e490bdf85e1a8488c89a55",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-156.md",
+      "sha256": "0368f1cfb1495852c82f4de2fc778384287aed6f3228901fee5eed7b78e7210e",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-691.md",
+      "sha256": "7336538b4b1798ee30cd1f1a3c58aff202fe0c7a6e3861641d5195255f27ff83",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-772.md",
+      "sha256": "d78d7f33afd97d971f4547922fbbbe2553bd1815648af0cd78ec4781b1d467fc",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1005.md",
+      "sha256": "7c6d7d1aae266b054357df5f62ab2e774777a51688560afe411abd7d50b29c1b",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1473.md",
+      "sha256": "d739938e652fb2586a942db363f93f35292245a9f2c03940e7b6404b83161309",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1643.md",
+      "sha256": "3a6704db868b6cad8522b3e8fe3cdd93e381e97f0ec3037c0b1a912042045a36",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-795.md",
+      "sha256": "288d6af22baadf29c55ddbfe60ef335e3af7fd200239087aaef479efbe758572",
+      "disposition": "Inventory match; no additional holding adopted solely from this match."
+    }
+  ],
+  "limitations": [
+    "Selective search; no exhaustive later-treatment or all-court survey.",
+    "No separate authority required or invented for technical or repealed units.",
+    "Local intake is read-only; cited judicial bodies independently fetched from official Rechtspraak API."
+  ]
+}

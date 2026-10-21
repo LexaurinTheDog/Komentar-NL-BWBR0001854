@@ -4,215 +4,216 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a396",
-    "a397",
-    "a400",
-    "a401",
-    "a402",
-    "a403",
-    "a405",
-    "a406",
-    "a407",
-    "a408",
-    "a409",
-    "a410",
-    "a411",
-    "a412",
-    "a413",
-    "a414",
-    "a415",
-    "a415a",
-    "a415b",
-    "a415c"
+    "a416",
+    "a417",
+    "a417bis",
+    "a417ter",
+    "a418",
+    "a419",
+    "a420",
+    "a420bis",
+    "a420bis.1",
+    "a420ter",
+    "a420quater",
+    "a420quater.1",
+    "a420quinquies",
+    "a421",
+    "a422",
+    "a423",
+    "a424",
+    "a425",
+    "a426",
+    "a426bis"
   ],
-  "reviewed_at": "2026-10-21T00:33:26.075602+00:00",
+  "reviewed_at": "2026-10-21T00:44:31.788771+00:00",
   "changed_ids": [
-    "a396",
-    "a400",
-    "a413",
-    "a414",
-    "a415a",
-    "a415b"
+    "a416",
+    "a417ter",
+    "a418",
+    "a419",
+    "a420quinquies",
+    "a426bis"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a396",
+      "id": "a416",
       "disposition": "corrected",
-      "finding": "Insubordinatie395 als basis, twee of meer verenigde personen en afzonderlijke bijdrage gelezen. Zesjaar/vierde categorie en letselmaxima7,5/12/15jaar met vijfde categorie toegevoegd; wettelijke OF tussen misdrijf en feitelijkheden gepreciseerd.",
-      "statutory_sha256": "97b6ed27238dbcbd833c68e8a717fe1d92739402f5268359107887aef175a335",
-      "commentary_sha256": "dcdb88022d95f4cb28a837f0926360bef1bef0e87629e49c95c3cce7d75e78cb",
-      "commentary_chars": 1817
+      "finding": "Lid1a wetenschap bij verkrijgen onderscheiden van later bezit/verkoop onder1b met winstbejag. Materiële fout in lid2 hersteld: opzettelijk voordeel trekken vereist geen afzonderlijk winstbejag. Beide leden en voorbeeld gelezen; HR2024:1468 en gehele conclusie2024:824 nagelezen, samenwerking niet uit aanwezigheid afgeleid.",
+      "statutory_sha256": "3eb6fd114ef43a52515260f0ca056d581074531cc1d9371429678b5c22d7c437",
+      "commentary_sha256": "908e2c3b819ee87ef9c7c26fb44d0c8a6f85903eed1d7b04abdbd719b29ef75e",
+      "commentary_chars": 2599
     },
     {
-      "id": "a397",
+      "id": "a417",
       "disposition": "retained_after_review",
-      "finding": "De dubbele plaatsverbinding, Nederlands schip/zeevissersschip, opruiing zonder voltooide muiterij, hijdie en401 gecontroleerd. Vijfjaar/vierde categorie in brontekst en verwijzend voorbeeld401 juist.",
-      "statutory_sha256": "5b1ef47c1902e7613007cebd1914e8f0b9b5898eb9f0918d24d9a50b1ff82618",
-      "commentary_sha256": "e5dd4b81eeebcf61bc19ce6da9b1329486d6f2f09ed5ef57375e1eeff5e44fa4",
-      "commentary_chars": 1417
+      "finding": "Gewoonte uitsluitend opzetheling416, geen automatische optelling van schuldfeiten of goederen. Samenhangend patroon, ontbreken numerieke rekenregel, zesjaar/vijfde categorie en beroepsontzetting417ter gecontroleerd.",
+      "statutory_sha256": "9ebb1fa591e77232a9349fbc9f8a704623f2e6f5a8c229cee91208d0afcd1dc0",
+      "commentary_sha256": "6b108e73526b903e5b2c19d2e4d40ee08ce3499c3bcb13bb8567a10436d6cf17",
+      "commentary_chars": 1659
     },
     {
-      "id": "a400",
+      "id": "a417bis",
+      "disposition": "retained_after_review",
+      "finding": "Beide onderdelen lid1 en lid2 gelezen; tijdstipmaatstaf bij1a versus later redelijk vermoeden1b, winstbejag uitsluitend1b en voordeel uit opbrengst2 correct onderscheiden. Eenjaar/vijfde categorie gecontroleerd.",
+      "statutory_sha256": "2420ff65da69f7e93977ea9cdb5471e54a9b4325ff97baf8f3ed8cae6606f94a",
+      "commentary_sha256": "a0811dab19ebc026269cc9d01bb6c96c80bf60d1b479f9f65418d3295a012fac",
+      "commentary_chars": 1780
+    },
+    {
+      "id": "a417ter",
       "disposition": "corrected",
-      "finding": "Alle vier onderdelen en lid2 gelezen: veiligheidsbevel; hulp naar vermogen met wetenschap; tijdige melding van bekend voornemen; orde/tucht uitsluitend niet-schepeling. Uitsluiting bij niet-gevolgde insubordinatie alleen onderdeel3. Gemeenschappelijk strafmaximum toegevoegd.",
-      "statutory_sha256": "6da132a7655684367ba8a15a65f63f89241387b4e3ef57eea6fd01f34f33922b",
-      "commentary_sha256": "a74079151b84150959516e0c54b3f19b5bedbc589612d143d61dbb6419cd98f8",
-      "commentary_chars": 1620
+      "finding": "Facultatieve ontzetting na416–417bis, limitatieve28(1)1,2,4 en apart beroepsverband gelezen. Onderdeel4 concreet benoemd als raadsman of gerechtelijk bewindvoerder; geen algemene ontzetting uit rechtsplegingsfuncties. Duur31 gecontroleerd.",
+      "statutory_sha256": "e661599c71bc1454e51571edbc61595477e87d1992d0d12e8a931cb711db59ff",
+      "commentary_sha256": "3b72533ac87d22bf135b45527a499eb3f4709838be6d6819391c9032bc26353c",
+      "commentary_chars": 1770
     },
     {
-      "id": "a401",
-      "disposition": "retained_after_review",
-      "finding": "Limitatieve verwijzingen386,395–397,400; facultatieve verhoging met een derde uitsluitend gevangenisstraf; scheepsofficier individueel en voorbeeld vijfjaar gecontroleerd.",
-      "statutory_sha256": "60256dac202044babee1beecba79d7e40491e26082c3f0e55250a79f64fd8893",
-      "commentary_sha256": "81c2a79f7500c6fe41837d960b6bd0c3a0c0ad4eb7297e6b87b3d0eb50f2a883",
-      "commentary_chars": 1401
-    },
-    {
-      "id": "a402",
-      "disposition": "retained_after_review",
-      "finding": "Alle zes alternatieven, bijzondere dader, Nederlands schip, bevoordelings/verhullingsoogmerk, dagboeken en behoud papieren gelezen; geen administratieve risicoaansprakelijkheid. Zesjaar/vierde categorie in geciteerde tekst behouden.",
-      "statutory_sha256": "138e78cb042ed8079fa0884e100ed74daba4d63e823daa2010c87b9957dba8fb",
-      "commentary_sha256": "bb18f13b562e5d6bb74867aeace03d263686bbf0a53525974d60e8f87f9594c6",
-      "commentary_chars": 1647
-    },
-    {
-      "id": "a403",
-      "disposition": "retained_after_review",
-      "finding": "Koerswijziging plus bijzonder oogmerk onderscheiden van schade of gerealiseerde winst;402/415 gecontroleerd. Driejaar/vierde categorie bron juist.",
-      "statutory_sha256": "fdd7909c1cdcf31c11d3f26b0f20fb8eab9ade4470191e89d3fe64f113cfde29",
-      "commentary_sha256": "f83297d1357210976d5c2769da3e7859a729fb92d9515a1c7a19291cb1ee03ba",
-      "commentary_chars": 1512
-    },
-    {
-      "id": "a405",
-      "disposition": "retained_after_review",
-      "finding": "Beide leden apart gelezen: schipper plegen/gedogen, voorkennis eigenaar/rederij versus opvarende zelf plegen, voorkennis schipper; buiten noodzaak en wetenschap risico. Eenjaar/negenmaanden, beide derde categorie correct geciteerd.",
-      "statutory_sha256": "f27df931fc2b7b9efbddff3017a1950baa51f769d6f0ef099858c292db2e1bd1",
-      "commentary_sha256": "ea4bdbe8f871aadd3171eb7e2288c64ef2b5a2eecf03540cee6e5c2379c8f6b9",
-      "commentary_chars": 1481
-    },
-    {
-      "id": "a406",
-      "disposition": "retained_after_review",
-      "finding": "Bijzondere dader, Nederlands schip, opzettelijk buiten noodzaak onthouden en concrete verstrekkingsplicht gelezen. Voorbeeld drinkwater conditioneel; geen ongeverifieerde externe leveringsregel geponeerd. Tweejaar/vierde categorie bron juist.",
-      "statutory_sha256": "a96f15eea9c14a219a7e8783f8dcf7acb9569d13ebaaabfc2182731c0a329aa5",
-      "commentary_sha256": "378ca892c3313c38510b58b171802c58ef62ce385138d2a0910e70acf7ee463f",
-      "commentary_chars": 1547
-    },
-    {
-      "id": "a407",
-      "disposition": "retained_after_review",
-      "finding": "Opzettelijk werpen, alternatief buiten noodzaak OF strijd wettelijk voorschrift, schipper Nederlands schip en onderscheid408 gecontroleerd. Tweejaar/vierde categorie juist geciteerd.",
-      "statutory_sha256": "332643148ea7bcc1ab25a1da1bc9b84ee398348791fe845cf1b1cb3fb33f3670",
-      "commentary_sha256": "4e876887687230dbab01a92abf32bc9bf6cf09644539257a5011b854b1375e2d",
-      "commentary_chars": 1545
-    },
-    {
-      "id": "a408",
-      "disposition": "retained_after_review",
-      "finding": "Dader hijdie, geen Nederlands-bestanddeel of eigendomseis ander toegevoegd; opzet EN wederrechtelijkheid en drie beschadigingsvormen gelezen. Verwijzing350 gecontroleerd; tweejaar/vierde categorie juist.",
-      "statutory_sha256": "c781e8b2d55bd5e07f384d9c63aac29fb55356e2f1ca7b92b7663b9bb67aaac2",
-      "commentary_sha256": "e5eb14ac2ae4529b3beb119737de695433d010bd9e30e3bebe8afd047e67ae1d",
-      "commentary_chars": 1565
-    },
-    {
-      "id": "a409",
-      "disposition": "retained_after_review",
-      "finding": "Nieuwe tekst per2025-07-01 en rechtsregels/vlag Koninkrijk gelezen; wetenschap onbevoegdheid niet gelijkgesteld aan ieder administratief gebrek. Geen ongeverifieerde vlaggenwet inhoudelijk uitgewerkt. Eenjaar/derde categorie bron juist.",
-      "statutory_sha256": "474c5075fb29f8983ece81ca641f111226d78bd82a443e8f915f9b0e71a5e0bc",
-      "commentary_sha256": "884a2f0c93f587dad24802eac16a3755f03e32b6f677e566601f98f2c3265aaa",
-      "commentary_chars": 1552
-    },
-    {
-      "id": "a410",
-      "disposition": "retained_after_review",
-      "finding": "Opzettelijke schijn door onderscheidingsteken, Nederlands oorlogsvaartuig versus loodsvaartuig dienstdoend in Nederlandse wateren/zeegaten gelezen; geen geslaagde misleiding vereist. Driemaanden/tweede categorie bron juist.",
-      "statutory_sha256": "cce6ae75877574a9a8099ca0a632ea7a34745d36b9ec15d39071555d1012d81c",
-      "commentary_sha256": "e9fc1923806b41e4944af3939a0f0f1f16add509e196d094609d87d1e5c63f0d",
-      "commentary_chars": 1534
-    },
-    {
-      "id": "a411",
-      "disposition": "retained_after_review",
-      "finding": "Buiten noodzaak, feitelijk optreden, Nederlands vaartuig, drie functies en wetenschap wettelijke onbevoegdheid gecontroleerd; niet in401. Zesmaanden/derde categorie bron juist.",
-      "statutory_sha256": "f03d45e5055c0b274a70886db5e21d624a18b4bd8d1195619bffe86e14da01fc",
-      "commentary_sha256": "f28685012fa2b71c5d974844b267879c6d4cc438f5c70a55da84a25490937cf3",
-      "commentary_chars": 1584
-    },
-    {
-      "id": "a412",
-      "disposition": "retained_after_review",
-      "finding": "Wettelijke vordering, beklaagde/veroordeelde EN zaakstukken, Nederlands schip, weigeren zonder geldige reden en koppeling413 gelezen; geen automatische universele vervoersplicht. Driemaanden/tweede categorie bron juist.",
-      "statutory_sha256": "971a7fba5d3f768c921c73fde8c1e726c9ee1948dc9d75c5283ef6eb0a14b5b4",
-      "commentary_sha256": "40ff562d6e556edd7c83dcda4534612b53a5de3f5641a9f001441f726eec20e2",
-      "commentary_chars": 1562
-    },
-    {
-      "id": "a413",
+      "id": "a418",
       "disposition": "corrected",
-      "finding": "Beide leden en drie ontsnappings/bevrijdingswijzen gelezen; opname op wettelijke vordering en onderscheid opzet/schuld behouden. Driejaar/vierde categorie tegenover tweemaanden hechtenis/tweede categorie uitgeschreven.",
-      "statutory_sha256": "4f9426f21307ef45d683270e83c838d21cdc97fc9b08e740ca266109e29f6a02",
-      "commentary_sha256": "17b35134a6488683e5d2bc7c629efb90319927b545eaa5ecd6a3067198a082a1",
-      "commentary_chars": 1642
+      "finding": "Uitgeven geschrift/afbeelding strafbare aard, onbekendheid en eerste aanmaning versus kennis/verwachting niet-vervolgbaarheid/buitenRijk bij uitgave apart gelezen. Artikel53 gecontroleerd. Strafalternatieven verduidelijkt zonder onbewezen vaste koppeling aan aard inhoudsdelict; redactionele waarschuwing behouden.",
+      "statutory_sha256": "e0c98d0bfc1c715b858a0728e3b20023498d73203a382f4dcfad4e5ec306750b",
+      "commentary_sha256": "843ff426c7687da101a49eb3bf279339bdb5016fbf45a0313ea76077a9bb4f02",
+      "commentary_chars": 1972
     },
     {
-      "id": "a414",
+      "id": "a419",
       "disposition": "corrected",
-      "finding": "Verwijzing naar eerste lid van BEIDE WvK-artikelen358a/785 gecorrigeerd en met opnieuw opgehaalde actuele XML uitgewerkt. Hulp naar vermogen zonder ernstig eigen gevaar, onderscheid informatieplichten lid2, opzet en driejaar/vierde categorie verduidelijkt.",
-      "statutory_sha256": "2c6364b0de2fb5696eb6349ff8163fbcf461887a5d822b309bbf71f56744ecb8",
-      "commentary_sha256": "f9491f87516549b795c709b2592762f8375000a987a1f2d5518f66e2b8cdd600",
-      "commentary_chars": 2032
+      "finding": "Drukker/opdrachtgever tegenover uitgever/dader onderscheiden. Beide alternatieven, eerste aanmaning en uitgave-tijdstip gelezen; artikel54 gecontroleerd. Toegevoegd dat54(2) drukken noemt terwijl419(2) uitgave noemt; geen stille gelijkstelling.",
+      "statutory_sha256": "ae1ed57754bc4295b8a4aed103cb213849ab183d7b5bf358a59d853c3fabc2ae",
+      "commentary_sha256": "8d2fe560c280f601c2643e5bc97338c1810eeda7e3328f33206c849971b72cda",
+      "commentary_chars": 2168
     },
     {
-      "id": "a415",
+      "id": "a420",
       "disposition": "retained_after_review",
-      "finding": "Limitatieve delictverwijzingen en facultatieve rechten28(1)1,2,4 gecontroleerd, geen kiesrecht of beroep5; duur31. Voorbeeld402 past in bereik.",
-      "statutory_sha256": "b573c9d7616d914b37c55c2fa246e3c64a4e4a24ec5973b9a2632c4bd7da04d0",
-      "commentary_sha256": "7240f4f1c58f1f7a7cd66312dea6ef8f484586544d669bdbbdeced2d876e2611",
-      "commentary_chars": 1422
+      "finding": "Doorwerking klachtvereiste alleen bij achterliggend klachtmisdrijf, klager tegen wie misdrijf is gepleegd, vervolgbaarheid tegenover bewijs418/419 onderscheiden. Voorbeeld en checklist gelezen; geen immuniteit voor zelfstandig delict.",
+      "statutory_sha256": "99fc82954725d7abb91b23633a672607da81921aa355a217d5cf546930f79bb8",
+      "commentary_sha256": "89611d556d4d9bb88aa6c96c8d8b47b786e81e760202b4e686f4bea16c94384a",
+      "commentary_chars": 1733
     },
     {
-      "id": "a415a",
-      "disposition": "corrected",
-      "finding": "Basisdelict plus oogmerk83a, verhoging helft versus vijftienjaarvariant met levenslang/dertigjaar gecontroleerd. Voor doodsvariant385a(3) expliciet absolute dertigjaargrens10(4) toegevoegd; geen vijfenveertigjaarmaximum.",
-      "statutory_sha256": "6bf1e81a2fb5ee8a0c4275c007b9105240ec4d6fd4f59e3e39ccbe95462cea9b",
-      "commentary_sha256": "4ee107540756eb288f2b06827599ed1502f581289e688667b96aef9f94e77e20",
-      "commentary_chars": 1853
-    },
-    {
-      "id": "a415b",
-      "disposition": "corrected",
-      "finding": "Samenspanning80 en terroristisch oogmerk, lijst385a/b/d met bewuste afwezigheid385c; tweede lid96(2) inclusief alle vijf gedragingen en voorwaarden verduidelijkt. Tienjaar/vijfde categorie toegevoegd.",
-      "statutory_sha256": "1ab932f86c972a2d387d382ceac02f0f4926fa6625e4b29c1ebf2c508eb3a732",
-      "commentary_sha256": "a7844d7e1635552f8feb39209dbc62e579888ecee9aff2861ca11bb48f0cf80d",
-      "commentary_chars": 1983
-    },
-    {
-      "id": "a415c",
+      "id": "a420bis",
       "disposition": "retained_after_review",
-      "finding": "Beide delictgroepen, alleen kiesrecht28(1)3, voorwaarde gevangenisstraf minstens eenjaar28(3), duur31 en voorbeeld gecontroleerd; praktische slotchecklist gelezen. Geen rechtspraakdekking voorgewend.",
-      "statutory_sha256": "b74ab551229414338264c2fce9ca684e254e2484185bbbd71201899191f7a722",
-      "commentary_sha256": "27cce13d44b7a5612aaa6cf73ac443606d9f2b9c0c492ef4eed30cf2b957f3c0",
-      "commentary_chars": 2097
+      "finding": "Beide gedragsgroepen, wetenschap, directe/middellijke herkomst en zaken/vermogensrechten gelezen. HR2018:2352 volledig herlezen: OM-bewijs, voorwaarde voor verklaring, geen omgekeerde bewijslast, nader onderzoek en vernietiging/terugwijzing juist; zesjaar/vijfde categorie actuele bron.",
+      "statutory_sha256": "6550c61871df059eeff1bc7c087dadaef2edfe9bf499a40e9589a639daeac509",
+      "commentary_sha256": "f83554525788b222a25abfd8b76855f2053ea1cd9fea9917c938daa23fbe88c1",
+      "commentary_chars": 2024
+    },
+    {
+      "id": "a420bis.1",
+      "disposition": "retained_after_review",
+      "finding": "Eenvoudig witwassen enkel verwerven/bezit, onmiddellijk én eigen misdrijf; wetenschap uit basismisdrijf en zesmaanden/vijfde categorie gecontroleerd. Geen algemene vrijstelling of onverkorte toepassing oude kwalificatierechtspraak. Horlogevoorbeeld onderscheidt omzetting en indirect voorwerp.",
+      "statutory_sha256": "0e5fdb178b772975e26959c8b846b4ebf64ee523258848f0ebaee33c019bffe9",
+      "commentary_sha256": "c7fb039f9de62ba2d2123d6ab80cb72de40d46e80634cd1a3df1cf595c48b24e",
+      "commentary_chars": 1906
+    },
+    {
+      "id": "a420ter",
+      "disposition": "retained_after_review",
+      "finding": "Lid1 gewoonte versus zelfstandige beroeps/bedrijfsvariant lid2, beide opzettelijk witwassen en achtjaar/vijfde categorie gelezen. Patroon niet uit enkel langdurige vermogenspositie afgeleid; beroep niet uit enkele ondernemersstatus.",
+      "statutory_sha256": "afc692c2f3ee78b27b1bb8dcba9a27bcdf4eb608434aef39b5625858f168e426",
+      "commentary_sha256": "83dde30263f071aaa747dfbefd650dd9e8d2568da083976fd3c43d1801e95ca8",
+      "commentary_chars": 1858
+    },
+    {
+      "id": "a420quater",
+      "disposition": "retained_after_review",
+      "finding": "Beide gedragsgroepen en lid2, redelijk vermoeden tegenover wetenschap, misdadige herkomst als zelfstandig bewijsobject en geen vereiste aanvankelijke verkrijgingskennis zoals417bis1a gecontroleerd. Tweejaar/vijfde categorie en voorbeeld passend.",
+      "statutory_sha256": "ebf34e672d335c7fbdd86c3ce4261f04d2edd3dae8e2e39f4ecad0d6034bcba6",
+      "commentary_sha256": "b0a4e47a75ce6adf4bae11d1530952cd39b468f6cd93abc6a938e72a10364949",
+      "commentary_chars": 1960
+    },
+    {
+      "id": "a420quater.1",
+      "disposition": "retained_after_review",
+      "finding": "Eigen directe opbrengst, enkel verwerven/bezit en verwijtbaar vermoeden onderscheiden van420bis.1. Drie maanden/vijfde categorie, bewijs van eigen misdrijf en geen lichtere kwalificatie door enkel ontkennen wetenschap gecontroleerd.",
+      "statutory_sha256": "c1e81d8c94d5dfc574c3ce67875afdfd80e34ebd02742dc1b3a1fdaa616a0a44",
+      "commentary_sha256": "d3a9fee767003ac908e6ce122344f4b9eb17f02222e70dee15a1a3356bf7d0d6",
+      "commentary_chars": 1810
+    },
+    {
+      "id": "a420quinquies",
+      "disposition": "corrected",
+      "finding": "Inclusief420bis.1/420quater.1, facultatieve ontzetting28(1)1,2,4 en apart beroep gelezen. Rechten nu concreet benoemd; duur31 en beroepsverband afzonderlijk; praktische checklist nagelezen.",
+      "statutory_sha256": "f3b88ec40fd2e7c17393b9a5105e562b37acc4ea7b3c83b7b1ee94e656106169",
+      "commentary_sha256": "4609772d40a34081e11c3e5652130168b665c5dbf2add50815d5bfa4ee2f9cca",
+      "commentary_chars": 1856
+    },
+    {
+      "id": "a421",
+      "disposition": "retained_after_review",
+      "finding": "Beide geldelijke-steunvarianten, middelen/inlichtingen en voorwerpen, opzet, directe/indirecte en gehele/gedeeltelijke bestemming gelezen. Alle vier streepjes1b en voorwaarden beschermd persoon/kernmateriaal/explosieve werkwijze gecontroleerd;83/83b, lid2 en achtjaar/vijfde categorie. Kernenergiewet niet zelfstandig uitgelegd.",
+      "statutory_sha256": "e6a60090c5c84e6d240d675682f45a5807136e64483a48c58c1e062870031cc6",
+      "commentary_sha256": "f96de335022c7d8ffceb29997578ce39906aed54e695c6feae1fb14db82f035a",
+      "commentary_chars": 2236
+    },
+    {
+      "id": "a422",
+      "disposition": "retained_after_review",
+      "finding": "Officieel vervallen artikelplaats zonder materiële norm behouden; geen historische inhoud ingevuld. Huidige titelplaatsing schept geen actuele strafbaarheid. Artikel1-verwijzing en conditionele421-verwijzing juist.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "376e77fd680983d31d9b30eed727d2369f1364c3f6fee3f29f2b583d8939cb40",
+      "commentary_chars": 1050
+    },
+    {
+      "id": "a423",
+      "disposition": "retained_after_review",
+      "finding": "Afzonderlijk vervallen nummer behouden en onafhankelijk gecontroleerd, geen strafverzwaring421. Historische verwijzingen niet met actuele norm vermengd; temporele artikel1-toetsing expliciet.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "c8c8a98627361108b827f9652152e2caf44582f030fb703c9fc5d1ae0e4a91eb",
+      "commentary_chars": 1136
+    },
+    {
+      "id": "a424",
+      "disposition": "retained_after_review",
+      "finding": "Baldadigheid tegen personen/goederen, beide plaatsvarianten, mogelijkheid gevaar/nadeel tegenover gerealiseerde schade gelezen. Lid2 termijn sinds onherroepelijk wegens gelijke overtreding, drie dagen/eerste categorie en alternatief350 gecontroleerd.",
+      "statutory_sha256": "75adb5550316982b49945f173e578e93d09b2c478c63b6be0830e9be7da03bbd",
+      "commentary_sha256": "4efa97b1d8bf1f6646e7383d39ef08838eb5a3897c7445188dfaf2972e3aa794",
+      "commentary_chars": 1717
+    },
+    {
+      "id": "a425",
+      "disposition": "retained_after_review",
+      "finding": "Hoede zonder eigendomseis;1 aanval op mens OF dier,2 gevaarlijk dier en onvoldoende onschadelijk houden onderscheiden. Zes maanden/derde categorie actuele bron; geen absolute risicoaansprakelijkheid; conditionele voorbeelden passend.",
+      "statutory_sha256": "8991a9d436fbba1d21cebb10237300dc078e22a91638d1962104e384236426ba",
+      "commentary_sha256": "9ebc8dc8ce4cba994204c54848a693587ca442ffeb088b6356a08d4b5eadd864",
+      "commentary_chars": 1843
+    },
+    {
+      "id": "a426",
+      "disposition": "retained_after_review",
+      "finding": "Dronkenschap én bijkomende gedraging, openbaar alleen bij eerste groep, veiligheidsvarianten en bijzondere voorzorgen gelezen. Zesdagen/eerste categorie; recidive binnenjaar na onherroepelijkheid met gelijke of430b, tweeweken/tweede categorie gecontroleerd.",
+      "statutory_sha256": "b9e0d68846eba79f5013fde03e2fce36e9ba047d86047d25d3b209b4f242e4d4",
+      "commentary_sha256": "60771aa1a4e83c5e33ddabeedcd5c570d0d401ab41c387161211396b3644fa83",
+      "commentary_chars": 1872
+    },
+    {
+      "id": "a426bis",
+      "disposition": "corrected",
+      "finding": "Drie gedragsvarianten nu afzonderlijk geformuleerd: groepsvereiste bij opdringen, niet als algemene eis voor belemmeren of volgen. Plaats, wederrechtelijkheid, expliciete wil en voortduring gelezen. AG2022:795 punt11 versus HR2022:1473 over284 onderscheiden in nieuwe zaakkaart; maand/tweede categorie en checklist juist.",
+      "statutory_sha256": "15f493aa6e4dfacd4ad87b3ddc1bf68804317ff467badef5860efd1eceb9f60d",
+      "commentary_sha256": "012e0330410094f9f0c7eb63e725dc06790a22191a0319fd8d1c25ed755ab4c9",
+      "commentary_chars": 2602
     }
   ],
   "limitations": [
-    "Exactly the twenty assigned units substantively reviewed; references checked only to support these units.",
-    "92 out-of-scope units remain uncommented; whole book incomplete.",
-    "Selective case-law search; no sufficiently relevant full judgment verified or cited for this batch. No external professional approval.",
-    "External WvK358a/785 verified; other external sources of duties/competence are not independently expounded.",
-    "Text agreement, length and repetition checks do not establish legal quality."
+    "Exactly twenty assigned units substantively reviewed; no review claim for other units.",
+    "72 out-of-scope units remain uncommented; whole book incomplete.",
+    "Selective case-law review; no exhaustive later-treatment audit or external professional approval.",
+    "Kernenergiewet cross-references are not independently expounded; no external offence content supplied from memory.",
+    "Technical agreement and length do not establish legal quality."
   ],
-  "source_preflight": "preflight-review-batch36-result.json",
-  "case_search": "sources/review-batch36-case-search.json",
+  "source_preflight": "preflight-review-batch37-result.json",
+  "case_evidence": "sources/review-batch37-authority-check.json",
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1182817,
+    "commentary_chars": 1220368,
     "errors": [
-      "krátký/chybějící komentář u 92 jednotek: ['a416(0<400)', 'a417(0<120)', 'a417bis(0<400)', 'a417ter(0<400)', 'a418(0<400)', 'a419(0<400)', 'a420(0<400)', 'a420bis(0<400)']"
+      "krátký/chybějící komentář u 72 jednotek: ['a426ter(0<400)', 'a427(0<400)', 'a428(0<400)', 'a429(0<400)', 'a429a(0<400)', 'a429bis(0<120)', 'a429ter(0<400)', 'a429quater(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -221,6 +222,5 @@
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
   "coverage_complete": true,
-  "whole_book_validation_ok": false,
-  "post_checkpoint_validation": true
+  "whole_book_validation_ok": false
 }

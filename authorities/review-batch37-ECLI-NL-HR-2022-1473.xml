@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2022:1473</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:25:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-10-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2022-10-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/04384</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:795" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2022:795</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2022-0210</rdf:li>
+          <rdf:li>NJB 2022/2401</rdf:li>
+          <rdf:li>RvdW 2022/1016</rdf:li>
+          <rdf:li>NJ 2022/347</rdf:li>
+          <rdf:li>NTS 2022/83</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:1473">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:1473</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-10-17T14:48:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-10-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2022:1473 Hoge Raad , 18-10-2022 / 20/04384</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2022:1473:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Dwang door ex-partner te achtervolgen en met telefoon te filmen en deze film live op Facebook uit te zenden, art. 284.1.1 Sr. 1. Is sprake van “door enige feitelijkheid wederrechtelijk dwingen” a.b.i. art. 284 Sr? 2. Schriftuur benadeelde partij.</para>
+        <para>Ad 1. Van door feitelijkheid wederrechtelijk dwingen iets te doen, niet te doen of te dulden a.b.i. art. 284 Sr kan slechts sprake zijn indien verdachte door die feitelijkheid opzettelijk heeft veroorzaakt dat slachtoffer tegen zijn of haar wil iets heeft gedaan, niet gedaan of geduld (vgl. ECLI:NL:HR:2005:AT5834). Hof heeft vastgesteld dat aangeefster en haar dochter onverwacht werden geconfronteerd met verdachte, waarna zij wegrenden in poging om aan verdachte te ontkomen. Nadat aangeefster haar dochter in een bij een splitsing stilstaande auto had gestopt, liep zij zelf verder. Verdachte liep en rende ongeveer zeven minuten achter aangeefster aan. Ondertussen filmde hij haar met zijn telefoon en zond hij die film live uit op zijn openbare Facebookaccount. Verdachte riep daarbij aantal keer naar aangeefster dat zij zijn kind heeft ontvoerd. Aangeefster heeft, terwijl verdachte haar volgde en zij zag dat verdachte haar filmde met zijn telefoon, meerdere keren naar hem geroepen dat hij moest stoppen en weg moest gaan. Ook heeft zij twee voorbijgangers gevraagd de politie te bellen omdat verdachte haar lastigviel en omdat verdachte een contactverbod met haar dochter had. Het op deze vaststellingen gebaseerde oordeel van hof dat verdachte aangeefster ‘door enige feitelijkheid wederrechtelijk heeft gedwongen’ iets te dulden a.b.i. art. 284 Sr getuigt niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk.</para>
+        <para>Ad 2. Op schriftuur van benadeelde partij slaat HR geen acht, omdat schriftuur niet verklaring van advocaat bevat dat hij tot indiening bepaaldelijk is gevolmachtigd door benadeelde partij.</para>
+        <para>Volgt verwerping.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2022:1473:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer </emphasis>20/04384 </para>
+      <para>
+        <emphasis role="bold">Datum	</emphasis>18 oktober 2022</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het gerechtshof Den Haag van 28 december 2020, nummer 22-004608-19, in de strafzaak</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] ,</para>
+      <para>geboren in [geboorteplaats] op [geboortedatum] 1973,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze hebben R.J. Baumgardt, P. van Dongen en S. van den Akker, allen advocaat te Rotterdam, bij schriftuur cassatiemiddelen voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>Namens de benadeelde partij [aangeefster] heeft M.J. Hoogendoorn, advocaat te Utrecht, een schriftuur ingediend.</para>
+      <para>De advocaat-generaal E.J. Hofstee heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste cassatiemiddel</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het cassatiemiddel klaagt over het oordeel van het hof dat bij het onder 1 bewezenverklaarde feit sprake is van ‘door enige feitelijkheid wederrechtelijk dwingen’ in de zin van artikel 284 van het Wetboek van Strafrecht (hierna: Sr).</para>
+      <paragroup>
+        <nr>2.2.1</nr>
+        <parablock>
+          <para>Ten laste van de verdachte is overeenkomstig de tenlastelegging onder 1 bewezenverklaard dat:</para>
+          <para>“hij op 19 juni 2018 te [plaats] [aangeefster] door enige feitelijkheid wederrechtelijk heeft gedwongen iets te dulden, hierin bestaande dat die [aangeefster] werd gedwongen te dulden dat hij, verdachte, die voornoemde [aangeefster] achtervolgde en met zijn telefoon filmde, terwijl deze film live op de Facebookpagina van de verdachte werd uitgezonden.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2</nr>
+        <parablock>
+          <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+          <para>“1. Een proces-verbaal van aangifte d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-1 (blz. 33 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -</para>
+          <para>als de op 3 juli 2018 afgelegde verklaring van [aangeefster] : </para>
+          <para>Mijn ex [verdachte] - verder [verdachte] te noemen - heeft een openbaar Facebookaccount. Iedereen kan zien wat hij op Facebook plaatst en deelt. </para>
+          <para>Op 19 juni 2018 wilde ik mijn dochter [betrokkene 1] naar school brengen. Die school zit op de [plaats] . Toen ik op de [plaats] liep, zag ik een man vlakbij de gymzaal van de school staan. Ik zei tegen mijn dochter: “Volgens mij staat jouw vader daar”. Ik zag opeens [betrokkene 2] , een andere dochter van [verdachte] , voor mij staan. Ik zei tegen [betrokkene 1] : “Rennen nu”. Ik zei dit omdat ik weet hoe agressief [verdachte] kan zijn als [betrokkene 2] erbij is. Ik rende met mijn dochter richting het winkelcentrum. Bij een T-splitsing zag ik een auto stilstaan. Ik pakte mijn dochter vast, stopte haar in de auto en zei tegen de vrouw die in de auto zat: “Neem haar mee”. Ik was in paniek. Ik zag dat [verdachte] achter ons aan kwam rennen. Ik schreeuwde tegen de vrouw dat ze weg moest rijden. </para>
+          <para>
+            [verdachte] begon tegen mij te schreeuwen en bleef achter mij aan lopen. Ik zei dat hij daarmee moest stoppen. Ik zag dat hij alles met zijn telefoon aan het filmen was. Ik heb diverse malen geroepen dat hij weg moest wezen. [verdachte] bleef achter mij aan rennen. Ik ben de Jumbo in gerend en heb daar de politie gebeld.</para>
+          <para>Toen ik op het politiebureau was, kreeg ik appjes van diverse mensen. In die appjes stond dat ik rondging op Facebook. Ik heb vervolgens op Facebook gekeken en zag dat het beeldmateriaal van alles wat er net was gebeurd op het openbare account van [verdachte] stond. Ik vind het schokkend en voel me erg in mijn eer aangetast. Zijn hele account staat vol met filmpjes en foto’s die mij in een kwaad daglicht plaatsen. Hij krijgt heel veel reacties van mensen, heel veel mensen zien de berichten die [verdachte] plaatst. </para>
+          <para>Aan niemand werd het recht of de toestemming gegeven om het feit waarvan ik aangifte heb gedaan te plegen. </para>
+          <para>2. Een proces-verbaal “ontvangst klacht door hulpofficier van justitie” d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-6 (blz. 37 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -</para>
+          <para>als de op 3 juli 2018 afgelegde verklaring van [aangeefster] : </para>
+          <para>Mijn ex [verdachte] heeft mij op de openbare weg gefilmd en daarbij diverse onwaarheden geroepen, zoals dat ik zijn kind heb ontvoerd. Hij geeft hier ruchtbaarheid aan door het in de openbaarheid te brengen door het filmpje op Facebook te plaatsen. Het is voor iedereen zichtbaar en er wordt ook door mensen op gereageerd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>3. Een proces-verbaal d.d. 3 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945 (blz. 43 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -</para>
+          <para>als relaas van de betreffende opsporingsambtenaar: </para>
+          <para>Ik, verbalisant [verbalisant] , heb het Facebookaccount van [verdachte] bekeken. Dit betreft een open account, dat voor iedereen vrij toegankelijk is. Het account wordt door 67 mensen gevolgd en heeft 666 Facebookvrienden. </para>
+          <para>Op 19 juni 2018 is [verdachte] live gegaan. Op dit filmpje is te zien dat hij achter personen aanrent. Hij roept meermalen “ [betrokkene 1] ” en hij roept dat ze niet harder kunnen rennen dan hij. Als hij de personen nadert, is te zien dat het om een vrouw en een kind gaat. De vrouw is in paniek. Zij stopt het kind in een auto en schreeuwt in paniek: “Neem haar mee, neem haar mee”. </para>
+          <para>De vrouw wijst naar [verdachte] en zegt dat hij weg moet gaan. De vrouw blijft roepen dat hij weg moet wezen. Hij wijst naar de vrouw en zegt dat zij zijn kind heeft ontvoerd. Hij blijft achter haar aanlopen en haar filmen. Hij zegt: “ [aangeefster] , jij hebt mijn kind ontvoerd, jij zorgt dat ik mijn kind terugkrijg”. Hij blijft achter de vrouw aanlopen en tegen haar schreeuwen. De vrouw blijft doorlopen. Hij roept meerdere keren naar haar dat zij zijn kind heeft ontvoerd. </para>
+          <para>De vrouw spreekt een voorbijgangster aan en vraagt haar de politie te bellen omdat die man haar lastigvalt. De vrouw rent naar de overkant van de straat en vraagt aan een voorbijganger om de politie te bellen omdat de man een contactverbod met haar dochter heeft. [verdachte] blijft achter de vrouw aan lopen tot aan het winkelcentrum, alwaar de vrouw de supermarkt Jumbo inloopt. </para>
+          <para>Het filmpje duurt in totaal ruim 7 minuten en is 1100 keer bekeken en 13 keer gedeeld. Een aantal personen heeft ook op het filmpje gereageerd. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>4. De verklaring van de verdachte, afgelegd ter terechtzitting in eerste aanleg van 1 oktober 2019, voor zover inhoudende - zakelijk weergegeven -: </para>
+          <para>Op 19 juni 2018 was ik in de buurt van de school van mijn dochter, waar ik een filmpje heb gemaakt dat ik live op Facebook heb uitgezonden. In dat filmpje was [aangeefster] te zien en is te horen “jij hebt mijn kind ontvoerd”. Ik bleef achter [aangeefster] aanlopen terwijl ik haar filmde. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>5. De verklaring van de verdachte, afgelegd ter terechtzitting in hoger beroep van 14 december 2020, voor zover inhoudende - zakelijk weergegeven -: </para>
+          <para>Op 19 juni 2018 kwam ik in [plaats] mijn ex [aangeefster] en mijn dochter [betrokkene 1] tegen. Ik ben naar hen toegelopen. Ik film bepaalde situaties en de livestream van die dag begint al op het moment dat ik begon te rennen toen ik mijn dochter zag. Het klopt dat ik een aantal keer heb geroepen: “Jij hebt mijn kind ontvoerd”. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>6. Een proces-verbaal van verhoor verdachte d.d. 5 juli 2018 van de politie Eenheid Den Haag met nr. PL1500-2018161945-16 (blz. 75 e.v.). Dit proces-verbaal houdt onder meer in - zakelijk weergegeven -</para>
+          <para>als de op 5 juli 2018 afgelegde verklaring van de verdachte:</para>
+          <para>Mijn account van Facebook is een open account. Iedereen kijkt mee. Ik zet alles op mijn livestreams, alles op openbaar.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3</nr>
+        <parablock>
+          <para>Het hof heeft ten aanzien van de bewezenverklaring verder het volgende overwogen:</para>
+          <para>“Uit de hiervoor onder 1 en 3 opgenomen bewijsmiddelen, in onderling verband en samenhang beschouwd, komt naar voren dat de verdachte gedurende ongeveer 7 minuten achter [aangeefster] is aangelopen en achter haar is aangerend, haar ondertussen met zijn telefoon filmend en die film live op Facebook uitzendend, terwijl [aangeefster] aan hem tracht te ontkomen, meermalen naar hem heeft geroepen dat hij moest stoppen en weg moest gaan en met het oog op het gedrag van de verdachte twee voorbijgangers heeft gevraagd de politie te bellen.</para>
+          <para>Naar het oordeel van het hof is aldus, anders dan de raadsvrouw heeft gesteld, wettig en overtuigend bewezen dat de verdachte door zijn hierboven beschreven gedrag opzettelijk wederrechtelijk heeft veroorzaakt dat [aangeefster] had te dulden dat zij door hem werd achtervolgd en gefilmd, terwijl die film live op Facebook werd uitgezonden en zijn aldus de bestanddelen, die liggen besloten in de zinsnede "wederrechtelijk dwingt iets te dulden" van artikel 284, eerste lid, onder 1°, van het Wetboek van Strafrecht, wettig en overtuigend bewezen.”</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.1</nr>
+        <para>De tenlastelegging is toegesneden op artikel 284 lid 1, onder 1º, Sr. Daarom moet worden aangenomen dat het in de tenlastelegging en de bewezenverklaring voorkomende begrip ‘door enige feitelijkheid wederrechtelijk dwingen’ is gebruikt in de betekenis die dat begrip heeft in die bepaling.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>Artikel 284 lid 1, onder 1°, Sr luidt:</para>
+          <para>“Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:</para>
+          <para>hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden”.</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Van door een feitelijkheid wederrechtelijk dwingen iets te doen, niet te doen of te dulden als bedoeld in artikel 284 Sr kan slechts sprake zijn als de verdachte door die feitelijkheid opzettelijk heeft veroorzaakt dat het slachtoffer tegen zijn of haar wil iets heeft gedaan, niet gedaan of geduld. (Vgl. HR 13 september 2005, ECLI:NL:HR:2005:AT5834.)</para>
+      <paragroup>
+        <nr>2.5.1</nr>
+        <para>Het hof heeft in zijn bewijsvoering het volgende vastgesteld. De aangeefster en haar dochter werden onverwacht geconfronteerd met de verdachte, waarna zij wegrenden in een poging om aan de verdachte te ontkomen. Nadat de aangeefster haar dochter in een bij een splitsing stilstaande auto had gestopt, liep zij zelf verder. De verdachte liep en rende ongeveer zeven minuten achter de aangeefster aan. Ondertussen filmde hij haar met zijn telefoon en zond hij die film live uit op zijn openbare Facebookaccount. De verdachte riep daarbij een aantal keer naar de aangeefster dat zij zijn kind heeft ontvoerd. De aangeefster heeft, terwijl de verdachte haar volgde en zij zag dat de verdachte haar filmde met zijn telefoon, meerdere keren naar hem geroepen dat hij moest stoppen en weg moest gaan. Ook heeft zij twee voorbijgangers gevraagd de politie te bellen omdat de verdachte haar lastigviel en omdat de verdachte een contactverbod met haar dochter had.</para>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.2</nr>
+        <para>Het op deze vaststellingen gebaseerde oordeel van het hof dat de verdachte de aangeefster ‘door enige feitelijkheid wederrechtelijk heeft gedwongen’ iets te dulden zoals bedoeld in artikel 284 Sr, getuigt – gelet op wat onder 2.4 is vooropgesteld – niet van een onjuiste rechtsopvatting en is niet onbegrijpelijk.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het cassatiemiddel faalt.</para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede cassatiemiddel</title>
+    <para>De Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie). </para>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van de schriftuur van de benadeelde partij</title>
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>Artikel 4.3.3.4 van het Procesreglement Hoge Raad der Nederlanden luidt:</para>
+        <para>“De schriftuur van een advocaat dient de verklaring te bevatten dat hij tot de indiening bepaaldelijk is gevolmachtigd door degene namens wie hij optreedt. Bij verzuim de hiervoor bedoelde verklaring af te leggen, stelt de rolraadsheer de advocaat in de gelegenheid tot het alsnog afleggen van die verklaring binnen een daartoe te stellen termijn.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De schriftuur bevat niet de verklaring van de advocaat dat hij tot de indiening bepaaldelijk is gevolmachtigd door de benadeelde partij. De advocaat is in de gelegenheid gesteld dit verzuim te herstellen maar daarvan is geen gebruik gemaakt. Ook blijkt niet uit de stukken dat de advocaat door de benadeelde partij bepaaldelijk is gevolmachtigd tot de indiening van de schriftuur. De Hoge Raad zal daarom op deze schriftuur geen acht slaan.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president J. de Hullu als voorzitter, en de raadsheren M.J. Borgers en A.E.M. Röttgering, in bijzijn van de waarnemend griffier E. Schnetz, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">18 oktober 2022</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
