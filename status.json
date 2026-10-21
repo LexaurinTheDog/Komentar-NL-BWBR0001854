@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_authoring_complete_book_incomplete",
+  "stage": "bounded_review_complete_authoring_incomplete",
   "complete": false,
   "title": "Wetboek van Strafrecht",
   "identifier": "BWBR0001854",
@@ -131,9 +131,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1120321,
+    "commentary_chars": 1120553,
     "errors": [
-      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']"
+      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -161,7 +162,7 @@
     "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
     "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
   ],
-  "updated_at": "2026-10-21T00:16:34.771294+00:00",
+  "updated_at": "2026-10-21T00:18:28.291478+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T23:48:04.367283+00:00",
@@ -192,32 +193,32 @@
       "a328quater"
     ]
   },
-  "validation_checked_at": "2026-10-21T00:17:10.669993+00:00",
+  "validation_checked_at": "2026-10-21T00:17:10.327006+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
-      "a348",
-      "a348a",
-      "a349",
-      "a350",
-      "a350a",
-      "a350b",
-      "a350c",
-      "a350d",
-      "a351",
-      "a351bis",
-      "a352",
-      "a353",
-      "a354",
-      "a354a",
-      "a354b",
-      "a355",
-      "a356",
-      "a357",
-      "a358",
-      "a359"
+      "a360",
+      "a361",
+      "a362",
+      "a363",
+      "a364",
+      "a364a",
+      "a365",
+      "a366",
+      "a367",
+      "a368",
+      "a369",
+      "a370",
+      "a371",
+      "a372",
+      "a373",
+      "a374",
+      "a374bis",
+      "a375",
+      "a376",
+      "a377"
     ],
-    "result": "review-batch33-result.json"
+    "result": "review-batch34-result.json"
   },
   "prior_bounded_reviews": [
     {
@@ -918,9 +919,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1120321,
+    "commentary_chars": 1120553,
     "errors": [
-      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']"
+      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -1287,5 +1289,5 @@
     }
   ],
   "last_author_batch": "author-a360-a377-result.json",
-  "last_author_batch_independent_review_pending": true
+  "last_author_batch_independent_review_pending": false
 }

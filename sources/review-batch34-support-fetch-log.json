@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBMNE:2024:5045",
+    "path": "sources/review-batch34-judgment-2024-5045.xml",
+    "accessed_at": "2026-10-21T00:18:28.566706+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "f63eae2aff910d0eed3a43a5bf98e76202efb857f01c5819c6c3c81f5a63f7f4",
+    "expected_format_valid": true
+  }
+]

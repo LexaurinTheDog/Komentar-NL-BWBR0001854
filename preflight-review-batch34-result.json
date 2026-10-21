@@ -1,0 +1,71 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:18:05.500902+00:00",
+  "version_evidence": "sources/review-batch34-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "previous_path": "sources/author-a360-a377-previous.xml",
+    "previous_sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "change_map": "sources/author-a360-a377-historical-change-map.json",
+    "checked_ids": [
+      "a360",
+      "a361",
+      "a362",
+      "a363",
+      "a364",
+      "a364a",
+      "a365",
+      "a366",
+      "a367",
+      "a368",
+      "a369",
+      "a370",
+      "a371",
+      "a372",
+      "a373",
+      "a374",
+      "a374bis",
+      "a375",
+      "a376",
+      "a377"
+    ],
+    "all_assigned_unchanged_since": "2026-01-01"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch34-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "scope": [
+    "a360",
+    "a361",
+    "a362",
+    "a363",
+    "a364",
+    "a364a",
+    "a365",
+    "a366",
+    "a367",
+    "a368",
+    "a369",
+    "a370",
+    "a371",
+    "a372",
+    "a373",
+    "a374",
+    "a374bis",
+    "a375",
+    "a376",
+    "a377"
+  ],
+  "coverage": "sources/review-batch34-coverage.json",
+  "entry_page_limitation": "Official repository XML, manifest and WTI freshly fetched and validated; entry webpage not freshly refetched in this bounded review."
+}
