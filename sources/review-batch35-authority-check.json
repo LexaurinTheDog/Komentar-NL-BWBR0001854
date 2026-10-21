@@ -1,0 +1,25 @@
+{
+  "reviewed_at": "2026-10-21T00:24:43.017763+00:00",
+  "case": "ECLI:NL:RBROT:2010:BM8116",
+  "court": "Rechtbank Rotterdam",
+  "date": "2010-06-17",
+  "docket": "10/600012-09",
+  "full_text_reviewed": true,
+  "path": "sources/review-batch35-judgment-2010-BM8116.xml",
+  "pinpoints": [
+    "Rechtsmacht",
+    "Motivering vrijspraak",
+    "Bewezenverklaring",
+    "Toelichting op de bewezenverklaring: Uitleg dienst nemen",
+    "Uitleg machtiging/oorlogsmarine",
+    "Beslissing",
+    "Bijlagen I en II"
+  ],
+  "supports": [
+    "a381"
+  ],
+  "holding": "Acquittal as captain; conviction as crew member, five years. Service-taking interpreted to include serving; absence of authorization/naval status treated as constituent element rather than special defence.",
+  "limits": "First-instance ruling on 2008/2009 facts; no exhaustive later-treatment audit. Old article4 numbering and procedural holdings not imported into current law. No separately verified judgment asserted for other nineteen units.",
+  "card": "authorities/author-a378-a395-RBROT-2010-BM8116.md",
+  "search_log": "authorities/author-a378-a395-search-log.json"
+}
