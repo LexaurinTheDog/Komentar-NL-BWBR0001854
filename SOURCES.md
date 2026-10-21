@@ -323,3 +323,6 @@ Auteursbatch artikelen 378–395: twintig specifieke toelichtingen in deel 35, i
 
 
 Tweede lezing batch 35: alle twintig toegewezen eenheden 378–395 tegen opnieuw opgehaalde officiële XML gelezen. Toelichtingen 380, 381 en 387 gepreciseerd; volledig vonnis RBROT 2010:BM8116 met bijlagen herlezen. [Exacte IDs en bevindingen](review-batch35-result.json); [broncontrole](preflight-review-batch35-result.json). Geen materiële batchblokkade. Het gehele boek blijft onvoltooid; geen externe professionele goedkeuring.
+
+
+Tweede lezing batch36: alle twintig toegewezen eenheden396–415c tegen opnieuw opgehaalde officiële XML gelezen; zes toelichtingen verbeterd. De hulpverleningsplicht in414 is gecontroleerd in de officiële WvK-artikelen358a/785, beide eerste leden. [Exacte IDs en afzonderlijke bevindingen](review-batch36-result.json); [broncontrole](preflight-review-batch36-result.json); [selectief rechtspraakonderzoek](sources/review-batch36-case-search.json). Geen materiële batchblokkade. Het gehele boek blijft onvoltooid; geen externe professionele goedkeuring.

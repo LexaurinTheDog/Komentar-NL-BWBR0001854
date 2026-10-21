@@ -1,0 +1,47 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:31:12.010410+00:00",
+  "version_evidence": "sources/review-batch36-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "change_map": "sources/review-batch36-historical-change-map.json"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch36-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
+  "scope": [
+    "a396",
+    "a397",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411",
+    "a412",
+    "a413",
+    "a414",
+    "a415",
+    "a415a",
+    "a415b",
+    "a415c"
+  ],
+  "coverage": "sources/review-batch36-coverage.json",
+  "entry_page_limitation": "Official repository XML, manifest and WTI freshly fetched and format/hash validated; entry webpage not freshly fetched.",
+  "external_cross_reference": "sources/review-batch36-external-check.json"
+}

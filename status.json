@@ -132,9 +132,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1150004,
+    "commentary_chars": 1182817,
     "errors": [
-      "krátký/chybějící komentář u 112 jednotek: ['a396(0<400)', 'a397(0<400)', 'a400(0<400)', 'a401(0<400)', 'a402(0<400)', 'a403(0<400)', 'a405(0<400)', 'a406(0<400)']"
+      "krátký/chybějící komentář u 92 jednotek: ['a416(0<400)', 'a417(0<120)', 'a417bis(0<400)', 'a417ter(0<400)', 'a418(0<400)', 'a419(0<400)', 'a420(0<400)', 'a420bis(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -162,7 +163,7 @@
     "Current checkpoint: 292 units outside a244–a256 remain uncommented; earlier numerical progress statements describe prior checkpoints. Independent review of this new author batch pending.",
     "Current a285c–a302 checkpoint: 232 outside-scope units remain without commentary; historical counts above describe earlier checkpoints. Independent second pass of this new author batch is pending."
   ],
-  "updated_at": "2026-10-21T00:24:43.017763+00:00",
+  "updated_at": "2026-10-21T00:33:26.075602+00:00",
   "preflight": {
     "complete": true,
     "verified_at": "2026-10-20T23:48:04.367283+00:00",
@@ -197,28 +198,28 @@
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
-      "a378",
-      "a379",
-      "a380",
-      "a381",
-      "a382",
-      "a383",
-      "a384",
-      "a385",
-      "a385a",
-      "a385b",
-      "a385c",
-      "a385d",
-      "a386",
-      "a387",
-      "a388",
-      "a389",
-      "a389bis",
-      "a389ter",
-      "a390",
-      "a395"
+      "a396",
+      "a397",
+      "a400",
+      "a401",
+      "a402",
+      "a403",
+      "a405",
+      "a406",
+      "a407",
+      "a408",
+      "a409",
+      "a410",
+      "a411",
+      "a412",
+      "a413",
+      "a414",
+      "a415",
+      "a415a",
+      "a415b",
+      "a415c"
     ],
-    "result": "review-batch35-result.json"
+    "result": "review-batch36-result.json"
   },
   "prior_bounded_reviews": [
     {
@@ -919,9 +920,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1150004,
+    "commentary_chars": 1182817,
     "errors": [
-      "krátký/chybějící komentář u 112 jednotek: ['a396(0<400)', 'a397(0<400)', 'a400(0<400)', 'a401(0<400)', 'a402(0<400)', 'a403(0<400)', 'a405(0<400)', 'a406(0<400)']"
+      "krátký/chybějící komentář u 92 jednotek: ['a416(0<400)', 'a417(0<120)', 'a417bis(0<400)', 'a417ter(0<400)', 'a418(0<400)', 'a419(0<400)', 'a420(0<400)', 'a420bis(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false

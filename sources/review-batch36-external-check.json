@@ -1,0 +1,15 @@
+{
+  "official_url": "https://wetten.overheid.nl/BWBR0001838/2025-07-01",
+  "effective_version": "2025-07-01_0",
+  "checked_at": "2026-10-21T00:33:26.075602+00:00",
+  "applicable_at_review": true,
+  "manifest_sha512_verified": true,
+  "source_path": "sources/review-batch36-wvk-effective.xml",
+  "source_sha256": "579e97641a4dfb686f6dcd353e656ff19a24c5f04bce46101a3b2964e008a6a6",
+  "supported_unit": "a414",
+  "verified_first_paragraphs": {
+    "358a": "1 De kapitein is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is, zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen.",
+    "785": "1 De schipper is verplicht aan personen, die in gevaar verkeeren, en in het bijzonder, als zijn schip bij eene aanvaring betrokken is geweest, aan de andere daarbij betrokken schepen en de personen, die zich aan boord dier schepen bevinden, de hulp te verleenen, waartoe hij bij machte is zonder zijn eigen schip en de opvarenden daarvan aan ernstig gevaar bloot te stellen."
+  },
+  "distinction": "Both first paragraphs impose assistance within capacity without serious danger to own ship and those aboard; both second paragraphs concern information after collision and are not the first-paragraph assistance duty referenced by Sr414."
+}

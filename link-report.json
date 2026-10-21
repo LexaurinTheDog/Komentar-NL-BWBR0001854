@@ -1,6 +1,6 @@
 {
   "scope": "Rendered manuscript root and case cards; local links checked for existence. External evidence URLs have individual recorded HTTP outcomes; no claim all internet links are live.",
-  "local_links_checked": 1294,
+  "local_links_checked": 1307,
   "broken_local_links": [],
   "external_links": [
     "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2025:601",
@@ -110,6 +110,7 @@
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2010:BM8116",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2013:8265",
     "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZWB:2025:6856",
+    "https://wetten.overheid.nl/BWBR0001838/2025-07-01",
     "https://wetten.overheid.nl/BWBR0001854/informatie",
     "https://wetten.overheid.nl/BWBR0001903/2026-07-01",
     "https://wetten.overheid.nl/BWBR0002074/2013-01-01",

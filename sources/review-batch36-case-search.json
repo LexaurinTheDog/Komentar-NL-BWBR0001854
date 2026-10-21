@@ -1,0 +1,279 @@
+{
+  "reviewed_at": "2026-10-21T00:33:26.075602+00:00",
+  "web_queries": [
+    "site.rechtspraak.nl \"muiterij\" \"397\"",
+    "site.rechtspraak.nl \"415b\" \"385a\""
+  ],
+  "web_result": "No directly relevant official judgment identified by these queries. Legislation, archive records, third-party reproductions and unrelated history results not used as judicial authority.",
+  "local_corpus_query": {
+    "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+    "regex": "muiterij|insubordinatie|415b|artikel 414|artikel 396",
+    "candidate_inventory": "sources/review-batch36-local-candidates.txt",
+    "candidates": [
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1979-ab7316.md",
+        "sha256": "a68a91e2d2f020d622f48033501435e5568cbcc12e6f040cb0a2376f16c8b2ff",
+        "context_checked": true,
+        "contexts": [
+          "echter een dag van vermoedelijk overlijden moet kiezen die de waarheid zoveel mogelijk benadert;\n\ndat deze werkwijze blijkens de geschiedenis van de totstandkoming van het huidige artikel 414, vierde lid, van boek I van het Burgerlijk Wetboek, in verband met die van artikel 3 van de wet van 2 juni 1949, Stb. J 227, is voorgeschreven met het oog op vermoedelijk overlijden onder ongunstige omstandigheden en dus temeer moet gelden in een ge",
+          "te tijding werd vernomen, kan worden uitgesproken.\n\nNa 31 december 1962 heeft toch niemand meer iets van [betrokkene 1] vernomen.\n\nIII. Schending, althans verkeerde toepassing van artikel 414 van het Burgerlijk Wetboek doordat het Gerechtshof te Amsterdam heeft nagelaten een getuigenverhoor en overlegging van bewijsstukken te gelasten, omdat het Gerechtshof te Amsterdam de bevoegdheid had eerst nog het doen horen van getuigen en de overl",
+          "les tezamen gevoegd waren er voldoende redenen om nader bewijs te gelasten. Ten onrechte liet het Gerechtshof te Amsterdam dit na.\n\nIV. Schending, althans verkeerde toepassing van artikel 414 van het Burgerlijk Wetboek doordat het Gerechtshof te Amsterdam geen acht heeft geslagen op hetgeen in het derde lid van dit artikel staat: dat er iemand moet verschijnen die behoorlijk van het in leven zijn van de vermiste heeft doen blijken, zijnd"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1989-zc4185.md",
+        "sha256": "fd51ee657a29ccfa2ef189fd775e28564d53b2991b64199531cc5f35e138a28e",
+        "context_checked": true,
+        "contexts": [
+          "ekkingen meer bestonden, deswege geen natuurlijke verbintenis zou bestaan tot overname van de onderhoudsverplichting casu quo het doen van onderhoudsuitkeringen. Weliswaar bepaalt artikel 396 Boek I Burgerlijk Wetboek dat de verplichting van behuwdkinderen tot het verstrekken van onderhoud aan schoonouders vervalt, wanneer het huwelijk van het behuwdkind is ontbonden.\n\nZulks sluit niet uit dat juist sprake kan zijn van een natuurlijke ve"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2001-ad4727.md",
+        "sha256": "3a3d850561543817e1c62c7558510f4b6a082bea597fcdb9a4dcda098e50e1c5",
+        "context_checked": true,
+        "contexts": [
+          "...) ieder ruim voldoende gelegenheid hebben gehad om met hun cliënt over de te voeren verdediging te overleggen. De raadslieden hebben voorts reeds op de voet van het bepaalde in artikel 414, eerste lid, van het Wetboek van Strafvordering aan het openbaar ministerie verzocht 107 (...) getuigen op te roepen. Zij hebben voorts, ten einde de verdachten ten volle hun verdedigingsrechten te kunnen laten uitoefenen, aan het openbaar ministeri"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-155.md",
+        "sha256": "1cf6abb56c74eb5482f8926952f95b04ce3e5e1ad52f50cd56d23b8da6bdbf71",
+        "context_checked": true,
+        "contexts": [
+          "ering of op eenig verzet van den officier van justitie, stelt de rechtbank den verdachte, indien deze tegenwoordig is, of diens raadsman in de gelegenheid het woord te voeren.”\n\n- Artikel 414 lid 1 Sv:\n\n“De advocaat-generaal en de verdachte kunnen zoowel ter terechtzitting in eersten aanleg gehoorde als nieuwe getuigen en deskundigen doen dagvaarden of schriftelijk doen oproepen. Zij kunnen ook nieuwe bescheiden of stukken van overtuigin",
+          ":1999:ZD5266, rechtsoverweging 4.2.3).\n\n2.5.6\n\nWat hiervoor onder 2.5.4 en 2.5.5 is overwogen over de zittingsrechter en de rechter-commissaris geldt, onverminderd het bepaalde in artikel 414 lid 1 Sv, in hoger beroep op grond van artikel 415 lid 1 Sv ook voor de zittingsrechter in hoger beroep en de raadsheer-commissaris.\n\nHet oordeel van de Hoge Raad\n\n2.6.1\n\nUit de onder 2.2 weergegeven vaststellingen van het hof en het onder 2.3 weerg"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2007-az1702.md",
+        "sha256": "2ad258467949dd076fd53b08819a26c03b1e9f917c9f8fe68e33660bd06ac60f",
+        "context_checked": true,
+        "contexts": [
+          " de instelling van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n2. De schriftuur wordt onverwijld bij de processtukken gevoegd.\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. De advocaat-generaal",
+          "dvocaat zijn niet verplicht om in de schriftuur limitatief aan te geven welke getuigen naar hun opvatting gehoord dienen te worden. De voorgestelde voorziening geldt \"onverminderd artikel 414\", dat artikel 263, tweede en derde lid, Sv rechtstreeks van toepassing verklaart. Een verplichting tot opgave bij schriftuur zou te ver voeren omdat de noodzaak tot het horen van getuigen door nieuwe ontwikkelingen kan opkomen, en nieuwe getuigen ku"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2007-az8395.md",
+        "sha256": "4f528c6c0fd436e31f68a9eded536e78aca0665de84e92b6d5c070d70a345dcf",
+        "context_checked": true,
+        "contexts": [
+          "wet mij als advocaat-generaal meer machtsmiddelen biedt dan een raadsman. Als magistraat heb ik echter ook een geheel andere rol in het strafproces dan een raadsman.\n\nOp grond van artikel 414 van het Wetboek van Strafvordering ben ik bevoegd om nieuwe stukken over te leggen en dat heb ik gedaan. Naar mijn mening kan de betreffende verklaring van [medeverdachte 1] dan ook aan het dossier worden toegevoegd.\n\n(...)\n\nOp vragen van de voorzit"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2007-ba2282.md",
+        "sha256": "7a5436762900ae10b10e366865780cc9585fe73051dacfdc2450f472894eb5f3",
+        "context_checked": true,
+        "contexts": [
+          " Hof gerichte fax van de raadsvrouwe van de verdachte van 14 januari 2005. Deze fax houdt, voor zover hier van belang, het volgende in:\n\n\"Hierbij wil ik u, conform het bepaalde in artikel 414 lid 2 jo 263 van het Wetboek van Strafvordering, verzoeken de volgende getuigen ter terechtzitting van 25 januari aanstaande op te roepen.\n\n(...)\n\n• [betrokkene 1], wonende te [woonplaats] aan het adres [a-straat 1];\n\n• [betrokkene 2], geboren op [g"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2009-bj3295.md",
+        "sha256": "a0d5d16acc8277e375504bff6eb4be08266b33a447fb446f257d34430392fee1",
+        "context_checked": true,
+        "contexts": [
+          "wezen. De verdachte kan aldaar binnen veertien dagen na de instelling van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n2. (...)\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. De advocaat-generaal",
+          "en van de getuige \"[betrokkene 1]\" moet het volgende worden vooropgesteld.\n\nIngevolge het op 1 juli 2007 in werking getreden art. 410, derde lid, Sv kan de verdachte \"onverminderd artikel 414\", bij appelschriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Daarmee voorziet de wet dus in een nieuwe mogelijkheid voor de verdachte om voorafgaande aan de terechtzitting in hoger beroep opgave te doen van g"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2009-bj5328.md",
+        "sha256": "5088e02db829791b85914a4bb1e004dbfa3eadef42dab803a5466030103dd846",
+        "context_checked": false,
+        "contexts": [],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-293.md",
+        "sha256": "0604c14cc98e4aabf7ce266d94376cf21f34449a71cb68bf3145573cdd7d3caa",
+        "context_checked": false,
+        "contexts": [],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2010-bl3964.md",
+        "sha256": "30113194a5cc3dd6b74fc592547cb66e6dfbbaf960dbd97ec5f38f3c3f928bc1",
+        "context_checked": true,
+        "contexts": [
+          " de instelling van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n2. De schriftuur wordt onverwijld bij de processtukken gevoegd.\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. De advocaat-generaal"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-1929.md",
+        "sha256": "a8b4bde301c61bd1272515ce4bb809840c6a583fdbe275379f254393553525ac",
+        "context_checked": true,
+        "contexts": [
+          "\n2.3.2\n\nHet op de terechtzitting van 8 december 2020 gedane verzoek tot het horen van [getuige 1] en [getuige 2] als getuigen moet worden aangemerkt als een verzoek als bedoeld in artikel 414 van het Wetboek van Strafvordering. Door de zaak voor nader onderzoek naar de raadsheer-commissaris belast met de behandeling van strafzaken te verwijzen, met de opdracht [getuige 1] en [getuige 2] als getuigen te horen, is aan het verzoek uitvoerin"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-1926.md",
+        "sha256": "0d45eb9a1dfc73a28c4c14a2eacf295a9445609c1ced7ac340ecc8144cefaadb",
+        "context_checked": true,
+        "contexts": [
+          "gende van belang.\n\n2.3.2\n\nHet op de terechtzitting van 8 december 2020 gedane verzoek tot het horen van [getuige] als getuige moet worden aangemerkt als een verzoek als bedoeld in artikel 414 van het Wetboek van Strafvordering. Door de zaak voor nader onderzoek naar de raadsheer-commissaris belast met de behandeling van strafzaken te verwijzen, met de opdracht [getuige] als getuige te horen, is aan het verzoek uitvoering gegeven.\n\n2.3.3\n"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2011-bo6130.md",
+        "sha256": "5d3c58d7fbe7c0632aab3debc73c8f2c23974f715cab923a9a072669a1b4a490",
+        "context_checked": true,
+        "contexts": [
+          "eitelijke grondslag en kan reeds daarom niet tot cassatie leiden.\n\n2.8. Opmerking verdient het volgende.\n\nArt. 410, derde lid, Sv luidt als volgt:\n\n\"De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing.\n\n(...)\"\n\nArt. 287 Sv"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2012-bw9036.md",
+        "sha256": "e098f1622ab7954035fc1dc720de55606ae7f136007f0300b9f46918ae52cd3b",
+        "context_checked": true,
+        "contexts": [
+          " gewezen. De verdachte kan aldaar binnen veertien dagen na de instelling van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n(...)\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. (...)\"\n\n2.4.1. In art. 410, derde lid, Sv in verbinding met art. 26"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-1278.md",
+        "sha256": "d6115c64cb140869f9b3196c9f8a78679307f131eaa4c42cf1c0ffb22aae1fcd",
+        "context_checked": true,
+        "contexts": [
+          " gezag en een optreden in gesloten verband onder leiding van een meerdere;\n\nd. tot het beteugelen van militaire oproerige bewegingen, andere ernstige militaire wanordelijkheden of muiterij indien de militair van de Koninklijke marechaussee in opdracht van de minister van Defensie dan wel de officier van justitie te Arnhem belast met militaire zaken in gesloten verband onder leiding van een meerdere optreedt.\n\n 2. Het gebruik van het "
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2014-1496.md",
+        "sha256": "4bcab1fa6fdc83743a99ff610f22ae977940d8a455221891210eb150c813f8e5",
+        "context_checked": true,
+        "contexts": [
+          " de instelling van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n2. De schriftuur wordt onverwijld bij de processtukken gevoegd.\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. De advocaat-generaal"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-2324.md",
+        "sha256": "8f6bd043c9da9e697626956671f325bc80c4eed2ef731cdb10fd35859385a70c",
+        "context_checked": true,
+        "contexts": [
+          "ummer ECLI:NL:HR: 2014:1496, aangegeven dat een schriftuur waarin zonder motivering getuigen worden opgegeven niet kan worden aangemerkt als een opgave van getuigen als bedoeld in artikel 414, tweede lid, in verbinden met artikel 263 van het Wetboek van Strafvordering waarop een beslissing dient te worden genomen. De raadsman heeft zijn verzoeken ter terechtzitting herhaald. Nu het hof enkel op de verzoeken ter terechtzitting behoeft te ",
+          "ewezen. De verdachte kan aldaar binnen veertien dagen na de instellen van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n2. (...)\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. (...)\n\n4. (...)\"\n\n2."
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-12.md",
+        "sha256": "070dc41126b6f301599d4dda2fc6def34b98d69a9ec2551561f7cf20c605d2f7",
+        "context_checked": false,
+        "contexts": [],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-1890.md",
+        "sha256": "c631b242f11a5d5490c9c5c7251d790da56ec26f14d81f5671b17877eaff3fe1",
+        "context_checked": false,
+        "contexts": [],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-773.md",
+        "sha256": "aa02f2c59e218f15f97f4995244ff976f7447ce21f716718d044d85a49a3a39a",
+        "context_checked": true,
+        "contexts": [
+          "gd.\n\n3.Ten aanzien van die dagvaarding is artikel 260 van toepassing, behoudens dat daarbij de verdachte, in plaats van op de voorschriften van artikel 262, eerste lid, op die van artikel 414 wordt opmerkzaam gemaakt.”\n\n- artikel 415 lid 1 en 3 Sv:\n\n“1. Behoudens de volgende artikelen van deze titel, zijn de artikelen 268 tot en met 314, 315 tot en met 353 en 356 tot en met 366a op het rechtsgeding voor het gerechtshof van overeenkomstig"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-978.md",
+        "sha256": "a2471096f39299537d9358f411149eda13a06fb600a78cc6ba2876620bc005d8",
+        "context_checked": true,
+        "contexts": [
+          "ekt het onderzoek voor het houden van beraad.\n\nDe voorzitter hervat het onderzoek en deelt mede dat verdachte te laat is met het overleggen van nieuwe stukken.”\n\n2.3\n\nOp grond van artikel 414 lid 1, tweede volzin, van het Wetboek van Strafvordering (hierna: Sv) zijn de advocaat-generaal bij het ressortsparket en de verdachte bevoegd voor of bij de behandeling van een zaak in hoger beroep nieuwe bescheiden of stukken van overtuiging over "
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-1503.md",
+        "sha256": "44d4eafe3c3ba3d2ee7c1cc5644b07808a81e2d17bda529a32a6d4545f454de9",
+        "context_checked": true,
+        "contexts": [
+          "over hebben verteld.\n\nVerdachte krijgt nogmaals het laatste woord en verklaart dat het mooier was geweest als het hof het hele gesprek zelf had kunnen nalezen.”\n\n2.3\n\nOp grond van artikel 414 lid 1, tweede volzin, van het Wetboek van Strafvordering (hierna: Sv) zijn de advocaat-generaal bij het ressortsparket en de verdachte bevoegd voor of bij de behandeling van een zaak in hoger beroep nieuwe bescheiden of stukken van overtuiging over "
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-813.md",
+        "sha256": "7503b632fc2894a68e3fbd984d5ca2e95f179fd18cfc61c2f9630a49d4c07e44",
+        "context_checked": true,
+        "contexts": [
+          "is heeft gewezen. De verdachte kan aldaar binnen veertien dagen na de instellen van het hoger beroep een schriftuur, houdende grieven, indienen.\n\n3. De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. (...)”\n\n- Artikel 41",
+          "schriftuur worden vermeld. De betreffende appelschriftuur dient ook tijdig te zijn ingediend. Verder moet – mede met het oog op de beslissing die de advocaat-generaal op grond van artikel 414 lid 2 Sv in verbinding met artikel 410 lid 3 Sv en artikel 263 Sv moet nemen over de oproeping van getuigen en deskundigen – uit de opgave van getuigen en deskundigen bij appelschriftuur blijken waarom het horen van belang is voor enige in de strafz"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1469.md",
+        "sha256": "449c1a5e9b73602fde711470f1d22a85e90ef03346eb2e97f63d8a4376a38232",
+        "context_checked": true,
+        "contexts": [
+          "d.\n\n3. Ten aanzien van die dagvaarding is artikel 260 van toepassing, behoudens dat daarbij de verdachte, in plaats van op de voorschriften van artikel 262, eerste lid, op die van artikel 414 wordt opmerkzaam gemaakt.”\n\nHet oordeel van de Hoge Raad\n\n3.4.1\n\nIn deze zaak heeft de betekening van de oproeping voor de zitting van 28 september 2021 – in overeenstemming met artikel 36e lid 3 Sv en artikel 5 EU-Rechtshulpovereenkomst – plaatsgev"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-16.md",
+        "sha256": "b6c8cb5229e9e57d238038dee765d38a2c148f1318d450f21eb00da022a28a71",
+        "context_checked": true,
+        "contexts": [
+          "ch had ten behoeve van een door hem legaal in Kroatië opgezet bedrijf in hennepteelt en hij derhalve geen criminele intentie had, niet aannemelijk is geworden.”\n\n2.4\n\nOp grond van artikel 414 lid 1, tweede volzin, van het Wetboek van Strafvordering zijn de advocaat-generaal bij het ressortsparket en de verdachte bevoegd voor of bij de behandeling van een zaak in hoger beroep nieuwe bescheiden of stukken van overtuiging over te leggen. De"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1647.md",
+        "sha256": "33c940f04100c56c99a376186bfd20bafb16d061f8239bb1a294bbfa10ebec66",
+        "context_checked": true,
+        "contexts": [
+          "tvoeren.”\n\n2.3.1\n\nHet ter terechtzitting van 29 september 2017 gedane verzoek tot het horen van [medeverdachte 2] als getuige moet worden aangemerkt als een verzoek als bedoeld in artikel 414 van het Wetboek van Strafvordering (hierna: Sv). Door de zaak voor nader onderzoek naar de raadsheer-commissaris belast met de behandeling van strafzaken te verwijzen, met de opdracht [medeverdachte 2] als getuige te horen, is aan het verzoek uitvoe"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2022-1858.md",
+        "sha256": "8e36791c0325838c9e897a622c1a9f2e95e0b586f0e4f996504365f9858d55db",
+        "context_checked": false,
+        "contexts": [],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      },
+      {
+        "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-1340.md",
+        "sha256": "91d2b140b1a0720d9e9fd151a71eeb7ed1f2a0223ed692cdef28b24fe4c34e98",
+        "context_checked": true,
+        "contexts": [
+          "t horen of de oproeping van getuigen of deskundigen ter terechtzitting uit hoofde van artikel 287 of artikel 288 in stand.”\n\n- Artikel 410, lid 3:\n\n“De verdachte kan, onverminderd artikel 414, in de schriftuur opgeven welke getuigen en deskundigen hij ter terechtzitting wil doen oproepen. Deze opgave wordt als een opgave in de zin van artikel 263, tweede lid, aangemerkt. Artikel 264 is van overeenkomstige toepassing. De advocaat-generaal"
+        ],
+        "disposition": "No authority adopted: matching contexts are civil/procedural provisions, military mutiny in quoted force rules, or list-only references; full judgments not substantively reviewed."
+      }
+    ]
+  },
+  "case_cards_created": 0,
+  "case_law_sources_adopted": [],
+  "limitations": [
+    "Selective search of web and local HR corpus; other court corpora not searched in this bounded review.",
+    "No sufficiently relevant full judgment verified, so no case-law proposition or exhaustive absence claim is made."
+  ]
+}

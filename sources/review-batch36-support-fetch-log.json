@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+    "path": "sources/review-batch36-previous.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:31:27.985451+00:00",
+    "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+    "content_type": "application/xml",
+    "root": "toestand",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001838/manifest.xml",
+    "path": "sources/review-batch36-wvk-manifest.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:31:28.196902+00:00",
+    "sha256": "214a158d55b0464581b9bd09f4af0331a48d1edc93748eea7d1338cea089180a",
+    "content_type": "application/xml",
+    "root": "work",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001838/2025-07-01_0/xml/BWBR0001838_2025-07-01_0.xml",
+    "path": "sources/review-batch36-wvk-effective.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:31:28.823234+00:00",
+    "sha256": "579e97641a4dfb686f6dcd353e656ff19a24c5f04bce46101a3b2964e008a6a6",
+    "content_type": "application/xml",
+    "root": "toestand",
+    "expected_format_valid": true
+  }
+]
