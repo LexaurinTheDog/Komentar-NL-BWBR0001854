@@ -506,3 +506,6 @@ Tweede lezing batch39: precies twintig toegewezen eenheden435f–447 tegen opnie
 
 
 Auteursbatch 40: precies twintig officiële artikelplaatsen 447a–468 toegelicht, inclusief het vervallen nummer 453. [Batchbewijs](author-batch40-result.json), [actuele broncontrole](preflight-author-batch40-result.json), [selectief rechtspraakonderzoek](authorities/author-batch40-search-log.json). Dit is een auteurscheckpoint; een onafhankelijke tweede lezing van deze batch staat nog open. De gehele uitgave blijft onvoltooid.
+
+
+Tweede lezing batch40: precies twintig toegewezen eenheden447a–468 tegen opnieuw opgehaalde officiële XML gelezen. Vijf toelichtingen aangescherpt:447a,447b,447c,447d en453. Bij447c is relevantie onderscheiden van feitelijke invloed op een beslissing en is de normatieve vermoedensmaatstaf verduidelijkt. Twee volledige arresten en nationale corpusteksten opnieuw gelezen. [Exacte IDs en bevindingen](review-batch40-result.json); [broncontrole](preflight-review-batch40-result.json); [rechtspraakcontrole](authorities/review-batch40-cases.md). Geen materiële batchblokkade;12 andere eenheden missen nog commentaar. Geen voltooid boek of externe professionele goedkeuring.

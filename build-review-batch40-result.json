@@ -1,0 +1,6 @@
+{
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 12 jednotkám, např.: ['a468a', 'a469', 'a470', 'a470a', 'a471', 'a471a', 'a472', 'a474', 'a475', 'a476']\n",
+  "scope": "Full unmodified builder; missing out-of-scope commentary blocks full build. Existing chapter40 separately rebuilt as explicitly incomplete checkpoint."
+}

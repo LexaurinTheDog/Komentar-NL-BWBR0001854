@@ -4,212 +4,215 @@
   "whole_book_complete": false,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a435f",
-    "a436",
-    "a437",
-    "a437bis",
-    "a437ter",
-    "a437quater",
-    "a438",
-    "a439",
-    "a440",
-    "a441",
-    "a441a",
-    "a441b",
-    "a442",
-    "a442a",
-    "a443",
-    "a444",
-    "a445",
-    "a446",
-    "a446a",
-    "a447"
+    "a447a",
+    "a447b",
+    "a447c",
+    "a447d",
+    "a447e",
+    "a448",
+    "a449",
+    "a450",
+    "a453",
+    "a458",
+    "a459",
+    "a460",
+    "a461",
+    "a462",
+    "a463",
+    "a464",
+    "a465",
+    "a466",
+    "a467",
+    "a468"
   ],
-  "reviewed_at": "2026-10-21T01:04:00.656135+00:00",
+  "reviewed_at": "2026-10-21T01:12:51.764718+00:00",
   "changed_ids": [
-    "a437",
-    "a441",
-    "a441b"
+    "a447a",
+    "a447b",
+    "a447c",
+    "a447d",
+    "a453"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a435f",
-      "disposition": "retained_after_review",
-      "finding": "Vervallen status en ingangsdatum2005-01-01 tegen XML gelezen; geen huidige gedragsnorm, historische tekst niet gereconstrueerd; artikel1 en fictief archiefvoorbeeld passend.",
-      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_sha256": "0c3ba361759b90bada608acef114a60a9a53e1ff560645e56bac94b8aa689cf3",
-      "commentary_chars": 964
-    },
-    {
-      "id": "a436",
-      "disposition": "retained_after_review",
-      "finding": "Drie leden: niet-toegelaten versus bevoegdheidsoverschrijding, buiten noodzaak, wettelijke toelatingsgrondslag en schade niet vereist gelezen. Recidive vanaf onherroepelijkheid binnen twee jaar, verschillende hechtenismaxima en derde categorie juist.",
-      "statutory_sha256": "b7e91c843df0fb0574785469d32428dfdbc882d1ecb87b0b30311f45854dec24",
-      "commentary_sha256": "29c4c216596628f661482a6deede8eb5c26a9ec17130f889c8ffc18d0d0081a1",
-      "commentary_chars": 1876
-    },
-    {
-      "id": "a437",
+      "id": "a447a",
       "disposition": "corrected",
-      "finding": "Alle zeven alternatieven, wettelijke handelaarshoedanigheid, beroepsuitoefening, medewerker en ontzetting, definitie lid4 gelezen. Bij b verduidelijkt dat ontbreken opgave OF administratie volstaat. Schriftelijkheid e/f/g en veertien dagen f behouden. Civiel arrest en cassatie geheel gelezen; geen strafrechtelijk bewijsautomatisme.",
-      "statutory_sha256": "31cea92e7bfecfeb435d1029437529024ff28a602ed4cf4c5eb29311e26f6b5f",
-      "commentary_sha256": "013915f92cc415e8f596517aa01eadbec9d7b24f838ebb3a64c073f991ab31ce",
-      "commentary_chars": 2901
-    },
-    {
-      "id": "a437bis",
-      "disposition": "retained_after_review",
-      "finding": "Minderjarigheid a onderscheiden van weten/redelijkerwijs vermoeden over opname b. Opgesomde instellingen niet uitgebreid, medewerker en beroepsontzetting juist; zes maanden/derde categorie en eigen verwijtbaarheid behouden.",
-      "statutory_sha256": "680037140d88d6c64bcaaa53ab99633d13cd0023ffd55bf92cbe2297e43e5e8a",
-      "commentary_sha256": "bbf4cc386ff456fa5324b833858706d15d3a1bb433c131aae7265faecba937d9",
-      "commentary_chars": 1797
-    },
-    {
-      "id": "a437ter",
-      "disposition": "retained_after_review",
-      "finding": "Afgekondigde gemeentelijke helingverordening1 onderscheiden van voorafgaande schriftelijke kennisgeving2; aanwijzing handelaar versus beroep/gewoonte,90bis en drie maanden/derde categorie gecontroleerd.",
-      "statutory_sha256": "ce745ad88c6cc1e1a68e799134d48ccab2d26ddb58c4f6cc3b55f30493b7dc82",
-      "commentary_sha256": "ee54d7df6881e652382c50f6a521fc5474c5856a3eabff624225b8a16f6e2b46",
-      "commentary_chars": 1707
-    },
-    {
-      "id": "a437quater",
-      "disposition": "retained_after_review",
-      "finding": "Delegatie watergebieden, preventiedoel en concreet uitvoeringsvoorschrift noodzakelijk; geen zelf verzonnen actuele maatregel. Geen voltooid begunstigingsmisdrijf vereist; drie maanden/derde categorie juist.",
-      "statutory_sha256": "51694c78302ff8d3ca4c8babb2f5a09af59fe4ef52dcb2312f3e558ba50769a9",
-      "commentary_sha256": "1e887862950c708c6d46a1c19503a609aea3b5d67a00b4506efaa558a61c2454",
-      "commentary_chars": 1596
-    },
-    {
-      "id": "a438",
-      "disposition": "retained_after_review",
-      "finding": "Documentoverlegging, registervelden/aankomst/vertrek, bevoegde inzage en uitbreiding2 gelezen. Uitzonderingen echtgenoten/kinderen/reisgezelschappen3 behouden; geen kopieplicht of universele groepsvrijstelling afgeleid. Eén maand/tweede categorie.",
-      "statutory_sha256": "03f23e9511518aa77c99ce6e7672d0178b7ab525f6b846bb73f45bfb9c2659b5",
-      "commentary_sha256": "bd749d7f26974480ae8c15e60c57937ef8caf9813f444d94d7a9183db1a7d3ac",
-      "commentary_chars": 2109
-    },
-    {
-      "id": "a439",
-      "disposition": "retained_after_review",
-      "finding": "Alle transactievormen, krijgsman beneden officier en schriftelijke bevelvoerdersvergunning gelezen; gewoontekoper/register onder2 apart. Recidive twee jaar vanaf onherroepelijkheid verdubbelt hechtenis, geen boete; normaal maand/tweede categorie.",
-      "statutory_sha256": "7f753fc5bc2edd3ae048fef06aaa1c64e7a9cf76f059288c2afbd6aa6840d775",
-      "commentary_sha256": "17af42ab870bb5eb2ff1d0c19eea2e4a1ff2f7da3c6fd9243394f3bf6ba7a9b9",
-      "commentary_chars": 1802
-    },
-    {
-      "id": "a440",
-      "disposition": "retained_after_review",
-      "finding": "Gesloten objectopsomming inclusief vitale/nationale identiteitsdocumenten en wettelijke edelmetaalmerken, vormgelijkenis en alle circulatiehandelingen gelezen. Geen concreet bedrogvereiste afgeleid; tweede categorie juist.",
-      "statutory_sha256": "88106203660d253a9dc9b64adea27675907c1bf3baccd194e21b48cc39931848",
-      "commentary_sha256": "0ce9295f116b35ec9f479112cc39677f5603fccae0d37a457c1908f820d833bd",
-      "commentary_chars": 1885
-    },
-    {
-      "id": "a441",
-      "disposition": "corrected",
-      "finding": "Beheer/gebruik radio, inhoud OF strekking, bestemming, openbaarmaking rechtstreeks of via ander en daadwerkelijk volgen daarvan gelezen. Normatieve redelijkerwijs-moeten-vermoeden-maatstaf verduidelijkt; geen werkelijk subjectief vermoeden vereist. Drie maanden/derde categorie.",
-      "statutory_sha256": "5e99c022a0b97d406b7c6c0e36cf11fb10b8dfd4525054f20eaa6220f6167d19",
-      "commentary_sha256": "26e61cac298cbdfc14de9dee20b251cc8c77aaf9bc90539561eedac41fd80c48",
-      "commentary_chars": 1986
-    },
-    {
-      "id": "a441a",
-      "disposition": "retained_after_review",
-      "finding": "Openlijk of via geschrift ongevraagd aanbieden, voorhanden/verkrijgbaar en aangeprezen heimelijke functie inclusief onderdeel gelezen. Niet bezit of later afluisteren als bestanddeel toegevoegd; twee maanden/derde categorie juist.",
-      "statutory_sha256": "18bb8153f241341b8ebba4e1ddec9346141eb85b34524b035452be20ece6343b",
-      "commentary_sha256": "a80019b22a199edd699c0989e18e90a8d0c47d5ef42bc06fd3b97ae8f9dbdd89",
-      "commentary_chars": 1753
-    },
-    {
-      "id": "a441b",
-      "disposition": "corrected",
-      "finding": "Persoon/openbaar toegankelijke plaats, aangebracht hulpmiddel, ontbreken duidelijke kenbaarheid, wederrechtelijk vervaardigen en geen publicatievereiste gelezen. Zichtbaarheid nu feitelijke toets; geen voorgeschreven bordtekst of HR-regel gesuggereerd. Hele beslagbeschikking en corpus gecontroleerd.",
-      "statutory_sha256": "d9b32b2a644ab1546f644b60a116abdc35724e6c78abbdd28de3d6db584f6251",
-      "commentary_sha256": "e80d023b2372268d818e404cc6c975075a7eb47778968919a8b40a336c153b91",
-      "commentary_chars": 2273
-    },
-    {
-      "id": "a442",
-      "disposition": "retained_after_review",
-      "finding": "Surseance schuldenaar1 versus bestuurder/commissaris rechtspersoon2, wettelijke medewerking en eigenmachtig handelen gelezen. Geen algemeen beslisverbod, geen faillissementsanalogie of schuldeisersschadevereiste; drie maanden/derde categorie.",
-      "statutory_sha256": "02031f68951b2b232272734aaad2def97d20095b95922e816b9f8a3d4c597e3f",
-      "commentary_sha256": "d70bc9cee53e0c8d4a4b3185179a06621182d408bc1deb37c77b66cb5bf01025",
+      "finding": "Alle drie onderdelen en tweede boetecategorie gelezen. Verwijzingsketens in Boek8 gespecificeerd; geen onbewezen actuele uitvoeringsplicht toegevoegd. Brandmerk/benaming/kentekens, teboekstelling en toegelaten wijze afzonderlijk behouden.",
+      "statutory_sha256": "f005186cc5a7da818ba7e080e31e5134af967267bf9f7b088c376520024fc757",
+      "commentary_sha256": "a9d03b9a9e528364f55bc56d7a8c47490893261012937aa429e12bf8b2a8a554",
       "commentary_chars": 1891
     },
     {
-      "id": "a442a",
-      "disposition": "retained_after_review",
-      "finding": "Beneden zes maanden, geen rechtspersoonsvoogdij, opnemen als pleegkind en vooraf schriftelijke raadstoestemming gelezen. Ouderlijke toestemming of achterafbrief geen substituut; drie weken/tweede categorie.",
-      "statutory_sha256": "fbc9cd4af093f632d0f8ccaa77a7ad15b6bd6593472c6a88305eef00c4fa5371",
-      "commentary_sha256": "66acfa0017a9adfb61ef55ef0ef6d6616244ad44b454247db117407886b4e781",
-      "commentary_chars": 2081
+      "id": "a447b",
+      "disposition": "corrected",
+      "finding": "Documentcategorieën, geen houder of wettelijke inleverplicht, mondeling bevel onverwijld versus aangetekende persoonlijke mededeling veertien dagen gelezen. Boetecategorie toegevoegd. Officiële foutopmerking afzonderlijk behouden; geen redactionele wetsreparatie.",
+      "statutory_sha256": "599568f60f1cbdc66f6524b5f0ea91dee41e2fef534511f3d6f8a5560461770a",
+      "commentary_sha256": "49afd01037df18bd265007e5219059cff5a656a2d93960a8ffc872fa73025ba9",
+      "commentary_chars": 1643
     },
     {
-      "id": "a443",
-      "disposition": "retained_after_review",
-      "finding": "Algemeen politievoorschrift, Gemeentewet, buitengewone omstandigheden, drie uitvaardigers en afkondiging gelezen. Individueel bevel niet zonder bewijs gelijkgesteld,184-eigenbestanddelen en bevoegdheid/verbindendheid juist; drie maanden/tweede categorie.",
-      "statutory_sha256": "2fbe1e2b26336b53ee8ad19789ae2827527166f1de8ce25825c50b6f59df2fcc",
-      "commentary_sha256": "fca4b0398fade7f9cd99a68949f099e5469fea12d90292c4439a85b32f171944",
-      "commentary_chars": 1928
+      "id": "a447c",
+      "disposition": "corrected",
+      "finding": "Relevantie recht/hoogte/duur van eigen of andermans verstrekking gelezen. Verduidelijkt dat feitelijke invloed op beslissing geen zelfstandig bestanddeel is en moeten vermoeden normatief is. Onwaarheid, ontvanger/tussenpersoon, uitzondering valsheid en zes maanden/derde categorie juist.",
+      "statutory_sha256": "018258fa93a7474261c4ec98e19efe7d4cb3dacc0cc617d445aea762067a91f2",
+      "commentary_sha256": "a3e1721d826a1b494c16483377f4b98608fcbed24faf7d74487e424887d2159c",
+      "commentary_chars": 1805
     },
     {
-      "id": "a444",
-      "disposition": "retained_after_review",
-      "finding": "Wettelijk opgeroepen getuige/deskundige/tolk, wederrechtelijk wegblijven en geldige verhindering gelezen. Verschijnen maar zwijgen onderscheiden;192 eigen opzetvariant gecontroleerd, verschoningsrecht geen automatische vrijstelling; eerste categorie.",
-      "statutory_sha256": "63d973c3116ec5563cc399b7e42cf925a6aee01df4fdb38bb1e60fdf3d4843f9",
-      "commentary_sha256": "61ef502043c277961fb7c7f9e7fb99e368f55da2027880b67292d650b39df2cc",
-      "commentary_chars": 1665
+      "id": "a447d",
+      "disposition": "corrected",
+      "finding": "Wettelijke persoonlijke informatieplicht, tijdig benodigde relevante gegevens en ontbreken expliciete onwaarheidskennis gelezen. Verschil met227b nu concreet: opzet, mogelijke bevoordeling en kennis/vermoeden relevantie; zes maanden/derde categorie juist.",
+      "statutory_sha256": "4674001e185503e04c8cdd1744e09b0e4d58edcb612dc54ebc030be554392ffe",
+      "commentary_sha256": "9a1dbc82447f0962d69e105cdd78bda9670d3935ab9af4287565e90ce0a8cdf4",
+      "commentary_chars": 1736
     },
     {
-      "id": "a445",
+      "id": "a447e",
       "disposition": "retained_after_review",
-      "finding": "Bijzondere zaken en limitatieve hoedanigheden, rechterlijke oproeping, persoonlijk of waar toegestaan gemachtigde en geldige verschoningsreden gelezen. Geen psychiatrische terminologie uitgebreid naar alle zorg; eerste categorie en444-onderscheid.",
-      "statutory_sha256": "3de87feee4f3ff7349ea6ea0b9a448dd37f6dffe5e44d8bb2c6f62b5b3f21ee6",
-      "commentary_sha256": "c70c29983add93590bfca6f0bf55c8c8561e3993284ca374a9c5ef214de52cff",
-      "commentary_chars": 1849
+      "finding": "Volledige opsomming wettelijke grondslagen, documentinzage versus medewerking vingerafdrukken en tweede categorie gecontroleerd. Geen zelfstandige vorderingsbevoegdheid afgeleid. Hele arrest2015 gelezen; geciteerd hof van HR onderscheiden, historische reikwijdte begrensd.",
+      "statutory_sha256": "7e92d811ce404efdb46e53cbb32c3ce591d429b7f8051f5188ab2479b0a3039c",
+      "commentary_sha256": "ad6b966b1ce8a4e9f18cba4460e27d63ea198a782cf284d641afa2e4871f5852",
+      "commentary_chars": 1670
     },
     {
-      "id": "a446",
+      "id": "a448",
       "disposition": "retained_after_review",
-      "finding": "Twee aanleidingen gevaar/heterdaad, vordering openbare macht, weigering, vermogen en geen dadelijk gevaar gelezen. Geen zelfopoffering of resultaatverantwoordelijkheid;450 heeft eigen bestanddelen, eerste categorie.",
-      "statutory_sha256": "015623fca8c3cdd0a41164999533297906dad5287814c130dbb0c74408c7e560",
-      "commentary_sha256": "b28138c5686c046990721dfd87e288042807157adf0dad01a85a6fcc4e763d99",
-      "commentary_chars": 1658
+      "finding": "Wettelijke aangifte geboorte/overlijden, aangever versus ambtenaar en eerste categorie gelezen. Geen familieband als automatische normadressaat, geen onjuistheid als gelijkgesteld nalaten;466–468-onderscheid juist.",
+      "statutory_sha256": "1ae8a31156f1eb47f0c86de80d56f65e94dd37eaa148168e49f01efd9d270c0f",
+      "commentary_sha256": "aa5d122f4451b33135fee9af4c323a1eabf5530a315e52403dbd66475107a0c6",
+      "commentary_chars": 1445
     },
     {
-      "id": "a446a",
+      "id": "a449",
       "disposition": "retained_after_review",
-      "finding": "Drie aanleidingen en alleen bij2/3 expliciete territoriale kwalificatie, onverwijld/snelst mogelijke kennisgeving en óf nalaten aanwijzingen te trachten verkrijgen gelezen. Geen antwoordgarantie of verzonnen539b-gegevens; drie maanden/tweede categorie.",
-      "statutory_sha256": "d41670534878c4f5af74ff9cec0ba7ec604cb498b13c23c922ed29647dce107a",
-      "commentary_sha256": "dc6569df8cee8e86e6381cbd6fb204cad7b782fff1dc3b299feb6dd2816160eb",
-      "commentary_chars": 2055
+      "finding": "Twee leden: religieuze bedienaar, huwelijk reeds burgerlijk voltrokken aantonen vooraf, daarop betrokken plechtigheid. Recidive binnen twee jaar vanaf onherroepelijkheid en sancties tweede versus zes maanden/derde categorie gecontroleerd.",
+      "statutory_sha256": "d959c0cb6389b0c86555d864b578dab61746331e2a68cf4b8cdc6c853988c2ce",
+      "commentary_sha256": "61a5561805562c509917447bfa2de1579091b8c815f4028b8a4d2b3a552b23c1",
+      "commentary_chars": 1630
     },
     {
-      "id": "a447",
+      "id": "a450",
       "disposition": "retained_after_review",
-      "finding": "Bevoegd openbaar bekendgemaakt bericht, wederrechtelijkheid en drie alternatieve aantastingen gelezen. Bevoegde verwijdering en losse kritiek onderscheiden; gedeeltelijke aantasting mogelijk. Eerste categorie en praktische TitelIII-checklist gecontroleerd.",
-      "statutory_sha256": "83f646ee9adb88ff59d28e813f2557765208dce8edc11ac052c3303c3b34fa01",
-      "commentary_sha256": "9d0248082d09ccc14503e803b5a357dcbfc7b5d09e9c16f1faafc21e48a5588d",
-      "commentary_chars": 2142
+      "finding": "Ogenblikkelijk levensgevaar waarnemen, kunnen verlenen of verschaffen zonder redelijk te duchten gevaar, overlijden en drie maanden/tweede categorie gelezen. Geen bijzondere255-zorgrelatie ingevoegd, veilige georganiseerde hulp van zelf redden onderscheiden.",
+      "statutory_sha256": "23c199f36eb10ffe99aa9740969f493657e5bac791375612ffdde405bf78c493",
+      "commentary_sha256": "3a50f04cd7a04009b0b760108a784ae8bd46b6bb66e4be6bcd9e3987c758fc8d",
+      "commentary_chars": 1682
+    },
+    {
+      "id": "a453",
+      "disposition": "corrected",
+      "finding": "Vervallen per2024-07-01 tegen XML status/ingangsdatum gecontroleerd. Geen oude norm als huidig gepresenteerd. Artikel1-terugverwijzing juist; concreet fictief historisch dossier toegevoegd zonder vroegere norm te reconstrueren.",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_sha256": "f3962cc235c3462a4231c1b6dc007af44309b7d207f52486031186f53ce462bc",
+      "commentary_chars": 1166
+    },
+    {
+      "id": "a458",
+      "disposition": "retained_after_review",
+      "finding": "Eigen niet-uitvliegend pluimgedierte, laten lopen, geen recht, tuin of bezaaid/bepoot/beplant terrein en eerste categorie gelezen. Voorbereide grond niet uit459 ingelezen, geen schade of461-bordvereiste toegevoegd.",
+      "statutory_sha256": "988be6a25a854f9115285fe9f9c6e9cef095eb4f4eac6b03befa253502974008",
+      "commentary_sha256": "f281c98a17aab11410a0701825af24ad9ffddf0cecfd5cd86ce6d897cac79cb5",
+      "commentary_chars": 1462
+    },
+    {
+      "id": "a459",
+      "disposition": "retained_after_review",
+      "finding": "Vee, laten lopen, alle grondcategorieën inclusief voorbereiding en geen seizoenslimiet gelezen. Geen eigendom als expliciet bestanddeel toegevoegd, persoonlijke toerekening en toegangstitel behouden; eerste categorie.",
+      "statutory_sha256": "8a27aaa350ddb1e2b546acf87897e1f98fc37b8c5741792d8140bd7735e1ee6e",
+      "commentary_sha256": "28810cbd7676b7e635e601ed2bfc35c52979d4121377720f06992a246437b76d",
+      "commentary_chars": 1425
+    },
+    {
+      "id": "a460",
+      "disposition": "retained_after_review",
+      "finding": "Aanwezigheid persoon, gewasgrond/voorbereiding versus mei–oktober voor wei/hooi en geen recht gelezen. Pad/toestemming concreet, geen461-kenbaarheidsvereiste ingevoegd; eerste categorie.",
+      "statutory_sha256": "490fb5bf1a31fc1434ad77aea531b21c5ce606278b4c80697bfd3a2c40554ef3",
+      "commentary_sha256": "d7111f967998efb11dd8ca2c5e6e239d748187dcb33e6c470bc06d9d47e83852",
+      "commentary_chars": 1549
+    },
+    {
+      "id": "a461",
+      "disposition": "retained_after_review",
+      "finding": "Andermans grond, zonder recht, kenbaar verbod rechthebbende, aanwezigheid of vee en eerste categorie gelezen. Hele2020-arrest en corpus gecontroleerd: geen opzetvereiste maar wel kenbaarheid, context borden/route behouden. Checklist niet generiek herhaald.",
+      "statutory_sha256": "9390b8fad743d4de178f4c92dc3ad9134669510dc52886d2cf534e0bf3e54b90",
+      "commentary_sha256": "fe9e5c9b3eafc4ad93336468a733c532648d6af11b2b5ad2facc6c11db7ab75f",
+      "commentary_chars": 1923
+    },
+    {
+      "id": "a462",
+      "disposition": "retained_after_review",
+      "finding": "Bevoegd ambtenaar, afschrift/uittreksel vonnis, uitgifte vóór behoorlijke ondertekening en eerste categorie gelezen. Uitspraak/definitief intern bestand niet met ondertekening gelijkgesteld; geen civiele ongeldigheid afgeleid.",
+      "statutory_sha256": "026b41e67db99cf30c617c650fc6ce145a0c93b334d0fa26a7eb797dbed89788",
+      "commentary_sha256": "42073d3aa1817eb1efb468ed3500b22d2cb55552c65f6959837d127f569aa43d",
+      "commentary_chars": 1483
+    },
+    {
+      "id": "a463",
+      "disposition": "retained_after_review",
+      "finding": "Ambtenaar, geheime regeringsbescheiden, afschrift/uittreksel/openbaarmaken als alternatieven en geen bevoegd verlof gelezen. Geen kopie-publicatiecumulatie,272 eigen bestanddelen en twee maanden/tweede categorie juist.",
+      "statutory_sha256": "f4ff321c0f383e260d24b210913f038e917ab0fa5e9f14598afa0fea698c7493",
+      "commentary_sha256": "234016b37a931612d7d4caab9d5106a9db2f6ad0d3b635a1954869871d03880b",
+      "commentary_chars": 1540
+    },
+    {
+      "id": "a464",
+      "disposition": "retained_after_review",
+      "finding": "Hoofd opgesomde instelling, opnemen of houden zonder vertonen bevel/uitspraak óf registratieverzuim gelezen. Titelcontrole van registratie gescheiden, historische instellingen niet uitgebreid tot alle zorg; maand/tweede categorie juist.",
+      "statutory_sha256": "4bd3997c3e59e63a3d52dcd220d5d1441049848d3a28110b39db5b7e36bfe05f",
+      "commentary_sha256": "b7b09a565a5ca05de15393f36f7f1f1558f3140700d6edd3cfc188e5e70140bd",
+      "commentary_chars": 1566
+    },
+    {
+      "id": "a465",
+      "disposition": "retained_after_review",
+      "finding": "Ambtenaar burgerlijke stand, voorafgaande wettelijk vereiste stukken/verklaringen en tweede categorie gelezen. Geen algemene gemeentelijke voorkeur strafbaar gemaakt, geen automatische huwelijksongeldigheid;466-afbakening juist.",
+      "statutory_sha256": "fa61ac905fac2e4fcaa1bcda0f3ef50549da70556c888553c106c80fa5aa014f",
+      "commentary_sha256": "8a57236e0acc6bd6dd6c010f544235337824f15bc5c8acff03d9505474586e9f",
+      "commentary_chars": 1508
+    },
+    {
+      "id": "a466",
+      "disposition": "retained_after_review",
+      "finding": "Ambtenaar burgerlijke stand, registers/akten/formaliteiten/voltrekking en wettelijke voorschriften gelezen.465/467 bijzondere nalatigheden onderscheiden zonder onbewezen voorrangsregel; eerste categorie, herstel eigen grondslag.",
+      "statutory_sha256": "1e614a917f4da102d0c0986a20b970143c501bdce27384afc978bd008ba003d5",
+      "commentary_sha256": "4106ea6c6826410ed95d3f2ce4214410d955bdd0375d1994dc657690a6af3f90",
+      "commentary_chars": 1567
+    },
+    {
+      "id": "a467",
+      "disposition": "retained_after_review",
+      "finding": "Ambtenaar burgerlijke stand, niet opnemen akte en tweede categorie gelezen. Inhoudsgebrek/geen afschrift van geheel ontbrekende registratie onderscheiden,448-aangeversrol en466-vormregel correct.",
+      "statutory_sha256": "11a36c123f66c2f18d12ed0ef3c86c93d99be55e1c25e6071a58451b25033a01",
+      "commentary_sha256": "e9913f49e2da187a4e662c0bbcc21b44645259c813cc4c8b6a9a6b02baaf4bcc",
+      "commentary_chars": 1462
+    },
+    {
+      "id": "a468",
+      "disposition": "retained_after_review",
+      "finding": "Twee onderdelen: burgerlijkestandambtenaar aan bevoegd gezag versus andere ambtenaar aan burgerlijkestandambtenaar. Wettelijke opgaveplicht noodzakelijk, geen universele informatieplicht; eerste categorie en ambtschecklist correct.",
+      "statutory_sha256": "14fe91cc97a1f1b05eb571121e8a1e1eff65fa77b72311645592153306cb42d7",
+      "commentary_sha256": "bae70cfce565cab6257901c049ce750ccb09c10338a5ec44376d5a165d4d3082",
+      "commentary_chars": 1783
     }
   ],
   "limitations": [
     "Exactly the twenty assigned units reviewed; no whole-book review claim.",
-    "32 out-of-scope units remain uncommented.",
-    "Selective case-law review; no exhaustive appeal/later-treatment audit or external professional approval.",
+    "12 out-of-scope units remain uncommented.",
+    "Selective case-law verification; no exhaustive later-treatment research or external professional approval.",
     "External regimes not substantively expounded require case-specific verification.",
     "Text agreement and length do not establish legal quality."
   ],
-  "source_preflight": "preflight-review-batch39-result.json",
-  "authority_evidence": "sources/review-batch39-authority-check.json",
+  "source_preflight": "preflight-review-batch40-result.json",
+  "authority_evidence": "sources/review-batch40-authority-check.json",
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1295895,
+    "commentary_chars": 1327831,
     "errors": [
-      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']"
+      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']",
+      "necommitnuté změny v repu"
     ],
     "warnings": [],
     "ok": false
@@ -218,6 +221,5 @@
   "statutory_text_agreement": 1.0,
   "local_links_ok": true,
   "coverage_complete": true,
-  "whole_book_validation_ok": false,
-  "post_checkpoint_validation": true
+  "whole_book_validation_ok": false
 }

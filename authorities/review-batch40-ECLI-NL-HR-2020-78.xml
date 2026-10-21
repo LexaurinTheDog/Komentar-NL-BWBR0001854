@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:78</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-02-18T07:24:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/05326</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:992" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2019:992</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>SR-Updates.nl 2020-0017 met annotatie van J.H.J. Verbaan</rdf:li>
+          <rdf:li>NJB 2020/302</rdf:li>
+          <rdf:li>RvdW 2020/183</rdf:li>
+          <rdf:li>NJ 2020/75 met annotatie van W.H. Vellinga</rdf:li>
+          <rdf:li>VR 2020/180</rdf:li>
+          <rdf:li>NTS 2020/48</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:78">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:78</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-21T15:11:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:78 Hoge Raad , 21-01-2020 / 18/05326</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:78:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Gevaar op de weg kunnen veroorzaken en/of verkeer op de weg kunnen hinderen door met hoge snelheid op een crossmotor op een bospad te rijden, terwijl dat bospad gesloten is voor motorrijtuigen, art. 5 WVW 1994 en zonder daartoe gerechtigd te zijn, zich met een crossmotor bevinden op een bosweg, zijnde grond toebehorende aan een ander, van welke grond de toegang op een voor verdachte blijkbare wijze door de rechthebbende is verboden, art. 461 Sr. </para>
+        <para>1. Bewezenverklaarde overtreding van art. 5 WVW 1994 toereikend gemotiveerd? 2. Toereikend gemotiveerd dat verdachte zich, zonder daartoe gerechtigd te zijn, op eens ander grond waarvan de toegang “op een voor hem blijkbare wijze” door de rechthebbende was verboden, heeft bevonden? </para>
+        <para>Ad 1. Hof heeft geoordeeld dat verdachte als bestuurder van een crossmotor met hoge snelheid heeft gereden op een bospad waar het openbaar verkeer was beperkt tot wandelaars en fietsers. Opvatting dat e.e.a. niet toereikend is voor de bewezenverklaring van overtreding van art. 5 WVW 1994, maar dat voorts is vereist dat medeweggebruikers door het rijgedrag van verdachte concreet gevaar of hinder moeten hebben ondervonden en/of dat dat gevaar of die hinder zich in het verleden regelmatig heeft verwezenlijkt, vindt geen steun in het recht. </para>
+        <para>Ad 2. De tll. is toegesneden op art. 461 Sr. Hof heeft vastgesteld dat d.m.v. 2 soorten borden die op verschillende plaatsen aan de rand van het bosgebied en bij toegangswegen tot het bosgebied waren geplaatst, duidelijk is gemaakt dat het niet is toegestaan zich met een motorrijtuig in het gebied te begeven en dat verdachte in het bosperceel is gekomen door gebruik te maken van een beek en daardoor de borden heeft gemist die hem wezen op de verbodsbepaling. Opvatting dat voor een bewezenverklaring t.z.v. art. 461 Sr, een overtreding, is vereist dat verdachte opzettelijk een hem bekend toegangsverbod overtreedt, vindt geen steun in het recht. Oordeel Hof dat de toegang aan verdachte op een voor hem blijkbare wijze a.b.i. art. 461 Sr is verboden, is niet onbegrijpelijk. De enkele omstandigheid dat verdachte de verbodsaanduidingen niet heeft gezien, doet daaraan niet af. Volgt verwerping. </para>
+        <para>CAG: anders t.a.v. bewijsklacht overtreding art. 461 Sr.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:78:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>STRAFKAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	18/05326</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>		21 januari 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof 's-Hertogenbosch van 15 november 2017, nummer 20/002897-16, in de strafzaak </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verdachte] , </para>
+      <para>geboren te [geboorteplaats] op [geboortedatum] 1989,</para>
+      <para>hierna: de verdachte.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <parablock>
+      <para>Het beroep is ingesteld door de verdachte. Namens deze heeft G. Spong, advocaat te Amsterdam, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>De plaatsvervangend Advocaat-Generaal D.J.M.W. Paridaens heeft geconcludeerd tot vernietiging van het bestreden arrest, maar uitsluitend wat betreft de beslissingen ter zake van het onder 2 tenlastegelegde en de strafoplegging, tot terugwijzing van de zaak naar het Gerechtshof ’s-Hertogenbosch teneinde de zaak in zoverre op het bestaande beroep opnieuw te berechten en af te doen en tot verwerping van het beroep voor het overige.</para>
+      <para>De raadsman heeft daarop schriftelijk gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Bewezenverklaring en bewijsvoering</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Ten laste van de verdachte is bewezenverklaard dat:</para>
+        <para>“1: </para>
+        <para>hij op 8 maart 2015 te Overloon, gemeente Boxmeer, als bestuurder van een voertuig (een motor), daarmee rijdende op de weg, een bospad gelegen in een bosperceel wat plaatselijk bekend staat onder de naam Lactaria (ingeklemd tussen de Rijksweg A73, de Groeningsedijk en de Sambeeksedijk) gesloten voor motorrijtuigen, met hoge snelheid, althans een ter plaatse te hoge snelheid over dat bospad is gereden, door welke gedraging van hem, verdachte, gevaar op die weg kon worden veroorzaakt en/of het verkeer op die weg kon worden gehinderd;</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“2: </para>
+        <para>hij op 8 maart 2015 te Overloon, gemeente Boxmeer, zonder daartoe gerechtigd te zijn zich met een motorijtuig heeft bevonden op een bosweg, zijnde grond toebehorende aan gemeente Boxmeer, van welke grond de toegang op een voor hem, verdachte, blijkbare wijze door de rechthebbende was verboden.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Deze bewezenverklaring steunt op de volgende bewijsmiddelen:</para>
+        <para>“1. Het proces-verbaal relaas d.d. 17 september 2015 (pg. 4-21), voor zover inhoudende als relaas van verbalisant [verbalisant 1] :</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op 8 maart 2015, omstreeks 09.40 uur, kregen surveillance-eenheden van de politie de melding van een aanrijding tussen motorcrossers en BOA’s op de Heikantweg, dan wel Groeningsedijk te Overloon.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Omschrijving plaats delict</para>
+        <para>Het voorval had plaatsgevonden op een bospad, dat is gelegen in een bosperceel, dat plaatselijk bekend was onder de naam Lactaria. Het gedeelte van het bosgebied waarin het ongeval had plaatsgevonden lag ingeklemd tussen de Rijksweg A73, de Groeningsedijk en de Sambeeksedijk. Het lag buiten de bebouwde kom van Overloon in de gemeente Boxmeer.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ter plaatse bleek dat een vijftal collega’s van het samenwerkingsverband Samen Sterk in het Buitengebied doende was met een handhavingsactie op het verbod op motorcrossers in dit bosgebied. Daarbij werd aan motorcrossers een tweetal stoptekens gegeven, waarbij een aanrijding was ontstaan met een van de motorrijders. Ter plaatse werden drie motorcrossers aangetroffen, waarvan er een gewond was. De gewonde motorcrosser bleek later [medeverdachte 2] te zijn.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De twee niet gewonde motorcrossers legitimeerden zich als:</para>
+        <para>
+          [medeverdachte 1] , geboren op [geboortedatum] -1981 te [geboorteplaats] , en [verdachte] , geboren op [geboortedatum] -1989 te [geboorteplaats] .</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(pg. 5-6)</para>
+        <para>Uit de door betrokken handhavers afgelegde verklaringen blijkt dat men de handhavingsactie volgens een bepaalde werkwijze hanteerde. (...) Dat houdt in dat ze een bospad uitzoeken, dat aan beide zijde afgeschermd wordt door begroeiing dusdanig dat de ontsnappingskans minimaal is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De plaats delict betreft een bospad dat regelmatig gebruikt wordt door motorcrossers. Het desbetreffende bosgebied is opengesteld voor wandelaars en fietsers en is verboden voor motorvoertuigen, bromfietsen en paarden.</para>
+        <para>Dit wordt kenbaar gemaakt middels het landelijk groene openstellingsbord in eigendom van de gemeente Boxmeer. Indien dit bosgebied wel wordt betreden door motorrijtuigen, bromfietsen of paarden is dit een overtreding van artikel 461 van het Wetboek van Strafrecht.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2. Het proces-verbaal aanrijdroute BHV nummer 2015051657 d.d. 16 juni 2015 (pg. 93-105), voor zover inhoudende als relaas van verbalisant [verbalisant 2] :</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(pg. 96)</para>
+        <para>Het incident had plaatsgevonden in een bosperceel dat was gelegen tussen de Groeningsedijk en de Sambeeksedijk, gelegen buiten de bebouwde kom van Overloon in de gemeente Boxmeer.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(pg. 104)</para>
+        <para>Uit onderzoek was gebleken dat er, duidelijk zichtbaar, diverse borden waren geplaatst aan de rand van het bosgebied. De tekst op deze borden luidde onder andere: dat het bosgebied was opengesteld en dat:</para>
+        <para>Het niet is toegestaan met uw motorvoertuig het bos in te gaan </para>
+        <para>en</para>
+        <para>De toegang is verboden met motorrijtuig volgens artikel 461 van het Wetboek van Strafrecht. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. Het proces-verbaal van verhoor d.d. 17 maart 2015 (pg. 230-236), voor zover inhoudende als weergave van het verhoor van [medeverdachte 2] :</para>
+        <para>V = vraag</para>
+        <para>A = antwoord</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>A: Ik geef aan jullie een schriftelijke verklaring zoals ik die zelf heb opgesteld. Dat is mijn visie op het hele gebeuren.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Je reed door de bossen van Overloon. (...) Wie waren er nog meer bij?</para>
+        <para>A: [verdachte] en [medeverdachte 1] . (...) [verdachte] reed voorop, ik reed als tweede en [medeverdachte 1] als laatste.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Hoe was je zicht onderweg?</para>
+        <para>A: Als in een tunnel, je rijdt op een recht zandpad, het gaat behoorlijk hard dus je kijkt alleen voor je op het pad.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Hoe hard reden jullie ten tijde van het voorval?</para>
+        <para>A: Ik schat ongeveer 80 kilometer per uur. In de bossen kijk je vooruit en kijk je dus niet op je snelheidsmeter. Op een lang recht stuk gaat het gas open.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Schriftelijke verklaring [medeverdachte 2] (pg. 235-236):</para>
+        <para>Op 8 maart 2015 rond 9.00 uur zijn [verdachte] , [medeverdachte 1] en ik met de motor off-road gaan rijden. [verdachte] reed voorop. Ik reed achter hem. Achter mij reed [medeverdachte 1]. Omstreeks 9.40 uur reed [verdachte] een bospad in. Na een paar bochten reden we een dichtbegroeid pad in. Dat pad was ongeveer 2 à 2,5 meter breed.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4. Het proces-verbaal van verhoor d.d. 11 maart 2015 (pg. 256-263), voor zover inhoudende als weergave van het verhoor van [medeverdachte 1] :</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(pg. 257)</para>
+        <para>V: Je reed door de bossen in Overloon. (...) Wie waren er nog meer bij?</para>
+        <para>A: Dat waren [medeverdachte 2] en [verdachte].</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Wat waren jullie onderlinge posities?</para>
+        <para>A: [verdachte] reed voorop, daarachter kwam [medeverdachte 2] en ik reed achteraan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Hoe hard reden jullie ten tijde van het voorval?</para>
+        <para>A: Als ik moet gokken dan denk ik 70 plus. Voor mijn gevoel hadden we er een redelijke vaart in zitten. Ik heb wel een kilometerteller, maar die klopt niet. Ik heb hier ook niet op gekeken.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>V: Was de weg overzichtelijk, kon je zijwegen of bospaden van links en rechts goed zien aankomen?</para>
+        <para>A: Nee, het was dichtbegroeid en dus ook niet erg overzichtelijk.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5. Het proces-verbaal van de terechtzitting van de rechtbank Oost-Brabant d.d. 1 september 2016, voor zover inhoudende als verklaring van verdachte:</para>
+        <para>Door de laagstaande zon was het zicht niet optimaal. Ik reed voor mijn gevoel 60 tot 80 km/u.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. De verklaring van verdachte ter terechtzitting van dit hof op 1 november 2017, voor zover inhoudende:</para>
+        <para>Het klopt dat ik op 8 maart 2015 te Overloon, gemeente Boxmeer, heb gereden met een motor op een bospad gelegen in een bosperceel dat plaatselijk bekend staat onder de naam Lactaria. Ik reed daar samen met [medeverdachte 1] en [medeverdachte 2] . Ik reed ongeveer 60 km per uur. We reden in formatie achter elkaar. Ik reed voorop aan de linkerkant. Het bospad werd gebruikt door wandelaars, fietsers en ruiters. Het zicht was door de laagstaande zon niet optimaal.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Het Hof heeft ten aanzien van de bewijsvoering voorts onder meer het volgende overwogen:</para>
+        <para>“Ad 1 (brief).</para>
+        <para>De weg, het onverharde bospad dat gelegen is in een bosperceel dat plaatselijk bekend staat onder de naam Lactaria (en ingeklemd ligt tussen de Rijksweg A73, de Groeningsedijk en de Sambeeksedijk), is, zo blijkt uit pagina 6 van het dossier, opengesteld voor wandelaars en fietsers en is verboden voor motorrijtuigen, bromfietsen en paarden. Deze weg is een weg in de zin van art. 1 lid 1 sub b van de Wegenverkeerswet 1994, te weten een voor het openbaar verkeer openstaande weg of pad, zij het dat het openbaar verkeer dat op die weg is toegestaan is beperkt tot wandelaars en fietsers.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ad a (pleidooi).</para>
+        <para>Twee soorten borden, die op verschillende plaatsen aan de rand van het bosgebied en bij toegangswegen tot het bosgebied waren geplaatst, maakten duidelijk dat het gebied voor verkeer was opengesteld, maar dat het niet toegestaan was dit gebied met een motorrijtuig te betreden. Door zich met een crossmotor, zijnde een motorrijtuig, op dit bospad te begeven heeft verdachte zich zonder daartoe gerechtigd te zijn op dit bospad bevonden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het door de verdachte gevoerde verweer dat de toegang niet op een voor hem blijkbare wijze was verboden wordt verworpen.</para>
+        <para>Dit verweer is gebaseerd op de stelling dat verdachte, met twee medemotorrijders, beweerdelijk via een alternatieve route in het bosperceel en op het bospad is terechtgekomen en aldus de betreffende bordjes niet heeft gezien. Verdachte heeft verklaard dat zij na het viaduct over de A73 naar beneden gereden zijn, alwaar zij door een beek gereden zijn en vervolgens het bos zijn ingereden via een bospad. Dit betreft volgens verdachte een andere (toegangs)route dan waarvan de politie in het dossier uitgaat als vermoedelijke (toegangs)route van de motorrijders en verklaart waarom er geen verbodsbord is gezien.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het hof wil in het voordeel van verdachte aannemen dat hij niet de route heeft gereden die de politie in het dossier als de vermoedelijke route heeft beschreven, maar stelt tegelijkertijd vast dat verdachte dan in het bosperceel is gekomen door gebruik te maken van een (al dan niet droog liggende) beek. De rechthebbende op het bosperceel hoefde er niet op bedacht te zijn dat verkeersdeelnemers op die wijze bij het perceel zouden komen. Het komt voor risico van verdachte dat hij van de weg is afgegaan en door een beek is gereden en op die manier kennelijk de borden heeft gemist die hem wezen op de verbodsbepaling voor motorrijtuigen. Dit doet niet af aan het feit dat de plaatsing van de borden maakt dat de toegang op een voor verdachte blijkbare wijze was verboden. Anders gezegd: van een rechthebbende op een perceel kan niet worden gevergd dat hij om de twee meter op de grens van zijn perceel bebording plaatst die melding maakt van een op het perceel geldend verbod.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ad 2 (brief)</para>
+        <para>Uit de verklaring van verdachte volgt dat hij zich op zondag 8 maart 2015 met [medeverdachte 2] en [medeverdachte 1] bezig hield met motorcrossen. [medeverdachte 2] noemt het off-road rijden. Off-road suggereert dat het niet op de weg gebeurt. Zoals hiervoor reeds vastgesteld, was het betreffende bospad evenwel een weg in de zin van de Wegenverkeerswet 1994. Het hof stelt nadrukkelijk voorop dat het openbaar verkeer dat op deze weg is toegestaan is beperkt tot wandelaars en fietsers. Dat brengt met zich mee dat verdachte aldaar dus niet met zijn crossmotor mocht rijden en dat de wel toegestane weggebruikers op die weg, de wandelaars en fietsers, niet berekend (hoeven te) zijn op aldaar - wederrechtelijk - rijdende motorcrossers.</para>
+        <para>Naast het feit dat verdachte niet met zijn crossmotor op dit pad had mogen rijden, wijst het hof erop dat ook voor motorcrossers die zich op de weg begeven de geldende verkeersregels van toepassing zijn. Belangrijke uitgangspunten in het verkeer zijn - onder meer - acht slaan op de toegestane snelheid en rijden met een ter plaatste verantwoorde snelheid, voldoende afstand houden, de weg overzien en in staat zijn het bestuurde voertuig binnen de beschikbare ruimte voor het voertuig tot stilstand kunnen brengen. Naar het oordeel van het hof heeft verdachte aan deze uitgangspunten deels niet voldaan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verdachte reed als voorste motorrijder in een driemansformatie. Het pad, dat volgens [medeverdachte 2] tweeënhalve meter breed was, was langs beide zijden dicht begroeid. Bij de politie heeft [medeverdachte 2] verklaard dat het zicht onderweg was als in een tunnel. “Je rijdt op een recht zandpad, het gaat behoorlijk hard, dus je kijkt alleen voor je op het pad”. [medeverdachte 1] noemde het pad dicht begroeid en niet erg overzichtelijk. Verdachte heeft ter terechtzitting in eerste aanleg en in hoger beroep verklaard dat het zicht door de laag staande zon niet optimaal was. [medeverdachte 2] schatte de snelheid ten tijde van het voorval op ongeveer 80 kilometer per uur. Hij merkt daarover op dat je in de bossen vooruit kijkt en dus niet op je snelheidsmeter. Op een lang recht stuk gaat het gas open, zo verklaarde hij. [medeverdachte 1] schatte de snelheid ten tijde van het voorval in op 70 plus (het hof begrijpt: meer dan 70 kilometer per uur), maar merkt daarbij op dat hij een niet-kloppende kilometerteller had en dat hij daarop niet heeft gekeken. Ter terechtzitting in hoger beroep heeft verdachte verklaard dat hij op 8 maart 2015 op het voornoemde bospad heeft gereden op zijn motor met een snelheid van rond de 60 kilometer per uur.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Nog afgezien van het feit dat verdachte helemaal niet op zijn motor mocht rijden op het bospad, had hij zijn snelheid terug moeten brengen tot een veilige snelheid. Een veilige snelheid is een snelheid waarbij verdachte gelegenheid zou hebben gehad om acht te slaan op eventueel overig verkeer en waarbij hij voldoende tijd zou hebben gehad om zijn motorrijtuig tot stilstand te brengen indien zich iets of iemand voor hem op de weg zou begeven, dan wel om dit voorwerp of deze persoon te kunnen ontwijken. Door met hoge snelheid, althans met een ter plaatse te hoge snelheid, over dat bospad te rijden, kon door verdachte gevaar op die weg worden veroorzaakt en/of het verkeer op die weg worden gehinderd. Verdachte was zich ook overigens bewust van het soort verkeer dat hij op het bospad kon tegen komen, immers ter zitting in hoger beroep heeft hij verklaard dat het bospad werd gebruikt door wandelaars, fietsers en ruiters.”</para>
+      </parablock>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het eerste middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het middel klaagt dat de bewezenverklaring van de onder 1 tenlastegelegde overtreding van art. 5 Wegenverkeerswet 1994 (hierna: WVW 1994) niet uit de door het Hof gebezigde bewijsmiddelen kan volgen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Art. 5 WVW 1994 luidt:</para>
+        <para>“Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Het Hof heeft, kort gezegd, geoordeeld dat de verdachte als bestuurder van een crossmotor met hoge snelheid heeft gereden op een weg, te weten een bospad waar het openbaar verkeer was beperkt tot wandelaars en fietsers. Het middel steunt op de opvatting dat een en ander niet toereikend is voor de bewezenverklaring van overtreding van art. 5 WVW 1994, maar dat voorts is vereist dat medeweggebruikers door het rijgedrag van de verdachte concreet gevaar of hinder moeten hebben ondervonden en/of dat dat gevaar of die hinder zich in het verleden regelmatig heeft verwezenlijkt. Die opvatting vindt geen steun in het recht. Het Hof heeft zonder blijk te geven van een onjuiste opvatting en niet onbegrijpelijk de bewezenverklaring uit de gebezigde bewijsmiddelen kunnen afleiden.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het middel faalt. </para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het tweede middel</title>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het middel klaagt over de bewezenverklaring van het onder 2 tenlastegelegde, voor zover inhoudende dat de verdachte zich, zonder daartoe gerechtigd te zijn, op eens anders grond waarvan de toegang ‘op een voor hem blijkbare wijze’ door de rechthebbende was verboden, heeft bevonden.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>De tenlastelegging is toegesneden op art. 461 Sr. De in de tenlastelegging en bewezenverklaring voorkomende uitdrukking ‘op een voor hem blijkbare wijze’ is klaarblijkelijk gebezigd in de betekenis die daaraan toekomt in deze bepaling. Deze bepaling luidt:</para>
+        <para>“Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.”</para>
+      </parablock>
+      <paragroup>
+        <nr>4.3.1</nr>
+        <para>Het Hof heeft vastgesteld dat door middel van twee soorten borden die op verschillende plaatsen aan de rand van het bosgebied en bij toegangswegen tot het bosgebied waren geplaatst, duidelijk is gemaakt dat het niet is toegestaan zich met een motorrijtuig in het gebied te begeven. Het heeft voorts vastgesteld dat de verdachte in het bosperceel is gekomen door gebruik te maken van een (al dan niet droogliggende) beek en op die manier kennelijk de borden heeft gemist die hem wezen op de verbodsbepaling. </para>
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2</nr>
+        <para>Voor zover het middel berust op de opvatting dat voor een bewezenverklaring ter zake van art. 461 Sr, een overtreding, is vereist dat de verdachte opzettelijk een hem bekend toegangsverbod overtreedt, faalt het middel, omdat deze opvatting geen steun vindt in het recht.</para>
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3</nr>
+        <para>Voorts is het oordeel van het Hof dat de toegang aan de verdachte op een voor hem blijkbare wijze als bedoeld in art. 461 Sr is verboden niet onbegrijpelijk. De enkele omstandigheid dat de verdachte de verbodsaanduidingen niet heeft gezien, doet daaraan niet af. Het middel faalt ook in zoverre. </para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>Beoordeling van het derde middel</title>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het middel klaagt dat de redelijke termijn als bedoeld in art. 6, eerste lid, EVRM in de cassatiefase is overschreden omdat de stukken te laat door het Hof zijn ingezonden.</para>
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Het middel is gegrond. Voorts doet de Hoge Raad uitspraak nadat meer dan twee jaren zijn verstreken na het instellen van het cassatieberoep. Gelet op de aan de verdachte opgelegde geldboete van € 1.000,-, subsidiair 20 dagen hechtenis, waarvan € 500,-, subsidiair 10 dagen hechtenis, voorwaardelijk met een proeftijd van 2 jaren, alsmede de geldboete van € 90,-, subsidiair 1 dag hechtenis, en de mate waarin de redelijke termijn is overschreden, is er geen aanleiding om aan het oordeel dat de redelijke termijn is overschreden enig rechtsgevolg te verbinden en zal de Hoge Raad met dat oordeel volstaan.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren Y. Buruma en M.T. Boerlage, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">21 januari 2020</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

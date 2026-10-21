@@ -1,0 +1,9 @@
+# Tweede lezing — artikelen 447e en 461
+
+De volledige officiële rechterlijke teksten en beide nationale corpusteksten zijn gelezen. De opnieuw opgehaalde rechterlijke teksten stemmen overeen met de auteursbronnen. [Hashes en bronnencontrole](../sources/review-batch40-authority-check.json).
+
+HR 7 juli 2015, zaak 14/02477, ECLI:NL:HR:2015:1787: [kaart](author-batch40-HR-2015-1787-card.md), [volledige tekst](review-batch40-ECLI-NL-HR-2015-1787.txt). R.o. 2.2.3 is de geciteerde hofredenering over specialiteit en proportionaliteit. De Hoge Raad verwerpt in 2.3 de motiveringsklacht wegens ontbrekende feitelijke grondslag. R.o. 2.4 verwerpt de gestelde consequentie van disproportionele vervolging en beoordeelt het hofoordeel binnen de beperkte toetsing van de vervolgingsbeslissing. R.o. 2.5 en beslissing 4 verwerpen het middel en beroep. Geen algemene regel dat iedere weigering onder 184 valt, evenmin dat 447e altijd exclusief geldt. Gedrag uit 2008; de huidige uitgebreidere wettelijke opsomming van 447e wordt niet uit dit arrest afgeleid.
+
+HR 21 januari 2020, zaak 18/05326, ECLI:NL:HR:2020:78: [kaart](author-batch40-HR-2020-78-card.md), [volledige tekst](review-batch40-ECLI-NL-HR-2020-78.txt). R.o. 4.3.1 bevat de vaststellingen over borden en de route door een beek. R.o. 4.3.2 verwerpt het vereiste van opzettelijk overtreden van een bekend verbod; 4.3.3 acht de bewezen kenbaarheid niet onbegrijpelijk ondanks gemiste aanduidingen. Geen opheffing van het kenbaarheidsvereiste. De advocaat-generaal adviseerde anders over dit onderdeel; dat is geen rechterlijk oordeel. R.o. 5 constateert termijnoverschrijding zonder verder rechtsgevolg; beslissing 6 verwerpt het beroep. De tekst van 461 stemt overeen met de hier geldende tekst; de zelfstandige verkeersrechtelijke beoordeling wordt niet gebruikt.
+
+De bestaande kaarten blijven inhoudelijk juist. Geen uitputtend onderzoek naar latere rechtspraak en geen externe professionele goedkeuring.
