@@ -92,5 +92,19 @@
     "No sufficiently relevant verified full judgment selected. Selective research only.",
     "Detailed external duties of Sv 539u and WvK 358a/785 not asserted without independent full-text verification.",
     "Technical checks do not certify legal quality."
-  ]
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1343211,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "batch_checks": {
+    "all_twelve_present": true,
+    "independent_coverage_complete": true,
+    "local_links_ok": true
+  }
 }
