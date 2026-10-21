@@ -133,8 +133,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1120321,
     "errors": [
-      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -193,7 +192,7 @@
       "a328quater"
     ]
   },
-  "validation_checked_at": "2026-10-21T00:16:34.770744+00:00",
+  "validation_checked_at": "2026-10-21T00:17:10.669993+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -921,8 +920,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1120321,
     "errors": [
-      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 132 jednotek: ['a378(0<400)', 'a379(0<400)', 'a380(0<400)', 'a381(0<400)', 'a382(0<400)', 'a383(0<400)', 'a384(0<400)', 'a385(0<400)']"
     ],
     "warnings": [],
     "ok": false
