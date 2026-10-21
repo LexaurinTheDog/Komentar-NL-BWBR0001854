@@ -30,9 +30,9 @@
   "total_units": 812,
   "statutory_articles": 810,
   "completed_units": 812,
-  "completed_scope": "See units.jsonl and commentary inventory; latest assigned batch 447a–468 completed; whole manuscript remains incomplete.",
+  "completed_scope": "All statutory units have commentary; assigned closing twelve units authored, independent second pass pending. No whole-book completion certification.",
   "remaining_units": 0,
-  "next_unit": "a468a",
+  "next_unit": null,
   "commentary_chars": 1326788,
   "source_text_agreement": 1.0,
   "completeness_report_ok": true,
@@ -136,12 +136,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1327831,
-    "errors": [
-      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']"
-    ],
+    "commentary_chars": 1343211,
+    "errors": [],
     "warnings": [],
-    "ok": false
+    "ok": true
   },
   "remaining_limitations": [
     "Full shared build and strict validation cannot pass until these units are written.",
@@ -923,12 +921,10 @@
     "repo": "Komentar-NL-BWBR0001854",
     "units": 812,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 1327831,
-    "errors": [
-      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']"
-    ],
+    "commentary_chars": 1343211,
+    "errors": [],
     "warnings": [],
-    "ok": false
+    "ok": true
   },
   "prior_bounded_authors": [
     {
