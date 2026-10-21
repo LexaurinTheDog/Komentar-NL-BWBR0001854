@@ -4,8 +4,7 @@
   "verbatim_ratio": 1.0,
   "commentary_chars": 1182817,
   "errors": [
-    "krátký/chybějící komentář u 92 jednotek: ['a416(0<400)', 'a417(0<120)', 'a417bis(0<400)', 'a417ter(0<400)', 'a418(0<400)', 'a419(0<400)', 'a420(0<400)', 'a420bis(0<400)']",
-    "necommitnuté změny v repu"
+    "krátký/chybějící komentář u 92 jednotek: ['a416(0<400)', 'a417(0<120)', 'a417bis(0<400)', 'a417ter(0<400)', 'a418(0<400)', 'a419(0<400)', 'a420(0<400)', 'a420bis(0<400)']"
   ],
   "warnings": [],
   "ok": false
