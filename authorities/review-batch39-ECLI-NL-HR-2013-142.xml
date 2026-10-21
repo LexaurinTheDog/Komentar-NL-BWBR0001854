@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2013:142</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T02:35:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-07-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2013-07-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">12/02627 B</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2013:99" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2013:99, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RvdW 2013/1029</rdf:li>
+          <rdf:li>SR-Updates.nl 2013-0322</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:142">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:142</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-07-22T13:15:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-07-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2013:142 Hoge Raad , 02-07-2013 / 12/02627 B</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2013:142:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beklag, beslag. Toetsingskader. HR herhaalt de toepasselijke overwegingen uit HR LJN BL2823 en LJN BV3004. Met de overweging dat zij “slechts marginaal de rechtmatigheid van het beslag en het belang van een rechtens juiste en zorgvuldige strafvordering toetst” heeft de Rb als haar oordeel tot uitdrukking gebracht dat het onderzoek in raadkamer een summier karakter heeft. Dat oordeel is juist. I.h.k.v. een beklagprocedure dient de vraag of t.t.v. de inbeslagneming jegens de klager een redelijk vermoeden van schuld aan enig strafbaar feit bestond, beoordeeld te worden met het oog op beantwoording van de vraag of een belang van strafvordering aanwezig is voor het voortduren van het beslag. Het onderzoek in raadkamer strekt zich niet uit tot de vraag of bewezen kan worden dat klager het strafbare feit heeft gepleegd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2013:142:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>2 juli 2013</para>
+    <para>Strafkamer</para>
+    <para>nr. 12/02627 B</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Beschikking</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een beschikking van de Rechtbank Arnhem van 16 mei 2012<emphasis role="bold">,</emphasis> nummer RK 12/216<emphasis role="bold">, </emphasis>op een klaagschrift als bedoeld in art. 552a Sv, ingediend door:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [klager]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1967. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>Het beroep is ingesteld door de klager. Namens deze heeft mr. J.W. Soeteman, advocaat te Amsterdam, middelen van cassatie voorgesteld. De schriftuur is aan deze beschikking gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal G. Knigge heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het eerste middel</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het middel behelst de klacht dat de Rechtbank een onjuist toetsingskader heeft gehanteerd, nu zij heeft overwogen dat in een procedure als de onderhavige de raadkamer slechts marginaal de rechtmatigheid van het beslag en het belang van een rechtens juiste en zorgvuldige strafvordering toetst.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>De Rechtbank heeft het klaagschrift, strekkende tot teruggave van onder de klager inbeslaggenomen goederen gedeeltelijk niet-ontvankelijk verklaard, gedeeltelijk gegrond verklaard en voor het overige ongegrond verklaard. De bestreden beschikking houdt - voor zover voor de beoordeling van het middel van belang - het volgende in:</para>
+        <para>
+          <emphasis role="bold">"</emphasis>(On)rechtmatigheid van het beslag</para>
+        <para>In een procedure als de onderhavige toetst de raadkamer slechts marginaal de rechtmatigheid van het beslag en het belang van een rechtens juiste en zorgvuldige strafvordering. In het onderhavige geval overweegt de raadkamer daartoe als volgt.</para>
+        <para>Delictsbestanddelen artikel 441b van het Wetboek van Strafrecht </para>
+        <para>Op grond van artikel 94, tweede lid, van het Wetboek van Strafvordering zijn alle voorwerpen waarvan verbeurdverklaring (of onttrekking aan het verkeer) kan worden bevolen, vatbaar voor inbeslagneming. Voorts bepaalt artikel 33a, eerste lid, van het Wetboek van Strafrecht, voor zover thans van belang, dat vatbaar voor verbeurdverklaring zijn: voorwerpen met betrekking tot welke het feit is begaan (onder b) en voorwerpen met behulp van welke het feit is begaan of voorbereid (onder c).</para>
+        <para>De raadkamer overweegt dat bij verdenking van overtreding van artikel 441b van het Wetboek van Strafrecht, zoals klager terecht heeft opgemerkt, moet worden voldaan aan het vereiste dat gebruik wordt gemaakt ‘van een daartoe aangebracht technisch hulpmiddel waarvan de aanwezigheid niet op duidelijke wijze kenbaar is gemaakt’. Het bedoelde hulpmiddel betreft dan een voorwerp met betrekking tot welke het feit is begaan (artikel 33a, eerste lid, aanhef en onder b, van het Wetboek van Strafrecht). Klager betwist echter dat het in het onderhavige geval gaat om een daartoe ‘aangebracht’ hulpmiddel als bedoeld in artikel 441b van het Wetboek van Strafrecht.</para>
+        <para>Dienaangaande overweegt de rechtbank als volgt.</para>
+        <para>Uit het dossier blijkt dat onder klager op 24 januari 2012 een cassetterecorder van het merk Olympus is aangetroffen in een etui. In de broekzak van klager werd een microfoon aangetroffen. In zijn onderbroek zat met tape een zwart object (blijkens de uitleg van klager in raadkamer een data-opslag product) van het merk Sweex geplakt. Ook heeft een verbalisant klager op enig moment aan zijn bril zien draaien, waarna hij een oranje lampje zag opflitsen. Later blijkt dat er beeldopnames zijn gemaakt met de (camera in de) bril. Daarnaast werd bij klager een meerkleurige brillenkoker aangetroffen met daarin een videorecorder van het merk Sony en tevens een grijs/zwart etui met daarin een videocamera van het merk Silver Crest. Gezien de plaatsen waar de geluids- en beeldopnameapparatuur zijn aangetroffen, is naar het (voorlopige) oordeel van de raadkamer sprake van technische hulpmiddelen die zijn ‘aangebracht’ in/aan de kleding respectievelijk de bril van klager, dan wel in enig omhulsel (etui/brillenkoker). In tegenstelling tot hetgeen klager heeft betoogd is de raadkamer aldus, marginaal toetsend, van oordeel dat sprake is van ‘aangebracht’ zodat de delictsbestanddelen van artikel 441b van het Wetboek van Strafrecht in het onderhavige geval wel degelijk worden vervuld.</para>
+        <para>(...)</para>
+        <para>Het (ontbreken van) strafvorderlijk belang bij het voortduren van het beslag</para>
+        <para>De raadkamer overweegt dat in het kader van deze raadkamerprocedure op basis van een klacht als bedoeld in artikel 552a van het Wetboek van Strafvordering, het onderzoek, gelet op de aard van die procedure, niet anders dan summier kan zijn.</para>
+        <para>(...)</para>
+        <para>Hoewel de officier van justitie ter zitting heeft erkend dat het onderzoeksbelang ten aanzien van de overige voorwerpen is komen te vervallen, is de raadkamer – met de officier van justitie – van oordeel dat er desondanks wel een strafvorderlijk belang bestaat bij het voortduren van het beslag, te weten de mogelijkheid dat in de strafprocedure tegen klager de verbeurdverklaring van de goederen wordt uitgesproken. De raadkamer zal dat achtereenvolgens toelichten voor de in het klaagschrift genoemde goederen.</para>
+        <para>(...)</para>
+        <para>Het voorgaande betekent naar het oordeel van de raadkamer – marginaal toetsend – dat het niet hoogst onwaarschijnlijk is dat de rechter, later oordelend over de strafzaak tegen klager, de verbeurdverklaring van deze goederen zal uitspreken."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>	Vooropgesteld moet worden dat het onderzoek in raadkamer naar aanleiding van een klaagschrift als bedoeld in art. 552a Sv een summier karakter draagt. Dat betekent dat van de rechter niet kan worden gevergd ten gronde in de mogelijke uitkomst van een nog te voeren hoofdzaak of ontnemingsprocedure te treden. Daarvoor is in de beklagprocedure geen plaats omdat ten tijde van een dergelijke procedure veelal het dossier zoals dat uiteindelijk aan de zittingsrechter in de hoofd- of ontnemingszaak zal worden voorgelegd, nog niet compleet is en omdat voorkomen moet worden dat de beklagrechter vooruitloopt op het in de hoofd- of de ontnemingszaak te geven oordeel (vgl. HR 28 september 2010, LJN BL2823, NJ 2010/654). Hieruit volgt dat het onderzoek in raadkamer zich niet kan uitstrekken tot vragen die betrekking hebben op de mogelijke onrechtmatigheid van gebruik voor het bewijs van hetgeen door de inbeslagneming is verkregen (vgl. HR 12 februari 2013, LJN BV3004).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Namens de klager is onder meer aangevoerd dat "de in beslag genomen voorwerpen geen 'aangebrachte' hulpmiddelen betreffen in de zin van art. 441b Sr, zodat er geen sprake kan zijn van verdenking van overtreding van art. 441b van het Wetboek van Strafrecht en derhalve de inbeslagneming onrechtmatig is". De Rechtbank heeft geoordeeld dat "in tegenstelling tot hetgeen klager heeft betoogd (...) de delictsbestanddelen van artikel 441b van het Wetboek van Strafrecht in het onderhavige geval wel degelijk worden vervuld". Met de overweging van de Rechtbank dat zij "slechts marginaal de rechtmatigheid van het beslag en het belang van een rechtens juiste en zorgvuldige strafvordering toetst" heeft de Rechtbank kennelijk als haar oordeel tot uitdrukking gebracht dat het onderzoek in raadkamer een summier karakter heeft. Dat oordeel is juist. In het kader van een beklagprocedure dient de vraag of ten tijde van de inbeslagneming jegens de klager een redelijk vermoeden van schuld aan enig strafbaar feit bestond, beoordeeld te worden met het oog op beantwoording van de vraag of een belang van strafvordering aanwezig is voor het voortduren van het beslag. Voor zover hetgeen namens de klager is aangevoerd strekt ten betoge dat het beslag onrechtmatig is omdat niet bewezen kan worden dat de klager het strafbare feit van art. 441b Sr heeft gepleegd, heeft te gelden dat het onderzoek in raadkamer zich daartoe niet uitstrekt.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Het middel is tevergeefs voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <parablock>
+      <para>Het middel kan niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu het middel niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>	De Hoge Raad verwerpt het beroep</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Deze beschikking is gegeven door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren H.A.G. Splinter-van Kan en Y. Buruma, in bijzijn van de waarnemend griffier S.C. Rusche, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">2 juli 2013</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

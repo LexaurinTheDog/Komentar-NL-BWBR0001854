@@ -1,0 +1,11 @@
+# Tweede lezing — rechtspraak bij 437 en 441b
+
+Alle drie volledige officiële uitspraken zijn opnieuw opgehaald en gelezen; de rechterlijke teksten stemmen overeen met de auteursbronnen. [Controle en hashes](../sources/review-batch39-authority-check.json). De bestaande kaarten blijven met hun beperkingen bruikbaar: [Hof Den Haag](author-batch39-GHDHA-2021-1043-card.md), [Hoge Raad 2013](author-batch39-HR-2013-142-card.md).
+
+Hof Den Haag 30 maart 2021, zaak 200.245.590/01, ECLI:NL:GHDHA:2021:1043: r.o. 9–11 betreffen de reikwijdte van de toenmalige handelsregeling; 13–14 bevatten partijstellingen. De eigen beoordeling in 18–22 gebruikt een administratiegebrek voor een weerlegbaar civiel vermoeden tegen goede trouw. R.o. 23–26 wijzen de volledige autodiefstalschade af en kennen onderzoekskosten toe. De beslissing kent rente vanaf de dagvaarding toe; het gevorderde eerdere tijdstip uit r.o. 26 is geen toegewezen dictum. Geen automatische strafrechtelijke bewijslastomkering. [Volledige tekst](review-batch39-ECLI-NL-GHDHA-2021-1043.txt).
+
+HR 15 juli 2022, zaak 21/02729, ECLI:NL:HR:2022:1104, onderdelen 1–3: cassatieberoep verworpen met artikel 81 lid 1 RO. Geen zelfstandig gemotiveerde bekrachtiging van iedere formulering van het hof; de bij de reactie op de conclusie gevoegde brief is buiten beschouwing gebleven. [Volledige tekst](review-batch39-ECLI-NL-HR-2022-1104.txt).
+
+HR 2 juli 2013, zaak 12/02627 B, ECLI:NL:HR:2013:142, r.o. 2.2–2.5 en beslissing 4: het rechtbankoordeel over aangebrachte opnameapparatuur is geciteerd. De eigen HR-overweging betreft het summiere beslagonderzoek, het redelijke vermoeden bij inbeslagneming en het belang bij voortduring. Geen definitieve bewezenverklaring en geen algemene camerabrilregel. R.o. 3 verwerpt een tweede middel zonder nadere motivering. [Volledige tekst](review-batch39-ECLI-NL-HR-2013-142.txt), tevens vergeleken met het nationale corpus.
+
+Het hof behandelt feiten uit 2014–2015 en een oudere uitvoeringsregeling. De casus wordt alleen contextueel gebruikt; geen actuele digitale registratieplicht uit die regeling afgeleid. De bestanddelen van 441b zijn ook aanwezig in de huidige tekst met ingangsdatum 2004-01-01. Geen uitputtend onderzoek naar latere behandeling of externe professionele goedkeuring.

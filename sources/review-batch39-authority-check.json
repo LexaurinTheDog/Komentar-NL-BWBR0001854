@@ -1,0 +1,35 @@
+{
+  "reviewed_at": "2026-10-21T01:04:00.656135+00:00",
+  "search_scope": "Verification of every existing authority cited in assigned units; official ECLI content lookups and exact local national corpus lookup. No additional holding adopted.",
+  "full_text_read": [
+    {
+      "ecli": "ECLI:NL:HR:2013:142",
+      "path": "authorities/review-batch39-ECLI-NL-HR-2013-142.xml",
+      "sha256": "a57e8398ce3261470bf459edcdaa2ee110ff0b48ab181dd26c83fec7b7eea630",
+      "court_body_matches_author_snapshot": true
+    },
+    {
+      "ecli": "ECLI:NL:GHDHA:2021:1043",
+      "path": "authorities/review-batch39-ECLI-NL-GHDHA-2021-1043.xml",
+      "sha256": "ecb5b787686ea17488f0d4f9f9bd0b239bda36760c95de5afd6f96084d88e80c",
+      "court_body_matches_author_snapshot": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2022:1104",
+      "path": "authorities/review-batch39-ECLI-NL-HR-2022-1104.xml",
+      "sha256": "484481d67f89e17ea8f29407534650a9fab0ede8ee19962462d7bea9b44ef00c",
+      "court_body_matches_author_snapshot": true
+    }
+  ],
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-142.md",
+    "sha256": "30bfb0d14c61b885ff68de5018f13eb121478fb6da4a6562007860f33474f25d",
+    "snapshot": "authorities/author-batch39-local-HR-2013-142.md",
+    "read_full": true
+  },
+  "limits": [
+    "Selective authorities only; no exhaustive appeal/later-treatment audit.",
+    "For eighteen other units no sufficiently relevant verified case selected; no invented holdings.",
+    "External implementing rules not independently expounded; actual current scope must be checked per concrete case."
+  ]
+}

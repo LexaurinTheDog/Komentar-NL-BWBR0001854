@@ -1,5 +1,24 @@
 {
   "complete": true,
+  "decisive_date": "2026-10-19",
+  "review_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T01:02:10.690269+00:00",
+  "version_evidence": "sources/review-batch39-version-evidence.json",
+  "historical_versions_checked": {
+    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
+    "expressions": 126,
+    "historical_bodies_checked": true,
+    "change_map": "sources/review-batch39-historical-change-map.json"
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/review-batch39-effective.xml",
+      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
+    }
+  ],
+  "unresolved_blockers": [],
   "scope": [
     "a435f",
     "a436",
@@ -22,25 +41,6 @@
     "a446a",
     "a447"
   ],
-  "decisive_date": "2026-10-19",
-  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-21T00:55:40.437765+00:00",
-  "version_evidence": "sources/author-batch39-version-evidence.json",
-  "historical_versions_checked": {
-    "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
-    "expressions": 126
-  },
-  "historical_change_map": "sources/author-batch39-historical-change-map.json",
-  "annexes_checked": [
-    {
-      "status": "verified_absence",
-      "evidence_path": "sources/author-batch39-effective.xml",
-      "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
-    }
-  ],
-  "unresolved_blockers": [],
-  "coverage": "sources/author-batch39-coverage.json",
-  "limitations": [
-    "Decisive date is title authoring start, not batch-fetch time. Official repository manifest, WTI and XML used; pending amendments not included."
-  ]
+  "coverage": "sources/review-batch39-coverage.json",
+  "entry_page_limitation": "Browser fetch of dated wetten.overheid.nl page returned 429; official repository manifest, XML and WTI fetched HTTP 200 and format/hash validated. Effective version established by manifest intervals, not fetch date."
 }
