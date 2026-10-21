@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2010:BM8116</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T17:17:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BM8116</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2010-06-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">10/600012-09</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJFS 2010/230</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2010:BM8116">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2010:BM8116</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T06:33:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2010-06-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2010:BM8116 Rechtbank Rotterdam , 17-06-2010 / 10/600012-09</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2010:BM8116:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Promis. Strafzaak tegen vijf Somalische piraten. Ten laste is gelegd zeeroof ex artikel 381 van het Wetboek van Strafrecht. Verwerping van de verweren strekkende tot niet-ontvankelijkheid van de officier van justitie. Nederland heeft in het Wetboek van Strafrecht universele rechtsmacht gevestigd voor gevallen van piraterij op volle zee, welke nationale regeling niet in strijd is met internationale verdragen (SUA en UNCLOS). Toetsing van de processuele gang van zaken aan artikel 5 en 6 EVRM.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2010:BM8116:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <para>RECHTBANK ROTTERDAM</para>
+    <para />
+    <para>Sector strafrecht</para>
+    <para />
+    <parablock>
+      <para>Parketnummer: 10/600012-09</para>
+      <para>Datum uitspraak: 17 juni 2010</para>
+      <para>Tegenspraak </para>
+    </parablock>
+    <para />
+    <para>Vonnis van de rechtbank Rotterdam, meervoudige kamer voor strafzaken, in de zaak tegen de verdachte:</para>
+    <para />
+    <parablock>
+      <para>[Verdachte],</para>
+      <para>geboren op [geboortedatum] te [geboorteplaats] (Somalië),</para>
+      <para>ten tijde van het onderzoek op de terechtzitting preventief gedetineerd in de Penitentiaire Inrichting Krimpen aan den IJssel te Krimpen aan den IJssel,</para>
+      <para>raadsman mr. H. Raza, advocaat te Rotterdam.</para>
+    </parablock>
+    <para />
+    <para />
+    <para>ONDERZOEK OP DE TERECHTZITTING</para>
+    <para />
+    <para>Dit vonnis is gewezen naar aanleiding van het onderzoek op de terechtzittingen van 25 mei 2010, 26 mei 2010, 27 mei 2010, 1 juni 2010 en 3 juni 2010.</para>
+    <para />
+    <para />
+    <para>TENLASTELEGGING</para>
+    <para />
+    <para>Aan de verdachte is ten laste gelegd hetgeen is vermeld in de dagvaarding, zoals deze op de terechtzitting overeenkomstig de vordering van de officier van justitie is gewijzigd. De tekst van de gewijzigde tenlastelegging is als bijlage I aan dit vonnis gehecht. Deze bijlage maakt deel uit van dit vonnis.</para>
+    <para />
+    <para>Het ten laste gelegde komt er op neer dat de verdachte al dan niet samen met anderen in de Golf van Aden, als schipper en/of schepeling zeeroof heeft gepleegd.</para>
+    <para />
+    <para />
+    <para>EIS OFFICIER VAN JUSTITIE</para>
+    <para />
+    <parablock>
+      <para>De officieren van justitie mrs. Baan en Ferdinandusse (hierna: de officier van justitie) hebben gerekwireerd tot: </para>
+      <para>- vrijspraak van het deel van de tenlastelegging dat ziet op het deelnemen aan zeeroof als schipper;</para>
+      <para>- bewezenverklaring van het deel van de tenlastelegging dat ziet op het deelnemen aan zeeroof als schepeling;</para>
+      <para>- veroordeling van de verdachte tot een gevangenisstraf voor de duur van 7 jaar met aftrek van voorarrest.</para>
+    </parablock>
+    <para />
+    <para> </para>
+    <para>ONTVANKELIJKHEID VAN DE OFFICIER VAN JUSTITIE </para>
+    <para />
+    <para>Rechtsmacht</para>
+    <para />
+    <para>Beantwoord dient te worden de vraag of Nederland in deze zaak rechtsmacht toekomt. Bij een ontkennende beantwoording zou de officier van justitie niet-ontvankelijk in de vervolging moeten worden verklaard.</para>
+    <para />
+    <para>In de eerste plaats is hier van belang dat de Nederlandse wetgever voor de vervolging van zeeroof (artikel 381 van het Wetboek van Strafrecht (hierna: Sr)) zogeheten universele rechtsmacht heeft gevestigd. In artikel 4, aanhef en onderdeel 5 is namelijk bepaald, voor zover hier van belang, dat de Nederlandse strafwet van toepassing is op een ieder die zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in de artikelen 381 tot en met 385 Sr.</para>
+    <para />
+    <para>Vervolgens dient bezien te worden of, ondanks deze uitdrukkelijke wettelijke basis voor de rechtsmacht, regels van internationaal recht in de weg staan aan een vervolging van de verdachte in Nederland. Artikel 94 van de Grondwet bepaalt immers dat wettelijke voorschriften geen toepassing vinden, indien deze toepassing niet verenigbaar is met een ieder verbindende bepalingen van verdragen en van besluiten van volkenrechtelijke organisaties. Voor de goede orde moet hier worden opgemerkt, dat blijkens jurisprudentie van de Hoge Raad (zie Hoge Raad 18 september 2001, NJ 2002, 559, LJN AB1471 en Hoge Raad 8 juli 2008, LJN BC7418), de rechter de Nederlandse wet niet mag toetsen aan ongeschreven, doch slechts aan het geschreven volkenrecht.</para>
+    <para />
+    <parablock>
+      <para>In deze zaak zijn voor de toetsing als hiervoor bedoeld van belang de volgende twee verdragen, waarbij Nederland partij is: </para>
+      <para>- het Verdrag van de Verenigde Naties inzake het recht van de zee (United Nations Convention on the Law of the Sea), (hierna: UNCLOS) en </para>
+      <para>- het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart (Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation), (hierna: SUA). </para>
+    </parablock>
+    <para />
+    <para>UNCLOS</para>
+    <para />
+    <para>In artikel 105 UNCLOS is - kort samengevat en voor zover hier van belang - bepaald, dat in volle zee iedere staat gerechtigd is een piratenschip in beslag te nemen en de personen aan boord te arresteren en dat de rechter van die staat kan beslissen over op te leggen straffen. Deze verdragsbepaling voorziet aldus in een universele rechtsmacht voor de staat die tot aanhouding van piraterijverdachten overgaat. Dat deze rechtsmacht exclusief is in die zin dat deze in de weg staat aan de uitoefening van universele rechtsmacht die gebaseerd is op de nationale wetgeving van andere staten valt uit de bewoordingen van de bepaling niet af te leiden. En er zijn overigens ook geen aanwijzingen dat zulks bedoeld zou zijn.</para>
+    <para />
+    <para>SUA</para>
+    <para />
+    <para>In artikel 6, eerste en tweede lid SUA is aangegeven in welke gevallen de staten rechtsmacht moeten of kunnen vestigen voor de strafbare feiten waarop het verdrag betrekking heeft. In het vijfde lid van dit artikel is uitdrukkelijk bepaald dat het verdrag geen enkele in overeenstemming met de nationale wetgeving uitgeoefende rechtsmacht in strafrechtelijke aangelegenheden uitsluit. Uit een en ander volgt dat de universele rechtsmachtregeling van artikel 4, aanhef en onderdeel 5 Sr niet in strijd is met genoemde verdragen. Ook voor het overige is niet gebleken van strijdigheid met het geschreven volkenrecht.</para>
+    <para />
+    <para>Naar aanleiding van overwegingen van de Hoge Raad in het hiervoor reeds genoemde arrest van 18 september 2001, heeft de rechtbank voorts onderzocht of in de wetsgeschiedenis aanwijzingen te vinden zijn voor het oordeel dat een redelijke uitleg van de betreffende wetsbepalingen tot een zekere begrenzing van de ongeclausuleerd geformuleerde universele rechtsmacht zou moeten leiden, in die zin dat Nederland slechts rechtsmacht zou hebben indien daartoe een in een verdrag genoemd concreet aanknopingspunt voor de vestiging van rechtsmacht aanwezig zou zijn. Dergelijke aanwijzingen heeft de rechtbank echter niet aangetroffen.</para>
+    <para />
+    <para>De conclusie uit het hiervoor overwogene is, dat Nederland in de onderhavige zaak rechtsmacht heeft.</para>
+    <para />
+    <para>Tot slot wordt nog het volgende opgemerkt. Er zullen zich gevallen van piraterij kunnen voordoen waarbij Nederland op geen enkele wijze concreet betrokken is en waarin berechting van betrokken verdachten om die reden volstrekt niet voor de hand ligt en ongewenst lijkt. In die gevallen is echter niet de rechtsmacht van Nederland in geding, maar is denkbaar dat vervolging hier te lande niet toelaatbaar moet worden geacht, als zijnde in strijd met beginselen van een goede procesorde wegens het ontbreken van enig redelijk belang daarbij. De mogelijkheid van vervolging is aldus niet een vraag van rechtsmacht, maar van opportuniteit.</para>
+    <para />
+    <para>Opportuniteit</para>
+    <para />
+    <para>Van een situatie als zojuist omschreven is in deze zaak echter geen sprake. Allereerst is hier van belang dat Nederland, samen met andere landen, waaronder Denemarken, door de inzet van marineschepen een actieve rol speelt bij de feitelijke bestrijding van piraterij in de Golf van Aden. Bovendien zijn de verdachte en zijn medeverdachten aangehouden naar aanleiding van een aanval op een schip dat voer onder de vlag van de Nederlandse Antillen, welk land deel uitmaakt van het Koninkrijk der Nederlanden. Gelet op deze omstandigheden kan niet gezegd worden dat een vervolging in Nederland niet opportuun is in de hiervoor bedoelde zin.</para>
+    <para />
+    <para>Gelijkheidsbeginsel en willekeur</para>
+    <para />
+    <para>Door de verdediging is aangevoerd dat aan de officier van justitie het recht om de verdachte te vervolgen moet worden ontzegd, omdat die vervolging in strijd zou zijn met het gelijkheidsbeginsel en het verbod van willekeur. Aangevoerd wordt - zakelijk weergeven - dat vele andere piraterijverdachten, ook verdachten die zijn aangehouden door een Nederlands marineschip, zijn heengezonden en niet worden vervolgd.</para>
+    <para />
+    <para>Om te beginnen moet worden opgemerkt dat niet eenvoudig valt vast te stellen of er sprake is geweest van andere gevallen waarin de relevante feitelijke omstandigheden gelijk waren aan die in de onderhavige zaak. </para>
+    <para />
+    <para>Verder is van belang dat - zoals algemeen bekend mag worden verondersteld - er enerzijds inderdaad heenzendingen zoals door de verdediging bedoeld hebben plaatsgevonden, doch dat anderzijds de verdachten in deze zaak niet de enige in de Golf van Aden aangehouden piraterijverdachten zijn die strafrechtelijk worden vervolgd. </para>
+    <para />
+    <para>Voor zover er al vergelijkbare zaken zijn aan te wijzen waarin, anders dan in deze zaak, aangehouden piraterijverdachten in vrijheid zijn gesteld, betekent die omstandigheid op zichzelf nog niet dat de officier van justitie in deze zaak het recht om tot strafrechtelijke vervolging over te gaan moet worden ontzegd.</para>
+    <para />
+    <para>Gezien hetgeen hiervoor is overwogen moet het verweer worden verworpen.</para>
+    <para />
+    <para>Schending van de artikelen 5 en 6 EVRM</para>
+    <para />
+    <para>Aangevoerd is dat de artikelen 5, eerste lid sub c en derde lid en 6, derde lid sub d, van het Europees Verdrag voor de Rechten van de Mens (hierna: EVRM) zijn geschonden. De juridische basis voor de detentie aan boord van het Deense marineschip heeft ontbroken, de verdachte is niet onverwijld voorgeleid aan een rechter en de verdachte heeft gedurende lange tijd geen rechtsbijstand gehad. Een en ander dient te leiden tot niet-ontvankelijkheid van de officier van justitie in de vervolging, bewijsuitsluiting of verdiscontering in de strafmaat. </para>
+    <para />
+    <para>Gang van zaken</para>
+    <para />
+    <para>Op 2 januari 2009 is de verdachte, samen met vier medeverdachten, door de Deense autoriteiten aangehouden en vervolgens vastgehouden op het Deense marineschip Absalon. Op 14 januari 2009 is bij de officier van justitie een verzoek van de Deense autoriteiten binnengekomen om te bezien of het mogelijk was een strafrechtelijk onderzoek in te stellen tegen de verdachte. Op donderdag 15 januari 2009 is via het ministerie van Buitenlandse Zaken aan de autoriteiten in Denemarken bericht dat Nederland in staat en bereid was de vervolging en berechting van de vijf van zeeroof verdachte personen over te nemen. Op 16 januari 2009 heeft Nederland de aanhouding buiten heterdaad bevolen en is een Europees Aanhoudingsbevel verzonden aan de Deense autoriteiten. Op 30 januari 2009 gaven de Deense autoriteiten te kennen dat in dit geval de Deense uitleveringswet niet van toepassing was en dat zij de verdachten wilden overdragen op basis van UNCLOS. Een op 2 februari 2009 geplande overdacht kon geen doorgang vinden in verband met logistieke problemen. Op 10 februari 2009 zijn de verdachten in opdracht van de officier van justitie aangehouden door de Nederlandse politie en heeft vervolgens de feitelijke overdracht van de verdachte aan Nederland plaatsgehad. Op 11 februari 2009 is de verdachte aan de rechter-commissaris voorgeleid en is hem een raadsman toegevoegd.</para>
+    <para />
+    <para>Beoordeling gestelde schending artikel 5, eerste lid, EVRM</para>
+    <para />
+    <para>Vooropgesteld wordt dat de detentie van de verdachte in de periode tussen 2 januari 2009 en 10 februari 2009 is aan te merken als vrijheidsbeneming in de zin van artikel 5, eerste lid, onder c, EVRM.</para>
+    <para />
+    <para>De vraag die in het kader van artikel 5, eerste lid, EVRM beantwoord moet worden is of er een juridische basis is waarop de detentie van de verdachte kan worden gegrond voor de periode tussen het vastnemen van de verdachte op 2 januari 2009 tot aan het moment dat hij op 10 februari 2009 ter zake van overtreding van artikel 381 Sr is aangehouden door de Nederlandse autoriteiten. Het antwoord op die vraag luidt bevestigend en ligt besloten in de twee hiervoor reeds genoemde verdragen, waarbij zowel Nederland als Denemarken partij zijn. Meer in het bijzonder zijn daartoe van belang de artikelen 100 en 105 van UNCLOS en de artikelen 3 en 7 van SUA. </para>
+    <para />
+    <parablock>
+      <para>Artikel 105 UNCLOS luidt - voor zover van belang - als volgt:</para>
+      <para>“In volle zee of op andere plaatsen die buiten de rechtsmacht van enige Staat zijn gelegen, mag iedere Staat een piratenschip (…) of een schip (…) dat door piraten onderscheidenlijk kapers is overmeesterd en zich in hun macht bevindt, in beslag nemen, de personen aan boord arresteren en de goederen aan boord in beslag nemen. De gerechten van de Staat die de inbeslagneming heeft uitgevoerd, kunnen beslissen over de op te leggen straffen, (…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 100 UNCLOS luidt - voor zover van belang - als volgt:</para>
+      <para>Alle Staten werken zo nauw mogelijk samen ter onderdrukking van piraterij op volle zee of op andere plaatsen die buiten de rechtsmacht van enige Staat vallen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3 SUA luidt - voor zover van belang - als volgt:</para>
+      <para>1. Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk:</para>
+      <para>(a) door geweld, bedreiging met geweld of enige andere vorm van vreesaanjaging een schip in zijn macht brengt of houdt; </para>
+      <para>(…)</para>
+      <para>2. Aan een strafbaar feit maakt zich eveneens schuldig hij die:</para>
+      <para>(a) een poging doet een in het eerste lid genoemd strafbaar feit te plegen; </para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7 luidt - voor zover van belang - als volgt:</para>
+      <para>1. Een Staat-Partij op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt, neemt deze, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, in overeenstemming met zijn wetgeving in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid gedurende de tijd die nodig is voor het instellen van strafvervolging of een uitleveringsprocedure.</para>
+      <para>(…)</para>
+      <para>5. Wanneer een Staat-Partij krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de Staten die overeenkomstig artikel 6, eerste lid, hun rechtsmacht hebben vastgelegd, alsmede, wanneer hij dit nodig acht, alle andere belanghebbende Staten, onverwijld in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn hechtenis rechtvaardigen. (…)</para>
+    </parablock>
+    <para />
+    <para>Artikel 105 UNCLOS heeft een basis kunnen vormen voor het vastnemen van de verdachte. Het was immers de Deense Marine die zich op volle zee meester heeft gemaakt over het van piraterij verdachte schip van de verdachte. Op basis van dezelfde verdragsbepaling was het ook de Deense rechter die de mogelijkheid had te beslissen over de aan de verdachte op te leggen straffen. Hoewel een expliciete verwijzing naar voorarrest ontbreekt, dwingt een redelijke verdragsuitleg tot de conclusie dat op grond van deze bepaling Denemarken de verdachte ter berechting heeft mogen vasthouden. In het licht van artikel 100 UNCLOS valt ook voorarrest om berechting door een andere verdragsstaat, in casu Nederland, mogelijk te maken binnen die redelijke uitleg van artikel 105 UNCLOS. </para>
+    <para />
+    <para>Deze uitleg sluit welhaast naadloos aan bij de hiervoor genoemde bepalingen van SUA, welke eveneens de basis zouden hebben kunnen vormen voor de detentie in de periode tussen 2 januari 2009 en 10 februari 2009. </para>
+    <para />
+    <para>Gelet op artikel 3 SUA ziet dit verdrag ook op de onderhavige situatie. Er was immers op zijn minst genomen de verdenking dat de verdachte zich schuldig had gemaakt aan een poging om door geweld, bedreiging met geweld of enige andere vorm van vreesaanjaging de “MS Samanyolu” (hierna: de Samanyolu) in zijn macht te brengen. Geheel conform het bepaalde in artikel 7, vijfde lid, SUA heeft Denemarken Nederland op de hoogte gesteld van het vastnemen van de verdachte en is Denemarken de verdachte voor Nederland gaan vasthouden met het oog op over(uit)levering als bedoeld in artikel 7, eerste lid, SUA. </para>
+    <para />
+    <para>De conclusie is dan ook dat zowel UNCLOS als SUA een juridische basis hebben kunnen vormen voor de detentie voorafgaand aan de aanhouding door de Nederlandse autoriteiten. Van een schending van artikel 5, eerste lid, EVRM is dan ook geen sprake. </para>
+    <para />
+    <para>Beoordeling gestelde schending artikel 5, derde lid, EVRM</para>
+    <para />
+    <para>Op grond van het bepaalde in artikel 5, derde lid, EVRM diende de verdachte na zijn vastneming door de Deense autoriteiten onverwijld voor een rechter te worden geleid. Zoals hiervoor is vermeld, is de verdachte op 2 januari 2009 vastgenomen en op 11 februari 2009 voor de rechter-commissaris te Rotterdam geleid. Door de verdediging is gesteld dat een eerdere voorgeleiding niet heeft plaatsgevonden. Nu de officier van justitie dit niet heeft weersproken, wordt van de juistheid van die stelling uitgegaan. Tussen vastneming en voorgeleiding ligt dus een periode van 40 dagen. Dit is op zichzelf genomen niet als onverwijld aan te merken. </para>
+    <para />
+    <para>Zeer uitzonderlijke omstandigheden kunnen echter rechtvaardigen dat toch sprake is van een onverwijlde voorgeleiding in de zin van artikel 5, derde lid, EVRM (zie in dit verband het Europese Hof voor de Rechten van de Mens (hierna: EHRM) in de zaken Medvedyev en anderen tegen Frankrijk 29 maart 2010, no. 3394/03 en Rigopoulos tegen Spanje 12 januari 1999, no. 37388/97).</para>
+    <para />
+    <para>De officier van justitie heeft in het requisitoir als zeer uitzonderlijke omstandigheden naar voren gebracht dat het marineschip van de Denen op volle zee voer, het marineschip niet het doel had om verdachten aan te houden, de dichtstbijzijnde havens niet geschikt waren voor een voorgeleiding die “EVRM-proof” was en het marineschip niet de internationale missie waarvan hij deel uitmaakte kon verlaten. </para>
+    <para />
+    <para>Op de eerste plaats is het juist dat behoedzaamheid geboden was bij een keuze om de voorgeleiding te doen plaatsvinden in één van de landen rond de Golf van Aden. De politieke situatie aldaar noopte daar toe. Ten tweede rechtvaardigde ook het feit dat de Absalon op volle zee tot aanhouding kwam, dat enige tijd verloren is gegaan met de feitelijke overbrenging van de aangehouden verdachte naar het (Europese) vasteland. Het EHRM noemt in de bovengenoemde uitspraken deze omstandigheid vrijwel letterlijk als rechtvaardigingsgrond voor vertraging in de voorgeleiding. Ten slotte is het gegeven dat de Absalon niet onmiddellijk rechtsomkeert heeft gemaakt, in het licht van de missie waarvan zij deel uitmaakte, niet onbegrijpelijk te noemen. Ook dit kan daarom enige vertraging verklaren. </para>
+    <para />
+    <para>Deze omstandigheden zijn echter niet zodanig uitzonderlijk dat reeds op grond daarvan een periode van 40 dagen nog als onverwijld kan worden aangemerkt, ook niet wanneer deze in onderlinge samenhang worden bezien. De verdragsverplichting van artikel 5, derde lid, EVRM dwingt tot een actieve opstelling van de autoriteiten, ook als een (snelle) fysieke voorgeleiding op het eerste gezicht niet direct mogelijk is. In dat geval moet worden onderzocht of er andere mogelijkheden zijn om invulling te geven aan deze belangrijke verdragsverplichting. </para>
+    <para />
+    <para>Te denken valt daarbij aan een voorgeleiding middels Video Tele Conferencing, een communicatiemiddel dat in technisch hoog ontwikkelde landen zoals Denemarken aan boord van marineschepen mag worden verwacht. Dit geldt zeker wanneer deze schepen deelnemen aan maritieme missies, als waarvan hier sprake is, waar, in tegenstelling tot wat de officier van justitie heeft aangevoerd, men juist bedacht moet zijn op aanhoudingen van piraten. Uit een brief van de ministers van Justitie en Defensie van 29 maart 2009 (Kamerstukken II 29 251 no. 95) blijkt dat in ieder geval op Nederlandse marineschepen die deelnemen aan maritieme missies in de Golf van Aden dergelijke systemen voorhanden zijn, juist ter bescherming van de mensenrechten van aangehouden verdachten. </para>
+    <para />
+    <para>Een ander alternatief is een papieren toetsing van de vrijheidsbeneming. In het aangehaalde arrest Rigopoulos van het EHRM was de aanhouding van de betreffende verdachte reeds op voorhand door een rechter getoetst. Mede gelet hierop werd in die zaak geoordeeld dat geen sprake was van een schending van 5, derde lid, EVRM.</para>
+    <para />
+    <para>Uit het onderzoek op de terechtzitting is niet gebleken dat in deze zaak een snellere fysieke voorgeleiding aan een (Europese) rechter onmogelijk was. Evenmin is gebleken dat inspanningen zijn verricht om op een andere manier invulling te geven aan de verdragsverplichting van artikel 5, derde lid, EVRM toen een snelle fysieke voorgeleiding niet mogelijk bleek. Dit betekent dat in deze zaak een termijn van 40 dagen tussen de vastneming en de voorgeleiding een schending oplevert van dit verdragsartikel. </para>
+    <para />
+    <para>De vraag die vervolgens aan de orde komt, is of deze schending ook de Nederlandse autoriteiten valt aan te rekenen en of deze schending moet leiden tot niet-ontvankelijkverklaring van de officier van justitie in deze strafzaak.</para>
+    <para />
+    <para>De officier van justitie heeft zich op het standpunt gesteld in dit opzicht geen enkele verantwoordelijkheid te dragen voor de periode voorafgaand aan het moment dat de verdachte feitelijk werd overgedragen aan Nederland, dus voor 10 februari 2009.</para>
+    <para />
+    <para>De rechtbank deelt dit standpunt niet. </para>
+    <para />
+    <para>Met de aanhouding van de vijf verdachten op volle zee door de Denen op 2 januari 2009 was een situatie met complexe internationaalrechtelijke aspecten ontstaan. Op 15 januari 2009 werd duidelijk dat Nederland de vervolging en berechting van de verdachten op zich wilde nemen en is de Nederlandse officier van justitie formeel bij deze zaak betrokken geraakt. Nadien hebben de Deense en de Nederlandse autoriteiten contacten met elkaar onderhouden - zoals ook blijkt uit de stukken - over kwesties van praktische en juridische aard die verbonden waren aan de overdracht van de verdachten. Het zou niet juist zijn om in deze bijzondere zaak, waarin Denemarken en Nederland in nauw overleg samenwerkten, de verantwoordelijkheid voor de naleving van de bepalingen van het EVRM uitsluitend bij de Denen te leggen zolang de aangehouden verdachten nog niet feitelijk waren overgedragen. Op zijn minst genomen had van de Nederlandse officier van justitie verwacht mogen worden dat bij de Denen de noodzaak van een onverwijlde voorgeleiding aan een rechter ter sprake was gebracht. Dat zulks is gebeurd is niet gesteld en niet gebleken.</para>
+    <para />
+    <parablock>
+      <para>Hier staat echter het volgende tegenover. </para>
+      <para>De vastneming van de verdachte door de Deense marine heeft niet op lichtvaardige gronden plaatsgevonden en had betrekking op een ernstig strafbaar feit. Voorts heeft de officier van justitie vanaf 15 januari 2009 niet stilgezeten, maar actief geprobeerd om de verdachte fysiek te geleiden voor een Nederlandse rechter. Toen op 10 februari 2009 de Nederlandse officier van justitie formeel verantwoordelijk werd voor de detentie van de verdachte, heeft deze voorgeleiding binnen één dag plaats gevonden. Deze voorgeleiding heeft niet geleid tot de invrijheidstelling van de verdachte. </para>
+    </parablock>
+    <para />
+    <para>Verder is er geen aanleiding om te oordelen dat het hier geconstateerde verzuim afbreuk heeft gedaan aan het recht van de verdachte op een eerlijke berechting zoals voorgeschreven in artikel 6 EVRM. Onder deze omstandigheden is de schending van de verdragsbepaling van artikel 5, derde lid, EVRM niet van dien aard, dat deze moet leiden tot de niet-ontvankelijkheid de officier van justitie. Volstaan zal worden met de vaststelling dat een schending heeft plaatsgehad. </para>
+    <para />
+    <para>Beoordeling gestelde schending artikel 6 EVRM.</para>
+    <para />
+    <para>Vooropgesteld moet worden dat een recht op rechtsbijstand in de zin van artikel 6, derde lid, onder c EVRM ontstaat op het moment dat sprake is van een vervolging. De eerste vraag die daarom beantwoord moet worden, is op welk moment de vervolging in de zin van genoemd verdragsartikel is aangevangen. </para>
+    <para />
+    <para>Zoals reeds eerder is vermeld, is de verdachte op 2 januari 2009 vastgenomen. Op 16 januari 2009 heeft Nederland de aanhouding buiten heterdaad bevolen en is een Europees Aanhoudingsbevel verzonden aan de Deense autoriteiten. Op 10 februari 2009 heeft de feitelijke overdracht van de verdachte aan Nederland plaatsgehad. De verdachte heeft op 11 februari 2009 een raadsman toegevoegd gekregen.</para>
+    <para />
+    <para>Pas vanaf 16 januari 2009 kan worden gespoken van een vervolging in voornoemde zin. Daarvoor was immers nog onduidelijk of en zo ja door wie, een vervolging tegen de verdachte zou worden ingesteld. De verdachte heeft tussen 16 januari 2009 en 10 februari 2009 geen rechtsbijstand gehad. In die periode hebben echter geen strafprocessuele handelingen plaatsgehad waarbij rechtsbijstand nodig was. Immers pas op 10 februari 2009 heeft een eerste verdachtenverhoor plaatsgehad. Gesteld noch gebleken is van andere zodanig klemmende belangen bij rechtsbijstand in genoemde periode, dat door het ontbreken daarvan het strafproces van de verdachte zodanig is beïnvloed dat geen sprake meer is geweest van een eerlijk proces als geheel in de zin van artikel 6 EVRM.  </para>
+    <para />
+    <para>Leugenachtig proces-verbaal </para>
+    <para />
+    <para>Aangevoerd is dat de officier van justitie niet-ontvankelijk is in de vervolging, aangezien er sprake is van een zodanig verzuim in het voorbereidend onderzoek, dat de behandeling van de zaak niet aan de beginselen van een behoorlijke procesorde voldoet. De raadsman heeft hiertoe aangevoerd dat verbalisant 6718 in het proces-verbaal van bevindingen nummer RN-090, betreffende het in kennis stellen van de raadslieden, in strijd met de waarheid en in strijd met zijn ambtseed heeft gerelateerd dat hij het kantoor van de raadsman op 19 februari 2009 om 16.30 uur in kennis heeft gesteld van het feit dat het verhoor van de verdachte die dag omstreeks 17.45 uur zou plaatsvinden, terwijl dit telefoongesprek in werkelijkheid om 16.57 uur heeft plaatsgehad. Volgens de raadsman heeft de betreffende verbalisant dit klaarblijkelijk gedaan met de bedoeling om de rechtbank ten onrechte te doen geloven dat de raadsman tijdig in kennis is gesteld van het verhoor en desondanks niet is komen opdagen. </para>
+    <para />
+    <para>De feiten die aan dit verweer ten grondslag liggen zijn niet komen vast te staan, zodat reeds om die reden het beroep van de raadsman op de niet-ontvankelijkheid van de officier van justitie moet worden verworpen.   </para>
+    <para />
+    <para>Conclusie</para>
+    <para />
+    <para>Gezien het hiervoor overwogene dient de officier van justitie ontvankelijk te worden verklaard in de vervolging.</para>
+    <para />
+    <para />
+    <para>MOTIVERING VRIJSPRAAK</para>
+    <para />
+    <para>Het deel van de tenlastelegging dat ziet op het deelnemen aan zeeroof als schipper, is niet wettig en overtuigend bewezen, zodat de verdachte daarvan dient te worden vrijgesproken. De officier van justitie heeft dit ook gevorderd, terwijl het eveneens is bepleit door de raadsman. </para>
+    <para />
+    <para />
+    <para>BEWIJS</para>
+    <para />
+    <para>Salduz</para>
+    <para />
+    <para>Aangevoerd is dat uit jurisprudentie van het EHRM een aanwezigheidsrecht voor de raadsman bij politieverhoren is af te leiden. Nu dit recht niet is geëffectueerd, dienen de verklaringen die zijn afgelegd zonder dat de raadsman daarbij aanwezig is geweest van het bewijs te worden uitgesloten. Verder is aangevoerd dat het - door de Hoge Raad erkende - consultatierecht is geschonden, nu de verdachte pas op 11 februari 2009 van rechtsbijstand is voorzien. Ook dit vormverzuim dient bewijsuitsluiting van de verklaringen van de verdachte tot gevolg te hebben. Ten slotte is aangevoerd dat de Salduzregels derdenwerking hebben, zodat ook de verklaringen van de medeverdachten van het bewijs moeten worden uitgesloten.</para>
+    <para />
+    <parablock>
+      <para>Gang van zaken</para>
+      <para>Op 11 februari 2009 is de verdachte voor de rechter-commissaris geleid ter toetsing van de vordering inbewaringstelling. Bij deze gelegenheid is de verdachte een raadsman toegevoegd en is zijn consultatierecht feitelijk geëffectueerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Beoordeling</para>
+      <para>De aangehaalde jurisprudentie van het EHRM noopt niet tot een andere interpretatie van de in het Salduzarrest (Hoge Raad 30 juni 2009, NJ 2009, 349, LJN BH3079) door de Hoge Raad uitgezette lijn dat de verdachte voorafgaand aan het eerste politieverhoor het recht heeft een advocaat te consulteren, maar dat er geen recht op de aanwezigheid van een advocaat bij het politieverhoor bestaat.</para>
+    </parablock>
+    <para />
+    <para>Vast staat dat de verdachte vóór 11 februari 2009 al als verdachte is gehoord. Aldus heeft de verdachte geen gelegenheid gehad om voorafgaand aan het eerste verhoor door de politie een advocaat te raadplegen. In de lijn van de genoemde jurisprudentie levert dit een vormverzuim op in de zin van artikel 359a van het Wetboek van Strafvordering (hierna: Sv).</para>
+    <para />
+    <para>De verklaringen die door de verdachte voor 11 februari 2009 zijn afgelegd worden echter niet voor het bewijs gebruikt zodat de verdachte in zoverre geen belang heeft bij een verdere bespreking van zijn tot bewijsuitsluiting van die verklaringen strekkend verweer.</para>
+    <para />
+    <parablock>
+      <para>De verklaringen van na 11 februari 2009 zijn geen verklaringen die zijn verkregen als een rechtstreeks gevolg van verklaringen die vóór 11 februari 2009 zijn afgelegd. De verklaringen van na 11 februari 2009 zijn immers afgelegd nadat de verdachte zijn raadsman heeft kunnen consulteren en hem de in artikel 29, tweede lid, Sv bedoelde mededeling is gedaan dat hij niet verplicht is tot antwoorden. Voorts is gesteld noch gebleken dat resultaten van de verhoren na consultatie van de raadsman op enige wijze rechtstreeks zijn beïnvloed door de eerdere verklaringen van de verdachte. </para>
+      <para>De verklaringen van de verdachte van na 11 februari 2009 kunnen en zullen daarom voor het bewijs worden gebruikt.</para>
+      <para>Op grond van dezelfde overweging als hiervoor gegeven, kunnen ook de verklaringen van de medeverdachten afgelegd na 11 februari 2009 worden gebruikt voor het bewijs. </para>
+    </parablock>
+    <para />
+    <para>Gebruik voor het bewijs van de verklaringen van de bemanning van de Samanyolu</para>
+    <para />
+    <para>Aangevoerd is dat de verklaringen die door de bemanning van de Samanyolu over de gebeurtenissen op 2 januari 2009 zijn afgelegd, behoudens die van het bemanningslid [bemanningslid 1], niet mogen worden gebruikt voor het bewijs, omdat de verdediging niet in de gelegenheid is geweest de bemanningsleden rechtstreeks te bevragen.</para>
+    <para />
+    <parablock>
+      <para>Gang van zaken</para>
+      <para>Door de verdediging is bij de rechter-commissaris een verzoek gedaan om alle bemanningsleden van de Samanyolu als getuige te horen. Dit verzoek is door de rechter-commissaris toegewezen. De rechter-commissaris heeft met ondersteuning van de officier van justitie zich ingespannen om de bemanningsleden te horen in aanwezigheid van de verdediging en de officier van justitie. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze inspanningen hebben geresulteerd in een verhoor van [bemanningslid 1] door de Turkse officier van justitie in aanwezigheid van de verdediging en de Nederlandse officier van justitie. Eerder al was deze [bemanningslid 1], net als zijn medebemanningsleden [bemanningslid 2], [kapitein], [bemanningslid 3] en [eigenaar van de Samanyolu], gehoord door de Turkse officier van justitie. De verdediging en de Nederlandse officier van justitie waren bij die verhoren echter niet aanwezig. </para>
+      <para>Beoordeling</para>
+      <para>Vooropgesteld wordt dat in een geval als het onderhavige waarin de verdediging niet in enig stadium de gelegenheid heeft gehad de persoon die een verklaring tegenover de politie heeft afgelegd te (doen) ondervragen, artikel 6 EVRM niet zonder meer in de weg staat aan het gebruik tot het bewijs van een dergelijke verklaring als de betrokkenheid van de verdachte bij het hem tenlastegelegde feit in voldoende mate steun vindt in andere bewijsmiddelen en dit steunbewijs betrekking heeft op die onderdelen van de hem belastende verklaring die hij betwist.</para>
+    </parablock>
+    <para />
+    <para>Voor zover van belang heeft de verdachte zich op het standpunt gesteld dat hij en zijn medeverdachten geen aanval op de Samanyolu hebben ingezet. Zij zouden zich slechts hebben verweerd tegen een aanval van de bemanningsleden van de Samanyolu toen zij vanwege motorpech, hen om hulp wilden vragen. Daarbij zouden de verdachte en de medeverdachten geen gebruik hebben gemaakt van een raketwerper. De bemanningsleden van de Samanyolu hebben op beide punten andersluidend verklaard. </para>
+    <para />
+    <para>De verklaringen van de bemanningsleden over de vraag wie op 2 januari 2009 als eerste is overgegaan tot het plegen van geweld en over het gebruik van een raketwerper, kunnen en zullen worden gebruikt voor het bewijs. Hun verklaringen op deze punten vinden in voldoende mate steun in andere bewijsmiddelen, onder andere in de verklaringen van de wel door de verdediging ondervraagde getuige [bemanningslid 1]. </para>
+    <para />
+    <para />
+    <para>BEWIJSMOTIVERING </para>
+    <para />
+    <para>Op grond van de gebezigde bewijsmiddelen welke in bijlage II van dit vonnis zijn opgenomen, kunnen de navolgende feiten als vaststaand worden aangemerkt. </para>
+    <para />
+    <para>Op het vasteland van Somalië hebben [medeverdachte 1], [medeverdachte 2], [medeverdachte 3] en de verdachte het plan opgevat om samen naar zee te gaan om een schip te kapen. Voor vertrek hebben ze [medeverdachte 4] op de hoogte gesteld van dit plan. Hij besloot mee te gaan. Eind december 2008 zijn ze met zijn vijven in een kleine boot de zee opgegaan met de bedoeling om een schip te gaan beroven. Er waren drie automatische geweren, een raketwerper en een ladder aan boord. Ze zijn vertrokken vanaf de kust van Somalië en gevaren in de richting van Jemen, omdat ze via de radio hadden gehoord dat de kans dan groot was om schepen aan te treffen. Op 2 januari 2009 zagen zij op volle zee, in de Golf van Aden, tussen Somalië en Jemen de Samanyolu varen. Ze voeren met hoge snelheid op de Samanyolu af. Toen ze het schip dicht waren genaderd, hebben ze met hun geweren schoten gelost in de richting van de Samanyolu. </para>
+    <para />
+    <para>Aangevoerd is dat de verdachte en zijn medeverdachten de Samanyolu hebben beschoten in reactie op eerder geweld van de bemanning van de Samanyolu. </para>
+    <para />
+    <parablock>
+      <para>Beoordeling</para>
+      <para>Het verweer is door de verdediging geplaatst in de sleutel van het leerstuk noodweer. Gelet op de tenlastelegging, die is toegesneden op de delictsomschrijving van artikel 381 Sr, moet dit verweer echter beschouwd worden als een bewijsverweer. Met de stelling dat de verdachte en zijn medeverdachten zijn aangevallen en dat zij zich slechts hebben verdedigd, ontkent de verdachte immers dat het vaartuig waarop hij heeft dienstgenomen dan wel in dienst is gebleven ”is gebruikt om daden van geweld te plegen” in de zin van artikel 381 Sr. Het verweer wordt verworpen. De kapitein en de andere bemanningsleden van de Samanyolu hebben op dit punt anders verklaard. Hun verklaringen dat de verdachte en zijn medeverdachten als eerste zijn overgegaan tot het plegen van geweld, worden ondersteund door de verklaring die de tactische waarnemer aan boord van de Deense helikopter tegenover de politie heeft afgelegd. Volgens hem is de boot waarin de verdachte en zijn medeverdachten zich bevonden de Samanyolu genaderd in een zogeheten ”aanvalsprofiel”, dat wil zeggen: van achteren en met een agressief hoge snelheid. Op grond daarvan bestond er bij hem geen twijfel dat het ging om een poging tot kaping. Gelet hierop en in aanmerking genomen dat de verdachte en zijn medeverdachten waren uitgevaren met de bedoeling om een schip te kapen, is wettig en overtuigend bewezen dat het door de verdachte en zijn medeverdachten gebruikte geweld, daden van geweld waren als bedoeld in artikel 381 Sr. </para>
+    </parablock>
+    <para />
+    <para />
+    <para>BEWEZENVERKLARING</para>
+    <para />
+    <para>Wettig en overtuigend is bewezen dat de verdachte het ten laste gelegde heeft begaan op die wijze:</para>
+    <para />
+    <para>dat hij in de periode van 30 december 2008 tot en met 2 januari 2009, op volle zee, in de Golf van Aden, tussen Somalië en Jemen, tezamen en in vereniging met  anderen, als schepeling heeft dienstgenomen en dienst gedaan op een vaartuig, dat bestemd was en gebruikt werd om in open zee daden van geweld te plegen tegen andere vaartuigen en tegen zich daarop bevindende personen en/of goederen, terwijl hij bekend was met deze bestemming en dit gebruik  welk gepleegd geweld bestond uit het schieten met automatische vuurwapens en een raketwerper in de richting van, het vaartuig MS Samanyolu, zonder door een oorlogvoerende mogendheid daartoe gemachtigd te zijn of tot de oorlogsmarine van een erkende mogendheid te behoren.</para>
+    <para />
+    <para>Hetgeen meer of anders is ten laste gelegd is niet bewezen. De verdachte moet ook daarvan worden vrijgesproken.</para>
+    <para />
+    <para />
+    <para>TOELICHTING OP DE BEWEZENVERKLARING </para>
+    <para />
+    <para>Uitleg “dienst nemen”</para>
+    <para />
+    <para>De tenlastelegging houdt voor zover hier van belang in dat de verdachte op volle zee, ergens in de Golf van Aden tussen Somalië en Jemen, heeft dienstgenomen als bemanningslid op - kort gezegd - een piratenschip. Door de verdachte specifiek dit verwijt te maken, heeft de steller van de tenlastelegging een probleem gecreëerd. </para>
+    <para />
+    <para>Volgens het zeerecht omvat de volle zee alle delen van de zee die niet tot de interne en territoriale wateren van een Staat behoren. In het algemeen spraakgebruik wordt met “dienst nemen op een schip” bedoeld “aanmonsteren”. Dit begrip omvat zowel de aanmelding als bemanningslid van een schip als de daadwerkelijke eerste betreding van het schip in die hoedanigheid.</para>
+    <para> </para>
+    <para>In deze zaak heeft het dienst nemen van de verdachte op het schip in de zin van “aanmonsteren” plaatsgevonden op het Somalische vasteland of in de Somalische territoriale wateren en in ieder geval niet op volle zee. Als bij de uitleg van het begrip “dienstgenomen” aansluiting wordt gezocht bij wat daarmee in het algemeen spraakgebruik wordt bedoeld, dan zou de verdachte reeds om die reden van dit onderdeel van de tenlastelegging moeten worden vrijgesproken. </para>
+    <para> </para>
+    <para>Het proefschrift “Iets over het misdrijf van zeeroof, volgens de artt. 443-447 van het Ontwerp-Wetboek van Strafrecht (1875) uit 1878” van dr. A.L.E. Gastmann bevat echter aanknopingspunten voor de opvatting dat aan de uitdrukking “als schepeling dienst nemen” uit artikel 381 Sr een andere - ruimere - betekenis moet worden toegekend dan die naar algemeen spraakgebruik. Reeds toen werd in de strafbaarstelling van zeeroof onderscheid gemaakt tussen de schipper en de schepeling. Net als nu was de schipper strafbaar als hij “dienst nam of dienst deed” op een piratenschip, terwijl bij de schepeling het “dienst nemen of in dienst blijven” strafbaar was gesteld. Volgens Gastmann heeft de eerste woordgroep echter dezelfde betekenis als de laatste. Het onderscheid in de zegswijze is slechts gemaakt om het verschil in positie en verantwoordelijkheid aan te geven tussen de kapitein en een bemanningslid. </para>
+    <para />
+    <para>De rechtbank onderschrijft het standpunt van Gastmann dat het de bedoeling van de wetgever moet zijn geweest om ook gevallen waarin de schepeling dienst doet op een piratenschip onder het bereik van de strafbaarstelling van artikel 381 Sr te brengen. Een redelijke uitleg van het begrip “dienst nemen” in de strafbaarstelling van zeeroof door een schepeling brengt dan mee, dat hieronder mede wordt verstaan het “dienst doen” op een piratenschip. </para>
+    <para />
+    <para>Uit het onderzoek op de terechtzitting is gebleken dat de verdachte op volle zee als bemanningslid dienst heeft gedaan op een schip, terwijl hij wist dat dit schip bestemd was en gebruikt werd om in open zee andere schepen te (be)roven. </para>
+    <para />
+    <para>Om die reden is gekomen tot de bewezenverklaring van het onderdeel “dienstgenomen” van de tenlastelegging.</para>
+    <para />
+    <para />
+    <para>Uitleg machtiging/oorlogsmarine </para>
+    <para />
+    <para>Artikel 381 Sr bevat de clausulering dat de zeerover niet door een oorlogvoerende mogendheid tot zijn daden is gemachtigd of tot de oorlogsmarine van een erkende mogendheid behoort. </para>
+    <para />
+    <para>Op de terechtzitting heeft de officier van justitie de vraag opgeworpen of deze clausulering een bestanddeel van het strafbare feit dan wel een rechtvaardigingsgrond betreft. Naar het oordeel van de officier van justitie betreft voornoemde clausulering een bijzondere strafuitsluitingsgrond, die niet ten laste gelegd en bewezen hoeft te worden. </para>
+    <para />
+    <parablock>
+      <para>Beoordeling</para>
+      <para>De clausulering dat de zeerover niet door een oorlogvoerende mogendheid tot zijn daden is gemachtigd of tot de oorlogsmarine van een erkende mogendheid behoort, is opgenomen in de zin van de delictsomschrijving die de strafbepaling zelf bevat. Doorgaans is dit het geval als sprake is van een bestanddeel van de delictsomschrijving. </para>
+    </parablock>
+    <para />
+    <para>Ook in dit geval moet dat de bedoeling van de wetgever zijn geweest. Immers, niet voorstelbaar is dat de wetgever bij de strafbaarstelling van het delict zeeroof de schipper of schepeling die wél door een oorlogvoerende mogendheid tot zijn daden is gemachtigd of tot de oorlogsmarine van een erkende mogendheid behoort, als een - weliswaar niet strafbare - zeerover heeft willen aanmerken. </para>
+    <para />
+    <para>Gesteld noch gebleken is dat de verdachte en zijn medeverdachten door een oorlogvoerende mogendheid tot hun daden zijn gemachtigd of dat zij tot de oorlogsmarine van een erkende mogendheid behoren. </para>
+    <para />
+    <para>Om die reden is gekomen tot de bewezenverklaring van dit onderdeel van de tenlastelegging.</para>
+    <para />
+    <para />
+    <para>STRAFBAARHEID FEIT</para>
+    <para />
+    <para>Het bewezen feit levert op: </para>
+    <para />
+    <para>Medeplegen van zeeroof</para>
+    <para />
+    <para>Het feit is strafbaar.</para>
+    <para />
+    <para />
+    <para>STRAFBAARHEID VERDACHTE</para>
+    <para />
+    <para>De verdachte is strafbaar.</para>
+    <para />
+    <para />
+    <para>STRAFMOTIVERING </para>
+    <para />
+    <para>De straf die aan de verdachte wordt opgelegd, is gegrond op de ernst van het feit, de omstandigheden waaronder het feit is begaan en de persoon en de persoonlijke omstandigheden van de verdachte. Daarbij wordt in het bijzonder het volgende in aanmerking genomen. </para>
+    <para />
+    <parablock>
+      <para>De verdachte heeft zich, samen met zijn vier medeverdachten, schuldig gemaakt aan zeeroof. De verdachte en zijn medeverdachten zijn met een boot de zee opgegaan met de intentie om een schip te kapen. Hiertoe hebben zij automatische vuurwapens, een raketwerper en een ladder aan boord meegenomen. In de Golf van Aden hebben de verdachte en zijn medeverdachten vervolgens de Samanyolu aangevallen, bij welke aanval zij met vuurwapens en een raketwerper in de richting van de Samanyolu en haar bemanning hebben geschoten. Het is slechts een gelukkig toeval geweest dat hierbij niemand is gedood of gewond is geraakt. De bemanningsleden van de Samanyolu, die zich in het kader van de uitoefening van hun beroep op volle zee bevonden, hebben gedurende deze aanval zeer angstige momenten beleefd. Het wordt de verdachte en zijn medeverdachten zwaar aangerekend dat zij slechts oog hebben gehad voor hun eigen financieel gewin en zich niet hebben bekommerd om de schade en overlast die zij aan de benadeelden hebben toegebracht. </para>
+      <para>Het aantal gevallen van zeeroof en kapingen van schepen in de Golf van Aden is sinds 2008 fors toegenomen. Omdat door piraten grote sommen losgeld gevraagd worden voor de bevrijding van een gekaapt schip en haar gegijzelde bemanning, vormt piraterij een uiterst lucratieve bezigheid. Inmiddels vormt piraterij een ernstige bedreiging voor het internationaal erkende recht op vrije doorgang op internationale wateren. De Golf van Aden vormt één van de drukst bevaren zeevaartroutes ter wereld zodat de bedreiging van de veiligheid van de schepen die deze route bevaren, mondiale economische gevolgen heeft. Ook komt de voedselhulp van het Wereld Voedsel Programma van de Verenigde Naties aan Somalië door piraterij en de constante dreiging daarvan in het gedrang. Zeeroof is dan ook een ernstig feit, waartegen krachtig dient te worden opgetreden. </para>
+    </parablock>
+    <para />
+    <para>De ernst van het feit gebiedt oplegging van gevangenisstraf van aanmerkelijke duur.</para>
+    <para />
+    <para>Bij het bepalen van de op te leggen straf is voorts het volgende in aanmerking genomen. </para>
+    <para />
+    <para>De verdachte is afkomstig uit Somalië. Het is algemeen bekend dat Somalië een onveilig land is, zonder effectief centraal gezag. Strijdende partijen vechten hun conflicten uit in een sfeer van straffeloosheid, bij welke conflicten veel burgerslachtoffers zijn gevallen. Daarbij worden de mensenrechten in Somalië met voeten getreden en wordt Somalië geteisterd door droogte en hongersnood.</para>
+    <para />
+    <para>Hoewel het niet mogelijk is gebleken om de persoonlijke omstandigheden van de verdachte te verifiëren, wil de rechtbank aannemen dat deze persoonlijke omstandigheden schrijnend zijn. De verdachte heeft verklaard dat tijdens zijn detentie zijn tweede kind geboren is. De verdachte heeft voorts verklaard dat hem het bericht heeft bereikt dat zijn vrouw en kinderen momenteel in een vluchtelingenkamp in Kenia verblijven. Ook heeft de verdachte verklaard dat zijn vrouw hun relatie, op aandringen van haar familie, heeft beëindigd en dat zijn vrouw is mishandeld door haar familie. Voorts heeft de verdachte verklaard dat hij zich veel zorgen maakt om zijn familieleden in Somalië.    </para>
+    <para />
+    <para>Bovengeschetste ongunstige omstandigheden in Somalië - zowel in algemene zin als de persoonlijke situatie van de verdachte betreffende - kunnen echter niet een rechtvaardiging vormen voor het plegen van strafbare feiten. Toch kan er niet geheel aan voorbijgegaan worden dat de bestraffing in deze zaak plaatsvindt tegen die achtergrond.</para>
+    <para />
+    <para>Voorts wordt in de volgende omstandigheden aanleiding gezien de op te leggen gevangenisstraf enigszins te matigen ten opzichte van de eis van de officier van justitie.</para>
+    <para />
+    <para>In aanmerking wordt genomen, zij het slechts in marginale zin, dat in andere gevallen van zeeroof, welke gevallen in meer of mindere mate vergelijkbaar zijn met de onderhavige zaak, de aangehouden verdachten zijn heengezonden en geen strafvervolging is ingesteld. </para>
+    <para />
+    <para>De verdachte is overgebracht naar Nederland. Aangenomen wordt dat detentie in Nederland een zware belasting voor de verdachte vormt, aangezien hij berichten heeft ontvangen dat zijn familie mede door zijn afwezigheid in nood verkeert en hij in detentie een zeer geïsoleerd bestaan leidt. De verdachte is immers ver van huis en zijn familie, ontvangt geen bezoek in het Huis van Bewaring en het onderhouden van contact met zijn familie in Somalië is onmogelijk, althans verloopt uiterst moeizaam.  </para>
+    <para />
+    <para>Verder wordt er rekening mee gehouden dat niet is gebleken dat de verdachte en zijn medeverdachten deel hebben uitgemaakt van een groter georganiseerd verband van piraten. </para>
+    <para />
+    <para>Voor wat betreft de eerder besproken schending van artikel 5, derde lid, EVRM wordt herhaald dat daaraan geen gevolgen worden verbonden bij de strafoplegging.</para>
+    <para />
+    <para>Alles overziend wordt na te noemen straf passend en geboden geacht.</para>
+    <para />
+    <para />
+    <para>TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN</para>
+    <para />
+    <para>Gelet is op de artikelen 47 en 381 Sr.</para>
+    <para />
+    <para />
+    <para>BESLISSING</para>
+    <para />
+    <para>De rechtbank:</para>
+    <para />
+    <para>verklaart de officier van justitie ontvankelijk in de vervolging;</para>
+    <para />
+    <para>verklaart niet bewezen dat de verdachte als schipper heeft deelgenomen aan zeeroof en spreekt de verdachte daarvan vrij;</para>
+    <para />
+    <para>verklaart bewezen, dat de verdachte als schepeling heeft deelgenomen aan zeeroof, zoals hiervoor omschreven;</para>
+    <para />
+    <para>verklaart niet bewezen hetgeen aan de verdachte meer of anders ten laste is gelegd dan hiervoor bewezen is verklaard en spreekt de verdachte ook daarvan vrij;</para>
+    <para />
+    <para>stelt vast dat het bewezen verklaarde oplevert het hiervoor vermelde strafbare feit;</para>
+    <para />
+    <para>verklaart de verdachte strafbaar;</para>
+    <para />
+    <para>veroordeelt de verdachte tot een gevangenisstraf voor de tijd van 5 (zegge: VIJF) jaar;</para>
+    <para />
+    <para>beveelt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, alsmede de tijd die vanaf 2 januari 2009 tot aan de dag van de overdracht aan Nederland in detentie is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering wordt gebracht, voor zover deze tijd niet reeds op een andere vrijheidsstraf in mindering is gebracht.</para>
+    <para />
+    <para />
+    <para>Dit vonnis is gewezen door:</para>
+    <para />
+    <parablock>
+      <para>mr. Klein Wolterink, voorzitter,</para>
+      <para>en mrs. Janssen en Van den Enden, rechters,</para>
+      <para>in tegenwoordigheid van mrs. Commandeur en Schut, griffiers,</para>
+      <para>en uitgesproken op de openbare terechtzitting van deze rechtbank op 17 juni 2010.</para>
+    </parablock>
+    <para />
+    <para> </para>
+    <para>Bijlage I bij vonnis van 17 juni 2010:</para>
+    <para />
+    <para />
+    <para>TEKST GEWIJZIGDE TENLASTELEGGING</para>
+    <para />
+    <para>Aan de verdachte wordt ten laste gelegd dat </para>
+    <para />
+    <para>dat hij in de periode van 30 december 2008 tot en met 2 januari 2009, althans op of omstreeks 2 januari 2009, op of nabij de geografische positie 14 18.9 Noord - 050 52 Oost, althans op volle zee, in de Golf van Aden, tussen Somalië en Jemen, tezamen en in vereniging met één of meer ander(en), althans alleen, als schipper heeft dienstgenomen en/of dienst gedaan op een vaartuig, wetende dat het bestemd was en/of het gebruikende om in open zee daden van geweld te plegen tegen andere vaartuigen en/of tegen zich daarop bevindende personen en/of goederen (welk gepleegd geweld bestond uit het schieten met (automatische) (vuur)wapens en/of een raketwerper op, althans in de richting van, het vaartuig MS Samanyolu), zonder door een oorlogvoerende mogendheid daartoe gemachtigd te zijn of tot de oorlogsmarine van een erkende mogendheid te behoren;</para>
+    <para />
+    <para>artikel 381 lid 1 sub 1 jo. artikel 47 Wetboek van Strafrecht</para>
+    <para />
+    <para>en/of</para>
+    <para />
+    <para>dat hij in de periode van 30 december 2008 tot en met 2 januari 2009, althans op of omstreeks 2 januari 2009, op of nabij de geografische positie 14 18.9 Noord - 050 52 Oost, althans op volle zee, in de Golf van Aden, tussen Somalië en Jemen, tezamen en in vereniging met één of meer ander(en), althans alleen, als schepeling heeft dienstgenomen en/of dienst gedaan op een vaartuig, dat bestemd was en/of gebruikt werd om in open zee daden van geweld te plegen tegen andere vaartuigen en/of tegen zich daarop bevindende personen en/of goederen, terwijl hij bekend was met deze bestemming en/of dit gebruik en/of vrijwillig in dienst is gebleven op zodanig vaartuig na met deze bestemming en/of dit gebruik bekend te zijn geworden (welk gepleegd geweld bestond uit het schieten met (automatische) (vuur)wapens en/of een raketwerper op, althans in de richting van, het vaartuig MS Samanyolu), zonder door een oorlogvoerende mogendheid daartoe gemachtigd te zijn of tot de oorlogsmarine van een erkende mogendheid te behoren</para>
+    <para />
+    <para>artikel 381 lid 1 sub 2 jo. artikel 47 Wetboek van Strafrecht</para>
+    <para> </para>
+    <para />
+    <para />
+    <para>Bijlage II bij vonnis van 17 juni 2010:</para>
+    <para />
+    <para />
+    <para>De hieronder als proces-verbaal aangeduide bewijsmiddelen zijn in de wettelijke vorm opgemaakt door personen die daartoe bevoegd zijn, voldoen ook overigens aan de daaraan bij wet gestelde eisen en zijn gevoegd als bijlage bij het ambtsedig proces-verbaal van het Korps Landelijke Politiediensten, Dienst Nationale Recherche, nummer RN-0901 (Onderzoek Cygnus), opgemaakt en op 11 mei 2009 ondertekend door de opsporingsambtenaar 6719. Dit proces-verbaal is doorgenummerd. De hieronder tussen haakjes vermelde nummers verwijzen naar de betreffende pagina’s van dat proces-verbaal. </para>
+    <para> </para>
+    <parablock>
+      <para>-1-</para>
+      <para>De verklaring van de verdachte op de terechtzitting, voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik ben de zee op gegaan met de bedoeling om een schip te kapen. We hadden een ladder. Wij hadden ook geweren aan boord. Het kan wel kloppen dat wij richting Jemen zijn gevaren. Ik wist dat er tussen Somalië en Jemen veel schepen varen. </para>
+    <para />
+    <parablock>
+      <para>-2-.</para>
+      <para>Een proces-verbaal van verhoor van [medeverdachte 3] en de daarbij behorende bijlage “Fotoserie verdachten”, d.d. 19 februari 2009, documentcode VH02-VD04-01 (394-403), voor zover inhoudende -zakelijk weergegeven-:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foto 1: </para>
+      <para>Dit is [medeverdachte 1]. Hij had als wapen de FAL. Het was een wapen met een magazijn. [medeverdachte 1] is er vanaf het begin bij geweest en heeft met alles meegedaan. Wat wapens betreft was er door iedereen meebetaald. Ook door [medeverdachte 1]. [medeverdachte 1] heeft ook aan de boot meebetaald. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foto 2: </para>
+      <para>Dat is [medeverdachte 4]. [medeverdachte 4] had als wapen een AK-47. Hij heeft meebetaald aan de wapens en was volledig betrokken bij de organisatie. Hij heeft zich als laatste bij ons groepje aangesloten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foto 3: </para>
+      <para>Dit is [medeverdachte 2]. [medeverdachte 2] is [bijnaam van medeverdachte 2]. [bijnaam van medeverdachte 2] heeft meegedaan bij de aanschaf van de wapens en de boot. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foto 4: </para>
+      <para>Dat ben ik. Ik had als wapen een AK-47. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foto 5: </para>
+      <para>Dat is [verdachte]. Ook hij heeft aan alles meebetaald. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[bijnaam van medeverdachte 2] vertelde mij dat hij in een juten zak een bazooka bij zich had. </para>
+      <para>Het schip maakte snelheid. Binnen enkele minuten zijn wij het schip van de achterzijde genaderd. Ik heb steeds in het Engels geroepen dat het schip moest stoppen. We hebben ongeveer twee à drie dagen op zee rondgedobberd. </para>
+    </parablock>
+    <para> </para>
+    <parablock>
+      <para>-3-. </para>
+      <para>Een proces-verbaal van verhoor van [medeverdachte 2], d.d. 19 februari 2009, documentcode PVH-02-[medeverdachte 2] (345-347), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik noem [medeverdachte 4]. Hij kwam op een later tijdstip bij de groep. Wij zouden naar zee gaan om een schip te kapen. Dit plan hebben wij aan wal gemaakt met zijn vieren, zonder [medeverdachte 4]. Voordat wij vertrokken, hebben wij [medeverdachte 4] in kennis gesteld en had hij eventueel aan wal kunnen blijven. Wij voeren in de richting van Jemen. Via radio BBC Somalië hadden wij gehoord dat je richting Jemen moest varen en dat de kans dan groot was om schepen aan te treffen. Het klopt dat er drie geweren en een ladder aan boord waren. </para>
+    <para />
+    <parablock>
+      <para>-4-.</para>
+      <para>Een proces-verbaal van verhoor van [medeverdachte 4], d.d. 19 februari 2009, documentcode PV verhoor 02-VD02 (296), voor zover inhoudende -zakelijk weergegeven-:</para>
+    </parablock>
+    <para />
+    <para>Ik heb de vier andere personen met wie ik nu in Nederland ben in Barreeda ontmoet. Ik kon met hen de zee opgaan om andere schepen te pakken. Het klopt dat ons plan aanvankelijk was het grote schip te pakken. Ik had een geweer bij me. We zijn drie dagen op zee geweest. </para>
+    <para> </para>
+    <parablock>
+      <para>-5-.	</para>
+      <para>Een proces-verbaal van verhoor van de verdachte, d.d. 19 februari 2009, documentcode VH2-VD5 (452), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik ben samen met [medeverdachte 3], [medeverdachte 2] en [medeverdachte 1] vertrokken naar Barreeda. In Barreeda hebben wij [medeverdachte 4] ontmoet. Van die plaats zijn wij vertrokken naar zee. </para>
+    <para />
+    <parablock>
+      <para>-6-.</para>
+      <para>Een proces-verbaal van verhoor van [bemanningslid 1], d.d. 7 augustus 2009, door A. Basari, officier van justitie te Sultanbeyli (Turkije), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik werk als bootsman. Op 1 of 2 januari 2009 deed ik dienst op de MS Samanyolu. We voeren in de Golf van Aden. Plotseling zagen we dat een boot in onze richting begon te varen. In de boot bevonden zich vijf personen, twee kalashnikov geweren en één raketwerper. Op een afstand van 50 à 100 meter hebben ze hun wapens op ons gericht en drie keer gevuurd. De afgevuurde drie kogels waren op mij gericht. Eén van de personen in de boot heeft de raketwerper op zijn schouder genomen en gevraagd om het schip te stoppen. De raketwerper ging af. De raket is over het schip gevlogen. Tijdens deze gebeurtenissen kwam een helikopter van de Deense marine ter plaatse. </para>
+    <para />
+    <parablock>
+      <para>-7-.</para>
+      <para>Een proces-verbaal van verhoor van [bemanningslid 1], d.d. 23 maart 2010, door N. Çakar, plv. hoofdofficier van justitie te Kadiköy (Turkije) en de rechter-commissaris belast met de behandeling van strafzaken in deze rechtbank, voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik heb al eerder, op 7 augustus 2009, een verklaring als getuige afgelegd. Die verklaring is juist. Ik blijf bij die verklaring. </para>
+    <para />
+    <parablock>
+      <para>-8-.	</para>
+      <para>Een proces-verbaal van verhoor van [kapitein], d.d. 3 september 2009, door N. Çakar, plv. hoofdofficier van justitie te Kadiköy (Turkije), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Op 2 januari 2009 voer ik als kapitein van het schip MS Samanyolu in de Golf van Aden. We zagen een bootje dat met hoge snelheid op ons af kwam varen. Op ongeveer een halve mijl afstand begon de bemanning willekeurig te schieten in de richting van het schip. Toen het bootje op ongeveer 10 meter afstand was genaderd, zag ik dat er vijf personen in het bootje zaten, dat ze kalashnikovs in hun handen hadden en dat ze bleven doorgaan met schieten. Ik zag dat één van de personen in het bootje zijn raketwerper op het schip richtte. De door hem afgevuurde raket miste het schip. De personen in het bootje hebben als eersten het vuur geopend op ons schip. </para>
+    <para />
+    <parablock>
+      <para>-9-. 	</para>
+      <para>Een proces-verbaal van verhoor van [bemanningslid 3], d.d. 12 augustus 2009, door N. Çakar, plv. hoofdofficier van justitie te Kadiköy (Turkije), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para> </para>
+    <para>Ik voer op de MS Samanyolu, op welk schip ik werkzaam was als schipper, door de Golf van Aden. Op open zee is ons schip aangevallen door Somalische personen met automatische wapens. Ik zag dat een bootje met hoge snelheid in de richting van ons schip voer. We hebben onze snelheid opgevoerd en zijn begonnen met vluchten. Het bootje volgde ons met hoge snelheid. Toen ze ons schip tot ongeveer 100 meter waren genaderd, openden ze het vuur. Ze wilden dat wij stopten. In het bootje waren vijf personen. Eén van hen had een raketwerper en de anderen hadden kalashnikov geweren. Op het bootje bevond zich ook een lange trap. De persoon met de raketwerper richtte deze op het schip, waarna de raketwerper afging. De eerste schoten werden afgevuurd door de personen in het bootje. Zij vielen ons schip al schietend aan. </para>
+    <para />
+    <parablock>
+      <para>-10-.	</para>
+      <para>Een proces-verbaal van verhoor van [bemanningslid 2], d.d. 12 augustus 2009, door I. Taskin, plv. hoofdofficier van justitie te Izmir (Turkije), voor zover inhoudende - zakelijk weergegeven -: </para>
+    </parablock>
+    <para />
+    <para>Op 2 januari 2009 werkte ik als tweede kapitein en veiligheidsofficier op het schip Samanyolu. Op die dag voeren wij in de veiligheidscorridor tussen Jemen en Somalië. Een bootje, dat veel snelheid had, begon ons te naderen. In het bootje bevonden zich vijf personen. De persoon die vooraan stond, had een raketwerper in zijn handen, de anderen hadden vuurwapens. Vanuit het bootje werd het vuur geopend op ons schip. Een aantal kogels raakte het schip in de flank. De persoon die de raketwerper in zijn handen had, vuurde een raket af richting de brug van het schip. De eerste aanval is uitgevoerd door de personen in het bootje door middel van het openen van het vuur. </para>
+    <para />
+    <parablock>
+      <para>-11-.</para>
+      <para>Een proces-verbaal van verhoor van [tactisch waarnemer van de helikopter van de Deense marine], d.d. 6 mei 2009, nummer 200905061245 (179- 180), voor zover inhoudende - zakelijk weergegeven -:</para>
+    </parablock>
+    <para />
+    <para>Ik ben tactisch waarnemer. Op 2 januari 2009 bevond ik mij in een helikopter die reageerde op een noodoproep van een schip genaamd Samanyolu. Toen ik ter plaatse was, zag ik een skiff die de Samanyolu heel snel van achteren naderde. Er waren vijf mensen aan boord van de skiff. Er bestond geen twijfel over het feit dat de skiff de Samanyolu wilde kapen. Dat werd gebaseerd op het gegeven dat de skiff met hoge snelheid de achtervolging op de Samanyolu had ingezet in een zogenaamd “aanvalsprofiel”(vanachter de Samanyolu met agressief hoge snelheid naderen).</para>
+  </uitspraak>
+</open-rechtspraak>

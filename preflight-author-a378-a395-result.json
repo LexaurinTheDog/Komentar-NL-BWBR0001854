@@ -1,0 +1,55 @@
+{
+  "complete": true,
+  "scope": [
+    "a378",
+    "a379",
+    "a380",
+    "a381",
+    "a382",
+    "a383",
+    "a384",
+    "a385",
+    "a385a",
+    "a385b",
+    "a385c",
+    "a385d",
+    "a386",
+    "a387",
+    "a388",
+    "a389",
+    "a389bis",
+    "a389ter",
+    "a390",
+    "a395"
+  ],
+  "decisive_date": "2026-10-19",
+  "batch_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+  "verified_at": "2026-10-21T00:19:18.985238+00:00",
+  "version_evidence": {
+    "manifest": "sources/author-a378-a395-manifest.xml",
+    "effective_expression": "2026-07-01_0",
+    "valid_from": "2026-07-01",
+    "valid_to": "9999-12-31",
+    "expressions_checked": 126,
+    "sha512_manifest_matches": true,
+    "canonical_raw_matches": true
+  },
+  "historical_versions_checked": {
+    "previous_raw": "sources/author-a378-a395-previous.xml",
+    "change_map": "sources/author-a378-a395-historical-change-map.json",
+    "no_concatenation": true
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "method": "Entire effective XML tag inventory checked for bijlage and annex; none found. Aanhef and wetsluiting retained."
+    }
+  ],
+  "coverage": "sources/author-a378-a395-coverage.json",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Whole-book preflight is not replaced; this fresh preflight covers assigned batch and mechanical full inventory.",
+    "Wetten.overheid.nl entry connection closed; fresh official repository XML and manifest returned HTTP 200 and passed format/hash checks."
+  ]
+}

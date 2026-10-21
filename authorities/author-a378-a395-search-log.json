@@ -1,0 +1,24 @@
+{
+  "scope": "a378–a395 (20 assigned units)",
+  "searched_at": "2026-10-21T00:22:43.280494+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"381\" \"zeeroof\" Hoge Raad",
+    "site.rechtspraak.nl \"385c\" \"385a\""
+  ],
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+    "query": "zeeroof|insubordinatie|385c",
+    "results": "../sources/author-a378-a395-local-search.txt"
+  },
+  "verified_full_text": [
+    "ECLI:NL:RBROT:2010:BM8116"
+  ],
+  "cited_units": [
+    "a381"
+  ],
+  "limitations": [
+    "Selective research only. Search hits not read in full are not used as authorities.",
+    "No sufficiently relevant full-text authority verified for other assigned units; no claim of absence of case law.",
+    "No independent review or exhaustive later-treatment check."
+  ]
+}

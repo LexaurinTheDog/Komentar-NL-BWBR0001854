@@ -5978,6 +5978,56 @@
       "content_type": "application/xml",
       "sha256": "f63eae2aff910d0eed3a43a5bf98e76202efb857f01c5819c6c3c81f5a63f7f4",
       "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+      "accessed_at": "2026-10-21T00:19:17.265261+00:00",
+      "path": "sources/author-a378-a395-effective.xml",
+      "http_status": 200,
+      "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+      "bytes": 2545812,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-01-01_0/xml/BWBR0001854_2026-01-01_0.xml",
+      "accessed_at": "2026-10-21T00:19:17.265738+00:00",
+      "path": "sources/author-a378-a395-previous.xml",
+      "http_status": 200,
+      "sha256": "316277f81c3c9fc81cdeb966a3317c618917a221f1b52eb83a4b64c294c2cbe1",
+      "bytes": 2544128,
+      "content_type": "application/xml",
+      "root": "toestand",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-21T00:19:17.266078+00:00",
+      "path": "sources/author-a378-a395-entry.html",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+      "accessed_at": "2026-10-21T00:19:17.266239+00:00",
+      "path": "sources/author-a378-a395-manifest.xml",
+      "http_status": 200,
+      "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+      "bytes": 88311,
+      "content_type": "application/xml",
+      "root": "work",
+      "expected_format_valid": true
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2010:BM8116",
+      "accessed_at": "2026-10-21T00:19:17.266361+00:00",
+      "path": "sources/author-a378-a395-case-2010-BM8116.xml",
+      "http_status": 200,
+      "sha256": "d3109e32f26644d03f5d22fda4f6d76444085d4977720d7d4f7ab044af1c1a23",
+      "bytes": 69374,
+      "content_type": "application/xml",
+      "root": "open-rechtspraak",
+      "expected_format_valid": true
     }
   ],
   "effective_version_verified": true,
@@ -6172,5 +6222,9 @@
   "bounded_author_a360_a377": {
     "preflight": "preflight-author-a360-a377-result.json",
     "coverage": "sources/author-a360-a377-coverage.json"
+  },
+  "bounded_author_a378_a395": {
+    "preflight": "preflight-author-a378-a395-result.json",
+    "coverage": "sources/author-a378-a395-coverage.json"
   }
 }

@@ -1,0 +1,203 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "ids": [
+    "a378",
+    "a379",
+    "a380",
+    "a381",
+    "a382",
+    "a383",
+    "a384",
+    "a385",
+    "a385a",
+    "a385b",
+    "a385c",
+    "a385d",
+    "a386",
+    "a387",
+    "a388",
+    "a389",
+    "a389bis",
+    "a389ter",
+    "a390",
+    "a395"
+  ],
+  "completed_units": 20,
+  "commentary_file": "commentary/part-35.md",
+  "independent_review_pending": true,
+  "preflight": "preflight-author-a378-a395-result.json",
+  "unit_checks": [
+    {
+      "id": "a378",
+      "commentary_chars": 1463,
+      "commentary_sha256": "522861b9d96044baa90c3852916f7a98d1155149b2ed2dd602cdbd68b2866456",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a379",
+      "commentary_chars": 1533,
+      "commentary_sha256": "d854ef1bd3d63c5a123406091c1f41e865edb0be6d195f31805ac487f7cc15aa",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a380",
+      "commentary_chars": 1648,
+      "commentary_sha256": "32b2a63f6b3d478b6e1f8f67c0e6b3998eadbadb1555da0c11acba083f3a1623",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a381",
+      "commentary_chars": 1946,
+      "commentary_sha256": "f53ea02a428d83d35c248d504f8a0f41354a5a0af89f4d19bf58b5ae69ca700f",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a382",
+      "commentary_chars": 1455,
+      "commentary_sha256": "8617f794c70843d836a31e4b6744efad26edf83819b06baac3b048fdba7bcef2",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a383",
+      "commentary_chars": 1513,
+      "commentary_sha256": "4f47a39c0aacdfb296a7940500c5a3971e9528c77103ad3a5b722d4056f8d861",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a384",
+      "commentary_chars": 1455,
+      "commentary_sha256": "7811bc34445ed38b6ab2dccec72bc5a9302f8e2387fd11585d79ccc1dd93e1ff",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a385",
+      "commentary_chars": 1398,
+      "commentary_sha256": "8b4602aae6050bd0f239f9297dcba334c2ac22cd67c8d4302212c39c035cd565",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a385a",
+      "commentary_chars": 1585,
+      "commentary_sha256": "108d8f8f59080ff5fd7ddf0ced3e89a9297ede8dddb264696f6bfa81e26243e3",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a385b",
+      "commentary_chars": 1495,
+      "commentary_sha256": "30142a6a9e5b0b55243645a9a3c62073f5e82ab62734dfc900a8f3b43e793ddb",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a385c",
+      "commentary_chars": 1426,
+      "commentary_sha256": "5dfea70e1f90504747dbcbce37cc299fe5d14abaad662e0f2a48560b93487698",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a385d",
+      "commentary_chars": 1437,
+      "commentary_sha256": "08fcc806eb6f0cfb98d121571f4ef00c2274d856caf1e375ee4685663ee0124b",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a386",
+      "commentary_chars": 1398,
+      "commentary_sha256": "fd26d0d2207b8ecc86339c62883c757d004ab8063061055787334a7355c61882",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a387",
+      "commentary_chars": 1462,
+      "commentary_sha256": "a92bab2f6eb028f61557e6ae4962849b83472bb8a092a7fd3e953f0f2af4f847",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a388",
+      "commentary_chars": 766,
+      "commentary_sha256": "394a5aaebb472956f173750f1f3923fbcdf439404cd34f6703c9ee8e5b097e16",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a389",
+      "commentary_chars": 792,
+      "commentary_sha256": "f2aa3dc0326cdde8c9783aa2398e116d939f7c1c37afef008d4991758e3c9547",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a389bis",
+      "commentary_chars": 1405,
+      "commentary_sha256": "3ee9b2c84c689475adc3d147bd7a101197842eeda28d20266bfc769d13fdbd7d",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a389ter",
+      "commentary_chars": 1528,
+      "commentary_sha256": "09594dfaa9a8f552f6fc51374938a097ab9e175e534c5e03847a6e043025e3fb",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a390",
+      "commentary_chars": 1425,
+      "commentary_sha256": "43a7bef1dc6b71fbc3c1511b3abd3071c0d2e7522745e6491a66770945ecfbee",
+      "source_read": true,
+      "author_content_check": true
+    },
+    {
+      "id": "a395",
+      "commentary_chars": 1738,
+      "commentary_sha256": "99a9ed3fdb9a2cad27440cd019b4fee1cea9bb10c38d298db929cdb7ae9376a0",
+      "source_read": true,
+      "author_content_check": true
+    }
+  ],
+  "case_law_sources": [
+    "ECLI:NL:RBROT:2010:BM8116"
+  ],
+  "repeated_paragraphs": [],
+  "unresolved_blockers": [],
+  "limitations": [
+    "112 out-of-scope units remain uncommented.",
+    "Independent second reading pending.",
+    "Selective case-law research; no exhaustive later-treatment audit.",
+    "Length and repetition checks do not establish legal quality.",
+    "External statutes mentioned by the code not separately commented in this bounded batch."
+  ],
+  "author_check": "All twenty assigned units read against official text. Checked 378 recipient exception, 379 knowledge, 380 limited lists, piracy roles, 385a fourth-member limitation, each danger and result condition, 389bis/ter documents, 390 danger and 395 role/causation. Two repealed slots retained. Author checking only; independent review pending.",
+  "link_check": {
+    "missing": []
+  },
+  "checkpoint_build": {
+    "full_builder_exit": 1,
+    "reason": "112 out-of-scope units remain; full builder gate intact.",
+    "reading_checkpoint": "Incomplete checkpoint: 700/812 units, 35 reading files",
+    "rendered_assigned_units": 20,
+    "statutory_text_agreement": 1.0
+  },
+  "validation": {
+    "report": "validation-author-a378-a395-result.json",
+    "assigned_batch_complete": true,
+    "whole_book_ok": false,
+    "remaining_outside_scope": 112,
+    "statutory_text_agreement": 1.0
+  }
+}
