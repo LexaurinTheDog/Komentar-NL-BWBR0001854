@@ -6877,5 +6877,92 @@
         "disposition": "No full judgment returned; not cited for any holding."
       }
     ]
+  },
+  "bounded_author_batch40": {
+    "verified_at": "2026-10-21T01:09:38.411592+00:00",
+    "preflight": "preflight-author-batch40-result.json",
+    "fetches": [
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+        "accessed_at": "2026-10-21T01:08:27.322495+00:00",
+        "path": "sources/author-batch40-manifest.xml",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/manifest.xml",
+        "content_type": "application/xml",
+        "sha256": "a275acd85eed466549d31a7b61ffd929f4c72ed2ea3d7e598aa246e8e9ab8869",
+        "bytes": 88311,
+        "root": "work",
+        "expected_format_valid": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+        "accessed_at": "2026-10-21T01:08:27.565172+00:00",
+        "path": "sources/author-batch40-effective.xml",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2026-07-01_0/xml/BWBR0001854_2026-07-01_0.xml",
+        "content_type": "application/xml",
+        "sha256": "bdd6982a889ef6a1ad2ba48a29e5e42050e69237b8b50f7a84f6249839f67ae5",
+        "bytes": 2545812,
+        "root": "toestand",
+        "expected_format_valid": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+        "accessed_at": "2026-10-21T01:08:28.285354+00:00",
+        "path": "sources/author-batch40-wti.xml",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/BWBR0001854.WTI",
+        "content_type": "application/xml",
+        "sha256": "b1e56c89c65fa4062e24c7aa8b2279cb6f40c5c39710a16460b9694c2fa37afb",
+        "bytes": 27846974,
+        "root": "wetstechnische-informatie",
+        "expected_format_valid": true
+      }
+    ],
+    "support_fetches": [
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+        "path": "sources/author-batch40-previous.xml",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T01:08:30.952596+00:00",
+        "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+        "expected_format_valid": true
+      }
+    ],
+    "case_fetches": [
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:78",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T01:04:59.823705+00:00",
+        "sha256": "6e80a2a6b82203a552dbfad69b38c1bd8ce2d64a1d89216597d6f705370eca33",
+        "path": "authorities/author-batch40-ECLI-NL-HR-2020-78.xml",
+        "valid_full_judgment": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1787",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T01:05:00.665943+00:00",
+        "sha256": "09f0f0c9b557fdcdab6d9f8391f12e07332d20c03cc9122e15342b83f8bb1670",
+        "path": "authorities/author-batch40-ECLI-NL-HR-2015-1787.xml",
+        "valid_full_judgment": true
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:1997:ZD0669",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T01:05:01.912977+00:00",
+        "sha256": "fc6040c5c9e9d3ccf0ccf2596dba4f8cd4bbcf183e0cd6070750aad1ebf64af1",
+        "path": "authorities/author-batch40-ECLI-NL-HR-1997-ZD0669.xml",
+        "valid_full_judgment": false
+      }
+    ],
+    "web_fetches": {
+      "url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
+      "accessed_at": "2026-10-21T01:09:27.458071+00:00",
+      "path": "sources/author-batch40-wetten.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "7b1ac6c733f247d3924b0996a6b30ba2d548c90eed07f37523a91d16e994af47",
+      "expected_format_valid": true
+    }
   }
 }

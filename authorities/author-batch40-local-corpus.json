@@ -1,0 +1,17 @@
+{
+  "search_method": "Exact ECLI filenames independently searched with rg in local national HR corpus; both complete local texts read and compared with freshly fetched official full judgments. Other courts with same year/number excluded.",
+  "matches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2015-1787.md",
+      "snapshot": "authorities/author-batch40-local-HR-2015-1787.md",
+      "sha256": "0c24d4bdc3f5c4a4dcf5f54aa7392eff53bbc60de18a4bb450134cd994abcf13",
+      "read_full": true
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2020-78.md",
+      "snapshot": "authorities/author-batch40-local-HR-2020-78.md",
+      "sha256": "8dc7faffe4d082f3c47ad2fc81d31ef57de8336930e6056d50fe97a3cf5d3067",
+      "read_full": true
+    }
+  ]
+}

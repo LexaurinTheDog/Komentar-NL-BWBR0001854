@@ -1,46 +1,46 @@
 {
   "complete": true,
+  "scope": [
+    "a447a",
+    "a447b",
+    "a447c",
+    "a447d",
+    "a447e",
+    "a448",
+    "a449",
+    "a450",
+    "a453",
+    "a458",
+    "a459",
+    "a460",
+    "a461",
+    "a462",
+    "a463",
+    "a464",
+    "a465",
+    "a466",
+    "a467",
+    "a468"
+  ],
   "decisive_date": "2026-10-19",
-  "review_date": "2026-10-21",
   "official_url": "https://wetten.overheid.nl/BWBR0001854/2026-07-01",
-  "verified_at": "2026-10-21T01:02:10.690269+00:00",
-  "version_evidence": "sources/review-batch39-version-evidence.json",
+  "verified_at": "2026-10-21T01:08:48.152688+00:00",
+  "version_evidence": "sources/author-batch40-version-evidence.json",
   "historical_versions_checked": {
     "method": "All manifest effective and visibility intervals evaluated; only the single applicable toestand is used. Historical bodies not concatenated.",
-    "expressions": 126,
-    "historical_bodies_checked": true,
-    "change_map": "sources/review-batch39-historical-change-map.json"
+    "expressions": 126
   },
+  "historical_change_map": "sources/author-batch40-historical-change-map.json",
   "annexes_checked": [
     {
       "status": "verified_absence",
-      "evidence_path": "sources/review-batch39-effective.xml",
+      "evidence_path": "sources/author-batch40-effective.xml",
       "method": "All XML element tag names scanned for bijlage or annex; no such elements exist."
     }
   ],
   "unresolved_blockers": [],
-  "scope": [
-    "a435f",
-    "a436",
-    "a437",
-    "a437bis",
-    "a437ter",
-    "a437quater",
-    "a438",
-    "a439",
-    "a440",
-    "a441",
-    "a441a",
-    "a441b",
-    "a442",
-    "a442a",
-    "a443",
-    "a444",
-    "a445",
-    "a446",
-    "a446a",
-    "a447"
-  ],
-  "coverage": "sources/review-batch39-coverage.json",
-  "entry_page_limitation": "Browser fetch of dated wetten.overheid.nl page returned 429; official repository manifest, XML and WTI fetched HTTP 200 and format/hash validated. Effective version established by manifest intervals, not fetch date."
+  "coverage": "sources/author-batch40-coverage.json",
+  "limitations": [
+    "Decisive date is title authoring start, not batch-fetch time. Official repository manifest, WTI and XML used; pending amendments not included."
+  ]
 }

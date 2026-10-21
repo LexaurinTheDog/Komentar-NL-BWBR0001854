@@ -40,3 +40,4 @@
 - [part-37.md](commentary/part-37.md)
 - [part-38.md](commentary/part-38.md)
 - [part-39.md](commentary/part-39.md)
+- [part-40.md](commentary/part-40.md)

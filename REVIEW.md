@@ -503,3 +503,6 @@ Auteursbatch 39: precies twintig officiële artikelplaatsen 435f–447 toegelich
 
 
 Tweede lezing batch39: precies twintig toegewezen eenheden435f–447 tegen opnieuw opgehaalde officiële XML gelezen. Drie toelichtingen verduidelijkt:437(b) kent alternatieve tekortkomingen,441 hanteert een normatieve vermoedensmaatstaf en441b verlangt feitelijke beoordeling van kenbaarheid. Drie volledige uitspraken opnieuw gecontroleerd, met behoud van hun civiele of beslagrechtelijke context. [Exacte IDs en bevindingen](review-batch39-result.json); [broncontrole](preflight-review-batch39-result.json); [rechtspraakcontrole](authorities/review-batch39-cases.md). Geen materiële batchblokkade;32 andere eenheden missen nog commentaar. Geen voltooid boek of externe professionele goedkeuring.
+
+
+Auteursbatch 40: precies twintig officiële artikelplaatsen 447a–468 toegelicht, inclusief het vervallen nummer 453. [Batchbewijs](author-batch40-result.json), [actuele broncontrole](preflight-author-batch40-result.json), [selectief rechtspraakonderzoek](authorities/author-batch40-search-log.json). Dit is een auteurscheckpoint; een onafhankelijke tweede lezing van deze batch staat nog open. De gehele uitgave blijft onvoltooid.

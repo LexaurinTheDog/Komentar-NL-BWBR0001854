@@ -1,0 +1,5 @@
+# HR 7 juli 2015 — ECLI:NL:HR:2015:1787
+
+Zaak 14/02477, strafkamer; ondersteunt artikel 447e. [Officieel arrest](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2015:1787), volledige [XML](author-batch40-ECLI-NL-HR-2015-1787.xml) en [tekst](author-batch40-ECLI-NL-HR-2015-1787.txt); [ophaalbewijs](../sources/author-batch40-case-search.json). Beide volledige teksten en het lokale exemplaar gelezen.
+
+R.o. 2.3 verwerpt een motiveringsklacht wegens ontbrekende feitelijke grondslag. R.o. 2.4 benadrukt beperkte toetsing van de vervolgingsbeslissing; de klacht over het gevolg van disproportionele vervolging krachtens artikel 184 faalt. R.o. 2.2.3 citeert het hof en is geen zelfstandige algemene specialiteitsregel van de Hoge Raad. Beroep verworpen. Betreft gedrag uit 2008; de huidige opsomming in artikel 447e is later gewijzigd. Gebruik beperkt tot de besproken verhouding tot artikel 184, niet tot de huidige bevoegdheden in alle opgesomde wetten. Geen uitputtend onderzoek naar latere uitspraken.

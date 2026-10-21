@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:78",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T01:04:59.823705+00:00",
+    "sha256": "6e80a2a6b82203a552dbfad69b38c1bd8ce2d64a1d89216597d6f705370eca33",
+    "path": "authorities/author-batch40-ECLI-NL-HR-2020-78.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1787",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T01:05:00.665943+00:00",
+    "sha256": "09f0f0c9b557fdcdab6d9f8391f12e07332d20c03cc9122e15342b83f8bb1670",
+    "path": "authorities/author-batch40-ECLI-NL-HR-2015-1787.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:1997:ZD0669",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T01:05:01.912977+00:00",
+    "sha256": "fc6040c5c9e9d3ccf0ccf2596dba4f8cd4bbcf183e0cd6070750aad1ebf64af1",
+    "path": "authorities/author-batch40-ECLI-NL-HR-1997-ZD0669.xml",
+    "valid_full_judgment": false
+  }
+]

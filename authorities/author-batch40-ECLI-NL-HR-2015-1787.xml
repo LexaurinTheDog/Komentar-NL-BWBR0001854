@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2015:1787</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T15:28:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-07-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-07-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">14/02477</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2015:1006" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2015:1006, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2014:4178" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHARL:2014:4178, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2015/1422</rdf:li>
+          <rdf:li>SR-Updates.nl 2015-0325</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:1787">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2015:1787</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-07-07T10:50:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-07-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2015:1787 Hoge Raad , 07-07-2015 / 14/02477</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2015:1787:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Vervolg op ECLI:NL:HR:2012:BX4998. Art. 184 Sr en art. 447e Sr. V.zv. het middel betoogt dat het Hof zijn oordeel dat art. 447e Sr niet heeft te gelden als specialis van art. 184 Sr niet heeft gemotiveerd, faalt het bij gebrek aan feitelijke grondslag.</para>
+        <para>Het middel dat steunt op de opvatting dat in de gegeven omstandigheden de vervolging van verdachte t.z.v. art. 184 Sr als “disproportioneel” moet worden aangemerkt en dient te leiden tot ontslag van alle rechtsvervolging, gaat uit van een onjuiste rechtsopvatting. De vervolgingsbeslissing van het OM leent zich slechts in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing in die zin dat slechts in uitzonderlijke gevallen plaats is voor een n-o verklaring van het OM in de vervolging op de grond dat die vervolging onverenigbaar is met beginselen van een goede procesorde (ECLI:NL:HR:2012:BX4280). Het oordeel van het Hof dat de onderhavige vervolging t.z.v. art. 184 Sr “als niet disproportioneel kan worden aangemerkt” is niet onbegrijpelijk en toereikend gemotiveerd. Overige middelen: art. 81.1 RO.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2015:1787:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>7 juli 2015</para>
+    <para>Strafkamer</para>
+    <para>nr. S 14/02477</para>
+    <para>SG/ARA</para>
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>
+      <emphasis role="bold">Arrest</emphasis>
+    </para>
+    <parablock>
+      <para />
+      <para>op het beroep in cassatie tegen een arrest van het Gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem, van 1 mei 2014, nummer 21/002739-13, in de strafzaak tegen:</para>
+    </parablock>
+    <para>
+      <emphasis role="underline">
+        [verdachte]
+      </emphasis>, geboren te [geboorteplaats] op [geboortedatum] 1985. </para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Geding in cassatie</title>
+    <para />
+    <parablock>
+      <para>	Het beroep is ingesteld door de verdachte. Namens deze heeft mr. W.H. Jebbink, advocaat te Amsterdam, bij schriftuur middelen van cassatie voorgesteld. De schriftuur is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Advocaat-Generaal W.H. Vellinga heeft geconcludeerd tot verwerping van het beroep.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Beoordeling van het tweede middel</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Het middel bevat de klacht dat het Hof het onder 2 bewezenverklaarde in dit geval ten onrechte heeft gekwalificeerd als een feit dat strafbaar is gesteld in art. 184, eerste lid, Sr.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>2.2.1.</nr>
+        <parablock>
+          <para>Overeenkomstig de tenlastelegging is onder 2 ten laste van de verdachte bewezenverklaard dat:</para>
+          <para>"hij op 16 december 2008 te Utrecht, opzettelijk niet heeft voldaan aan een bevel of een vordering, krachtens artikel 2 van de Wet op de identificatieplicht [gedaan] door [verbalisant 1], brigadier van politie, die was belast met de uitoefening van enig toezicht, immers heeft verdachte toen en daar opzettelijk, nadat deze ambtenaar hem had bevolen, althans van hem had gevorderd een geldig op zijn naam staand identiteitsbewijs te tonen, geen gevolg gegeven aan dit bevel of die vordering."</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.2.</nr>
+        <para>Het Hof heeft onder aanhaling van art. 184 Sr het bewezenverklaarde onder 2 gekwalificeerd als "opzettelijk niet voldoen aan een bevel of een vordering, krachtens wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig toezicht belast".</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.2.3.</nr>
+        <parablock>
+          <para>Het Hof heeft omtrent de strafbaarheid van het bewezenverklaarde het volgende overwogen:</para>
+          <para>"Het hof is van oordeel dat het antwoord op de vraag of artikel 447e Sr moet worden beschouwd als een specialis van 184 Sr afhangt van de omstandigheden van het geval. Het hof heeft daarbij in aanmerking genomen dat de wetgever uitdrukkelijk de mogelijkheid heeft open gelaten dat de bepalingen naast elkaar bestaan. Uit de wetsgeschiedenis blijkt dat vervolging op grond van het misdrijf van artikel 184 Sr in theorie mogelijk is, maar als justitiële reactie 'veelal' disproportioneel, vooral als de aanleiding aanhouding voor een overtreding of optreden in het kader van de openbare orde was. Van uitsluiting van vervolging voor artikel 184 Sr lijkt echter geen sprake in die gevallen dat vervolging terzake artikel 184 Sr als niet disproportioneel kan worden aangemerkt. Gelet op hetgeen door verbalisanten is omschreven omtrent de gang van zaken ter plaatse alsmede de agressieve en beledigende reactie van verdachte op de eerste vordering en vervolgens zijn reactie op de herhaalde vordering acht het hof dat er in dit geval sprake is van een proportionele keuze voor art 184 Sr in plaats van art 447e Sr."</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Voor zover het middel betoogt dat het Hof zijn oordeel dat art. 447e Sr niet heeft te gelden als specialis van art. 184 Sr niet heeft gemotiveerd, faalt het bij gebrek aan feitelijke grondslag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Het middel steunt op de opvatting dat in de gegeven omstandigheden de vervolging van de verdachte ter zake van art. 184 Sr als "disproportioneel" moet worden aangemerkt en dient te leiden tot ontslag van alle rechtsvervolging. </para>
+        <para>Met betrekking tot het rechtsgevolg dat aan de gestelde disproportionele vervolging van de verdachte zou moeten worden verbonden, gaat het middel uit van een onjuiste rechtsopvatting. De vervolgingsbeslissing van het openbaar ministerie leent zich slechts in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing. Het oordeel van het Hof dat de onderhavige vervolging ter zake van art. 184 Sr "als niet disproportioneel kan worden aangemerkt" is niet onbegrijpelijk en toereikend gemotiveerd (vgl. HR 6 november 2012, ECLI:NL:HR:2012:BX4280, NJ 2013/109).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Het middel is tevergeefs voorgesteld.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de overige middelen</title>
+    <para />
+    <parablock>
+      <para>De middelen kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81, eerste lid, RO, geen nadere motivering nu de middelen niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>	De Hoge Raad verwerpt het beroep.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president W.A.M. van Schendel als voorzitter, en de raadsheren H.A.G. Splinter-van Kan en Y. Buruma, in bijzijn van de waarnemend griffier S.C. Rusche, en uitgesproken ter openbare terechtzitting van <emphasis role="underline">7 juli 2015</emphasis>.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

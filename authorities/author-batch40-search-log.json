@@ -1,0 +1,33 @@
+{
+  "verified_at": "2026-10-21T01:09:04.810128+00:00",
+  "queries": [
+    "site:rechtspraak.nl \"461\" \"blijkbare\" Hoge Raad",
+    "site:rechtspraak.nl \"450\" \"levensgevaar\" \"Hoge Raad\"",
+    "site:rechtspraak.nl \"447e\" \"redelijkerwijs\" Hoge Raad"
+  ],
+  "full_text_read": [
+    "ECLI:NL:HR:2020:78",
+    "ECLI:NL:HR:2015:1787"
+  ],
+  "used_for_units": {
+    "a461": [
+      "ECLI:NL:HR:2020:78"
+    ],
+    "a447e": [
+      "ECLI:NL:HR:2015:1787"
+    ]
+  },
+  "rejected": [
+    {
+      "ecli": "ECLI:NL:HR:1997:ZD0669",
+      "reason": "Official XML response preserved but contains no full judgment. Not cited for a holding."
+    }
+  ],
+  "fetch_log": "sources/author-batch40-case-search.json",
+  "local_corpus": "authorities/author-batch40-local-corpus.json",
+  "limitations": [
+    "Selective research; no sufficiently relevant verified decision selected for the remaining 18 units.",
+    "No inference about later judicial treatment from search absence.",
+    "Author check only; independent second pass pending."
+  ]
+}

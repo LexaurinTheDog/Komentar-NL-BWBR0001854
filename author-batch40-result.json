@@ -1,0 +1,188 @@
+{
+  "kind": "author",
+  "complete": true,
+  "whole_book_complete": false,
+  "assigned_ids": [
+    "a447a",
+    "a447b",
+    "a447c",
+    "a447d",
+    "a447e",
+    "a448",
+    "a449",
+    "a450",
+    "a453",
+    "a458",
+    "a459",
+    "a460",
+    "a461",
+    "a462",
+    "a463",
+    "a464",
+    "a465",
+    "a466",
+    "a467",
+    "a468"
+  ],
+  "units_completed": 20,
+  "total_units": 812,
+  "total_commented_units": 800,
+  "remaining_units": 12,
+  "independent_second_pass_pending": true,
+  "source_preflight": "preflight-author-batch40-result.json",
+  "commentary_file": "commentary/part-40.md",
+  "created_at": "2026-10-21T01:09:38.411592+00:00",
+  "units": [
+    {
+      "id": "a447a",
+      "chars": 1535,
+      "commentary_sha256": "8e78bde1594e73bf6e6a510665762e73ecd6615328ab3562c50f3e1c13c88e46",
+      "statutory_sha256": "f005186cc5a7da818ba7e080e31e5134af967267bf9f7b088c376520024fc757"
+    },
+    {
+      "id": "a447b",
+      "chars": 1571,
+      "commentary_sha256": "39234fb83d5825974e1ae2451fd675cd848e3cc1dad9d839ee881f1d6cc95463",
+      "statutory_sha256": "599568f60f1cbdc66f6524b5f0ea91dee41e2fef534511f3d6f8a5560461770a"
+    },
+    {
+      "id": "a447c",
+      "chars": 1551,
+      "commentary_sha256": "32731cb3904f9bf1ae15cf9a7efb4176bc73e9dc658c35946083aecc646e458d",
+      "statutory_sha256": "018258fa93a7474261c4ec98e19efe7d4cb3dacc0cc617d445aea762067a91f2"
+    },
+    {
+      "id": "a447d",
+      "chars": 1606,
+      "commentary_sha256": "d0e472cf0a2444ec9ce4f0c32f3288bd938c024469b389762a99eb3b21c0f89d",
+      "statutory_sha256": "4674001e185503e04c8cdd1744e09b0e4d58edcb612dc54ebc030be554392ffe"
+    },
+    {
+      "id": "a447e",
+      "chars": 1670,
+      "commentary_sha256": "ad6b966b1ce8a4e9f18cba4460e27d63ea198a782cf284d641afa2e4871f5852",
+      "statutory_sha256": "7e92d811ce404efdb46e53cbb32c3ce591d429b7f8051f5188ab2479b0a3039c"
+    },
+    {
+      "id": "a448",
+      "chars": 1445,
+      "commentary_sha256": "aa5d122f4451b33135fee9af4c323a1eabf5530a315e52403dbd66475107a0c6",
+      "statutory_sha256": "1ae8a31156f1eb47f0c86de80d56f65e94dd37eaa148168e49f01efd9d270c0f"
+    },
+    {
+      "id": "a449",
+      "chars": 1630,
+      "commentary_sha256": "61a5561805562c509917447bfa2de1579091b8c815f4028b8a4d2b3a552b23c1",
+      "statutory_sha256": "d959c0cb6389b0c86555d864b578dab61746331e2a68cf4b8cdc6c853988c2ce"
+    },
+    {
+      "id": "a450",
+      "chars": 1682,
+      "commentary_sha256": "3a50f04cd7a04009b0b760108a784ae8bd46b6bb66e4be6bcd9e3987c758fc8d",
+      "statutory_sha256": "23c199f36eb10ffe99aa9740969f493657e5bac791375612ffdde405bf78c493"
+    },
+    {
+      "id": "a453",
+      "chars": 935,
+      "commentary_sha256": "ef65ba35175d33ca89b112f8d50fdf3879e884949a70c0145db1cefa8a63f060",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "a458",
+      "chars": 1462,
+      "commentary_sha256": "f281c98a17aab11410a0701825af24ad9ffddf0cecfd5cd86ce6d897cac79cb5",
+      "statutory_sha256": "988be6a25a854f9115285fe9f9c6e9cef095eb4f4eac6b03befa253502974008"
+    },
+    {
+      "id": "a459",
+      "chars": 1425,
+      "commentary_sha256": "28810cbd7676b7e635e601ed2bfc35c52979d4121377720f06992a246437b76d",
+      "statutory_sha256": "8a27aaa350ddb1e2b546acf87897e1f98fc37b8c5741792d8140bd7735e1ee6e"
+    },
+    {
+      "id": "a460",
+      "chars": 1549,
+      "commentary_sha256": "d7111f967998efb11dd8ca2c5e6e239d748187dcb33e6c470bc06d9d47e83852",
+      "statutory_sha256": "490fb5bf1a31fc1434ad77aea531b21c5ce606278b4c80697bfd3a2c40554ef3"
+    },
+    {
+      "id": "a461",
+      "chars": 1923,
+      "commentary_sha256": "fe9e5c9b3eafc4ad93336468a733c532648d6af11b2b5ad2facc6c11db7ab75f",
+      "statutory_sha256": "9390b8fad743d4de178f4c92dc3ad9134669510dc52886d2cf534e0bf3e54b90"
+    },
+    {
+      "id": "a462",
+      "chars": 1483,
+      "commentary_sha256": "42073d3aa1817eb1efb468ed3500b22d2cb55552c65f6959837d127f569aa43d",
+      "statutory_sha256": "026b41e67db99cf30c617c650fc6ce145a0c93b334d0fa26a7eb797dbed89788"
+    },
+    {
+      "id": "a463",
+      "chars": 1540,
+      "commentary_sha256": "234016b37a931612d7d4caab9d5106a9db2f6ad0d3b635a1954869871d03880b",
+      "statutory_sha256": "f4ff321c0f383e260d24b210913f038e917ab0fa5e9f14598afa0fea698c7493"
+    },
+    {
+      "id": "a464",
+      "chars": 1566,
+      "commentary_sha256": "b7b09a565a5ca05de15393f36f7f1f1558f3140700d6edd3cfc188e5e70140bd",
+      "statutory_sha256": "4bd3997c3e59e63a3d52dcd220d5d1441049848d3a28110b39db5b7e36bfe05f"
+    },
+    {
+      "id": "a465",
+      "chars": 1508,
+      "commentary_sha256": "8a57236e0acc6bd6dd6c010f544235337824f15bc5c8acff03d9505474586e9f",
+      "statutory_sha256": "fa61ac905fac2e4fcaa1bcda0f3ef50549da70556c888553c106c80fa5aa014f"
+    },
+    {
+      "id": "a466",
+      "chars": 1567,
+      "commentary_sha256": "4106ea6c6826410ed95d3f2ce4214410d955bdd0375d1994dc657690a6af3f90",
+      "statutory_sha256": "1e614a917f4da102d0c0986a20b970143c501bdce27384afc978bd008ba003d5"
+    },
+    {
+      "id": "a467",
+      "chars": 1462,
+      "commentary_sha256": "e9913f49e2da187a4e662c0bbcc21b44645259c813cc4c8b6a9a6b02baaf4bcc",
+      "statutory_sha256": "11a36c123f66c2f18d12ed0ef3c86c93d99be55e1c25e6071a58451b25033a01"
+    },
+    {
+      "id": "a468",
+      "chars": 1783,
+      "commentary_sha256": "bae70cfce565cab6257901c049ce750ccb09c10338a5ec44376d5a165d4d3082",
+      "statutory_sha256": "14fe91cc97a1f1b05eb571121e8a1e1eff65fa77b72311645592153306cb42d7"
+    }
+  ],
+  "case_law_sources": [
+    "ECLI:NL:HR:2015:1787",
+    "ECLI:NL:HR:2020:78"
+  ],
+  "limitations": [
+    "Exactly twenty assigned units authored. No whole-book completion or independent review claim.",
+    "Selective case-law research; No verified case selected for the other eighteen assigned units.",
+    "External statutory references are identified but no unverified detailed inventory of duties is supplied. HR 2015:1787 is used for its limited cassation assessment, not as a comprehensive current specialis rule; HR 2020:78 concerns fact-specific visibility and lack of an intent requirement. No verified full judgment available for HR 1997:ZD0669.",
+    "Length and exact-repetition checks do not establish substantive legal quality."
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001854",
+    "units": 812,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1326788,
+    "errors": [
+      "krátký/chybějící komentář u 12 jednotek: ['a468a(0<400)', 'a469(0<120)', 'a470(0<400)', 'a470a(0<120)', 'a471(0<400)', 'a471a(0<400)', 'a472(0<400)', 'a474(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_checks": {
+    "all_twenty_commentaries_present": true,
+    "all_twenty_statutory_texts_preserved": true,
+    "independent_statutory_coverage_complete": true,
+    "statutory_text_agreement": 1.0,
+    "local_links_ok": true,
+    "no_exact_repeated_paragraphs": true
+  },
+  "unresolved_batch_blockers": []
+}
