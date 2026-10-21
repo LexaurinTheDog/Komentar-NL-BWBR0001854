@@ -24,7 +24,7 @@
     "version_evidence": "sources/preflight-version-evidence.json",
     "bounded_review_recheck": "sources/review-batch16-version-evidence.json",
     "bounded_author_recheck": "preflight-author-a378-a395-result.json",
-    "latest_bounded_author_check": "preflight-author-batch38-result.json"
+    "latest_bounded_author_check": "preflight-author-batch39-result.json"
   },
   "total_units": 812,
   "statutory_articles": 810,
@@ -122,11 +122,11 @@
     "ECLI:NL:RBMNE:2024:5045",
     "ECLI:NL:RBROT:2010:BM8116"
   ],
-  "case_law_scope": "Selective primary-source research; latest author batch reads and uses HR 2015:3462 and kantonrechter judgments RBMNE 2024:5729 and RBROT 2024:9612. Cases support articles 430a and 429ter; no exhaustive or appeal-status claim.",
+  "case_law_scope": "Selective primary-source research; latest author batch reads HR 2013:142 for article 441b and GHDHA 2021:1043 with cassation outcome HR 2022:1104 for article 437. No exhaustive coverage; the civil evidence assessment is not a criminal presumption. No full text returned for HR 1997:ZC9561, so no holding attributed.",
   "build_result": {
     "returncode": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 52 jednotkám, např.: ['a435f', 'a436', 'a437', 'a437bis', 'a437ter', 'a437quater', 'a438', 'a439', 'a440', 'a441']\n",
+    "stderr": "CHYBÍ komentář k 32 jednotkám, např.: ['a447a', 'a447b', 'a447c', 'a447d', 'a447e', 'a448', 'a449', 'a450', 'a453', 'a458']\n",
     "scope": "Unchanged complete-book builder; missing out-of-batch commentary remains an expected blocker."
   },
   "validation_result": {
@@ -135,8 +135,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1295445,
     "errors": [
-      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -167,35 +166,35 @@
   "updated_at": "2026-10-21T01:00:48.955108+00:00",
   "preflight": {
     "complete": true,
-    "report": "preflight-author-batch38-result.json",
+    "report": "preflight-author-batch39-result.json",
     "decisive_date": "2026-10-19",
-    "verified_at": "2026-10-21T00:45:33.466769+00:00",
+    "verified_at": "2026-10-21T00:55:40.437765+00:00",
     "full_statutory_units_matched": 812,
     "unresolved_blockers": [],
     "scope": [
-      "a426ter",
-      "a427",
-      "a428",
-      "a429",
-      "a429a",
-      "a429bis",
-      "a429ter",
-      "a429quater",
-      "a429quinquies",
-      "a429sexies",
-      "a430",
-      "a430a",
-      "a430b",
-      "a431",
-      "a435",
-      "a435a",
-      "a435b",
-      "a435c",
-      "a435d",
-      "a435e"
+      "a435f",
+      "a436",
+      "a437",
+      "a437bis",
+      "a437ter",
+      "a437quater",
+      "a438",
+      "a439",
+      "a440",
+      "a441",
+      "a441a",
+      "a441b",
+      "a442",
+      "a442a",
+      "a443",
+      "a444",
+      "a445",
+      "a446",
+      "a446a",
+      "a447"
     ]
   },
-  "validation_checked_at": "2026-10-21T00:51:31.491824+00:00",
+  "validation_checked_at": "2026-10-21T01:01:15.345686+00:00",
   "bounded_review": {
     "complete": true,
     "reviewed_ids": [
@@ -923,8 +922,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 1295445,
     "errors": [
-      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 32 jednotek: ['a447a(0<400)', 'a447b(0<400)', 'a447c(0<400)', 'a447d(0<400)', 'a447e(0<400)', 'a448(0<400)', 'a449(0<400)', 'a450(0<400)']"
     ],
     "warnings": [],
     "ok": false
