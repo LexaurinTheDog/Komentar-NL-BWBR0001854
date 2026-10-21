@@ -1,11 +1,1 @@
-{
-  "repo": "Komentar-NL-BWBR0001854",
-  "units": 812,
-  "verbatim_ratio": 1.0,
-  "commentary_chars": 796948,
-  "errors": [
-    "krátký/chybějící komentář u 312 jednotek: ['a244(0<400)', 'a245(0<400)', 'a246(0<400)', 'a247(0<400)', 'a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a250a(0<400)']"
-  ],
-  "warnings": [],
-  "ok": false
-}
+{"repo": "Komentar-NL-BWBR0001854", "units": 812, "verbatim_ratio": 1.0, "commentary_chars": 1344731, "errors": [], "warnings": [], "ok": true}
