@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:PHR:2024:824",
+    "path": "authorities/author-batch37-ECLI-NL-PHR-2024-824.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:38:50.766699+00:00",
+    "sha256": "00258b52eb8c0e4b94bcab6db3271c7c53a298b920cc97c1b83fe46ae9a710f9",
+    "expected_format_valid": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001854/2025-07-01_0/xml/BWBR0001854_2025-07-01_0.xml",
+    "path": "sources/author-batch37-previous.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:38:51.491721+00:00",
+    "sha256": "31b57dfa7d1ded6f5c8b542f93e9127b2c91f28d473ba6434d0a3eb2c5c13719",
+    "expected_format_valid": true
+  }
+]

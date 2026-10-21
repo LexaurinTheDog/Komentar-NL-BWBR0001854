@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21T00:38:51.538006+00:00",
+  "queries": [
+    "site:rechtspraak.nl ECLI witwassen 2018 2352 herkomst verklaring",
+    "site:rechtspraak.nl opzetheling ten tijde verwerven 2024 Hoge Raad"
+  ],
+  "local_corpus": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-2352.md",
+      "bytes": 17521,
+      "sha256": "49fc5ae4e0240aa467ef1e1ef33b100003aeba5b3ab5a8e44b1a31f9427e7313",
+      "read_full": true
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2024-1468.md",
+      "bytes": 4093,
+      "sha256": "c48b1c49724d60979fee5ca7b16bc50e112bb10672849e9d8e636fc171266836",
+      "read_full": true
+    }
+  ],
+  "official_fetch_log": "sources/author-batch37-case-search.json",
+  "additional_fetch_log": "sources/author-batch37-support-fetch.json",
+  "used": [
+    "ECLI:NL:HR:2018:2352"
+  ],
+  "additional_read": [
+    "ECLI:NL:HR:2024:1468",
+    "ECLI:NL:PHR:2024:824"
+  ],
+  "limits": "Selective research. No separately verified sufficiently relevant judgment adopted for the other assigned technical, repealed and public-order units. No claim of exhaustive search."
+}

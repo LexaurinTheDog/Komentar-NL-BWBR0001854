@@ -326,3 +326,6 @@ Tweede lezing batch 35: alle twintig toegewezen eenheden 378–395 tegen opnieuw
 
 
 Tweede lezing batch36: alle twintig toegewezen eenheden396–415c tegen opnieuw opgehaalde officiële XML gelezen; zes toelichtingen verbeterd. De hulpverleningsplicht in414 is gecontroleerd in de officiële WvK-artikelen358a/785, beide eerste leden. [Exacte IDs en afzonderlijke bevindingen](review-batch36-result.json); [broncontrole](preflight-review-batch36-result.json); [selectief rechtspraakonderzoek](sources/review-batch36-case-search.json). Geen materiële batchblokkade. Het gehele boek blijft onvoltooid; geen externe professionele goedkeuring.
+
+
+Auteursbatch 37: precies twintig officiële artikelplaatsen 416–426bis toegelicht, inclusief de vervallen nummers 422 en 423. [Batchbewijs](author-batch37-result.json), [actuele broncontrole](preflight-author-batch37-result.json), [selectief rechtspraakonderzoek](authorities/author-batch37-search-log.json). Dit is een auteurscheckpoint; een onafhankelijke tweede lezing van deze batch staat nog open. De gehele uitgave blijft onvoltooid.

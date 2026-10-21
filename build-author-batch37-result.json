@@ -1,0 +1,6 @@
+{
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 72 jednotkám, např.: ['a426ter', 'a427', 'a428', 'a429', 'a429a', 'a429bis', 'a429ter', 'a429quater', 'a429quinquies', 'a429sexies']\n",
+  "scope": "Unchanged complete-book builder; missing out-of-batch commentary remains an expected blocker."
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2352",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:34:50.502984+00:00",
+    "sha256": "dea2b35045e8ed0ebc1ffa7060114c77291c9bb80d72c97ec144d47247a23b50",
+    "path": "authorities/author-batch37-ECLI-NL-HR-2018-2352.xml",
+    "valid_full_judgment": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:1468",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T00:34:50.633868+00:00",
+    "sha256": "fbf05491e329add1ca2189b866b05bbf10b0d1b86dfe65230bd7057ee2e09fb5",
+    "path": "authorities/author-batch37-ECLI-NL-HR-2024-1468.xml",
+    "valid_full_judgment": true
+  }
+]

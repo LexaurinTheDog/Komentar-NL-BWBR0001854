@@ -1,0 +1,9 @@
+# HR 22 oktober 2024 — ECLI:NL:HR:2024:1468
+
+Hoge Raad, strafkamer; zaak 22/04189. [Officieel arrest](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2024:1468), [arrestsnapshot](author-batch37-ECLI-NL-HR-2024-1468.xml), [leesbestand](author-batch37-ECLI-NL-HR-2024-1468.txt). De Hoge Raad verwerpt in r.o. 2.2 en beslissing 3 het cassatieberoep tegen medeplegen van opzetheling en verwijst voor de redenen naar de conclusie.
+
+Daarom is ook de volledige [conclusie van A-G Hofstee van 27 augustus 2024, ECLI:NL:PHR:2024:824](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:PHR:2024:824) gelezen: [snapshot](author-batch37-ECLI-NL-PHR-2024-824.xml), [leesbestand](author-batch37-ECLI-NL-PHR-2024-824.txt). Ophalen en hashes: [arrestlog](../sources/author-batch37-case-search.json), [aanvullend log](../sources/author-batch37-support-fetch.json).
+
+Ondersteunt artikel 416. De conclusie onderscheidt in punten 9–12 de wetenschap bij verkrijging en in punten 13–16 het medeplegen. Het ging om het tegen beloning gezamenlijk ophalen van een gestolen Audi, met een taakverdeling, heimelijke overdracht en relevante telefonische instructies. De verdediging betwistte wetenschap en substantiële samenwerking; de A-G achtte die klachten niet gegrond op basis van het geheel van de vastgestelde omstandigheden. De Hoge Raad verwijst naar die redenen, maar formuleert zelf geen uitvoerige nieuwe bewijsregel.
+
+Grenzen: niet iedere betaalde autorit of aanwezigheid naast een heler bewijst opzet of medeplegen. Het ontbrekende aannemelijke alternatief was slechts een onderdeel van het geheel. De conclusie blijft als conclusie herkenbaar en de geciteerde verdedigingsstellingen zijn niet als vaststaande feiten overgenomen. De actuele tekst van artikel 416 is vergeleken met de officiële vorige toestand en is ongewijzigd; dit voorbeeld wordt niet gebruikt voor een wijziging van strafmaxima of de andere witwasdelicten. Geen uitputtende rechtspraakaudit.
