@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHARL:2025:601",
+    "path": "sources/review-batch33-judgment-2025-601.xml",
+    "accessed_at": "2026-10-21T00:11:46.623493+00:00",
+    "http_status": 200,
+    "content_type": "application/xml",
+    "sha256": "004ba0c7f42453d3f6f06af16da11cf27afdb7dbaf890bae8dce18fc873eefb5",
+    "expected_format_valid": true
+  }
+]
